@@ -1,0 +1,173 @@
+{
+  "name": "SocLeads 3.0",
+  "description": "Scrape emails from socials and maps by location",
+  "ph_url": "https://www.producthunt.com/products/socleads?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ALZHOD7ZH2TWYV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-18T07:01:00Z",
+  "upvotes": 531,
+  "comments": 88,
+  "topics": [
+    "Email",
+    "Social Media",
+    "Marketing"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt! 👋\n\nI'm Evgenii, founder of SocLeads. We built this because I spent way too many hours copy-pasting contacts from Instagram and Google Maps into spreadsheets and I knew there had to be a better way.\n\nThis is our 3rd launch here, and this time we're back with the three most requested upgrades from our users:\n\n- Full country/region search on Google Maps. No more city-by-city grinding.\n- Geo scraping for social platforms.\n- More results per search. The same query now surfaces significantly more contacts.\n\nWho we built this for:\n- Sales teams prospecting local businesses\n- Marketers running geo-targeted campaigns\n- Recruiters sourcing by location\n- Agency owners scaling outreach for clients\n\nWhat makes SocLeads different from other scrapers:\n- Built-in email verification keeps bounce rate under 3%\n- No plugins, no code, no browser cache required\n- Works across Instagram, Facebook, LinkedIn, Twitter, YouTube and Google Maps\n- Export to CSV/XLS in one click\n\nWe've been quietly building based on real feedback from our 1,500+ followers here on PH. Every feature in this launch came directly from user requests.\n\nI'm online all day. Drop a question in the comments.",
+      "votesCount": 24,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Keeping bounce rates under 3% is probably the most part here .Deliverability is everything in cold outreach.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I’m wondering if this works  well for niche industries too. I’d love to test it for local real estate and marketing businesses in smaller regions.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "SocLeads now scrapes emails from Instagram, Facebook, LinkedIn, YouTube, and Google Maps across entire countries 🌍📧 Geo-filters. More results. No code needed. 🚀",
+  "featured_at": "2026-05-18T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/9443342b-bf19-49c4-8423-5e1db1415f15.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8e4cbc68-3bbb-4306-b50b-7fa2c8bc2c22.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/eb1a9c77-d67a-4517-972d-92d1fccb7249.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/de489dd8-6eb4-4233-b118-7a96b644901b.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bbd68e09-06e2-4344-b365-659dde3397ae.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e6c57383-186e-4a9a-877e-cd6f722d6099.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:25",
+  "landing_meta": "Email scraper — Email scraping tool — ➤ SocLeads: best email scraper online. ⭐️ Scrape emails from Google Maps, IG, FB, Linkedin, Twitter and YouTube by keywords and followers. ✔️ Get SMM leads!",
+  "landing_text": "Email scraper — Email scraping tool Features Facebook Email Scraper Instagram Email Scraper Linkedin Email Scraper YouTube Email Scraper Twitter Email Scraper Google Maps Scraper TikTok Email Scraper Email Validator Use Cases Business Owners Markeitng Agencies Real Estate Recruiters Growth Marketers Pricing Resources YouTube Channel Twitter Medium Telegram Channel Indie Hackers Updates Blog Tools Free trial Login PRODUCT HUNT #1 Product of the Day #1 PRODUCT OF THE MONTH Marketing Email Scraper from maps and social media Scrape Thousands of Prospects from Instagram, Facebook, Twitter, LinkedIn and Google Maps Start Free Trial No credit card required! Privacy Policy , Terms of Service Trusted by Discover and close your next customer with Email Scraper Tool before your competitors do Cold email outreach to millions of small and medium businesses Lookalike audience targeting from Google Ads or Facebook Promoting the product find relevant influencers Gain Exclusive Access to Unique Social Media Leads Google Maps Scraper Facebook Email Scraper Instagram Email Scraper Youtube Email Scraper Twitter Email Scraper LinkedIn Email Scraper TikTok Email Scraper Advantages of online email scraper Bounce Rate Under 3% Protect Your Emails From Being Blocked Achieve Higher Response Rates No code, no plugins, no cache needed Pricing Monthly Yearly Save 20% Free Trial $0 / month 100 contacts / month ✔️$0 per email ✔️All scraping features ✔️Basic Support ✖️Email Validation ✖️Exclude duplication Get started Pro $59 / month 10,000 contacts / month ✔️From $0,0059 per email ✔️All scraping features ✔️Premium support ✔️Email Validation ✖️Exclude duplication Get started Business $149 / month 100,000 contacts / month ✔️From $0,00149 per email ✔️All scraping features ✔️Premium support ✔️Email Validation ✔️Exclude duplication Get started More Plans Free Trial $0 / month 100 contacts / month ✔️$0 per email ✔️All scraping features ✔️Premium support ✔️Email Validation ✖️Exclude duplication Get starte",
+  "pricing_signals": [
+    "free trial",
+    "pricing",
+    "premium",
+    "$0 / mo",
+    "$0",
+    "$59 / mo",
+    "$47 / mo",
+    "$149 / mo",
+    "$119 / mo"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:26",
+  "description_ja": "Instagram・Google Mapsなどのソーシャル/マップから地域指定でメールアドレスを抽出する営業リスト作成ツール",
+  "summary_ja": "Instagram、Facebook、LinkedIn、YouTube、Google Mapsから国・地域単位でビジネス連絡先（メール）をスクレイピングし、メール検証機能で配信エラー率3%未満を実現するノーコード型リード獲得SaaS。CSV/XLSで一括エクスポートできる。",
+  "review_guide_ja": {
+    "what": "InstagramやFacebook、LinkedIn、YouTube、Twitter、TikTok、Google Mapsを横断してビジネスメールアドレスや連絡先を地域・キーワード・フォロワー条件で抽出するクラウド型スクレイパー。新バージョンではGoogle Mapsの国・地域単位検索、SNSのジオフィルタ、1クエリあたりの取得件数増加に対応。組み込みのメールバリデータでバウンス率3%未満を謳い、CSV/XLSへワンクリック書き出し。典型ユースケースはローカルビジネスへのコールドアウトリーチ、地域ターゲット型キャンペーンのリスト作成、リクルーターのソーシング、エージェンシーによるクライアント代行アウトリーチ。料金は$0(100件)/$59(1万件)/$149(10万件)。",
+    "for_who": "海外SMB向けにコールドメールでアウトバウンド営業する個人セールス、グロースマーケター、リクルーター、デジタルマーケ代理店、地域密着のEC/不動産事業者。日本国内では、海外向けにアウトリーチするスタートアップやインフルエンサーマーケ代理店が主な対象になる。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "Webスクレイピングとメール検証の組合せで、ApifyやPlaywright+SMTPプローブで実装可能。SNS各社のアンチボット対策と認証回避が継続的な保守コストになる。1〜3ヶ月でPoCは可能。"
+    },
+    "signals": [
+      "Product Hunt 3回目のローンチで531 upvote/88コメント、PHフォロワー1,500人超とコミュニティ牽引力がある",
+      "国・地域単位のジオスクレイピングはユーザー要望No.1で需要が顕在化",
+      "$59〜$149のSMB向け価格帯で課金障壁が低い",
+      "メール検証内蔵でバウンス率3%未満をうたい、コールドメール文脈で差別化",
+      "Google Maps/Instagram/LinkedIn等を1ツールで横断する統合体験"
+    ],
+    "concerns": [
+      "各プラットフォーム規約(LinkedIn・Meta・Google)違反リスクが高く、アカウントBANや訴訟事例あり",
+      "日本では個人情報保護法/特定電子メール法によりオプトインなしの一斉送信が制限される",
+      "SNS各社のアンチスクレイピング強化で取得品質が不安定になりやすい",
+      "競合(Apollo.io, Hunter, Phantombuster, Octoparse, Urizo)が多くコモディティ化",
+      "B2B日本市場ではメールよりフォーム営業が主流で、ユースケースが薄い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "国内でも『営業リスト作成ツール』『Googleマップ スクレイピング』への検索需要は存在しUrizo導入7万社など市場は確認できるが、SNSメール抽出に特化した需要は限定的。コールドメール文化が弱くフォーム営業が主流で、需要は中程度。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Urizo、Musubu、APOLLO SALES、ココリスト、Octoparse日本版など国内向けプレイヤーが多数存在し、営業リスト×自動化の領域は飽和気味。SNS横断という切り口は薄いが、PhantombusterやApolloなど海外勢も流入しており競争は厳しい。"
+      },
+      "regulation": {
+        "score": 3,
+        "reason": "個人情報保護法上、本人同意なくSNSから個人情報を取得し営業利用・第三者提供することは違法リスクが高い。特定電子メール法はBtoB公開アドレスへの広告メールは例外だが、SNSのDMやBtoCには厳格なオプトイン規制。違反時は最大1年以下の懲役/3000万円以下の罰金。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UIは多言語化で対応可能だが、Googleマップ等の日本語地名/業種カテゴリの正規化、日本固有のSNS利用比率(LINE/Xが強くLinkedInが弱い)に合わせた取得対象の最適化が必要。技術的調整は中程度。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本のB2B営業では問い合わせフォーム送信(APOLLO SALES型)が主流で、見ず知らずからの直接メール送信は心象が悪く返信率も低い。コールドメール文化が根付いておらず商習慣との相性は悪い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Urizo (ウリゾウ)",
+        "url": "https://urizo.jp/",
+        "note": "ぐるなび・楽天トラベル等から企業情報を自動収集する営業リスト作成ツール。導入7万社、1件0.88円〜。Google Mapsスクレイピング機能も提供。"
+      },
+      {
+        "name": "Musubu",
+        "url": "https://musubu.in/",
+        "note": "Baseconnect社の企業データベース型営業リスト作成SaaS。140万社以上の企業情報を絞り込み検索でき、月50件無料DLのフリープランあり。"
+      },
+      {
+        "name": "APOLLO SALES",
+        "url": "https://apollosales.co/",
+        "note": "企業お問い合わせフォーム自動送信型の営業ツール。リスト作成+フォーム営業を一体化。日本のB2B商習慣に最適化されており、SocLeadsの直接代替に近い位置。"
+      },
+      {
+        "name": "Octoparse 日本版",
+        "url": "https://www.octoparse.jp/",
+        "note": "ノーコードWebスクレイパー。Google Maps/SNSのデータ取得テンプレートを提供。汎用型でSocLeadsより安価に同等機能を実現可能。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "SNSから氏名・メールアドレスを本人同意なく取得し営業利用・販売することは個人情報の不適切取得および第三者提供にあたり違法リスク。法人代表者個人のメールは個人情報に該当する可能性が高く、利用目的の明示・本人同意が原則必要。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "原則オプトイン必須で、事前同意なき広告宣伝メール送信は禁止。違反時最大1年以下の懲役または100万円以下の罰金、法人は3000万円以下の罰金。ウェブで公開された法人アドレスへのB2B営業メールは例外だが、SNSプロフィール上のメールが該当するか判断は曖昧。"
+      },
+      {
+        "law": "不正競争防止法",
+        "impact": "SNS各社の利用規約に反した自動取得は『限定提供データの不正取得』とみなされる可能性があり、Meta/LinkedInからの差止請求事例も国際的に存在。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "公開情報のスクレイピングは原則合法だがデータベース著作物への侵害となるケースがある。営利目的の大量収集はリスクが上がる。"
+      }
+    ],
+    "opportunity": "純粋なSocLeadsクローンは規制と商習慣のミスマッチで難しいが、(1)Google Maps/食べログ/iタウンページから法人公開アドレスのみを抽出しオプトイン例外に収まるB2Bリスト生成、(2)抽出後にAPOLLO SALES型のフォーム送信を自動化するハイブリッド、(3)Instagram/X上の店舗オーナー向けにDM下書きをAI生成するインフルエンサー向けアウトリーチ補助、(4)取得時に景表法/特商法/特定電子メール法のリスクチェックを自動で行う『コンプライアントなリード生成』としての差別化、の4方向が日本市場でのアングル。",
+    "rationale": "プロダクト自体はPHで3度目のローンチを成功させ、SMB市場でのトラクションは明確。しかし日本ではUrizo・Musubu・APOLLO SALES等が同等以上の機能を提供し競合飽和。さらに個人情報保護法と特定電子メール法のダブル規制でSNS横断のメール抽出+コールドメール送信というコアバリューが法的に成立しにくい。商習慣面でもコールドメール文化が薄くフォーム営業が主流で、SocLeadsのUVPは目減りする。total score=round(5×0.30+4×0.25+3×0.20+6×0.15+3×0.10)=round(1.5+1.0+0.6+0.9+0.3)=round(4.3)=4でskip判定。日本ではコピーではなく、法人公開情報に絞った合法的なリード生成+フォーム営業統合の方向で再設計すべき。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00",
+  "review_guide_at": "2026-05-23T19:30:00"
+}

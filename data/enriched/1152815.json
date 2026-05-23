@@ -1,0 +1,164 @@
+{
+  "name": "WordPress 7.0",
+  "description": "Introducing AI tools, new admin experience & design controls",
+  "ph_url": "https://www.producthunt.com/products/wordpress-7-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/DR7XDHFH7F2IGM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-22T07:01:00Z",
+  "upvotes": 212,
+  "comments": 5,
+  "topics": [
+    "WordPress"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "WordPress 7.0 “Armstrong” is here. 🎷\n\nThis major release introduces foundational AI tools, a refreshed admin experience, expanded design controls, new blocks, and powerful developer APIs.\n\nExplore what’s new, update when you’re ready, and start building with WordPress 7.0 today.",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>WordPress 7.0 is moving in the right direction. On behalf of the Tutor LMS &amp; <a href=\"https://www.producthunt.com/products/kirki\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"kirki\" target=\"_blank\" rel=\"noopener\">@Kirki</a> team, I’d like to wish continued success to WordPress and its future. Long live open source.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Big release! I pushed it across my sites and everything held up quite well, no issues. The high contrast pass is a real win for accessibility, I love it. The AI is the most interesting part. IMO, it is less about what shipped today and more about what plugin developers, hosts, and agencies will build on top of it. Congrats to the core team and everyone involved in the release - developers, testers, leads, docs, polyglots... I will miss someone but not intentional!</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "WordPress 7.0 marks the start of a new era, laying the foundation for AI across the WordPress experience. Greeting you with a modern, more intuitive dashboard, 7.0 introduces enhanced customization and development tools that inspire creativity and tap into endless potential. Whether you’re a creator, business owner or developer – WordPress 7.0 let’s you create in a way that is uniquely your own.",
+  "featured_at": "2026-05-22T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/834157b6-01ba-4baa-9997-d039fee7d26b.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/09ecc849-fb89-452f-b327-2e9da17a19dc.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3910425e-3252-457f-a4ed-ce4d53079d9b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1870f1bf-8a47-4a8d-a91b-508c3de078ea.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/57c94e55-8afe-400d-bb54-ede413209da4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e7f99c84-2481-4cb8-885d-d80dec958964.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/303d0bd3-d6d9-491f-b2b0-ca919ebab6c0.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:44",
+  "landing_meta": "WordPress 7.0 – WordPress.org — Build the navigation you’ve always wanted. Drop in a pattern, adjust it like a single block. Show the right content to the right screen. Connect the AI tools you already use. WordPress 7.0 hands you more of the controls, and trusts you to use them. Early access: real-time collaboration Work together, directly in the editor.If […]",
+  "landing_text": "WordPress 7.0 – WordPress.org Skip to content Build the navigation you've always wanted. Drop in a pattern, adjust it like a single block. Show the right content to the right screen. Connect the AI tools you already use. WordPress 7.0 hands you more of the controls, and trusts you to use them. Get WordPress 7.0 Design your navigation overlay A dedicated canvas for your menu. Build the navigation overlay you want visitors to see. Go beyond a simple list of links: add columns, increase the font size, and align everything to your liking. Start from a pre-built template, or design your own from scratch. AI foundations A centralized hub for your connections. The Connectors screen introduces a single hub for managing a range of external service integrations, including AI providers. Opt in by connecting your preferred AI provider, then put it to work across your site. The optional AI plugin adds a growing set of tools directly into the editor: create titles and excerpts, generate and edit images, and suggest alt text. Any plugin that needs to connect to an outside service can tap into this standardized connection management system, making it easy for users and developers alike. Visual revisions Scrub through every version of your page. Review your post’s revision history with a timeline slider and see exactly what changed in the document with visual markers, block by block. Find the version you want and restore it in one click. A simpler way to build with patterns Patterns as single blocks. Drop a pattern onto your page and it behaves like one block, so you don’t have to hunt through nested blocks for the element you want to change. Swap the text and images, adjust styles from the inspector, and keep moving. For any advanced edits, a single click to “edit pattern” gives you access to all available tools. Performance WordPress 7.0 improves the accuracy of image loading prioritization, preventing hidden images in navigation overlays or interactive blocks from degrading the l",
+  "pricing_signals": [
+    "open source"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:45",
+  "description_ja": "AIツール・刷新管理画面・拡張デザイン制御を備えたWordPress大型刷新版",
+  "summary_ja": "WordPress 7.0「Armstrong」はAI Connectorsで外部AIプロバイダ接続を標準化し、新ダッシュボード、ナビゲーション専用キャンバス、ビジュアルリビジョン、パターンの単一ブロック化など編集体験を刷新したメジャーリリース。",
+  "review_guide_ja": {
+    "what": "WordPress 7.0「Armstrong」は、世界Webサイトの約42%、日本国内CMSシェア約83%を占めるオープンソースCMSのメジャーアップデート。新設の「Connectors」画面でOpenAI/Gemini/Claudeなど外部AIプロバイダを一元接続でき、別途「AI Experiments」プラグインで投稿エディタ上にタイトル・抜粋・画像生成・代替テキスト提案などを統合する。さらにナビゲーション専用キャンバス、タイムラインスライダー付きビジュアルリビジョン、パターンを単一ブロックとして扱うUX、画像ロード優先度の改善、ハイコントラスト対応、リアルタイム共同編集の早期アクセスなどを含み、プラグイン開発者/ホスティング/制作会社が上に積み上げる拡張余地を提供する。",
+    "for_who": "個人ブロガー、中小企業のオウンドメディア担当、WordPress制作・運用エージェンシー、テーマ/プラグイン開発者、レンタルサーバー事業者。特にAI連携を自社サイトで内製したい運用担当と、Connectors APIを前提とした商用プラグインを企画するベンダーに有用。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "WordPressコアそのものを複製することは事実上不可能。ただし上に乗るAI機能拡張プラグインや日本語特化テーマ、運用代行サービスとしてなら中規模労力で再現可能。"
+    },
+    "signals": [
+      "国内CMSシェア約83%という巨大インストールベース",
+      "AI Connectorsで主要LLMを標準APIから呼べる新基盤",
+      "エックスサーバー/ConoHa WINGなどホスティング側が一斉対応する流通力",
+      "Product Hunt上で初日212 upvotesと開発者注目度が高い",
+      "プラグイン/エージェンシー経済圏が大きく派生ビジネスを構築しやすい"
+    ],
+    "concerns": [
+      "AI機能は実験的でデフォルト日本語のニュアンスに弱い",
+      "AI利用時のAPI課金管理・著作権・個人情報保護法対応の責任は運用者側",
+      "WordPress本体は無料OSSでマネタイズはエコシステム側に依存",
+      "メジャーアップデートはプラグイン互換性問題を起こしやすい",
+      "国産CMS（HeartCore/PowerCMS/a-blog cms等）が大企業案件で根強い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 9,
+        "reason": "日本国内のCMSシェアは複数調査でWordPressが約83%、CMS全体ランキングでも59.9%で首位。エックスサーバー/ConoHa WINGなど主要レンタルサーバーがWordPress簡単インストールを前面に出しており、個人〜中小企業の需要は極めて厚い。AI連携機能も国内メディアで多数解説が出ており関心は高い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "WordPress本体に対する直接競合は不在に近く、OSSで世界標準。国産CMSのHeartCore（791社以上導入）、PowerCMS、a-blog cms、Movable Typeは大企業/公的機関向けで一定シェアを持つが、価格帯と用途が異なる。プラグイン/制作会社レイヤーは過密で参入障壁は高い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "WordPressコア自体は規制対象ではない。ただしAI Connectors経由で個人情報をLLMに送る場合、2026年改正の個人情報保護法（AI学習目的の同意要件緩和あり）、著作権法（AI生成物の著作権・学習データ）、特定電子メール法（問い合わせフォーム運用）等を運用者が遵守する必要がある。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "WordPressコアは長年日本語ローカライズが充実しja.wordpress.org経由でBeta段階から日本語版が提供される。一方AI Experimentsプラグインは現状英語応答中心で、敬語・揺らぎなど日本語特有のニュアンスは弱いとレビューされており、日本語特化の追加レイヤーが必要。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "日本では制作会社経由でWordPress導入する商習慣が強く、保守契約・月額運用代行が一般的。請求書払い・電話サポート期待・印鑑文化など独自要件はホスティング側が吸収しており、WordPress自体はOSSなのでBtoB商習慣との摩擦は小さい。AI機能の社内稟議には説明資料が必要。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "HeartCore",
+        "url": "https://www.heartcore.co.jp/",
+        "note": "国産パッケージ型CMS。2025年4月時点で国内791社以上の導入実績、JAL/西武鉄道/三菱UFJモルガン・スタンレー証券など大企業向け案件で根強い。"
+      },
+      {
+        "name": "PowerCMS",
+        "url": "https://www.powercms.jp/",
+        "note": "アルファサード社の国産CMS。静的パブリッシングとセキュリティ分離アーキテクチャに強く、公的機関含め国内3,000サイト超で導入される。"
+      },
+      {
+        "name": "a-blog cms",
+        "url": "https://www.a-blogcms.jp/",
+        "note": "アップルップル社の国産インストール型CMS。既存HTMLを活かせる長期運用志向で、有償CMS国内シェア上位として知られる。"
+      },
+      {
+        "name": "Movable Type",
+        "url": "https://www.sixapart.jp/movabletype/",
+        "note": "シックス・アパート社のブログ起源CMS。企業サイトに広く導入され、有償CMSとしての国内シェア上位。WordPressの最大の歴史的競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "2026年4月閣議決定の改正案でAI学習目的の同意要件緩和方向だが、AI Connectors経由でフォーム入力等の個人情報を外部LLMへ送る運用は、本人通知/利用目的明示/第三者提供記録などコア義務が引き続き必要。サイト運営者責任で実装する必要がある。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "AI Experimentsで生成した画像/文章は、学習データ由来の依拠性が問われ得る。文化庁「AIと著作権」見解に従い、既存著作物に類似した出力の利用には注意が必要。第三者素材をAIで改変する用途では権利処理を運用者が担う。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "WordPressのコンタクトフォーム/メルマガ機能で広告メールを送る場合、事前同意取得・送信者表示・オプトアウト導線の実装義務がある。コア機能では完結せずプラグイン選定と運用設計に依存する。"
+      }
+    ],
+    "opportunity": "WordPress 7.0自体を作るのではなく、その上のレイヤーで日本特化の収益機会がある。具体的には、(1) AI Connectorsを前提に日本語の敬語・SEOキーワード・薬機法/景表法チェックを組み込んだ商用プラグイン、(2) 国内レンタルサーバー連携前提のAI初期設定代行・運用保守SaaS、(3) 既存中堅サイトの6.x→7.0移行とAI機能内製化コンサル、(4) AI生成物の著作権/個人情報ログ監査ツール。Connectorsが標準化されたことで「AI設定済みWordPress」をパッケージ化する機運が生まれており、ホスティング各社との提携余地も大きい。",
+    "rationale": "需要は国内CMSシェア約83%という圧倒的なインストールベースに支えられ最強クラス(9)だが、WordPress本体はOSSのため新規SaaSとしての差別化余地は薄く、競合軸はプラグイン/エージェンシー/ホスティングの周辺レイヤーに移る(3)。規制はコア自体に直接的な阻害はないがAI連携で個人情報保護法・著作権法の運用責任が増す(6)。ローカライズはコアの日本語化が成熟する一方、AI機能の日本語応答品質はまだ実験的(7)。商習慣面は制作会社経由文化に適合し摩擦は小さい(6)。総合スコアは9×0.30+3×0.25+6×0.20+7×0.15+6×0.10=6.3で四捨五入6、watch判定。WordPress 7.0そのものを再現するのは無意味だが、AI Connectors標準化を契機に日本語特化プラグイン/AI設定済みパッケージ/移行コンサルなど周辺事業に挑む価値は高い。",
+    "japan_fit_at": "2026-05-23T19:30:00Z"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z"
+}

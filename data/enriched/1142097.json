@@ -1,0 +1,182 @@
+{
+  "name": "Shadow",
+  "description": "The interface AI needs. One that sees, hears, and runs.",
+  "ph_url": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/RTMG35ETHSLUIL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-18T07:01:00Z",
+  "upvotes": 217,
+  "comments": 14,
+  "topics": [
+    "Productivity",
+    "Writing",
+    "Meetings"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋\nJay here, founder of Shadow.\n\nThis is our 4th time launching here, and the most meaningful one for me. Each launch shaped what Shadow became. The community here pushed us, called out what didn't work, and stuck with us. I'm a different founder than I was at launch one, and Shadow is a different product. Thank you all 🙏 \n\nHere's something most people don't know about us. We never set out to build a meeting assistant. \n\n👉 What we cared about from day one was closing the gap between your world and AI. \n\nMeetings were just where we started. The most obvious place where context gets lost the fastest, and the most urgent thing to solve. So we did that first.\n\nBut meetings were never the whole point. So here's what we've been thinking about.\n\n⌨️ The keyboard and 🖱️ mouse.\nThey have been around for decades. They were built for a world where you do the executing. You type every word, click every button, do every step. But that world is changing. AI writes, codes, replies, decides. Execution is no longer just yours to carry.\n\nAnd yet, every time you want AI to help, you stop what you're doing, open a chat box, and start copying, pasting, prompting. You become the bridge between your world and AI.\n\n A new way of working, but the same old interface.\n\n✨ Shadow V2 is what we always wanted to build.\nAn interface built not for execution, but for thought. One that captures what you see, hear, and say, and runs the prompts you build.\n\nThe biggest addition is ⚡️Action Skills. Press a keyboard shortcut on any screen, say what you want, and Shadow runs your Skill right there. No copy, no paste, no prompt. A few examples:\n\n - ⚡ Quick Reply reads the email on your screen and drafts the response from what you say.\n - 🎙️ Voice Typing turns talking into clean writing in any text field, about 4x faster than typing.\n\nEvery Skill is yours to edit. A prompt, what Shadow watches, where the output goes. Change any of them and you have a new Skill.\n\n📝 Meetings got better too. We rebuilt the transcription engine from the ground up, faster and more stable than before. Speaker labeling is significantly improved, which was one of your most requested fixes. No bot ever joins your call, audio stays on your Mac, and your meeting becomes whatever Skill you point at it.\n\nA few things we cared a lot about:\n- 🚫 No bot ever joins your call. \n- 🤖 Fully autonomous, runs without you even knowing.\n- 🔒 Audio stays on your Mac, local transcription\n- 🔗 Webhook and Markdown export for everything\n\nIf you've used Shadow before, thank you for sticking around 🙏 V2 is what V1 was always pointing toward.\n\nIf you're new, welcome 👋 Would love to hear what Skills you'd build first.\nJay",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt! 👋 We worked really hard on this one. Hope you enjoy it! If Shadow makes even one part of your day a little easier, that means a lot to us. Would love to hear what you think! Your feedback genuinely shapes what we build next. 🙏</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Quite amazing. What models are included? BYOK?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Shadow is the AI interface for your Mac. It sees your screen, hears your voice, and runs the prompts you build — on a keyboard shortcut, or in your meetings. 🪄 Skills do the work. Quick Reply drafts emails from what you say and what’s on screen. Voice Typing turns talking into clean text, anywhere. Meeting Skills capture every word and screen, then deliver notes and follow-ups the moment you hang up. Build your own — every Skill is a prompt, a context, and an output.",
+  "featured_at": "2026-05-18T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/ff3ba4af-52e1-41a3-9893-5f68be95f072.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/47895ce0-cf22-45a5-9e03-f41891617847.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4512bdea-7e02-4882-bcc0-51d9d377b79c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/761d7a28-9b13-4f49-8a33-def1969914ed.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/de217d65-a236-4cc7-9b49-2a9f99ca7da3.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:56",
+  "landing_meta": "Shadow — AI for meetings, voice typing, replies, and more — Shadow runs in your meetings and on a keyboard shortcut anywhere else. Captures what you see and say, then runs your Skills — meeting notes, voice typing, replies, and more.",
+  "landing_text": "Shadow — AI for meetings, voice typing, replies, and more Try For Free The interface AI needs. One that sees, hears, and runs. The keyboard and mouse were built for action. That's AI's job now. Shadow is built for thought — it sees your screen, hears your voice, and runs the rest. From meeting notes to voice typing , quick replies , and more. Download for Mac Thousands of professionals already trust Shadow How it works Shadow captures what you say, hear, and see — then runs your own prompts. Meetings Shadow auto-starts and ends with your call, transcribes every word, and detects meeting screens to capture screenshots — so nothing slips by. Actions Press a keyboard shortcut to capture what you're saying, seeing, or reading — Shadow turns it into an email, notes, code, or whatever you need. Meetings Runs while you're in the call. Shadow joins nothing, hears everything, sees everything. Your call becomes whatever you need — meeting notes, a BANT breakdown, a follow-up email. Pick a Skill, or write your own. Shadow runs it the moment the call ends. No Bots Shadow operates entirely in the background — no bots, no interruptions. Autopilot Mode Shadow automatically detects meetings, records discussions, and structures key takeaways — so you never have to press start. Works with Speaker Identification Detects and labels speakers in real time — so you always know who said what. Meeting Skills Every Skill is a prompt — yours to edit, or write from scratch. Run meeting notes, BANT breakdowns, action items, follow-up emails, customer feedback summaries — or anything else you can describe in a prompt. Webhook Send transcripts and Skill results to your tools — Zapier, n8n, Make. Markdown Save transcripts and Skill outputs as clean .md files. Ask Ask anything about a meeting — not just what was said, but what was shown. Smart Screenshot Shadow finds your meeting window — Zoom, Huddle, anything — and captures it on its own. Actions Your shortcut to everything else. Press a keyboard",
+  "pricing_signals": [
+    "pricing",
+    "$5",
+    "$16"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:57",
+  "description_ja": "AIが必要とするインターフェース。画面を見て、音声を聞き、Skillを実行するMac常駐アシスタント。",
+  "summary_ja": "Mac画面と音声をローカルで取り込み、ユーザー定義のプロンプト(Skill)をキーボードショートカットや会議中に実行するAIランチャー。議事録、メール下書き、音声入力などをボット不要・ローカル処理で提供する。",
+  "review_guide_ja": {
+    "what": "Shadow V2はMac常駐型のAIインターフェース。画面キャプチャ・マイク・システム音声を常時監視し、ユーザーが定義した『Skill』(プロンプト+入力ソース+出力先のセット)をキーボードショートカットで即時実行する。代表的Skillは(1)Quick Reply: 画面上のメールを読み取り音声から返信下書き生成、(2)Voice Typing: 任意テキストフィールドへの高速音声入力、(3)Meeting Skills: Zoom/Huddleなどを自動検知し会議終了と同時に議事録/BANT/アクションアイテム/フォロー邮件を生成。ボットが会議に参加せずローカル文字起こし、Webhook(Zapier/n8n/Make)とMarkdownエクスポートに対応。料金は$5/$16の2層。",
+    "for_who": "Mac中心のナレッジワーカー(営業・PM・コンサル・エンジニア)、個人開発者、英語圏のスタートアップ。プロンプトを自分でカスタマイズしたいパワーユーザー、会議が多くボット参加に抵抗があるセキュリティ意識の高い層。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "Whisper等のローカルSTT、画面キャプチャAPI、ホットキー、LLM API呼び出しの組合せで構成可能。ただし話者分離・常時バックグラウンド動作・Skillエンジンの安定化に2〜3ヶ月。"
+    },
+    "signals": [
+      "Product Hunt 4回目のローンチで上位、217 upvotes",
+      "ボット不参加+ローカル音声処理というセキュリティ訴求",
+      "$5の低価格エントリーで個人ユーザー獲得しやすい",
+      "プロンプト=Skillとしてユーザーが拡張できるプラットフォーム化",
+      "音声入力(Voice Typing)はWisprFlow等で需要が証明済み"
+    ],
+    "concerns": [
+      "Mac限定でWindows/Linux市場を取り逃す",
+      "Granola/Cluely/WisprFlow/Krisp等の競合が密集",
+      "常時画面・音声監視のためプライバシー懸念",
+      "ローカル処理を謳うがLLM側にプロンプトが送られる範囲が不透明",
+      "Skillという抽象化が一般ユーザーに難解な可能性"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "AI議事録/文字起こし市場は2025-2026年に日本でも急成長。Notta、スマート書記、Rimo Voice、toruno、AI議事録取れる君など多数のSaaSが月額1,000〜30,000円帯で立ち上がり、企業導入が進む。音声入力(Voice Typing)も生産性需要が顕在化。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "AI議事録領域は国内競合が15社以上ひしめく飽和市場。AmiVoice ScribeAssist(国産音声認識トップシェア)、Notta、Rimo Voice、スマート書記、toruno、PLAUD等が成熟しMicrosoft/Google純正AIも標準搭載。Shadow独自のSkill/画面認識軸は新しいが訴求難。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "音声データは個人情報保護法の対象で安全管理措置義務あり。Shadowはローカル文字起こし+音声はMacに留まる設計のため越境移転リスクは低めだが、LLM呼び出し時のプロンプト送信先(海外クラウド)は越境移転の説明責任が発生。実装上のハードルは中程度。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "UIは英語ベースだがプロンプト=Skillの仕組みのため日本語化はプロンプト書換とSTTモデル切替で対応可能。ローカル文字起こしエンジン(Whisper等)が日本語対応していれば移行は比較的容易。話者分離の日本語精度が課題。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "ボット不参加・ローカル処理は日本企業のセキュリティ要件に好適。一方、稟議文化や日本語特有の敬語/曖昧表現の議事録要約、Slack/Chatwork/Teamsへの出力連携、請求書日本円対応など細部の調整が必要。BYOK/SSO等エンタープライズ機能も要求される。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Notta",
+        "url": "https://www.notta.ai/ja",
+        "note": "日本語認識精度98.86%を謳うAI議事録/文字起こしSaaS。カスタム単語登録、Zoom/Teams連携、要約まで一気通貫。個人/法人とも国内シェア上位。"
+      },
+      {
+        "name": "スマート書記",
+        "url": "https://www.smartshoki.com/",
+        "note": "エピックベース提供。録音→文字起こし→議事録テンプレ生成まで一貫対応する法人向けクラウド。日本語精度90%以上、議事録テンプレ充実。"
+      },
+      {
+        "name": "Rimo Voice",
+        "url": "https://rimo.app/about/voice",
+        "note": "Rimo社の音声特化AI。カスタム単語、要約、話者分離。国内SaaSの中では生成AI連携に積極的で、API公開もあり。"
+      },
+      {
+        "name": "toruno",
+        "url": "https://toruno.biz/",
+        "note": "RICOH提供。Web会議に参加せず手元のPC音声を録音・文字起こし。ボット不参加というShadowと同じ訴求を国産で実現済み。"
+      },
+      {
+        "name": "AmiVoice ScribeAssist",
+        "url": "https://www.advanced-media.co.jp/products/service/scribe-assist",
+        "note": "アドバンスト・メディアの国産音声認識エンジン。長年の業務実績と高い日本語精度で官公庁/医療/法務など堅い領域に強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "会議録音やマイク音声は『特定の個人を識別できる声』として個人情報に該当しうる。安全管理措置(組織的・人的・物理的・技術的)が義務。LLM処理で海外クラウドに送信する場合は越境移転として本人同意/移転先国の制度説明が必要(2022年改正)。"
+      },
+      {
+        "law": "電気通信事業法(外部送信規律)",
+        "impact": "2023年6月施行の改正で、ユーザー端末から外部に情報を送信する事業者は送信先・項目の通知/公表義務。画面キャプチャやプロンプトを外部LLMに送るSaaSはこの規律の射程に入る可能性が高い。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "会議参加者の発言録音/録画は無断録音の論点はあるが業務利用は概ね適法。一方、画面に映る第三者の著作物(資料・スライド)をAI学習目的で送信する場合は30条の4の限界が問題。"
+      }
+    ],
+    "opportunity": "日本独自の角度は『商習慣特化のSkillストア』。(1)日本語敬語/丁寧語に最適化した議事録テンプレ(議題・決定事項・宿題・次回アジェンダ)、(2)BANT/MEDDICではなく国内営業フレーム(SPIN日本語版・稟議要約)、(3)Slack/Chatwork/kintone/Notion日本語版/Backlog出力、(4)金融/医療/官公庁向けに国内データセンター+AmiVoice等の国産STTを選択可能なBYOSTT、(5)経費精算/勤怠SaaS連携(マネーフォワード/freee/SmartHR)。ボット不参加+ローカル処理はセキュリティ厳しい大企業/士業/医療への突破口。Skill=プロンプトという拡張性は日本のSIerやコンサルが受託カスタムする商流とも相性が良い。",
+    "rationale": "需要は強い(score 8)が、国内競合が15社以上で飽和(score 3)している赤い海。Shadowの差別化はSkillによる汎用プロンプトランナー(議事録に閉じない)とローカル処理+ボット不参加だが、後者はtorunoが国産で先行している。一方、Skillストアという拡張プラットフォーム化と、画面+音声+任意ホットキーで会議外も対象化する点は国内勢にまだ無い。規制面はローカル処理の設計でリスク低めだが、外部LLM送信は電通法外部送信規律と個情法越境移転の説明責任が残る。総合スコアは6で『watch』。そのまま輸入しても国内勢に勝てず、日本商習慣特化Skillストア+国産STT選択肢+国内DC+業務SaaS連携で再構築すれば勝ち筋がある。"
+  },
+  "japan_fit_at": "2026-05-23T20:15:00",
+  "review_guide_at": "2026-05-23T20:15:00"
+}

@@ -1,0 +1,173 @@
+{
+  "name": "Nugget AI",
+  "description": "Turn customer interviews into your product roadmap",
+  "ph_url": "https://www.producthunt.com/products/nugget-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/XUY2356ELRAHHI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-22T07:01:00Z",
+  "upvotes": 136,
+  "comments": 26,
+  "topics": [
+    "SaaS",
+    "Artificial Intelligence",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋\nI'm Brodie — PM by day, builder by night. Nugget is my answer to a problem I've lived with for 6+ years of doing customer discovery: great interviews generate incredible signal, then it dies in transcripts no one reads.\nEvery PM I know has the same broken workflow: run 5 great interviews → take messy notes → forget half of it → write a PRD from gut feeling → pretend it was data-driven. Engineers then ship from your gut, not your customers.\nNugget closes that loop:\n🎙️ Real-time transcription (or drop in Zoom, support tickets, Slack threads)\n🤖 AI extracts \"Nuggets\" — pain points, feature requests, sentiment\n🧩 Cross-interview synthesis surfaces themes ranked by frequency + severity\n📄 Auto-generated PRDs with real customer quotes attached\n🔌 NEW: MCP server so Claude, ChatGPT, Cursor, and Codex can query your interviews directly\nThe MCP piece is the one I'm most excited about. Your AI agent stops hallucinating users and starts citing real ones.\n🎁 Alpha Day offer: 66% off the first year of Pro for anyone who comments here — DM me your handle.\nWould love honest feedback — especially from PMs and founders doing discovery. What's broken in your workflow that I haven't solved yet?",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Interview graveyard vibes here. Notes in Notion, gut in the PRD. If it really pulls themes and spits PRDs with quotes, that's useful. The MCP angle is neat grounding chatgpt on real calls. Keen to try on my next batch. Solo PM here, time savers matter.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Indie iOS founder here, doing a lot of customer discovery ahead of an App Store launch, so the \"interviews die in transcripts no one reads\" line hits home. The MCP server is the smart unlock; an agent citing real users instead of hallucinating them is the whole game.</p><p>Answering your q: the gap I'd flag is upstream of synthesis: interview <em>quality</em> varies wildly, and a confident-but-shallow interview produces clean-looking Nuggets that are actually just the customer agreeing with my leading questions. Does Nugget do anything to flag low-signal interviews (interviewer talked 70% of the time, all closed questions, sentiment too uniformly positive), or does it treat every transcript as equally trustworthy evidence?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Nugget AI turns customer interviews into product evidence. Record or upload calls → AI extracts pain points and feature requests → synthesis surfaces themes → auto-generated PRDs with real customer quotes → dev-ready handoff to Linear & GitHub. NEW: MCP server. Connect Claude, ChatGPT, Cursor, or Codex — your AI agent can search every interview and draft specs grounded in real evidence. No more copy-pasting. Half the price of Dovetail.",
+  "featured_at": "2026-05-22T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/707a2b6b-c8fe-474e-a6dc-f1d5f6862a8d.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a101c0b5-eeec-48a4-a8d8-75854c38e1ab.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b34df5bf-971a-4209-b66b-c14899702059.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e026fa0b-c32a-40e4-9cea-6dd968f69214.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/97b4aa06-ad74-47ae-aa2d-224daec271c6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/36e4e113-243c-47e0-a47d-71b8e345ed77.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:06:09",
+  "landing_meta": "Nugget AI | Real-time Customer Insights for PMs — Nugget AI: Turn customer discovery into actionable insights.",
+  "landing_text": "Nugget AI | Real-time Customer Insights for PMs Introducing the Nugget MCP — your interviews, in every AI tool. Try it free Now Available From Customer Interview to Product Roadmap in Seconds. Nugget AI transcribes your customer interviews in real-time, extracts key friction points, and delivers actionable insights directly to your workflow. Starting at $19/mo . Start free trial See how it works nugget-ai — Interview Session The Full Loop Cursor for Product Managers Just like Cursor makes engineers faster without replacing them, Nugget makes the research → decision → spec → handoff loop dramatically faster for PMs. Step 1 Capture → ↓ Step 2 Synthesize → ↓ Step 3 Prioritize → ↓ Step 4 Spec → ↓ Step 5 Ship Real-time Capture High-fidelity transcription that works while you talk. Record live interviews or drop in Zoom recordings, support tickets, survey data, and Slack threads. Live Transcription File Upload Multi-Source AI Nugget Extraction Our AI automatically flags \"Nuggets\"—pain points, feature requests, and emotional friction—then tags them by type so nothing slips through the cracks. Pain Points Feature Requests Sentiment Cross-Interview Synthesis See patterns across dozens of conversations. AI clusters nuggets into emergent themes ranked by frequency, severity, and recency—with \"Ask Your Data\" chat built in. Theme Clustering Ask Your Data Trend Tracking Smart Prioritization Answer \"What should we build next?\" with data, not gut feeling. Opportunity scoring weighs signal strength, user segments, and your strategic goals automatically. Opportunity Scoring Evidence-Linked Scenario Modeling AI-Generated PRDs Turn a prioritized opportunity into a production-ready spec. Problem statements grounded in real user quotes, user stories, acceptance criteria, and UI suggestions—all auto-generated. PRD Generation User Stories Iterative Editing Dev-Ready Handoff Specs are broken into discrete dev tasks scoped for coding agents like Cursor or Claude Code. Export to Linear, GitHu",
+  "pricing_signals": [
+    "free trial",
+    "pricing",
+    "$19/mo",
+    "$0",
+    "$19.99",
+    "$12.50",
+    "$150/yr",
+    "$9.99",
+    "$7.48",
+    "$449/yr",
+    "$10/mo",
+    "$29"
+  ],
+  "landing_fetched_at": "2026-05-23T19:06:10",
+  "description_ja": "顧客インタビューをAIで解析し、テーマ抽出からPRD自動生成までを一気通貫で実現",
+  "summary_ja": "PM向けに顧客インタビューを録音・文字起こしし、AIで痛点や要望を抽出、テーマ集約しPRDを自動生成。MCPサーバ経由でClaude等から検索可能、Dovetail半額の月19ドルから利用できる。",
+  "review_guide_ja": {
+    "what": "Nugget AIはPM向けの顧客リサーチ統合SaaS。リアルタイム文字起こし、もしくはZoom録画やサポートチケット・Slackスレッドの取り込みからスタートし、AIが発話を「Nugget（痛点・要望・感情）」として抽出、複数インタビュー横断で頻度と深刻度に基づきテーマをクラスタリング。優先度スコアリングを行い、最終的にユーザー引用付きのPRDを自動生成、Linear/GitHubへタスク分解して連携する。さらにMCPサーバを公開しており、Claude/ChatGPT/Cursor/Codex などコーディングエージェントが過去のインタビューをクエリして実在顧客の声に基づく仕様を起こせる点が差別化軸。月額19ドル〜とDovetailの約半額を主張する。",
+    "for_who": "5〜30人規模のスタートアップやSaaS企業の単独PM、デザイン責任者、インディーズ開発者など、ディスカバリーインタビューを週数本回しつつ自分でPRDも書く役割が主対象。Dovetail/Notejoyの利用料が重い、AIエージェント主体の開発ワークフローと統合したい層に刺さる。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "文字起こしAPIとLLMでテーマ抽出・PRD生成自体は中規模なら模倣可能だが、MCPサーバ提供と既存ツールへの自然な接続体験を磨くには相応のUX投資が必要。"
+    },
+    "signals": [
+      "Launch初日で136 upvotes / 26コメントとPM/インディーズ開発者からの強い共感",
+      "MCPサーバ提供によりAIコーディングエージェントの仕様生成基盤として位置取り",
+      "Dovetailの半額という明示的な価格優位の打ち出し",
+      "Zoom・サポートチケット・Slack等の多ソース統合と最終PRD出力までの一気通貫",
+      "Linear/GitHub連携でPMから開発タスクまでのハンドオフ短縮"
+    ],
+    "concerns": [
+      "Dovetail/Productboard/Maze等の強力な海外競合と日本発toittaが既に存在",
+      "日本語インタビューの文字起こし精度・話者分離・関西弁等への対応が未確認",
+      "音声・発話を含む個人情報を海外サーバで処理する越境移転の同意取得運用",
+      "上位コメントでも指摘の通り、誘導質問や薄いインタビューを検出する仕組みが未整備",
+      "MCP連携で機微なインタビューがLLM外部に渡るガバナンス面の懸念"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内でもユーザーインタビュー後工程のAI支援需要は明確で、toittaやユニーリサーチAIインタビューなど類似サービスが立ち上がり、日経等メディアでも「架空顧客インタビュー」など関心が高い。PMコミュニティ・スタートアップ層は受容性が高い。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "はてな toitta が日本語特化・国内データ保管・KA法対応で強固なポジションを確立しつつあり、プロダクトフォースのユニーリサーチ AIインタビュー、Notta+AI要約、Productboard/Dovetail日本展開も併走。価格と機能だけでは差別化が薄い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "個人情報保護法上、インタビュー音声・氏名等は個人情報に該当し、海外サーバ利用時は越境移転として本人同意や外的環境把握義務が発生。医療・金融など機微情報を扱う顧客企業ではDPA・保管国の明示が必須となり、対応次第で導入障壁が変動。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UIの日本語化に加え、日本語の発話認識・口語処理・敬語/フィラー除去・話者分離精度がDovetailのように弱い場合致命的。PRD生成も英語学習データに偏ると日本企業のフォーマット（仕様書文化）と乖離する可能性。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本のエンタープライズは契約書・PIA・SOC2/ISMSと国内サーバを要求するケースが多く、SMB・スタートアップ中心の月19ドルSaaSモデルとの相性は限定的。一方でPM個人購買は浸透しつつあり、PLGなら一定の余地はある。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "toitta（はてな）",
+        "url": "https://ja.toitta.com/",
+        "note": "生成AIで発話を切片化・グルーピングしKA法分析を支援する日本発SaaS。データは国内保管、学習未使用を明示しUXリサーチ業界での導入実績が拡大中。"
+      },
+      {
+        "name": "ユニーリサーチ AIインタビュー（プロダクトフォース）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000046.000117669.html",
+        "note": "募集〜実査〜分析〜レポートをAIで自動化し、最大100人規模のデプスインタビューを最短1日で完結する2026年新サービス。"
+      },
+      {
+        "name": "Notta（AI要約・テンプレ）",
+        "url": "https://www.notta.ai/business",
+        "note": "58言語対応の高精度文字起こしと、自由プロンプトでPRD/要件定義テンプレも組める法人向けプラン。PMの一次工程で既に普及している。"
+      },
+      {
+        "name": "MiiTel（RevComm）",
+        "url": "https://miitel.com/jp/",
+        "note": "通話録音・トーク解析AIで、コールセンターや営業ヒアリングの音声分析市場を押さえる。PMの顧客接点解析にも応用可能で間接競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "インタビュー音声・氏名・所属は個人情報に該当。海外サーバ処理は越境移転に該当し、利用目的の通知公表に加えて移転先国名・保護制度情報の提供と本人同意が原則必要。外的環境把握義務も生じ、日本顧客向けにはDPA・国内リージョン提供がほぼ必須となる。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "ビデオ会議連携や通話文字起こし機能を組み込みで提供する場合、外部送信規律（クッキー等情報送信の通知）や付随的に第三者通信媒介と解されるリスクの整理が必要。利用者情報の取得範囲を明示するUI改修が求められる可能性。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "インタビュー発話の文字起こし・要約は通常事業者側に権利が及ぶが、第三者音源やサポートチケット取り込み時には許諾範囲の確認が必要。AI学習目的の二次利用については30条の4と契約上の制限の整合をDPAで明示すべき。"
+      }
+    ],
+    "opportunity": "日本市場の機会は「日本語インタビューの高精度処理＋国内データ保管＋PM特化のPRD出力」を一体で提供する垂直特化版にある。toittaはKA法ベースの分析寄り、Nottaは文字起こし寄りで、両者の中間にあるPM向けエビデンスベースPRD生成は空白地帯。Linear/GitHub/Notionに加え、Backlog・Redmine・JIRAなど国内開発現場ツールへの双方向連携、稟議や社内仕様書テンプレへのPRD変換、ISMS/Pマーク対応・国内サーバオプションを揃えれば、SMB SaaS〜成長スタートアップのPMセグメントを取りに行ける。MCPサーバ提供はAIエージェント連携を進めるエンタープライズPoCのフックとして有効。",
+    "rationale": "需要面ではPM・UXリサーチ後工程のAI化トレンドが明確で、toittaやユニーリサーチ AIインタビューのような国内事例が需要を裏付ける。一方、競合面では既に日本語ファーストかつ国内保管を訴求するtoittaが先行し、価格と機能の優位だけでは置き換えが難しい。規制面では個人情報保護法の越境移転・電気通信事業法の外部送信規律対応がボトルネックで、海外SaaSのままだと国内エンタープライズへの拡販は限定的。ローカライズは日本語音声認識・口語・敬語処理とPRD出力の文化適合が要で、英語MVPの直輸入では刺さりにくい。商習慣面でも稟議・契約書・国内リージョン要求への対応コストが大きい。総合してjapan_fit_score=6、verdictはwatch。MCP連携やPRD自動生成のコンセプト自体は強く、国内パートナー経由でのローカライズ展開か、同コンセプトの国産PM特化ツールが立ち上がる余地は十分にあり、継続的に観察する価値がある。",
+    "japan_fit_at": "2026-05-23T19:30:00Z"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z"
+}

@@ -1,0 +1,201 @@
+{
+  "name": "mailX by mailwarm",
+  "description": "Email deliverability toolkit for humans and AI agents",
+  "ph_url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/H2XLXASAORMP7Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-20T07:01:00Z",
+  "upvotes": 519,
+  "comments": 270,
+  "topics": [
+    "Email",
+    "Email Marketing",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Like most founders, email has been our #1 sales channel since our first startup in Paris. That’s what led us to build <a href=\"https://www.producthunt.com/products/mailwarm\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"mailwarm\" target=\"_blank\" rel=\"noopener\">@Mailwarm</a> and work on email deliverability since 2020.<br>And one thing became clear: your emails don’t land in the inbox by magic.</p><p></p><p>Over the years with mailwarm (YC S20, #1 Product of the Day for March 4th, 2020 🏆), we’ve helped thousands of teams improve deliverability. And we kept seeing the same thing:</p><ul><li><p>People either don’t know what’s wrong…</p></li><li><p>Or they see the data, but don’t know how to fix it.</p></li></ul><p>So they guess.</p><p>That’s why we built mailX.</p><p>Run a check -&gt; understand what’s broken -&gt; fix it with clear steps.<br>No signup. No guesswork.</p><p></p><p>We also made it usable by AI agents, not just humans.</p><p></p><p><strong>If email is part of your growth, tell me in comment how you’re using it. We’ll take a look and help you improve it.</strong></p>",
+      "votesCount": 38,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p>I'm Amine, co-founder of mailX. Huge thanks to <a href=\"https://www.producthunt.com/@garrytan\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"garrytan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@garrytan</a> for hunting us today 🙏</p><p>After 6 years in email deliverability and building Mailwarm (YC S20), I keep seeing teams spend weeks rewriting subject lines, A/B testing send times, and buying warmup tools while they have a 5-minute problem they don't know is a problem. Missing DMARC. Broken SPF. A DKIM key that was never rotated. Boring stuff with scary names, ignored while everyone optimizes copy.</p><p>These protocols exist for a reason: they're your domain's ID card. They're how Gmail and Microsoft decide whether to trust you.</p><p>We built mailX to fix that. Ask the AI agent and it'll diagnose your setup and walk you through every step. Prefer to do it yourself? There's a human interface for that too. And every report is shareable, so you can hand it straight to an expert if you want a second pair of eyes.</p><p>The whole team is here today to answer your hardest deliverability questions 👇<br>Proud to work with all of you <a href=\"https://www.producthunt.com/@thamibenjelloun\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"thamibenjelloun\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@thamibenjelloun</a> <a href=\"https://www.producthunt.com/@othman_katim\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"othman_katim\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@othman_katim</a> <a href=\"https://www.producthunt.com/@karimbenkeroum\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"karimbenkeroum\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@karimbenkeroum</a> <a href=\"https://www.producthunt.com/@manal_essalek1\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"manal_essalek1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@manal_essalek1</a> <a href=\"https://www.producthunt.com/@naimz\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"naimz\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@naimz</a> <a href=\"https://www.producthunt.com/@daniel_nwankwo\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"daniel_nwankwo\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@daniel_nwankwo</a> </p>",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>In the future, will the tool be able to create such an email and settings on its own so it will not end up in the spam? Like the whole automation of the process instead of suggestions.</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Your emails go to spam. mailX shows you why, and how to fix it in seconds with clear answers and exact steps. Built for humans and AI agents. API and MCP ready.",
+  "featured_at": "2026-05-20T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/9d9e986f-969d-4a67-9a15-e6733097da14.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d0064a98-0718-429c-a221-439f4759304f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/36a9d25c-9405-433c-b51d-1a2ce7601f46.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6a2e2b1e-30b7-42fa-823b-51919bd782d2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3552808f-2984-4577-9425-c91cf0247ab5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/330527ba-586c-445c-94a7-049fd67d68a2.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/d1963213-af6b-4ff8-bbef-96b6cdc64731.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:23",
+  "landing_meta": "DNS Lookup, Email Deliverability Test & Network Tools - SPF, DKIM, DMARC Checker - mailX — Free email deliverability test, DNS lookup & IP lookup. Check MX records, SPF, DKIM, DMARC, blacklist status, SMTP servers & more. Analyze your domain instantly",
+  "landing_text": "DNS Lookup, Email Deliverability Test & Network Tools - SPF, DKIM, DMARC Checker - mailX API & MCP ready. Email deliverability toolkit for humans and AI agents Your emails go to spam. mailX shows you why and how to fix it in seconds. Analyze My Domain BIMI Blacklist Checker DMARC MX Lookup SPF Select tools to run BIMI BIMI Host Blacklist Checker CNAME Lookup DKIM DMARC DMARC Generator DNS Lookup IMAP Checker IMAP Finder MX Lookup PTR Lookup SMTP Checker SMTP Finder SPF SPF Generator TXT Lookup $ claude mcp add --transport http mailx https://themailx.com/mcp Copy 100% free, no signup Instant results from live DNS Trusted by 50,000+ marketers & devs Clear explanations & fixes No data stored, ever DNS Lookup Tools, Email Deliverability Checkers & Network Tools All Free Tools - every tool runs against live DNS in real time. DNS Lookup Tools DNS Lookup DNS Checker DNS Propagation Checker MX Lookup CNAME Lookup TXT Lookup PTR Lookup Email Deliverability SPF Checker DKIM Checker DMARC Checker BIMI Checker Blacklist Checker SMTP Test IMAP Checker Generators SPF Generator DMARC Generator DKIM Generator DNS Record Generator Email Generator Domain & Network SMTP Finder IMAP Finder PTR / Reverse DNS Blacklist Lookup How it works How mailX Works Analyze your domain in seconds and get a clear deliverability report with real issues, plain-English explanations, and actionable fixes. No technical expertise required. 01 Enter your domain or IP Start with your domain or IP address to instantly launch a live DNS lookup and email deliverability full analysis. 02 mailX analyzes your setup We check DNS records, SPF, DKIM, DMARC, MX configuration, blacklist status, and your full email infrastructure in one flow. 03 You get issues and fixes Receive a clear report with deliverability issues, DNS errors, and exact steps to fix and improve your inbox placement. What Does This DNS Lookup & Email Deliverability Test Analyze? Browse DNS lookup tools, email deliverability checkers, IP lookup tools",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-23T19:05:25",
+  "description_ja": "人間とAIエージェント向けのメール到達率（デリバラビリティ）診断ツールキット",
+  "summary_ja": "ドメインを入力するだけでSPF/DKIM/DMARC/BIMI/ブラックリスト等を一括診断し、迷惑メール化の原因と具体的な修正手順を平易な言葉で提示。AIエージェントから呼べるMCP/API対応の無料デリバラビリティチェッカー。",
+  "review_guide_ja": {
+    "what": "ドメインまたはIPを入力すると、DNSレコード（MX/SPF/DKIM/DMARC/BIMI/PTR/CNAME/TXT）、SMTP/IMAP接続性、ブラックリスト掲載状況を live DNS に対してリアルタイム検査し、問題点を平易な言葉で解説しつつ具体的な修正DNSレコード例を提示するデリバラビリティ診断ツール。Web UIに加え、SPF/DMARC/DKIMレコードジェネレーター、SMTP/IMAPファインダーも内蔵。最大の差別化点はHTTP MCPサーバとして公開されており、Claude等のAIエージェントからチャット越しに診断・修正提案を呼び出せること。50,000ユーザを謳う無料ツール（mailwarm社のリードジェネレーション目的）。",
+    "for_who": "ニュースレターやコールドアウトリーチを送る個人開発者・SaaSスタートアップ、メール到達率に責任を持つグロースマーケター、自社ドメインの設定不備をクライアントに説明したい受託開発・MSP、AIエージェントワークフローにメール診断を組み込みたい開発者。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "DNS問い合わせ・公開仕様パース・テンプレ修正手順生成が中心で、外部DNSライブラリと薄いAPI+MCPサーバを書けば1〜2人月で同等品が作れる。差別化はUXとブランド。"
+    },
+    "signals": [
+      "2024年Gmail/Yahoo送信者ガイドライン強化で日本でもDMARC設定義務化の機運が継続",
+      "MCP対応を明示しAIエージェントワークフロー組み込みを訴求した先行事例",
+      "mailwarm（YC S20）からの派生で既存ユーザベースとブランドを活用可能",
+      "完全無料・サインアップ不要のフリクションレス導線でSEOフックを多数確保",
+      "PH 519 upvotes / 270 comments と反応が大きく開発者の関心が高い"
+    ],
+    "concerns": [
+      "MXToolbox, dmarcian, EasyDMARC, PowerDMARC, Postmark等の競合が既に強固",
+      "無料診断単体ではマネタイズが弱く、warmup本体への送客が前提のリードマグネット",
+      "DMARCレポート集計（aggregate/forensic）まで踏み込まないと法人プランで戦えない",
+      "AIエージェント経由の自動修正は権限委譲（DNS書込み）の壁が高い",
+      "「結果は保存しない」ポリシーは継続診断や経過観察の体験が弱い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "2024年2月のGmail/Yahoo送信者ガイドライン改定以降、日本でもDMARC導入要請が急加速し、経産省・総務省・警察庁が共同でクレジットカード事業者にDMARC導入を要請、2025年時点で大企業のDMARC導入率は急上昇中。中小・スタートアップの未対応層は厚く需要は顕在。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "TwoFive DMARC/25 Analyze/Reporter、IIJセキュアMXサービス、PowerDMARC/EasyDMARC日本販社、SLT DNS Analyzer、digrart、aguaps、Benchmark Email等、無料診断から法人向けSaaSまで層が厚い。チェッカー単体は既にコモディティ化している。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "DNS参照と公開仕様パースのみで個人データを基本取り扱わないため規制リスクは低い。ただしレポート保存型に拡張すると個人情報保護法（送信元/受信者アドレスを含むDMARC forensicレポート）の論点が浮上。広告メール文面を扱う場合は特定電子メール法が間接的に関係。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "DNS仕様は国際標準でAPI/構造化中心のため翻訳工数は軽い。ただし国内主要MTA（さくら、KDDI、NTT Com、Niftyなど）の挙動や日本語UI、修正手順の日本語化、お名前.com/ムームードメイン等のレジストラ別DNS設定ガイドが必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "情シス主導の稟議・SIer経由販売、年契約・請求書払い前提、SLA/オンプレ要望が強い日本企業文化と、無料セルフサーブ→warmup有料転換の海外型モデルは噛み合いにくい。一方スタートアップ層には素直に刺さる。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "TwoFive DMARC/25 Analyze",
+        "url": "https://www.twofive25.com/service/dmarc25.html",
+        "note": "国内DMARCレポート解析SaaSの代表格。日経225企業の導入実態調査を毎年公表し、エンタープライズ顧客で実績多数。"
+      },
+      {
+        "name": "TwoFive DMARC/25 Reporter",
+        "url": "https://www.twofive25.com/service/dmarc25reporter.html",
+        "note": "受信側DMARCレポート生成のクラウドサービス。Milter連携で送信ドメイン側に自動でレポートを返す日本固有の補完サービス。"
+      },
+      {
+        "name": "SLT DNS Analyzer",
+        "url": "https://slt-inc.jp/service/dmarc-spf-dkim-diagnostic-tools/",
+        "note": "DMARC/SPF/DKIMを一括診断する無料Webツール。視覚的に問題点と推奨改善方法を表示し非エンジニア向けに展開。"
+      },
+      {
+        "name": "Digrart SPF/DKIM/DMARC Lookup",
+        "url": "https://www.digrart.jp/tools/en/spf-dkim-dmarc/",
+        "note": "国内の無料Web診断ツール。mailXの『無料・サインアップ不要』というポジショニングと直接衝突する。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "DNS診断単体は対象外。ただしDMARC forensic（failure）レポートはエンベロープFrom/Toや本文の一部を含むことがあり、これを保管・分析するSaaSに拡張する場合は委託先管理・越境移転・保存期間ポリシーの整備が必要。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "ツール自体は適用外だが、ターゲット顧客（一斉送信・コールドアウトリーチ事業者）は本法の同意取得・オプトアウト・表示義務の対象。修正提案にコンプライアンス観点を盛り込めば差別化要素になる。"
+      },
+      {
+        "law": "電気通信事業者ガイドライン（送信ドメイン認証技術導入指針）",
+        "impact": "総務省・JIPDECらが指針を公開しており、DMARC導入推奨が政府レベルで進行。法令ではないが官公庁・金融・カード系の調達要件に組み込まれる動きが拡大しており、商機の追い風となる。"
+      }
+    ],
+    "opportunity": "純粋なチェッカー単体では国内既存プレイヤーに勝てないため、(1) 日本のレジストラ別（お名前.com/ムームー/Route53/Cloudflare/さくら）にコピペ可能なDNSレコード生成、(2) 日本の主要MTA・MAP（Gmail/Yahoo!JP/au/docomo/ソフトバンク/Nifty）別の到達率診断、(3) 経産省・総務省・JIPDECガイドラインや日経225開示状況に紐づいたコンプライアンスレポート、(4) クレジットカード事業者・EC・金融向けの『DMARC強化（p=reject）移行支援』ワークフロー、(5) 日本語ChatGPT/Claude向けMCPで情シス担当者の社内説明資料を自動生成、といった日本特化レイヤーで差別化する余地がある。",
+    "rationale": "技術トレンド（Gmail/Yahoo義務化＋経産省要請）と日本市場の未対応層の厚みから需要は強い（demand=8）。しかしDMARC/SPF/DKIMチェック領域はTwoFiveを筆頭とする国内SaaS・無料ツールが層厚く形成されており、無料Webチェッカーというフォーマットでは差別化が極めて困難（competition=3）。規制リスクは低くローカライズも軽量だが、商習慣面では情シス・SIer経路を取りに行く必要があり、海外フリーミアム→warmup転換モデルは弱い。MCP対応とAIエージェント文脈は新規性があるものの、日本のエンタープライズが評価するUSPになるまでは時間がかかる。総合点6でwatch判定。日本でゼロから類似品を作るより、TwoFive等とのアライアンスや、auto-remediation（DNSプロバイダ書込みエージェント）等のレイヤー上で勝負するほうが筋が良い。",
+    "japan_fit_at": "2026-05-23T19:30:00",
+    "review_guide_at": "2026-05-23T19:30:00"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00",
+  "review_guide_at": "2026-05-23T19:30:00"
+}

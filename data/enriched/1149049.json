@@ -1,0 +1,176 @@
+{
+  "name": "ReactVision Studio",
+  "description": "Build AR/VR Apps in React Native + ship directly to devices",
+  "ph_url": "https://www.producthunt.com/products/reactvision-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/NULQJX32QZRBB6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-18T07:01:00Z",
+  "upvotes": 268,
+  "comments": 18,
+  "topics": [
+    "Virtual Reality",
+    "Developer Tools",
+    "Augmented Reality"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋\n\nI am Oliver, CEO of ReactVision. We've been building this for years and today we're shipping the two biggest updates we've ever released.\n\n➡️ Studio is a browser-based visual editor for AR/VR scenes. You design by dragging and dropping 3D objects, generate assets from text and image prompts with AI, and previewing live on your phone with StudioGo. When you're ready to ship, one React Native component  loads the entire scene into your app. No Unity. No C#. No game engine.\n\n➡️ Meta Quest support means the same React Native project that runs AR on your phone now runs natively on Quest 2, 3, and Pro as an immersive VR experience. No separate codebase, no engine swap. Phone AR and headset VR from one build.\n\nSome quick context: 8th Wall (the biggest WebAR platform) shut down in February 2026, leaving thousands of AR developers without a platform. We've been working toward filling that gap - an open-source, React Native-native AR/VR stack with a visual editor and cross-platform support.\n\nThe SDK is MIT licensed, Expo compatible, and has 100K+ npm installs. Studio is in public beta and free to try.\n\nWe'd love your feedback - what would you build with this? Drop a comment, try Studio, and let us know what you think.\n\nCheers,\nOliver (on behalf of the ReactVision team)",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This looks pretty good. Will be forwarding to a lot of my mobile dev friends, and I know they will be excited!</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Really interesting timing for this launch. Spatial computing tools are still  early and this feels like a solid developer first approach.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "A browser-based visual editor for building AR & VR scenes. Drag and drop 3D objects, generate assets with AI, then ship natively to iOS, Android, and Meta Quest from a single React Native codebase. Open source renderer, Expo-compatible, 100K+ npm installs.",
+  "featured_at": "2026-05-18T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/2392e869-311a-4527-8875-bd658e17a404.png",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/e657ec9e-d5ab-4daa-8e86-4f9b3a4681bc.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bbb92eb8-e2c4-4027-8f70-71b949dd78a9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c2c3e85f-fa9e-4fdc-bbab-eb4162f0ff5c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a33ef870-a3be-4672-b100-6b67e0986cae.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d3d55dbf-ff9a-46ec-a6bb-24b46e95416b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/42d1128e-d458-4bb1-9cc8-6a22e258237f.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:48",
+  "landing_meta": "ReactVision Studio: Visual AR & VR Editor for React Native — Build AR and VR scenes visually in your browser, then ship native to iOS, Android, and Meta Quest via ViroReact. A native 8th Wall alternative for React Native.",
+  "landing_text": "ReactVision Studio: Visual AR & VR Editor for React Native Build AR & VR apps Visually. Ship Natively to iOS, Android, and Quest. ReactVision Studio is a browser-based AR and VR editor. Build a scene once, ship it natively to iOS, Android, and Meta Quest, all from the React Native codebase your mobile team already writes. Start Building With Studio Open-source renderer ViroReact, MIT licensed, free forever Native iOS, Android & Quest ARKit, ARCore, and HorizonOS, not a browser polyfill Free to sign up Build production scenes without entering a card What is ReactVision Studio? Studio is the visual editor for the ReactVision stack. You build AR and VR scenes by dragging components onto a canvas, preview them in real time on your phone or headset with StudioGo, then ship them inside a React Native app via ViroReact , our open-source renderer. No 3D coding, Studio writes the scene graph for you Live device preview as you edit AI-generated 3D assets, no external tools Cloud and geospatial anchors built in Loads into any React Native app with one component Native rendering across iOS, Android, and Meta Quest Build once. Run native on every major XR platform. This is the part most XR tools quietly skip. Studio outputs one scene format. ViroReact takes that scene and renders it natively on each platform using the platform's own AR or VR runtime. iOS gets ARKit. Android gets ARCore. Meta Quest gets HorizonOS. No re-authoring, no shader rewrites, no compromises on frame rate. ARKit iOS iPhone and iPad AR, including LiDAR-aware features on supported devices. Same scene, full ARKit performance. ARCore Android Phones and tablets from every major Android OEM, rendered through ARCore. The same React Native codebase runs across both ecosystems. HorizonOS Meta Quest Quest 3 and Quest 3S, full VR and mixed reality. Your Studio scene becomes a headset app, no separate VR project required. One scene format, three runtimes. ViroReact handles the per-platform divergence underneath. The J",
+  "pricing_signals": [
+    "free forever",
+    "open source",
+    "open-source",
+    "pricing",
+    "$0",
+    "$25",
+    "$250",
+    "$50 / year",
+    "$75",
+    "$800",
+    "$100 / year",
+    "$25/mo"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:49",
+  "description_ja": "React NativeでAR/VRアプリを構築し、iOS・Android・Meta Questに直接配信できる",
+  "summary_ja": "ブラウザ上で3Dオブジェクトをドラッグ&ドロップしてAR/VRシーンを設計し、AIで3Dアセットを生成、単一のReact Nativeコードベースから iOS・Android・Meta Questへネイティブ配信できるビジュアルエディタ。オープンソースレンダラViroReactを採用。",
+  "review_guide_ja": {
+    "what": "ReactVision StudioはブラウザベースのビジュアルAR/VRシーンエディタ。3Dオブジェクトのドラッグ&ドロップ、テキスト/画像プロンプトからのAI 3Dアセット生成、StudioGo経由の実機ライブプレビュー、クラウドおよびジオスペーシャルアンカー対応を備える。Studioが出力したシーンはMITライセンスのオープンソースレンダラViroReactを通じて、iOS(ARKit)、Android(ARCore)、Meta Quest(HorizonOS)にネイティブ描画され、1つのReact Nativeコードベースで主要XRプラットフォーム全てに配信可能。Unity/C#不要で、既存のReact Nativeアプリにワンコンポーネントで組み込める。典型用途はARコマース、ブランド体験、製品ビジュアライゼーション、企業トレーニング、ロケーションベース体験、Quest向けVRアプリ。",
+    "for_who": "React Native/Expoを既に使うモバイル開発チーム、Unity熟練者を抱えないスタートアップ、8th Wall終了で代替を探すARエージェンシー、PoCを短期間で出したいプロダクトチーム、AR/VR両対応の単一コードベースを求める企業のXR担当者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "ARKit/ARCore/HorizonOSのネイティブブリッジ、3Dシーングラフ、ライブプレビュー同期、ジオスペーシャルアンカー、AI 3D資産生成パイプライン等を一体で構築する必要があり、年単位の専門開発が要る。"
+    },
+    "signals": [
+      "8th Wall(WebAR最大手)が2026年2月にサービス終了し、AR開発者数千人が代替を求めている",
+      "ViroReactは100K+ npm installsの実績があり、開発者コミュニティが既に存在する",
+      "Meta Quest 3/3S対応で、AR(スマホ)とVR(ヘッドセット)を単一コードで賄える点が新規性",
+      "MITライセンス・Expo互換でロックインが弱く、エージェンシーが採用しやすい",
+      "Product Hunt初日で268 upvotes、開発者コメントも好意的"
+    ],
+    "concerns": [
+      "AR/VR市場自体が長年「次に来る」と言われ続け、Apple Vision Pro含めてマス普及は依然限定的",
+      "Unity/Unreal、Niantic Lightship、WebXR、Apple RealityKit等の強力な競合が多数存在する",
+      "オープンソース戦略のためStudio(エディタ)とアセット生成以外でのマネタイズ余地が見えにくい",
+      "Quest以外のヘッドセット(Vision Pro、PICO等)非対応で空間コンピューティング全体の網羅性は弱い",
+      "8th Wall後継というポジショニングはWebARニーズ(URLで開ける手軽さ)とややズレる(ネイティブアプリ前提)"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "日本のAR市場は成長中(2026年に約125億ドル予測、利用者数は2019年比300%超)で産業向けAR需要は確かに存在するが、React Native採用の日本企業は欧米と比べ少なく、AR/VRアプリ開発の主流は依然Unityである。開発者向けニッチツールとしての顕在需要は中程度。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "STYLY(旧Psychic VR Lab)、palanAR(palan)、Pretia Technologiesなど、ブラウザ完結のノーコードAR/VR制作プラットフォームを提供する有力国産プレイヤーが複数存在し、エンタープライズ・広告領域で先行している。Unity AR Foundation利用が圧倒的多数派でもある。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "開発者向けSDK/エディタという位置付けで、特段の業法は適用されない。生成AIアセット部分で著作権法に留意は要るが、ツール自体は規制リスクが低い。個人情報も基本的にアプリ実装側の責務。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UIの日本語化、ドキュメント翻訳、日本語フォント/IME対応、日本語によるAIプロンプトの3D生成品質確保が必要。React Native自体は日本でも一定の利用者があるが、英語ドキュメント前提のままでは中規模以上の法人採用は伸びにくい。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の大企業XR案件は受託開発(SIer/エージェンシー経由)が主流で、セルフサービスSaaSのボトムアップ採用は浸透しにくい。オープンソース+クラウド課金モデルは、購買稟議や請求書払い、契約書レビューといった商習慣との相性が悪い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "STYLY (株式会社STYLY、旧Psychic VR Lab)",
+        "url": "https://styly.cc/",
+        "note": "ブラウザベースでVR/AR/MR空間を制作・配信できるノーコードXRプラットフォーム。10万人超のクリエイターコミュニティ、PARCO等と協業実績あり。エンタープライズ・広告領域で国内最有力。"
+      },
+      {
+        "name": "palanAR (株式会社palan)",
+        "url": "https://palanar.com/",
+        "note": "ノーコードでWebARを作成できる国産SaaS。2019年提供開始で累計10,000件超のAR制作実績。マーカー/マーカーレス/画像認識/顔認識対応、VPS対応も追加済み。"
+      },
+      {
+        "name": "Pretia (Pretia Technologies)",
+        "url": "https://pretia.com/",
+        "note": "ARクラウドプラットフォームを提供する国内スタートアップ。位置情報共有AR、マルチプレイAR、空間マッピングなどARアプリ開発の基盤を提供。"
+      },
+      {
+        "name": "ホログラム株式会社 / その他XR受託",
+        "url": "https://ho-lo.jp/",
+        "note": "palanAR等を活用したAR受託開発を提供。日本の法人AR案件は受託エージェンシー経由のチャネルが強く、ツール直販と競合する構造。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法",
+        "impact": "AIによる3Dアセット生成機能を商用利用する際、学習データの権利処理、生成物のライセンス、第三者ブランド/キャラクター類似生成のリスクが日本国内では特に厳格に問われる。Studio利用規約とAIモデル側のライセンス整合が必要。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "ARアプリがカメラ映像や位置情報、顔認識データを扱う場合、利用目的の特定・通知、第三者提供制限、安全管理措置が必要。Studio自体は基盤だが、テンプレート/サンプルにこれらを促す機能を入れる場合は注意喚起が必要。"
+      },
+      {
+        "law": "景品表示法",
+        "impact": "ARコマース/プロモーション体験を顧客向けに作る場面で誤認表示や過剰な訴求が景表法対象となる可能性。Studioの責任範囲ではないが、日本展開時にエンタープライズ顧客への啓発資料があると採用ハードルが下がる。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては、(1) Unity案件のサブセットとしての軽量React Native AR受託をターゲットに、SIer/広告代理店向け再販パートナープログラムを設計、(2) Meta Quest 3sの国内本格普及(2024-2026)を捉え、社員研修・製造業マニュアル・販促ノベルティ等の業務VRテンプレートを和訳付きで提供、(3) STYLYやpalanARが手薄なReact Native専門のエンタープライズ向けセルフホストプラン+日本語SLAサポート、(4) ジオスペーシャルアンカーを活用した自治体観光AR/ロケーションベースエンタメ向けプリセット。ただしオープンソース基盤なので、純粋なクローン勝負ではなく日本市場特化のテンプレート/コンサル/再販エコシステムが現実的。",
+    "rationale": "ReactVision Studio自体は、8th Wall終了で空いた市場を狙う技術的に筋の良いプロダクトで、Meta Quest対応とReact Native単一コードベースは独自性が高い。しかし日本市場視点では、(a) AR/VR制作の国内主流はUnity+受託開発、(b) ノーコードAR領域はSTYLY・palanAR・Pretia等の国産先行勢が既にエンタープライズと広告領域を押さえている、(c) React Native採用企業はWeb系スタートアップに偏り、AR需要が大きいリテール/製造業ドメインとの重なりが小さい、という三重の逆風がある。規制リスクは低く、ローカライズも技術的には可能だが、日本特有の受託商習慣・稟議文化とオープンソース+セルフサービスSaaSモデルの相性が悪い。日本独自クローンを作るより、日本市場特化のテンプレート/再販パートナーを構築する角度のほうが現実的だが、PoC優先度としては「skip」相当と評価。",
+    "japan_fit_at": "2026-05-23T19:30:00Z",
+    "review_guide_at": "2026-05-23T19:30:00Z"
+  }
+}

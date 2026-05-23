@@ -1,0 +1,229 @@
+{
+  "name": "Composer 2.5",
+  "description": "Cursor’s most powerful model yet",
+  "ph_url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ZEXWSSPQZYCABO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-19T07:01:00Z",
+  "upvotes": 418,
+  "comments": 12,
+  "topics": [
+    "Artificial Intelligence",
+    "Development"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi everyone!<br><br>More training scale, still aggressive pricing, and a better model for long-running coding work.<br><br>That is Composer 2.5 in a nutshell.<br><br>It continues from the <a href=\"https://cursor.com/blog/composer-2-technical-report\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">same base</a> as Composer 2, and this version is trained to be better at sustained work, complex instructions, communication style, and effort calibration inside Cursor.<br><br>Targeted textual feedback helps the model improve specific mistakes inside long rollouts, while 25x more synthetic tasks push it into harder coding problems grounded in real codebases.<br><br>Looking forward to the next larger model trained from scratch with 10x <a href=\"https://cursor.com/blog/spacex-model-training\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">more compute</a>!</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Love cursor, been a power user for a long time now, and happy to see the native model getting better and better.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Nice to see the new models and I have been using Composer this morning - sorry for the reality check - but c'mon - Composer 2.5 does not really compare well against Opus 4.7 or Sonnet. </p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "A substantial improvement in intelligence and behavior over Composer 2, particularly on long-horizon agentic tasks.",
+  "featured_at": "2026-05-19T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d2edfb12-0064-4ea2-af46-12b43bbb2842.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/465ac7e2-0191-4807-a1c9-5e2e50c4c77a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/53509dbd-bca5-4283-b348-ba3a78298980.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7173ede2-c455-4ddb-8cdb-8a049df9aca6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/10a742dc-9219-43e6-bc3b-5e18743e767d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5b540170-9421-4b34-8cf7-e35eaeb81b77.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bb97a337-cae4-4459-9300-1a7588019f4a.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:31",
+  "landing_meta": "Introducing Composer 2.5 · Cursor — A substantial improvement in intelligence and behavior over Composer 2, particularly on long-horizon agentic tasks.",
+  "landing_text": "Introducing Composer 2.5 · Cursor Blog / research Composer 2.5 is now available in Cursor. It's a substantial improvement in intelligence and behavior over Composer 2 . It is better at sustained work on long-running tasks, follows complex instructions more reliably, and is more pleasant to collaborate with. We improved Composer by scaling training, generating more complex RL environments, and introducing new learning methods. In addition to training Composer 2.5 on more difficult tasks, we improved behavioral aspects of the model like communication style and effort calibration. These dimensions are not well captured by existing benchmarks, but we find that they matter for real-world usefulness. Composer 2.5 is built on the same open-source checkpoint as Composer 2, Moonshot's Kimi K2.5 . Together with SpaceXAI , we're training a significantly larger model from scratch, using 10x more total compute. With Colossus 2's million H100-equivalents and our combined data and training techniques, we expect this to be a major leap in model capability. # Training Composer 2.5 Composer 2.5 contains several new improvements to our training stack. These changes target both model intelligence and usability. # Targeted RL with textual feedback Credit assignment during RL is becoming an increasingly difficult challenge as rollouts can span hundreds of thousands of tokens. When a reward is computed over an entire rollout, it may be hard for the model to tell which specific decision helped or hurt the outcome. This is especially limiting when we want to discourage a localized behavior, such as a bad tool call, a confusing explanation, or a style violation. The final reward can tell us that something went wrong, but it is a noisy signal for where it went wrong. To address this, we trained Composer 2.5 with targeted textual feedback. 1 The idea is to provide feedback directly at the point in the trajectory where the model could have behaved better. For a target model message, we construc",
+  "pricing_signals": [
+    "open-source",
+    "pricing",
+    "$0.50",
+    "$2.50",
+    "$3.00",
+    "$15.00",
+    "$1",
+    "$3",
+    "$12",
+    "$4"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:31",
+  "description_ja": "Cursor 史上最強のコーディングモデル「Composer 2.5」が登場",
+  "summary_ja": "Cursor の自社開発コーディングAIモデル「Composer 2.5」。長時間の自律的なコーディングタスク、複雑な指示の遵守、対話品質を大幅に強化し、低コストで高性能なエージェント体験を Cursor IDE 内で提供する。",
+  "review_guide_ja": {
+    "what": "Composer 2.5 は Cursor が自社開発したコーディング特化型の AI モデル（Moonshot の Kimi K2.5 をベースに RL とテキストフィードバックで強化）。Cursor IDE 内で動作し、エージェントモードでの長時間タスク（リファクタ、機能追加、バグ修正、テスト作成、CLI 操作）を自律的に実行できる。25 倍に増やした合成タスクとターゲット型 RL により、複雑な指示の遵守・通信スタイル・エフォート調整が向上。SpaceXAI と組んで 10 倍規模の次世代モデル開発も進行中。価格は依然攻めの設定で、$0.50〜$15 のトークン単価帯。",
+    "for_who": "Cursor 既存ユーザー、AI コーディングエージェントを日常的に使う個人開発者・スタートアップ・社内エンジニアリングチーム。特にコスト効率を重視しつつ、長時間タスクをまかせたい開発者層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "基盤モデルの学習に巨額のGPU資源（10倍計算資源、Colossus 2のH100百万基相当）が必要で、独立した再現は非現実的。ただしIDE側のエージェント体験のみであればOSSモデル+VSCodeフォークで部分模倣は可能。"
+    },
+    "signals": [
+      "Product Hunt 投稿後数時間で 418 upvotes と高い注目度",
+      "日本語メディア（gihyo、GIGAZINE、note 等）多数で速報報道",
+      "Kimi K2.5 ベースでオープンソース起点、SpaceXAI 連携で 10x モデルも進行中",
+      "$0.50〜$15 のトークン価格帯で大手 API より安価",
+      "国内でも『個人利用→組織標準化』への移行点との分析記事"
+    ],
+    "concerns": [
+      "Opus 4.7 / Sonnet 比較ではまだ劣るとの利用者コメントあり",
+      "Cursor IDE 内専用で単体モデル API としては開放されていない",
+      "ソースコードのクラウド送信に伴う情報漏洩・米国サーバ転送リスク",
+      "国内大手 (GitHub Copilot/Claude Code/Devin) との競合激しい",
+      "モデル単体は再現不可能、勝負どころは Cursor 製品全体の体験"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "Gartner 調査で国内ソフトウェア開発の AI コード生成・補完利用率は 49%、肯定派 89.7% と急拡大。AI コードツール市場は 2026 年に 94.6 億ドル規模見込み。Cursor は日本のエンジニア層で既に高い認知度・利用率があり、Composer 2.5 への注目も高い。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "本製品自体（Cursor + 自社モデル）が既に日本市場の事実上の標準級。これと正面競合する『日本独自で同等の自社コーディングAIモデル+IDE』を新規構築するのは GitHub Copilot、Claude Code、Cursor、Windsurf、Devin、Codex CLI、Cline 等とも戦う必要があり、国内側勝ち目は薄い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "個人情報保護法・営業秘密管理上、社内ソースコードの米国サーバ送信が論点。Cursor 側に Privacy Mode はあるが、企業導入時は越境移転ポリシー整合性の確認が必要。法的禁止までは至らないため中位スコア。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "UI/モデルともに日本語入出力は実用レベルで、日本語ドキュメント・解説記事も充実。一方、本体は英語圏発のため日本特有のコーディング規約・社内文書連携などきめ細かなローカライズ余地は残る。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "個人開発者・スタートアップは利用が進む一方、SIer・大企業ではセキュリティ審査・オンプレ要件・購買プロセスがハードルとなり浸透速度は鈍い。請求書払い・ベンダー責任体制が弱い点も日本商習慣とは摩擦が生じやすい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "GitHub Copilot (日本市場での主要競合)",
+        "url": "https://github.com/features/copilot",
+        "note": "国内エンタープライズで最も普及。Microsoft の販売チャネルと日本語サポートが強み。"
+      },
+      {
+        "name": "Devin (Cognition)",
+        "url": "https://devin.ai/",
+        "note": "Devin 2.0 で $20/月化し、日本でも複数記事で比較対象として頻出。自律エージェント型。"
+      },
+      {
+        "name": "Cline (OSS、日本でも活発に利用)",
+        "url": "https://cline.bot/",
+        "note": "VSCode 拡張型 OSS エージェント。日本コミュニティ（Qiita/Zenn）で言及多数。"
+      },
+      {
+        "name": "Windsurf (Codeium)",
+        "url": "https://codeium.com/windsurf",
+        "note": "Cursor 直接競合の IDE フォーク。日本語記事多数、無料枠が魅力。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法 (越境移転規制)",
+        "impact": "ソースコード中の個人情報・顧客データが米国サーバへ送信される可能性があり、改正個情法 28 条の越境移転規制への対応（オプトイン同意・移転先国情報提供）が必要。Privacy Mode 利用とコード匿名化が現実的対応。"
+      },
+      {
+        "law": "不正競争防止法 (営業秘密)",
+        "impact": "社内ソースコードは営業秘密に該当しうる。クラウド送信時の秘密管理性が損なわれないよう、利用規約・社内規程の整備が必須。"
+      }
+    ],
+    "opportunity": "本製品そのもの（汎用コーディング AI モデル+IDE）を国内で再構築するのは資源・技術的に非現実的で『skip』。一方、日本独自の角度としては (1) 個情法・営業秘密に配慮した『国内サーバ完結＋オンプレ対応』のラッパー製品、(2) 日本語コメント・社内ドキュメント (Confluence/Notion JP) との RAG 統合、(3) SIer 業務向け（COBOL/レガシー Java 保守、設計書 → コード自動化）に特化したエージェントレイヤー、(4) 監査ログ・承認ワークフロー付きエンタープライズ版、といった『Cursor 等を裏で使いつつ日本企業の規制・商習慣に最適化する SI/ミドルウェア』ポジションには商機が残る。",
+    "rationale": "Composer 2.5 は Cursor の中核モデルアップデートで、日本のエンジニア層でも既に高い関心と利用基盤がある（demand 8）。しかし本案件で評価すべきは『日本で同じものを作る価値があるか』であり、Cursor/Copilot/Claude Code/Devin/Cline/Windsurf 等のひしめく国際レッドオーシャンに正面参入する旨味は薄い（competition 2）。規制面は個情法・営業秘密上のクラウド送信論点があるが致命的ではない（regulation 6）。日本語ローカライズは既にほぼ済んでおり、新規参入余地は限定的（localization 7）。商習慣はエンタープライズ導入で摩擦が残る（business_custom 5）。加重平均は 8×0.30+2×0.25+6×0.20+7×0.15+5×0.10 = 2.40+0.50+1.20+1.05+0.50 = 5.65 → 四捨五入で 6 だが、競合圧倒的優位の根源的事情を踏まえ最終 4 と判断（同等プロダクト構築の機会としては skip）。商機を狙うなら本体クローンではなく、上記『日本企業特化のラッパー/SI/エンタープライズガバナンス層』に絞るべき。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z"
+}

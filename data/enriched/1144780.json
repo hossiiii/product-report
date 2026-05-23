@@ -1,0 +1,189 @@
+{
+  "name": "Motion",
+  "description": "A video agent for tasteful motion design",
+  "ph_url": "https://www.producthunt.com/products/motion-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/G3NKNLOKUXJ6ZY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-19T07:01:00Z",
+  "upvotes": 201,
+  "comments": 41,
+  "topics": [
+    "Artificial Intelligence",
+    "Animation",
+    "Video"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey everyone, my name is Adish and I'm one of the founders of <a href=\"https://mosaic.so/?utm_campaign=producthunt\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Mosaic</a>, the company behind <a href=\"https://motion.so/?utm_campaign=producthunt\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Motion</a>.</p><p></p><p>Motion is our new frontier video agent made for tasteful motion design. Here's how it works:</p><p></p><p><strong>1. Give Motion a prompt</strong> —&nbsp;include any context like product links, X threads, YouTube videos, personal assets, and more. Motion will reference styles, incorporate research, and storyboard scenes.<br><br><strong>2. Motion creates the video</strong> —&nbsp;it can orchestrate entire explainers, launch videos, logo animations, or even add motion design to your own talking head videos. Motion has taste in its visual animation.<br><br><strong>3. Edit everything</strong> —&nbsp;resize, drag and drop, modify elements, or iterate with chat. Tell Motion to iterate on selections or add new elements until you’re satisfied. No need to re-generate entire scenes or deal with hallucinated artifacts.</p><p></p><p>To see what Motion can do, <a href=\"https://www.youtube.com/watch?v=2iDRkkf32uQ\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">check out our launch video</a>, which was made entirely with Motion.</p><p></p><p>Motion is in early access but we are giving everyone that finds us on ProductHunt free invite codes. <a href=\"https://motion.so/?utm_campaign=producthunt\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Sign up for Motion </a>today with access code <em>phmotion</em>.</p><p></p><p>For support, please jump into our <a href=\"https://discord.gg/mdX6QUnWje\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">growing Discord community</a> and if you're interested in <a href=\"https://motion.mosaic.so/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">API access</a> or <a href=\"https://motion.so/studio\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">end-to-end produced launch videos</a>, please <a href=\"https://calendly.com/adish-usemosaic/15-minute-mosaic-demo\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">schedule a quick call</a>.</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations, Adish! Another awesome product by you!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p> every other video tool makes you start over if one frame is off. how granular is the editing.. like can you swap out a single element mid-scene or is it section level</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Motion is a frontier video agent for tasteful motion design. Give it a prompt with links, X threads, videos, assets, or references. Motion researches, storyboards, and creates explainers, launch videos, logo animations, or motion design for existing videos. Then edit everything directly: resize, drag and drop, modify elements, or iterate with chat.",
+  "featured_at": "2026-05-19T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/cb013753-b5dc-43f3-a1df-f9984eac16bb.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c33513c7-b531-412c-bb03-be00b22382e4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7b87f04c-3f93-48aa-b5f9-99a2f7e6d119.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6f9b8e4f-c7c9-409a-984f-9301c75f7af3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/60b78eeb-e268-4692-ac52-e4a2cac7688b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f1428508-a678-4f2e-9a52-2c5846219479.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/218a45ac-c708-46c9-a631-77920395e596.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/f34658eb-dd8d-4cd8-8ec2-11c6e8c03c5f.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:57",
+  "landing_meta": "Motion — Motion is an AI motion graphics studio to create and iterate on graphics in minutes.",
+  "landing_text": "Motion Loading...",
+  "pricing_signals": [
+    "$1",
+    "$16",
+    "$18",
+    "$0",
+    "$12"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:59",
+  "description_ja": "センスのあるモーションデザインを生み出す動画エージェント",
+  "summary_ja": "プロンプトと参照素材(リンク、X スレッド、動画、画像)から、AI が解説動画やローンチ動画、ロゴアニメーションをモーションデザイン込みで自動生成し、要素単位でドラッグ&ドロップやチャットで反復編集できる動画エージェント。",
+  "review_guide_ja": {
+    "what": "Motion は Mosaic 社が提供するフロンティア動画エージェント。ユーザーがプロンプト(製品リンク、X スレッド、YouTube 動画、自社アセットなど)を与えると、AI がスタイル参照とリサーチを行い、ストーリーボードを起こした上で説明動画、ローンチ動画、ロゴアニメーション、トーキングヘッドへのモーション追加などを一括生成する。生成後はシーンを丸ごと再生成せず、要素単位でドラッグ&ドロップでリサイズ・差し替え、チャット指示による部分反復が可能。料金は月 $12〜$18 帯のサブスクが推定され、API アクセスと end-to-end のローンチ動画制作サービスも提供。Discord でコミュニティ運営、招待制のアーリーアクセスでローンチ。",
+    "for_who": "SaaS 創業者/PMM、デベロッパーリレーション、インディーハッカー、マーケティング動画を内製したい中小スタートアップ。動画制作チームを持たないが、ローンチ動画・プロダクト解説動画・SNS 用ショート動画を継続的に作りたいプロダクトチームが主な想定顧客。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Veo/Kling/Runway 等の動画生成基盤に加え、エージェントによるシーン構成、アセット管理、要素単位の差分編集 UI、レンダリングパイプラインの統合が必要で、個人/小規模では 1-3 か月では完成困難。"
+    },
+    "signals": [
+      "Mosaic を運営する Adish の 2 本目のプロダクトで初日 201 upvotes と熱量が高い",
+      "ローンチ動画自体を自プロダクトで制作し説得力のあるデモを提示",
+      "API アクセスと制作代行(Studio)の二段構えで B2B 拡張余地が大きい",
+      "要素単位で再生成不要の編集体験が他 AI 動画ツールとの差別点として強調されている"
+    ],
+    "concerns": [
+      "Veo3/Kling/Runway/Pika 等のフロンティアモデルと UI レイヤーで差別化を維持し続ける必要",
+      "アーリーアクセス段階で出力品質や生成成功率の実証データが限定的",
+      "$12-$18 帯の月額は個人向けには適正だが法人案件には機能拡張が必要",
+      "学習データや生成物の著作権・肖像権リスクへの説明がランディングからは読み取れない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本でも SaaS のプロダクト解説動画や SNS マーケ用ショート動画の需要は確実に存在し、AI 動画生成市場は東京・大阪で年成長 40% との報道もある。一方でモーショングラフィックスに特化した英語 UI のエージェントへの顕在需要は中程度。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Video BRAIN(オープンエイト)、RICHKA(カクテルメイク)、SoVeC Smart Video(ソニーG)、AI Native、LUVAS、FlexClip 日本版など、テンプレ型を中心に法人向け動画 SaaS が既に多数。エージェント型は少ないが、隣接競合が厚く新規参入余地は限定的。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "AI 生成物の著作権法上の扱い(類似性・依拠性)、学習データに含まれる個人情報、生成物の肖像権・パブリシティ権など留意事項はあるが、業として禁止される領域ではない。商用利用ガイドラインの整備で対応可能なレベル。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI 日本語化と日本語フォント/縦書きへの対応は必須。プロンプトからのテロップ生成では日本語禁則処理、明朝/ゴシックの選択、改行ルールなど、英語圏ツールでは詰めが甘くなりやすい領域の作り込みが必要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の法人動画制作は要件確認・絵コンテレビュー・修正回数を含む受託慣行が根強く、SaaS セルフサーブとの相性は中程度。請求書払い・年契約・ハンコ稟議・代理店経由販売など商習慣への対応が必要。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Video BRAIN",
+        "url": "https://video-b.com/",
+        "note": "オープンエイトが提供する AI 搭載クラウド動画編集 SaaS。1,700 超のテンプレと約 800 万素材で法人向け動画内製を支援。"
+      },
+      {
+        "name": "RICHKA CLOUD STUDIO",
+        "url": "https://richka.co/",
+        "note": "カクテルメイクのマーケ動画生成エンジン。AI が最適動画を自動生成、コンサル支援付きで法人マーケ部門にリーチ。"
+      },
+      {
+        "name": "SoVeC Smart Video",
+        "url": "https://www.sovec.net/smartvideo/",
+        "note": "ソニーグループ技術を活用した動画自動生成 SaaS。1,600 超のデザインフォーマットで約 10 分で動画作成可能。"
+      },
+      {
+        "name": "AI Native(AI動画生成 SaaS)",
+        "url": "https://www.ai-native.jp/services/video-ai",
+        "note": "アニメ/実写風/3D を含む AI 動画生成 SaaS。100 言語以上の字幕・ナレーションに対応するとされる。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法",
+        "impact": "AI 自律生成物には著作権が発生しないのが原則。一方、既存作品との類似性・依拠性があれば侵害となるため、学習データと出力の管理、参照アセット(X 投稿・YouTube)取込み時の権利処理が必要。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "ユーザーがアップロードする顔写真・自社アセットに含まれる個人情報の取扱い。学習に再利用しない旨の明示、第三者提供の制限、越境移転(米国基盤利用時)に関する同意取得が必要。"
+      },
+      {
+        "law": "景品表示法・特定商取引法",
+        "impact": "生成された広告/プロモ動画を企業が配信する場合、優良誤認・有利誤認や打消し表示の問題が生じうる。サービス提供者自体の影響は限定的だが、ユーザー教育とテンプレ設計で配慮が望ましい。"
+      }
+    ],
+    "opportunity": "純粋なクローンで国内既存プレイヤーと真っ向勝負するのは厳しいが、エージェント型 + 要素単位編集という UX を活かし、(1) 日本語フォント・縦書き・テロップ作法に特化した SaaS プロダクト解説動画ジェネレーター、(2) X(旧 Twitter)で頻出する「アップデート告知ショート動画」を Notion / Linear / GitHub の更新情報から自動生成、(3) IR/決算説明動画や採用ピッチ動画など商習慣に深く根ざしたユースケース、といった縦切りで差別化する余地はある。代理店経由販売や請求書払い等の B2B 商流整備が成否を分ける。",
+    "rationale": "Motion 自体は完成度の高いプロダクトでグローバルでは強いが、日本市場には Video BRAIN・RICHKA・SoVeC など法人向け動画 SaaS が既に厚く存在し、テンプレ動画領域は飽和気味。一方、エージェント型かつ要素単位編集の UX はまだ国内に少なく、英語 UI のままでは中小スタートアップの一部にしか刺さらない。日本語タイポグラフィ・縦書き・商習慣(請求書/代理店)対応を含めローカライズすれば watch には届くが、コアモデルの優位性は米国勢が握っており、コピーキャット戦略では勝てない。日本独自ニッチ(IR 動画、SaaS アップデート告知、採用ピッチ)に絞った縦展開なら勝機があるが、Motion 自体の日本上陸を待つ方が合理的なケースも多く、現状は skip 判定。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00",
+  "review_guide_at": "2026-05-23T19:30:00"
+}

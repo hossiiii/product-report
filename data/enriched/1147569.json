@@ -1,0 +1,208 @@
+{
+  "name": "LobeHub",
+  "description": "Your Chief Agent Operator for multi-agent work",
+  "ph_url": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/GDRCLPANDCILEI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-18T07:01:00Z",
+  "upvotes": 494,
+  "comments": 88,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Spent the last few months listening to people tell us our agents were great and they still wouldn't use them. CAO is what came out of finally taking that seriously. Let CAO handle the rest and go touch some grass :-)</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>If CAO needs a decision at 2am, does it wait or send a notification based on my quiet hours?<br><br>BTW congrats on launch🚀</p>",
+      "votesCount": 12,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The \"one daily brief instead of 15 tabs\" framing is what gets me. Most agentic tools still make you babysit the </p><p>process, which kind of defeats the point.<br></p><p>I'm Curious how CAO handles conflicting priorities across agents when you have multiple goals running in parallel.<br></p><p>Does it surface that to you, or just pick one and move on?<br></p><p>Also, the 273K+ skills number is wild. How does it handle </p><p>Skill quality vs quantity? That seems like the hard problem.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "LobeHub is a Chief Agent Operator (CAO) that builds, runs, and coordinates your AI agent team. Describe a goal, and it assembles the right agents/skills, runs tasks in parallel in the cloud, routes work across models, and reports back only when decisions are needed—via your existing channels (Slack/Discord/Telegram/iMessage). Less tab-switching, more outcomes.",
+  "featured_at": "2026-05-18T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d91fc33b-29d2-4222-b0dc-977c6a78a670.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fc21c5c6-a867-4f5e-a10e-d94bbb5621d1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7579db1e-8dc7-4c55-b84c-64149c6abd2f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/959224dc-623d-46ac-ac56-c3128eb9eef4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/06928814-190a-4a84-9e3b-5dfe1672c727.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f3986490-9134-49d9-9e50-51c625ea31e4.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/312a69c4-9d7c-43d0-8d43-b31157f0cddd.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:26",
+  "landing_meta": "LobeHub - Your Chief Agent Operator — The ultimate space for work and life: to find, build, and collaborate with agent teammates that grow with you.",
+  "landing_text": "LobeHub - Your Chief Agent Operator Y o u r C h i e f A g e n t O p e r a t o r LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online. Get started for free Get the latest version… Trusted by teams worldwide Operate You run the strategy. We run the agents. Long-horizon Task Hires, schedules, and reports on your entire AI team The 500-Issue Sweep I had 500 open issues. My CAO dispatched 50 agents. I went to bed. The Shopify / Amazon Operator The Discord Whisperer Coffee Chat More productivity. Fewer tools. Bring all your agents under one roof IM Gateway Agents where you already chat Create Agents built for real work Agent Marketplace Agent Builder Community Build Agents fast, with full control over their Skills One sentence to start Names, roles, skills, and behaviors are set up automatically. Auto-configured by default Use instantly 315,110+ SKILLs Connect Agents to the Skills you use Skills Marketplace 59,199+ MCP Servers Unified intelligence Any model, any modality—under your control Collaborate A new kind of collaboration Agent Group Work with Agents as real teammates Auto team formation The system assembles the right Agents for the task. Parallel collaboration Multi-task execution Iterative improvement Multimodal Workflow Work with Agents across your workflow Pages Write and refine Pages with multiple Agents, all in one place with shared Context. Schedule Schedule tasks and let Agents handle the rest. Project Organize work by project, so everything stays structured and easy to track. Workspace A shared Workspace for teams to collaborate with Agents, with clear ownership and visibility. Evolve Agents that evolve with you Personal Memory Builds a clear understanding of you Continual Learning Learns from how you work Adaptive Behavior Acts at the right moment White-Box Memory Structured, editable memory Growing with the community Join Discord Guillermo Rauch # @vercel CEO T",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "subscription",
+    "pricing",
+    "premium",
+    "$1",
+    "$7",
+    "$11",
+    "$21",
+    "$38",
+    "$46"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:27",
+  "description_ja": "マルチエージェント業務のためのチーフ・エージェント・オペレーター(CAO)",
+  "summary_ja": "目標を伝えるだけで複数のAIエージェントとSkill/MCPサーバーを自動編成し、クラウド上で並列実行。Slack/Discord/Telegram/iMessage経由で意思決定が必要な時だけ報告する、AIチーム運用プラットフォーム。",
+  "review_guide_ja": {
+    "what": "LobeChatの後継として、複数AIエージェントを「雇用・スケジュール・報告」するチーフ・エージェント・オペレーター(CAO)を提供。ユーザーが一文で目標を述べると、エージェントとSkill/役割を自動編成し、315,110以上のSkillと59,199以上のMCPサーバーを活用してクラウド上で並列タスクを実行。OpenAI/Claude/Gemini/DeepSeek/Ollama/Qwenなど任意モデルを切替可能。Slack/Discord/Telegram/iMessage等の既存IMをハブにし、意思決定が必要なときだけ通知。Agent Marketplace、共有Workspace、Pages(共有コンテキスト付き編集)、Schedule、Project管理、White-Box Memory(構造化・編集可能な記憶)等を備える。500件のIssue一括処理、Shopify/Amazonオペレーター、Discord運用などのユースケースを想定。",
+    "for_who": "個人開発者、AIを活用したい中小スタートアップ、SaaS運用者、コミュニティマネージャー、EC運営者、CXチーム。チャットUI単独では限界を感じ、複数エージェント・複数モデルを束ねて運用したい技術志向の個人〜小チーム。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "MCP/Skill/メモリ/IMゲートウェイ/モデルルーティングを統合した本格プラットフォームで、Marketplaceとコミュニティ規模が競争力の核。1〜3ヶ月でクローン構築は困難。"
+    },
+    "signals": [
+      "Vercel CEO Guillermo Rauchが言及するなど海外で著名コミュニティの関心",
+      "LobeChat時代から日本語記事(LEXIA等)で複数解説されており既知ブランド",
+      "Skill 31万+ / MCPサーバー 5.9万+の大規模エコシステムを既に保有",
+      "$1〜$46の細かい価格帯でフリーミアム+サブスク",
+      "Product Hunt 494 upvotes / 88コメントと初動が好調"
+    ],
+    "concerns": [
+      "OpenAI/Anthropic/Slack/Salesforce(Agentforce)の純正マルチエージェントと正面衝突",
+      "コア機能はOSSのため差別化は運用層・Skill/MCPのキュレーションに依存",
+      "クラウド並列実行はLLMコストとレート制限がボトルネック",
+      "エージェントが個人情報や業務データを横断するため日本での同意設計・委託先管理が複雑",
+      "日本語UI翻訳はあるが商習慣(承認フロー・稟議)への適合は限定的"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本でも2025年以降「AIエージェント元年」とされ、マルチエージェント・オーケストレーションが2026年の主要トレンドに挙がる。国内AIエージェント市場予測は2029年135億円規模。LobeChat時代から日本語解説記事が複数存在しブランド認知あり。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Salesforce Agentforce、Slack AI Agents、ロリポップAIエージェントクラウド、ジーニー、OPERA TECHなど国内外の競合が密集。2026年版国内比較で19社が並ぶ激戦領域で、汎用CAO層は飽和に向かう。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "AI専用法はないが、個人情報保護法(同意・委託先管理)、特定電子メール法(自動通知)、電気通信事業法(外部送信規律)が関係。3年見直しでAI向け同意要件緩和も議論中。致命的規制ではないが設計次第でリスク。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "既に日本語UI・日本語解説が存在し、OSSベースで翻訳容易。Skill/MCPはAPI/構造化中心でローカライズ負荷は低い。ただしIMハブとしてLINE/Chatwork未対応は国内導入の障害になり得る。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "稟議・電子契約・経費精算など日本固有ワークフローへの最適化なし。Slack/Discord前提は国内大手で採用率に偏りがあり、LINE WORKS/Chatwork/Teams中心の中小企業に届きにくい。検索で根拠未確認の部分含む。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ロリポップ！AIエージェントクラウド",
+        "url": "https://lolipop.jp/ai/agent-cloud/",
+        "note": "GMOペパボが提供。OpenClaw/Hermes Agentを1クリックで構築でき、Slack/Discord/Telegram対応。月1,200円で個人〜小規模向けの直接競合。"
+      },
+      {
+        "name": "Salesforce Agentforce (日本)",
+        "url": "https://www.salesforce.com/jp/agentforce/multi-agent-orchestration/",
+        "note": "マルチエージェント・オーケストレーションをSlackから操作可能。エンタープライズ向けで、CRM/業務SaaS連携を網羅する強力な競合。"
+      },
+      {
+        "name": "Slack AI Agents (Slackbot進化版)",
+        "url": "https://www.watch.impress.co.jp/docs/news/2079286.html",
+        "note": "2026年1月にSlackbotがパーソナルAIエージェント化し国内提供開始。MCP統合で外部ツール拡張。LobeHubのIMハブ価値と直接競合。"
+      },
+      {
+        "name": "ジーニーグループ 日本語特化型自律AIエージェント",
+        "url": "https://geniee.co.jp/",
+        "note": "日本語特化の自律エージェントを展開。日本商習慣・言語対応で差別化を狙う国内勢として注目。詳細仕様は検索で根拠未確認。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "エージェントが業務データ・連絡先・記憶を横断的に扱うため、利用目的の特定・第三者提供/委託先管理・越境移転に関する同意設計が必要。3年見直しでAI向け統計利用の同意緩和が議論中だが現時点では厳格運用が前提。"
+      },
+      {
+        "law": "電気通信事業法(外部送信規律)",
+        "impact": "ブラウザ/IMから外部AIサービスへユーザー情報を送る構成は外部送信規律の通知/公表義務の対象となり得る。UIへの開示と取得情報明示が必要。"
+      },
+      {
+        "law": "特定電子メール法 / 特定商取引法",
+        "impact": "エージェントが営業メールや顧客通知を自動送信する用途は、オプトイン取得や送信者表示義務に抵触する恐れ。EC/マーケ用途で要設計。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "Skill/Pages生成物の学習・出力が他者著作物を含む場合の侵害リスク。日本の30条の4の解釈と、商用出力時の取扱いを利用規約・モデル選択で整理する必要。"
+      }
+    ],
+    "opportunity": "日本独自切り口としては、(1)LINE WORKS/Chatwork/Microsoft Teams/Slack日本テナント向けの「国産IMゲートウェイ＋承認ワークフロー」を被せた業務向けCAO、(2)freee/マネーフォワード/kintone/SmartHRなど国産SaaS群のSkill/MCPパッケージを公式キュレーションし、稟議・電子契約・経費・労務まで横断する「日本SaaSオーケストレーター」、(3)地方中小企業向けに日本語LLM(国産モデル含む)を既定にした安価セルフホスト版＋伴走支援、(4)コンプライアンス(個人情報・外部送信規律・電子帳簿保存法)に組み込みで対応する監査ログ・委託先管理機能。汎用CAO層を競うのではなく「日本の業務SaaSハブ」に役割を絞ることで差別化余地がある。",
+    "rationale": "LobeHubは2026年に主要トレンドとなるマルチエージェント・オーケストレーションの代表格で、Skill 31万・MCP 5.9万の規模感とOSSコミュニティが強み。日本でもLobeChat時代から認知があり需要は高い。一方、Salesforce Agentforce、Slack AI Agents(2026年1月国内提供)、ロリポップAIエージェントクラウド、ジーニー日本語特化エージェントなど国内外の競合が既に密集し、汎用CAO層は飽和方向。OSSベースゆえ差別化は運用・キュレーション・コンプラに移り、規制(個人情報保護法/電気通信事業法/特定電子メール法)とIMハブの国内偏在(LINE WORKS/Chatwork未対応)が国内独自開発の足枷になる。総合スコア5は「skip」で、汎用クローンは推奨せず、特定SaaS群(freee/MF/kintone/SmartHR)や業種(EC/コミュニティ運営)に絞った日本特化レイヤーへの転用を検討する位置付け。"
+  },
+  "japan_fit_at": "2026-05-23T19:20:00",
+  "review_guide_at": "2026-05-23T19:20:00"
+}

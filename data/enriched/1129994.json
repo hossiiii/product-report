@@ -1,0 +1,173 @@
+{
+  "name": "General Compute",
+  "description": "AI models that run on an inference cloud optimized for speed",
+  "ph_url": "https://www.producthunt.com/products/general-compute?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/NHQEMRTC6G4X2J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-22T07:01:00Z",
+  "upvotes": 262,
+  "comments": 33,
+  "topics": [
+    "API",
+    "Software Engineering",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt, I'm Jason, Co-founder &amp; CTO of General Compute!</p><p></p><p><strong>The Problem</strong></p><p>Agents are the most exciting thing happening in AI right now but the infra they run on was designed for chatbots, not autonomous workflows. When an agent has to make 20, 50, sometimes hundreds of sequential LLM calls to complete a task, <strong>latency compounds into a ceiling on what's actually possible</strong>.</p><p></p><p>Most inference providers today hit you with one of two tradeoffs:</p><ol><li><p>❌ <strong>GPU-based stacks</strong> – Great for training, but memory-bandwidth bottlenecks mean your agent runs slowly (~120 tokens/second)</p></li><li><p>❌ \"Fast\" inference with catches</strong> – Some providers deliver speed but lock you into small models, limited context windows, or pricing that breaks at agent-scale token volume. Speed without intelligence isn’t worth the trade off.</p></li></ol><p>After years building voice agents and real-time AI products ourselves, we got tired of waiting. So we built General Compute.</p><p></p><p><strong>How General Compute is Different 🚀</strong></p><p></p><p>GC is an <strong>ASIC-first inference cloud</strong> built on multiple chips, including SambaNova. SN uses a 3 tier memory architecture and dataflow, which is a fancy way of saying “It’s really fast cause we don’t have the same bottlenecks”.</p><ul><li><p>🔹 <strong>Agent first (OpenClaw)</strong> – Agents can sign up on their own and manage their own API keys. OpenClaw can move its inference just by pointing it at our website.</p></li><li><p>🔹 <strong>Built for agent workloads</strong> – Tuned for both coding agents and voice AI (TTFT), the things that matter when you're chaining dozens of calls. Your agent finishes in seconds, not minutes.</p></li><li><p>🔹 <strong>Speed without the tradeoffs</strong> – Frontier open models, full context windows, and pricing that actually works at production scale.</p></li></ul><p><strong>Who is this for?</strong></p><p>If you're building AI agents, voice AI ,or even just using OpenClaw or OpenCode and want faster inference, then GC is built for you. Faster inference isn't just a nice-to-have; it unlocks use cases that weren't viable before.</p><p></p><p>🔗 <strong>Get started today</strong></p><p>Sign up at <a href=\"https://generalcompute.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://generalcompute.com</a> and start running your workloads on ASICs today. We are offering $200 in free credit to anyone that signs up through the Product Hunt launch (up from the normal $5 in credit)</p>",
+      "votesCount": 42,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations to the launch.   </p>",
+      "votesCount": 14,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>this is a very real agent infra problem. Chatbot latency is annoying, but agent latency compounds into a hard ceiling when workflows need dozens of sequential LLM calls. how General Compute balances raw speed with reasoning quality on longer agent workflows, especially when there is large context, tool use, retries, and coding tasks. Is the biggest gain in TTFT/throughput, or do you also see better end-to-end task completion?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "GPUs are built for training, not inference. General Compute is an inference cloud running on ASICs — purpose-built alternatives to Nvidia silicon designed specifically for inference. We deliver 5x faster responses and higher per-user throughput for latency-sensitive workloads like coding and voice agents. Our OpenAI-compatible API means you swap your base URL, keep your existing workflows, and run real-time AI on infrastructure built for the job.",
+  "featured_at": "2026-05-22T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/e7ecdc30-d819-457b-bd2c-c51b32c0379b.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a04ce0a0-f044-4694-b61d-cb584601b450.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f6dc93c3-8ad9-4380-a9c1-fecf4805f42a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/84d8e0f2-b3f5-4925-a9c5-7b17e2da0166.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5f0fae30-2fcc-4f64-a669-5c6d52ef3ce6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/57adafff-ce4b-4b97-95f8-7af689e77229.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/6960bb8d-a184-4c2a-8924-f7d367faec35.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:41",
+  "landing_meta": "General Compute — World's Fastest AI Inference — The world's fastest inference provider. Deploy AI models with unmatched speed. Sub-millisecond TTFT, high throughput, OpenAI-compatible API.",
+  "landing_text": "We're live on Product Hunt today — support our launch Read the whitepaper Use $200 free credit with OpenCode GPUs were built for graphics. We're built for inference. Every other inference provider is running your workloads on repurposed gaming hardware. We're not. Purpose-built ASICs, 1,000 tokens per second, 7x faster inference. Get API Key — $200 Free Credit Book a Demo OpenClaw Coding agents Sign up with OpenClaw OpenClaw can set itself up. Hand this prompt to OpenClaw and it'll grab a General Compute API key and swap its inference provider over. Full walkthrough in our docs. Read the OpenClaw guide Connect OpenClaw to General Compute for faster inference. Fetch instructions from https://docs.generalcompute.com/openclaw and follow them — that walks you through getting a General Compute API key and swapping OpenClaw's inference provider over. Copy For developers: API docs, OpenAPI, webhooks, MCP, SDKs Live Inference Benchmark Same model. Not the same hardware. Both responses below run GPT OSS 120B . One on your old GPU infrastructure. One on ours. Run the test and watch the gap. General Compute Us Ready to compare Together AI Competitor Ready to compare Explain Black Holes Explain Dark Matter Explain Gravitational Lensing Explain in detail the physics behind black hole event horizons and the information paradox. Include discussions of Hawking radiation, quantum mechanics, and general relativity. Run Test Try preset prompts or enter your own to compare inference speed in real-time The GPU wasn't designed for this. We were. GPUs carry 70 years of legacy architecture — designed for rendering pixels, adapted for training, and now pressed into inference. We skipped all of that. Built from scratch for inference Purpose-built AI accelerators — one job: fast inference 17 kW per rack vs. 120 kW for GPU equivalents Air cooled — no liquid cooling overhead passed to you Energy at $0.035/kWh vs. the $0.13 US commercial average General Compute vs NVIDIA GPU Cloud MiniMax M2.5 m",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "$200",
+    "$0.035",
+    "$0.13",
+    "$1",
+    "$16",
+    "$23",
+    "$29"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:42",
+  "description_ja": "速度に最適化された推論クラウド上でAIモデルを動かすサービス",
+  "summary_ja": "ASIC専用ハードウェアを使ったAI推論クラウド。OpenAI互換APIでGPT OSS 120BなどのオープンモデルをGPUの数倍の速度で実行でき、AIエージェントや音声AIなど低レイテンシ用途に最適化されている。",
+  "review_guide_ja": {
+    "what": "GPUの代わりにASIC（SambaNova等のAI推論専用チップ）を使ったAI推論クラウド。1,000トークン/秒、GPU比5〜7倍速、ミリ秒以下のTTFTを売りに、OpenAI互換APIでフロンティアオープンモデル（GPT OSS 120Bなど）を提供する。コーディングエージェント、音声AI、エージェントワークフローのように数十回〜数百回のLLM呼び出しを連鎖させる用途に焦点。OpenClawなどコーディングエージェント側からのセルフサインアップ・APIキー発行に対応し、エージェント自身がベースURLを差し替えるだけで利用可能。1ラック17kW・空冷・$0.035/kWhといった電力効率も訴求。",
+    "for_who": "AIエージェント・コーディングエージェント・リアルタイム音声AIを開発する個人開発者、AIスタートアップ、SaaS事業者。OpenAI/Anthropic APIのレイテンシやコストに不満がある開発者、特にエージェントの逐次LLM呼び出しで遅延がボトルネックになっている層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "ASIC専用ハードウェアの調達と運用、SambaNova等との提携、データセンター構築が必要。個人〜小規模チームが1〜3ヶ月で再現するのは事実上不可能。"
+    },
+    "signals": [
+      "ローンチ初日に262 upvote・33コメントとPHで好反応",
+      "OpenAI互換APIで既存ワークフローからの移行コストが低い",
+      "コーディングエージェント・音声AIというホットな分野に明確にフォーカス",
+      "$200の無料クレジットで開発者の試用を強く後押し",
+      "1ラック17kW vs GPU 120kWという電力効率の数値が具体的"
+    ],
+    "concerns": [
+      "Groq・Cerebras・SambaNova直接・Together AI等の強豪が既に多数",
+      "ASIC調達が必須でハードウェアの参入障壁が極めて高い",
+      "提供モデルがオープンモデル中心、GPT-5やClaudeなどフロンティアは使えない",
+      "NVIDIAがGroq技術をライセンス取得するなど巨大プレイヤーの参入で淘汰リスク",
+      "日本リージョンの記載がなく、レイテンシ・データ主権で国内顧客には不利"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内でもAIエージェント市場は2025〜2026年に急拡大しており、低レイテンシ推論への需要は確実にある。ただし日本企業の多くはまずOpenAI/Azure OpenAIを選び、サードパーティ推論クラウドへの切り替え意欲はまだ限定的。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "さくらインターネット（Sakura AI Engine）、GMO GPU Cloud、ソフトバンク（SambaNova SN50導入）など国内勢が政府支援込みで参入済み。海外勢もGroq・Together・Fireworks等が日本語ドキュメント・APIで利用可能。極めて飽和。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "推論APIそのものはクラウド例外で個人情報保護法上の第三者提供に該当しない解釈が一般的。電気通信事業法の外部送信規律はあるが提供事業者側より利用側の責務が中心。重大な障壁はないが、データ主権要件のある業種では国内DC必須となる点に注意。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "OpenAI互換APIで実態はベースURLの差し替えのみ。UI/ドキュメントの日本語化と請求書・インボイス制度対応があれば足り、UX改修は軽い。日本語モデルの精度はオープンモデル依存で、Llama系・Qwen系で実用範囲。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業は請求書払い・与信・SLA・国内DCを重視する傾向が強く、$200クレジット型のセルフサーブ＋ドル決済モデルとは相性が悪い。エンタープライズ販売には代理店経由＋日本法人＋日本円請求が必須になりがち。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "さくらインターネット Sakura AI Engine",
+        "url": "https://www.sakura.ad.jp/",
+        "note": "国内DCで稼働する生成AI推論APIプラットフォーム。複数の基盤モデルとRAG機能を提供。METIから500億円規模の補助金を受けGPU調達を拡大中。"
+      },
+      {
+        "name": "GMOインターネットグループ GMO GPU Cloud",
+        "url": "https://www.gmo.jp/",
+        "note": "NVIDIA H200フルスタックを日本国内で提供するGPUクラウド。AI推論を含むワークロード向け。"
+      },
+      {
+        "name": "ソフトバンク (SambaNova SN50)",
+        "url": "https://www.softbank.jp/",
+        "note": "SambaNovaの新ハードウェアSN50を日本国内AIデータセンターに導入。General Computeの基盤と同系チップを直接運用する競合。"
+      },
+      {
+        "name": "Groq (GroqCloud)",
+        "url": "https://groq.com/",
+        "note": "LPUベースの超低レイテンシ推論API。日本語ドキュメントは限定的だが世界中36万開発者が利用、日本からも直接利用可能で実質競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "プロンプト入力に個人情報が含まれる場合、利用目的との整合・第三者提供の可否が論点。学習に使わない契約・クラウド例外の整理が必要だが、提供事業者側で標準的なDPA・データ取扱契約を整備すれば実装可能。"
+      },
+      {
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "B2C向けに組み込まれる場合、利用者情報の外部送信に該当する可能性があり、組み込み先サービスでの通知・公表義務が発生し得る。推論API単体への直接適用は限定的。"
+      },
+      {
+        "law": "AI事業者ガイドライン（内閣府）",
+        "impact": "法的拘束力はないが、安全性・公平性・プライバシー保護のガバナンス整備を求める。エンタープライズ販売時のRFPで参照されることが多く、対応文書の整備が事実上必要。"
+      }
+    ],
+    "opportunity": "日本独自の角度として、(1) 国内DC設置＋日本円請求＋インボイス対応のエンタープライズ向け『日本リージョンASIC推論API』、(2) 日本語特化オープンモデル（Llama-3-Swallow、Qwen日本語Fine-tuneなど）を最適化提供する『日本語エージェント向け推論基盤』、(3) コールセンター・音声AI業界向けに低TTFTを売る垂直特化、の3軸が考えられる。ただしハードウェア調達と巨額資本が必要なため、個人開発者・小規模チームではなく、既存DC事業者（IDCFrontier・IIJ等）との提携や代理店化が現実的な打ち手。",
+    "rationale": "General Computeは技術的に魅力的で需要も伸びているが、日本市場ではさくらインターネット・GMO・ソフトバンク（SambaNova直導入）といった国内勢が政府補助金を背景に既に陣取りを始めており、競争環境は非常に厳しい。さらにハードウェアレイヤーの事業であり、個人開発者やマイクロSaaS事業者が再現できる類のプロダクトではない。一方、SaaSレイヤーで『日本語エージェント特化のラッパー』や『国内コールセンター向け音声AI推論ブローカー』のような上位レイヤービジネスは検討余地がある。重み付けスコアは demand=6, competition=3, regulation=7, localization=8, business_custom=4 → 6×0.30+3×0.25+7×0.20+8×0.15+4×0.10=5.55、四捨五入で6＝watch。本プロダクト自体の国内展開は競争で厳しいが、上位レイヤービジネスの種としては観察価値あり。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00",
+  "review_guide_at": "2026-05-23T19:30:00"
+}

@@ -1,0 +1,160 @@
+{
+  "name": "moop",
+  "description": "A social network without media",
+  "ph_url": "https://www.producthunt.com/products/moop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/U7RY625H2RL3IF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-22T07:01:00Z",
+  "upvotes": 140,
+  "comments": 25,
+  "topics": [
+    "Social Media",
+    "Books",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋\n\nWe built moop because social media has become visual, loud, and a honeypot for brainrotting. Meanwhile, the internet’s best culture still lives and dies through lists. Best movies. Worst first-date spots. Books that changed your brain. Restaurants you’d gatekeep. Things you’d die defending.\n\nmoop is a text-only social network for lists.\n\nYou can create lists about anything, follow people for their taste, jump to new lists through shared elements, and remix lists into your own version.\n\nThe idea is simple: instead of a social graph based on likes and clicks, moop creates a the network effect through genuine taste and creativity.\n\nWe’d love feedback on three things:\n 1. Does the item-to-other-lists discovery loop feel intuitive?\n 2. What list categories would you want to see more of?\n 3. Does moop feel more like a social network, a discovery tool, or something else?\n\n Thanks for checking it out! We’ll be here all day responding to comments.",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Text-only lists? Into it. I already stash movie recs + food spots in Notes, so this clicks. The item-&gt;other lists hop made sense after a minute. Feels more discovery than social. Would love more hyper-local stuff (cheap eats, late-night spots) and “comfort rewatches.”</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "I think that concept of taste is something more people should be engaging with. AI doesn’t have taste like a human does. So understand and refining our ‘taste’ is an important human effort. Good luck",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Social media without media. Moop is a social network designed to spark inspiration and combat brainrotting. List the things you're into — places, books, ideas, the small moments worth saving.",
+  "featured_at": "2026-05-22T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/9fb2a0bd-d0a2-457d-adee-4d495ce5bb5a.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5ae720e0-7e51-420d-a5e4-0a31635c15ff.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e478364c-3d5a-468b-8bdd-d5f7ccb8de43.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2d73153c-6d75-497e-82ce-d941c4aa8a65.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:06:06",
+  "landing_meta": "moop — your taste, in lists — Lists for the things you're into — places, books, ideas, the small moments worth saving.",
+  "landing_text": "moop — your taste, in lists",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-23T19:06:08",
+  "description_ja": "テキストのみで「好き」をリスト化して共有する新しいSNS",
+  "summary_ja": "映像で消耗しがちな既存SNSへの対抗として、テキスト主体でリスト（映画・本・店・概念）を作り、フォローやリミックスでセンスを通じた発見を促す、軽量な趣味共有ネットワーク。",
+  "review_guide_ja": {
+    "what": "moopは「メディアなしのSNS」と銘打つテキスト中心のリスト共有プラットフォーム。ユーザーは映画・本・飲食店・概念など任意のテーマで自由にリストを作成し、フォロー、アイテム経由での他者リストへのジャンプ（discovery loop）、リミックス（他人のリストを自分版に派生）を通じて、画像や動画ではなく『センス』のグラフでつながる。Alphaトピックでローンチ初日に140upvotes・25コメントを獲得し、メーカーは『item→他リストの発見ループ』『欲しいリストカテゴリ』『SNS or 発見ツールかの位置付け』の3点でフィードバックを募集している。プロダクトHunt上の議論はローカル情報・comfort rewatchなど具体的な使い道に集まっており、Notesアプリで個人ストックしている層が想定ターゲット。マネタイズは未公開、料金シグナルも検出されていないため現状は無料アルファ段階と推測される。",
+    "for_who": "視覚SNSに疲れて『センスで繋がりたい』20〜30代の文化系ユーザー、映画・本・飲食店などキュレーション欲が高い層、Notesアプリで個人的にリストを溜め込んでいるが共有手段が無かった人。既存のFilmarks/ブクログ等の単一カテゴリ縦割りSNSに横断性を求める層。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "テキスト・リストCRUDとフォロー・リミックスというWeb2の枯れた機能の組合せ。技術的障壁は低くMVPは数週間で再現可能。差は『誰がリストを書くか』のコミュニティ立ち上げ力に集中する。"
+    },
+    "signals": [
+      "ローンチ初日140upvotes/25コメントとAlpha段階としては良好な初動",
+      "『AIに無い人間のtaste』というメッセージが現代の反AI/反brainrot文脈に乗っている",
+      "Notes・スクショで個人的にリスト管理する層は世界共通で存在し潜在需要は厚い",
+      "Letterboxd（1700万ユーザー）の成功が示すリスト×SNSの成立性"
+    ],
+    "concerns": [
+      "横断SNSは『どのカテゴリも中途半端』になりやすくFilmarks等の縦型強者に勝てない",
+      "テキストのみという制約はZ世代のビジュアル消費習慣と逆行しスケールしにくい",
+      "コールドスタート問題：人気者のリストが無ければ発見ループが回らない",
+      "コピー容易性が高くPHでバズっても模倣サービスに先行を奪われやすい",
+      "マネタイズ経路が不明（広告は世界観と矛盾、課金は規模が前提）"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "日本にも『推し』『マイベスト』文化と私的リスト需要は確かにあるが、すでにFilmarks（映画）・ブクログ/読書メーター（本）・食べログ/Retty（飲食店）・RETRIP（旅行）等が縦割りで強固に存在し、横断テキストSNSへの未充足ニーズは限定的。汎用SNSはX/Threadsが受け皿になっており、新規参入の純粋需要は中庸。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "縦カテゴリではFilmarks・ブクログ・食べログ・Rettyなど超強者が並ぶ。横断リスト系では旧NAVERまとめ撤退後の空白はあるが、Threads・X・noteが事実上の代替。Letterboxd日本ユーザーも増加中。直接競合は薄いがアテンション競合が極めて厚く、勝ち筋を描きにくい。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "UGCプラットフォームとして個人情報保護法・プロバイダ責任制限法（情報流通プラットフォーム対処法、2025年4月施行）の適用対象。月間発信者1000万人以上で大規模指定だが当面は規模未達。誹謗中傷リスト・著作権リスト（本・映画タイトル）に注意は要るが、テキストのみで画像なしのため侵害リスクは画像SNSより低い。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UIの日本語化は容易だが、書籍ISBN・映画作品DB・店舗データなど日本市場特有のマスタ整備が必要。完全フリーテキストでスタートしているためマスタ未整備でも動くが、Filmarks/ブクログ並みのリッチさを得るには相当なデータ統合が必要。絵文字・縦書きなど文化適合の調整も中量発生。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のSNS文化は実名/顔出しを避け、匿名ハンドルでX中心。『センスをフォローする』という米的個人ブランド文化と相性が悪く、日本では『界隈』『匿名のオタクコミュニティ』寄りに歪む傾向。BtoC無料SNSのマネタイズ慣行も日本では未成熟で、ローカル収益化は困難。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Filmarks",
+        "url": "https://filmarks.com/",
+        "note": "日本最大の映画レビューSNS。マイページのリスト機能・フォロー・タグで横移動可能。映画カテゴリではほぼ独占的なシェア。"
+      },
+      {
+        "name": "ブクログ",
+        "url": "https://booklog.jp/",
+        "note": "本のリスト管理・本棚共有SNS。タグとカテゴリで多階層整理ができ、読書メーターと並ぶ二大読書SNS。"
+      },
+      {
+        "name": "読書メーター",
+        "url": "https://bookmeter.com/",
+        "note": "2008年開設の老舗読書SNS。読書記録・コミュニティ機能・SNS連携が強くアクティブ層が厚い。"
+      },
+      {
+        "name": "Retty",
+        "url": "https://retty.me/",
+        "note": "実名グルメSNS。『行った/行きたい』リスト・フォロー機能でmoopの飲食店ユースケースと直接競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "情報流通プラットフォーム対処法（旧プロバイダ責任制限法）",
+        "impact": "2025年4月施行。誹謗中傷投稿への7日以内判断・通知、削除運用の透明化、発信者情報開示等が義務化。大規模指定（月間発信者1000万人等）に達すれば追加義務と最大1億円の制裁金。リスト中の人物・店舗名指名で名誉毀損リスクが顕在化しやすく、運用フローの整備が必須。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "ユーザー登録・行動ログ取得時に利用目的の特定・通知、外国第三者提供（米国サーバー利用時）の同意取得・委託先管理が必要。プライバシーポリシーの日本語化と本人開示請求対応窓口の設置が前提となる。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "映画タイトル・書名・引用は基本的に題号として著作物性が低くリスト化は許容範囲。ただしユーザーがあらすじや本文抜粋を貼った場合は引用要件（必然性・主従関係・出所明示）違反のリスクあり。テキストのみで画像非対応のため画像著作権リスクは回避される。"
+      },
+      {
+        "law": "景品表示法・特定商取引法",
+        "impact": "店舗・商品の推薦リストでステマ規制（2023年10月施行）に抵触する可能性。事業者が対価を得てリストを作成する場合は『広告』表示義務。リミックス機能で対価関係が不透明化しないかのチェックが必要。"
+      }
+    ],
+    "opportunity": "日本市場で勝ち筋を描くなら、横断SNSではなく『匿名コミュニティ×特定ニッチ』に絞る方向が現実的。例：『地下アイドル現場リスト』『古書店・喫茶店マップ』『同人誌オススメリスト』のような縦割り強者（Filmarks等）が拾わないニッチ文化領域で、X流入導線を作る。匿名性とハンドル文化に合わせて『センスのアカウントをフォロー』ではなく『リスト単位で発見』に振り、はてなブックマーク的な情報流通の継承を狙うのが第二の道。ただし基本的にはmoop本体の日本展開ではなく、コンセプトを参考にした日本独自プロダクトの方が成功確率が高い。",
+    "rationale": "moopは『反brainrot/センス重視』というコンセプトは秀逸でローンチ初動も悪くないが、日本市場では(1)Filmarks・ブクログ・読書メーター・Retty・食べログという縦カテゴリの強豪が既にリスト×SNSのコアニーズを充足、(2)アテンション競合としてX/Threads/noteが横断テキスト共有を担い、(3)『個人のセンスをフォロー』という米的個人ブランド前提が日本の匿名・界隈文化と噛み合わない、という三重苦に直面する。規制面は2025年情プラ法・個情法・ステマ規制への対応が必要だが致命的ではない。技術再現性が高くコピー容易な領域でもあり、ファーストムーバー優位も弱い。総合的に日本での新規参入妙味は低く、watchというより本体の展開はskip相当。ただしニッチ縦割り×匿名コミュニティでの応用は検討余地があり、コンセプト学習素材としての価値は残る。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z"
+}

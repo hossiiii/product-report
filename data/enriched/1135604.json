@@ -1,0 +1,194 @@
+{
+  "name": "PollyReach",
+  "description": "Give your agent a real number and voice to make calls.",
+  "ph_url": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/YNJ3R3XJ5FEEBJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-19T07:01:00Z",
+  "upvotes": 663,
+  "comments": 175,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Virtual Assistants"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt! 👋</p><p></p><p>I'm Gia, maker of PollyReach.</p><p></p><p>I'm the kind of person who'd rather text than call. But some things still require a phone call — and when the restaurant is full, you have to try the next one, and the next.</p><p></p><p>In Japan, I wanted to book a small izakaya. No online reservation, just a phone number. I don't speak Japanese.</p><p></p><p>That's when it clicked: AI speaks 50+ languages. Why can't it just make the call?</p><p></p><p><strong>So we built PollyReach — Your Agent gets its own real phone number and a real voice. </strong>It handles real conversations the way a personal assistant would — gets interrupted, responds naturally, waits on hold, navigates IVR menus, and knows when to push back and when to hang up.</p><p></p><p><strong>It calls for you</strong></p><ul><li><p>Polly finds the number, dials, navigates phone menus, handles the conversation, and confirms the booking. You get a summary + recording + transcript.</p></li></ul><p></p><p><strong>It answers for you</strong></p><ul><li><p>Polly picks up 24/7 with a natural-sounding voice — screens spam, talks to real callers, takes messages, tags priority, and sends you a summary. You decide what's worth calling back.</p></li></ul><p></p><p><strong>It works for your business</strong></p><ul><li><p>One of our users manages 80+ rental properties — his AI assistant handles tenant calls, follows up with vendors, and sends him a daily report.</p></li></ul><p></p><p>Get started — just send this to your agent:</p><pre><code>clawhub install pollyreach</code></pre><p></p><p>Everyone here gets 200 free credits + a free phone number. Try it and let me know what your first call is.</p><p></p><p>Really excited to share this with the PH community. We'll be around all day answering questions! 🙌</p>",
+      "votesCount": 26,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Do you have a demo call recording somewhere? I want to hear the natural interruptions in action.</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Quo answers phones. \n\nDoes your software make calls?\n\nWill the agent identify itself as AI without prompting?\n\nThanks. 🙏",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Most AI phone tools are built for enterprises — APIs, workflows, sales automation. PollyReach is built for you. Give your AI a real phone number. Say \"book me a table for 7pm\" — it finds the number, makes the call, handles the conversation, and reports back with a summary, recording & transcript. It also answers your phone 24/7 and screens spam. Works in 50+ languages.",
+  "featured_at": "2026-05-19T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a4ef6a7a-4563-402b-8578-1681fbdc19d8.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5d0fe004-cb72-41e2-8e97-34b8b667eecb.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/542b44e8-6467-4d7e-ba2f-d01d1b408ed3.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ca5099d3-3d07-4b23-acd9-86ea1c83c75c.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/432ebe33-334c-4469-b063-484c2f35e634.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/837bc9a8-de32-4556-a2d8-dfbf94c00d8a.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/254f830a-edb4-4eb3-ab4e-25cb9fbb07f7.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/d227974d-6d73-4bb7-9851-f332a6d4f6e2.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:21",
+  "landing_meta": "PollyReach — AI Voice Agents for Phone Calls & Support — PollyReach gives every AI Agent its own phone number and the ability to make real calls. Automate lead qualification, customer support, appointment booking, and more with AI voice agents.",
+  "landing_text": "PollyReach — AI Voice Agents for Phone Calls & Support",
+  "pricing_signals": [
+    "free trial",
+    "pricing",
+    "$0",
+    "$1"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:23",
+  "description_ja": "AIエージェントに実在の電話番号と音声を与え、本物の電話をかけさせる。",
+  "summary_ja": "AIエージェント専用の電話番号と音声を発行し、レストラン予約や問い合わせ電話を発信・応答まで自動化。IVRや保留にも対応し、要約・録音・文字起こしを返す個人向けAI電話アシスタント。",
+  "review_guide_ja": {
+    "what": "個人ユーザー向けのAIボイスエージェント。AIに専用の実電話番号を割り当て、(1)発信代行: 店舗探し→電話番号特定→ダイヤル→IVRナビゲート→自然な会話(割り込み・保留対応)→予約確定までを自動化し、要約・録音・文字起こしを返す。(2)着信応答: 24/7で本人の代わりに電話を受け、スパム選別、メッセージ取得、優先度タグ付け、要約配信を行う。50言語以上対応で、メーカー自身が日本で居酒屋予約に困った原体験から開発。賃貸物件80件超を扱うユーザーが入居者対応・業者フォローに使う事例もあり、個人〜SOHO向けの一般用途を狙う。pricing は $0/$1 トライアル + クレジット制。",
+    "for_who": "電話が苦手な個人ユーザー、海外在住で日本語電話が必要な訪日客、ノンネイティブ言語で電話する必要のあるソロプレナー、小規模オーナー(数物件規模の不動産管理・店舗オーナー)、固定電話番号を持たない個人開発者・フリーランス。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "Twilio/Vonage の音声API、OpenAI Realtime API、各社TTSを組み合わせれば1〜3ヶ月でPoC可能。難所はIVR突破・割り込み・保留検知・低遅延化と、日本では050/03番号取得と電気通信事業届出。"
+    },
+    "signals": [
+      "上場直後で663 upvote / 175 comments と高いPHエンゲージメント",
+      "メーカーの原体験が『日本での居酒屋予約』というローカル痛点",
+      "個人ユーザーをはっきり想定した数少ないAI電話プロダクト",
+      "発信(outbound)と応答(inbound)の両機能を1プロダクトでカバー",
+      "クレジット式の低価格トライアルで個人が試しやすい"
+    ],
+    "concerns": [
+      "日本語の電話では敬語・間・聞き返しの精度が顧客満足を左右する",
+      "店舗側がAIによる予約を拒否・ブラックリスト化する可能性",
+      "電気通信事業法・特定電子メール法相当の通信規制と発信者表示義務",
+      "ナンバーディスプレイ非対応番号への発信・無言通話扱いリスク",
+      "AutoReserve, IVRy, ebica など国内競合がすでにエコシステムを構築済み"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "日本は『電話必須・ネット予約不可』の小規模店舗が多く、訪日外国人・電話苦手層の需要は明確。AutoReserveが100カ国にユーザーを持つほどで、需要シグナルは強い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "個人発信代行のAutoReserve、店舗側のIVRy・トレタ予約番・ebica・JAPAN AI CALL・ミライAI・アイブリーなど国内プレイヤーが密集。発信×応答の個人向け統合は新しいが、各機能の代替は飽和気味。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "電話番号発行は電気通信事業者の届出が必要で、050/03番号の取得には総務省指定事業者経由が前提。通信の秘密(電気通信事業法)、AIによる無断録音・本人通知、特定商取引法上の電話勧誘規制も論点。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "50言語対応をうたうが、日本語電話特有の敬語・間・婉曲表現・店主の聞き取り辛い名乗りは難所。番号通知・名乗り・保留中の音楽認識など電話文化のUX差も大きく中規模の改修が必要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の小規模店舗は『顔の見える顧客』を重視し、AI代行予約を断る店も少なくない。法人領域では商習慣として人による電話応対が信頼の証とされ、純AI発信は浸透余地が限定的。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "AutoReserve(株式会社ハロー)",
+        "url": "https://autoreserve.com/",
+        "note": "ネット予約不可の店にAIが代理で電話して予約する個人向けアプリ。世界17カ国260万店舗対応、100カ国ユーザーを擁し、PollyReachの個人向け発信ユースケースとほぼ重なる。"
+      },
+      {
+        "name": "IVRy(株式会社IVRy)",
+        "url": "https://ivry.jp/",
+        "note": "対話型音声AI SaaS。リクルート『レストランボード』と連携し電話AI対応を提供。発信側ではなく事業者の着信応答側の代表格。月額3,317円〜。"
+      },
+      {
+        "name": "トレタ予約番(株式会社トレタ)",
+        "url": "https://toreta.in/toreta-yoyakuban/",
+        "note": "飲食店の予約電話をAIが自動応答。店舗側ソリューションだが、PollyReachの着信応答機能と競合する。"
+      },
+      {
+        "name": "JAPAN AI CALL(JAPAN AI株式会社)",
+        "url": "https://japan-ai.co.jp/call/",
+        "note": "AIエージェントが自律的に発信業務を行う架電自動化サービス。法人向け中心だが発信AIの直接競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "電気通信事業法",
+        "impact": "ユーザーに電話番号を払い出し、発信・着信を媒介する形態は『電気通信事業』に該当しうるため届出または登録が必要。通信の秘密の保持義務があり、通話録音・要約処理の取扱い・委託先管理が論点。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "通話相手の音声・氏名・予約情報を取得・録音・文字起こしする際、利用目的明示と適正取得が必要。海外サーバー処理は越境移転規制の対象となり、店舗側相手の同意取得は実務上困難。"
+      },
+      {
+        "law": "特定商取引法/電話勧誘販売規制",
+        "impact": "AIが営業目的で発信する場合、勧誘の意思確認・氏名/事業者名明示・再勧誘禁止などの規制が及ぶ。個人ユーザー用途でも事業利用に転用された際の責任分界が不明確。"
+      },
+      {
+        "law": "AI事業者ガイドライン(経産省/総務省)",
+        "impact": "AIが人間を装って発話する場合のAI明示の議論が進行中。『AI声優』論点と同様、相手方への自動応答である旨の告知が今後求められる可能性が高い。"
+      }
+    ],
+    "opportunity": "日本語電話に特化した『訪日客×電話必須店』向けエージェント、または地方の高齢オーナー店舗との橋渡しに振り切る角度。具体的には(1)インバウンド観光客向けに多言語→日本語電話予約のみを高精度で行うニッチサービス、(2)AutoReserveが弱い『美容室・病院・町工場』など非飲食縦業界、(3)個人事業主の代表電話を050で持ち、AIが一次応答→人へ即時SMS転送のハイブリッド設計、(4)発信時にAI使用を明示しつつ店舗予約台帳に直接書き込むAPI連携モデル、などが日本独自の差別化軸になる。",
+    "rationale": "需要は明確に存在し、メーカーが日本での原体験を起点に作っている点は強い。一方で(a)個人発信代行はAutoReserveが既に世界規模で先行、(b)着信応答はIVRy/トレタ/ebicaなど国内専業勢が業界連携と価格優位で固めており、(c)電話番号払い出しを伴うサービスは電気通信事業法・個情法の規制対応コストが重い、(d)日本の電話文化(敬語・人による応対の信頼性)とAI発信は摩擦が大きい。PollyReachのまま日本に投入してもポジション確保は困難で、verdict=skip。ただし需要面(8点)の魅力は本物で、垂直特化または訪日インバウンドUXに振り切れば watch〜build に再評価できる。score=round(8×0.30+3×0.25+4×0.20+5×0.15+4×0.10)=round(2.4+0.75+0.8+0.75+0.4)=round(5.1)=5。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00",
+  "review_guide_at": "2026-05-23T19:30:00"
+}

@@ -1,0 +1,156 @@
+{
+  "name": "Re_gent",
+  "description": "Version Control for AI agent Activity",
+  "ph_url": "https://www.producthunt.com/products/re_gent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/YYIC7WP7TME3QF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-20T07:01:00Z",
+  "upvotes": 170,
+  "comments": 34,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi Product Hunt Community 🥰<br><br>Git tells you what changed, but not what the agent did to get there.<br><br>When an agent breaks something, or if it decides to just delete necessary code we're often stuck reconstructing the session from memory (assuming you caught it before /compact)<br><br>So I built re_gent: version control for AI agent activity.<br><br>With re_gent, you can:<br>• Trace what your agent did, step by step<br>• Blame a line of code back to the prompt/session that caused it<br>• Rewind agent work across code and conversation<br>• Keep history even when sessions get compacted or fragmented<br><br>And I think this is just the enabler for a lot more:<br>- Sharing full-context conversations with teammates<br>- Skills that let an agent investigate its own past work<br>- Building richer context from an agent's decision history<br>- And Much more !<br><br>Would love any feedback, thoughts, or feature requests drop em below!<br><br>YOUR AGENT DESREVES TO BE BLAMED 🤜 🤖 🤛</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Linking agent file changes to the exact prompt that triggered them is genuinely novel. Most agent frameworks hand you a diff with no causal chain. We've been burned by cascading agent edits across services where figuring out which session introduced a bug takes forever. How do you handle rollback when the agent touched external state or APIs? Is it purely file-level undo or does re_gent track side effects too?</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Treating agent activity as a versioned artifact you can diff and revert is genuinely clever. Most teams just log outputs and hope. At RetainSure we've felt the pain of debugging a bad agent decision without any state history to trace it back through. Does Re_gent support mid-run checkpointing so you can fork from a specific state, or is versioning scoped to full run boundaries?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Git for your AI agent’s actions. Undo, trace, and control every step. re_gent shows what your coding agent changed, which prompt caused it, and lets you roll back agent work across files and sessions.",
+  "featured_at": "2026-05-20T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/1f0471d2-a445-4750-8efa-4b0beb81b82d.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ee864408-c5b7-4d3b-b231-0aa9954fb968.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3c5143f4-e2e0-4261-ac66-38548c6b4e7c.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/53924fa2-9f19-4d09-8d15-e719b5cf5e85.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c58c8a0a-21b5-4c47-8d7a-c308e4698aec.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/61746027-c74b-4eb1-90a0-44d058538b2d.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/94b0ddd5-090d-4793-8088-ab22047453ad.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:06:01",
+  "landing_meta": "Regent | Version-Control for AI coding agents — Re_gent | Git for your AI agent’s actions. Undo, trace, and control every step.",
+  "landing_text": "Regent | Version-Control for AI coding agents google-site-verification=02jOoO9KpLvXphZIHv-fSyY_hltynZT5ry4cxhbjVRg PUBLIC ALPHA Version Control for AI agent activity Undo, blame, checkout, and replay AI coding sessions locally. Regent captures every agent action so you stay in control. View on GitHub Get Started PUBLIC ALPHA Version Control for AI agent activity Undo, blame, checkout, and replay AI coding sessions locally. Regent captures every agent action so you stay in control. Get Started Email me here Looking for contributors What happend? Your agent edits 14 files while you get coffee What changed? Which prompt? Which prompt? Undo safely? Undo safely? When did it break? Who wrote this? ☕ Current context? Git tracks files. Regent tracks agents. View on GitHub Get Started Get Started $ rgt log See What Your Agent Did Git shows \"fix bug\". re_gent shows the conversation that fixed it. $ rgt log See What Your Agent Did Git shows \"fix bug\". re_gent shows the conversation that fixed it. $ rgt log See What Your Agent Did Git shows \"fix bug\". re_gent shows the conversation that fixed it. $ rgt blame Agents Deserve To Be Blamed Too Every line traced to its exact prompt. Three sessions, one file, complete audit trail. $ rgt blame Agents Deserve To Be Blamed Too Every line traced to its exact prompt. Three sessions, one file, complete audit trail. $ rgt blame Agents Deserve To Be Blamed Too Every line traced to its exact prompt. Three sessions, one file, complete audit trail. $ rgt sessions Multiple Agents, Zero Conflicts Each conversation gets its own branch. Work in parallel, no collisions. $ rgt sessions Multiple Agents, Zero Conflicts Each conversation gets its own branch. Work in parallel, no collisions. $ rgt sessions Multiple Agents, Zero Conflicts Each conversation gets its own branch. Work in parallel, no collisions. Built for the community Free FOREVER . Apache-2.0 License View on GitHub Get Started FAQs faqs Still have questions? Contact us and we’ll help you o",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-23T19:06:03",
+  "description_ja": "AIエージェントの作業履歴をGit的に管理するバージョン管理ツール",
+  "summary_ja": "AIコーディングエージェントの操作をステップ単位で記録し、コード変更を誘発したプロンプトを特定、セッションを横断したロールバックや差分確認・blameをローカルで可能にするOSSのCLIツール。",
+  "review_guide_ja": {
+    "what": "rgt log / rgt blame / rgt sessions などのCLIコマンドを通じて、Claude CodeやCursorといったAIコーディングエージェントの全アクション(ファイル編集・プロンプト・セッション)をローカルでキャプチャし、Gitとは別レイヤーでバージョン管理する。各ファイルの行単位で「どのプロンプトが書かせたコードか」をblameでき、セッションが/compactで圧縮・断片化されても履歴を保持。複数エージェントを並列実行してもセッションごとにブランチが切られ衝突しない。エージェントが14ファイルを暴走編集した時の原因特定、安全なundo、過去セッションの再生(replay)、チームメイトとのコンテキスト共有が主なユースケース。Apache-2.0のOSSでPublic Alpha段階。",
+    "for_who": "Claude Code / Cursor / Codex などのAIコーディングエージェントを日常的に使う個人開発者・OSS開発者、エージェントの暴走で本番事故を経験したスタートアップ、AIエージェント導入企業のSRE・プラットフォームエンジニア。エンタープライズ側では監査ログ要件の強いSIer・受託開発企業。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "ファイル監視・プロンプトキャプチャ・Git類似のローカルストレージ実装で技術的難易度は中程度。1〜3ヶ月で動くPoCは可能だが、複数エージェントCLIへの対応と信頼性確保には継続的な対応が必要。"
+    },
+    "signals": [
+      "Public Alpha段階でPH 170 upvotes・34コメントと反応良好",
+      "GitHub Issue #21645等でClaude Code本体にもrollback要望が出ている顕在化した課題",
+      "Cursorエージェントが本番DB+バックアップを9秒で消去した事件など、エージェント暴走による事故が報道されている",
+      "Apache-2.0でFree Foreverを宣言、開発者コミュニティの取り込み戦略が明確",
+      "セッション圧縮(/compact)後の履歴保持という具体的pain pointを解決"
+    ],
+    "concerns": [
+      "Anthropic/Cursor等の本体側がチェックポイント機能を内蔵し始めており差別化が浸食される可能性",
+      "Free Forever宣言で収益化パスが不透明(チーム共有/SaaS版が必要)",
+      "外部API・DB等の副作用までは追跡できない(コメントでも指摘)",
+      "対応エージェントの種類とフックの実装コスト",
+      "ローカルストレージのみだとチーム共有・監査用途の訴求が弱い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 7,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本でもCursor/Claude Codeの利用が急速に普及しており、Publickey・ASCII・各社技術ブログでAIコーディングエージェント特集が頻出。エージェント暴走・監査ログ要件の議論も顕在化しており、開発者個人〜エンタープライズ双方で潜在需要は確認できる。ただし国内でこのニッチに特化した有償需要のシグナルは限定的。"
+      },
+      "competition": {
+        "score": 8,
+        "reason": "国内でAIエージェントの『活動』そのものをGit的にバージョン管理する直接競合は検索で確認できず。LayerXのAI Observability、Backlog AI、メタリアルのオーディットなどは存在するが領域が異なる。Cursor/Anthropic本体のcheckpoint機能が間接競合だが、国内特化プレイヤーは事実上不在。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "開発者向けローカルCLIツールであり、ユーザーデータも基本ローカル保存のため個人情報保護法・特商法等の直接的影響は軽微。チーム共有/SaaS化時のみ個情法の対応が必要になる。金商法・特電法等の業法適用は想定されない。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "CLIツールであり画面要素が少なく、コマンド・ドキュメント・エラーメッセージの日本語化で基本対応可能。Claude Code/Cursorを使う日本人開発者は英語UIに慣れているため翻訳優先度は中程度。深いUX改修は不要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業の監査ログ・トレーサビリティ要求と相性は良い一方、エンタープライズSI現場では稟議・契約・サポート体制が必須で、OSS Free配布のままでは法人導入は進みにくい。受託開発の納品物として説明責任を果たす用途には適合する。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "LayerX AI Observability関連の取り組み",
+        "url": "https://tech.layerx.co.jp/entry/snowflake-ai-observability",
+        "note": "Snowflake上でLLMアプリの品質管理・観測を行う取り組み。エージェント活動のVCSではないが、AI挙動の可視化という意味で隣接領域。自社利用中心で外販プロダクトではない。"
+      },
+      {
+        "name": "メタリアル Metareal オーディット",
+        "url": "https://www.metareal.jp/",
+        "note": "内部リスク評価報告書作成のAIエージェント。監査領域のAIエージェントだが、開発者向けエージェント活動のVCSとは用途が異なる。間接的な参照として記載。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "ローカルCLIで完結する限り影響は軽微。ただしチーム共有・クラウド同期機能を提供する場合、プロンプト中に含まれる個人情報や顧客データが外部送信される可能性があり、利用規約・プライバシーポリシーで取扱いを明示する必要がある。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "エージェントが生成したコードを保存・再生する性質上、第三者OSSの取り込み履歴が記録される。直接的な規制違反リスクは低いが、Apache-2.0などライセンス遵守の運用設計が望ましい。"
+      }
+    ],
+    "opportunity": "日本独自開発の角度としては、(1) 受託開発・SIerの納品物として『AIが書いたコードの来歴証明』を提供するエンタープライズ版、(2) 国内クラウド(さくら・IIJ等)で完結するチーム共有SaaS、(3) Backlog/Redmineといった国内チケット管理ツールと連携し『どのチケットのどの指示でこのコードが生まれたか』を追跡するインテグレーション、(4) 個情法・金商法等の監査要件に対応した監査ログエクスポート機能、が考えられる。OSSコアは本家にコミットしつつ、日本企業向けのコンプライアンス層・チーム機能をSaaSで提供する戦略が現実的。",
+    "rationale": "AIコーディングエージェントの活動履歴をGit的に管理するという課題自体は、日本でも『エージェントが14ファイル暴走編集』『本番DB消去事故』のような事例で顕在化しつつあり、需要は中〜中上位。国内に直接競合がほぼ不在で参入余地は大きいが、Anthropic/Cursor本体のcheckpoint機能拡張が継続的脅威で、コア機能だけでの差別化は持続困難。一方、日本企業特有の監査ログ要求・受託開発の説明責任・既存チケット管理ツール統合という方向で価値を積み上げれば、エンタープライズ向けに独自の角度を取れる。OSS Free Foreverゆえ収益化パスは別途設計が必要。総合的にwatch判定とし、本家機能の進化と国内エンタープライズの監査要件動向を見極めつつ、Backlog連携やコンプライアンス対応SaaSとしての差別化検討を継続するのが妥当。",
+    "japan_fit_at": "2026-05-23T19:30:00"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00",
+  "review_guide_at": "2026-05-23T19:30:00"
+}

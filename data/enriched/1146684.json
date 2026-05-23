@@ -1,0 +1,207 @@
+{
+  "name": "Drizz",
+  "description": "Mobile tests that write, run, and fix themselves",
+  "ph_url": "https://www.producthunt.com/products/drizz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/7JHDW73XTTPZ3A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-19T07:01:00Z",
+  "upvotes": 399,
+  "comments": 63,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence",
+    "No-Code"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt! 👋</p><p></p><p>I'm Yash, co-founder of Drizz. Along with my co-founders, Partha and Asad, we've spent the last year building the mobile testing tool we always wished existed.</p><p></p><p><strong>💡 How it started</strong></p><p>I once spent 3 hours debugging a broken test,&nbsp; only to find a designer had moved a button 12px to the left. That was the moment I knew legacy systems was broken. Not \"could be improved.\" Fundamentally broken.<br></p><p>XPaths that shatter when a UI changes. Test suites that need a dedicated engineer just to stay alive. We lived this at Amazon and Coinbase. Teams shipping slower than they should because testing was a tax, not a tool. So we built our way out of it.</p><p></p><p><strong>🚀 One sentence in. A complete test out.</strong></p><p>Drizz is a Vision AI mobile testing agent. You write what you want to test in plain English,&nbsp; just the goal. Drizz reasons about your app, generates the full test, and executes it on a real device.</p><p>\"Search for stays in Spain for 8th–10th April for one adult\"</p><p>→ Drizz reads the app visually, builds every step, runs it on a real iPhone. No selectors. No scripts. No maintenance.</p><p></p><p></p><p><strong>What Drizz does differently:</strong></p><p>✍️ Plain English authoring: describe the goal, Drizz builds the test</p><p>🔮 Vision AI execution: reads your app like a human, not the DOM</p><p>🩹 Self-healing tests: UI changed? Drizz adapts automatically</p><p>📱 Real device execution:&nbsp; iOS &amp; Android, not simulators</p><p>🔗 CI/CD native: GitHub Actions, GitLab, Jenkins, Azure DevOps</p><p></p><p></p><p><strong>📊 Results from teams using Drizz:</strong></p><p>⚡ 10× faster test authoring vs Appium</p><p>🛠️ 67% less maintenance overhead</p><p>✅ 20000+ test cases automated without a single selector<br></p><p></p><p><strong>🤝None of this happens without the full Drizz team</strong></p><p>Every line of code, every design call, every customer conversation that shaped Drizz,&nbsp; that's the whole team showing up, every single day. Huge love to everyone who's been in the trenches with us. You know who you are. 🧡<br></p><img src=\"https://ph-files.imgix.net/4a770fa1-96e1-429b-bf51-7df47e9bfb45.png?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p><br></p><p><br><strong>🙏 Our ask today</strong></p><p>Not asking for upvotes, asking for honest feedback.</p><p>→ What does your mobile testing setup look like right now?</p><p>→ What would make switching to Drizz a no-brainer for your team?</p><p><br>Drop a comment. We read everyone, and it directly shapes the roadmap.<br></p><p><strong>👉 </strong><a href=\"http://drizz.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>drizz.dev</strong></a><br><br></p><p>Thanks to <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a> for hunting us, and to the entire Product Hunt community for showing up for builders. Days like today are why we build in public. 🚀<br><br></p><p>— Yash <a href=\"https://www.producthunt.com/@yash_varyani\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@yash_varyani</a> , Asad <a href=\"https://www.producthunt.com/@asad_abrar1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@asad_abrar1</a> , Zaid <a href=\"https://www.producthunt.com/@zaid_ahmed_ansari\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@zaid_ahmed_ansari</a> , Zaid <a href=\"https://drizzworkspace.slack.com/team/U08CA4DBUTE\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@Zaid Abdul Bari</a>, Sreetama <a href=\"https://www.producthunt.com/@sreetama_chakraborty\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@sreetama_chakraborty</a> , Partha <a href=\"https://www.producthunt.com/@partha_sarathi_mohanty\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@partha_sarathi_mohanty</a>, &amp; the whole Drizz team</p>",
+      "votesCount": 23,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I also liked that it runs on real devices because that’s where most testing issues actually show up 😅. </p><p> Congrats to the whole Drizz team on the launch 🚀! </p>",
+      "votesCount": 17,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I'm building a couples app on iOS, and my whole testing setup right now is XCUITest on simulator + manual checking, archived to TestFlight by hand. Probably the exact cohort that'd never write Appium tests but might genuinely try this. The question I'd love your take on: with Vision AI driving execution, how do you keep tests deterministic across CI runs? Selectors fail predictably...locator doesn't exist, you fix it. A vision model can fail by misreading a screen state on one run and reading it correctly the next, which feels harder to debug. And there's a scary version of \"self-healing\" where the AI silently re-interprets what success means. What's the rerun / confidence story, and where do you draw that line?<br><br>Congrats on the launch!</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Drizz is an AI-powered mobile test automation platform built around intent-based testing. Simply describe what you want to test in plain English, Drizz executes it on a real device using Vision AI and automatically authors a reusable test case. No scripting, no flaky selectors, no manual maintenance. It adapts to dynamic UIs, integrates with your CI/CD pipeline, and gives your team reliable end-to-end coverage without the overhead.",
+  "featured_at": "2026-05-19T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/2feba1f6-72fe-4135-aeb2-75a2f88f586c.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/69d7223c-e1f9-48b9-a65b-9ec46dc4dad1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/77e2ef12-12cf-41fe-aa14-3a00e1b8c2f8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5eda46e8-f4e2-4486-aeec-3655792e6a6f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f0411b7c-d89c-4c90-a744-9da4298dc4e4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6288e743-1012-4040-8b6c-971252fd12ac.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/50780ed4-163a-4f8a-9468-cc61d394e6c6.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:31",
+  "landing_meta": "Drizz Vision AI Mobile App Testing for iOS & Android — Drizz is a Vision AI powered mobile app testing agent. Write tests in plain English, execute on real iOS and Android devices, and eliminate selector maintenance for good. Book a demo.",
+  "landing_text": "Drizz Vision AI Mobile App Testing for iOS & Android • Drizz raises $2.7M in seed funding • • Featured on Forbes • Drizz raises $2.7M in seed funding • Featured on Forbes Write. Run. Ship. Featured On Product Hunt #2 Reliable Mobile Test Automation. Built For Real Apps. Author in minutes. Execute on real devices. Ship with confidence. Download for mac Problem Why Legacy Mobile Test Automation Can’t Keep Up? High TAT to author tests Selector-based tests take weeks to author and break with every UI change. Self-healing automation fixes this. High Flakiness When 1 in 7 tests fail randomly, automation becomes noise. Vision AI reduces this flakiness drastically Coverage Risk Traditional tools can't handle dynamic UIs, leaving login, payments & checkout untested. Vision AI covers critical flows. The problem isn’t automation. It’s how mobile automation works today. See what Appium is costing you → Solution Human-Level Understanding. Code-Level Speed. Enterprise-grade vision AI that tests like a human, without the flakiness, maintenance, or slow authoring of traditional tools. Schedule a demo Author Tests in Minutes Connect your app. Write tests in plain English. Start testing in minutes. Self-Healing Test Automation Tests adapt when UI changes. Broken steps fix themselves. Zero maintenance. Your browser does not support the video tag. End-to-End Mobile Test Management Manage apps, suites & runs in one platform. Track history across teams. Built for scale. CI/CD Integration for Mobile Testing Run tests on real devices in your pipeline. Consistent results. Zero flaky failures. How it works Building Tests That Last. Your browser does not support the video tag. Your browser does not support the video tag. 1/4 Upload Your APK Connect your build and start instantly. 2/4 Describe Tests in Plain English Write steps the way you use your apps. 3/4 Execute Reliably with Vision AI Real-device runs that adapt in real time. 4/4 Debug with Precision Every failure comes fully unpacked. Im",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing",
+    "$2.7",
+    "$50"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:32",
+  "description_ja": "自分でテストを作成・実行・修正するモバイルアプリ向けAIテスト自動化エージェント",
+  "summary_ja": "iOS/Androidアプリ向けのVision AIテスト自動化SaaS。自然言語でテスト目的を書くだけで実機上のE2Eテストを自動生成し、UI変更時はAIが自己修復する。Appiumの脱却を狙う。",
+  "review_guide_ja": {
+    "what": "Vision AIを使ったモバイルアプリのE2Eテスト自動化プラットフォーム。APKやIPAをアップロードし、自然言語(英語)でテストしたいシナリオを記述すると、AIが画面を視覚的に解析してテストステップを自動生成し、実機(iOS/Android)で実行する。XPathやアクセシビリティIDといったセレクタに依存しないため、UI変更があってもAIが自己修復(self-healing)する点が特徴。GitHub Actions、GitLab、Jenkins、Azure DevOpsなどのCI/CDと統合可能。Appiumの代替を明確に標榜しており、ローンチ時点で2.7Mドルのシード調達、Forbes掲載済み。Mac向けデスクトップアプリで利用開始する形式。",
+    "for_who": "モバイルアプリを継続的にリリースするスタートアップ・中規模開発組織のQAエンジニアおよびモバイル開発者。特に専任のSDETを置けず、Appium/XCUITestの保守コストに悩んでいるチーム。個人開発者でも自然言語でテストが書けるため利用可能。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Vision AIによるUI解析、実機ファーム運用、自己修復ロジック、CI/CD統合を一通り実装する必要があり、実機ラボ構築コストが重い。1-3ヶ月の個人開発では困難。"
+    },
+    "signals": [
+      "ローンチ時点で2.7Mドルのシード調達済み、Forbesにも掲載",
+      "Product Hunt初日で399 upvotes/63コメントと高い関心",
+      "Amazon・Coinbase出身者が創業しエンタープライズ感度が高い",
+      "Appiumの保守コスト不満は業界共通の根深い課題",
+      "Vision AI・LLMの精度向上が市場機運を後押し"
+    ],
+    "concerns": [
+      "Vision AIの非決定性によりCI上のテストの再現性確保が技術的に難しい",
+      "実機クラウドの運用コストが重く粗利を圧迫しやすい",
+      "BrowserStack・Sauce Labs・Autify等の既存大手と直接競合",
+      "self-healingが過剰に動作するとサイレントに合格判定するリスク",
+      "セキュリティ要件の厳しい企業ではAPK/IPAのクラウドアップロードに抵抗"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本でもモバイルアプリのE2Eテスト自動化需要は確実に存在し、AutifyやMagicPodが累計数百社規模で導入されている。Appiumの保守負担に対する不満はQiita/Zennでも頻繁に言及されており、需要は顕在化している。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Autify(AIテスト自動化、日本語UI、500社以上導入)、MagicPod(月額3.98万円、モバイル対応)、Shirates(ローソンDI製OSS)、海外勢ではPerfecto、BrowserStack、Sauce Labsが既に日本市場に浸透。Vision AIという軸も後発が増えており競争は激しい。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "B2B開発者ツールで規制業種に該当しない。APK/IPAや画面情報をクラウドにアップロードする点で個人情報保護法上の留意は必要だが、テストデータ管理は顧客側責任で軽減可能。法規制リスクは低い。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "Vision AIで画面を視覚解析する性質上、日本語UIにも理論上は対応可能だが、テスト記述が英語前提のためプロンプト/UI/ドキュメントの日本語化、日本語OCR精度の検証が必要。Autifyのような『日本語でテスト記述』水準まで届くには中程度の改修コスト。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "QA文化が成熟していない中堅企業では『手動テスト+Excelテスト仕様書』が根強く、SaaSテストツール導入には組織変革が必要。一方で大手SIerやスタートアップは既にAutify/MagicPodで慣れており、新規参入の余地は限定的。請求書払い・年間契約等の対応も必須。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Autify",
+        "url": "https://autify.com/ja",
+        "note": "AIテスト自動化のリーダー。Web/モバイル両対応、日本語UIと日本語テスト記述、500社以上導入。Drizzと最も直接的に競合する。"
+      },
+      {
+        "name": "MagicPod",
+        "url": "https://magicpod.com/",
+        "note": "国内発のE2Eテスト自動化SaaS。モバイル対応、月額3.98万円の固定価格、実行回数無制限。コスト面で優位。"
+      },
+      {
+        "name": "Shirates (ローソンデジタルイノベーション)",
+        "url": "https://techblog.ldi.co.jp/",
+        "note": "Kotlin製の国産OSSモバイルテストFW。Appiumベースに画像認識を組み合わせる。商用ではないがエンジニア層に認知あり。"
+      },
+      {
+        "name": "T-DASH (バルテス)",
+        "url": "https://service.valtes.co.jp/t-dash/",
+        "note": "国内QAベンダー発のテスト自動化ツール。モバイル対応、日本語前提で非エンジニア層もターゲット。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "テスト実行中の画面録画やログ収集に個人情報が含まれる可能性があり、海外データセンター利用時は越境移転規制(個情法28条)に留意。顧客との委託契約・DPAが必要。"
+      },
+      {
+        "law": "不正競争防止法",
+        "impact": "顧客アプリのAPK/IPAをクラウドに保管するため、営業秘密管理に関する条項(秘密保持・データ削除)を整備する必要。日系大手企業は特に重視。"
+      }
+    ],
+    "opportunity": "Drizzのような英語ベース・グローバル製品が日本でゼロから戦うのは厳しいが、機会はある: (1) Autify/MagicPodの空白領域である『Vision AIで実機の決済・KYC・カメラ・地図画面までカバー』に特化、(2) 日本語OCR精度を磨きスーパーアプリ(LINE/PayPay/楽天)など複雑UIの回帰テストにピボット、(3) IPAが規定するJSTQB準拠のテスト仕様書を自動生成する『ドキュメント連動』機能でSIer・大手SaaSベンダーに刺す、(4) ローカルLLM/オンプレ実行モードで金融・公共向けに差別化。日本市場参入そのものよりも、Autify等の隣接ニッチに振った『日本版』構築の方が現実的。",
+    "rationale": "Drizz自体は技術的にもプロダクトとしても完成度が高く、グローバルでは伸びうるが、日本市場には既に成熟した同種SaaSが複数存在し競合密度が高い。Autifyが日本語UI・日本語記述で先行しており、MagicPodがコスト優位で囲い込んでいる現状、後発の英語ベースVision AIツールが正面突破するのは難しい。一方で、Vision AIによる実機テスト・自己修復という軸自体は日本でも需要があり、スタートアップ向けの安価なSaaSや、金融・公共向けのオンプレ実機ラボといった隣接ニッチには余地が残る。総合スコア5=skip判定だが、ニッチ特化型の派生プロダクトであれば watch水準まで上がりうる。個人開発者が同型を一から作るには実機ファーム運用コストが障壁となるため、再現性は低い。"
+  },
+  "japan_fit_at": "2026-05-23T19:25:00",
+  "review_guide_at": "2026-05-23T19:25:00"
+}

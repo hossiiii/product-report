@@ -1,0 +1,176 @@
+{
+  "name": "Gemini Omni",
+  "description": "Create anything from any input – starting with video",
+  "ph_url": "https://www.producthunt.com/products/gemini-omni-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ENOAWGG27PYBQE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-20T07:01:00Z",
+  "upvotes": 370,
+  "comments": 8,
+  "topics": [
+    "Artificial Intelligence",
+    "Video"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Hunters, I am excited to hunt Gemini Omni 🔮</p><p></p><p>Turn any idea into stunning videos with a single prompt, image, sketch, or reference. Think of it like Nano Banana for video creation — fast, creative, and insanely flexible.</p><p></p><p>Now available across the Gemini App, Flow, and YouTube, with API access coming soon 🚀</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Love the focus  on editing and world understanding instead of text to video generation. That’s where practical creative workflows start emerging.</p><p></p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Video editing through natural language is something every YouTube creator I talk to asks for. The gap today isn't generating video — it's editing existing footage without spending 3 hours in Premiere Pro. If I could tell an AI \"cut this 20-minute video to the best 8 minutes and add captions,\" that alone would save creators 5+ hours per week.</p><p>  The object tracking across frames and physics-aware generation sound promising for B-roll generation too. Right now most creators use generic stock footage because creating custom visuals is too expensive. How does Omni handle consistency when you're making multiple edits to the same project — does it maintain a \"memory\" of previous changes or does each prompt start fresh?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Create anything from anything, starting with video. Gemini Omni is where Gemini’s ability to reason meets the ability to create. It delivers a leap in world understanding, multimodality, and editing.",
+  "featured_at": "2026-05-20T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d0081810-ee52-41d6-b33e-163838981bc6.svg",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/526d5944-bc75-45ed-911e-c94a2d29eaa3.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/73055a1f-bb0c-4477-bdb4-5fbfb24f0c2c.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/605a99f6-f24b-45a0-b912-0707f8bd815b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fd1192ea-f0bf-4da5-81a7-fa7206ce2e65.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/78855005-ab08-4707-be68-fb7765f25582.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f12f25b4-d7c4-4f04-b665-95bd28946cab.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6fb1b9b8-d9b0-444e-ae7a-0c80cf2a86be.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/9258c3a5-ae7f-4686-a89c-e0a3d6bf84d7.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:32",
+  "landing_meta": "Gemini Omni — Google DeepMind — Create anything from anything, starting with video. Gemini Omni is where Gemini’s ability to reason meets the ability to create. It delivers a leap in world understanding, multimodality, and editing.",
+  "landing_text": "Gemini Omni — Google DeepMind Skip to main content Slide 1 of 4 Gemini Omni Create anything from any input – starting with video Try in Gemini Try in Google Flow Learn how to prompt Your browser does not support the video tag. Edit any video through natural, step-by-step conversation Think of Gemini Omni like Nano Banana, but for video. Every edit you make builds on the one before – maintaining a consistent, coherent scene. Try in Gemini Try in Google Flow Your browser does not support the video tag. Apply real world knowledge Gemini Omni combines an intuitive understanding of physics with Gemini's knowledge of history, science, and cultural context – bridging the gap from photorealism to meaningful storytelling. Try in Gemini Try in Google Flow Your browser does not support the video tag. Reference anything Turn any reference—image, text, video, or audio—into a single, cohesive output. Try in Gemini Try in Google Flow Your browser does not support the video tag. Explore the latest Gemini Omni is where Gemini’s ability to reason meets the ability to create. It delivers a leap in world understanding, multimodality, and editing. View prompt guide Your browser does not support the video tag. Edit through natural conversation Think of Gemini Omni like Nano Banana – but for video. Build and fine-tune your creation at any step with natural language. Transform your world Change the aesthetic, action, or effect based on your input video. Slide 1 of 5 Your browser does not support the video tag. Prompt: When the person touches the mirror, make the mirror ripple beautifully like liquid, and the person's arm turns into reflective mirror material Your browser does not support the video tag. Prompt: When the person touches the mirror, the person transforms into a detailed monochrome line art drawing Your browser does not support the video tag. Prompt: When the person touches the mirror, the person transforms into a cute felted stuffed puppet version with large googley e",
+  "pricing_signals": [
+    "subscription"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:33",
+  "description_ja": "あらゆる入力から動画を生成・編集できるGoogleの会話型マルチモーダル動画AI",
+  "summary_ja": "Google DeepMindが公開した動画生成・編集AIモデル。テキスト/画像/音声/動画を入力に、自然言語の対話で物理法則を踏まえた高品質な動画を生成・段階編集できる。Gemini App、Google Flow、YouTubeで提供。",
+  "review_guide_ja": {
+    "what": "Gemini Omniは、Google DeepMindによる動画特化のマルチモーダル生成・編集AI。テキスト、画像、スケッチ、音声、参照動画を入力にして、自然言語の対話で動画を生成・編集できる。物理法則の理解、フレーム間のオブジェクトトラッキング、シーンの一貫性維持を特徴とし、編集は前のステップを引き継ぎながら段階的に進められる。画像から動画への変換、動画から動画への編集、参照スタイル適用、デジタルアバター生成に対応。Gemini App、Google Flow、YouTube Shortsで利用可能で、Google AI Plus/Pro/Ultra契約者向け。API提供は今後予定。",
+    "for_who": "YouTube/SNSの動画クリエイター、マーケター、広告代理店のクリエイティブ職、Bロール素材を低コストで作りたい中小事業者、PoCで生成AI動画を試したい企業。Premiere Proなどの本格編集に時間を割けないライト〜セミプロ層に特に刺さる。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Google基盤モデル(Gemini/Veo系)に依存する生成品質と物理理解は、独立スタートアップでの再現は困難。ただし上位API利用での周辺ワークフロー特化なら可能。"
+    },
+    "signals": [
+      "Google I/O 2026で発表され、Gemini App/Flow/YouTubeへ即配信される広い配布力",
+      "テキスト→動画ではなく『会話による動画編集』に注力という独自軸",
+      "Product Huntで370+ upvote(ローンチ当日3時間で勢いあり)",
+      "動画AI市場CAGR 20.7%、2026年世界市場4.7億ドル規模",
+      "Sora終了後、Veo/Seedance/Runwayの3強構図が固まりつつある"
+    ],
+    "concerns": [
+      "Google本体提供のため独立SaaSとして勝負しづらく、API解放後の価格圧力が強い",
+      "学習データ・出力動画の著作権リスク(肖像権・キャラ類似)が継続的に問題化",
+      "ディープフェイク/誤情報拡散への規制強化(X等プラットフォーム側のペナルティ導入)",
+      "国内クリエイターは商用利用ライセンスを慎重に確認する傾向で導入ハードルあり",
+      "GoogleアカウントとAI Plus/Pro/Ultra課金がない層には届きにくい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "日本の動画生成AI需要は明確で、市場CAGR約20%、Mavericks NoLangは登録15万人/法人60社、Video BRAINは日経225の約4割が導入。YouTube/Shorts/TikTok向け短尺動画制作の需要が継続的に拡大している。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Google本体提供で配布力が圧倒的。さらにRunway(日本上陸、60億円規模)、Veo 3.1、Seedance 2.0(Dreaminaで2月から日本提供)、Kling、Pika、Soraの代替が乱立。国内勢もNoLang、Video BRAIN等が存在し、競合は極めて密。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "AI推進法・AI事業者ガイドラインは強制力が弱く参入障壁にはなりにくい。一方で著作権(類似生成)・肖像権・特定電子メール法(なりすまし)・景品表示法(誇大広告動画)はリスクとして残る。Xは2026年3月から武力紛争関連AI動画の収益停止を導入。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "GoogleはGemini系の日本語UIを既に整備しており、Omniも日本語プロンプト対応が見込まれる。ただしアニメ/漫画調・和風コンテキストへの最適化や日本人顔生成の品質は中国系(Kling/Seedance)に劣る可能性があり、再ファインチューン余地はある。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業は商用ライセンス・著作権補償・データ保全(国内リージョン)を重視する。Googleはエンタープライズ向けにVertex AI経由でこれらに対応しているが、Omniの単体SaaSとして日本の代理店/制作会社の請求書/印鑑/個社カスタマイズ要求への適合は限定的。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "NoLang (株式会社Mavericks)",
+        "url": "https://no-lang.com/",
+        "note": "日本発の動画生成AI。テキスト/PDF/音声から解説動画を自動生成、Live2Dアバター対応。登録15万人超、法人60社以上、API提供開始。"
+      },
+      {
+        "name": "Video BRAIN (株式会社オープンエイト)",
+        "url": "https://video-b.com/",
+        "note": "AI活用の国産ビジネス動画編集クラウド。日経225の約4割が導入。Gemini Omniのクリエイティブ用途とは棲み分けるが企業導入では競合。"
+      },
+      {
+        "name": "Runway (日本法人/正規代理店経由)",
+        "url": "https://runwayml.com/",
+        "note": "Gen-4.5提供。2026年に約60億円規模で日本本格展開。クリエイター/制作会社で圧倒的シェアの直接競合。"
+      },
+      {
+        "name": "Dreamina (Seedance 2.0 / ByteDance)",
+        "url": "https://dreamina.capcut.com/",
+        "note": "音声付きText-to-Videoでリーダーボード首位。日本でも2026年2月から利用可能。コスト($9.60〜)で攻める直接競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法",
+        "impact": "学習段階は柔軟だが、生成物の公開・販売時は既存著作物と同様の侵害リスクを負う。アニメキャラ/実在人物に似た出力で訴訟リスクあり、二次利用ライセンスを明示する必要。"
+      },
+      {
+        "law": "AI推進法 / AI事業者ガイドライン",
+        "impact": "2025〜2026年に成立・改定。罰則は弱いが、悪用時は国の調査・指導が入る枠組み。事業者はガバナンス・透明性レポートの自主整備を求められる。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "アバター生成・顔参照入力時に個人データ取得となる可能性。利用目的明示・同意取得・越境移転(米国Google基盤)の説明義務がある。"
+      },
+      {
+        "law": "特定電子メール法 / 不正競争防止法",
+        "impact": "AI生成動画を用いたなりすまし広告・虚偽表示は不正競争防止法/景品表示法で違法となり得る。プラットフォーム(X等)もAI動画の開示義務を強化。"
+      }
+    ],
+    "opportunity": "Gemini Omni本体を日本でクローンすることは現実的でない。むしろ『Gemini OmniやVeo/Runway APIを束ねる日本市場特化のワークフローSaaS』に勝機がある。例: (1) アニメ/Vtuber/コスメ等の日本特有ジャンルに最適化したプロンプトテンプレ+権利クリア素材+商用ライセンス保証パック、(2) 不動産・人材・EC向けに『商品写真→広告動画』を半自動化するBtoB SaaS(請求書払い・国内データ保全付き)、(3) YouTubeショート/TikTok向け日本語ナレーション+字幕+BGM自動付与の編集オーケストレーション、(4) 制作会社向けに権利監査ログとアバター/肖像の同意管理を組み込んだ統合プラットフォーム。",
+    "rationale": "需要は強く市場成長性も高い(demand 8)が、Gemini Omni自体はGoogleの基盤プロダクトであり、Veo/Runway/Seedance/Kling/Sora代替勢に加え国内NoLang・Video BRAINまで揃う極めて密な競合環境(competition 2)。規制はAI推進法やガイドラインが整備されつつあるが、著作権・肖像権・なりすまし周りの実務リスクは継続(regulation 6)。日本語UI・プロンプトはGoogleが既に対応しているのでローカライズ自体は容易(localization 7)、ただしアニメ/和風コンテキストの最終品質は要検証。商習慣面では請求書払い・データ越境・権利クリアといった日本企業の慎重要件への適合は限定的(business_custom 5)。加重平均は約5.65で総合スコア6=watch。Omniの直接競合を立ち上げる意義は薄いが、API層の上にある『日本特有ワークフロー・権利クリア・BtoB商習慣』に閉じた周辺SaaSなら投資妙味あり、Google APIの公開タイミングを注視すべき。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z"
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Emdash",
+  "description": "One app. Every coding agent. Open-source.",
+  "ph_url": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/U7NUCTTEX6BM3I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-20T07:01:00Z",
+  "upvotes": 396,
+  "comments": 90,
+  "topics": [
+    "Productivity",
+    "Open Source",
+    "Developer Tools",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt! 👋<br><br>We’re super happy to show you Emdash today.<br><br>One app, every coding agent.<br><br>Emdash is a provider-agnostic desktop app to run agents in parallel and turn issues into PRs.<br><br>Some features:</p><ul><li><p>Run multiple agents in parallel with isolated worktrees</p></li><li><p>Use any of 28+ coding agent providers</p></li><li><p>Pass issues from Linear, Asana, Featurebase, GitHub, …</p></li><li><p>Run agents on remote machines via SSH</p></li><li><p>Review diffs and ship PRs in-app</p></li><li><p>BYOI: provision per-task workspaces on your own infrastructure</p></li><li><p>Available on macOS, Windows, and Linux</p></li></ul><p><br>We're excited to see what you're going to build with Emdash!</p>",
+      "votesCount": 31,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Been using Emdash for the past week and its great. I used to hate working with git worktrees because it made my workflow more complex than it had to be but with Emdash this actually wasn't a problem at all. Im curious though is a ui similar to t3code planned? Would love that a lot!</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Oh I forgot, would Claude consider this as non native and charge differently?",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Emdash is an open-source desktop app for running multiple coding agents in parallel; one place to monitor sessions, review diffs, and turn issues into PRs.",
+  "featured_at": "2026-05-20T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/4b4feac9-ff8d-4091-aecb-78859d285f91.x-icon",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b619e5d1-8abf-4ff1-89cf-cdc4d20687bb.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0d533380-7146-4dd3-8178-a9a23cd282bf.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9781d83a-6bd3-4e67-9931-7f9bd3513e2d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8fd9f915-997d-405a-aab7-671f85186e7c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4356aad4-7a5c-4719-92df-3f094662f4f3.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/3175bc51-4369-4cbe-b6da-be218b5784a9.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:29",
+  "landing_meta": "Emdash — Open-source Agentic Development Environment",
+  "landing_text": "Emdash Emdash v1 is available - Download -> [ Backed by Combinator ] Open-source agentic development environment Your coding agent dashboard. Code purely by orchestrating agents. Run multiple in parallel, each isolated in their own Git worktree. Download [ Over 840K downloads] Each agent in a separate Git worktree. Orchestrate multiple agents across isolated worktrees. [ Parallel Agents ] Pass issues directly to agents. Pull from Linear, Jira, GitHub, Asana, and more. The agent gets full context. [ Issues ] provision.sh $ ./scripts/provision.sh → resolving workspace config from .emdashrc ✓ found image emdash/dev:latest · sha256:8f3e2b1 → pulling base layer · 142 MB ........... done → pulling toolchain · 87 MB ............. done → pulling runtime · 24 MB ............... done → allocating compute · 4 vCPU · 8 GB RAM → mounting /workspace (ext4, encrypted) → spawning git worktree for branch dev/jane → installing dependencies + node@ 22.11.0 · pnpm@ 10.0.0 · claude@ 1.0.4 → generating ed25519 keypair · ~/.ssh/id_emdash → opening tunnel devuser@ 10.0.1.42 : 22 → health check · 4/4 services healthy · 1.2s → workspace ready in 11.8s { \"host\": \"10.0.1.42\" , \"port\": 22 , \"user\": \"devuser\" } Connected to 10.0.1.42 Ephemeral infrastructure. Provision and teardown scripts spin up isolated workspaces on demand. [ Bring Your Own Infra ] Run agents on any machine. Connect over SSH to your dev server, cloud VM, or GPU box. Agents run remotely with full worktree isolation. [ Remote SSH ] Write code. Review diffs. Ship. Built-in diff view. Commit and push without switching tools. [ Accelerate ] [ Coding Agents ] Use any agent. Emdash works with 25+ coding agents. Mix and match per task or just use your favorite. Codex Cursor Claude Code Amp Gemini Show 23 more Connect to MCP servers Connect tools through MCP without extra glue code. View docs CLI auto-detection No setup checklist. Emdash finds your installed agent CLIs automatically. View docs Built-in file editor Edit files without ",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "subscription",
+    "$1",
+    "$105",
+    "$13",
+    "$144",
+    "$145",
+    "$146",
+    "$147",
+    "$148",
+    "$14"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:30",
+  "description_ja": "1つのアプリで全てのコーディングエージェントを統合するオープンソースのデスクトップ環境。",
+  "summary_ja": "Emdashは28以上のAIコーディングエージェントを並列実行できるオープンソースのデスクトップアプリで、git worktreeで各エージェントを分離し、Linear/GitHub等のIssueをPRまで一気通貫で処理できる開発環境です。",
+  "review_guide_ja": {
+    "what": "Emdashは複数のAIコーディングエージェント(Claude Code、Codex、Cursor、Amp、Gemini等25〜28種)を1つのデスクトップアプリで横断的に並列実行するオーケストレーション環境。各エージェントはgit worktreeで独立したブランチ・作業ツリーに隔離され、競合なく同時にタスクを進められる。Linear/Jira/GitHub/Asana/FeaturebaseからIssueを取り込み、エージェントへ文脈ごと渡してPR作成・差分レビュー・コミット・プッシュまでアプリ内で完結。BYOI(Bring Your Own Infrastructure)でSSH越しの自前dev server/クラウドVM/GPUボックスにエフェメラルなワークスペースを払い出すことも可能。MCP対応、CLI自動検出、内蔵ファイルエディタ・diffビューア搭載。macOS/Windows/Linux対応、Apache 2.0ライセンス、YC W26採択。",
+    "for_who": "Claude Code・Codex・Cursor等を日常的に使い、複数のIssueやタスクを同時並行で進めたい個人開発者・スタートアップエンジニア。git worktreeを活用したマルチエージェント運用に関心がある中上級者。自社インフラ上でエージェントを動かしたい開発チームのテックリード。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "Electron系デスクトップUI+各エージェントCLIのラッパー+worktree管理の組合せ。技術的に複雑ではないがプロバイダ多数対応・SSH/BYOI・MCP統合まで作り込む工数は大きく、OSSなのでコア複製は容易だが差別化は難しい。"
+    },
+    "signals": [
+      "YC W26採択、Backed by Y Combinator",
+      "Product Hunt初日396 upvotes/90 comments と高い関心",
+      "GitHub上で840K+ダウンロード達成と公称",
+      "Claude Code/Codex/Cursor等25〜28プロバイダ横断という強い網羅性",
+      "日本でも git worktree × AIエージェント並列開発が Zenn/Qiita で活発に議論"
+    ],
+    "concerns": [
+      "Claude Code等のサブスク料金がエージェントごとに別途必要で、並列化するほどコストが膨らむ",
+      "OSSかつコア機能が薄いラッパー寄りで、各エージェント公式IDE/CLIに機能を取り込まれるリスク",
+      "BYOI/SSHや28プロバイダ追従の運用負荷が高く収益化モデルが未確立",
+      "日本語UI未対応の可能性が高く、ターゲット層が英語が読める上級者に偏る",
+      "git worktreeを使いこなせる開発者は限定的で、教育コストが意外と高い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本でもClaude Code/Cursor/Codexの3社が世界市場70%超を占め、Zenn/Qiitaでgit worktree×AI並列開発の記事が多数。ただしマルチエージェントを並列運用する層は上級者に限定され、絶対数は限定的。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内にtakt、GTR(CodeRabbit)、gwq等の類似OSSが既に存在し、海外勢(Cursor、Devin 2.0、Codex Agent Manager)も並列実行UIを取り込み中。後発の純粋ラッパーが日本で独自ポジションを取るのは難しい。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "個人/法人開発者向けの開発支援OSSデスクトップアプリのため、個人情報保護法・電気通信事業法等の直接規制リスクは低い。コードを外部送信するのは各エージェントAPIのため、Emdash自体の規制ハードルはほぼ無い。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI日本語化は技術的には容易だが、対象が英語ドキュメントを読みこなす上級開発者で、ローカライズの投資対効果が低い。日本語Issue/コメントの取り扱いやJIRA Cloud日本リージョン等の連携検証は必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "個人/小規模チーム向けOSSであり日本商習慣との衝突は少ない。一方で日本のエンタープライズは社内Git/閉域網/監査要件が厳しくBYOI/SSHモデルは刺さる可能性はあるが、購買プロセスが長くPLG単独では苦戦しやすい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "takt",
+        "url": "https://zenn.dev/rasshii/articles/dc19793edab99a",
+        "note": "日本コミュニティで紹介されているAIマルチエージェントオーケストレーションツール。同一AIの自己強化バイアス回避を狙う設計で並列実行に近い思想。"
+      },
+      {
+        "name": "GTR (Git Worktree Runner) by CodeRabbit",
+        "url": "https://note.com/masa_wunder/n/n6b85bf4cea63",
+        "note": "CodeRabbit社が開発したgit worktree操作の自動化CLI。AI時代の並列開発を加速する新定番として日本のnote/Zennで取り上げられている。"
+      },
+      {
+        "name": "gwq",
+        "url": "https://zenn.dev/genda_jp/articles/2025-12-07-manage-git-worktree-with-ghq",
+        "note": "ghqと組み合わせて使うgit worktree管理ツールとして日本の開発者ブログで紹介。CLI志向だがEmdashのworktree管理機能と競合する。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "Emdash自体はコードを外部送信しないが、各エージェントAPI(OpenAI/Anthropic等)に渡るコード/プロンプトに個人情報が含まれる場合、利用企業側で越境移転の同意・委託先管理が必要。Emdash提供者の責務は限定的。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "AIコード生成物の著作物性と既存OSSライセンス汚染リスクは日本でも議論中。Emdash自体はパススルーだが、エージェント横断で同時にコード生成するUI設計上、ライセンス監査機能の提供が将来求められる可能性あり。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては、(1)日本のエンタープライズ向けに閉域網/オンプレでBYOIを徹底し、Claude/Codexのエンタープライズプラン+社内GitLab/Backlog連携をデフォルトで備える「マルチエージェント×日本SIer向けGUIシェル」、(2)Backlog/サイボウズGaroo/Redmine等の日本固有Issueトラッカー連携、(3)日本語コミットメッセージ・PRテンプレート・社内コードレビュー文化(LGTM/承認フロー)に最適化したdiff/レビューUI、(4)AI生成コードのライセンス監査・社内ガイドライン遵守チェッカーをパッケージ化、といった国内向け差別化が考えられる。ただし対象市場が限定的で単独事業化は厳しく、SIer向け請負/受託の延長としての導入支援が現実的。",
+    "rationale": "Emdashは技術的に魅力的で、git worktree×マルチエージェントというトレンドの真ん中にあり、YC W26・PH 396 upvotes・840Kダウンロードという強い初動を見せている。日本でも同様のニーズ自体は存在し、Zenn/Qiitaで関連記事が多数生まれている。しかし、(a)Cursor/Codex/Devin等の本家エージェントが急速に並列UI/Agent Managerを内製化しており、純粋なオーケストレーション層は中長期的にコモディティ化、(b)国内にもtakt/GTR/gwq等の代替が既に存在、(c)対象が英語に強いごく一部の上級開発者に限られ、TAMが小さい、(d)OSSのためマネタイズ経路が不透明で日本市場特化版を作る経済合理性も低い、という4点から日本での新規参入には不向き。watchではなくskip寄りとし、もし参入するならエンタープライズ向け日本特化シェル(Backlog/オンプレ/監査)に絞る必要がある。",
+    "japan_fit_at": "2026-05-23T19:30:00Z",
+    "review_guide_at": "2026-05-23T19:30:00Z"
+  }
+}

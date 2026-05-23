@@ -1,0 +1,176 @@
+{
+  "name": "Cleo",
+  "description": "The AI PM that runs your team",
+  "ph_url": "https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/UEIFHO7XED74LR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-22T07:01:00Z",
+  "upvotes": 302,
+  "comments": 62,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋\nI'm Rahim, Co-Founder of Cleo.\n\nIn February, I started using OpenClaw as my PM. Pasted in standups. Asked it to draft updates. Treated it like a teammate.\nThe truth came fast:\nOpenClaw is great as a personal assistant. As a product manager, it falls apart.\nIt doesn't know my team. Doesn't remember what we said yesterday. Every new chat, I had to start over — explain the team, the tone, what mattered, what didn't. By the time I was done, I could've just written it myself.\nThat's the day Cleo started.\n\nCleo isn't a chatbot you open. It's an AI product manager that lives in your Telegram, Slack, and Linear — and stays there. Day after day. It learns your team. Your voice. Your decisions. It runs the standups, drafts the messages, catches the follow-ups you forget.\nIn your voice. Without asking you to start over every morning.\n\nAnd nothing is hidden. Every fact Cleo learns shows where it came from, how sure it is, and a button to fix it.\nFree today:\n• Bot in Telegram → <a href=\"https://t.me/try_cleo_ai_bot\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://t.me/try_cleo_ai_bot</a>\n• Works with Slack, Linear, Notion, Gmail, Calendar and tools you use everyday\n• 3 active automations, unlimited memory\n• Five levels of trust - from just watching to fully acting\n\nOne question: when did you stop being the founder and start being the PM?\nI'll be here all day. Tell me where this still falls short.\n\nTry the bot: <a href=\"https://t.me/try_cleo_ai_bot\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://t.me/try_cleo_ai_bot</a> Thanks 🙏",
+      "votesCount": 17,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt 👋 Rahman here, Co-Founder of Cleo. I'm 19, building this from the US.</p><p></p><p>Rahim told you why we started. I'll tell you the line we refused to cross.</p><p></p><p>Right now there are a hundred tools claiming to be your \"AI PM.\" Be honest - most of them are bullshit. Either it's just another chatbot with a new logo or it's a thin wrapper that \"remembers\" by dumping everything into a database and praying. No source, no confidence, no way to know if what it's acting on is real or hallucinated. That's not a teammate. That's a liability with a nice landing page.</p><p></p><p>I've shipped products solo since I was a teenager, and the thing that always broke wasn't the code - it was the coordination. Standups, follow-ups, \"wait, what did we decide last week?\" That overhead scales worse than any infra problem, and one day you realize you've stopped being the founder and become the PM of your own company.</p><p></p><p>Every assistant we tried was great at answering and terrible at remembering us. New chat, start over. Re-explain the team, the tone, what matters. By the time you've briefed it, you could've just done the work yourself.</p><p></p><p>So Cleo doesn't ask you to start over. It lives in your Telegram, Slack, and Linear, learns your team and your voice, and runs the PM work day after day - in your tone, not a robot's.</p><p></p><p>But here's the part I'd stake the whole product on: an AI that runs your team has no business hiding what it knows. So Cleo doesn't. Every fact it learns shows its source, its confidence, and a button to correct it. Five trust levels, from just watching to fully operating. You decide how much rope it gets - and you can always see exactly what it's working from.</p><p>No black-box memory. No \"trust me.\" Just a teammate you can audit.</p><p></p><p>I'm here all day. Tell me where it still falls short — that's the comment I actually want. 🙏</p><p></p><p>Try the bot: <a href=\"https://t.me/try_cleo_ai_bot\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://t.me/try_cleo_ai_bot</a></p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The chat-first sidebar with structured memory cards below it is a pattern I haven't seen done well before. Most AI tools force you into either pure chat OR pure dashboard. Cleo manages both, and the seam between them is actually invisible</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Cleo is the AI product manager for founders and lean teams. It lives in Telegram and Slack - learns your tone, knows your team, and runs the PM work (standups, follow-ups, decisions) while you ship the product. What's different: every fact Cleo learns is transparent - you see the source, the confidence, and can confirm or correct it. No black-box memory. Five trust levels, from observer to operator. Free in Telegram. 1 min setup",
+  "featured_at": "2026-05-22T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/5edce491-25ca-4a4e-ac6b-0521e5c83e07.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b088c6c5-21a8-41fd-97d2-1a62f562e60b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5242fc88-ed94-43f9-bba4-24e829f0fdd5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/378e6bb6-b314-4ee7-ad0c-22a3bc1b594c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/41b0f408-93a0-47ab-9588-5b5ec70c70dc.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f85c8ddd-58b1-4b96-aebc-d4e04e340ddb.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9c7ad08f-cf17-4755-8743-0c6b29b6cb5f.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/1ac430b2-c450-447e-be5d-f9cb040a5f49.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:34",
+  "landing_meta": "Cleo - The AI Product Manager — Cleo learns your team, writes in your voice, and ships your work. Built for founders who'd rather build than manage.",
+  "landing_text": "Cleo - The AI Product Manager built by founders for founders T h e A I P M e v e r y t e a m n e e d s T h e A I P M e v e r y t e a m n e e d s Try it on Telegram Join to Waitlist Join to Waitlist The Reality Y o u s t a r t e d a c o m p a n y t o b u i l d . N o w y o u s p e n d y o u r d a y s i n s t a n d u p s , t h r e a d s a n d f o l l o w - u p s . C l e o r u n s t h e c o m p a n y . Y o u b u i l d i t . Core What Cleo does while you're building. Standups No more standups. Cleo runs them end to end. Agents A team of agents working at the same time. Meetings Replies for you. In your voice. Features Every job you've been doing yourself. Cleo does them now. Code Reviewer Reads every PR. Flags bugs before merge. Total Recall Remembers every message, decision and promise. Deep Research Researches clients, competitors and topics. Agents on the Clock Runs agents at the same time. Sees Before You Ask Spots patterns in your week, surfaces them unprompted. Inbox in Your Voice Writes emails and messages in your style. Code Reviewer Reads every PR. Flags bugs before merge. Total Recall Remembers every message, decision and promise. Deep Research Researches clients, competitors and topics. Agents on the Clock Runs agents at the same time. Sees Before You Ask Spots patterns in your week, surfaces them unprompted. Inbox in Your Voice Writes emails and messages in your style. Code Reviewer Reads every PR. Flags bugs before merge. Total Recall Remembers every message, decision and promise. Deep Research Researches clients, competitors and topics. Agents on the Clock Runs agents at the same time. Sees Before You Ask Spots patterns in your week, surfaces them unprompted. Inbox in Your Voice Writes emails and messages in your style. Intelligence Powered Run your Company without running it. Automation Runs without rules. Runs without you. Memory Holds everything your company has ever said or done. Coordination Holds your entire company in one rhythm. Connect Works with y",
+  "pricing_signals": [
+    "yearly plan",
+    "pricing",
+    "$10",
+    "$20"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:34",
+  "description_ja": "Telegram/Slack常駐型のAIプロダクトマネージャー。スタンドアップやフォローアップを自動運用",
+  "summary_ja": "Cleoは創業者・少人数チーム向けに、Telegram/Slack/Linearに常駐しチームの声色や決定事項を学習するAI PMエージェント。記憶の出典と確信度を可視化し、5段階の信頼レベルで運用範囲を調整できる。",
+  "review_guide_ja": {
+    "what": "CleoはTelegram・Slack・Linear等に常駐し、創業者やリーンチームの代わりにプロダクトマネジメント業務を実行するAIエージェント。日々のスタンドアップ運営、フォローアップ催促、会議要約、メール下書き、PRレビュー、競合リサーチなどを横断的にこなし、チームの語調や過去の意思決定を継続的に学習する。最大の差別化は『監査可能な記憶』で、各事実カードに情報源・確信度・修正ボタンが付き、ブラックボックス化を回避する。信頼レベルは『観察のみ』から『完全自律実行』まで5段階で設定可能。Telegramでは無料で利用でき、月$10/$20の有償プランも用意。Notion・Gmail・カレンダー等とも統合する。",
+    "for_who": "創業者2〜10名規模のシード〜アーリーステージSaaSスタートアップ、特に英語Slack/Telegram運用に慣れたグローバル志向の開発者・PM兼任型ファウンダー。社内コミュニケーションが既にチャット中心で、Linearでチケット管理する開発組織。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "LLM+RAG+各種SaaS APIで構造は再現可能だが、出典付き構造化メモリと信頼レベル制御のUX設計、コンテキスト継続精度の作り込みが差別化要因で工数大。"
+    },
+    "signals": [
+      "Product Hunt初日302 upvote/62コメントと反響強め",
+      "Telegram無料導線でファネル広く設計",
+      "競合『AI PM』乱立の中で出典透明性を明示的に打ち出している",
+      "5段階信頼レベルで段階的導入が可能"
+    ],
+    "concerns": [
+      "『AI PM』カテゴリは競合過多で差別化が長期維持困難",
+      "Telegram常駐は日本のビジネス利用と相性が悪い",
+      "業務データを継続学習する仕様は日本企業の情報セキュリティ審査で論点化しやすい",
+      "Alphaタグ、組織記憶の精度や幻覚耐性の実証はこれから"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本でもAI議事録・タスク自動化・SlackAIエージェントへの関心は高く、SaaS PdMがAI自動化ワークフローを発信する事例も増加。一方でCleoが想定する『英語圏スタートアップ的なPM業務委譲』への需要は限定的で、日本では兼任PMよりライン管理職が会議運営する文化が強い。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Slack AI(議事録/要約)、Notion AIエージェント、Backlog AIアシスタント、サポットさん、ソフトバンクAGENTIC STAR等、SlackやNotionと統合する国内外のAI PM/タスクエージェントが既に多数稼働。横断記憶+常駐型でも代替肢が豊富で価格圧力が強い。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "個情法上、業務会話を継続学習・越境保存する仕様は社内ガイドライン審査で論点化しやすい。2026年改正でAI開発時のデータ取得要件は一部緩和方向だが、第三者提供・越境移転の本人同意/契約条項整備は依然必須。電気通信事業法の外部送信規律にも該当しうる。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UI/プロンプトの日本語対応・日本語語調学習の品質は未検証(検索で根拠未確認)。日本企業はSlackよりTeamsやChatwork比率も高く、Telegram常駐は実質ほぼ使われない。日本語の敬語/間接表現を再現する音声学習の難度も高い。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本の中小・スタートアップは依然として『稟議・口頭擦り合わせ・対面会議』中心で、非同期スタンドアップを完全自動化する文化的素地が弱い。一方でリモート系SaaSスタートアップなど一部にはフィット余地あり、業務委譲への心理的抵抗の差が分かれる。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "サポットさん",
+        "url": "https://lp.sapot-san.com/",
+        "note": "Slack連携のタスク管理AIサポーター。絵文字・メンションでタスク作成、進行支援。Cleoの『スタンドアップ自動化』と機能領域が直接競合。"
+      },
+      {
+        "name": "Backlog AIアシスタント",
+        "url": "https://backlog.com/ja/blog/task-management-ai/",
+        "note": "ヌーラボが2026年3月提供のプロジェクトAI。タスク・コメント・Wikiを横断要約しタスク化。国内開発組織で導入実績が広く競合性高い。"
+      },
+      {
+        "name": "Notion AIエージェント",
+        "url": "https://www.notion.com/",
+        "note": "Notion 3.0で組み込み提供のAIエージェント。複数アプリ横断で自律実行、カスタムエージェント機能あり。Cleoの中核価値と重なる。"
+      },
+      {
+        "name": "AGENTIC STAR (ソフトバンク)",
+        "url": "https://www.softbank.jp/corp/news/press/sbkk/2025/20251211_01/",
+        "note": "法人向けAIエージェント一元管理SaaS。国内大手チャネルで提供されエンタープライズ案件で先行。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "業務チャット内に含まれる顧客氏名・連絡先等の個人データをLLM学習基盤に流す場合、第三者提供・越境移転の本人同意または基準適合契約が必要。2026年改正で統計利用目的のAI開発要件は一部緩和方向だが企業の社内審査では引き続き論点となる。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "外部のSlack/Telegram経由でユーザー情報を外部送信する事業者は、外部送信規律(2023年改正)の通知・公表義務に該当する可能性。日本展開時はプライバシーポリシー記載の整備が必要。"
+      },
+      {
+        "law": "不正競争防止法",
+        "impact": "AIに営業秘密(取引先情報・価格戦略等)を入力し外部学習されると秘密管理性が損なわれるリスク。導入企業側のNDA・営業秘密管理体制と整合する設計(学習オプトアウト/データ分離)の保証文書が必要。"
+      }
+    ],
+    "opportunity": "日本でCleoがフィットするのはグローバル英語環境のリモートSaaSスタートアップ、または海外チーム併走の日本拠点に限定される。むしろ機会は『国内文化対応版』を別ブランドで作る方向で、(1)Slack/Chatwork/Teams対応、(2)日本語敬語・忖度的トーン学習、(3)学習データの国内保管+学習オプトアウト保証、(4)監査ログのISMS/SOC2準拠出力、(5)稟議用『決定事項サマリ』出力テンプレを揃えれば差別化余地あり。価格は$10〜$20と国内SaaSと競合し得る水準。",
+    "rationale": "需要(6)はAI議事録・タスク自動化への国内関心が確実にあるため一定スコア。競争(4)はSlack AI/Notion AIエージェント/Backlog AI/サポットさん/AGENTIC STAR等の包囲網が既に厚く、Cleoの優位性(出典付き記憶)は技術的差別化として弱め。規制(5)は致命的ではないが個情法・電通事業法・営業秘密管理で導入企業側の社内承認ハードルが高い。ローカライゼーション(4)はTelegram常駐前提・日本語品質未検証で大幅に減点。商習慣(5)は非同期スタンドアップ文化が浸透しきっておらず兼任PM文化との親和性が低い。総合5点でskip判定。日本向けには別プロダクトとしてのリブランドが現実的。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00+09:00",
+  "review_guide_at": "2026-05-23T19:30:00+09:00"
+}

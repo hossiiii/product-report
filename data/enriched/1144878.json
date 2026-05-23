@@ -1,0 +1,206 @@
+{
+  "name": "TestSprite 3.0",
+  "description": "Let a fleet of parallel agents test your app in minutes",
+  "ph_url": "https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/DP36SVO3Y3LMV7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-22T07:01:00Z",
+  "upvotes": 363,
+  "comments": 62,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p>I'm Yunhao, co-founder and CEO of <a href=\"https://www.producthunt.com/@testsprite\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@TestSprite</a>.</p><p>Today we're shipping <strong>TestSprite 3.0</strong> — autonomous end-to-end testing that actually understands what your app does, not just what your code says.<br></p><p>✍️ Here's how it works:</p><ol><li><p>Point TestSprite at your live web app or API endpoints. Drop in your PRD or product spec if you have one (strongly recommended — it sharpens what we test).</p></li><li><p>We send a swarm of AI agents to explore it in parallel — clicking through every feature like real users.</p></li><li><p>They generate full backend + frontend test suites from what they saw. Then run, debug, and auto-heal them for you.</p></li></ol><p>🚀 What's new in 3.0:</p><ul><li><p><strong>Parallel exploration fleet</strong> — dozens of agents map your app before a single test is written. As far as we can tell, no one else is doing this yet.</p></li><li><p><strong>Backend gets serious</strong> — multi-dependency integration tests, Dynamic Variables, Auto Cleanup, and a Data Flow view that makes debugging an agent-generated test feel like debugging your own code.</p></li><li><p><strong>Frontend tests auto-heal</strong> when your UI drifts. Auto-auth keeps nightly regression sane.</p></li><li><p><strong>Accuracy up ~40%</strong> — and it really shows on <strong>complex enterprise projects</strong>, where most agents fall apart.</p></li><li><p><strong>Coverage</strong> jumped from ~20 to <strong>50+ meaningful cases per run</strong>.</p></li><li><p><strong>CLI for Claude Code and Codex users</strong> — coming soon, right inside your terminal.</p></li></ul><p>🎉 <strong>Launch day offer:</strong> Sign up for our Starter package today and get your first month free.</p><p>Come tell us what you'd want TestSprite to break on. We're reading every comment today 🚀</p>",
+      "votesCount": 24,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Every piece of community feedback has shaped what we have built, and we are deeply grateful for that!</p><p></p><p>The goal has always stayed the same: learn and build from what users actually need. We hope this latest version shows how much we truly care. ❤️</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Interesting! Auto-heal for UI drift sounds great in demos and gets dangerous in CI. How do you separate the two without a human in the loop? Congrats on the launch</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "TestSprite generates and runs end-to-end tests for your app, autonomously. For backend, we can now generate complex integration tests with dynamic variables, auto-cleanup, and Data Flow debugging. For frontend, we now send a fleet of parallel AI agents to explore your app first — clicking through every feature like real users, then feeding results into testing. We're the first to do this. 3.0 also adds auto-heal for UI drift, auto-auth for regression, and a CLI for Claude Code, Codex users.",
+  "featured_at": "2026-05-22T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/50434618-8b14-40d7-9958-db6ef9c84ccb.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2e00ffe0-8611-4413-b94c-6804b1b1bbdb.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/661223ad-c0d1-45b3-8fea-b206ac5a7aea.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/90f6427f-3709-4b07-8e7d-498597e56ffc.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e2eda085-8805-433e-8562-1a6f1b16e129.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/84aade36-a859-4551-a174-780d8c1d11e9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/45fb5847-da9a-4455-88a6-283e92858172.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e3e0636e-bd5e-41f6-a313-25d9675b8f6a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6d2452bb-111a-46d8-82bf-71535de492b8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a3ccf7d5-a2e4-47a7-98e4-c922dd92d4c0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/213dbcb1-522e-47b4-af2c-7e30430be5d6.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/c278d6b6-c753-4e23-89ed-869bd651c824.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:28",
+  "landing_meta": "AI Testing Agent & Automation Platform | TestSprite — TestSprite's AI offers end-to-end software testing by building test plans, writing code, executing tests, debugging, and reporting—all with minimal input. Ideal for dev teams needing self-serve testing across multiple scenarios.",
+  "landing_text": "AI Testing Agent & Automation Platform | TestSprite Exclusive Limited-Time FREE – Don't Miss Out! Learn More Exclusive Limited-Time FREE – Don't Miss Out! Solutions Pricing Docs Blog About Hackathon Contact Sign In Get Started Free Sign In Get Started Free Solutions Pricing Docs Blog About Hackathon Contact Sign In Get Started Free 10x your AI-native dev speed with our autonomous AI testing agent handling verification. 10x your AI-native dev speed with our autonomous AI testing agent handling verification. The missing layer of the agentic workflow. Eliminate manual bottlenecks and let our autonomous AI testing agent transform your CI/CD into a high-velocity engine. Get Started Free Get Started Free Join Community Join Community // Trusted by high-velocity engineering teams worldwide. Built for your AI-native development stack. Simple to connect. And More And More Built for your AI-native development stack. Simple to connect. And More And More Andrew Ng DeepLearning.AI Agentic coding systems accelerate development but are also unreliable. Agentic testing — where you ask AI to write tests and check your code against them — is helping. Andrew Ng DeepLearning.AI Agentic coding systems accelerate development but are also unreliable. Agentic testing — where you ask AI to write tests and check your code against them — is helping. Andrej Karpathy AI Researcher Don't tell it (LLMs) what to do, give it success criteria and watch it go. Get it to write tests first and then pass them. Put it in the loop with a browser MCP. Boris Cherny Claude Code Probably the most important thing to get great results out of Claude Code -- give Claude a way to verify its work. If Claude has that feedback loop, it will 2-3x the quality of the final result. TestSprite is the autonomous verification layer the industry needs. TestSprite is the autonomous verification layer the industry needs. TestSprite is the autonomous verification layer the industry needs. The Autonomous Feedback Loop TestSprite",
+  "pricing_signals": [
+    "open source",
+    "pricing",
+    "$6.7"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:29",
+  "description_ja": "並列で動くAIエージェントの群れがあなたのアプリを数分でテストする",
+  "summary_ja": "Webアプリやエンドポイントを指定するだけで、並列AIエージェント群が実ユーザーのように画面を探索し、フロント・バックエンドのE2Eテストを自動生成・実行・自己修復する自律型テストプラットフォーム。Claude Code / Codex 向けCLIも提供。",
+  "review_guide_ja": {
+    "what": "TestSprite 3.0 は、Webアプリや API エンドポイントを対象に、多数の AI エージェントが並列でアプリを探索し、得た情報からフロントエンド・バックエンドの E2E テストスイートを自動生成・実行・デバッグ・自己修復する自律型テスト基盤。PRD/仕様書を渡すと精度が上がる設計で、3.0 では並列探索フリート、複数依存を持つバックエンド統合テスト、Dynamic Variables / Auto Cleanup、Data Flow デバッグビュー、UI ドリフトに対する自動ヒーリング、回帰テスト向け Auto-auth、Claude Code / Codex 向け CLI(近日)を搭載。1 回の実行で 50+ の意味あるケースを生成し、精度は約 40% 改善したと謳う。CI/CD 内の検証層として位置付けられる。",
+    "for_who": "AI ネイティブ開発を進めるスタートアップから中堅以上の SaaS / エンタープライズ開発チーム。QA 専任が薄い個人開発者・小規模チーム、Claude Code / Codex を使うエージェント駆動開発者、CI/CD に E2E を組み込みたい DevOps エンジニア。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "並列ブラウザエージェント群、PRDからのテストプラン生成、Auto-heal、Data Flow可視化など総合スタックが必要。LLM コスト・安定性・ブラウザ自動化基盤の運用が高難度で、個人〜小規模が 1〜3 ヶ月で同等品質を出すのは困難。"
+    },
+    "signals": [
+      "Andrew Ng / Andrej Karpathy / Claude Code チームなど業界キーパーソンの言及",
+      "Product Hunt 初日で 363 upvote / 62 コメントと高エンゲージ",
+      "Claude Code / Codex 向け CLI を打ち出し、エージェント駆動開発の検証層という明確なポジショニング",
+      "国内でも Zenn 等で『試してみた』記事が出ており開発者の興味が顕在化",
+      "1 回で 50+ ケース、精度 +40% という定量的アピール"
+    ],
+    "concerns": [
+      "Auto-heal の誤検知が CI で誤った合格を生むリスク(コメント欄でも指摘あり)",
+      "LLM 実行コスト・SaaS 費用が国内中小企業に対して割高になりやすい",
+      "国内には Autify / MagicPod / mabl など強力な先行プレイヤーが存在し、認知獲得が容易ではない",
+      "PRD/仕様書前提の精度向上は、仕様が曖昧な国内受託案件で活きづらい可能性",
+      "本番データを扱う E2E でのデータ保護・テスト環境分離など、エンタープライズ要件のクリアが必須"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内ソフトウェアテスト潜在市場は約 6.2 兆円規模で、QA 人材不足とテスト内製化の課題が顕在(Autify 調査で大企業 9 割超が内製化)。AI E2E に関する Zenn/Qiita/ascii.jp 等の記事も増加しており、需要シグナルは強い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Autify、MagicPod(2025年5月に5億円調達、MagicPod Autopilot を提供)、海外 mabl などが既に国内市場で強いブランドと導入実績を持つ。日本語対応・サポート・代理店網も整備済みで、後発が刺さりにくい飽和に近い競合状況。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "テスト自動化 SaaS 自体に直接的な業法規制は乏しい。ただし本番系データを対象に E2E を回す場合は個人情報保護法上の安全管理措置や委託先管理が必要。基本的には汎用 SaaS の範疇でクリア可能。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UI 文字列・PRD 入力・テスト結果レポートは日本語化が必須だが、コア機能はブラウザ操作と API でモデル中心。日本語アプリ画面のセレクタ揺れ・全角/半角・日本独自 UI(郵便番号、住所、和暦)への対応に追加調整が必要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本は受託開発比率が高く、要件定義書はあるが PRD 文化は薄い。QA はベンダー外注 + 手動テスト主流で、自律エージェントへの委任に対する心理的抵抗が強い。エンタープライズ営業・PoC 並走・代理店モデルなしでは普及が難しい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Autify",
+        "url": "https://autify.jp/",
+        "note": "ノーコード AI E2E 自動化 SaaS。AI による自動メンテ、モバイル対応、国内大手導入実績多数。テスト内製化に関する調査レポートも発信し市場認知が高い。"
+      },
+      {
+        "name": "MagicPod",
+        "url": "https://magicpod.com/",
+        "note": "国内発の AI テスト自動化 PF。500社超導入、2025年5月に5億円調達、MagicPod Autopilot で自然言語からのテスト自動生成を提供。MCP 連携も発表済み。"
+      },
+      {
+        "name": "mabl",
+        "url": "https://www.mabl.com/ja",
+        "note": "米国発の AI E2E SaaS。日本法人を構え、Auto-heal や CI/CD 連携を提供。GMO 等の事例ブログもあり国内採用が進む。"
+      },
+      {
+        "name": "T-DASH (バルテス)",
+        "url": "https://service.valtes.co.jp/t-dash/",
+        "note": "バルテス提供のノーコード自動テストツール。国内 SIer/受託案件と親和性が高く、テスト自動化エンジニア教育コンテンツも展開。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "本番環境や本番相当データに対して E2E を実行する場合、個人データの取扱い委託に該当しうる。SaaS 事業者としての安全管理措置、海外サーバ利用時の越境移転対応、ログ保持期間や匿名化方針の明示が必要。"
+      },
+      {
+        "law": "不正競争防止法",
+        "impact": "並列クローリング型エージェントが他社サイトや限定公開環境を意図せず走査する場合、営業秘密や技術的制限手段への接触リスクがある。対象 URL の所有/権限確認フローと利用規約の整備が必要。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては、(1) 受託 SIer 向けに『仕様書(エクセル/Word)から E2E を生成』するアダプタを内包し、PRD 文化が薄い現場でも導入できる形に再パッケージ、(2) 和暦・郵便番号・住所オートコンプリート・全半角揺れなど日本特有 UI への安定動作を売りにしたローカルエージェント、(3) Claude Code/Codex+ 国内 LLM API の組合せに最適化したオンプレ/VPC 内実行プラン、(4) QA ベンダー(SHIFT、バルテス等)との協業で『AI が下書き→人が承認』のハイブリッド運用テンプレートを提供、といったニッチが取りうる。価格は MagicPod/Autify より下のレンジで個人開発者・スタートアップに刺す手も有効。",
+    "rationale": "需要(QA 人材不足、テスト内製化トレンド、AI E2E への注目)は明確に存在し、demand は強い。一方で MagicPod・Autify・mabl・T-DASH など、日本語対応とエンタープライズ営業を備えた競合が既に厚く、特に MagicPod は 2025 年に資金調達と AI エージェント機能(Autopilot/MCP 連携)を相次いで投入しており、後発が同じ土俵で勝つのは難しい。規制は軽微、ローカライズも中程度の工数だが、PRD 文化の薄さや QA 外注習慣、手動テスト中心の品質保証文化など商習慣面の壁が大きい。スコア算定: 7×0.30 + 3×0.25 + 8×0.20 + 6×0.15 + 4×0.10 = 2.10 + 0.75 + 1.60 + 0.90 + 0.40 = 5.75 → round 6 = watch。日本オリジナル PF として真っ向勝負するより、(a) 受託 SIer 向け仕様書アダプタ、(b) 日本特有 UI への耐性、(c) QA ベンダーとの協業によるハイブリッド運用、などニッチ特化で参入余地を探すのが妥当。TestSprite 本体の動向は引き続きウォッチする価値あり。"
+  },
+  "japan_fit_at": "2026-05-23T20:15:00",
+  "review_guide_at": "2026-05-23T20:15:00"
+}

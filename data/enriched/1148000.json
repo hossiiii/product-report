@@ -1,0 +1,172 @@
+{
+  "name": "Mintlify Workflows",
+  "description": "Self-updating knowledge bases",
+  "ph_url": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/3CNKWNRFX4MONH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-21T07:01:00Z",
+  "upvotes": 317,
+  "comments": 40,
+  "topics": [
+    "Notes",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p><strong>Hi Product Hunt community!</strong><br><br>We are excited to introduce Mintlify Workflows<br><br><strong>What is it?</strong><br><br>Automations that keep your knowledge base up-to-date without manual upkeep. Pick a workflow, choose when it runs, and let it maintain itself.<br><br><strong>Why now?</strong><br><br>With recent AI advancements, the gap between what your product does and what your knowledge base grows wider, and closing it becomes a project of its own. We built Workflows to save you time and automate the busywork of maintaining knowledge bases so you can stay focused on shipping.<br><br><strong>What's included?</strong><br><br>Each workflow is focused, tested, and ready to go. No prompts are required to write or maintain. We built them around the tasks teams want to automate the most:<br><br>- Codebase updates: sync content when PRs merge to your code repo<br>- Changelog: draft entries from recent product updates on a recurring schedule<br>- Translations: automatically translate your content to increase reach<br>- Broken links: find and fix links automatically<br>- SEO: audit titles, meta tags, headings, and canonical tags<br>- Grammar: catch typos and grammar errors<br>- Brand tone: enforce your style guide's voice and rules</p>",
+      "votesCount": 17,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>never gonna have to bug someone to update the docs ever again</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>can't live without this product, workflows keep our docs totally updated. you're the best!!!</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Keep your docs moving as fast as your product. Mintlify Workflows lets teams turn on pre-built automations that update knowledge bases, generate changelogs, maintain translations, and handle repetitive documentation tasks whenever triggered. Instead of chasing every product change manually, teams can set up Workflows once and let Mintlify keep docs accurate, current, and ready for users.",
+  "featured_at": "2026-05-21T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/5daa9b0c-dec8-45be-856c-36a7e4957c32.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dcd2135f-4f12-4bf5-b710-066f266248b5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/39d5ce62-e7ec-4e8b-b61b-97acb55d79f8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4f886d5d-6e76-4084-b238-6c696d1c765f.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/fb7009ca-5c16-4462-9df4-85327dac085c.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:35",
+  "landing_meta": "Login - Mintlify",
+  "landing_text": "Login - Mintlify Sign in to Mintlify Don't have an account? Get started Enter your email Continue with password Continue with email OR Continue with Google By signing in , you agree to the Terms of Service and Privacy Policy .",
+  "pricing_signals": [
+    "$1",
+    "$4",
+    "$9",
+    "$16"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:35",
+  "description_ja": "自動でメンテナンスされ続けるナレッジベース",
+  "summary_ja": "Mintlify が提供する事前構築型ワークフロー集。PRマージ時のコード同期、変更履歴の自動生成、翻訳、リンク切れ修正、SEO・文法・トーンチェックなどを定期実行し、開発者ドキュメントを手作業なしで最新に保つ。",
+  "review_guide_ja": {
+    "what": "Mintlify Workflows は同社のドキュメントプラットフォーム上で動作する事前定義済み自動化集。トリガー(PR マージ・スケジュール等)とアクション(コードからのドキュメント更新、変更履歴ドラフト生成、自動翻訳、リンク切れ検出と修正、SEO 監査、文法チェック、ブランドトーン強制)を選ぶだけで、プロンプト記述なしに稼働する。典型ユースケースは、API/SaaS 企業が GitHub リポジトリと公式ドキュメントを同期し続けるケース、リリースノートを週次で自動下書きするケース、英語ドキュメントから多言語版を継続生成するケース。Mintlify 既存ユーザーの『運用負荷削減』アドオンとして機能する位置付け。",
+    "for_who": "Mintlify を既に採用している、もしくは検討している開発者向けドキュメントを抱えた SaaS / API プロバイダ。技術ライターを置けない小規模スタートアップや、ドキュメント更新が後回しになりがちな DevRel / プロダクトマネージャに刺さる。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "個別ワークフロー(リンク切れ検出、翻訳、SEO 監査等)は LLM + Git 連携で個人開発でも作れるが、複数自動化を統合したドキュメント基盤+UI+課金まで揃えるには 3ヶ月超かかる。"
+    },
+    "signals": [
+      "公開 1 日で 317 upvotes と Developer Tools 分野で強い反応",
+      "Mintlify 本体が既に Anthropic 等大手の公開ドキュメントで採用実績あり",
+      "AI でコードとドキュメントの乖離を埋めるニーズが世界的に拡大",
+      "$1〜$16 と推定される低価格レンジで小規模チームでも導入容易"
+    ],
+    "concerns": [
+      "Mintlify 本体に依存したアドオンなので単独成立しない",
+      "GitBook / Document360 / Docusaurus 等の代替が既に強力",
+      "自動生成ドキュメントの品質担保とハルシネーション対応が課題",
+      "国内では Notion / esa / Kibela 等の汎用ツールで代用するチームが多い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内でも Mintlify 自体への関心は高く Qiita / Zenn / note に紹介記事が複数。ただし自動翻訳・SEO・リンク切れ修正といったワークフロー型ニーズは大企業のテックライティングチームが中心で、開発者個人レベルの強い顕在需要シグナルは限定的。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "国内に DocBase / NotePM / Kibela / esa.io / Qiita Team など汎用ナレッジ SaaS が密集し、開発者ドキュメント領域でも Docusaurus 自前運用が定着。海外勢の Mintlify / GitBook / Document360 / Apidog も既に日本語対応で攻勢中で、新規参入余地は狭い。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "ドキュメント自動化 SaaS に直接縛りをかける日本法令は基本なし。個人情報保護法は顧客データ取扱で一般的に該当する程度。生成 AI の利用について著作権法上の留意は必要だが、致命的なブロッカーは存在しない。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "UI は管理者向けで利用者数も限定的、Mintlify は既に UTF-8 と日本語ナビゲーションを正式サポート。自動翻訳ワークフローも英→日に有効。深い UX 改修は不要で、日本語サポート窓口と請求書払い対応で十分通用する。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "クレジットカード決済中心の SaaS 文化と相性は普通。日本企業はドキュメントの社内承認フロー・押印文化が残る場面があり、自動公開系ワークフローはレビュー必須化のカスタマイズが求められる可能性。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "DocBase",
+        "url": "https://docbase.io/",
+        "note": "クレディセゾン子会社が運営する Markdown ベースのチームドキュメント共有 SaaS。エンジニア向けドキュメントから社内ナレッジまで幅広く採用実績。"
+      },
+      {
+        "name": "NotePM",
+        "url": "https://notepm.jp/",
+        "note": "株式会社プロジェクト・モード提供のナレッジ管理 SaaS。検索・バージョン管理・PDF 出力・2FA を備え社内マニュアル用途で国内シェア大。"
+      },
+      {
+        "name": "Kibela",
+        "url": "https://kibe.la/",
+        "note": "ビットジャーニー社の情報共有ツール。Markdown と階層構造、Webhook を持ちエンジニアチームでの利用が中心。"
+      },
+      {
+        "name": "esa.io",
+        "url": "https://esa.io/",
+        "note": "WIP 機能で書きかけドキュメントを共有する文化を持つ国産 SaaS。スタートアップ・エンジニアコミュニティで根強い人気。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "顧客のドキュメント本文や閲覧者の個人データを扱う場合に一般的な取扱規律が適用。クラウド SaaS であれば委託先管理・越境移転告知が論点となるが、開発者ドキュメント主体なら影響は限定的。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "AI による自動翻訳・文章生成において、コードや既存ドキュメントの取込み・学習利用について顧客側で権利処理が必要。提供者側は規約で利用範囲を明確化すべき水準で、実装難度は低い。"
+      }
+    ],
+    "opportunity": "国内独自の角度としては、(1) 日本企業の『ドキュメント承認フロー + 押印文化』を吸収するレビューゲート付き自動化、(2) Qiita / Zenn / Confluence / Notion / Kibela / esa など国内で散在するドキュメントを横断同期する『国産マルチソース版 Workflows』、(3) 個人情報保護法・電気通信事業法等の規約文面を AI 監査するワークフローテンプレ、(4) freee / マネーフォワード / Sansan 等の API ドキュメントカルチャに合わせたテンプレ集が考えられる。汎用ドキュメント SaaS との真正面対決ではなく、業務ドメイン特化(法務テック・金融テック API)で勝ち筋を作るのが現実的。",
+    "rationale": "Mintlify Workflows 自体は開発者ドキュメント市場で着実なポジションを築く本家 Mintlify の運用拡張機能であり、グローバルでは強い PMF を持つ。一方で日本市場単独で見た場合、需要シグナルは中程度・競合は汎用ナレッジ SaaS と海外勢で飽和・規制は緩い・ローカライズは平易・商習慣はやや摩擦あり、というプロファイルとなる。加重平均スコアは demand 6×0.30 + competition 3×0.25 + regulation 9×0.20 + localization 8×0.15 + business_custom 5×0.10 = 5.45 → 5 で skip 判定。日本のチームは本家 Mintlify をそのまま採用する方が合理的で、同等プロダクトを国内から作っても差別化は難しい。ただし法務テック・金融 API など規制業界向けのドキュメント自動化に振り切れば局所的な勝ち筋は残る。"
+  },
+  "japan_fit_at": "2026-05-23T19:20:00",
+  "review_guide_at": "2026-05-23T19:20:00"
+}

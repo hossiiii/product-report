@@ -1,0 +1,204 @@
+{
+  "name": "StoreClaw",
+  "description": "Grow your store profits with agents that know how to sell",
+  "ph_url": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/PVXOOJINEBKKUA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-20T07:01:00Z",
+  "upvotes": 681,
+  "comments": 277,
+  "topics": [
+    "Artificial Intelligence",
+    "E-Commerce",
+    "Marketing automation"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Most <em>\"AI for ecommerce\"</em> tools still require that you copy/paste their outputs into Shopify's backend. </p><p></p><p>StoreClaw skips all that. </p><p></p><p>Connect your store via MCP and it goes in and <em>does the thing</em> — from bulk-editing meta descriptions, adding alt text, generating backlinks, and tweaking product copy. The SEO audit the team walked me through gave me a glimpse of the productive gains you can expect from StoreClaw.</p><p></p><p><strong>StoreClaw isn't a chatbot, nor an \"AI for your store\" — it's a collection of agents that know how to sell. </strong></p><p></p><p>It comes with 30+ preloaded skills, and can connect to where you already run your business (Shopify, WooCommerce, Amazon, eBay, plus your growth channels). It offers proactive plans that you approve before they're executed.</p><p></p><p>Use code <strong>PH300</strong> (no card required) to claim 300 free credits to kick the tires. To get a sense for what this gets you, <a href=\"https://www.producthunt.com/@marina_jiang1\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"marina_jiang1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@marina_jiang1</a> told me she used 300 credits to spin up an entire storefront <em>and</em> run a full SEO fix across 12 skills — so it's enough to actually see what it does—not just poke around.</p><p></p><p>Congrats to <a href=\"https://www.producthunt.com/@steven76\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"steven76\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@steven76</a> on the launch — would love to know what existing store owners want try first!</p>",
+      "votesCount": 32,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch!</p><p></p><p>One thing I'm curious about: can sellers set approval layers before actions run? Especially for pricing, inventory, or campaign changes.</p>",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations!              </p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "StoreClaw is the first AI commerce platform with agents that know how to sell, so you can make more money with less effort and less stress. Connect StoreClaw to your existing store and it will study your numbers, current sales figures, and growth trajectory, and then offer proactive suggestions that it can execute on your behalf — once you give it your approval. Ask StoreClaw how your business is doing any time, anywhere. Sell more with less stress: StoreClaw.",
+  "featured_at": "2026-05-20T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/407049a2-0be3-4b8d-a7c0-4fc5b9754db2.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/571326ca-9fec-4d0e-8076-a9712221f8ea.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/113b4e68-a2f4-410c-a0fd-30daa6a779d9.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f8e3b307-8d9f-440a-b0b2-b4e5206386b5.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e5cf6382-98a7-4811-a507-5fa4343e6e76.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e6df425c-04f7-4d6a-9c58-7e377fd225b2.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1fd52e2d-b988-4325-be9f-ef220dc1364d.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/23605a63-5069-46c4-b90f-c679351d7b2e.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:19",
+  "landing_meta": "StoreClaw — AI Agent for Ecommerce | Run Your Store 24/7 — StoreClaw is the AI agent for online sellers — automate store ops, SEO, social content & site building from one workspace. Start free for Shopify & Amazon.",
+  "landing_text": "StoreClaw — AI Agent for Ecommerce | Run Your Store 24/7 NEW 🏅 StoreClaw Ranks #1 Product of the Day on Product Hunt Grow your store profits with agents that know how to sell Featured Store Optimizer Winning Products Content Engine Store Ops Market Intel One AI growth engine. All your platforms. See StoreClaw in action What StoreClaw Can Do for You Explore all features 01 Store Diagnostics 02 Traffic Growth 03 Social Content 04 Multichannel Expansion Know what's wrong before it costs you StoreClaw monitors your orders, inventory, and conversion rates around the clock. When something shifts, it doesn't just alert you — it diagnoses the cause and tells you how to fix it. Before you even open your dashboard. Show up everywhere buyers search StoreClaw helps your products show up across Google and AI-powered search. Your products get found on Google and recommended by ChatGPT and Perplexity — without you learning the difference between SEO and GEO. A month of content in minutes, not days StoreClaw generates a full month of social content, schedules it across your channels, and tracks what's working. It learns what performs best, adapts over time, and dramatically reduces manual work. Every channel has a playbook. You have them all StoreClaw comes with built-in skills for Amazon, Shopify, Wix, TikTok Shop, and more. Expand to new channels without starting from scratch — and track performance across all of them in one place. Explore all features Four modules. One AI growth engine. LLM Chat Skills Connectors Schedule LLM Chat Talk to your store Skills Automated specialists Connectors Omnichannel sync Schedule Autonomous operations Talk to your store Understands your business context from the first connection Guided starting points for new users — never a blank screen One instruction triggers multi-step workflows across your entire operation Who Uses StoreClaw See pricing Brand Owner StoreClaw handles the analytics, optimization, and automation — so you can focus on building",
+  "pricing_signals": [
+    "pricing",
+    "free plan"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:21",
+  "description_ja": "売り方を熟知したAIエージェントでストアの利益を伸ばす、EC向けAIコマース基盤",
+  "summary_ja": "Shopify/Amazon/WooCommerce等にMCPで接続し、30以上のスキルを持つAIエージェントがSEO最適化・商品コピー改善・在庫監視・SNS投稿生成までを承認制で自律実行するEC運営自動化SaaS。",
+  "review_guide_ja": {
+    "what": "EC事業者の管理画面に常駐するAIエージェントプラットフォーム。MCP経由でShopify、WooCommerce、Amazon、eBay、Wix、TikTok Shopに接続し、注文・在庫・コンバージョン率を24時間監視。問題を診断するだけでなく、メタディスクリプションのバルク編集、alt属性付与、被リンク生成、商品コピー改善、SEO監査、月単位のSNSコンテンツ生成・スケジュール投稿、マルチチャネル展開などを30以上のプリロードスキルとして実行する。チャットで業績を尋ねたり、提案されたプランを承認制で実行させる対話型UI。クレジット制課金で無料プランあり。",
+    "for_who": "Shopify/Amazonで複数チャネル運営するD2Cブランドオーナー、個人/小規模EC事業者、SEOやSNS運用に手が回らない中小マーチャント、複数ストアを横断管理するEC運営代行・コンサル。マーケ・運用人材不足を補いたい層に刺さる。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "Shopify/Amazon等のAPI連携、MCPサーバ実装、LLMオーケストレーション、承認フロー、クレジット課金まで含むと個人開発は重め。1スキル特化なら1〜3ヶ月で類似MVPは可能。"
+    },
+    "signals": [
+      "Product Hunt #1 of the Day で681 upvotes・277コメントと強いエンゲージメント",
+      "AI for Commerce 領域は Shopify Magic/Sidekick が後押しし市場教育済み",
+      "MCP接続+承認制エージェントというアーキテクチャがエージェンティックコマース潮流に合致",
+      "Shopify/Amazon/WooCommerce/eBay/TikTok Shopまでカバーするマルチチャネル対応",
+      "30+スキル+クレジット制無料トライアル(PH300)で導入障壁が低い"
+    ],
+    "concerns": [
+      "Shopify本体(Magic/Sidekick)と機能重複が大きく、プラットフォーマー競合に飲まれるリスク",
+      "AIが自動で商品コピーや広告文を書き換えると景表法/特商法上の表記責任が運営者に残る",
+      "クレジット課金がスキル単位コストと釣り合うか不透明で、ROI訴求が難しい",
+      "日本では楽天・Yahoo!ショッピングが主要モールであり未対応だと国内マーチャント獲得が困難",
+      "完全自律実行が在庫・価格を動かす際の事故リスク管理(承認層の粒度)"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内Shopify利用は拡大中で、EC運営の人手不足とSEO・SNS運用負荷は実需が顕在化。AIエージェント型EC自動化への関心は高くShopify Magic/Sidekickの認知も上がっている。一方で楽天/Yahoo!出店者は主要対象外で需要は割引かれる。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内一元管理ではネクストエンジン、GoQSystem、助ネコ、メルカートが先行。助ネコは感情分析等AI機能を実装し、メルカートはAIエージェント一体型DWHを訴求。Shopify本体のSidekick/MagicとStore SEO Manager等のAIアプリも存在し、競合密度は高い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "2024年改正景表法で直罰規定が新設され、AI自動生成の商品コピーや広告表現が優良誤認・有利誤認に該当した場合運営者責任が問われる。特商法表記の自動編集も誤りがあるとリスク。個人情報保護法上の顧客データ取扱も要設計だが、運用設計で対応可能。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "LLMチャットUI・SEO最適化は日本語対応自体は容易だが、楽天RMS/Yahoo!ストア・ネクストエンジン等の国内主要チャネル/一元管理ハブとの接続実装が必須。日本語のSEOキーワード設計やSNS(X、Instagram、LINE)文脈への適応も追加要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "国内EC運営は楽天・Yahoo!モール文化、受注後の手作業同梱物・のし・領収書発行、運営代行への外注慣習が根強い。完全自律実行より「下書き提案+人間承認」が好まれ、StoreClawの承認制設計は適合的だが、モール対応・帳票連携の不足で商習慣ギャップ残る。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "メルカート (エートゥジェイ)",
+        "url": "https://mercart.jp/",
+        "note": "クラウドEC構築。AIエージェント一体型DWH基盤を訴求しEC運営をAIで伴走支援。中堅〜大手向け。"
+      },
+      {
+        "name": "ネクストエンジン (Hamee)",
+        "url": "https://next-engine.net/",
+        "note": "国内EC一元管理シェア上位。楽天/Amazon/Yahoo!/Shopify対応、6000社超導入。自動化機能とアプリ拡張が豊富で運営自動化の代替に近い。"
+      },
+      {
+        "name": "助ネコ (アクアリーフ)",
+        "url": "https://www.sukeneko.com/",
+        "note": "EC受注/在庫一元管理。Lite以上のプランで感情分析等AI機能搭載。中小ショップ向け従量課金。"
+      },
+      {
+        "name": "Union (シャイオス)",
+        "url": "https://prtimes.jp/main/html/rd/p/000000007.000095807.html",
+        "note": "Shopify向けAI搭載ECアシスタントSaaSとして正式版リリース。日本語ネイティブで国内Shopifyマーチャント向け。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法 (2024年10月改正)",
+        "impact": "AIが自動生成・改変する商品説明や広告コピーが優良誤認・有利誤認に該当すると、運営者に課徴金や100万円以下の罰金(直罰)が及ぶ。AI出力の人間レビュー導線とログ保管が事実上必須。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "通販事業者の表記(事業者名・所在地・返品特約等)の自動編集機能を提供する場合、誤った書換えは事業者側の表示義務違反を惹起する。スキル設計でロックや差分承認が必要。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "顧客データ・購買履歴をLLMに送る構成のため、越境移転・委託先管理・利用目的明示が論点。SaaS事業者として委託先としての安全管理措置説明資料の整備が求められる。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "商品画像の背景生成・コピー生成で第三者著作物の混入や類似生成のリスク。生成物の権利帰属と利用許諾のT&Cを整備する必要。"
+      }
+    ],
+    "opportunity": "国内市場では(1)楽天RMS・Yahoo!ストアエディタ・ネクストエンジン等の国内ハブへのMCP接続、(2)景表法/特商法のAIドラフト→人間承認ワークフローを標準装備し「コンプライアンス安心AIエージェント」として差別化、(3)LINE公式アカウントやInstagramリール向け日本語SNSスキル、(4)EC運営代行・コンサル向けの複数店舗横断ダッシュボードとホワイトラベル提供、が有望。中小Shopifyマーチャントが楽天モール+自社サイトを併用する実態に合わせ、モール出店者の商品マスタ・在庫を統合最適化するエージェント特化型(縦切り)は競合不在領域として狙える。",
+    "rationale": "AIエージェント型EC自動化の需要は国内でも上昇しており、Shopifyマーチャントを中心に一定の市場性はある。ただし国内主要モールが楽天/Yahoo!である構造的特性のため、Shopify中心設計のままでは到達顧客が限定的。さらに一元管理レイヤではネクストエンジン/GoQSystem/助ネコ、Shopify上ではSidekick/Magic+Union等の国内Shopify特化SaaSが既に存在し、競合密度が高い。規制面では2024年改正景表法の直罰化により、自律実行型AIは表示責任の運用設計が論点となる。総じて、グローバル版をそのまま日本展開すると競合と商習慣ギャップに埋もれる可能性が高いが、モール対応+コンプライアンスガード+EC運営代行向け機能を備えて再設計すれば「watch」から「build」へ昇格しうる。現時点では国内Shopify特化新興プレイヤーの動向観察と、モール対応版PoCを並走させる位置付けが妥当。"
+  },
+  "japan_fit_at": "2026-05-23T20:15:00",
+  "review_guide_at": "2026-05-23T20:15:00"
+}

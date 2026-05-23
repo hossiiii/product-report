@@ -1,0 +1,203 @@
+{
+  "name": "Auto Posts",
+  "description": "Schedule social post, Telegram messages + more",
+  "ph_url": "https://www.producthunt.com/products/auto-posts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/CAWHP3ZT3TUW2Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-22T07:01:00Z",
+  "upvotes": 161,
+  "comments": 25,
+  "topics": [
+    "Social Media",
+    "Marketing",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hi Product Hunt,\n\nAs bootstrapped founders, we purchased pursocial.com about a year ago and rewrote the whole app in Node.js because our tech team's primary coding stack is Node.js. Today we are launching it as AutoPosts. \n\nWe kept all the cool and essential features from the old app, improved the UX/UI and refreshed the entire design. \n\nWe are super excited to launch it today. The app was making ~$500-$600 when we bought it and we know this is a crowded space. What makes us different from bigger players is that we move fast, listen to user feedback and can quickly improve or add new features while keeping affordable pricing. Most of the big players in the market are focused on enterprise customers because they need to keep growing at scale. We are here to serve smaller teams and businesses like ours. \n\nWith AutoPosts, you can schedule posts across Facebook, Instagram, X, LinkedIn, Pinterest, Telegram and more. We are currently working on adding other social media platforms, so you can save time manually posting content and focus more on your business. \n\nAs part of our Product Hunt launch, we are giving away 50% off forever to all users. The code is PH50 which can be applied at checkout. This offer expires in 7 days. \n\nIf you have any questions or feedback, we'd love to hear them. Thank you for your support 🙏",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Scheduling is solved by a lot of tools already, now what makes the analytics side actually useful here? Like, does it help you understand <em>why</em> something performed well, or is it mostly just tracking numbers you could see natively on each platform?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Looks cool, does it also help write the content of posts?",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Stop wasting your time manually posting on every social platform. Plan your content and schedule posts across all platforms from one simple dashboard. Focus on building your business, not your content calendar. AutoPost helps you schedule smarter, post automatically, and reclaim your time. Because your business needs you, your socials don’t.",
+  "featured_at": "2026-05-22T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/6904bc81-305c-4831-8f38-04d7e859e2b9.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ec549cc0-3ec3-410f-b51e-58511208f633.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9c9e2c1c-468e-4e1f-938a-50508183adb9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e42f3de9-6a3a-421e-b2a4-9185bede1aae.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/69c9df83-9ed0-4101-b3cf-c65323a456c5.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:06:00",
+  "landing_meta": "Stay consistent on social media without the daily grind — Plan and schedule your content across all platforms from one simple dashboard so you can focus on growing your audience.",
+  "landing_text": "Stay consistent on social media without the daily grind Stay consistent on social media without the daily grind Plan and schedule your content across all platforms from one simple dashboard so you can focus on growing your audience. Start 7-day free trial Manage all your accounts in just 1 simple tool Get Back Your Time Post consistently, grow your audience and business - without risking getting sucked in the rabbit hole. Bulk Schedule with Ease Schedule a full month's worth of posts on ALL your platforms in one session. Skip Daily Logins Schedule your posts ahead so you avoid getting sucked into endless doomscrolling. Honest Pricing You don’t need a 5-figure marking budget. If you get your scheduling tool for just $20/month. Clean, Simple Interface Everything you need, nothing you don’t. All your accounts in 1 place No more jumping between 10 different tabs, but everything in 1 place Fasten your content creation Reuse templates to quickly craft and publish posts across platforms. AutoPost in 3 simple steps 1 Connect Your Accounts Link each account in one click. No tech stress, no setup mess 2 Load Your Content Schedule your content in minutes. Free up hours instead of wasting them. 3 Sit back & Scale Wake up to new followers, fresh leads, and zero stress. Busy Business People Love AutoPost Post consistently, grow your audience and business - without risking getting sucked in the rabbit hole. I have 30k subs and 20k daily views across platforms, and use AutoPost to manage it all. 100% recommend EP Evgenii Popov Personal Brand We automated our social with RSS from our site. Brilliant. Ma Mark Owner Recording Studio Best app for scheduling and publishing posts! BA Bart Content writer We use AutoPost mainly to schedule our X posts. It gives us an oversight without having to share account details. TM Tom Mac Content writer I used to use a scheduling tool for X only, but since I use AutoPost I have all the accounts of my clients in 1 place. Now I save hours of clicking b",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing",
+    "premium",
+    "$20/mo",
+    "$1",
+    "$15",
+    "$18",
+    "$19",
+    "$2",
+    "$0",
+    "$3"
+  ],
+  "landing_fetched_at": "2026-05-23T19:06:01",
+  "description_ja": "Facebook・Instagram・X・LinkedIn・Telegram等への投稿を1つのダッシュボードで予約配信できるSNS管理ツール。",
+  "summary_ja": "複数SNSアカウントを一元管理し、予約投稿・テンプレ再利用・RSS自動投稿に対応する低価格スケジューラ。月20ドル前後で中小事業者や個人ブランドの運用工数削減を狙う。",
+  "review_guide_ja": {
+    "what": "AutoPostsは買収したpursocial.comをNode.jsで全面リライトしたSNS投稿スケジューラ。Facebook・Instagram・X・LinkedIn・Pinterest・Telegramに対応し、1か月分の投稿をまとめて予約、RSSからの自動投稿、テンプレート再利用、複数アカウント一元管理が可能。料金は$20/月前後と低価格帯で、7日間の無料トライアルとPH50コードによる50%永久割引を提供。エンタープライズに寄った大手(Hootsuite/Buffer等)が対応しきれない小規模事業者・個人クリエイターへ、機能の素早い追加とフィードバック反映で差別化を図る。投稿のなぜ良かったかを示す分析機能や生成AIによる文面作成は現状非対応で、コメント欄でも質問が挙がっている段階。",
+    "for_who": "複数SNSを運用する個人ブランド・フリーランス・中小企業のマーケ担当。1人で運用していて低単価のスケジューラを探している層、X以外のチャネルも一元化したいクリエイター、RSS連携でブログ更新を自動拡散したいオウンドメディア運営者。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "各SNSの公式APIとOAuth、cronによる予約配信の組合せで再現可能。Node.jsベース。技術的参入障壁は低く、UI/UX・課金・サポートが差別化軸。"
+    },
+    "signals": [
+      "PH 161 upvotes / 25 comments と一定の関心",
+      "既存資産(pursocial.com)買収+リライト方式で開発リスクを抑制",
+      "$20/mo+50%永久割引と低価格訴求が明快",
+      "Telegram対応など大手で手薄なチャネルもカバー",
+      "RSS自動投稿・テンプレ再利用など実運用に効く機能を初期搭載"
+    ],
+    "concerns": [
+      "Buffer/Hootsuite/Later/Publerなど競合が極めて多い",
+      "分析・生成AIによる文面作成など差別化機能が弱い(コメントでも指摘)",
+      "X/Meta等のAPI規約変更・コスト上昇リスク",
+      "日本ではSocialDog/Statusbrew/comnicoが既に強い",
+      "ステマ規制等への対応(PR表記補助等)は明示されていない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本でもSNS投稿予約・一括管理のニーズは中小企業・個人事業主を中心に強く、2026年版の比較記事が多数公開され市場は成熟。X・Instagram・LinkedInの並行運用ニーズも継続。需要自体は十分にある。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "SocialDog(国産シェア1位、登録100万超)、Statusbrew(日本法人・15ch対応)、comnico Marketing Suite、Beluga、Social Insightなど国産・日本語ローカライズ済の強豪が乱立。海外勢のBuffer/Hootsuite/Later/Publerも進出済で価格帯も近く、差別化が極めて困難。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "本体は配信スケジューラのため重い業法規制は無いが、ユーザー側でステマ規制(景品表示法,2023/10〜)・特定電子メール法・著作権法に注意必要。事業者として規制違反を助長しないUI(PR表記支援等)があると望ましい程度。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "現状ランディング・UIは英語のみで、日本語UI/カスタマーサポート・JST対応・日本円課金・適格請求書(インボイス)対応の明示が無い。日本の中小・個人事業主層を取りに行くにはこれらの整備が必須だが負担が大きい。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のSNS運用は代行会社経由・承認フロー重視・LINE公式アカウント連携が好まれる傾向があるが、AutoPostsはLINE非対応で承認フローも訴求されていない。小規模事業者向けのセルフサーブ思想は合うが商習慣に合わせた追加機能が必要。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "SocialDog",
+        "url": "https://social-dog.net/",
+        "note": "国産SNS管理ツールのシェアNo.1。X中心にInstagram/Facebook/YouTube/Threads対応。予約投稿・分析・フォロワー管理を統合し、無料〜月数千円で中小規模に浸透。"
+      },
+      {
+        "name": "Statusbrew",
+        "url": "https://statusbrew.co.jp/",
+        "note": "日本法人あり。15以上のチャネル対応、承認ワークフロー・Instagram運用支援が強み。1アカウント月2,000円のシンプル課金で企業・代理店に導入実績。"
+      },
+      {
+        "name": "comnico Marketing Suite",
+        "url": "https://www.comnico.jp/products/cms",
+        "note": "コムニコ社提供。承認フロー、独自データに基づく深い分析、代理店対応に強み。日本企業のSNSマーケ運用フローに最適化。"
+      },
+      {
+        "name": "Buffer (日本利用)",
+        "url": "https://buffer.com/",
+        "note": "個人・スタートアップ向け無料プランあり、$5〜/チャネル/月。日本でも個人ユーザー層に広く利用され、AutoPostsの価格帯と直接競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法(ステマ規制)",
+        "impact": "2023年10月施行のステマ規制により、広告である旨の明示義務が事業者(広告主)に課される。スケジューラ自体は規制対象外だが、ユーザーがPR投稿を行う際の#PR/#広告挿入支援やテンプレ警告等を備えると日本市場で訴求しやすい。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "Telegram/メール連携機能を販促メール送信に用いる場合は同法のオプトイン・受信拒否表記が必要。SNS投稿用途では直接的影響は限定的だが、メール通知やニュースレター連動を拡張する場合は留意。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "ユーザーが投稿コンテンツに第三者画像・楽曲を載せる場合の権利処理は利用者責任。テンプレ提供時の素材ライセンス明示や、生成AIで文面作成する場合の出力物の著作権帰属の取扱いを明確にする必要。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "連携SNSアカウントのトークン・顧客リスト・分析データの取扱いは個人データに該当し得る。日本ユーザー獲得時はプライバシーポリシー日本語化、第三者提供(米国サーバ等)に関する同意取得が必要。"
+      }
+    ],
+    "opportunity": "市場としてのSNS投稿管理ニーズは日本でも強いが、SocialDog/Statusbrew/comnicoなど国産の強豪が日本語UI・承認フロー・代理店対応で先行している。AutoPostsが入り込むなら、(1)海外向けプラットフォームを多用する越境EC・個人クリエイター層に絞る、(2)LINE公式アカウント・noteなど国産チャネル対応で差別化、(3)ステマ規制対応の自動PR表記/承認ワークフローを追加、のいずれかが必要。現状の英語UI・低価格帯のみでは日本ユーザー獲得は困難で、ローカライズ投資の費用対効果は限定的。",
+    "rationale": "需要は十分にあるが(7)、SocialDogを筆頭に国産・海外勢が密集する超レッドオーシャンで競争スコアは3。規制は本体に重くないが(7)、ローカライズが英語UIのみで日本円課金・適格請求書対応も無く3、商習慣面でもLINE非対応・承認フロー弱で4。加重平均はround(7×0.30+3×0.25+7×0.20+3×0.15+4×0.10)=round(2.10+0.75+1.40+0.45+0.40)=round(5.10)=5に近いが、競合の強さと差別化の弱さ(分析・AI非対応)を加味し総合判定は4=skip。日本市場で勝つには越境EC特化やLINE/noteなど国産チャネル対応、ステマ規制対応UIなどの大幅な追加投資が前提となり、現状のAutoPostsの強み(低価格・素早い機能追加)だけでは差別化が不十分と判断。",
+    "japan_fit_at": "2026-05-23T19:30:00Z"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z"
+}

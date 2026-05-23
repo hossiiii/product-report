@@ -1,0 +1,185 @@
+{
+  "name": "Runtime",
+  "description": "Sandboxed coding agents for everyone on your team",
+  "ph_url": "https://www.producthunt.com/products/runtime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/TOZOGOJYMEHTNQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-20T07:01:00Z",
+  "upvotes": 281,
+  "comments": 79,
+  "topics": [
+    "Slack",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey PH! Gus, co-founder of Runtime (runtm.com, YC P26).\n\nEvery company we talk to hits the same wall with coding agents: AI slop in PRs, the one \"agent expert\" whose setup nobody can reuse, compliance blocking Claude Code, and teams building their own internal orchestrator just to make it work.\n\nRuntime is the layer that fixes this. Anyone on your team can package a specialized coding agent, install CLIs, write the skills, connect the tools, add guardrails, and the whole company uses it from where they already work (Slack, Linear, GitHub, the browser).\n\nHere are some of the agents our customers have built:\n- On-call inspector (PagerDuty + Sentry + repo): alert fires, agent finds the cause, posts a PR with a unit test before anyone gets paged\n- GTM engineer (Salesforce + Gong + notes): growth ships landing pages or automates campaigns from Slack\n- Finance agent in a private channel (Stripe + NetSuite + Snowflake): runs reconciliations in minutes with source rows attached\n- Support triager in Zendesk: pulls the customer profile and drafts a reply with the SQL behind every claim.\n\nEach runs in its own sandbox with full audit logs, hard spend caps, multi-agent support (Claude Code, Codex, Cursor CLI, Gemini), BYO keys or OAuth, and optional self-hosting in your VPC. \n\nA fintech unicorn and several YC scaleups are already using us to let PMs, marketing, and support ship real product changes or automate workflows in hours.\n\nFor PH: We are giving out 500 credits for everyone to use. \nTry it now: app.runtm.com \n\nIf you had Runtime today, what agent would your team build first?\n\nGus, Carlos, Manu and the Runtime team",
+      "votesCount": 31,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>As a small bootstrapped company building a product that has many dependencies and environments, we found that over time, each engineer became very siloed on the part of the stack that they could work on because setting up the right dev environment on another computer took forever. </p><p></p><p>Runtime solves this issue for us and now every engineer can contribute pretty effortlessly at any part of the stack at a moments notice. Pretty game changing stuff going on here.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Grats! Awesome to have full fledged app development in the sbx</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Turn coding agents into teammates anyone can use from Slack, Linear, CLI, API or your browser. Ship features, query data, build dashboards, automate workflows. All within your company's context, skills, integrations, and security guardrails.",
+  "featured_at": "2026-05-20T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/67ea30b8-1bf6-44ba-99db-09c8498841d9.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e72c2188-518f-462c-b244-bd6584fc2f44.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f23d8cf1-71e9-4097-8972-f090d20c351c.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2fad4f60-e140-4207-b21d-b0ffb4b9468e.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fbe4c48a-a83d-483d-bb3f-3cc3b30a5d06.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9aa1e94f-9517-4a13-adfe-e67fbbe2feef.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b6d1a868-b241-42d9-9f7e-95b71eb005bc.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/85e96662-094c-45c0-851a-1c627cef55ff.gif"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/32e50410-6e3f-4f19-8010-5e9c4635dbbb.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:43",
+  "landing_meta": "Runtime - The runtime for all your team's agents — The runtime for all your team's agents. Sandboxed coding agents with your company's context, integrations, and guardrails — triggered from Slack, Linear, CLI, or the browser.",
+  "landing_text": "Runtime - The runtime for all your team's agents Runtime (P26) is part of Y Combinator Learn more on our latest blog Learn more The runtime for all your team's agents. Sandboxed coding agents with your company's context, integrations, and guardrails. Start Building Free Talk to the team #alerts-eng · 47 members Channel Alerts cdn_origin_503_spike Runtime resolved Works with your favorite coding agents Claude Code Cursor Codex Copilot Gemini CLI Devin OpenCode Environments with every tool your team uses. Connect all of your company's environments, from monorepos to microservices. Install any CLI, API, service, or MCP server, layer in custom instructions and skills, then set guardrails and secrets. Snapshot once so every session boots in seconds. Install from mise , npm , brew , or github Datadog Salesforce Stripe NetSuite + anything else Environment Setup Building Setting up sandbox Agent-assisted build for claude-code Specialized agents your team can tag wherever they work. Build an alert inspector for #incidents, a sales prospector for #revenue, or a support triager for your inbox. Each one runs investigations, ships PRs, drafts replies, and posts findings without anyone asking. Tag them from Slack, Linear, GitHub, or anywhere your team already works. Slack Linear GitHub Jira + many more #engineering Agent runs in the background and auto-pauses on completion. Mission Control Fix login timeout #engineering Update API docs ENG-89 Add rate limiting runtm.com agent-1 writing lib/auth.ts... Let anyone on your team work alongside agents. Anyone can prompt an agent and watch it work, from engineering to support to sales. Hand off mid-session, collaborate in real time, and ship the result however your team needs: a PR, a deploy, a message, a ticket, or a report. github-org/monorepo SC JM AL 3 online SC Update the hero copy to focus on enterprise features JM Add a testimonial section below the fold too I'll update the hero and add a testimonials section. Working on it now..",
+  "pricing_signals": [
+    "open source",
+    "pricing",
+    "$2",
+    "$0.12",
+    "$0.08",
+    "$0.21",
+    "$0.04",
+    "$14"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:44",
+  "description_ja": "サンドボックス型コーディングエージェントをチーム全員が安全に使える基盤",
+  "summary_ja": "Slack/Linear/GitHubから呼び出せるサンドボックス型コーディングエージェント基盤。Claude CodeやCursor等を社内コンテキスト・統合・ガードレール付きで非エンジニアも含め全社利用可能にする。",
+  "review_guide_ja": {
+    "what": "Runtimeは、Claude Code・Cursor CLI・Codex・Gemini等の各種コーディングエージェントを、企業のコンテキスト・ツール・ガードレールを纏めたサンドボックス環境上で実行する「エージェント実行基盤」である。エンジニアだけでなくPM・営業・サポート等の非エンジニアもSlack/Linear/GitHub/ブラウザ等から特定用途のエージェント（オンコール調査、GTM、財務集計、サポート一次対応など）をタグ付けで呼び出せる。各セッションは隔離サンドボックスで動作し、監査ログ、支出上限、BYOキー/OAuth、VPCセルフホスト対応など企業要件を満たす。スナップショットで環境構築の手間を削減し、本番への書き込みはレビュー済みアクションかPR経由のみに限定する設計。",
+    "for_who": "AIコーディングエージェントを全社展開したいが、機密データ・本番環境への影響・コンプライアンスが懸念で進められない100〜数千人規模の開発組織。プラットフォームエンジニアリングチームや、エンジニア以外にも開発作業を委譲したい中堅以上のSaaS・金融・フィンテック企業。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "マルチエージェント基盤・サンドボックス分離・各種SaaS/MCP統合・監査基盤・VPC配布を一体で提供する必要があり、技術スコープが広く参入障壁が高い。"
+    },
+    "signals": [
+      "PHで281upvote/79コメントの強い反応",
+      "YC P26採択かつフィンテックユニコーン顧客の言及",
+      "Claude Code/Cursor等主要エージェントを横断対応するエコシステム的ポジション",
+      "Slack/Linear/GitHubと既存業務フロー統合済み"
+    ],
+    "concerns": [
+      "Devin/Cognitionが日本法人を設立済みで企業向け市場の競争激化",
+      "オープンソース版（runtm-ai/runtm）の存在でセルフホスト勢に流れる懸念",
+      "コーディングエージェント自体の進化が早くプラットフォーム価値が陳腐化するリスク",
+      "非エンジニアにコード変更権限を渡す文化的・統制的ハードル"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内AIコーディング市場は40億ドル規模で寡占化進行中。NECがAnthropicと提携し3万人にClaude Code展開、DeNA・みずほ・SHIFTがDevin採用済みで「エージェントを全社で安全に使う基盤」需要は確実に存在。ただし需要の大半は既に大手プラットフォーマーへ流れる構造。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Cognition AI（Devin）が日本法人設立、SHIFTがマスターパートナーとして既に大手導入を取りに行っている。GitHub Copilot/Cursor/Claude Code直販も強力。国内ではNECなどSIerもエージェント基盤を内製化する流れで、後発参入は厳しい競争環境。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "個人情報保護法と業界別ガイドライン（AI事業者ガイドライン）の順守、ソースコード/顧客データのクラウド処理に関する企業内規定が主な論点。SOC2/ISO27001取得とVPCセルフホストがあれば概ね対応可能で、規制自体は重くないが企業の社内承認ハードルは高い。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI/ドキュメント日本語化、日本語コメント/コミットメッセージ対応、国内SaaS（Backlog、kintone、freee、Sansan等）統合が必要。Slack/Linear/GitHubは国内開発組織でも使われるが、JIRA/Backlog比率も高くツール統合の再設計が要る。検索で公式日本語対応の根拠未確認。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "国内エンタープライズは稟議・PoC・SIer経由販売が一般的で、SHIFTのようなパートナー経由が事実上の必須ルート。BYOキーや支出上限など個社カスタムへの柔軟性は商習慣と整合するが、直販SaaSモデルでは国内大手攻略は難しい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Cognition AI / Devin（日本法人）",
+        "url": "https://cognition.ai/",
+        "note": "日本法人設立済み。DeNA・みずほセキュリティーズが導入、SHIFTがマスターパートナー。自律型AIエンジニア+エンタープライズ環境（VPC/専用SaaS）を提供しRuntimeと直接競合。"
+      },
+      {
+        "name": "SHIFT（Devinマスターパートナー）",
+        "url": "https://www.shiftinc.jp/",
+        "note": "国内SIer大手としてDevinの導入支援・セキュア環境構築をパッケージ化。日本企業向けに導入伴走を含むため、Runtimeのような海外プラットフォーム単独販売より優位。"
+      },
+      {
+        "name": "NEC（AIネイティブエンジニア体制）",
+        "url": "https://jpn.nec.com/",
+        "note": "Anthropicと戦略提携しClaude Codeを3万人規模で展開、国内最大級のAIネイティブ開発基盤を内製。エンタープライズ向け基盤の社内化トレンドの代表格。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "サンドボックス内で顧客データ・本番DBサンプリングを扱う際、個人情報の越境移転と委託先管理が論点。RuntimeのVPCセルフホストかリージョン分離（東京リージョン）対応が事実上の必須条件。PII redaction機能の日本語対応も要検証。"
+      },
+      {
+        "law": "AI事業者ガイドライン（経産省・総務省）",
+        "impact": "AIライフサイクル全体のガバナンス・透明性・人間関与が求められる。Runtimeの監査ログ・支出上限・レビュー必須PRフローは概ね適合するが、AI出力品質保証や責任分界の明示が国内エンプラ向けに追加で必要。"
+      },
+      {
+        "law": "不正競争防止法（営業秘密）",
+        "impact": "ソースコードは営業秘密として保護対象で、外部SaaSへの送信に関する社内規程が厳格な企業が多い。BYOキー・自社VPC実行・無断学習禁止のSLAが受注の前提となるケースが大半。"
+      }
+    ],
+    "opportunity": "Devinが大手企業を上から攻める間、Runtimeは「非エンジニアにも安全に開放する」差別化で中堅SaaS・スタートアップ層を取りに行ける余地がある。特にSlack文化が浸透した国内テックスタートアップ・フィンテック・SaaSベンチャー向けに、PMやサポートがエージェントを呼び出して業務自動化する用途は刺さる。日本進出する場合は、SHIFT以外の国内SIer（クラスメソッド、サーバーワークス等）とのパートナー構築、Backlog/kintone/Sansan等の国内SaaS統合追加、東京リージョンVPC配布、日本語UI・日本語スキル例の整備が現実的な打ち手。",
+    "rationale": "需要は明確（市場40億ドル、エンタープライズ導入加速）だが、Devin+SHIFT連合とNEC内製化が大企業層を先取りし、競争評価は低め。Runtime自身の差別化（マルチエージェント横断、非エンジニアへの開放、サンドボックス分離）は技術的に強いが、国内エンプラ販売はSIer/パートナー経由が前提で直販SaaSのままでは突破力に欠ける。規制は重くないがソースコード/個人情報の取り扱いで社内承認ハードルが高く、VPC配布・東京リージョン対応が事実上必須。総合スコアは round(7×0.30 + 4×0.25 + 6×0.20 + 5×0.15 + 5×0.10) = round(2.1+1.0+1.2+0.75+0.5) = round(5.55) = 6 で watch 判定。国内ベンチャー向け差別化と国内SIerパートナリングが揃えば build に格上げ可能。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z"
+}

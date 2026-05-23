@@ -1,0 +1,180 @@
+{
+  "name": "Chert",
+  "description": "Build AI agents that text customers in iMessage",
+  "ph_url": "https://www.producthunt.com/products/chert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/5QIYZNUVRIKFZD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-19T07:01:00Z",
+  "upvotes": 181,
+  "comments": 80,
+  "topics": [
+    "Messaging",
+    "API",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi everyone, I'm Gary, co-founder of Chert!<br><br>We've spent the last six months building projects on iMessage for leasing companies, DTC startups, and home service agencies. Across these use cases, we kept seeing the same problem. Founders wanted to deploy conversational iMessage agents for customer service, lead capture, and outbound follow-up, but the underlying infrastructure was difficult to set up and hard to scale reliably. </p><p><br>This is what inspired us to build Chert, a platform for teams to create and deploy iMessage agents, powered by infrastructure that can send, receive, and automate conversations over iMessage at scale. There's a few main features that we believe will make Chert stable, reliable, and scalable: <br><br>- Chert provides comprehensive line health checks, making it safer and more robust for outbound use cases.<br>- Additionally, Chert offers a scalable pricing structure that lets teams scale to hundreds of lines and thousands of messages. <br>- Finally, Chert integrates with CRMs like Salesforce, HubSpot, and Close and tools like Vapi and Slack, so teams can easily add iMessage into their existing stacks at scale. <br><br>Feel free to try building and deploying your own iMessage agent through the Agents page in our website. No credit card required. <br><br>Would love any feedback or thoughts!</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats! This is cool. Are your customers typically coming from other iMessage tools and switching, or are they mostly introducing iMessage as a brand-new channel?</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Do people usually use Chert to replace sms or have you seen circumstances where people use </p><p>both sms/rcs and blue-bubble messaging?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Build and deploy conversational iMessage agents for customer service, inbound lead capture, and more. Simply configure the system prompt and tone, and you can create your own conversational iMessage agent for inbound handling, outbound follow-up, or whatever workflow you want to test. You can also integrate with CRMs like HubSpot, Close, or GoHighLevel to write back conversation histories.",
+  "featured_at": "2026-05-19T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/e66b9f3a-dc19-436b-b3b4-7c446053582e.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/838c0654-5b90-4e18-8bd4-65cce2694949.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0567dc4b-4d06-4574-9417-e4571265acdf.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/72320d37-a196-4e6d-94e6-1da766563990.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6e41fa9e-34d6-44c5-9c8a-1c92b2d32234.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/89f7db5a-7912-4679-bb0b-dbafd929e99f.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/1792769f-fcba-40d0-a03f-101887bf42a0.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:06:03",
+  "landing_meta": "Chert | iMessage Infrastructure for Reaching People at Scale — Build and deploy AI on iMessage to reach people at scale while maintaining quality, trust, and personalized interaction. YC-backed.",
+  "landing_text": "Chert | iMessage Infrastructure for Reaching People at Scale Skip to content Chert Home Blog Contact Book a Call Chert Backed by iMessage infrastructure for reaching people at scale. Build and deploy AI on iMessage to reach people at scale while maintaining quality , trust , and personalized interaction . Book a Call → ‹ Chert iMessage Hey! Is the 2BR on Pine still open? Looking for a Sept 1 move-in. Yes, still available. Want to come tour it? Definitely. Saturday morning works for me. Got you on the calendar. Sat 10am — sound good? AUG 24 Pine Street · Tour Sat 10:00 AM · Confirmed Delivered + iMessage Trusted by growing teams PLATFORM One API. Many features. Everything you expect from iMessage. Built for product teams, exposed through a single API surface. 9:41 ‹ Chert iMessage Saw the launch, congrats! Thanks! What's up? We help GTM teams book meetings via iMessage. 10x reply rate vs cold email. Interesting. Free Tuesday 3pm PT? Sending an invite over. + iMessage ↑ Blue bubble messaging Real iMessage threads. Verified senders. End-to-end encryption. 👍 👎 ‼️ ❓ Ha 9:41 First question to your team. On it — pulling the numbers now. Should have a draft by EOD. Perfect. Free for 15 min next week? Typing & tapbacks Live indicators and reactions, captured natively. 9:41 + Derrick kicking off the launch thread Gary who has the deck? just dropped it 🙌 Group chats Multi-recipient threads with named senders. 9:41 Heads up, moved you to Tuesday Reply Y to confirm Sent as SMS SMS / RCS fallback Auto-rerouted when the recipient is off-platform. 9:41 Latest menu, ready to ship? menu_v3.pdf · 2.4 MB Sending attachments Photos, PDFs, links. Native to the thread. iMessage delivered 9:41 AM SMS fallback queued · Live delivery state Sub-second deliverability telemetry per message. EXPLORE THE API + many more Verified phone numbers Message receipts Webhooks Compliance audits 0 % average response rate on cold outbound 0 % response rate on warm outbound < 0 min setup via our API and Webh",
+  "pricing_signals": [
+    "$1",
+    "$2",
+    "$13",
+    "$15",
+    "$31"
+  ],
+  "landing_fetched_at": "2026-05-23T19:06:04",
+  "description_ja": "iMessage上で顧客と会話するAIエージェントを構築・運用できるAPI基盤",
+  "summary_ja": "Chertは、iMessageをチャネルとしたAIエージェントを企業が大規模に構築・運用するためのインフラ。CRMと連携し、カスタマーサポート、リード獲得、アウトバウンドフォローアップを青吹き出しメッセージで自動化する。",
+  "review_guide_ja": {
+    "what": "iMessage（Appleの青吹き出しメッセージ）上で動作するAIエージェントを構築・スケールさせるためのプラットフォーム。システムプロンプトとトーンを設定するだけで、インバウンド対応・アウトバウンドフォロー・予約獲得などの会話エージェントを作成できる。回線ヘルスチェック、検証済み電話番号、SMS/RCSフォールバック、グループチャット、添付ファイル、タイピングインジケータ、サブ秒の配信テレメトリといったiMessageネイティブ機能をAPIで提供する。Salesforce/HubSpot/Close/GoHighLevel等のCRM、Vapi、Slackと統合可能。リーシング会社、DTCスタートアップ、訪問サービス業者などが顧客対応とリードナーチャリングに利用。",
+    "for_who": "米国市場でiMessageを主要チャネルとして用いるDTCブランド、不動産リーシング、ホームサービス、GTMチームなど。コールドメール代替で高返信率のアウトバウンド/カスタマーサポートを自動化したいスタートアップから中堅企業が想定読者層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "iMessageはApple独自プロトコルで、公式の大量送信APIは存在しない。回線（Apple ID/番号）プール運用、ヘルスチェック、BAN回避ノウハウ、コンプライアンスが参入障壁。"
+    },
+    "signals": [
+      "YC支援を公表し、ローンチ初日に181 upvotes/80 commentsと反応良好",
+      "iMessageの返信率がコールドメールの10倍という訴求で具体的GTMが描けている",
+      "CRM/Vapi/Slackなど既存スタック統合を初日から実装済み",
+      "$1〜$31の段階的価格でセルフサーブを意識した設計",
+      "リーシング・DTC・ホームサービスでの実装実績6ヶ月"
+    ],
+    "concerns": [
+      "Appleの正規API（Apple Messages for Business）でなくグレーな回線運用の可能性、利用規約違反でBANリスク",
+      "iMessageは米国偏重で日本市場では非主流（LINE優勢）",
+      "アウトバウンドのスパム規制（米TCPA、日本特定電子メール法等）に抵触しやすい",
+      "Appleがポリシー強化すれば事業継続性に直接影響",
+      "verified sendersや配信保証は明確な定義が不透明"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 3,
+    "verdict": "no_fit",
+    "axes": {
+      "demand": {
+        "score": 3,
+        "reason": "日本ではLINEが圧倒的に普及し、iMessageを日常利用するユーザーは極めて少ない。Android比率も約半分（MMD調査でAndroid 51.4%）でiMessage到達率が原理的に低く、法人マーケ需要も限定的。"
+      },
+      "competition": {
+        "score": 7,
+        "reason": "iMessage特化の国内競合はほぼ皆無。ただし代替チャネルとして KDDI Message Cast、空電プッシュ、メディアSMS等のSMS/+メッセージ/RCS基盤が成熟しており、企業の選好は明確にそちらへ向く。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "特定電子メール法のオプトイン規制がSMS含むメッセージ送信全般に適用、違反は最大3,000万円の罰金。Apple Messages for Business以外のiMessage大量配信は規約違反の懸念があり、グレー運用は法務的に推奨しづらい。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI日本語化は容易だが、iMessageに最適化されたUXやスタンプ/ステッカー、絵文字文化との整合は別途調整が必要。日本企業のCRM（kintone、Salesforce JP等）連携の追加開発も発生。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本のB2C顧客接点はLINE公式アカウントが事実上の標準で、iMessageでの企業メッセージ受信習慣がない。アウトバウンド営業のSMS利用も限定的で、青吹き出し前提のGTMが商習慣に合致しない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "KDDI Message Cast",
+        "url": "https://biz.kddi.com/service/message-cast/",
+        "note": "KDDI×Supership運営の法人向けSMS/＋メッセージ配信。長文660文字、リッチコンテンツ、RCS公式アカウント対応。国内の主要選択肢。"
+      },
+      {
+        "name": "空電プッシュ（NTTコム オンライン）",
+        "url": "https://www.ntt.com/business/services/sms_broadcasting.html",
+        "note": "NTT系の法人向けSMS一斉送信。国内4キャリア直接接続、到達率99%、1時間193万通の送信能力。自治体・大企業導入実績多数。"
+      },
+      {
+        "name": "メディアSMS",
+        "url": "https://media-sms.net/",
+        "note": "7,000社以上導入、国内4キャリア直接接続で到達率99.9%を訴求するSMS配信サービス。"
+      },
+      {
+        "name": "ファブリカホールディングス（AMB×SMS連携）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000106.000022939.html",
+        "note": "Apple Messages for BusinessからRCS／SMSへシームレス連携する国内プレイヤー。AMB正規ルートに準拠した数少ない国内事業者。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定電子メール法",
+        "impact": "営利目的の宣伝・販促メッセージはSMS含めオプトイン取得と受信拒否導線の設置が必須。違反時の罰金は最大3,000万円。Chertのアウトバウンド用途は同法の射程に入り、同意管理機能の実装と国内法務レビューが不可欠。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "メッセージ配信を業として提供する場合、届出電気通信事業者該当性の検討が必要。番号運用や通信の秘密保護の観点で、Apple非正規ルートでの大量配信は法的整合性が問われる可能性。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "電話番号・会話履歴・CRM連携での取得情報は個人データに該当。海外（米国Chert）への第三者提供・委託にあたるため、本人同意・委託先監督・越境移転規制（27条/28条）対応が必要。"
+      },
+      {
+        "law": "景品表示法・特定商取引法",
+        "impact": "アウトバウンドでの販促・通信販売勧誘は表示規制（特商法11条等の表示義務、優良/有利誤認禁止）の対象。AI生成メッセージの内容監督責任が事業者に発生する。"
+      }
+    ],
+    "opportunity": "正攻法はChertの直輸入ではなく、Apple Messages for Business（AMB）に準拠した国内向けカスタマーメッセージング基盤を、LINE公式アカウント・+メッセージ/RCS・SMSと束ねたオムニチャネル化として提供する角度。特に訪日インバウンド客（iPhone/iMessageユーザー比率高い欧米観光客）向けの旅館・小売・カスタマーサポート用途、または海外顧客を持つ越境ECや国内Apple系プレミアムブランドが薄い切り口。日本国内のB2C一般向けにiMessage単独で攻めるのは需要なし。AMB認定パートナー枠を取り、LINE/RCS/SMSフォールバック付き「Apple端末顧客向け1stチャネル」として位置付けるのが現実的。",
+    "rationale": "Chertは米国DTC・サービス業向けにiMessageを高返信率チャネル化する強い課題仮説と、回線運用・CRM統合という参入障壁を備えた良筋プロダクトで、米国市場では「watch〜build」級の評価に値する。しかし日本では(1) iMessageは日常メッセージング市場のごく一部、LINEが事実上の標準、(2) Androidシェアが約半数で構造的に到達できない層が大きい、(3) Apple Messages for Business以外の経路は規約・特定電子メール法・電気通信事業法のリスクを孕む、(4) すでにKDDI/NTT/メディアSMS等の国内SMS/+メッセージ/RCS基盤が成熟、の4点で日本市場との適合性は低い。verdict は no_fit。日本で類似価値を出すなら、AMB準拠の正規ルートで訪日インバウンドや越境ECなど『iPhoneユーザー比率が高い顧客セグメント』に絞り、LINE/SMSのオムニチャネル基盤と組み合わせる戦略以外は推奨しない。",
+    "japan_fit_at": "2026-05-23T19:30:00Z"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z"
+}

@@ -1,0 +1,166 @@
+{
+  "name": "WarmIntro",
+  "description": "Free tool to find your warmest path into any company",
+  "ph_url": "https://www.producthunt.com/products/warmintro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/FULDAZNQA5BTCF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-21T07:01:00Z",
+  "upvotes": 218,
+  "comments": 23,
+  "topics": [
+    "Sales",
+    "Marketing",
+    "Tech"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey PH! 👋\n\nCold outreach in 2026 doesn't work like it used to. Everyone knows it. The fix is warm intros but finding the right person to reach out to at a target company is harder than it sounds.\n\nYou don't just want someone who works there. You want the person who has the most in common with you. Went to the same university. Worked at the same company at the same time. In the same department. Lives in the same city. Has done a similar role.\n\nThat's what WarmIntro finds.\n\nDrop your LinkedIn URL and a target company and we instantly rank every employee by how warm your connection to them actually is, based on real shared signals:\n\n🎓 Shared university: went to the same school as you\n🏢 Shared past company: worked at the same place as you\n⏱️ Overlapping tenure: they were actually there at the same time\n🧑‍💼 Same department: worked in the same function, not just the same company\n📍 Same city: based in the same location as you\n💼 Similar title: worked in the same kind of role\n\nThe result is a ranked list of the people at that company you have the most in common with, so when you reach out you are using the warmest possible connection.\n\nA few ways people are using it:\n\n🚀 Sales teams stop cold prospecting into target accounts. Find the employee with the warmest connection to you and get a foot in the door through a genuine shared background.\n\n🤝 Recruiters identify the best connected person at a target company to reach out to for intel, referrals, or passive candidate sourcing.\n\n🤝 BD and partnerships finding the right person at a potential partner company is half the battle. Find who you're most connected to before the first conversation and skip the cold intro entirely.\n\n🚀 Founders raising don't cold email investors. Find the warmest path into any VC firm or angel's network through someone who already knows you exist.\n\n💳 Customer success trying to expand into a new department at an existing account? Find the person in that team you have the most in common with before you make the ask.\n\n💼 Job seekers before applying anywhere, find the person at that company most likely to respond to you and get a referral before you even submit your application.\n\n💰 Investors find the warmest path into any portfolio company or target startup before sending a cold email.\n\n🔗 Anyone who hates cold outreach if you have a target company and a LinkedIn profile, you have a warm intro waiting. You just didn't know it yet.\n\nTry it for free at: <a href=\"https://tools.crustdata.com/warmintro\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://tools.crustdata.com/warm...</a>",
+      "votesCount": 22,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Feature requests: verified emails, sample copies for outreach with desired intent and ability to run campaigns inside the platform. </p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is cool, can be useful for prospecting or seeking jobs. </p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Cold outreach doesn't work. WarmIntro finds the employees at any target company who share the most with your background - shared university, past employers, city, and title so every intro starts from a place of genuine connection.",
+  "featured_at": "2026-05-21T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/93184e3e-357d-48ec-9aff-e25c22e953c3.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fa84787e-93cb-47d8-ae35-d8898cff11f1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a5f0805f-aba2-4f54-9b8a-13f92661199c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b8f89c04-cb33-40dc-8a60-355ba90eff6f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1ed8f84c-8a54-4b2d-bbbe-463d3d9dfeec.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:46",
+  "landing_meta": "WarmIntro | Find your warmest path into any company — Paste your LinkedIn + a target company. We surface the employee who shares the most with your career — your warmest intro path.",
+  "landing_text": "WarmIntro | Find your warmest path into any company Your warmest path into any company. We'll find the employee most likely to respond to you. Find my warm intro Feedback",
+  "pricing_signals": [
+    "$1",
+    "$8"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:47",
+  "description_ja": "LinkedInと対象企業を入力するだけで最も共通点の多い社員を提示し温かい紹介経路を発見",
+  "summary_ja": "自分のLinkedInと狙う企業を渡すと、出身校・過去の勤務先・在籍期間・部署・居住地・役職の共通項で対象企業の社員をランキングし、最も返信が見込める『ウォームイントロ』候補を提示する無料ツール。",
+  "review_guide_ja": {
+    "what": "WarmIntroは自分のLinkedInプロフィールURLと『攻めたい企業名』を入力するだけで、その企業に在籍している社員を出身大学・過去の勤務先・在籍期間の重なり・所属部署・居住都市・類似役職といった『共通点シグナル』でスコア化し、最も自分と縁が深い順に並べてくれるWebツールである。Crustdataが提供するLinkedInグラフ的データを背景に、コールドメールではなく『あなたと共通点のある人にだけ最短ルートで届く』ことを売りにする。営業のターゲットアカウント開拓、リクルーターのリファラル人脈探し、BD/パートナーシップ担当の窓口特定、起業家のVC紹介ルート探索、求職者の社員リファラル獲得など、ユースケースは横断的に幅広い。無料で試せる軽量ツールとしてProduct Huntに登場し、ピックアップされた付随機能要望（メール検証、テンプレ、キャンペーン送信）は今後の有料化方向性を示唆する。",
+    "for_who": "海外（特に北米中心）の見込み客やパートナー、投資家、採用候補にLinkedIn経由でアプローチしたいBDR/SDR、スタートアップ創業者、リクルーター、人事、求職者、ベンチャーキャピタリストなど。日本国内では海外向け事業開発担当やグローバル採用担当、外資系日本法人の営業がメインユーザー像となる。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "LinkedInプロフィール解析と社員一覧の取得・共通点マッチングはCrustdata級のLinkedInデータセット保有が前提。自前で再現するにはデータ取得手段とToS/個情法対応が壁となる。"
+    },
+    "signals": [
+      "Product Hunt登場直後で218 upvotes/23コメントと反応良好",
+      "コールド営業疲れ・返信率低下という普遍的痛点に直結",
+      "営業/採用/資金調達/求職と複数ペルソナで使い回せる横展開性",
+      "$1/$8の低価格シグナルでフリーミアム→低単価有料化の余地",
+      "Crustdataの既存LinkedInデータ資産を活かす自然な派生プロダクト"
+    ],
+    "concerns": [
+      "日本ではLinkedIn利用者が400〜500万人規模で母集団が薄い",
+      "LinkedIn利用規約・スクレイピング規制と個人情報保護法のリスク",
+      "国内では名刺/SansanベースのネットワークやEightの方が実態に近い",
+      "『共通点が多い社員』が必ず紹介に応じてくれる保証はなく成果が間接的",
+      "verified email等の補助機能なしでは初動の手動工数が残る"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "日本のLinkedIn利用者数は400〜500万人・普及率4%前後でビジネスSNSの基盤的役割を担っていない。海外向け事業開発・グローバル採用・外資系営業など特定ニッチでは需要があるが、国内BtoB営業の主戦場は名刺/メール/電話/Sansanであり、LinkedIn前提のウォームイントロ探索の需要は限定的。"
+      },
+      "competition": {
+        "score": 6,
+        "reason": "LinkedIn前提の『共通点による紹介経路探索』に完全一致する国内SaaSは未確認。一方でSansan（名刺シェア83%）やEight、ホットプロファイル、SKYPCEなど名刺ベースの人脈活用ツールが法人ネットワーク資産を押さえており、価値提案が近接する競合は厚い。直接競合は薄いが代替手段が強い構図。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "ユーザーのLinkedIn URLを基に第三者である対象社員の経歴・所在地等を整理して提示するため、個人情報保護法上の取得・利用目的通知や第三者提供記録の論点が発生し得る。さらにLinkedIn利用規約はスクレイピング/自動収集を禁止しており、データ供給側のリスクが日本でも同様に伴う。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UI日本語化は容易だが、日本のLinkedInプロフィールは英語混在・職歴入力粒度が粗いユーザーが多く、共通点シグナル（部署・役職・在籍期間）の精度が落ちやすい。学歴・前職重複も米国型キャリアパス前提のロジックが効きにくい。表記揺れ吸収や日本企業名・大学名の正規化辞書整備が必須。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本でも『リファラル/紹介営業』は強力だが、紹介依頼は通常はオフラインの直接知人経由か社内人脈で行われ、未接続の他人に共通点ベースで連絡する文化は薄い。突然のLinkedIn DMは無視されやすく、結局は対面・電話・正式な紹介状ベースの商慣行と齟齬がある。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Sansan",
+        "url": "https://jp.sansan.com/",
+        "note": "法人向け名刺管理シェア83%の業界標準。社内全員の名刺データから接点ある社員を横断検索でき、『社内の誰が対象企業と接点を持つか』という日本版ウォームイントロ探索の事実上の代替。"
+      },
+      {
+        "name": "Eight / Eight Team",
+        "url": "https://8card.net/",
+        "note": "Sansan提供の個人/中小向け名刺アプリ。400万人超ユーザーで、共通の知人や過去交換相手から紹介ルートを辿れる。LinkedInが薄い日本では実態としてEightの方が人脈グラフとして機能する局面が多い。"
+      },
+      {
+        "name": "ホットプロファイル",
+        "url": "https://www.hammock.jp/hpr/",
+        "note": "名刺管理＋SFA/MA一体型。名刺データから取引先企業へのアプローチ経路や社内人脈の見える化を提供し、ウォームな接点起点の営業を支援する点でWarmIntroと機能的に競合する。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "対象企業社員の氏名・経歴・所在地等を整理して第三者である利用者に提示するため、取得経路の合法性、利用目的の特定・通知/公表、第三者提供時の本人同意または例外該当性、確認・記録義務（原則3年保存）が論点。公開情報でも『個人データ』化した時点で法の規律対象となり得る。"
+      },
+      {
+        "law": "不正競争防止法",
+        "impact": "LinkedIn利用規約は自動取得を禁じており、データ供給元が規約違反でデータを得ていた場合、限定提供データの不正取得・使用に該当する余地。日本展開時はデータソースの適法性とライセンス整理が必須。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "WarmIntroで特定した相手にメール送信機能（要望にも上がっている）を将来実装する場合、オプトイン原則、送信者表示義務、配信停止導線などの順守が必要。コールド営業メールの一斉送信機能を持たせる場合は要件設計に注意。"
+      }
+    ],
+    "opportunity": "日本市場では『WarmIntroをそのまま輸入』するより、(1)海外向け事業開発/外資系日本法人/グローバル採用に絞った特化版、(2)LinkedInではなく国内最大級の人脈グラフであるSansan/Eightの名刺データ＋公開プロフィールを起点に『社内誰が対象企業の誰と過去に接点があったか＋共通点（出身校・前職・地域）』を可視化するハイブリッド版、の2方向が現実解。特に(2)はSansan既存ユーザーへのアドオンとしてプロダクト化すれば、日本独自の名刺商慣行とリファラル偏重文化に適合し、コールド営業疲れの解決策として刺さる余地がある。",
+    "rationale": "WarmIntroの提供価値（共通点ベースで温かい紹介ルートを発見）はグローバルに普遍的だが、日本では前提インフラのLinkedIn普及率が低く（4%前後）、ビジネス人脈グラフは名刺/Sansan/Eightに偏っている。さらに紹介文化は強いものの『未接続の他人に共通点で接触する』スタイルは商慣行と乖離し、突然のDMが効きにくい。法的にも個人情報保護法上の第三者提供・利用目的通知、LinkedIn ToSと不正競争防止法、将来のメール送信機能における特定電子メール法など複層的なリスクが残る。直接競合は薄いものの代替（Sansan/Eight/ホットプロファイル）が強固で、現状のまま日本に持ち込むROIは低い。verdict=skipとし、海外向け業務特化または名刺データ連携の日本版コンセプトとして再設計する場合のみwatch候補とする。",
+    "japan_fit_at": "2026-05-23T19:25:00Z"
+  },
+  "japan_fit_at": "2026-05-23T19:25:00Z",
+  "review_guide_at": "2026-05-23T19:25:00Z"
+}

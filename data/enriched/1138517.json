@@ -1,0 +1,195 @@
+{
+  "name": "Prosed",
+  "description": "Go from newsletters & podcasts to published manuscript",
+  "ph_url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/EYUAX2RLAQKR4Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-22T07:01:00Z",
+  "upvotes": 141,
+  "comments": 25,
+  "topics": [
+    "Artificial Intelligence",
+    "Books",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋\n\nI almost wrote a book back in 2016. LinkedIn guide for Italians, outline ready, momentum going. Life happened. The idea sat and it's still in my G Drive! \n\nBut I kept writing, newsletters, LinkedIn posts, podcast appearances, blog posts. Years of it. A couple of months ago, I realized: I already had a book in there. Scattered across a decade of content, but all there. My voice, my ideas, my perspective.\n\nPulling it together felt impossible. Not because I can't write — because the assembly feels impossible. Which pieces go where, how do they flow, how do you preserve what made people care in the first place?\n\nThat's an assembly block. And I know I'm not alone in it!\n\nSo I built Prosed. Here's what the Inkwell pipeline (a proprietary 10-pillar funnel built on the top best-selling books) does:\n🔍 Analyzes your voice from your existing content\n📖 Structures scattered writing into a real book outline\n✍️ Drafts chapter connections while preserving your tone\n📊 Scores every chapter (voice, cohesion, story, polish)\n🖨️ Cover design, print ordering, PDF/ePub/DOCX export\n\nYou own 100% of your manuscript. You stay in control. We just remove the painful parts.\n\nLaunching at $47 for the first 100 founders (standard will be $197). That price locks in forever (founder plan).\n\nI'd love to hear 👉 how many of you have years of content sitting around and a nagging feeling it could be a book? What's stopped you from doing it?\n\nHappy to answer any questions about the product, the tech, or the build journey 🙌",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Is it tailored to a specific genre like, for example, an autobiography? Or can I write sci-fi with it if I want?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Prosed is such a unique name. What was your inspiration for naming your product this?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "You've spent years creating—newsletters, podcasts, LinkedIn posts, courses. The book is in there. You just haven't had time to assemble it. Prosed's Inkwell pipeline analyzes your voice, structures your scattered content into chapters, and produces a manuscript that actually sounds like you. Not generic AI writing or slop. Your words, your ideas, assembled into something real. Built-in editorial review. Print-ready PDF/DOCX export. Beta: $47 for the first 100 founders.",
+  "featured_at": "2026-05-22T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/b2920ef3-6f1b-48c3-8549-ccb2dd86ef9c.svg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/32464592-119d-42b5-a2bf-df6c12cc1d4d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4ca34f38-102f-4f8c-99fe-a1b03bfc7d78.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/afca376d-2b67-4969-942a-416a646537ae.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a7e7f4e6-005e-40e0-b5d6-f3b1a2425422.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c16ba4ec-8e9d-44f3-a899-2784af26c70d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/37b58746-434e-477e-9fe9-56364b7cb03c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d03265ab-b275-45c1-bbe9-fd2082508e75.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/708be59f-1cd4-4dcb-aef5-6664529ac1f0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9bc0f768-2a0f-4afc-b358-dc07af0856b2.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/ac2628f8-ca3d-46e8-a8ac-2d05741f0b06.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:06:04",
+  "landing_meta": "Prosed — Turn your content into a publish-ready book. — Turn your content into a publish-ready book. Prosed assembles your newsletters, posts, and ideas into a real book. Your voice, your expertise.",
+  "landing_text": "Prosed — Turn your content into a publish-ready book. For creators & aspiring authors Turn your content into a publish-ready book. Your newsletters, podcasts, and posts already hold a book. Prosed assembles them into a publish-ready manuscript. Your ideas, your voice. Don't fill this out: Get early access → ✦ You're in! We'll be in touch soon. Limited to 100 creators at $47 beta pricing . — / 100 books created 80% of people want to write a book 3% ever finish writing one 0 new words you need to write How it works From content to manuscript in days You bring what you've already created. We restructure, connect, and shape it into a book. Your ideas, your voice, structured like a bestseller. 01 Share what you have Paste a link to your Substack, YouTube, LinkedIn, or podcast. Or drop in transcripts and notes. We pull and transcribe everything. 02 The Inkwell assembles your book Our pipeline, built on patterns from 150+ bestselling nonfiction books, restructures your content into a complete manuscript. 03 Shape it in your portal Read every chapter, leave comments, request rewrites. You direct. We revise. 04 Turn on Typo for editorial review Your built-in reviewer checks voice, flow, and cohesion. Every note links to the exact passage. 05 Export and publish Download a print-ready PDF, ePub, or DOCX. Sell it on Amazon or to your audience directly. Why Prosed A publishing process, not just a tool. You could paste your content into ChatGPT or Claude and ask for a book. You'd get a draft. But a draft isn't a book. Prosed gives you a publishing-grade editorial pipeline, a dedicated reviewer, and a portal where you shape every chapter. Meet Typo Your AI editorial reviewer. Checks grammar, voice consistency, story flow, chapter cohesion, and brand alignment. Every note links to the exact passage. 📖 Your Private Portal Read every chapter in a clean, distraction-free reader. Leave comments, accept or reject suggestions, and request revisions. All in one place. 🎤 Your Voice, Not Ou",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "$47",
+    "$15",
+    "$0",
+    "$20/mo",
+    "$97",
+    "$197",
+    "$19"
+  ],
+  "landing_fetched_at": "2026-05-23T19:06:05",
+  "description_ja": "ニュースレターやポッドキャストから出版可能な原稿へ変換するAIサービス",
+  "summary_ja": "既存のニュースレター・LinkedIn投稿・ポッドキャスト等を取り込み、独自のInkwellパイプラインで著者の声を保ちつつ章立てし、PDF/ePub/DOCXの印刷可能な原稿として出力するAI出版支援SaaS。",
+  "review_guide_ja": {
+    "what": "クリエイターが過去に作った散在コンテンツ(Substack、YouTube、LinkedIn、ポッドキャスト、トランスクリプト等)のURLを貼り付けると、Inkwellと呼ばれる10ピラー型パイプラインが著者の文体を分析、150冊以上のベストセラー・ノンフィクションのパターンに基づき章構成を生成。各章を生成後、Typoというエディトリアル・レビュアーが文法・声の一貫性・章の凝集度・ブランド整合性をチェックし、ユーザー専用ポータルで章ごとにコメント・リライト依頼が可能。完成稿はPDF/ePub/DOCXに出力し、Amazon KDP等でセルフ出版または直接販売できる。表紙デザインや印刷発注機能もある。",
+    "for_who": "数年単位でニュースレター・ブログ・SNS投稿・ポッドキャスト等を発信してきたクリエイター、ソロプレナー、コンサルタント、コーチで、リードマグネットやブランディング資産として書籍を出したい層。新規執筆ではなく既存資産の再構成が主用途。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "LLMによる文体分析・章立て・トランスクリプト取得は既存APIで可能だが、150冊分析に基づく独自パイプラインと『AIっぽさ』を回避する声の保持品質、編集ポータルUXの完成度を作り込むには2-3ヶ月の集中開発と評価ループが必要。"
+    },
+    "signals": [
+      "ローンチ初日で141 upvotes / 25コメントとPH上で良好な反応",
+      "$47ファウンダー価格 / $197通常価格と明確な料金設計、ベータ枠100名限定で希少性訴求",
+      "『80%が本を書きたい、3%しか完成しない』という明確な課題定義",
+      "Substack/Podcast創作者経済の成長を背景にした追い風",
+      "AIっぽい量産本ではなく『自分の声を残す』というポジショニング"
+    ],
+    "concerns": [
+      "Amazon KDPがAI生成本に対し1日3冊上限規制を導入するなど、出力先プラットフォーム側の規制リスク",
+      "ChatGPT/Claudeに直接プロンプトを投げても近い結果が得られるため、機能差別化が薄まる可能性",
+      "TAMが『過去コンテンツが大量にあるクリエイター』に限定され、ニッチ",
+      "出力品質が低い場合『AIスロップ本』のレッテルが付き、ブランド毀損リスク",
+      "ファウンダー価格$47は単発購入想定で、継続収益化(MRR)モデル設計が不明瞭"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "日本のKindle出版市場は『コミック一強』で文字もの市場は605億円と限定的。一方でKindle出版のHowToコンテンツやAI執筆ツール記事は多く、副業・個人ブランディング目的の出版需要は一定存在する。ただし『ニュースレター文化』はSubstack並みに普及しておらず、英語圏ほどのストック資産は積み上がっていない。"
+      },
+      "competition": {
+        "score": 6,
+        "reason": "AI記事生成SaaS(AI Native、Catchy、RakuRin等)は多数存在するが、『既存コンテンツ→書籍化』に特化した日本語サービスは検索で目立った競合が見つからない。BookScribi等のAI小説執筆ツールはあるが、文体保持を売りにしたノンフィクション原稿アセンブリ専門は空白に近い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "著作権法30条の4でAI学習用途の著作物利用は原則合法だが、AI生成物の著作権発生には人間の創作的寄与が必要。Amazon KDPはAI生成の開示義務化済み。2025年にはAI生成画像の著作権侵害で初の書類送検事例も発生しており、開示・人間関与の運用設計が必要。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UIの日本語化は容易だが、文体分析・章立てロジックは英語ベストセラー150冊を学習源とするため日本語書籍の構成パターン(序破急、新書スタイル等)に合うかは要検証。日本語LLMの文体保持精度や敬語・文末バリエーション処理も追加チューニングが必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本の個人作家文化は紙の自費出版・商業出版志向が根強く、Amazon KDP+セルフPDFという欧米的ワークフローへの心理的抵抗がある層も多い。ただしnote等の有料記事文化との親和性はあり、note→書籍化導線が組めれば商習慣との接合は可能。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "AI Native (記事AI)",
+        "url": "https://www.ai-native.jp/services/article-ai",
+        "note": "SEO構造で大量に記事を生成するSaaS。書籍化ではないがコンテンツ大量生成領域で重なる。"
+      },
+      {
+        "name": "Catchy",
+        "url": "https://lp.ai-copywriter.jp/",
+        "note": "マーケコピーやブログ・プレスリリース等を生成するAIライティングツール。書籍出力機能はない。"
+      },
+      {
+        "name": "ラクリン (RakuRin)",
+        "url": "https://rakurin.net/",
+        "note": "ブログ記事作成特化のAIツール。テーマ発見からキーワード提案・アウトライン作成までを支援するが書籍化機能はない。"
+      },
+      {
+        "name": "フル外注AI式Kindle出版ラボ等の情報商材／コンサル",
+        "url": "https://shuppan-lab.com/",
+        "note": "AIを使ったKindle出版ノウハウ・ツール販売を行う個人事業者群。プラットフォーム化はされておらず、手作業中心。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法(第30条の4、AI生成物の著作権)",
+        "impact": "学習段階の著作物利用は30条の4で広く許容されるが、生成物に著作権を発生させるには人間の創作的寄与が必要。ユーザー(著者)がリライト指示を出す設計はこの要件を満たしやすい。一方、既存ニュースレター等の取り込み時、第三者著作物が含まれていれば侵害リスクあり。"
+      },
+      {
+        "law": "Amazon KDP規約(AI生成コンテンツ開示義務)",
+        "impact": "KDPアップロード時にAI使用を申告する義務があり、未申告は規約違反でアカウント停止リスク。出力先がKDPの場合、ユーザーへの開示ガイダンスが必須。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "ポッドキャスト・ニュースレターのトランスクリプトに第三者の個人情報が含まれる場合、適切な取扱いが必要。サービス内で外部APIに送信する設計の場合は越境移転規制にも注意。"
+      }
+    ],
+    "opportunity": "日本市場では『note有料記事/Voicy/Podcast→Kindle/紙書籍化』導線に特化した日本語版が空白領域。新書スタイル(7-10章、各章8000-12000字)や実用書フォーマットに最適化したパイプラインを構築し、文化庁ガイドライン準拠の人間関与プロセスと著作権開示テンプレートを標準装備すれば、コンサルタント・コーチ・専門家による『ブランディング本』市場(数万円のリードマグネット用途)で差別化可能。商業出版社へのプレゼン用原稿生成や、企業の役員ブランディング書籍のB2B需要にも展開余地あり。",
+    "rationale": "Prosedは欧米のSubstack/LinkedInクリエイター経済を前提にしたプロダクトで、日本市場では(1)文字もの電子書籍市場が605億円と限定的、(2)ストック型ニュースレター文化が未成熟、(3)個人作家文化が紙志向/商業出版志向、という構造的逆風がある。一方で競合空白は確かに存在し、AI執筆ツール群は『記事生成』止まりで書籍アセンブリに特化したものは見当たらない。スコアは中庸の5(skip)で、現時点では日本独自で先行するほどの市場成熟度はないが、note書籍化サービスや新書フォーマット特化など派生角度には機会あり。コンサル・コーチ層のブランディング需要に絞れば収益化は可能だが、TAMが小さくPLG型SaaSとしてのスケールは厳しい。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00",
+  "review_guide_at": "2026-05-23T19:30:00"
+}

@@ -1,0 +1,199 @@
+{
+  "name": "Mantle Chat",
+  "description": "Collaboration platform where teams work with AI together",
+  "ph_url": "https://www.producthunt.com/products/mantle-chat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/HNOJTU2EDLNEGN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-19T07:01:00Z",
+  "upvotes": 354,
+  "comments": 43,
+  "topics": [
+    "Productivity",
+    "Messaging"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt community 🙌</p><p></p><p>I’m Katja, co-founder of Mantle Chat.<br><br>We built Mantle Chat because we think AI at work should feel collaborative, not isolated. When AI is part of the team workspace, it becomes more powerful, easier to adopt, and more natural for everyone to use.</p><blockquote><p><strong><em>The idea is simple: instead of everyone using AI alone, the whole team can learn, collaborate, and work with AI together.</em></strong></p></blockquote><h3><strong>How we got here?</strong><br></h3><p>We spent time talking to modern teams and noticed one thing: <em>teams are already using AI, but not really together.</em><br><br>They have one tool for team messaging, another set of tools for AI, and a lot of work happening in between. Team communication happens in Slack or Teams, while AI work happens in personal conversations with ChatGPT, Claude, Gemini, and other tools. This creates a few painful problems:</p><ul><li><p>Constant switching between team messenger, AI tools, docs, and tasks</p></li><li><p>Context gets lost every time people jump between apps</p></li><li><p>Slack + multiple AI subscriptions quickly become expensive</p></li><li><p>People use AI quietly, but don’t always share how they’re using it</p></li><li><p>AI conversations stay private, so teammates duplicate work</p></li><li><p>The AI has no real context on what the team is working on</p></li><li><p>Prompts and responses get copied around manually</p></li><li><p>Non-technical teammates often find AI harder to adopt</p></li><li><p>Companies want everyone to use AI, but most AI tools still feel individual or developer-focused</p></li></ul><p>The result is strange: AI is everywhere, but teamwork around AI is still fragmented.<br>So we asked ourselves: what if AI was not a separate tool, but part of the team workspace itself?<br></p><h3><strong>What we built?</strong><br></h3><p><strong>Mantle Chat is a collaborative AI workspace for teams.</strong></p><p>It brings real-time team messaging, AI models, agents, tool integrations, and shared knowledge into one place.<br></p><p><strong>What you can do in Mantle Chat:</strong></p><ul><li><p>Chat with your teammates in Slack/Discord style channels, DMs, and threads.</p></li><li><p>When you need help from AI, you can mention (@) 60+ models GPT, Claude, Gemini, Grok, DeepSeek, directly inside the conversation.</p></li><li><p>The AI can respond in the same thread, where the whole team can see it, discuss it, reuse it, and build on top of it.</p></li><li><p>You can also keep private AI chats when you need to work individually.</p></li><li><p>Mantle Chat gives teams a shared knowledge base, so uploaded docs, workspace context, and project information can become part of the AI’s understanding. Instead of manually copy-pasting background into every prompt, your team can give AI the context it needs once and use it across conversations.</p></li><li><p>Teams can also build shared AI agents with custom instructions, knowledge, schedules, and integrations. These agents can run manually, on a schedule, or be triggered by connected tools. (For example, you can create agents for research, PR reviews, meeting notes, analytics reports, customer requests, Linear updates, Stripe events, and more.)</p></li><li><p>Mantle Chat connects with 30+ tools, including Linear, GitHub, Google Drive, Notion, Slack, and Stripe, so AI can help with real workflows, not just answer questions.</p></li><li><p>Give the whole team access to AI without IDEs or complicated setup</p></li><li><p>Reduce the need for separate team chat and AI subscriptions</p></li></ul><p>And honestly, figuring out AI as a team is much more fun and effective than doing it alone.<br></p><h3><strong>Is it for you?</strong></h3><p>Mantle Chat is built for teams that already use AI, or want to start using it together.</p><ul><li><p><strong>For startup teams:</strong> Mantle Chat gives you one place to talk, think, plan, and work with AI. You can keep product discussions, customer insights, research, and AI-generated ideas visible to the whole team.</p></li><li><p><strong>For product and design teams:</strong> Mantle Chat helps you brainstorm, summarize feedback, compare ideas, write specs, analyze research, and keep AI outputs connected to the conversations where decisions happen.</p></li><li><p><strong>For engineering teams:</strong> Mantle Chat lets you bring AI into technical discussions, create PR review agents, summarize Linear issues, connect GitHub, and reduce context-switching between tools.</p></li><li><p><strong>For operations and support teams:</strong> Mantle Chat can help automate recurring workflows, generate reports, summarize requests, and create agents that run on a schedule or react to events.</p></li><li><p><strong>For non-technical teammates:</strong> Mantle Chat makes AI feel approachable. You do not need an IDE or developer workflow to use agents, models, and automations. You just work inside chat.</p></li><li><p><strong>For cross-functional teams:</strong> Mantle Chat helps product, design, engineering, operations, support, and leadership stay aligned by keeping conversations, AI outputs, shared knowledge, and workflows in one place.</p></li></ul><h3><strong>See it in action:</strong><br><a href=\"https://www.youtube.com/watch?v=GVoFZ2dxVx0\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.youtube.com/watch?v=GVoFZ2dxVx0</a></h3><p>You can try the interactive demo in the hero section of our homepage:</p><p><a href=\"https://mantle.chat/home\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://mantle.chat/home</a><br></p><h3><strong>For the Product Hunt community:</strong></h3><p>You can use Mantle Chat for free, or try the Pro plan free for 7 days with higher limits and all features.</p><p></p><h3><strong>Contact with us:</strong></h3><p><strong>Website:</strong> <a href=\"https://mantle.chat\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://mantle.chat</a><br><strong>X / Twitter:</strong> <a href=\"https://x.com/MantleChat\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://x.com/MantleChat</a><br><strong>LinkedIn:</strong> <a href=\"https://www.linkedin.com/company/mantlechat\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.linkedin.com/company/mantlechat</a><br><strong>Community:</strong> <a href=\"https://discord.com/invite/STzq94kdDC\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://discord.com/invite/STzq94kdDC</a><br></p><p>Huge thanks to <a href=\"https://www.producthunt.com/@fmerian\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@fmerian</a> for hunting us today, and to the Product Hunt team and community for the opportunity to share what we’ve been building.<br></p><p><strong><em>Please support us today and drop a comment!</em></strong></p><p><em>We’d love to read your feedback, any thoughts on how we can make shared AI work better for teams, and how your team is using AI today: together, separately, or somewhere in between.</em></p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Love the \"@ the model in the same channel as your teammates\" framing, that's the part Slack-with-a-bot-bolted-on always got wrong. Curious how you're handling context isolation when multiple agents are working on tasks in parallel in the same channel? Does each agent get its own thread, or do they share the channel history?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch <a href=\"https://www.producthunt.com/@katja_danilina\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"katja_danilina\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@katja_danilina</a> ! </p><p></p><p>Something on the roadmap: Mantle already has a pretty strong list of integrations. Are you planning to add  HubSpot or Zendesk so agents can also help with sales and customer support workflows?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Mantle Chat helps teams boost productivity and adopt AI faster by bringing real-time messaging, AI model chats, autonomous agents, and tool integrations into one shared workspace. Communicate in Discord/Slack-style channels, mention AI agents and models (GPT, Claude, Gemini, Grok, Deepseek) with @ whenever you need help directly in conversations with teammates, build agents, run autonomous tasks together, and connect 30+ tools (Notion, Linear, Gmail and more) your team already uses.",
+  "featured_at": "2026-05-19T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/977f6301-b044-4702-893f-4e3419e560cd.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/574f4670-59df-4716-bd3f-e3aa6d1ae794.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/75bae17d-9ee1-465b-8c97-6774af4a9ad7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e0a18db8-d152-415b-ace7-e940f7a39c43.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/643f7b6b-5a12-495b-b6f5-57ff2d5b2f9c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/56c4daf4-90ef-419f-926b-a86f8bf6791f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/91da515a-d574-467f-aa63-c6c6f7a6150c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/65a4be39-8139-40ad-98f8-82e676c2a637.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/22b7dac0-a31b-4f95-bc13-8fc2e2bf2e37.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c8ea8c76-7ce2-43fb-a6b6-5a2047859a01.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7c39d218-d052-4620-88e2-792b9eb780c8.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/1459a8a7-a300-46fb-b299-19fbdad6d1a6.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:37",
+  "landing_meta": "Mantle Chat - AI-Powered Collaboration Platform | GPT-5, Claude, Gemini — Access multiple AI models in one place. Collaborate with AI tools, share conversations, and boost your productivity with Mantle Chat.",
+  "landing_text": "Mantle Chat - AI-Powered Collaboration Platform | GPT-5, Claude, Gemini Mantle Sign In Sign In Workspace that thinks with you AI chats, channels and agents. All in one place. Start for free Book a demo Y Engineering Pinned 3 Q2 Roadmap Review Project Kickoff Notes API Design Discussion Team 2 dev-team M A general S J M Agents 2 Email Agent PR Reviewer Direct messages 3 A Alex Chen M Maria Lopez J Jordan Park Type your message... Claude Sonnet Chats Channels Agents Access the most powerful AI models Claude, GPT, Gemini, Grok, DeepSeek. One subscription. GPT OpenAI Leading models for reasoning, coding, and general tasks. Coding Reasoning General tasks Vision Web search Claude Anthropic Best-in-class for writing, analysis, and long context. Writing Analysis Long documents Instruction following Coding Gemini Google Multimodal AI with massive context windows. Multimodal Massive context Real-time info Vision Research Grok xAI Real-time knowledge with web search built-in. Real-time web News & trends Reasoning Casual tasks DeepSeek DeepSeek High-performance open-source models with strong reasoning. Coding Math Reasoning Cost-effective Open source Built for the AI era of teamwork Everything you need to collaborate effectively today Chats Model agnostic. Switch between Claude, GPT, Gemini and more in any conversation. You What's the best approach for our Q2 plan? Y Claude Let me analyze the key trends and put together a structured recommendation... You Now compare with last quarter Y GPT Based on Q1 data, here are the key differences and areas of improvement... You What about the competitive landscape? Y Gemini I found 3 recent market shifts that could impact your positioning... You Summarize the risks Y Grok The main risks are supply chain delays, rising costs, and regulatory changes... You Draft an action plan for the team Y DeepSeek Here is a prioritized 4-week action plan with owners and deadlines... Channels Shared AI conversations where your whole team sees and builds o",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "subscription",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:40",
+  "description_ja": "チームがAIと一緒に働く、コラボレーション型ワークスペース",
+  "summary_ja": "Slack/Discord風のチャンネルにGPT/Claude/Gemini等60超のLLMとエージェントを統合し、チーム全員が同じスレッドでAIと共同作業できるAIネイティブなチームワークスペース。30以上の外部ツールとも連携。",
+  "review_guide_ja": {
+    "what": "リアルタイムのチームメッセージング（チャンネル/DM/スレッド）に、GPT・Claude・Gemini・Grok・DeepSeekなど60以上のLLMをメンションで呼び出せるAIネイティブなコラボレーションSaaS。共有ナレッジベースにドキュメントやプロジェクトコンテキストをアップロードし、AIが文脈を理解した上で回答。カスタム指示・知識・スケジュール・トリガーを備えた共有AIエージェントを構築でき、PRレビュー、ミーティングノート、Linear更新通知、Stripeイベント対応などを自動化。Linear・GitHub・Google Drive・Notion・Slack・Stripeなど30超のツール連携でAIが実ワークフローに介入できる。個人用プライベートAIチャットも保持可能。",
+    "for_who": "AIを既に活用している、または導入を進めたいスタートアップ・プロダクト/デザイン/エンジニアリング/オペレーション/サポート/非エンジニアを含む横断チーム。Slack＋複数AIサブスクの統合とコスト削減を志向する10〜200人規模の組織が主対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "リアルタイムチャット基盤+マルチLLMルーティング+RAGナレッジ+エージェント実行基盤+30超の外部統合を品質高く統合する必要があり、個人/小規模では1〜3ヶ月での実装は困難。"
+    },
+    "signals": [
+      "上場354 upvotes/43コメントとPHで強い反応",
+      "Slack＋複数AIサブスクの分断という痛みが明確",
+      "60超のLLM・30超のツール統合という広いサーフェスで差別化",
+      "共有エージェントとスケジュール実行で単なるチャットBot以上の価値",
+      "ノンエンジニアでも使えるUXを明確に標榜"
+    ],
+    "concerns": [
+      "Slack/Teams/Discordという巨大既存プレイヤーとの正面衝突",
+      "AIメッセンジャー乱立カテゴリで差別化持続性が不透明",
+      "60モデル・30統合の品質維持と運用コスト",
+      "企業データを扱うためエンタープライズSSO・監査・データ保持の要件が重い",
+      "60モデルへのAPIコスト転嫁とユニットエコノミクス"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内法人での生成AI導入需要は高く、ChatGPT/Claude/Geminiを横断利用したい・チームで共有したいニーズは法人向けマルチLLMサービス（AIアシスタント、QT-GenAI、exaBase等）の乱立から顕在化が確認できる。ただし「チャットUI＋AI」という形態よりも既存ChatworkやSlackへのBot連携の需要が強い印象。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Slack・Microsoft Teams・Chatwork・LINE WORKSという既存ビジネスチャット強豪に加え、法人向けマルチLLM SaaSが既に十数社（アーガイル、サテライトAI、QT-GenAI、exaBase等）参入済み。チャット基盤として乗り換えてもらうハードルは極めて高く、競合密度は高い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "個人情報保護法・改正PPC（2026年）対応が必須。プロンプトに個人情報・社外秘を入れるリスクが行政文書でも繰り返し注意喚起されており、国内データ保管・モデル学習不使用・監査ログ等のガバナンス要件をクリアする必要。海外SaaSのままだと企業導入の障壁が大きい。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UIテキスト・通知・日付フォーマット程度のローカライズで対応可能。ただし日本のビジネスチャットは敬語・絵文字スタンプ・既読文化・スレッド慣行が独自で、AIの返答トーンや要約スタイルの調整も求められる。請求書/見積/インボイス制度対応など事務面の追加も必要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "国内ではメール＋Chatwork/Teams文化が根強く、新しいチャットツール導入の意思決定に時間がかかる。IT管理部門の承認、SSO/SAML、データレジデンシー、SOC2/ISMSなどエンタープライズ要件への対応がない限り、SMB以外への浸透は困難。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "AIアシスタント（アーガイル）",
+        "url": "https://ai-assistant.jp/",
+        "note": "ChatGPT/Claude/Gemini等17種のLLMを法人向けに統合提供。組織内RAG、繰越利用枠、SSO対応。マルチLLMチーム利用ニーズの直接競合。"
+      },
+      {
+        "name": "Chatwork",
+        "url": "https://go.chatwork.com/",
+        "note": "国内ビジネスチャットの代表格。miibo/Yoom/GMO即レスAI等を通じてGPT-5やClaude 4.1ベースのAIボットを容易に組み込め、AI＋チャットの代替実装が成立。"
+      },
+      {
+        "name": "QT-GenAI（QTnet）",
+        "url": "https://qtgenai.qtnet-tsunagu.jp/",
+        "note": "Gemini・GPT・Claudeを統合した法人向け高セキュリティマルチ生成AIプラットフォーム。マルチモーダル対応。"
+      },
+      {
+        "name": "exaBase（エクサウィザーズ）",
+        "url": "https://exawizards.com/",
+        "note": "企業・自治体向けにChatGPT/予測分析/チャットボットをGUI SaaSとして提供。データ処理は国内完結で官公庁・大企業に強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（改正PPC・2026年要件）",
+        "impact": "ユーザーが個人情報や社外秘をプロンプト/共有ナレッジに投入する可能性が高く、利用目的の特定・第三者提供制限・モデル学習に使われないことの保証が必須。海外モデル使用時のクロスボーダー移転告知も必要。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "チームメッセージング機能を国内向けに提供する場合、外部送信規律（クッキー等）の表示義務や、規模次第で電気通信事業者の届出が必要となる可能性。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "RAGで社内ドキュメントを取り込み、LLMが生成した出力に第三者著作物が混入するリスク。学習・生成段階の取扱いと出力の権利関係をガバナンス文書として整備する必要。"
+      }
+    ],
+    "opportunity": "「AIネイティブな国産ビジネスチャット」として、ChatworkやSlackからの完全乗り換えではなく、Chatwork/Teamsへのオーバーレイ＋共有スレッド型AIワークスペースという折衷案にすると刺さりやすい。日本商習慣に合わせた稟議連携・電子帳簿保存法対応のRAG・敬語/要約トーン制御・国内データセンター・SOC2＋ISMS＋電気通信事業法対応をデフォルト装備し、士業/コンサル/中小企業向けに「AIエージェントを業務テンプレート化」したパッケージで展開すれば差別化可能。",
+    "rationale": "プロダクト自体は完成度が高く、欧米のAI先行チームには刺さる構成だが、日本市場では(1)Slack/Teams/Chatworkの既存ロックイン、(2)法人向けマルチLLM SaaSの先行プレイヤー多数、(3)PPCガイドラインや電気通信事業法対応など参入コストが高い、という三重苦に直面する。需要は確かに存在するが、競合密度と切替コストが高く、海外SaaSのまま日本上陸しても短期に大きなシェアを取るのは困難。スコアは需要7×0.30+競合3×0.25+規制6×0.20+ローカライズ6×0.15+商習慣4×0.10=2.1+0.75+1.2+0.9+0.4=5.35→5。verdictは skip。日本独自開発として参入するなら、Chatworkとのオーバーレイ＋国内データレジデンシー＋業務テンプレートエージェントに振り切るのが現実解。",
+    "japan_fit_at": "2026-05-23T19:30:00",
+    "review_guide_at": "2026-05-23T19:30:00"
+  }
+}

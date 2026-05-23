@@ -1,0 +1,155 @@
+{
+  "name": "Slideshot",
+  "description": "Product demo videos, recorded by your AI agent",
+  "ph_url": "https://www.producthunt.com/products/slideshot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ZB4GJ5WSVVEMUK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-21T07:01:00Z",
+  "upvotes": 203,
+  "comments": 36,
+  "topics": [
+    "Productivity",
+    "Developer Tools",
+    "Marketing automation"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>absolute fan of Ahmed's work. </p><p></p><p>the maker of <a href=\"https://www.producthunt.com/products/katalog-2\" target=\"_blank\" rel=\"noopener\">@Katalog</a> and <a href=\"https://www.producthunt.com/products/arcmark\" target=\"_blank\" rel=\"noopener\">@Arcmark</a> keeps cooking, introducing <a href=\"https://www.producthunt.com/products/slideshot\" target=\"_blank\" rel=\"noopener\">@Slideshot</a>, a simple and elegant agent-driven screen recorder.</p><p></p><p>if you use <a href=\"https://www.producthunt.com/@useloom\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@useloom</a> or <a href=\"https://www.producthunt.com/products/screen-studio\" target=\"_blank\" rel=\"noopener\">@Screen Studio</a> and want to automate this work, give it a spin! you'll enjoy it.</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey everyone! 👋</p><p>Excited to launch Slideshot on Product Hunt today! </p><p>Huge thanks to <a href=\"https://www.producthunt.com/@fmerian\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"fmerian\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@fmerian</a> for hunting! As always, extremely appreciate your support 🙏</p><p></p><p>I built Slideshot from a simple realization. AI agents made it so much faster to ship features. At the same time, I felt the speed of how fast you can market these new features is lacking behind. Especially when it comes to video demo preparation. I'd need to manually walk through the flow, record it, then edit it, adding some nice zoom effects, then generate a GIF. It takes a while...</p><p></p><p>Slideshot is my attempt to make that workflow \"agentic\".</p><p></p><p>Instead of opening another screen recorder, you connect Slideshot to the agent you already use through MCP. It supports Claude, Codex, Cursor, ChatGPT, or any other MCP-capable agent. Then you describe the product flow you want to show.</p><p></p><p>The agent drives the browser, walks through your web app autonomously, records the demo, and Slideshot returns a polished video with built-in zoom effects, cursor motion, and an intro animation.</p><p>Here are the main use cases I'm optimizing for:</p><p></p><p><strong>✻ </strong>Product marketers creating <strong>launch videos, changelog assets, in-app educational videos</strong>, and feature announcements</p><p></p><p><strong>✻ </strong>Product teams <strong>keep demo assets up to date as the product changes</strong>. Think of a Help Centre that automatically shows how a video of the feature works in the latest version.</p><p></p><p><strong>✻ </strong>Customer success and support teams creating <strong>walkthroughs for help docs</strong> and customer education</p><p><br>What I’m most interested in is whether demo creation can become part of the same AI-assisted workflow as product building itself.</p><p></p><p>If an agent can help ship the feature, it should also be able to help market that feature.</p><p>It's is still early, so I’d love feedback from teams that regularly need product demos but do not want to spend time recording and editing them by hand.</p><p></p><p>---</p><p></p><p>Because I'm building Slidehsot as an agent-first tool, the pricing model is also different. Usually, video recording/editing tools charge a monthly subscription per seat. For Slidehsot, I opted for usage-based pricing. You only pay for the videos you generate.</p><p></p><p>For Product Hunt, the first 25 people who use the <strong>PH21SLIDE</strong> code at checkout will also receive <strong>$5 worth of credits for free</strong>.</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Do teams ever push back wanting truer pacing for onboarding or sales videos? Or it it more like everyone just wants the cleaned-up version? Congrats on a well-executed product</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Give your AI agent a product flow to record. Slideshot drives your web app through MCP, captures the walkthrough, and returns a polished demo video and GIF with zooms, cursor motion, and custom intro animation. No manual recording or editing.",
+  "featured_at": "2026-05-21T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/8545290d-3288-4d24-af43-1bc624db91e4.svg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f21f22e2-db20-4222-82ce-3c588273b88d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/576b5bca-1c75-4aab-8b3b-da518ef8f664.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ff6f36cf-7d56-420a-8554-83ff5f6f8db9.gif"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/eb4fbca9-52fa-48c1-97bf-0fa76aae8ce4.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:54",
+  "landing_meta": "Slideshot — Launch-ready product demo videos — Turn product flows into polished launch demo videos without recording or editing by hand.",
+  "landing_text": "Slideshot — Launch-ready product demo videos SLIDESHOT [alpha] Live on Product Hunt For agents — read the markdown version of this page → # Product demo videos recorded by AI agent Describe the feature flow you want to show. Slideshot drives your web app, records the walkthrough, and returns a polished video your team can use in launch posts, changelogs, and enablement assets. Get started → Watch demo ## Example launch assets Slideshot is not another screen recorder. It is a repeatable way to turn a product flow into a usable launch asset. The videos below were generated from a single prompt, then returned as polished MP4s. 0:00 Linear launch walkthrough 0:00 Notion product tour 0:00 Slideshot credential flow 0:00 Product Hunt discovery flow ## Why recording demo videos is tedious Recording and editing are meaningful work, but they are also repeatable. The hard part is keeping product videos current as the UI changes. 01 The UI changes after the video is made A last-minute label, layout, or workflow change can make a launch video feel out of date immediately. 02 Keeping videos current takes too much effort Teams know which flows should have fresh walkthroughs, but re-recording every update rarely makes it to the top of the list. 03 Editing effects make the flow easier to follow Zoom, framing, cursor movement, and brand fit help viewers understand what changed, but adding them by hand slows every video down. ## How it works 1. Describe the launch flow Give Slideshot the product URL and the steps you want shown, written like a PMM brief. 2. Slideshot drives the app It executes the flow in the browser, including authenticated product areas when credentials are configured. 3. Download the polished MP4 Use the finished video in launch assets without a separate recording, trimming, zoom, or export pass. ## For agent-driven teams The API stays because it is part of the product promise: launch demos should be generated from workflows, agents, and automation, not only from a",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "$0.90",
+    "$9.00",
+    "$90.00",
+    "$900.00"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:55",
+  "description_ja": "AIエージェントがWebアプリを操作し、製品デモ動画を自動録画・編集するMCP連携サービス",
+  "summary_ja": "MCP経由でClaude/Cursor/ChatGPT等のエージェントと接続。プロンプトで指定したフローをエージェントがブラウザ操作し、ズーム・カーソル・イントロ付きの完成動画とGIFを返す。従量課金制。",
+  "review_guide_ja": {
+    "what": "Slideshotは、AIエージェント駆動型のプロダクトデモ動画自動生成SaaS。Claude/Codex/Cursor/ChatGPT等のMCP対応エージェントと接続し、ユーザーがPMMブリーフ風にフローを記述すると、エージェントが自律的にブラウザを操作してWebアプリ内のシナリオを実行する。録画結果はズーム効果・カーソル動作・イントロアニメーションが付与された完成MP4/GIFとして返却され、別途編集ツールでのトリミング・エフェクト追加が不要。認証が必要な画面もクレデンシャル登録で対応可能。料金はシート課金ではなく動画1本ごとの従量課金（$0.90〜$900のティア）で、Loom・Screen Studio・Trupeer・Supademoなどの既存系列と差別化を図る。主な用途はローンチ動画、Changelog資産、ヘルプセンター動画、社内向けエージェント開発。",
+    "for_who": "プロダクトマーケター（PMM）、Devtools系SaaSのプロダクトチーム、頻繁にUIが更新されるWebアプリの運営者、ヘルプセンター/CSチームでウォークスルー動画を量産したい組織。特にAI/エージェント駆動の開発スタイルを採用しており、デモ動画もMCPワークフローに組み込みたい層。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "ブラウザ自動操作（Playwright等）とMCPサーバ実装は既存OSSで可能だが、ズーム/カーソル/イントロの完成度・対象Webアプリの動的UIへの堅牢性・認証フロー対応の品質で差別化される。"
+    },
+    "signals": [
+      "ローンチ3日で203 upvotes・36コメント、PHでの注目度が高い",
+      "MCP標準対応で複数エージェントから利用可能、エージェント時代の動画ワークフローを先取り",
+      "シート課金ではなく従量課金($0.90〜)でPLG親和性が高い",
+      "Screen Studio/Loom/Trupeer等の既存プレイヤーが手動寄りで、エージェント駆動は明確な差別化"
+    ],
+    "concerns": [
+      "対象Webアプリの認証情報を預ける必要があり、エンタープライズでのセキュリティ審査が重い",
+      "動的UI・モーダル・遅延読み込みでエージェントが詰まると品質が不安定",
+      "Supademo等もMCP対応を進めており、機能優位は短期で縮む可能性",
+      "日本語UI/ナレーション/字幕の対応度合いは未確認で、国内ユースケースでは課題"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本でもSaaSのオンボーディング動画・リリースノート動画の需要は拡大しており、NoLang等の国産動画生成AIが2024年7月リリース後1年半で登録15万人・導入60社規模に達している。エージェント駆動の自動デモ需要も追って顕在化する見込み。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "日本ではNoLangがSaaS向け動画生成で先行、海外勢ではTrupeer/Supademo/Screen Studio/Loomが上陸済み。マニュアル動画ではTebiki等の現場系も競合。MCPエージェント駆動という切り口は新規だが、Supademoも追従中で持続的差別化は不確実。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "AIエージェントがWebアプリの認証情報を扱うため個人情報保護法上の安全管理措置・委託先管理が必要だが、SaaS全般と同水準。著作権法上は録画対象が自社アプリ中心なので問題は限定的。電気通信事業法の外部送信規律も録画SaaSとして通常範囲。重大な業法規制は無し。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UIは英語前提で、ナレーション/字幕の日本語対応や日本語プロンプトでの精度は未確認。日本市場ではヘルプ動画に音声・字幕の日本語が事実上必須で、対応がなければPMMでの採用ハードルが高い。検索で根拠未確認のため中庸。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "シート課金ではなく動画単位の従量課金は、日本企業の年間予算稟議・固定費志向と相性が悪い場合がある。一方PoC/個人クリエイターには刺さりやすい。エンプラ販売では月額/年額プランの併設が必要になる可能性。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "NoLang",
+        "url": "https://no-lang.com/",
+        "note": "日本発の動画生成AI。リリースノート/仕様書/ヘルプ記事をURL指定で解説動画化。SaaS業界に本格展開中で導入60社・登録15万人(2025年12月)。"
+      },
+      {
+        "name": "Trupeer (日本でも利用可)",
+        "url": "https://www.trupeer.ai/",
+        "note": "AI画面録画+音声編集+アバター付与でLoom代替として日本でも紹介記事多数。手動録画起点でエージェント駆動ではない点が差分。"
+      },
+      {
+        "name": "Supademo",
+        "url": "https://supademo.com/",
+        "note": "インタラクティブデモ+MCP対応で自然言語編集が可能。動画ではなくインタラクティブツアー寄りだが、エージェント連携で機能領域が重なる。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "エージェントが認証情報・録画画面に含まれる個人データを取り扱うため、安全管理措置・委託先（クラウド事業者）の監督・越境移転の同意/通知が必要。録画動画に顧客情報が映る場合はマスキング機能の有無が日本企業の選定基準となる。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "SaaSとしてユーザー情報を外部送信する場合、外部送信規律（2023年6月施行）に基づく利用者通知が必要。録画SaaS一般の範囲で対応可能。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "サードパーティWebアプリ画面を録画する場合、対象サイトの利用規約・著作権上の問題が生じうる。自社アプリ録画が主用途であれば実害は小さい。"
+      }
+    ],
+    "opportunity": "日本ではSaaSのリリース頻度が高まりヘルプ動画/Changelog動画の運用負荷が顕在化しているが、NoLangはスライド型解説動画が中心でアプリ実操作のウォークスルー自動化までは踏み込んでいない。Slideshotの「エージェントが実アプリを操作して録画」というポジションは、Devtools/PLG型SaaSの日本展開チームに刺さる余地がある。特にCursor/Claude Codeを既に使う日本のPMM/開発者にはMCP連携が違和感なく入り、ローンチ動画の量産＋Help Center自動更新の用途で導入しやすい。日本語ナレーション・字幕とJPサブスクの併設、SOC2/個人情報保護法対応の明示が揃えば、年間100〜300社規模のニッチで先行できる可能性。",
+    "rationale": "需要(7)はSaaSデモ動画市場の拡大とNoLangの実績で裏付け済み。競合(5)はNoLang/Trupeer/Supademo等が既に存在し、MCPエージェント駆動という切り口は新規だがSupademo等の追随で差別化は短中期で縮む。規制(8)は重大な業法規制は無く個人情報保護法と外部送信規律の通常対応で済む。ローカライズ(5)は英語UI前提で日本語ナレーション/字幕の対応が未確認、ヘルプ動画用途では事実上必須のため懸念。商慣習(5)は従量課金が日本企業の固定費志向と摩擦を起こしうる点でやや不利。加重平均は7×0.30+5×0.25+8×0.20+5×0.15+5×0.10=6.2でwatch判定。日本語対応とエンプラ販売チャネル整備が見えた段階で再評価が妥当。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z"
+}

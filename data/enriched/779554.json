@@ -1,0 +1,160 @@
+{
+  "name": "WeWeb 3.0",
+  "description": "Vibe-code apps with the safety net of a no-code editor",
+  "ph_url": "https://www.producthunt.com/products/weweb-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/XOSAFL3LHXMWZZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-21T07:01:00Z",
+  "upvotes": 278,
+  "comments": 86,
+  "topics": [
+    "Website Builder",
+    "Artificial Intelligence",
+    "No-Code"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunters 👋</p><p>Raphael, WeWeb CEO &amp; co-founder here.</p><p></p><p>WeWeb is <em>THE</em> AI app builder for non-technical users: it lets you generate full applications with AI, then customize every part visually with a drag-and-drop editor.<br></p><p>Over the past year, we've all watched AI transform how fast you can build web apps.</p><p>But what happens after the prompt?</p><p></p><p>For most non-technical builders, AI generation hits the same wall: you create something impressive in minutes… then get stuck at 80%.</p><p>You can't really edit the output. You don't understand what's under the hood. One wrong click and everything breaks.<br></p><p><strong>We are fixing that.</strong></p><p>WeWeb is the AI app builder for people who want to understand what they're creating: where AI speed meets no-code control.<br></p><p>Generate full apps with UIs, workflows, and data structures in minutes.</p><p>Then use the drag &amp; drop editor to inspect exactly what the AI produced, modify any part visually, and publish your app in one-click.<br></p><p><strong>What can you build with WeWeb?</strong></p><ul><li><p>SaaS products that scale to millions of users</p></li><li><p>AI-native applications</p></li><li><p>Internal tools and operations platforms</p></li><li><p>Client portals, ERPs, and CRMs</p></li></ul><p>Backed by YC, WeWeb is used by solo founders, startups, scaleups, and companies like PwC, L'Oréal or Décathlon to ship production-grade apps at scale.</p><p></p><p>I'd love to hear your feedback - ask me anything, I'll be here all day 🙂<br></p><p>🎁 Exclusive for the Product Hunt community: Use code PH2026 for 20% lifetime discount on any plan. You have one week to take advantage of this exclusive PH discount, don't waste time!</p>",
+      "votesCount": 28,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Huge congrats on the launch 🎉</p><p></p><p>We built <a href=\"http://gamercoin.co\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">gamercoin.co</a> / <a href=\"http://gamerperks.co\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">gamerperks.co</a> on WeWeb to test an idea fast, with little coding experience between us. The pitch in this launch is exactly what made it work for us. We could get something real off the ground, then actually go in and edit the UI, logic, and data without staring at code we didn't understand. WeWeb is the reason we got past it.</p><p>Rooting for the team today 🚀</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I see in your website that the app can be in Github. Does that mean I have the full app in Github and I can host it somewhere else ?<br>If that the case, is it your own framework or an existing one ?</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "WeWeb is the only AI app builder that gives full editing control to non-coders. Prompt AI to generate your app, then refine every screen, workflow, and database in a powerful no-code editor where you always understand what’s happening under the hood. No more black box.",
+  "featured_at": "2026-05-21T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/63f91d11-901f-4ea3-88e2-a60dc4764fe1.webp",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/90fff7f9-046d-46b1-88b8-581ae3d125bc.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/b916cb34-a225-42a4-b89a-55b12bdfc494.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/156ac76b-8914-417b-bab1-0e7b113d14cc.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/d05e6f12-c15c-4d74-b0ad-234632abce87.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/69e86252-17fb-45cf-a959-00cec30eec72.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/c072564f-503c-44a9-8e33-0bfba726eac7.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/3f06a5c4-cff6-4951-8d11-2e7432b67e02.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-23T19:05:42",
+  "landing_meta": "Build Web-Apps 10x Faster with AI & No-Code | WeWeb — WeWeb is a powerful AI-driven no-code platform that lets you create production-ready web apps – fast, flexible, and with zero vendor lock-in.",
+  "landing_text": "Build Web-Apps 10x Faster with AI & No-Code | WeWeb Build with AI, edit with no-code. → Select a workspace: Select a workspace Creating your project Oops! Something went wrong while submitting the form. Trusted by Fortune 500 companies Get started Log in or create a free account to start building. Login Sign Up X Full Control, Code Optional Generate web-apps in seconds with AI, then fine-tune every detail in our visual editor — no coding required. Build with AI Ask WeWeb AI to create a full web-app for you. It can generate complete pages, databases, logic, and coded components for you. Edit visually Use WeWeb’s drag-and-drop editor to edit anything you want visually, from simple pixel changes to complex workflows with branching. Publish (or export code) Launch in one click on a global CDN, or export and self-host production-ready code for complete control. Trusted by founders & Fortune 500s Whether you’re building your first MVP or managing apps at scale, WeWeb helps teams move fast, customize deeply, and grow without limits. ← → Internal tools Compliance SaaS & portals All industries Marketplace Recruitment Forecasting SaaS Climate Tech Internal tools Healthcare professionals Internal tools Recruitment Learning platform Engineering Internal Tools Healthcare professionals Internal tools SaaS SaaS Real estate SaaS Internal Tools SMBs and Early-stage Startups SaaS FinTech Internal tools Entertainment Internal Tools Logistics, Supply Chain Built to scale The standards of code, with no-code. Scale users, not costs. Scale your audience with confidence. We don't charge per app user. Extend beyond no-code. Import and edit custom coded components directly inside WeWeb for full flexibility and control. No lock-in. Full ownership. Export a Vue.js SPA and deploy on-premise or to any cloud provider. Your code, your infrastructure. Enterprise-grade flexibility. WeWeb’s modular architecture connects to your preferred stack without compromising performance. Separation of concerns.",
+  "pricing_signals": [
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-23T19:05:42",
+  "description_ja": "AIで生成しノーコードで編集できる本番品質Webアプリビルダー",
+  "summary_ja": "WeWeb 3.0はAIプロンプトでフルWebアプリを自動生成し、ドラッグ&ドロップのノーコードエディタで細部まで編集できるYC出資のプラットフォーム。Vue.js出力とコードエクスポートでベンダーロックインを回避できる。",
+  "review_guide_ja": {
+    "what": "WeWeb 3.0はAI生成と本格的なノーコードエディタを統合したWebアプリ開発プラットフォーム。プロンプトでUI・ワークフロー・データ構造を含むフルアプリケーションを自動生成した後、ドラッグ&ドロップのビジュアルエディタで各要素を視覚的に編集できる。AI生成物の中身が見える点を強みとし、生成後の「80%の壁」（編集不能・ブラックボックス）を解消する。出力はVue.js SPAで、グローバルCDNへのワンクリック公開のほか、コードをGitHub経由でエクスポートしオンプレやクラウドへ自己ホストすることも可能。Airtable・Xano・Google Sheetsなど外部DBと連携し、独自データベースは持たない方針。SaaS製品、AIネイティブアプリ、社内ツール、クライアントポータル、ERP/CRMなど幅広い用途に対応し、PwC・L'Oréal・Décathlonなどエンタープライズでの採用実績がある。ユーザー数課金がなく、スケール時の費用負担が線形に増えないのも特徴。",
+    "for_who": "非エンジニアの個人創業者、スタートアップ、スケールアップ、社内ツールを内製化したい企業のオペレーション部門。AI生成だけでは満足できず、UI/ロジック/DBを自分で完全に制御したいパワーユーザー寄りのノーコーダーが主要ターゲット。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "AI生成基盤、独自エディタIDE、Vue.jsコードエクスポート、外部DB統合、CDN配信など実装範囲が広く、UX完成度と運用安定性のバー（Fortune500採用級）が高いため模倣難度は高い。"
+    },
+    "signals": [
+      "PH 278 upvotes / 86 comments の高い反応",
+      "YC出資・PwC/L'Oréal/Décathlonなどエンタープライズ採用実績",
+      "AI生成→ノーコード編集という明確な市場課題（80%の壁）への解",
+      "Vue.jsコードエクスポートでベンダーロックイン回避を訴求",
+      "ユーザー数課金なしの料金体系"
+    ],
+    "concerns": [
+      "Bubble・Webflow・Glide等の確立した競合が多い",
+      "AI生成精度・本番品質コードの実態は実プロジェクトで検証必要",
+      "日本語UI/日本語プロンプト精度・国内サポート体制が不明",
+      "外部DB依存のため初心者が完結させにくい学習曲線",
+      "エンタープライズ価格帯の透明性が低い可能性"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本のノーコード/ローコード市場はIDC Japan調べで2023年1,225億円、2028年2,701億円に拡大見込み。中小企業DXと内製化需要が追い風で、AI×ノーコードへの関心は高い。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "国内ではkintone（42,000社超、シェア16.8%）、STUDIO（15万ユーザー超）、Adalo（14.6%）、Bubble（11.6%）など強力な競合が密集。Bubble特化の受託会社も多数存在し、参入余地は限定的。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "Webアプリ開発基盤として規制負担は軽微。ユーザーが個人情報を扱うアプリを作る場合は個人情報保護法の責任が利用者側に発生するが、プラットフォーム自身への直接規制は限定的。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "公式の日本語UI・日本語プロンプト最適化・国内決済（請求書払い）・日本語サポートの提供状況が検索で根拠未確認。STUDIO等の国産が日本語UXで先行しており参入には深いローカライズが必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業は受託開発依存・ハンコ稟議・段階的検証文化が強く、海外SaaS直接導入よりパートナー経由が一般的。kintoneのオフィシャルパートナー500社超のような代理店網が必要となる可能性が高い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "kintone（サイボウズ）",
+        "url": "https://kintone.cybozu.co.jp/",
+        "note": "国内ノーコード業務アプリのデファクト。42,000社超導入、市場シェア16.8%。2026年6月にkintone AIを正式提供開始し、AI×ノーコード領域でも先行。"
+      },
+      {
+        "name": "STUDIO",
+        "url": "https://studio.design/ja",
+        "note": "国産ノーコードWeb制作プラットフォーム。15万ユーザー超、日本語UX完成度が高く、Editor AIでAI生成も統合。デザイン重視のサイト構築で強い。"
+      },
+      {
+        "name": "Bubble（日本パートナー経由）",
+        "url": "https://bubble.io/",
+        "note": "国内市場シェア11.6%。EPICs等の認定代理店が受託開発・内製化支援を展開。WeWebと最も直接競合するWebアプリ系ノーコード。"
+      },
+      {
+        "name": "Adalo",
+        "url": "https://ja.adalo.com/",
+        "note": "国内シェア14.6%。モバイルアプリ寄りだが日本語対応済みで認知が高い。Webアプリ用途ではWeWebと一部競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "WeWebで作成されるアプリが個人情報を扱う場合、利用者（事業者）が個人情報取扱事業者として安全管理措置・第三者提供制限を遵守する必要。プラットフォーム側はデータ処理者として越境移転（EU/米国サーバー利用）の同意・通知対応が論点。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "メッセージング・通知機能を実装するアプリを構築する場合、利用者側で外部送信規律（Cookie等のユーザー情報外部送信時の公表義務）への対応が必要。プラットフォーム自体は届出対象外と推定されるが利用者責任で確認要。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "WeWebでECサイト・サブスク販売アプリを構築する利用者は特商法表記・通信販売規制の対象。プラットフォームは構築ツールに留まるが、テンプレートで特商法表記欄を提供できると国内採用で優位。"
+      }
+    ],
+    "opportunity": "「AIで作る→ノーコードで直す」という二段構えはAI生成ツールの「80%の壁」を解く明確な価値提案で、日本の内製化潮流にも適合する。特に中堅企業の社内ツール・クライアントポータル・業務SaaS領域はkintoneとは異なるレイヤー（外向きWebアプリ）であり、kintoneでカバーしきれないUI重視のニーズに刺さる余地がある。日本市場参入時は、(1)公式日本語UI/プロンプト最適化、(2)国内認定パートナー網による受託・教育・内製化支援、(3)個人情報保護法・特商法対応テンプレート、(4)請求書払い対応——を揃えれば、Bubble代替として中堅SIerやDX支援会社経由で広がる可能性がある。",
+    "rationale": "需要面はノーコード市場の二桁成長と内製化トレンドで高めだが、競合面ではkintone・STUDIO・Bubble・Adaloという確立プレイヤーが密集し、シェア争いは厳しい。規制面は利用者責任が中心でプラットフォーム自身への障壁は低い。一方でローカライズと商習慣（パートナー経由販売・請求書払い・日本語サポート）の障壁が大きく、現状の英語UI/海外SaaSのままでは中小企業への直接浸透は難しい。総合してスコア6＝watch判定。WeWebが日本法人や認定パートナーを設けて本格参入する動きが見えれば再評価する価値あり。自前で日本向け類似サービスを作る場合はSTUDIO/kintoneとの差別化（外向きWebアプリ×AI生成×コード所有権）を明確化する必要がある。検索で根拠未確認の項目は中庸スコアとした。"
+  },
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z"
+}
