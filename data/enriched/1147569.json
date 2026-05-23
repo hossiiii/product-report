@@ -11,42 +11,12 @@
     "Artificial Intelligence"
   ],
   "makers": [
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    }
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
   ],
   "top_comments": [
     {
@@ -69,30 +39,12 @@
   "featured_at": "2026-05-18T07:01:00Z",
   "thumbnail_url": "https://ph-files.imgix.net/d91fc33b-29d2-4222-b0dc-977c6a78a670.png",
   "media": [
-    {
-      "type": "image",
-      "url": "https://ph-files.imgix.net/fc21c5c6-a867-4f5e-a10e-d94bbb5621d1.png"
-    },
-    {
-      "type": "image",
-      "url": "https://ph-files.imgix.net/7579db1e-8dc7-4c55-b84c-64149c6abd2f.png"
-    },
-    {
-      "type": "image",
-      "url": "https://ph-files.imgix.net/959224dc-623d-46ac-ac56-c3128eb9eef4.png"
-    },
-    {
-      "type": "image",
-      "url": "https://ph-files.imgix.net/06928814-190a-4a84-9e3b-5dfe1672c727.png"
-    },
-    {
-      "type": "image",
-      "url": "https://ph-files.imgix.net/f3986490-9134-49d9-9e50-51c625ea31e4.png"
-    },
-    {
-      "type": "video",
-      "url": "https://ph-files.imgix.net/312a69c4-9d7c-43d0-8d43-b31157f0cddd.jpeg"
-    }
+    {"type": "image", "url": "https://ph-files.imgix.net/fc21c5c6-a867-4f5e-a10e-d94bbb5621d1.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/7579db1e-8dc7-4c55-b84c-64149c6abd2f.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/959224dc-623d-46ac-ac56-c3128eb9eef4.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/06928814-190a-4a84-9e3b-5dfe1672c727.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/f3986490-9134-49d9-9e50-51c625ea31e4.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/312a69c4-9d7c-43d0-8d43-b31157f0cddd.jpeg"}
   ],
   "ph_enriched_at": "2026-05-23T19:05:26",
   "landing_meta": "LobeHub - Your Chief Agent Operator — The ultimate space for work and life: to find, build, and collaborate with agent teammates that grow with you.",
@@ -111,98 +63,156 @@
     "$46"
   ],
   "landing_fetched_at": "2026-05-23T19:05:27",
-  "description_ja": "マルチエージェント業務のためのチーフ・エージェント・オペレーター(CAO)",
-  "summary_ja": "目標を伝えるだけで複数のAIエージェントとSkill/MCPサーバーを自動編成し、クラウド上で並列実行。Slack/Discord/Telegram/iMessage経由で意思決定が必要な時だけ報告する、AIチーム運用プラットフォーム。",
+  "description_ja": "AIエージェントチームを編成・運用する統合オペレーター",
+  "summary_ja": "目標を伝えるとAIエージェント群を自動編成し、クラウドで並列実行。Slack/Discord等の既存チャネルへ決裁が要る時だけ通知し、タブ切替を減らして成果に集中させるマルチエージェント統合基盤。",
   "review_guide_ja": {
-    "what": "LobeChatの後継として、複数AIエージェントを「雇用・スケジュール・報告」するチーフ・エージェント・オペレーター(CAO)を提供。ユーザーが一文で目標を述べると、エージェントとSkill/役割を自動編成し、315,110以上のSkillと59,199以上のMCPサーバーを活用してクラウド上で並列タスクを実行。OpenAI/Claude/Gemini/DeepSeek/Ollama/Qwenなど任意モデルを切替可能。Slack/Discord/Telegram/iMessage等の既存IMをハブにし、意思決定が必要なときだけ通知。Agent Marketplace、共有Workspace、Pages(共有コンテキスト付き編集)、Schedule、Project管理、White-Box Memory(構造化・編集可能な記憶)等を備える。500件のIssue一括処理、Shopify/Amazonオペレーター、Discord運用などのユースケースを想定。",
-    "for_who": "個人開発者、AIを活用したい中小スタートアップ、SaaS運用者、コミュニティマネージャー、EC運営者、CXチーム。チャットUI単独では限界を感じ、複数エージェント・複数モデルを束ねて運用したい技術志向の個人〜小チーム。",
+    "what": "LobeHubはオープンソースのAIチャット基盤LobeChatを発展させた『Chief Agent Operator (CAO)』で、目標を一文で渡すと適切なエージェントとスキル(31万件超)、MCPサーバ(5.9万件超)を自動編成し、クラウド上で並列実行する。タスク進捗はSlack/Discord/Telegram/iMessage等の既存チャネルに集約され、判断が必要な時だけ通知が来る。Agent Marketplace、Agent Builder、Workspace、Pages、Scheduleなど、個人利用からチーム協業までを単一の作業面で完結させる構成。Personal MemoryやWhite-Box Memoryで長期記憶を保持し、エージェントが利用ログから学習・適応する点が他チャットUIとの差別化要素。料金は$1〜$46の階段型で、OSSコア+SaaSハーネスのハイブリッドモデル。",
+    "for_who": "複数AIモデルを業務に取り込みたい小規模チーム/個人開発者、社内に散在するエージェント・自動化スクリプトを統合管理したい技術系PdM、Slack/Discord常駐型ワークフローでのバックグラウンドタスク常時実行を求める運用担当者、セルフホストでガバナンスを保ちたい情シス。",
     "reproducibility": {
       "level": "hard",
-      "reason": "MCP/Skill/メモリ/IMゲートウェイ/モデルルーティングを統合した本格プラットフォームで、Marketplaceとコミュニティ規模が競争力の核。1〜3ヶ月でクローン構築は困難。"
+      "reason": "OSS基盤コピーは容易だが、31万スキル・5.9万MCPサーバの規模、Star数とコミュニティ、長期記憶・並列オーケストレーションの作り込みは個人開発では再現困難。"
     },
     "signals": [
-      "Vercel CEO Guillermo Rauchが言及するなど海外で著名コミュニティの関心",
-      "LobeChat時代から日本語記事(LEXIA等)で複数解説されており既知ブランド",
-      "Skill 31万+ / MCPサーバー 5.9万+の大規模エコシステムを既に保有",
-      "$1〜$46の細かい価格帯でフリーミアム+サブスク",
-      "Product Hunt 494 upvotes / 88コメントと初動が好調"
+      "Product Hunt 494 upvotes / 88 comments の高い反応",
+      "Vercel CEO Guillermo Rauch ら著名人の言及",
+      "31万+スキル・5.9万+MCPサーバの巨大エコシステム",
+      "OSS版LobeChatが日本語ドキュメント整備済みで国内認知あり",
+      "$1〜$46の階段プランで個人〜法人まで広く取り込み"
     ],
     "concerns": [
-      "OpenAI/Anthropic/Slack/Salesforce(Agentforce)の純正マルチエージェントと正面衝突",
-      "コア機能はOSSのため差別化は運用層・Skill/MCPのキュレーションに依存",
-      "クラウド並列実行はLLMコストとレート制限がボトルネック",
-      "エージェントが個人情報や業務データを横断するため日本での同意設計・委託先管理が複雑",
-      "日本語UI翻訳はあるが商習慣(承認フロー・稟議)への適合は限定的"
+      "OSS+SaaSの両立で課金転換率が読みにくい",
+      "Difyや純正Slackbot/Agentforce等の強い競合が日本市場に既に存在",
+      "個人情報保護法改正で国外サーバ・第三者提供の取扱が厳格化中",
+      "クラウド並列実行のLLM推論コストでマージン圧迫の恐れ",
+      "MCP/スキル品質のキュレーションがプラットフォーム責任として重い"
     ]
   },
   "japan_fit": {
-    "japan_fit_score": 5,
-    "verdict": "skip",
+    "japan_fit_score": 6,
+    "verdict": "watch",
     "axes": {
       "demand": {
         "score": 7,
-        "reason": "日本でも2025年以降「AIエージェント元年」とされ、マルチエージェント・オーケストレーションが2026年の主要トレンドに挙がる。国内AIエージェント市場予測は2029年135億円規模。LobeChat時代から日本語解説記事が複数存在しブランド認知あり。"
+        "reason": "国内のマルチエージェント・オーケストレーション関心は2026年に主要トレンド化、CAT.AIやマネーフォワード等が解説記事を出すなど需要シグナルは強い。一方で本格課金は大企業中心で、個人/SMBの月額数万円帯は探索フェーズ。"
       },
       "competition": {
-        "score": 3,
-        "reason": "Salesforce Agentforce、Slack AI Agents、ロリポップAIエージェントクラウド、ジーニー、OPERA TECHなど国内外の競合が密集。2026年版国内比較で19社が並ぶ激戦領域で、汎用CAO層は飽和に向かう。"
+        "score": 4,
+        "reason": "Dify(国内CyberAgentで20%社員利用)、JAPAN AI AGENT、PKSHA、Slack Agentforce等の強豪が先行。OSSベースの差別化はLobeHub側にもあるが、日本語UI・サポートで先行勢が優位、新規参入の摩擦は大きい。"
       },
       "regulation": {
         "score": 6,
-        "reason": "AI専用法はないが、個人情報保護法(同意・委託先管理)、特定電子メール法(自動通知)、電気通信事業法(外部送信規律)が関係。3年見直しでAI向け同意要件緩和も議論中。致命的規制ではないが設計次第でリスク。"
+        "reason": "個人情報保護法の3年ごと改正方針(2026年1月)でAI開発時の第三者提供ルールが整理進行中。クラウド並列実行・外部チャネル連携は越境データ移転・第三者提供の論点を抱え、エンプラ販売時は約款整備が必須。"
       },
       "localization": {
-        "score": 7,
-        "reason": "既に日本語UI・日本語解説が存在し、OSSベースで翻訳容易。Skill/MCPはAPI/構造化中心でローカライズ負荷は低い。ただしIMハブとしてLINE/Chatwork未対応は国内導入の障害になり得る。"
+        "score": 6,
+        "reason": "LobeChat時代から日本語UI・ドキュメントは整備済みだが、サポート・請求書・SLAなど商習慣面の対応は未確認。MCPマーケットも英語/中国語中心で、国内SaaS(Chatwork等)連携の充実度は要検証。"
       },
       "business_custom": {
-        "score": 4,
-        "reason": "稟議・電子契約・経費精算など日本固有ワークフローへの最適化なし。Slack/Discord前提は国内大手で採用率に偏りがあり、LINE WORKS/Chatwork/Teams中心の中小企業に届きにくい。検索で根拠未確認の部分含む。"
+        "score": 5,
+        "reason": "Slack/Discord常駐型は日本SMBの一部に浸透するも、依然メール・電話・対面承認文化が主流。エージェントへの権限委譲、24時間運用の意思決定は稟議文化と摩擦があり、エンプラ販売はPoC長期化の傾向。"
       }
     },
     "existing_competitors_jp": [
       {
-        "name": "ロリポップ！AIエージェントクラウド",
-        "url": "https://lolipop.jp/ai/agent-cloud/",
-        "note": "GMOペパボが提供。OpenClaw/Hermes Agentを1クリックで構築でき、Slack/Discord/Telegram対応。月1,200円で個人〜小規模向けの直接競合。"
+        "name": "Dify",
+        "url": "https://dify.ai/jp",
+        "note": "国内認知トップクラスのOSS LLMアプリ基盤。CyberAgent全社利用、ノーコード・マルチエージェント対応、日本語UI・パートナーSI多数。LobeHubと最も直接競合する位置付け。"
       },
       {
-        "name": "Salesforce Agentforce (日本)",
-        "url": "https://www.salesforce.com/jp/agentforce/multi-agent-orchestration/",
-        "note": "マルチエージェント・オーケストレーションをSlackから操作可能。エンタープライズ向けで、CRM/業務SaaS連携を網羅する強力な競合。"
+        "name": "Slack Agentforce / Slackbot",
+        "url": "https://slack.com/ai-agents",
+        "note": "Slack純正のAIエージェント、国内提供開始済み。既存Slack有償ユーザー基盤と連携深度で圧倒的、Slack中心ワークフロー層では本命競合。"
       },
       {
-        "name": "Slack AI Agents (Slackbot進化版)",
-        "url": "https://www.watch.impress.co.jp/docs/news/2079286.html",
-        "note": "2026年1月にSlackbotがパーソナルAIエージェント化し国内提供開始。MCP統合で外部ツール拡張。LobeHubのIMハブ価値と直接競合。"
+        "name": "JAPAN AI AGENT",
+        "url": "https://japan-ai.co.jp/agent/",
+        "note": "20以上の業務ツール連携、日本語・国内商習慣特化の法人向けAIエージェント。中堅企業の置き換え案件で先行。"
       },
       {
-        "name": "ジーニーグループ 日本語特化型自律AIエージェント",
-        "url": "https://geniee.co.jp/",
-        "note": "日本語特化の自律エージェントを展開。日本商習慣・言語対応で差別化を狙う国内勢として注目。詳細仕様は検索で根拠未確認。"
+        "name": "PKSHA Communication Cloud",
+        "url": "https://aisaas.pkshatech.com/",
+        "note": "日本語精度高くFAQ・チャットボット領域で実績。エージェント化路線でLobeHub等のグローバル勢と棲み分け競争中。"
       }
     ],
     "regulatory_findings": [
       {
-        "law": "個人情報保護法",
-        "impact": "エージェントが業務データ・連絡先・記憶を横断的に扱うため、利用目的の特定・第三者提供/委託先管理・越境移転に関する同意設計が必要。3年見直しでAI向け統計利用の同意緩和が議論中だが現時点では厳格運用が前提。"
+        "law": "個人情報保護法（2026年改正方針）",
+        "impact": "AI開発・運用時の第三者提供・要配慮個人情報取得に新ルール検討中。クラウド並列実行で個人データを国外LLMに渡す場合、越境移転同意・第三者提供記録・委託契約の整備が必須。"
       },
       {
-        "law": "電気通信事業法(外部送信規律)",
-        "impact": "ブラウザ/IMから外部AIサービスへユーザー情報を送る構成は外部送信規律の通知/公表義務の対象となり得る。UIへの開示と取得情報明示が必要。"
-      },
-      {
-        "law": "特定電子メール法 / 特定商取引法",
-        "impact": "エージェントが営業メールや顧客通知を自動送信する用途は、オプトイン取得や送信者表示義務に抵触する恐れ。EC/マーケ用途で要設計。"
-      },
-      {
-        "law": "著作権法",
-        "impact": "Skill/Pages生成物の学習・出力が他者著作物を含む場合の侵害リスク。日本の30条の4の解釈と、商用出力時の取扱いを利用規約・モデル選択で整理する必要。"
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "Slack/Discord等を経由するメッセージ通知や利用解析でユーザー情報を外部送信する場合、公表・通知義務の対象になり得る。SaaS提供時のプライバシーポリシー整備が必要。"
       }
     ],
-    "opportunity": "日本独自切り口としては、(1)LINE WORKS/Chatwork/Microsoft Teams/Slack日本テナント向けの「国産IMゲートウェイ＋承認ワークフロー」を被せた業務向けCAO、(2)freee/マネーフォワード/kintone/SmartHRなど国産SaaS群のSkill/MCPパッケージを公式キュレーションし、稟議・電子契約・経費・労務まで横断する「日本SaaSオーケストレーター」、(3)地方中小企業向けに日本語LLM(国産モデル含む)を既定にした安価セルフホスト版＋伴走支援、(4)コンプライアンス(個人情報・外部送信規律・電子帳簿保存法)に組み込みで対応する監査ログ・委託先管理機能。汎用CAO層を競うのではなく「日本の業務SaaSハブ」に役割を絞ることで差別化余地がある。",
-    "rationale": "LobeHubは2026年に主要トレンドとなるマルチエージェント・オーケストレーションの代表格で、Skill 31万・MCP 5.9万の規模感とOSSコミュニティが強み。日本でもLobeChat時代から認知があり需要は高い。一方、Salesforce Agentforce、Slack AI Agents(2026年1月国内提供)、ロリポップAIエージェントクラウド、ジーニー日本語特化エージェントなど国内外の競合が既に密集し、汎用CAO層は飽和方向。OSSベースゆえ差別化は運用・キュレーション・コンプラに移り、規制(個人情報保護法/電気通信事業法/特定電子メール法)とIMハブの国内偏在(LINE WORKS/Chatwork未対応)が国内独自開発の足枷になる。総合スコア5は「skip」で、汎用クローンは推奨せず、特定SaaS群(freee/MF/kintone/SmartHR)や業種(EC/コミュニティ運営)に絞った日本特化レイヤーへの転用を検討する位置付け。"
+    "opportunity": "国内では『マルチエージェントを一画面で運用したい』ニーズが2026年に立ち上がる一方、Difyはノーコード構築寄り、Agentforceは大企業向け、JAPAN AI AGENTは業務テンプレ寄りと、各社の重心はずれている。LobeHubはOSSの拡張性と既存IM(Slack/Discord/iMessage)へのプッシュ統合に強みがあり、『社外SaaSにログインしない、Slack上で完結する個人向けエージェント運用』のニッチは未充足。インディハッカー・個人事業主・小規模SaaS運営者向けに、日本語MCPマーケット+請求書発行+越境移転対応を整えれば差別化余地はある。",
+    "rationale": "市場機会としては『AIエージェント・オーケストレーション』というトレンドの追い風が確実にあり、需要軸は7点が妥当。ただ事業の入口で直撃する競合(Dify、Slack Agentforce、JAPAN AI AGENT)が強く、日本語サポートと商習慣対応で先行されており競合軸は4点止まり。規制は2026年改正の途中で動的、グローバルSaaSとして越境移転論点を抱えるため6点。ローカライズはLobeChat時代から日本語UIが入っており文字面はクリアだが、請求書/SLA/カスタマーサクセスは未確認で6点。商習慣は権限委譲・稟議の壁で5点。総合6点でwatch判定が妥当。OSS派生という性質上、コミュニティ動向と日本パートナーSIの参入を6〜12か月モニタしてからbuild判断するのが現実的。個人開発者が同じ土俵で直接競うのは推奨しない。"
   },
-  "japan_fit_at": "2026-05-23T19:20:00",
-  "review_guide_at": "2026-05-23T19:20:00"
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "$1〜$46の階段型は個人〜小規模法人を吸い上げやすい。ただしOSS版が並走するため、有償転換率は通常SaaSより低くなりがち。LLM推論コストの転嫁設計次第で粗利が大きく振れる。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本のAIエージェント市場は2029年135億円規模の予測で大きくはない。SMB+個人開発者セグメントは潜在3〜5万社規模だが、月額1〜5万円帯の支払い意思を持つ層は限定的、現実的なリーチ市場は数千社レベル。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "OSSコミュニティ・GitHub経由の自然流入は強いが、日本でDify並みの認知獲得には日本語コンテンツ・SI連携・補助金対応が必須で個人開発者には荷が重い。本家LobeHub自体のGTM戦略も招待制で未確立。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "2026年はオーケストレーション本命年で追い風だが、Slack/Salesforce/Microsoftの純正エージェント解禁と重なり競合密度が一気に上がるタイミング。半年〜1年遅れると差別化窓は急速に閉じる。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "OSS派生プラットフォームの運用は、スキル/MCP品質キュレーション、LLM推論コスト管理、24時間並列実行の信頼性担保が必要で個人運用は厳しい。本家OSSへの貢献やニッチ統合の派生ならsolo可能。"
+      }
+    },
+    "rationale": "本家LobeHubが日本進出した場合の事業性として評価すると、収益化は階段プランで設計上はワーク(6点)、市場規模は『可能だが大きくはない』水準(6点)、GTMは日本語認知の壁とDify先行で4点、タイミングは2026年の窓があるが急速に閉じる7点、ソロ運用適性は3点と低い。加重平均で5点。総合してwatch〜skip境界で、個人開発者が同事業の日本ローカル版を作る選択肢は推奨しない。代替案として(a)LobeHub OSSコア上に動く日本企業向けMCPコネクタ集(Chatwork/freee/MoneyForward/Notion JP等)を作って販売、(b)LobeHub Agent Marketplace向けの日本語業務スキル単体販売、(c)Dify/LobeHubのSI/構築支援、のいずれかが個人〜小規模チームの現実的な参入点。直接対抗は資本・人員・営業力で勝てない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3500,
+      "plans": [
+        "Free: 個人/月10エージェント・5MCP接続まで・コミュニティサポート",
+        "Pro 月額1,480円: 個人開発者向け、無制限エージェント・優先実行キュー",
+        "Team 月額4,800円/席: 小規模チーム向け、共有Workspace・監査ログ",
+        "Business 月額12,000円/席: 中堅向け、SAML・請求書払い・SLA",
+        "Enterprise 個別: セルフホスト・専任サポート・データレジデンシー対応"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AIエージェントを業務に組み込みたい日本のインディハッカー・1〜30名規模のSaaSスタートアップ・受託開発会社の技術リード層。Slack/Discord常駐型の業務文化を持ち、月額数千円〜1万円台の自腹/部門裁量で導入判断ができる層。",
+      "target_count": 30000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 1575000
+    },
+    "recommended_gtm": [
+      "GitHub/Zennでの日本語チュートリアル連載と『LobeHubで30分でSlackエージェント』系コンテンツ",
+      "Difyとの併用パターンの提示(構築はDify、常駐運用はLobeHub)で需要を奪わず取り込む",
+      "国内MCPコネクタ(Chatwork/freee/MoneyForward/Notion JP)を作って公式マーケットに掲載しブランド露出",
+      "個人開発者コミュニティ(IndieHackers JP/Zenn/X)でアンバサダー獲得",
+      "中小企業デジタル化・AI導入補助金2026に対応するSIパッケージ化(SI法人と組む)",
+      "セルフホスト版を打ち出して情シス向け不安(越境移転)を解消"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Dify・Slack Agentforce・JAPAN AI AGENTの先行で日本語認知の壁が高い",
+      "OSS版がカニバって有償転換率が想定を下回る",
+      "個人情報保護法改正・越境データ移転規制で大企業案件が止まる",
+      "LLM推論コストが価格に乗らず粗利が圧迫される",
+      "本家LobeHub自身の日本ローカライズ進出で個人開発の派生事業が陳腐化"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z",
+  "business_viability_at": "2026-05-23T19:30:00Z",
+  "advisor_view_at": "2026-05-23T19:30:00Z"
 }

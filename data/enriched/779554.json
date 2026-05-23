@@ -62,99 +62,165 @@
   ],
   "ph_enriched_at": "2026-05-23T19:05:42",
   "landing_meta": "Build Web-Apps 10x Faster with AI & No-Code | WeWeb — WeWeb is a powerful AI-driven no-code platform that lets you create production-ready web apps – fast, flexible, and with zero vendor lock-in.",
-  "landing_text": "Build Web-Apps 10x Faster with AI & No-Code | WeWeb Build with AI, edit with no-code. → Select a workspace: Select a workspace Creating your project Oops! Something went wrong while submitting the form. Trusted by Fortune 500 companies Get started Log in or create a free account to start building. Login Sign Up X Full Control, Code Optional Generate web-apps in seconds with AI, then fine-tune every detail in our visual editor — no coding required. Build with AI Ask WeWeb AI to create a full web-app for you. It can generate complete pages, databases, logic, and coded components for you. Edit visually Use WeWeb’s drag-and-drop editor to edit anything you want visually, from simple pixel changes to complex workflows with branching. Publish (or export code) Launch in one click on a global CDN, or export and self-host production-ready code for complete control. Trusted by founders & Fortune 500s Whether you’re building your first MVP or managing apps at scale, WeWeb helps teams move fast, customize deeply, and grow without limits. ← → Internal tools Compliance SaaS & portals All industries Marketplace Recruitment Forecasting SaaS Climate Tech Internal tools Healthcare professionals Internal tools Recruitment Learning platform Engineering Internal Tools Healthcare professionals Internal tools SaaS SaaS Real estate SaaS Internal Tools SMBs and Early-stage Startups SaaS FinTech Internal tools Entertainment Internal Tools Logistics, Supply Chain Built to scale The standards of code, with no-code. Scale users, not costs. Scale your audience with confidence. We don't charge per app user. Extend beyond no-code. Import and edit custom coded components directly inside WeWeb for full flexibility and control. No lock-in. Full ownership. Export a Vue.js SPA and deploy on-premise or to any cloud provider. Your code, your infrastructure. Enterprise-grade flexibility. WeWeb’s modular architecture connects to your preferred stack without compromising performance. Separation of concerns.",
+  "landing_text": "Build Web-Apps 10x Faster with AI & No-Code | WeWeb Build with AI, edit with no-code. → Select a workspace: Select a workspace Creating your project Oops! Something went wrong while submitting the form. Trusted by Fortune 500 companies Get started Log in or create a free account to start building. Login Sign Up X Full Control, Code Optional Generate web-apps in seconds with AI, then fine-tune every detail in our visual editor — no coding required. Build with AI Ask WeWeb AI to create a full web-app for you. It can generate complete pages, databases, logic, and coded components for you. Edit visually Use WeWeb’s drag-and-drop editor to edit anything you want visually, from simple pixel changes to complex workflows with branching. Publish (or export code) Launch in one click on a global CDN, or export and self-host production-ready code for complete control. Trusted by founders & Fortune 500s Whether you’re building your first MVP or managing apps at scale, WeWeb helps teams move fast, customize deeply, and grow without limits. ← → Internal tools Compliance SaaS & portals All industries Marketplace Recruitment Forecasting SaaS Climate Tech Internal tools Healthcare professionals Internal tools Recruitment Learning platform Engineering Internal Tools Healthcare professionals Internal tools SaaS SaaS Real estate SaaS Internal Tools SMBs and Early-stage Startups SaaS FinTech Internal tools Entertainment Internal Tools Logistics, Supply Chain Built to scale The standards of code, with no-code. Scale users, not costs. Scale your audience with confidence. We don't charge per app user. Extend beyond no-code. Import and edit custom coded components directly inside WeWeb for full flexibility and control. No lock-in. Full ownership. Export a Vue.js SPA and deploy on-premise or to any cloud provider. Your code, your infrastructure. Enterprise-grade flexibility. WeWeb’s drag-and-drop editor connects to your preferred stack without compromising performance. Separation of concerns.",
   "pricing_signals": [
     "pricing"
   ],
   "landing_fetched_at": "2026-05-23T19:05:42",
-  "description_ja": "AIで生成しノーコードで編集できる本番品質Webアプリビルダー",
-  "summary_ja": "WeWeb 3.0はAIプロンプトでフルWebアプリを自動生成し、ドラッグ&ドロップのノーコードエディタで細部まで編集できるYC出資のプラットフォーム。Vue.js出力とコードエクスポートでベンダーロックインを回避できる。",
+  "description_ja": "AIで生成し、ノーコードで自由に編集できるWebアプリビルダー",
+  "summary_ja": "WeWeb 3.0はAIプロンプトでWebアプリを自動生成し、ドラッグ&ドロップエディタで画面・ロジック・DBを視覚的に編集できる。Vue.jsコード書き出しも可能で、ベンダーロックインを回避しつつスケール可能なSaaSやポータルを構築できる。",
   "review_guide_ja": {
-    "what": "WeWeb 3.0はAI生成と本格的なノーコードエディタを統合したWebアプリ開発プラットフォーム。プロンプトでUI・ワークフロー・データ構造を含むフルアプリケーションを自動生成した後、ドラッグ&ドロップのビジュアルエディタで各要素を視覚的に編集できる。AI生成物の中身が見える点を強みとし、生成後の「80%の壁」（編集不能・ブラックボックス）を解消する。出力はVue.js SPAで、グローバルCDNへのワンクリック公開のほか、コードをGitHub経由でエクスポートしオンプレやクラウドへ自己ホストすることも可能。Airtable・Xano・Google Sheetsなど外部DBと連携し、独自データベースは持たない方針。SaaS製品、AIネイティブアプリ、社内ツール、クライアントポータル、ERP/CRMなど幅広い用途に対応し、PwC・L'Oréal・Décathlonなどエンタープライズでの採用実績がある。ユーザー数課金がなく、スケール時の費用負担が線形に増えないのも特徴。",
-    "for_who": "非エンジニアの個人創業者、スタートアップ、スケールアップ、社内ツールを内製化したい企業のオペレーション部門。AI生成だけでは満足できず、UI/ロジック/DBを自分で完全に制御したいパワーユーザー寄りのノーコーダーが主要ターゲット。",
+    "what": "WeWeb 3.0は、AIによる自動コード生成（バイブコーディング）と、ノーコードのビジュアルエディタを統合したWebアプリビルダー。プロンプトでページ・ワークフロー・データベース込みのアプリを生成した後、ドラッグ&ドロップエディタで全要素を視覚的に編集できる点が特徴。BubbleやLovable、Bolt.newなどの競合と異なり、AI生成後も中身を理解しながら編集でき、Vue.jsの本番コードとしてエクスポートして自前ホスティングできるため『ベンダーロックインなし』を訴求。Supabase等のバックエンド連携、Fortune 500企業のPwC・L'Oréal・Décathlonでの導入実績、YC出資という背景を持つ。Internal Tool、CRM、ERP、クライアントポータル、AI-nativeアプリなど幅広いユースケースに対応。",
+    "for_who": "AI生成の速度と、ノーコードの編集自由度の両方を欲しがる非エンジニア起業家・スモールチーム・社内ツール担当者。Lovable等のAI生成だけだと80%で詰むと感じている人、Bubbleのロックインを嫌う人、Vue.jsで自前運用したいエンジニアも対象。",
     "reproducibility": {
       "level": "hard",
-      "reason": "AI生成基盤、独自エディタIDE、Vue.jsコードエクスポート、外部DB統合、CDN配信など実装範囲が広く、UX完成度と運用安定性のバー（Fortune500採用級）が高いため模倣難度は高い。"
+      "reason": "AIアプリ生成・ビジュアルエディタ・コード書き出し・スケーラブルなホスティング基盤を統合する必要があり、個人開発で同等品を作るのは現実的に困難。"
     },
     "signals": [
-      "PH 278 upvotes / 86 comments の高い反応",
-      "YC出資・PwC/L'Oréal/Décathlonなどエンタープライズ採用実績",
-      "AI生成→ノーコード編集という明確な市場課題（80%の壁）への解",
-      "Vue.jsコードエクスポートでベンダーロックイン回避を訴求",
-      "ユーザー数課金なしの料金体系"
+      "Product Hunt 278 upvotes / 86 comments と高いエンゲージメント",
+      "YC出資・PwC/L'Oréal/Décathlon導入というエンタープライズ実績",
+      "AIアプリビルダー領域でLovableが2か月で$20M ARR到達するなど市場が急成長",
+      "コード書き出し（Vue.js SPA）対応でロックイン懸念を打ち消す設計",
+      "20% lifetime discountのPHコードでアーリーアダプター獲得を狙う"
     ],
     "concerns": [
-      "Bubble・Webflow・Glide等の確立した競合が多い",
-      "AI生成精度・本番品質コードの実態は実プロジェクトで検証必要",
-      "日本語UI/日本語プロンプト精度・国内サポート体制が不明",
-      "外部DB依存のため初心者が完結させにくい学習曲線",
-      "エンタープライズ価格帯の透明性が低い可能性"
+      "Lovable, Bolt.new, v0, Bubble, Adaloなど競合密集領域で差別化維持が困難",
+      "AI生成精度は基盤LLM依存で、コスト高騰時に料金転嫁が必要",
+      "日本語UI非対応で国内非エンジニア層への浸透ハードル",
+      "ノーコード受託開発市場はBubble代理店が既に形成済み",
+      "シート課金＋ホスティング課金の二段構造で価格表が複雑"
     ]
   },
   "japan_fit": {
-    "japan_fit_score": 6,
-    "verdict": "watch",
+    "japan_fit_score": 5,
+    "verdict": "skip",
     "axes": {
       "demand": {
-        "score": 7,
-        "reason": "日本のノーコード/ローコード市場はIDC Japan調べで2023年1,225億円、2028年2,701億円に拡大見込み。中小企業DXと内製化需要が追い風で、AI×ノーコードへの関心は高い。"
+        "score": 6,
+        "reason": "日本のローコード/ノーコード市場はIDC予測で2028年に2,701億円規模に拡大、バイブコーディングも2026年に主流化が進む。AIでアプリを生成したい非エンジニア需要は確実に存在。ただしWeWeb自体の国内認知は限定的で、Bubble/STUDIOに比べると検索ボリュームは小さい。"
       },
       "competition": {
-        "score": 5,
-        "reason": "国内ではkintone（42,000社超、シェア16.8%）、STUDIO（15万ユーザー超）、Adalo（14.6%）、Bubble（11.6%）など強力な競合が密集。Bubble特化の受託会社も多数存在し、参入余地は限定的。"
+        "score": 3,
+        "reason": "本家WeWebがグローバルで先行し、Bubble・Lovable・Bolt.new・v0・Adalo・STUDIO・Google AI Studioが既に日本でも紹介・利用されている。個人開発で『AI生成＋ノーコード編集＋コード書き出し』を統合した同等品を作るのは非現実的で、競合密度が極めて高い。"
       },
       "regulation": {
         "score": 8,
-        "reason": "Webアプリ開発基盤として規制負担は軽微。ユーザーが個人情報を扱うアプリを作る場合は個人情報保護法の責任が利用者側に発生するが、プラットフォーム自身への直接規制は限定的。"
+        "reason": "Webアプリビルダー領域に特有の業法規制はほぼ無く、個人情報保護法・電気通信事業法の届出義務（外部送信規律など）に注意すれば運用可能。生成物自体の著作権は議論があるが、ツール提供側のリスクは限定的。"
       },
       "localization": {
         "score": 4,
-        "reason": "公式の日本語UI・日本語プロンプト最適化・国内決済（請求書払い）・日本語サポートの提供状況が検索で根拠未確認。STUDIO等の国産が日本語UXで先行しており参入には深いローカライズが必要。"
+        "reason": "WeWeb公式は英語UIのみで日本語対応の確認情報なし。日本の非エンジニア層はSTUDIOやkintoneのような日本語UIに慣れており、英語ノーコードは学習ハードルが高い。プロンプトの日本語精度・帳票/和文フォント・全角対応など細かい問題も発生しやすい。"
       },
       "business_custom": {
         "score": 5,
-        "reason": "日本企業は受託開発依存・ハンコ稟議・段階的検証文化が強く、海外SaaS直接導入よりパートナー経由が一般的。kintoneのオフィシャルパートナー500社超のような代理店網が必要となる可能性が高い。"
+        "reason": "日本のSMBは『パッケージ完成品』を好む傾向が強く、自分でアプリを組み立てる文化はSaaS先進企業・スタートアップに限られる。一方で大手はPwC・L'Oréal導入実績が刺さりやすく、コンサル/受託経由なら浸透余地あり。両極で温度差。"
       }
     },
     "existing_competitors_jp": [
       {
-        "name": "kintone（サイボウズ）",
-        "url": "https://kintone.cybozu.co.jp/",
-        "note": "国内ノーコード業務アプリのデファクト。42,000社超導入、市場シェア16.8%。2026年6月にkintone AIを正式提供開始し、AI×ノーコード領域でも先行。"
+        "name": "Bubble",
+        "url": "https://bubble.io/",
+        "note": "世界720万件以上のアプリ実績。日本ではEPICs・Swooo・c3reveなど正規代理店が形成済み。ノーコード受託開発のデファクト。"
       },
       {
         "name": "STUDIO",
         "url": "https://studio.design/ja",
-        "note": "国産ノーコードWeb制作プラットフォーム。15万ユーザー超、日本語UX完成度が高く、Editor AIでAI生成も統合。デザイン重視のサイト構築で強い。"
+        "note": "日本発のノーコードWeb制作プラットフォーム。日本語UIに完全対応、デザイナー層に強くLPサイト中心に普及。"
       },
       {
-        "name": "Bubble（日本パートナー経由）",
-        "url": "https://bubble.io/",
-        "note": "国内市場シェア11.6%。EPICs等の認定代理店が受託開発・内製化支援を展開。WeWebと最も直接競合するWebアプリ系ノーコード。"
+        "name": "Lovable",
+        "url": "https://lovable.dev/",
+        "note": "AIプロンプトでフルスタックReactアプリを生成。2か月で$20M ARR達成。日本のAI Biz Tools等で頻繁に比較記事化。"
       },
       {
-        "name": "Adalo",
-        "url": "https://ja.adalo.com/",
-        "note": "国内シェア14.6%。モバイルアプリ寄りだが日本語対応済みで認知が高い。Webアプリ用途ではWeWebと一部競合。"
+        "name": "Bolt.new",
+        "url": "https://bolt.new/",
+        "note": "ブラウザ内でAI生成・実行できるアプリビルダー。日本でもAINOW・MatrixFlow等で詳細に紹介され比較対象。"
+      },
+      {
+        "name": "kintone",
+        "url": "https://kintone.cybozu.co.jp/",
+        "note": "サイボウズの国産ノーコード基盤。BOXIL調査でノーコード/ローコードシェア1位。業務アプリ用途で圧倒的な国内シェア。"
       }
     ],
     "regulatory_findings": [
       {
         "law": "個人情報保護法",
-        "impact": "WeWebで作成されるアプリが個人情報を扱う場合、利用者（事業者）が個人情報取扱事業者として安全管理措置・第三者提供制限を遵守する必要。プラットフォーム側はデータ処理者として越境移転（EU/米国サーバー利用）の同意・通知対応が論点。"
+        "impact": "生成されたWebアプリで個人情報を扱う場合、利用目的の特定・第三者提供制限・安全管理措置が必要。WeWebはツール提供者だがDPA・SCC等を整備しないとB2B案件で導入NGになる。"
       },
       {
-        "law": "電気通信事業法",
-        "impact": "メッセージング・通知機能を実装するアプリを構築する場合、利用者側で外部送信規律（Cookie等のユーザー情報外部送信時の公表義務）への対応が必要。プラットフォーム自体は届出対象外と推定されるが利用者責任で確認要。"
-      },
-      {
-        "law": "特定商取引法",
-        "impact": "WeWebでECサイト・サブスク販売アプリを構築する利用者は特商法表記・通信販売規制の対象。プラットフォームは構築ツールに留まるが、テンプレートで特商法表記欄を提供できると国内採用で優位。"
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "Webアプリ運営者は2023年改正で外部送信情報の通知・公表義務あり。WeWebで生成したアプリのトラッキング/分析統合時にユーザー側で対応必須。"
       }
     ],
-    "opportunity": "「AIで作る→ノーコードで直す」という二段構えはAI生成ツールの「80%の壁」を解く明確な価値提案で、日本の内製化潮流にも適合する。特に中堅企業の社内ツール・クライアントポータル・業務SaaS領域はkintoneとは異なるレイヤー（外向きWebアプリ）であり、kintoneでカバーしきれないUI重視のニーズに刺さる余地がある。日本市場参入時は、(1)公式日本語UI/プロンプト最適化、(2)国内認定パートナー網による受託・教育・内製化支援、(3)個人情報保護法・特商法対応テンプレート、(4)請求書払い対応——を揃えれば、Bubble代替として中堅SIerやDX支援会社経由で広がる可能性がある。",
-    "rationale": "需要面はノーコード市場の二桁成長と内製化トレンドで高めだが、競合面ではkintone・STUDIO・Bubble・Adaloという確立プレイヤーが密集し、シェア争いは厳しい。規制面は利用者責任が中心でプラットフォーム自身への障壁は低い。一方でローカライズと商習慣（パートナー経由販売・請求書払い・日本語サポート）の障壁が大きく、現状の英語UI/海外SaaSのままでは中小企業への直接浸透は難しい。総合してスコア6＝watch判定。WeWebが日本法人や認定パートナーを設けて本格参入する動きが見えれば再評価する価値あり。自前で日本向け類似サービスを作る場合はSTUDIO/kintoneとの差別化（外向きWebアプリ×AI生成×コード所有権）を明確化する必要がある。検索で根拠未確認の項目は中庸スコアとした。"
+    "opportunity": "個人開発機会としては『WeWeb日本語化テンプレート販売』『日本のSMB向けWeWeb受託開発代理店』『WeWeb+生成AI+日本の業務テンプレ（請求書・労務）パッケージ』など周辺ビジネスに限定される。本体と同等のAIアプリビルダーを日本独自で作るのは技術投資・データ・モデルコスト面で個人スケールでは不可能。日本市場特化なら、STUDIOやkintoneが押さえていない『AIで業務アプリ生成＋日本語UI＋帳票/インボイス対応』のニッチに絞ったローカルプレイヤーが小さく刺さる余地がある。",
+    "rationale": "WeWeb自体は強力なプロダクトで日本市場でも需要はあるが、個人開発者・小規模チームが類似品を立ち上げるには競合過密・技術ハードル・本家のYC背景と資金力が大きな壁。日本ローカルでの主導権はSTUDIO（Web制作）・kintone（業務アプリ）・Bubble代理店網が既に握っており、AI生成領域もLovable/Bolt/v0が日本のAIメディアで頻繁に紹介され認知が進んでいる。日本語UIや法令対応など本家がカバーしにくい部分はあるが、本家が日本進出すれば一気に消える優位性で持続的な差別化は難しい。よって個人開発で『新規にWeWebクローン』を作るのはskip推奨。むしろWeWebそのものを使って日本の業務テンプレ・受託開発で稼ぐ周辺戦略が現実的。市場拡大の追い風（バイブコーディング主流化、ノーコード市場拡大）はあるが、独自性のあるポジショニングを設計しない限り赤い海。"
   },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "本家WeWebはシート課金＋ホスティング課金の月額モデルで、Lovable $25-50/月、Replit Core $25/月など類似帯の価格が成立済み。日本ローカル版でも月3,000〜10,000円のSaaSサブスクは取れる相場感。ただしAI生成コストが利益を圧迫しやすい。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "日本のノーコード市場はITRで2026年1,330億円、IDCで2028年2,701億円と拡大基調。ノーコード/AI開発の非エンジニアユーザーは数十万人規模に伸びると想定でき、市場自体は十分大きい。ただし対象セグメントを絞らないと埋もれる。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "Bubble代理店・STUDIO公式エコシステム・AIメディア（AINOW・MatrixFlow・AI Biz Tools）が情報発信の主導権を握っており、後発の個人開発が同じ土俵で認知を取るのは困難。SEO・YouTube・コミュニティで地道に積む必要があり、立ち上げに2年以上かかる。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "バイブコーディングが2026年に主流化、AIアプリビルダー領域はLovableの急成長で投資マネーも集まる旬の時期。日本でも非エンジニアのアプリ自作熱が高まっており、参入タイミングとしては悪くないが旬は短く2-3年で勝者が固まる可能性。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "AIアプリビルダー本体の運用はLLMコスト管理・コードジェネレータ精度・エディタ品質・スケーラブルホスティングなど個人で背負うには負荷大。サポート・SLA要求も法人顧客から強く、ソロ運用は実質困難。周辺サービス（受託・テンプレ販売）に絞れば可能。"
+      }
+    },
+    "rationale": "WeWebクローンや日本ローカル版を個人開発で事業化するのは事業成立性が低い。市場規模・タイミングは追い風だが、競合密度・GTM難易度・ソロ運用の重さで個人スケールでは戦えない。一方、WeWebそのものを使った受託開発・日本語テンプレ販売・コンサル業は十分成立し得る（Bubble代理店が成立しているのと同じ構図）。月額3,000-10,000円のサブスク単価・対象顧客10万-50万人規模・GTMはコンテンツSEO+YouTube+業界コミュニティの定石になるが、ソロでこの全てを回すのは現実的ではなくチーム化必須。結論として、新規プロダクトを作る側ではなく『WeWebを活かす側』に回るのが最も合理的で、本家と同質の事業を立てるのはconsiderよりno_go寄り。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 4500,
+      "plans": [
+        "Free: 1プロジェクト・WeWebサブドメイン公開のみ・コミュニティサポート",
+        "Starter 月額2,500円: 3プロジェクト・カスタムドメイン1・5万PV/月",
+        "Pro 月額6,800円: 10プロジェクト・カスタムドメイン3・25万PV/月・コードエクスポート",
+        "Team 月額18,000円: シート3名・無制限プロジェクト・SLA・優先サポート",
+        "Enterprise 個別見積: SSO・監査ログ・専任サポート・オンプレ書き出し"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本の非エンジニア起業家・スモールチームのSaaS創業者、社内DX担当者で、AIでアプリを生成しつつ自前で運用したい層。Bubbleでは重い・Lovableでは編集自由度に物足りなさを感じる中間層が主ターゲット。スタートアップ・SMB・受託開発会社を含む。",
+      "target_count": 150000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 3375000
+    },
+    "recommended_gtm": [
+      "WeWeb活用の日本語チュートリアルYouTube・noteで継続発信しSEO/SNS流入を獲得",
+      "Bubble・Lovable・Bolt.newとの比較記事をAIメディア（AINOW等）に寄稿し検索面を獲得",
+      "STUDIO/kintoneでは作れない『AI生成業務アプリ＋日本帳票テンプレ』の有償テンプレ販売",
+      "WeWeb受託開発代理店として法人案件を獲得（Bubble代理店モデルの移植）",
+      "X/Discordコミュニティで個人開発者向けハンズオンを月次開催しリード獲得"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家WeWebが日本語UI/サポートを正式提供すれば現地代理店優位は急速に消滅",
+      "Lovable・Bolt.new・Google AI Studioなど巨大資本のAIビルダーが日本浸透すれば差別化困難",
+      "LLM APIコスト高騰時に薄利化、価格転嫁すると顧客離反",
+      "個人情報保護法・電気通信事業法対応をテンプレ化できないと法人案件で詰む",
+      "AI生成精度の不安定さによる炎上・サポート負荷増大でソロ運用が破綻"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
   "japan_fit_at": "2026-05-23T19:30:00Z",
-  "review_guide_at": "2026-05-23T19:30:00Z"
+  "review_guide_at": "2026-05-23T19:30:00Z",
+  "business_viability_at": "2026-05-23T19:30:00Z",
+  "advisor_view_at": "2026-05-23T19:30:00Z"
 }

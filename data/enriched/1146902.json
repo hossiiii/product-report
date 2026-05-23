@@ -76,81 +76,146 @@
   "landing_text": "Regent | Version-Control for AI coding agents google-site-verification=02jOoO9KpLvXphZIHv-fSyY_hltynZT5ry4cxhbjVRg PUBLIC ALPHA Version Control for AI agent activity Undo, blame, checkout, and replay AI coding sessions locally. Regent captures every agent action so you stay in control. View on GitHub Get Started PUBLIC ALPHA Version Control for AI agent activity Undo, blame, checkout, and replay AI coding sessions locally. Regent captures every agent action so you stay in control. Get Started Email me here Looking for contributors What happend? Your agent edits 14 files while you get coffee What changed? Which prompt? Which prompt? Undo safely? Undo safely? When did it break? Who wrote this? ☕ Current context? Git tracks files. Regent tracks agents. View on GitHub Get Started Get Started $ rgt log See What Your Agent Did Git shows \"fix bug\". re_gent shows the conversation that fixed it. $ rgt log See What Your Agent Did Git shows \"fix bug\". re_gent shows the conversation that fixed it. $ rgt log See What Your Agent Did Git shows \"fix bug\". re_gent shows the conversation that fixed it. $ rgt blame Agents Deserve To Be Blamed Too Every line traced to its exact prompt. Three sessions, one file, complete audit trail. $ rgt blame Agents Deserve To Be Blamed Too Every line traced to its exact prompt. Three sessions, one file, complete audit trail. $ rgt blame Agents Deserve To Be Blamed Too Every line traced to its exact prompt. Three sessions, one file, complete audit trail. $ rgt sessions Multiple Agents, Zero Conflicts Each conversation gets its own branch. Work in parallel, no collisions. $ rgt sessions Multiple Agents, Zero Conflicts Each conversation gets its own branch. Work in parallel, no collisions. $ rgt sessions Multiple Agents, Zero Conflicts Each conversation gets its own branch. Work in parallel, no collisions. Built for the community Free FOREVER . Apache-2.0 License View on GitHub Get Started FAQs faqs Still have questions? Contact us and we’ll help you o",
   "pricing_signals": [],
   "landing_fetched_at": "2026-05-23T19:06:03",
-  "description_ja": "AIエージェントの作業履歴をGit的に管理するバージョン管理ツール",
-  "summary_ja": "AIコーディングエージェントの操作をステップ単位で記録し、コード変更を誘発したプロンプトを特定、セッションを横断したロールバックや差分確認・blameをローカルで可能にするOSSのCLIツール。",
+  "description_ja": "AIエージェントの作業履歴を追跡する『AI版Git』。プロンプトと差分を紐付け巻き戻し可能",
+  "summary_ja": "AIコーディングエージェントが行ったファイル編集を、発端となったプロンプト・セッション単位で記録し、blame・log・rewindで遡れるOSSツール。Apache-2.0でローカル動作、現状はパブリックα版。",
   "review_guide_ja": {
-    "what": "rgt log / rgt blame / rgt sessions などのCLIコマンドを通じて、Claude CodeやCursorといったAIコーディングエージェントの全アクション(ファイル編集・プロンプト・セッション)をローカルでキャプチャし、Gitとは別レイヤーでバージョン管理する。各ファイルの行単位で「どのプロンプトが書かせたコードか」をblameでき、セッションが/compactで圧縮・断片化されても履歴を保持。複数エージェントを並列実行してもセッションごとにブランチが切られ衝突しない。エージェントが14ファイルを暴走編集した時の原因特定、安全なundo、過去セッションの再生(replay)、チームメイトとのコンテキスト共有が主なユースケース。Apache-2.0のOSSでPublic Alpha段階。",
-    "for_who": "Claude Code / Cursor / Codex などのAIコーディングエージェントを日常的に使う個人開発者・OSS開発者、エージェントの暴走で本番事故を経験したスタートアップ、AIエージェント導入企業のSRE・プラットフォームエンジニア。エンタープライズ側では監査ログ要件の強いSIer・受託開発企業。",
+    "what": "Re_gentはAIコーディングエージェント（Claude Code・Cursor・OpenCode等）が行った一連のファイル変更を、発端となったプロンプト/セッションと紐付けて記録するローカルOSS（Apache-2.0）。`.regent/`ディレクトリに、BLAKE3で内容アドレス化されたスナップショットとSQLiteインデックスを保持し、`rgt log`でセッション履歴、`rgt blame`で各行を生成したプロンプトの追跡、`rgt show`で文脈確認、セッション毎のブランチ管理ができる。Gitが「ファイルが何に変わったか」を追跡するのに対し、Re_gentは「なぜ・どのプロンプトで変わったか」を補完する位置付け。現状はパブリックα版でCLI中心、無料・OSS提供。",
+    "for_who": "複数のAIコーディングエージェントを並行運用し、エージェントが大量編集した際に「いつ・どのプロンプトで壊れたか」を追跡したい中〜上級開発者。レビュー時間の短縮や監査ログを欲しがるシニア個人開発者・小規模チーム、AIエージェント基盤を内製している企業の生産性担当エンジニアが想定読者。",
     "reproducibility": {
       "level": "medium",
-      "reason": "ファイル監視・プロンプトキャプチャ・Git類似のローカルストレージ実装で技術的難易度は中程度。1〜3ヶ月で動くPoCは可能だが、複数エージェントCLIへの対応と信頼性確保には継続的な対応が必要。"
+      "reason": "コンテンツアドレス型ストレージとセッション追跡の仕組み自体は既存OSS（git, lakeFS等）から流用可能だが、各AIエージェントのプロンプト/ツール呼び出しをフックして取得する統合実装の幅が広く、安定運用までは工数が要る"
     },
     "signals": [
-      "Public Alpha段階でPH 170 upvotes・34コメントと反応良好",
-      "GitHub Issue #21645等でClaude Code本体にもrollback要望が出ている顕在化した課題",
-      "Cursorエージェントが本番DB+バックアップを9秒で消去した事件など、エージェント暴走による事故が報道されている",
-      "Apache-2.0でFree Foreverを宣言、開発者コミュニティの取り込み戦略が明確",
-      "セッション圧縮(/compact)後の履歴保持という具体的pain pointを解決"
+      "Product Hunt初日で170 upvote・34コメントとDev Tools系として平均以上の反応",
+      "Claude Code・Cursorそれぞれが/rewind・Checkpointを公式機能化しており、エージェント編集を巻き戻したい需要が顕在化",
+      "Git AI、Agent Blame、Selvedge等の競合OSS/RFCが同時多発しており市場テーマ性が強い",
+      "Apache-2.0で完全無料を明言、個人開発者・OSSコミュニティの初期採用ハードルが低い",
+      "BLAKE3・SQLite等の技術選定が堅実で、シニア層のレビュー耐性がある"
     ],
     "concerns": [
-      "Anthropic/Cursor等の本体側がチェックポイント機能を内蔵し始めており差別化が浸食される可能性",
-      "Free Forever宣言で収益化パスが不透明(チーム共有/SaaS版が必要)",
-      "外部API・DB等の副作用までは追跡できない(コメントでも指摘)",
-      "対応エージェントの種類とフックの実装コスト",
-      "ローカルストレージのみだとチーム共有・監査用途の訴求が弱い"
+      "Claude CodeとCursor自身がチェックポイント機能を内製済みで、外部ツールの必須性が弱まりやすい",
+      "「無料FOREVER」を打ち出している以上、収益化パスが現時点で見えずSaaS化は要追加企画",
+      "CLI中心UXのため、Cursor等GUIネイティブ層には日常導入のフリクションが高い",
+      "α版ゆえ複数エージェント・複数言語・bashコマンド経由の編集追跡など実運用での欠落が残る可能性",
+      "本家（米国OSS）が日本語ドキュメント・コミュニティを持っておらず、国内浸透には翻訳と布教の手間が必要"
     ]
   },
   "japan_fit": {
-    "japan_fit_score": 7,
+    "japan_fit_score": 6,
     "verdict": "watch",
     "axes": {
       "demand": {
         "score": 7,
-        "reason": "日本でもCursor/Claude Codeの利用が急速に普及しており、Publickey・ASCII・各社技術ブログでAIコーディングエージェント特集が頻出。エージェント暴走・監査ログ要件の議論も顕在化しており、開発者個人〜エンタープライズ双方で潜在需要は確認できる。ただし国内でこのニッチに特化した有償需要のシグナルは限定的。"
+        "reason": "国内エンジニア6割超がAIコーディングエージェントを採用しClaude Code・Cursorが急伸（Offers 2025/4調査）。AIエージェントが大量編集した結果のロールバック需要は顕在化しており、Claude Codeの/rewindやCursorのCheckpointに関する日本語記事も多数。AI生成コードの監査・追跡需要は今後も拡大見込み"
       },
       "competition": {
-        "score": 8,
-        "reason": "国内でAIエージェントの『活動』そのものをGit的にバージョン管理する直接競合は検索で確認できず。LayerXのAI Observability、Backlog AI、メタリアルのオーディットなどは存在するが領域が異なる。Cursor/Anthropic本体のcheckpoint機能が間接競合だが、国内特化プレイヤーは事実上不在。"
+        "score": 4,
+        "reason": "Claude Code/rewind・Cursor Checkpointが標準機能化しており、エージェント側でカバーされる領域と直接競合。さらにGit AI・Agent Blame・Selvedge等の海外OSSが同時多発で、差別化余地が狭い。日本独自の競合は確認できないが、外部ツール導入の必要性自体が下がる方向"
       },
       "regulation": {
         "score": 9,
-        "reason": "開発者向けローカルCLIツールであり、ユーザーデータも基本ローカル保存のため個人情報保護法・特商法等の直接的影響は軽微。チーム共有/SaaS化時のみ個情法の対応が必要になる。金商法・特電法等の業法適用は想定されない。"
+        "reason": "OSSの開発支援ツールであり、個人情報保護法・電気通信事業法などの直接規制は限定的。社内コード・プロンプトを.regent配下に保持するためデータ越境の心配が少なく、企業導入時の情報セキュリティ審査も通しやすい。検索でも国内特有の法規制リスクは確認できず"
       },
       "localization": {
-        "score": 8,
-        "reason": "CLIツールであり画面要素が少なく、コマンド・ドキュメント・エラーメッセージの日本語化で基本対応可能。Claude Code/Cursorを使う日本人開発者は英語UIに慣れているため翻訳優先度は中程度。深いUX改修は不要。"
+        "score": 5,
+        "reason": "CLIツールでUIテキストは限定的だが、ドキュメント・コミュニティが英語のみ。日本のシニア層は英語ドキュメントを読めるが、中小企業の現場浸透には日本語Readme・解説記事・Qiita/Zennでの紹介記事が必要。プロンプト言語依存はないため本体改修は軽い"
       },
       "business_custom": {
         "score": 5,
-        "reason": "日本企業の監査ログ・トレーサビリティ要求と相性は良い一方、エンタープライズSI現場では稟議・契約・サポート体制が必須で、OSS Free配布のままでは法人導入は進みにくい。受託開発の納品物として説明責任を果たす用途には適合する。"
+        "reason": "日本企業はAI生成コードの監査・トレーサビリティを重視する傾向があり、エージェントblame文化との相性は中程度。一方でCLI中心・ローカル運用という形態は、GUI/SaaS型を好む大企業情シスとは噛み合わせが弱く、検索でも国内エンタープライズ採用事例の根拠未確認"
       }
     },
     "existing_competitors_jp": [
       {
-        "name": "LayerX AI Observability関連の取り組み",
-        "url": "https://tech.layerx.co.jp/entry/snowflake-ai-observability",
-        "note": "Snowflake上でLLMアプリの品質管理・観測を行う取り組み。エージェント活動のVCSではないが、AI挙動の可視化という意味で隣接領域。自社利用中心で外販プロダクトではない。"
+        "name": "Claude Code (/rewind・チェックポイント)",
+        "url": "https://code.claude.com/docs/ja/checkpointing",
+        "note": "Anthropic公式の標準機能。プロンプト毎にチェックポイント作成、Esc+EscまたはSlash/rewindで会話/コード復元。多くの日本人開発者がデフォルトで使用済み"
       },
       {
-        "name": "メタリアル Metareal オーディット",
-        "url": "https://www.metareal.jp/",
-        "note": "内部リスク評価報告書作成のAIエージェント。監査領域のAIエージェントだが、開発者向けエージェント活動のVCSとは用途が異なる。間接的な参照として記載。"
-      }
-    ],
-    "regulatory_findings": [
-      {
-        "law": "個人情報保護法",
-        "impact": "ローカルCLIで完結する限り影響は軽微。ただしチーム共有・クラウド同期機能を提供する場合、プロンプト中に含まれる個人情報や顧客データが外部送信される可能性があり、利用規約・プライバシーポリシーで取扱いを明示する必要がある。"
+        "name": "Cursor Checkpoints",
+        "url": "https://cursor.com/docs/agent/chat/checkpoints",
+        "note": "Cursor Agentモードで編集毎にローカルスナップショット作成。Git履歴と分離。日本のCursorユーザー層に既に浸透している直接競合機能"
       },
       {
-        "law": "著作権法",
-        "impact": "エージェントが生成したコードを保存・再生する性質上、第三者OSSの取り込み履歴が記録される。直接的な規制違反リスクは低いが、Apache-2.0などライセンス遵守の運用設計が望ましい。"
+        "name": "Git AI",
+        "url": "https://usegitai.com/",
+        "note": "AI生成行ごとにモデル/プロンプト/トランスクリプトを紐付けるgit拡張。git blameのドロップイン代替を提供。海外OSSだが国内開発者も認知しやすい類似コンセプト競合"
+      },
+      {
+        "name": "Agent Blame",
+        "url": "https://github.com/mesa-dot-dev/agentblame",
+        "note": "Cursor/Claude Code/OpenCodeに自動統合し、AIが書いた行をGit履歴上で識別するCLI+ブラウザ拡張。Re_gentとほぼ同レイヤーの海外OSS競合"
       }
     ],
-    "opportunity": "日本独自開発の角度としては、(1) 受託開発・SIerの納品物として『AIが書いたコードの来歴証明』を提供するエンタープライズ版、(2) 国内クラウド(さくら・IIJ等)で完結するチーム共有SaaS、(3) Backlog/Redmineといった国内チケット管理ツールと連携し『どのチケットのどの指示でこのコードが生まれたか』を追跡するインテグレーション、(4) 個情法・金商法等の監査要件に対応した監査ログエクスポート機能、が考えられる。OSSコアは本家にコミットしつつ、日本企業向けのコンプライアンス層・チーム機能をSaaSで提供する戦略が現実的。",
-    "rationale": "AIコーディングエージェントの活動履歴をGit的に管理するという課題自体は、日本でも『エージェントが14ファイル暴走編集』『本番DB消去事故』のような事例で顕在化しつつあり、需要は中〜中上位。国内に直接競合がほぼ不在で参入余地は大きいが、Anthropic/Cursor本体のcheckpoint機能拡張が継続的脅威で、コア機能だけでの差別化は持続困難。一方、日本企業特有の監査ログ要求・受託開発の説明責任・既存チケット管理ツール統合という方向で価値を積み上げれば、エンタープライズ向けに独自の角度を取れる。OSS Free Foreverゆえ収益化パスは別途設計が必要。総合的にwatch判定とし、本家機能の進化と国内エンタープライズの監査要件動向を見極めつつ、Backlog連携やコンプライアンス対応SaaSとしての差別化検討を継続するのが妥当。",
-    "japan_fit_at": "2026-05-23T19:30:00"
+    "regulatory_findings": [],
+    "opportunity": "日本市場では『複数AIエージェントを横断したプロンプト由来監査ログ』をSaaSとしてエンタープライズ向けに提供できれば差別化余地がある。Claude Code/rewindはローカル限定・git push後のロールバック不可という制約があるため、re_gentのDAG型セッション履歴をベースに、チームでのプロンプト共有・コードレビュー連携・SOC2/ISMS監査証跡向け機能を上乗せすれば中小〜中堅IT受託会社の生産性担当者に刺さる。日本語Qiita/Zenn記事による布教と、Cursor/Claude Codeとの統合プラグインの順序付けが鍵。",
+    "rationale": "需要側は強く、AIエージェント編集の事故対策ニーズは国内開発現場で顕在化している。一方でClaude CodeとCursorが自前のチェックポイント機能を提供済みであり、本家OSSは『無料FOREVER』を掲げているため、外部ツールとして単独で課金導線を引くのは難しい。法規制リスクは低く、ローカル動作のためデータ越境問題もない。ローカライズ負担はドキュメント/コミュニティ整備が中心で技術的負担は軽いが、業務慣行との適合は中程度。トータルでは『今すぐbuild』には踏み込みづらく、本家の進化と、エンタープライズ向け監査SaaSとしての差別化余地を見ながら『watch』が妥当。仮に参入するなら、CLIラッパー＋日本企業向け監査ダッシュボード（プロンプト保持・行ごとの責任者ひも付け・GitHub PR連携）として垂直化する構成が現実的。"
   },
-  "japan_fit_at": "2026-05-23T19:30:00",
-  "review_guide_at": "2026-05-23T19:30:00"
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "本家がApache-2.0かつ『Free FOREVER』を明言しており、フォーク/二次SaaS化以外に直接的な課金導線がない。仮にチームコラボ/監査向けSaaSを上乗せしても、Claude Code/Cursorの内製機能と重複し、月額2,000-5,000円帯で十分な解約抑止を作るのが難しい"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内IT人材は約144万人（ヒューマンリソシア・経産省）、うちAIコーディングエージェント採用層は6割超だが、外部の編集監査ツールに課金する層はさらに絞られ数千〜数万人規模と推定。検索で国内有償ユーザー数の直接根拠は未確認、中庸寄り評価"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "OSS開発者コミュニティ経由のグロースは可能だがマネタイズと結びつきにくい。日本ではQiita/Zenn・Findy・XのDevRel系発信が主流で個人開発者には届くが、エンタープライズ営業はSI経由が必要でソロでは難航。検索でこの種の国内GTM成功事例の根拠未確認"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "Claude Code/Cursor普及期と完全に重なり、エージェント編集の事故・監査需要がピーク帯。一方で本家AIベンダー側が標準機能を急速に追加中のため、機会窓は12-18ヶ月程度と短い。先行参入の旨味はある"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "本家OSSのフォーク・運用は可能だが、複数AIエージェントへの統合・追従、企業向け監査ダッシュボード、コミュニティサポート、日本語ドキュメント維持を1人で続けるのは負荷が高い。CLIツール特有のサポート工数（環境差・OS差）もボトルネックになる"
+      }
+    },
+    "rationale": "事業として見るとマネタイズが最大の壁。本家がApache-2.0で完全無償提供を明示しているため、同等機能のSaaSは価格優位を作れず、上乗せ価値（チームコラボ・監査・PR連携）でしか課金できない。国内市場の母数自体はAIエージェント採用が広がる中で増加基調だが、外部の編集トレース専用ツールに月額数千円を払う層は限定的で、現実的なARPUは2,000-5,000円帯、有償化率も低めと見込まれる。GTMはOSS文脈での発信と相性が良いものの、収益化への変換は時間がかかる。タイミングは追い風だが、本家AIベンダーの内製速度の方が速く、機会窓は1-1.5年程度。ソロ開発で持続させるには、本家OSSを利用しつつ国内エンタープライズ向け監査SaaSへ垂直化するか、Claude Code/Cursor用のプラグイン+SaaSバックエンドに絞る等、スコープを思い切って絞らないと続かない可能性が高い。総合的にviability_scoreは4で『skip寄りのconsider』レンジ。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3000,
+      "plans": [
+        "OSS Free: 本家re_gent同等のローカルCLI、無料",
+        "Pro 月額1,980円: チーム共有プロンプトリポジトリ、GitHub PR連携",
+        "Team 月額4,980円/席: 監査ダッシュボード、複数AIエージェント横断blame、ロール管理",
+        "Enterprise 個別見積: SSO・SOC2/ISMS向け監査証跡エクスポート、SIer向けOEM",
+        "Lifetime 49,800円: 個人開発者向け買い切り（初期顧客獲得用）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AIコーディングエージェント（Claude Code/Cursor等）を日常業務で複数並行運用している国内の中堅IT受託・SaaS企業のリードエンジニアと、AI支援開発の監査証跡を必要とする情シス・QA担当者。法人内2〜20名規模のチーム単位で導入を狙う",
+      "target_count": 20000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 600000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『Claude Code /rewindでは戻せないgit push後のAIミスをre_gentで救う』系の実践記事を月2本投下",
+      "XでClaude Code・Cursor日本コミュニティ向けに、blame/sessions機能のデモGIFを定期投稿",
+      "Findy/LAPRAS等の開発者プラットフォームでAIエージェント運用テンプレとしてサンプル公開",
+      "中堅SIerのDevOps/AI推進部門に対し、ISMS監査向け『AIエージェントによるコード変更の証跡』ユースケースで個別営業",
+      "Claude Code/Cursorの公式プラグインマーケットプレイスがあれば即時掲載し、本家エコシステムから流入を取る"
+    ],
+    "time_window_months": 15,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Anthropic/Cursor等がチェックポイント・ロールバック機能を強化し、外部ツールの必須性が消える",
+      "本家re_gentがOSSとして急成長し、フォーク/二次SaaS化の差別化余地が縮小する",
+      "Apache-2.0の『Free FOREVER』ポジショニングが課金ハードルを引き上げ、有償化率が想定を下回る",
+      "AIエージェント側のプロトコル変更が頻発し、複数エージェントへの追従コストでソロ運用が破綻する",
+      "日本のエンタープライズ顧客が監査機能を内製選好し、SaaS外部委託に踏み切らない"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z",
+  "business_viability_at": "2026-05-23T19:30:00Z",
+  "advisor_view_at": "2026-05-23T19:30:00Z"
 }

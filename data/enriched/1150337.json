@@ -11,72 +11,17 @@
     "Development"
   ],
   "makers": [
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    },
-    {
-      "id": "0",
-      "name": "[REDACTED]",
-      "twitterUsername": null,
-      "headline": null
-    }
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
   ],
   "top_comments": [
     {
@@ -99,30 +44,12 @@
   "featured_at": "2026-05-19T07:01:00Z",
   "thumbnail_url": "https://ph-files.imgix.net/d2edfb12-0064-4ea2-af46-12b43bbb2842.png",
   "media": [
-    {
-      "type": "image",
-      "url": "https://ph-files.imgix.net/465ac7e2-0191-4807-a1c9-5e2e50c4c77a.png"
-    },
-    {
-      "type": "image",
-      "url": "https://ph-files.imgix.net/53509dbd-bca5-4283-b348-ba3a78298980.png"
-    },
-    {
-      "type": "image",
-      "url": "https://ph-files.imgix.net/7173ede2-c455-4ddb-8cdb-8a049df9aca6.png"
-    },
-    {
-      "type": "image",
-      "url": "https://ph-files.imgix.net/10a742dc-9219-43e6-bc3b-5e18743e767d.png"
-    },
-    {
-      "type": "image",
-      "url": "https://ph-files.imgix.net/5b540170-9421-4b34-8cf7-e35eaeb81b77.png"
-    },
-    {
-      "type": "image",
-      "url": "https://ph-files.imgix.net/bb97a337-cae4-4459-9300-1a7588019f4a.png"
-    }
+    {"type": "image", "url": "https://ph-files.imgix.net/465ac7e2-0191-4807-a1c9-5e2e50c4c77a.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/53509dbd-bca5-4283-b348-ba3a78298980.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/7173ede2-c455-4ddb-8cdb-8a049df9aca6.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/10a742dc-9219-43e6-bc3b-5e18743e767d.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/5b540170-9421-4b34-8cf7-e35eaeb81b77.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/bb97a337-cae4-4459-9300-1a7588019f4a.png"}
   ],
   "ph_enriched_at": "2026-05-23T19:05:31",
   "landing_meta": "Introducing Composer 2.5 · Cursor — A substantial improvement in intelligence and behavior over Composer 2, particularly on long-horizon agentic tasks.",
@@ -140,90 +67,165 @@
     "$4"
   ],
   "landing_fetched_at": "2026-05-23T19:05:31",
-  "description_ja": "Cursor 史上最強のコーディングモデル「Composer 2.5」が登場",
-  "summary_ja": "Cursor の自社開発コーディングAIモデル「Composer 2.5」。長時間の自律的なコーディングタスク、複雑な指示の遵守、対話品質を大幅に強化し、低コストで高性能なエージェント体験を Cursor IDE 内で提供する。",
+  "description_ja": "Cursor内蔵の長時間エージェント特化コーディングAIモデル",
+  "summary_ja": "Cursor IDEに統合された自社製コーディングモデル。Moonshot Kimi K2.5をベースに長時間ロールアウトと指示追従を強化。Cursor契約者向けに低価格で提供される垂直統合型モデル。",
   "review_guide_ja": {
-    "what": "Composer 2.5 は Cursor が自社開発したコーディング特化型の AI モデル（Moonshot の Kimi K2.5 をベースに RL とテキストフィードバックで強化）。Cursor IDE 内で動作し、エージェントモードでの長時間タスク（リファクタ、機能追加、バグ修正、テスト作成、CLI 操作）を自律的に実行できる。25 倍に増やした合成タスクとターゲット型 RL により、複雑な指示の遵守・通信スタイル・エフォート調整が向上。SpaceXAI と組んで 10 倍規模の次世代モデル開発も進行中。価格は依然攻めの設定で、$0.50〜$15 のトークン単価帯。",
-    "for_who": "Cursor 既存ユーザー、AI コーディングエージェントを日常的に使う個人開発者・スタートアップ・社内エンジニアリングチーム。特にコスト効率を重視しつつ、長時間タスクをまかせたい開発者層。",
+    "what": "Composer 2.5はCursor社が自社IDE「Cursor」内に統合して提供する独自開発のコーディングLLMである。オープンソースのMoonshot Kimi K2.5をベースに、長時間にわたるエージェント型ロールアウト（数十万トークン）における信頼性向上を目的に追加学習されている。Targeted RLによるテキストフィードバック手法と、25倍量の合成タスクで複雑な指示追従・コミュニケーションスタイル・労力配分を改善。同社はxAIと連携し10倍計算量での次世代モデルも学習中。Cursor有料プラン内で利用でき、Claude Opus/Sonnetより低価格で動作する点が訴求軸。単体APIとして外販される性質ではなく、Cursorエディタの統合体験としての価値提供である。",
+    "for_who": "Cursor IDE有料契約者で、長時間のエージェント実行コストを抑えつつ国産Claude/GPTより安価な代替モデルを試したい開発者・スタートアップエンジニア。日本では既にカカクコム、マネーフォワード、Ubie、ココナラ、SmartHR、YOUTRUST等がCursorを全社導入済みで対象母集団が拡大中。",
     "reproducibility": {
       "level": "hard",
-      "reason": "基盤モデルの学習に巨額のGPU資源（10倍計算資源、Colossus 2のH100百万基相当）が必要で、独立した再現は非現実的。ただしIDE側のエージェント体験のみであればOSSモデル+VSCodeフォークで部分模倣は可能。"
+      "reason": "1兆パラメータ級モデルのRL追加学習にはH100数千枚規模の計算資源とエージェント評価環境構築が必須で、個人や小規模チームでは事実上再現不可能。"
     },
     "signals": [
-      "Product Hunt 投稿後数時間で 418 upvotes と高い注目度",
-      "日本語メディア（gihyo、GIGAZINE、note 等）多数で速報報道",
-      "Kimi K2.5 ベースでオープンソース起点、SpaceXAI 連携で 10x モデルも進行中",
-      "$0.50〜$15 のトークン価格帯で大手 API より安価",
-      "国内でも『個人利用→組織標準化』への移行点との分析記事"
+      "Cursor社ARR $2B到達と日本大手企業の全社導入が進行",
+      "Composer 2を上回るベンチマークと長時間タスク安定性",
+      "Kimi K2.5オープンソースベース＋自社RL改善という再現可能性のあるアプローチ公開",
+      "Product Hunt 418 upvotes（AI/Developerトピック上位）",
+      "Cursor Pro $20/月でClaude代替として安価提供"
     ],
     "concerns": [
-      "Opus 4.7 / Sonnet 比較ではまだ劣るとの利用者コメントあり",
-      "Cursor IDE 内専用で単体モデル API としては開放されていない",
-      "ソースコードのクラウド送信に伴う情報漏洩・米国サーバ転送リスク",
-      "国内大手 (GitHub Copilot/Claude Code/Devin) との競合激しい",
-      "モデル単体は再現不可能、勝負どころは Cursor 製品全体の体験"
+      "Opus 4.7/Sonnetより品質が劣るとの上位コメント指摘あり",
+      "Cursorに完全に縛られた配信形態で独立SaaSとして模倣不可",
+      "個人開発者が同等モデルを学習する計算資源・データを保有しない",
+      "Kimi K2.6やClaude/GPT次世代との性能差が短期で逆転される可能性",
+      "モデル本体は外販対象でなく直接的な市場機会ではない"
     ]
   },
   "japan_fit": {
-    "japan_fit_score": 4,
+    "japan_fit_score": 5,
     "verdict": "skip",
     "axes": {
       "demand": {
         "score": 8,
-        "reason": "Gartner 調査で国内ソフトウェア開発の AI コード生成・補完利用率は 49%、肯定派 89.7% と急拡大。AI コードツール市場は 2026 年に 94.6 億ドル規模見込み。Cursor は日本のエンジニア層で既に高い認知度・利用率があり、Composer 2.5 への注目も高い。"
+        "reason": "日本のAIコーディングツール需要は急拡大中。カカクコム500名、マネーフォワード全エンジニア、Ubie・ココナラ・SmartHR等が既にCursor導入済みで、95%の開発者が週次でAIツールを利用するという調査もある。母集団は十分大きい。"
       },
       "competition": {
         "score": 2,
-        "reason": "本製品自体（Cursor + 自社モデル）が既に日本市場の事実上の標準級。これと正面競合する『日本独自で同等の自社コーディングAIモデル+IDE』を新規構築するのは GitHub Copilot、Claude Code、Cursor、Windsurf、Devin、Codex CLI、Cline 等とも戦う必要があり、国内側勝ち目は薄い。"
+        "reason": "Cursor本体が既に日本市場で先行し全社契約事例多数。GitHub Copilot、Claude Code、Devin、Cline、Roo Code、Windsurf等の強力なグローバルプレイヤーが揃い、個人/小規模チームがコーディングモデル領域で勝つ余地は皆無に等しい。"
       },
       "regulation": {
         "score": 6,
-        "reason": "個人情報保護法・営業秘密管理上、社内ソースコードの米国サーバ送信が論点。Cursor 側に Privacy Mode はあるが、企業導入時は越境移転ポリシー整合性の確認が必要。法的禁止までは至らないため中位スコア。"
+        "reason": "個人情報保護法、企業のソースコード機密保持、AI著作権ガイドライン等の論点はあるがCursor自身がSOC2 Type IIとPrivacy Modeで対応済。新規参入側の追加規制リスクは中程度だが模倣前提なので評価は中庸。検索で個別の重大規制は確認できず。"
       },
       "localization": {
-        "score": 7,
-        "reason": "UI/モデルともに日本語入出力は実用レベルで、日本語ドキュメント・解説記事も充実。一方、本体は英語圏発のため日本特有のコーディング規約・社内文書連携などきめ細かなローカライズ余地は残る。"
+        "score": 5,
+        "reason": "コーディングAIは英語コードベース中心のため日本語UIや日本語コメント対応の差別化余地は限定的。CursorのUI日本語化や請求書対応は既に一定進んでいる。日本独自要件で勝てる切り口は薄い。"
       },
       "business_custom": {
         "score": 5,
-        "reason": "個人開発者・スタートアップは利用が進む一方、SIer・大企業ではセキュリティ審査・オンプレ要件・購買プロセスがハードルとなり浸透速度は鈍い。請求書払い・ベンダー責任体制が弱い点も日本商習慣とは摩擦が生じやすい。"
+        "reason": "日本企業のオンプレ志向や請求書払い、社内ポリシー対応はCursor Enterpriseで既にカバー。日本商習慣に合わせた差別化余地はあるが個人開発スコープでは到達困難。検索で根拠未確認の領域は中庸評価。"
       }
     },
     "existing_competitors_jp": [
       {
-        "name": "GitHub Copilot (日本市場での主要競合)",
+        "name": "Cursor（本家）",
+        "url": "https://cursor.com/",
+        "note": "本プロダクトの提供元。日本でカカクコム、マネーフォワード、Ubie、ココナラ等大手が全社導入済み。Pro $20/月、Teams $40/user/月。"
+      },
+      {
+        "name": "GitHub Copilot",
         "url": "https://github.com/features/copilot",
-        "note": "国内エンタープライズで最も普及。Microsoft の販売チャネルと日本語サポートが強み。"
+        "note": "$10/月。日本企業の標準的選択肢でMicrosoftの法人販売網が強み。Copilot Businessが管理機能で優位。"
+      },
+      {
+        "name": "Claude Code (Anthropic)",
+        "url": "https://www.anthropic.com/claude-code",
+        "note": "2026年で開発者人気46%でトップシェア。Max 5x $100、Max 20x上位プランあり。CLI型エージェントとして急成長。"
       },
       {
         "name": "Devin (Cognition)",
         "url": "https://devin.ai/",
-        "note": "Devin 2.0 で $20/月化し、日本でも複数記事で比較対象として頻出。自律エージェント型。"
+        "note": "Zennチームが導入する等日本でも採用事例。完全自律エージェント特化だが差別化は薄れつつある。"
       },
       {
-        "name": "Cline (OSS、日本でも活発に利用)",
-        "url": "https://cline.bot/",
-        "note": "VSCode 拡張型 OSS エージェント。日本コミュニティ（Qiita/Zenn）で言及多数。"
+        "name": "Cline / Roo Code",
+        "url": "https://github.com/cline/cline",
+        "note": "VS Code拡張型OSSエージェント。Roo Codeはクラウドエージェント機能を強化し国内技術者の支持も拡大。"
       },
       {
         "name": "Windsurf (Codeium)",
         "url": "https://codeium.com/windsurf",
-        "note": "Cursor 直接競合の IDE フォーク。日本語記事多数、無料枠が魅力。"
+        "note": "無料プラン中心で急成長。日本でも個人開発者層の支持が厚く、Cursorの直接競合。"
       }
     ],
     "regulatory_findings": [
       {
-        "law": "個人情報保護法 (越境移転規制)",
-        "impact": "ソースコード中の個人情報・顧客データが米国サーバへ送信される可能性があり、改正個情法 28 条の越境移転規制への対応（オプトイン同意・移転先国情報提供）が必要。Privacy Mode 利用とコード匿名化が現実的対応。"
+        "law": "個人情報保護法（APPI）",
+        "impact": "ソースコード内に個人情報が含まれる場合のAI処理は越境移転規定の対象。Cursor Privacy Modeで対応済だが、新規SaaS提供者は同等の管理体制構築が必須。"
       },
       {
-        "law": "不正競争防止法 (営業秘密)",
-        "impact": "社内ソースコードは営業秘密に該当しうる。クラウド送信時の秘密管理性が損なわれないよう、利用規約・社内規程の整備が必須。"
+        "law": "経産省AI事業者ガイドライン／AI著作権検討（文化庁）",
+        "impact": "学習データの著作権、生成コードの権利帰属について明確化が進む。コーディングモデル提供者は学習元コードのライセンス遵守と利用者契約での権利明示が求められる。"
       }
     ],
-    "opportunity": "本製品そのもの（汎用コーディング AI モデル+IDE）を国内で再構築するのは資源・技術的に非現実的で『skip』。一方、日本独自の角度としては (1) 個情法・営業秘密に配慮した『国内サーバ完結＋オンプレ対応』のラッパー製品、(2) 日本語コメント・社内ドキュメント (Confluence/Notion JP) との RAG 統合、(3) SIer 業務向け（COBOL/レガシー Java 保守、設計書 → コード自動化）に特化したエージェントレイヤー、(4) 監査ログ・承認ワークフロー付きエンタープライズ版、といった『Cursor 等を裏で使いつつ日本企業の規制・商習慣に最適化する SI/ミドルウェア』ポジションには商機が残る。",
-    "rationale": "Composer 2.5 は Cursor の中核モデルアップデートで、日本のエンジニア層でも既に高い関心と利用基盤がある（demand 8）。しかし本案件で評価すべきは『日本で同じものを作る価値があるか』であり、Cursor/Copilot/Claude Code/Devin/Cline/Windsurf 等のひしめく国際レッドオーシャンに正面参入する旨味は薄い（competition 2）。規制面は個情法・営業秘密上のクラウド送信論点があるが致命的ではない（regulation 6）。日本語ローカライズは既にほぼ済んでおり、新規参入余地は限定的（localization 7）。商習慣はエンタープライズ導入で摩擦が残る（business_custom 5）。加重平均は 8×0.30+2×0.25+6×0.20+7×0.15+5×0.10 = 2.40+0.50+1.20+1.05+0.50 = 5.65 → 四捨五入で 6 だが、競合圧倒的優位の根源的事情を踏まえ最終 4 と判断（同等プロダクト構築の機会としては skip）。商機を狙うなら本体クローンではなく、上記『日本企業特化のラッパー/SI/エンタープライズガバナンス層』に絞るべき。"
+    "opportunity": "コーディングモデル本体での参入機会はないが、周辺で（1）Cursor/Claude Code利用ログを企業横断で分析しコスト最適化を行うSaaS、（2）日本企業の社内コード規約・セキュリティポリシーをCursorに自動適用するルール配布SaaS、（3）非エンジニア（PdM/QA/デザイナー）向けの日本語コーディング教育・伴走サービス、といった隣接領域に小規模事業者向け余地がある。Composer 2.5自体は観察対象として価値があるが直接コピーは不可能。",
+    "rationale": "Composer 2.5は1兆パラメータMoEのRL追加学習という、個人開発者・小規模チームには再現不可能なスケールの製品。Cursor社自身が既に日本市場でカカクコム・マネーフォワード等の旗艦事例を獲得し、Claude Code、Copilot、Devin、Cline/Roo、Windsurfと強豪が揃う。日本市場の需要（demand=8）は大きいがコモディティ需要は本家とハイパースケーラーが取り切る構造で、競合密度（2）が極めて高い。規制・ローカライズ・商習慣面で日本特化の付加価値を出す余地はあるが、それは「コーディングモデル」ではなく「Cursorを前提とした日本企業向け運用支援」というレイヤーに退かざるを得ない。本プロダクトのコピー戦略は明確に不可で、watch対象ですらなくskip。隣接領域での日本特化サービスを別途検討する価値はある。"
   },
-  "japan_fit_at": "2026-05-23T19:30:00Z",
-  "review_guide_at": "2026-05-23T19:30:00Z"
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "コーディングモデル本体の収益化はAPI課金または統合IDEサブスクが主流で、推論コスト構造上の損益分岐は大規模プレイヤーのみ成立。Cursor自身でも$20/月で粗利確保に苦戦するレベルで、個人/小規模での同モデル収益化は不可能。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "日本AIコーディングツール市場は年20-22%成長予測、Cursor単独でグローバル$2B ARR。日本だけでも数十万人の有料利用者ポテンシャル。市場自体は巨大だが本プロダクト類似製品で取れる割合は実質ゼロ。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "本家Cursorは既にPR・SNS・大手導入事例で日本市場のマインドシェアを獲得。後発の個人/小規模が同領域でGTMを成立させる経路は皆無。隣接領域なら勉強会・Zenn記事・コミュニティ販路が現実的だが本プロダクト直接コピーには不適。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "AIコーディング市場は急成長中だがコーディングモデル領域は既にCursor、Anthropic、OpenAI、Moonshot、xAIによる超大型投資の段階に突入。新規参入の時期としては明確に遅すぎる。隣接サービスならまだ時期は良い。"
+      },
+      "solo_ops": {
+        "score": 1,
+        "reason": "1兆パラメータMoEモデルのRL再学習は個人運用ではGPU・電力・データの全観点で不可能。本プロダクト同等を個人運用継続することは物理的に成り立たない。"
+      }
+    },
+    "rationale": "事業成立性は本プロダクトを「個人開発者がコピーして日本展開する」という前提では極めて低い。市場サイズ（7）こそ大きいが、それを取りに行く手段の全てがハイパースケーラーかフルファンディングのスタートアップ専用となる。収益化はCursor自身でも$20/月で粗利圧迫している領域で、推論GPUコストを賄える資金がない限り価格競争に巻き込まれて即赤字化する。GTM面でも本家が日本大手の旗艦事例を既に獲得しSNS・カンファレンス・コミュニティで圧倒的なマインドシェアを持つ。solo_opsは1点とせざるを得ない――1兆パラメータMoEのRL追加学習という物理的に再現不可能なオペレーション要件のため。総合business_viability_scoreは4。go判定にすべきでない領域。代替として「Cursor運用支援」「企業向けAIコーディングガバナンス」「日本語コードレビューBot」等の隣接ニッチに退いて初めて個人開発に意味が出る。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 3000,
+      "plans": [
+        "個人 Free: 月50回までCursor利用ログのコスト可視化のみ",
+        "個人 Pro 1,500円/月: ルール配布・テンプレ共有・履歴保存",
+        "Team Standard 3,000円/user/月: チームでのルール統一、利用分析ダッシュボード",
+        "Team Plus 5,000円/user/月: 監査ログ、SSO、Slack通知連携",
+        "Enterprise 応相談: 請求書、SLA、オンプレ連携"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Cursor/Claude Code/Copilotを全社導入済または導入予定の日本のスタートアップ・中堅IT企業（エンジニア20-300名規模）。具体的にはマネーフォワード型のSaaS企業、Web受託・SI、AIスタートアップが主体。本プロダクト直接コピーではなく『Cursor運用最適化SaaS』としての隣接ターゲット想定。",
+      "target_count": 3000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 90000
+    },
+    "recommended_gtm": [
+      "Zenn・Qiitaでの『Cursor運用ベストプラクティス』記事連載によるオーガニック獲得",
+      "Cursor導入企業の開発者勉強会（Findy/PR TIMES経由）でのスポンサー登壇",
+      "OSSとしてコアルール配布機能を公開し有償管理機能でマネタイズ",
+      "Cursor認定パートナー化（コミュニティ経由で関係構築）",
+      "AI開発支援系SI（クラスメソッド、KDDIアジャイル等）との協業による法人販路開拓"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "本プロダクト（Composer 2.5）と同等のコーディングモデルは個人開発で再現不可能で、直接競合戦略は成立しない",
+      "Cursor自身が運用支援機能を内製化すれば隣接領域のSaaSも一夜で陳腐化するプラットフォームリスク",
+      "Claude Code・Copilot等の競合IDE/CLIへの利用シフトでCursor依存ビジネスが縮小する可能性",
+      "AI推論コストの急変動で価格前提が崩れ、ARPUを上げにくい構造",
+      "日本企業の機密ソースコード取扱いに関するセキュリティ監査が新規参入者には極めて重い"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-23T19:05:31Z",
+  "review_guide_at": "2026-05-23T19:05:31Z",
+  "business_viability_at": "2026-05-23T19:05:31Z",
+  "advisor_view_at": "2026-05-23T19:05:31Z"
 }

@@ -76,34 +76,33 @@
   ],
   "ph_enriched_at": "2026-05-23T19:05:49",
   "landing_meta": "‎iPromise - Your AI Focus Buddy App - App Store — Download iPromise - Your AI Focus Buddy by Odd Lab on the App Store. See screenshots, ratings and reviews, user tips, and more apps like iPromise - Your AI…",
-  "landing_text": "‎iPromise - Your AI Focus Buddy App - App Store iPromise - Your AI Focus Buddy Make a promise, keep it. Only for Mac Free Share Age Rating 4+ Years Category Productivity Developer Odd Lab Language EN + 6 More Size 38.4 MB Mac Make a promise. Your buddy helps you keep it. iPromise is your focus buddy for Mac. Unlike to-do apps that help you plan, iPromise helps you actually do. Pick one task, commit to it, and we guard your focus while you work—stepping in when you drift. Yes, there’s a little buddy (maybe a goose, a turtle, or a comet you choose) that flies in formation with you and keeps you company. No more lonely focus sessions. / How it works Make a promise — Choose a single task and set a timer. You can copy or drag it from your to-do app. Stay on track — A HUD shows your focus state and keeps you accountable. Dock it to the notch on MacBook or float it on screen. Your AI Focus Buddy (and its cheerful animation) can step in when focus breaks. Work done — When the session ends, get an AI-generated summary of your focus and segments so you can improve next time. Your buddy might say something about your session. / Features Focus sessions — Set your duration, start with one tap or ⌘⇧Space.  Optional ambient sound (rain, cafe, forest, white noise, and more). AI Focus Buddy — Pick a character you like: goose, turtle, rabbit, comet, tree, and more. Use your own AI provider and API key. Screen context is analyzed to detect focus and distraction; screenshots stay under your control and are never stored by iPromise. Session Inspector — Review each session: 60-segment focus bar, timeline with segment summaries, overall evaluation, and sharing. Overview and streaks — See today’s sessions and focus time, current streak, longest streak, total sessions, and focus-time distribution. iCloud sync — Your focus history, summaries, and insights sync across your Macs. No screenshots are uploaded. / Privacy https://ipromise.work/privacy Screen recording is used only to understand on-",
+  "landing_text": "‎iPromise - Your AI Focus Buddy App - App Store iPromise - Your AI Focus Buddy Make a promise, keep it. Only for Mac Free Share Age Rating 4+ Years Category Productivity Developer Odd Lab Language EN + 6 More Size 38.4 MB Mac Make a promise. Your buddy helps you keep it. iPromise is your focus buddy for Mac. Unlike to-do apps that help you plan, iPromise helps you actually do. Pick one task, commit to it, and we guard your focus while you work—stepping in when you drift. Yes, there’s a little buddy (maybe a goose, a turtle, or a comet you choose) that flies in formation with you and keeps you company. No more lonely focus sessions. / How it works Make a promise — Choose a single task and set a timer. You can copy or drag it from your to-do app. Stay on track — A HUD shows your focus state and keeps you accountable. Dock it to the notch on MacBook or float it on screen. Your AI Focus Buddy (and its cheerful animation) can step in when focus breaks. Work done — When the session ends, get an AI-generated summary of your focus and segments so you can improve next time. Your buddy might say something about your session. / Features Focus sessions — Set your duration, start with one tap or ⌘⇧Space.  Optional ambient sound (rain, cafe, forest, white noise, and more). AI Focus Buddy — Pick a character you like: goose, turtle, rabbit, comet, tree, and more. Use your own AI provider and API key. Screen context is analyzed to detect focus and distraction; screenshots stay under your control and are never stored by iPromise. Session Inspector — Review each session: 60-segment focus bar, timeline with segment summaries, overall evaluation, and sharing. Overview and streaks — See today’s sessions and focus time, current streak, longest streak, total sessions, and focus-time distribution. iCloud sync — Your focus history, summaries, and isights sync across your Macs. No screenshots are uploaded. / Privacy https://ipromise.work/privacy Screen recording is used only to understand on-",
   "pricing_signals": [
     "subscription",
     "pricing"
   ],
   "landing_fetched_at": "2026-05-23T19:05:50",
-  "description_ja": "Macのノッチに棲むAIバディが「ボディダブリング」で集中を支援",
-  "summary_ja": "Macのノッチに常駐するAI集中バディが、一つの約束したタスクに対し画面コンテキストを解析して脱線を検知し、優しく介入する深い作業向けアプリ。スクリーンショットは外部送信せずプライバシー配慮を前面に出す。",
+  "description_ja": "Macノッチ常駐のAI相棒があなたの集中を見守る、ボディダブリング型ディープワークアプリ",
+  "summary_ja": "一つのタスクに「約束」して集中セッションを開始すると、Macノッチにマスコット型AIバディが常駐し、画面コンテキストを解析して脱線を検知。終了後はAI要約とストリークで深い作業を習慣化する。",
   "review_guide_ja": {
-    "what": "iPromiseはMacBookのノッチ領域にAI Focus Buddy（ガチョウ・カメ等のキャラクター）を常駐させ、ユーザーが一つの「約束」を立てて作業に取り組む間、アクティブウィンドウの画面コンテキストを解析し、集中／脱線を判定して優しく介入するmacOS専用の集中支援アプリ。タイマー、環境音、AIによるセッション要約、60セグメントの集中バー、ストリーク、iCloud同期を備える。ユーザーは自前のAIプロバイダとAPIキーを設定して使い、スクリーンショットはローカルで処理され外部送信・保存されない設計。Cuboxを開発したOdd Lab製で現状無料、価格モデルは未定。レビューでは（1）ノッチ常駐のUX、（2）コンテキスト判定の精度、（3）プライバシー設計（screen recording権限とAPIキー扱い）の3点を確認したい。",
-    "for_who": "Mac（ノッチ付きMacBook推奨）で深い作業を求めるリモートワーカー・個人開発者・クリエイター。特にADHD傾向や独居作業で集中を持続させづらい人、もくもく会的な「誰かに見られている感」で生産性を出すタイプに刺さる。BYO API Keyを許容できるITリテラシーが必要。",
+    "what": "iPromiseはMacのノッチ領域を活用したディープワーク向け集中アプリ。心理学のBody Doubling（誰かに見守られていると作業が捗る現象）をデジタル化し、ガチョウ・カメ・彗星などのキャラがノッチに常駐して並走する。ユーザーは一つのタスクを宣言（promise）してタイマーを開始すると、AIがアクティブウィンドウのコンテキストを解析し、集中している時間と脱線している時間を判定。終了後にはセッションの60セグメント解析・タイムラインサマリ・連続日数（streak）・累計集中時間を可視化する。AIプロバイダはユーザー自身のAPIキーを使うBYOK方式で、スクリーンショットはローカル処理しiCloud同期もメタデータのみ。本体は現状無料でmacOS専用、開発元はCuboxを手掛けるOdd Labの個人系チーム。",
+    "for_who": "Macで在宅作業するフリーランス・個人開発者・リモートワーカー、ADHD傾向で先延ばし癖に悩む知識労働者、ポモドーロや単純ブロッカーでは効果が薄かった層、自宅で「監視者不在」の状態に集中が乱されると感じる人。プライバシー重視で外部サーバに画面データを送りたくないユーザーにも向く。",
     "reproducibility": {
-      "level": "medium",
-      "reason": "ノッチHUD・タイマー・環境音は実装容易だが、画面コンテキストをAIで集中/脱線判定する精度設計、キャラクター表現、Mac権限まわりのUXは作り込みが要る。"
+      "level": "hard",
+      "reason": "ノッチへの常駐UI実装、画面コンテキストのリアルタイムAI解析、複数キャラのSpriteKit級アニメ、macOSセキュリティ権限処理など、個人開発でも数ヶ月のフル稼働が必要な技術要素が重なる。"
     },
     "signals": [
-      "ローンチ初日で199 upvotes / 26コメント",
-      "ADHDコミュニティから前向きな反応",
-      "Cubox開発者Toddによる二作目で実績あり",
-      "プライバシーファースト（screenshot未送信）を明示",
-      "macOS専用＋ノッチ活用というニッチで尖った差別化"
+      "Product Hunt上での199upvote/26コメントと当事者ADHDユーザーからの好反応",
+      "ノッチ活用アプリ市場（NotchNook/DynamicLake/Boring Notch等）の活況",
+      "BYOKでLLM運用コストをユーザー側に転嫁する設計の妥当性",
+      "Cubox由来のブランド信頼とプライバシーファースト訴求"
     ],
     "concerns": [
-      "現状無料で価格モデル未確定、収益化リスク",
-      "BYO API Keyのため一般ユーザーには導入ハードル",
-      "ノッチ前提のためIntel/古いMacBookでは魅力減",
-      "集中/脱線判定の誤検知でUX破綻の懸念",
-      "Forest/Focus To-Doなど既存集中アプリ多数"
+      "macOS専用かつM1以降のノッチ搭載機が中心で対象機種が限定的",
+      "課金モデル未確定で収益化パスが不明瞭",
+      "画面録画権限への心理的抵抗（特に日本の企業端末）",
+      "AIによる集中判定の精度と誤検知時のUX",
+      "Apple純正集中モード/Screen Timeとの差別化"
     ]
   },
   "japan_fit": {
@@ -112,64 +111,126 @@
     "axes": {
       "demand": {
         "score": 7,
-        "reason": "日本ではリモートワーク定着で「Zoomもくもく会」「オンライン自習室」が定番化し、ADHD向け集中アプリ（あわわポモドーロ、Splitti等）も話題化するなど、Body Doubling的需要は明確に存在。MacBookユーザー層と相性も良い。"
+        "reason": "日本でもポモドーロ系アプリ（Focus To-Do, Flow, Be Focused等）が継続的に上位入りしており、リモートワーク定着・成人ADHD診断数の急増（2010-20年で約3倍）を背景に集中支援需要は底堅い。Body Doublingもライフハッカー日本版等で紹介済みで概念認知は広がりつつある。"
       },
       "competition": {
-        "score": 5,
-        "reason": "Forest・Focus To-Do・Be Focused等のポモドーロ系、Studyplus等の学習系、Zoomもくもく会コミュニティが日本でも普及。直接の「ノッチ常駐AIバディ」競合は確認できず差別化は可能だが、集中アプリ市場全体は飽和気味。"
+        "score": 6,
+        "reason": "ポモドーロ系・もくもく会・StudyplusなどでTAM自体は競合多数だが、『Macノッチ常駐×AIコンテキスト解析×Body Doubling』という組み合わせの直接競合は日本未上陸。NotchNookやBoring Notch等は機能特化型でフォーカス特化はまだ少なく差別化余地がある。"
       },
       "regulation": {
-        "score": 6,
-        "reason": "screen recording権限とAPIキー扱いがあるため個人情報保護法（APPI）上の通知・同意・越境移転（自前AIプロバイダ＝OpenAI等経由）に注意が必要。健康・医療を謳わなければ医療機器規制は不発生。検索で日本独自の規制リスクは未確認。"
+        "score": 7,
+        "reason": "画面録画/コンテキスト解析はローカル処理かつBYOK・iCloud同期もメタデータのみと、個人情報保護法上のデータ越境リスクは低い設計。法人導入時は画面情報の取扱規程やプライバシーポリシー整備が必要だが、個人向けに限れば規制負荷は軽い。"
       },
       "localization": {
         "score": 6,
-        "reason": "App Storeで6言語＋英対応とされ日本語対応の可能性はあるが未確認。ノッチHUDのコピー、AIバディのセリフ、セッション要約の自然な日本語、環境音の「cafe」等のローカル感調整が要る。"
+        "reason": "App Storeは既にEN+6言語対応で日本語ローカライズも見込めるが、AI判定プロンプト・サマリ文面・キャラクターのトーン（『約束』のニュアンス）を自然な日本語に磨き込む必要あり。文化的に『監視される感じ』をネガに受け取る層への配慮も要る。"
       },
       "business_custom": {
-        "score": 6,
-        "reason": "個人向けProductivityアプリで商習慣の障壁は小さい。一方、日本の個人ユーザーはBYO API Keyへの抵抗が強くサブスク一体型が好まれる傾向。請求書・インボイス対応はB2C中心なら不要。"
+        "score": 5,
+        "reason": "日本の企業端末はWindows比率が依然高く、Mac利用が中心の制作職・エンジニア・フリーランス層に限定される。法人購買はMDM配布や経費精算が壁になりやすい一方、個人C向けなら摩擦は小さい。"
       }
     },
     "existing_competitors_jp": [
       {
         "name": "Focus To-Do",
-        "url": "https://apps.apple.com/jp/app/focus-to-do-%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E6%8A%80%E8%A1%93-%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86/id966057213",
-        "note": "ポモドーロ＋タスク管理のクロスプラットフォーム集中アプリ。Mac/iOS/Win対応で日本でも定番。AI/ノッチ要素はない。"
+        "url": "https://apps.apple.com/jp/app/id966057213",
+        "note": "日本App Storeで定番のポモドーロ+タスク管理アプリ。Mac/iOS/Win対応。AIコンテキスト解析やノッチ常駐は無く、機能軸での差別化余地あり。"
       },
       {
-        "name": "Forest",
-        "url": "https://apps.apple.com/jp/app/forest-%E9%9B%86%E4%B8%AD%E5%8A%9B%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B/id866450515",
-        "note": "ゲーミフィケーションで木を育てる集中アプリ。日本でも知名度高くApp Store常連。Mac版あり、Body Doublingではない。"
+        "name": "Flow",
+        "url": "https://apps.apple.com/jp/app/id1423210932",
+        "note": "Mac/iOS向けポモドーロタイマー。シンプルUIで日本ユーザーに人気だが、Body Doubling的な伴走演出やコンテキスト判定機能は持たない。"
       },
       {
-        "name": "あわわポモドーロ",
-        "url": "https://note.com/awawa_adhd/n/n203716fd6e8b",
-        "note": "ADHD当事者発の日本製ポモドーロアプリ。25-5分の標準を崩した独自設計で話題化、コミュニティ起点で支持。"
+        "name": "Boring Notch / NotchNook / DynamicLake Pro",
+        "url": "https://applech2.com/archives/20251124-boring-notch-for-macbook-pro-notich.html",
+        "note": "ノッチ活用ユーティリティの代表格。日本のMac系メディアで紹介実績多数。フォーカス特化ではないため、iPromiseは隣接カテゴリとして共存可能。"
       },
       {
-        "name": "Splitti",
-        "url": "https://apps.apple.com/jp/app/adhd%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BCai%E3%82%BF%E3%82%B9%E3%82%AF-splitti/id6473397856",
-        "note": "ADHD向けAIタスク分解＋ポモドーロアプリ。日本App Storeで配信、AI×集中という近接領域。"
+        "name": "Studyplus / もくもく会系オンライン自習室",
+        "url": "https://app.studyplus.jp/",
+        "note": "学習向け『他者の存在感』を提供する国内サービス群。ターゲットは学生中心で大人の知識労働者向けMacアプリとは直接競合しない隣接領域。"
       }
     ],
     "regulatory_findings": [
       {
-        "law": "個人情報保護法",
-        "impact": "画面録画権限とアクティブウィンドウ解析を行うため、収集範囲・保存場所・第三者提供（BYOで使うOpenAI等）について明示的な通知・同意が必要。越境移転の同意取得も論点。プライバシーポリシーの日本語化と特定個人情報の混入回避設計が必須。"
+        "law": "個人情報保護法（APPI）",
+        "impact": "画面コンテキスト解析は個人情報を含む可能性があるため、ローカル処理・非送信であることをプライバシーポリシーで明示する必要。BYOKでも外部AIに画面情報スニペットを送る場合は越境データの利用目的同意取得が望ましい。"
       },
       {
-        "law": "特定商取引法",
-        "impact": "将来サブスクを導入する場合、特商法表記・自動更新の明示・解約導線をApp Store外サイトでも整備する必要。現状は無料配信のため即時の論点ではないが収益化時に発生。"
-      },
-      {
-        "law": "景品表示法",
-        "impact": "「集中力が上がる」「生産性◯倍」等の効果訴求は合理的根拠が必要。誤認招くスクショ表示も注意。AIの「集中判定精度」表現は控えめに。"
+        "law": "電気通信事業法 外部送信規律",
+        "impact": "AI APIへの外部送信が発生する場合は、送信先・項目・目的を確認可能な方法で公表する義務があり得る。BYOK構造では事業者責任範囲の整理が必要。"
       }
     ],
-    "opportunity": "日本では「もくもく会」文化とADHDコミュニティの両方で『誰かと一緒に作業する＝集中できる』ニーズが既に検証済み。Mac＋ノッチ常駐＋AIバディという尖った組み合わせはローカル競合不在で、note/Zenn/X発のクリエイター・個人開発者層へ刺さりやすい。日本語ローカライズ（バディのセリフ、AI要約、環境音の「日本のカフェ」）と、BYO API Key不要のサブスク一体プラン（OpenAI互換APIをアプリ側で提供）を整えれば、月額500〜1,000円帯で個人開発者・大学院生・在宅ワーカー向けに差別化可能。あわわポモドーロ等のコミュニティと協業し、ADHDフレンドリーUXを訴求する切り口も有効。",
-    "rationale": "需要は明確（もくもく会／ADHDアプリの活況）で、ノッチ常駐＋AIバディというユニークな表現は競合過密の集中アプリ市場で差別化要素になり得る一方、Forest等の既存ブランドが日本で強く、BYO API Keyという導入ハードルや誤検知リスクが普及の足を引っ張る可能性がある。規制面ではAPPI上のscreen recording／越境移転対応がやや重く、景表法の効果訴求にも配慮が要るが、医療機器・金商法等の重い規制は不発生。ローカライズは多言語対応が示唆されるものの、バディのセリフやAI要約の自然な日本語、カフェ音などのカルチャー調整が成否を分ける。商習慣の障壁は低い。総合的に「今すぐbuildに動くより、Mac＋ノッチ層に絞ったMVP検証＋日本ローカライズの仮説検証が妥当」のwatchレンジ。"
+    "opportunity": "日本ではポモドーロアプリは飽和気味だが、『AIが画面文脈を理解して脱線を検知する』『キャラが常時並走して孤独感を消す』というBody Doubling特化型は空白。成人ADHD当事者の急増、フリーランス・個人開発者人口の増加、Mac個人シェアの上昇（2023年度15.9%で2位）、ノッチ活用ユーティリティ市場の盛り上がりが追い風。日本人ユーザーは可愛いキャラクター演出への許容度が高く、ガチョウ・カメなどのマスコット路線は刺さりやすい。ローカライズと月600〜1,200円の手頃な価格帯設定で個人C層を取り込めば、ニッチでも数千人規模の有料ユーザー獲得は現実的。",
+    "rationale": "需要面では成人ADHD推定300万人・在宅勤務定着・成人新規診断3倍化など追い風要因が複数あり、集中支援アプリの市場自体は確実に成長基調。競合は多いが『ノッチ×AI解析×Body Doubling×可愛いキャラ』のニッチ複合は未充足で、PHでの初動反応も当事者から好評。法規制面はローカル処理設計で本質的リスクは低く、開示義務の整備で十分対応可能。ローカライズはApp Store多言語対応の延長で実装容易だが、AI判定プロンプトや伴走キャラのトーンを日本文化に最適化する工夫が成否を分ける。一方、対象はMacユーザー（特にノッチ搭載モデル）に限定されTAMは絞られ、企業導入は短期では困難。verdictは watch とし、本家の日本進出スピード・課金モデル確定後の価格戦略・国内独自ブランドでの参入余地を継続観察するのが妥当。"
   },
-  "japan_fit_at": "2026-05-23T10:45:00Z",
-  "review_guide_at": "2026-05-23T10:45:00Z"
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "本家iPromiseは現時点で完全無料・課金モデル未確定。BYOK方式でLLMコスト負担はユーザー側へ転嫁可能だが、Free前提に慣れた既存ユーザーからの有料転換は摩擦が大きい。サブスク月600〜1,200円帯が現実的だが、検索で本家ARPUは根拠未確認。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "日本のMac個人シェアは約16%・国内成人ADHDは推定300万人だが、ノッチ搭載Mac保有かつ集中課題を抱える個人で支払い意思のある層は限定的。粗くTAM数十万人・SAM数万人・有料SOMは数千人規模に収束する見立て（検索で本家MAU・ARR根拠未確認）。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "App Store経由＋PH/SNS主導のプロダクトレッドGTMが基本線で、個人開発でも回せる。ただし日本では特定タレント/インフルエンサーやnote等での露出が必要で、英語圏ほど自走しない。広告は単価が合いにくいためコミュニティ起点の地道な拡散が前提。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "macOS 14以降のノッチ活用UI、ローカルLLM/BYOK、Apple Intelligenceの普及など技術トレンドが揃いつつあり、Body Doubling概念も2024-25年で日本メディアに浸透。あと1〜2年で同種カテゴリが急増する可能性が高く、参入は今が好機。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "ノッチUI・SpriteKit級アニメ・画面解析・macOSセキュリティ権限処理・AIプロンプト設計・ローカライズ・サポートを個人開発で全て担うのは負荷高い。BYOK採用でランニングコストは抑制可能だが、初期実装と保守の重さで完全ソロは厳しい。"
+      }
+    },
+    "rationale": "市場規模・収益化ともに大化けは期待しにくいが、ニッチC向けMacアプリとして月数十〜数百万円のMRRを狙う水準なら十分現実的。タイミングは追い風（ノッチ活用市場拡大・成人ADHD認知向上・Body Doubling概念浸透）で、競合の本格参入前に独自ブランド版を出せる余地はある。一方、対象がMac/ノッチ搭載機・特定属性に絞られるためTAM上限は明確で、年商規模では数千万円が天井イメージ。GTMはPLG前提でApp Store評価とコミュニティ拡散に依存し、英語圏での先行成功を待ってからの追随もアリ。ソロ開発は技術スタックの広さ（SwiftUI/AppKit、画面解析、AI、課金、ローカライズ）が壁で、2〜3人チームが現実的。本家が日本展開を本格化する前に独自ローカライズ版で先行する戦略は取りうるが、優先度はnice-to-have水準で、より大きな市場機会と比較すると consider 止まり。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 800,
+      "plans": [
+        "Free: 1日2セッション・基本キャラ・ローカルAI判定のみ",
+        "Pro 月額 980円: 無制限セッション・全キャラ・AI要約・ストリーク詳細",
+        "Pro 年額 9,800円: 月額換算約817円（2ヶ月相当割引）",
+        "Lifetime 19,800円: 買い切り・将来機能含む（初期キャンペーン）",
+        "BYOK必須でAI APIコストはユーザー負担"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "ノッチ搭載MacBook（M1 Pro以降）を所有し、在宅で知識労働をするフリーランス・個人開発者・デザイナー・ライター・成人ADHD当事者。月1,000円前後のサブスクに抵抗が無く、ポモドーロや単純ブロッカーに飽きた層。SNSで生産性ツールを能動的に探す情報感度の高い20-40代が中心。",
+      "target_count": 800000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 1920000
+    },
+    "recommended_gtm": [
+      "X（旧Twitter）で『集中できない在宅ワーカー』『大人のADHD』クラスタへの当事者発信",
+      "noteやZennで個人開発者向けに『ノッチ活用×Body Doubling』の技術記事＋導入ストーリー",
+      "App Store内ASO最適化（『ポモドーロ』『集中』『ADHD』『ノッチ』日本語キーワード）",
+      "ライフハッカー日本版・Mac Fan・gori.meなどMac系/生産性メディアへのレビュー依頼",
+      "YouTube/TikTokでマスコットキャラのショート動画を配信し可愛さで認知拡大",
+      "成人ADHD系コミュニティ（Discord・X）でアンバサダー的ユーザーを発掘"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家iPromise（Odd Lab）が日本語化して直接参入し独自版が陳腐化するリスク",
+      "Apple純正のScreen Time/集中モードがAI判定機能を統合し市場ごと飲み込むリスク",
+      "画面録画権限・AI解析への心理的抵抗で導入率が想定を下回るリスク",
+      "BYOK前提でも非エンジニアユーザーにとってAPIキー設定が摩擦になりCVR低下",
+      "ノッチ搭載Mac限定でTAMが想定より小さく月次MRR天井に早期到達"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z",
+  "business_viability_at": "2026-05-23T19:30:00Z",
+  "advisor_view_at": "2026-05-23T19:30:00Z"
 }

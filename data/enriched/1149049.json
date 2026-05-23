@@ -67,7 +67,7 @@
   ],
   "ph_enriched_at": "2026-05-23T19:05:48",
   "landing_meta": "ReactVision Studio: Visual AR & VR Editor for React Native — Build AR and VR scenes visually in your browser, then ship native to iOS, Android, and Meta Quest via ViroReact. A native 8th Wall alternative for React Native.",
-  "landing_text": "ReactVision Studio: Visual AR & VR Editor for React Native Build AR & VR apps Visually. Ship Natively to iOS, Android, and Quest. ReactVision Studio is a browser-based AR and VR editor. Build a scene once, ship it natively to iOS, Android, and Meta Quest, all from the React Native codebase your mobile team already writes. Start Building With Studio Open-source renderer ViroReact, MIT licensed, free forever Native iOS, Android & Quest ARKit, ARCore, and HorizonOS, not a browser polyfill Free to sign up Build production scenes without entering a card What is ReactVision Studio? Studio is the visual editor for the ReactVision stack. You build AR and VR scenes by dragging components onto a canvas, preview them in real time on your phone or headset with StudioGo, then ship them inside a React Native app via ViroReact , our open-source renderer. No 3D coding, Studio writes the scene graph for you Live device preview as you edit AI-generated 3D assets, no external tools Cloud and geospatial anchors built in Loads into any React Native app with one component Native rendering across iOS, Android, and Meta Quest Build once. Run native on every major XR platform. This is the part most XR tools quietly skip. Studio outputs one scene format. ViroReact takes that scene and renders it natively on each platform using the platform's own AR or VR runtime. iOS gets ARKit. Android gets ARCore. Meta Quest gets HorizonOS. No re-authoring, no shader rewrites, no compromises on frame rate. ARKit iOS iPhone and iPad AR, including LiDAR-aware features on supported devices. Same scene, full ARKit performance. ARCore Android Phones and tablets from every major Android OEM, rendered through ARCore. The same React Native codebase runs across both ecosystems. HorizonOS Meta Quest Quest 3 and Quest 3S, full VR and mixed reality. Your Studio scene becomes a headset app, no separate VR project required. One scene format, three runtimes. ViroReact handles the per-platform divergence underneath. The J",
+  "landing_text": "ReactVision Studio: Visual AR & VR Editor for React Native Build AR & VR apps Visually. Ship Natively to iOS, Android, and Quest. ReactVision Studio is a browser-based AR and VR editor. Build a scene once, ship it natively to iOS, Android, and Meta Quest, all from the React Native codebase your mobile team already writes. Start Building With Studio Open-source renderer ViroReact, MIT licensed, free forever Native iOS, Android & Quest ARKit, ARCore, and HorizonOS, not a browser polyfill Free to sign up Build production scenes without entering a card What is ReactVision Studio? Studio is the visual editor for the ReactVision stack. You build AR and VR scenes by dragging components onto a canvas, preview them in real time on your phone or headset with StudioGo, then ship them inside a React Native app via ViroReact , our open-source renderer. No 3D coding, Studio writes the scene graph for you Live device preview as you edit AI-generated 3D assets, no external tools Cloud and geospatial anchors built in Loads into any React Native app with one component Native rendering across iOS, Android, and Meta Quest Build once. Run native on every major XR platform. This is the part most XR tools quietly skip. Studio outputs one scene format. ViroReact takes that scene and renders it natively on each platform using the platform's own AR or VR runtime. iOS gets ARKit. Android gets ARCore. Meta Quest gets HorizonOS. No re-authoring, no shader rewrites, no compromises on frame rate. ARKit iOS iPhone and iPad AR, including LiDAR-aware features on supported devices. Same scene, full ARKit performance. ARCore Android Phones and tablets from every major Android OEM, rendered through ARCore. The same React Native codebase runs across both ecosystems. HorizonOS Meta Quest Quest 3 and Quest 3S, full VR and mixed reality. Your Studio scene becomes a headset app, no separate VR project required. One scene format, free forever",
   "pricing_signals": [
     "free forever",
     "open source",
@@ -83,28 +83,26 @@
     "$25/mo"
   ],
   "landing_fetched_at": "2026-05-23T19:05:49",
-  "description_ja": "React NativeでAR/VRアプリを構築し、iOS・Android・Meta Questに直接配信できる",
-  "summary_ja": "ブラウザ上で3Dオブジェクトをドラッグ&ドロップしてAR/VRシーンを設計し、AIで3Dアセットを生成、単一のReact Nativeコードベースから iOS・Android・Meta Questへネイティブ配信できるビジュアルエディタ。オープンソースレンダラViroReactを採用。",
+  "description_ja": "React NativeでAR/VRアプリをビジュアル開発しiOS/Android/Questに直送",
+  "summary_ja": "ブラウザ上で3Dオブジェクトをドラッグ＆ドロップしAIで素材生成。ViroReact経由でiOS/Android/Meta Questに一つのReact Nativeコードからネイティブ配信できる8th Wall後継のOSS型XR開発SaaS。",
   "review_guide_ja": {
-    "what": "ReactVision StudioはブラウザベースのビジュアルAR/VRシーンエディタ。3Dオブジェクトのドラッグ&ドロップ、テキスト/画像プロンプトからのAI 3Dアセット生成、StudioGo経由の実機ライブプレビュー、クラウドおよびジオスペーシャルアンカー対応を備える。Studioが出力したシーンはMITライセンスのオープンソースレンダラViroReactを通じて、iOS(ARKit)、Android(ARCore)、Meta Quest(HorizonOS)にネイティブ描画され、1つのReact Nativeコードベースで主要XRプラットフォーム全てに配信可能。Unity/C#不要で、既存のReact Nativeアプリにワンコンポーネントで組み込める。典型用途はARコマース、ブランド体験、製品ビジュアライゼーション、企業トレーニング、ロケーションベース体験、Quest向けVRアプリ。",
-    "for_who": "React Native/Expoを既に使うモバイル開発チーム、Unity熟練者を抱えないスタートアップ、8th Wall終了で代替を探すARエージェンシー、PoCを短期間で出したいプロダクトチーム、AR/VR両対応の単一コードベースを求める企業のXR担当者。",
+    "what": "ReactVision StudioはブラウザベースのAR/VRシーンエディタで、3Dオブジェクトのドラッグ＆ドロップとAIによるアセット生成、StudioGoでのスマホ/ヘッドセット実機プレビューを統合する。出力はMITライセンスのオープンソースレンダラViroReactを介して、ARKit(iOS)、ARCore(Android)、HorizonOS(Meta Quest 2/3/Pro)にネイティブ実行される。一つのReact Nativeコードベースから三プラットフォームに同時配信できる点が最大特徴で、Unityや独自エンジン不要、Expo互換、npm累計10万DL超。2026年2月にシャットダウンした8th Wallの代替を狙う。Cloud/Geospatial Anchorsも内蔵し、シーングラフはStudioが自動生成、React Nativeアプリには1コンポーネントで読み込み可能。Studioは公開ベータで無料利用可能。",
+    "for_who": "Reactを書けるWeb/モバイル開発者で、Unity/C#を学ばずにAR/VR体験を作りたい個人開発者・受託小規模チーム。8th Wall利用中で移行先を探すWebAR制作会社、観光・販促・教育案件でPoCを素早く回したい代理店、Meta Quest向け業務用アプリを試作したい法人内製チームに刺さる。",
     "reproducibility": {
       "level": "hard",
-      "reason": "ARKit/ARCore/HorizonOSのネイティブブリッジ、3Dシーングラフ、ライブプレビュー同期、ジオスペーシャルアンカー、AI 3D資産生成パイプライン等を一体で構築する必要があり、年単位の専門開発が要る。"
+      "reason": "ViroReact(OSS)＋AR/VR ARKit/ARCore/HorizonOSランタイム統合＋ビジュアルエディタ＋AIアセット生成の総合体で、フォークは可能だが運用とマルチプラットフォーム保守の負荷が極めて高い。"
     },
     "signals": [
-      "8th Wall(WebAR最大手)が2026年2月にサービス終了し、AR開発者数千人が代替を求めている",
-      "ViroReactは100K+ npm installsの実績があり、開発者コミュニティが既に存在する",
-      "Meta Quest 3/3S対応で、AR(スマホ)とVR(ヘッドセット)を単一コードで賄える点が新規性",
-      "MITライセンス・Expo互換でロックインが弱く、エージェンシーが採用しやすい",
-      "Product Hunt初日で268 upvotes、開発者コメントも好意的"
+      "8th Wall(WebAR最大手)が2026年2月終了し移行需要が顕在化",
+      "ViroReactは100K+ npm DLでReact Native AR/VRのデファクト",
+      "Meta Quest 3が出荷を伸ばしXRハード環境が整いつつある",
+      "Reactを書ける開発者層は日本でも厚い(メルカリ・NAVITIME等採用事例)"
     ],
     "concerns": [
-      "AR/VR市場自体が長年「次に来る」と言われ続け、Apple Vision Pro含めてマス普及は依然限定的",
-      "Unity/Unreal、Niantic Lightship、WebXR、Apple RealityKit等の強力な競合が多数存在する",
-      "オープンソース戦略のためStudio(エディタ)とアセット生成以外でのマネタイズ余地が見えにくい",
-      "Quest以外のヘッドセット(Vision Pro、PICO等)非対応で空間コンピューティング全体の網羅性は弱い",
-      "8th Wall後継というポジショニングはWebARニーズ(URLで開ける手軽さ)とややズレる(ネイティブアプリ前提)"
+      "本家がOSS＋無料Studio戦略のため有償化余地が薄い",
+      "国内XR制作はSTYLY+palan統合でWebAR寄りの巨大勢力が出来上がっている",
+      "Unity依存のAR/VR受託案件が主流でReact Native採用は限定的",
+      "AR/VRハードのコンシューマ普及はまだ緩慢、案件は法人/イベント中心"
     ]
   },
   "japan_fit": {
@@ -113,64 +111,135 @@
     "axes": {
       "demand": {
         "score": 5,
-        "reason": "日本のAR市場は成長中(2026年に約125億ドル予測、利用者数は2019年比300%超)で産業向けAR需要は確かに存在するが、React Native採用の日本企業は欧米と比べ少なく、AR/VRアプリ開発の主流は依然Unityである。開発者向けニッチツールとしての顕在需要は中程度。"
+        "reason": "Meta Quest 3堅調、Ray-Ban Meta国内発売、メタバース市場2026年度1兆円超予測など追い風はあるが、AR/VR受託・社内案件はUnity中心で『React Nativeで作りたい』という顕在需要は限定的。Reactエンジニアの母数自体は厚く潜在層は存在。"
       },
       "competition": {
         "score": 4,
-        "reason": "STYLY(旧Psychic VR Lab)、palanAR(palan)、Pretia Technologiesなど、ブラウザ完結のノーコードAR/VR制作プラットフォームを提供する有力国産プレイヤーが複数存在し、エンタープライズ・広告領域で先行している。Unity AR Foundation利用が圧倒的多数派でもある。"
+        "reason": "国内ではSTYLYとpalanが2026年5月にSTYLY WebARへ統合、約3,000社導入の巨大WebAR勢力が形成。COCOAR等もありSaaS化したノーコードAR制作は既にレッドオーシャン。本家ReactVision自体は無料/OSSのため上書きSaaS提案も困難。"
       },
       "regulation": {
-        "score": 9,
-        "reason": "開発者向けSDK/エディタという位置付けで、特段の業法は適用されない。生成AIアセット部分で著作権法に留意は要るが、ツール自体は規制リスクが低い。個人情報も基本的にアプリ実装側の責務。"
+        "score": 8,
+        "reason": "AR/VR制作ツール自体に直接規制は無い。位置情報AR(Geospatial)を扱う場合は個人情報保護法、屋外空間にARコンテンツを置く場合は屋外広告物条例や著作権が論点になる程度で、ツール提供者としては比較的軽微。"
       },
       "localization": {
-        "score": 5,
-        "reason": "UIの日本語化、ドキュメント翻訳、日本語フォント/IME対応、日本語によるAIプロンプトの3D生成品質確保が必要。React Native自体は日本でも一定の利用者があるが、英語ドキュメント前提のままでは中規模以上の法人採用は伸びにくい。"
+        "score": 4,
+        "reason": "Studio UIは英語、ドキュメントもreadme.io英語、3D/AR用語は日本語訳が確立しておらずReact公式日本語コミュニティとも未接続。Qiita/Zenn に過去のViroReact記事はあるが2025-26年最新のチュートリアルが乏しく日本語入門資産はほぼゼロ。"
       },
       "business_custom": {
         "score": 4,
-        "reason": "日本の大企業XR案件は受託開発(SIer/エージェンシー経由)が主流で、セルフサービスSaaSのボトムアップ採用は浸透しにくい。オープンソース+クラウド課金モデルは、購買稟議や請求書払い、契約書レビューといった商習慣との相性が悪い。"
+        "reason": "日本のAR/VR案件は受託・代理店ピッチ・PoCが中心で、内製ツール導入よりも『丸ごと制作委託』『毎回見積もり』の商習慣。OSS無料エディタを個人開発者が触っても法人売上に直結しにくく、ライセンス購買・社内決裁の流れに乗りづらい。"
       }
     },
     "existing_competitors_jp": [
       {
-        "name": "STYLY (株式会社STYLY、旧Psychic VR Lab)",
-        "url": "https://styly.cc/",
-        "note": "ブラウザベースでVR/AR/MR空間を制作・配信できるノーコードXRプラットフォーム。10万人超のクリエイターコミュニティ、PARCO等と協業実績あり。エンタープライズ・広告領域で国内最有力。"
+        "name": "STYLY WebAR (旧palanAR)",
+        "url": "https://webar-editor.styly.cc/",
+        "note": "2026年5月palanARとブランド統合した国内最大級のノーコードWebAR制作SaaS。約3,000社の導入実績で代理店ネットワークも保有し国内WebAR領域を実質寡占。"
       },
       {
-        "name": "palanAR (株式会社palan)",
-        "url": "https://palanar.com/",
-        "note": "ノーコードでWebARを作成できる国産SaaS。2019年提供開始で累計10,000件超のAR制作実績。マーカー/マーカーレス/画像認識/顔認識対応、VPS対応も追加済み。"
+        "name": "STYLY",
+        "url": "https://styly.inc/",
+        "note": "10万人超クリエイターの都市XRプラットフォーム。LBE・スマートグラス・ヘッドセットまでカバーし、ハイエンドXR制作の本命プレイヤー。"
       },
       {
-        "name": "Pretia (Pretia Technologies)",
-        "url": "https://pretia.com/",
-        "note": "ARクラウドプラットフォームを提供する国内スタートアップ。位置情報共有AR、マルチプレイAR、空間マッピングなどARアプリ開発の基盤を提供。"
+        "name": "COCOAR",
+        "url": "https://www.coco-ar.jp/cost/",
+        "note": "スターティアラボ提供のマーカー型WebARツール。販促・印刷物連動に強く中小企業層に厚い販路を持つ老舗。"
       },
       {
-        "name": "ホログラム株式会社 / その他XR受託",
-        "url": "https://ho-lo.jp/",
-        "note": "palanAR等を活用したAR受託開発を提供。日本の法人AR案件は受託エージェンシー経由のチャネルが強く、ツール直販と競合する構造。"
+        "name": "MESON",
+        "url": "https://meson.tokyo/",
+        "note": "Unity/Spatial Computing専門の受託・自社サービス開発スタジオ。法人XR PoC案件を多数獲得、AWE Nite Tokyo共同主催。"
+      },
+      {
+        "name": "Unity Japan",
+        "url": "https://unity.com/ja",
+        "note": "国内AR/VR開発のデファクト。Pokemon GO/ドラクエウォーク採用で日本語ドキュメントも豊富、ReactVisionの最大の構造的競合。"
       }
     ],
     "regulatory_findings": [
       {
-        "law": "著作権法",
-        "impact": "AIによる3Dアセット生成機能を商用利用する際、学習データの権利処理、生成物のライセンス、第三者ブランド/キャラクター類似生成のリスクが日本国内では特に厳格に問われる。Studio利用規約とAIモデル側のライセンス整合が必要。"
-      },
-      {
         "law": "個人情報保護法",
-        "impact": "ARアプリがカメラ映像や位置情報、顔認識データを扱う場合、利用目的の特定・通知、第三者提供制限、安全管理措置が必要。Studio自体は基盤だが、テンプレート/サンプルにこれらを促す機能を入れる場合は注意喚起が必要。"
+        "impact": "Geospatial AnchorsやAIアセット生成で位置情報・顔画像・ユーザー生成3Dデータを扱う場合、収集目的明示と第三者提供の同意が必要。本家クラウドが米国であれば越境移転規制(第28条)の対応も検討事項。"
       },
       {
-        "law": "景品表示法",
-        "impact": "ARコマース/プロモーション体験を顧客向けに作る場面で誤認表示や過剰な訴求が景表法対象となる可能性。Studioの責任範囲ではないが、日本展開時にエンタープライズ顧客への啓発資料があると採用ハードルが下がる。"
+        "law": "屋外広告物条例(各都道府県)",
+        "impact": "ARコンテンツを公共空間に重ねて表示する商業用途では、地域によって屋外広告物条例の解釈で許可申請を求められる事例が増えており、配信側へのガイドライン提供が課題。"
+      },
+      {
+        "law": "著作権法・肖像権",
+        "impact": "AI生成3Dアセット利用時、学習元データの権利処理と二次利用範囲が明確でないとクライアント納品時に争点化。生成AIの開示・トレーサビリティ要求が法人案件で厳しくなる傾向。"
       }
     ],
-    "opportunity": "日本独自の角度としては、(1) Unity案件のサブセットとしての軽量React Native AR受託をターゲットに、SIer/広告代理店向け再販パートナープログラムを設計、(2) Meta Quest 3sの国内本格普及(2024-2026)を捉え、社員研修・製造業マニュアル・販促ノベルティ等の業務VRテンプレートを和訳付きで提供、(3) STYLYやpalanARが手薄なReact Native専門のエンタープライズ向けセルフホストプラン+日本語SLAサポート、(4) ジオスペーシャルアンカーを活用した自治体観光AR/ロケーションベースエンタメ向けプリセット。ただしオープンソース基盤なので、純粋なクローン勝負ではなく日本市場特化のテンプレート/コンサル/再販エコシステムが現実的。",
-    "rationale": "ReactVision Studio自体は、8th Wall終了で空いた市場を狙う技術的に筋の良いプロダクトで、Meta Quest対応とReact Native単一コードベースは独自性が高い。しかし日本市場視点では、(a) AR/VR制作の国内主流はUnity+受託開発、(b) ノーコードAR領域はSTYLY・palanAR・Pretia等の国産先行勢が既にエンタープライズと広告領域を押さえている、(c) React Native採用企業はWeb系スタートアップに偏り、AR需要が大きいリテール/製造業ドメインとの重なりが小さい、という三重の逆風がある。規制リスクは低く、ローカライズも技術的には可能だが、日本特有の受託商習慣・稟議文化とオープンソース+セルフサービスSaaSモデルの相性が悪い。日本独自クローンを作るより、日本市場特化のテンプレート/再販パートナーを構築する角度のほうが現実的だが、PoC優先度としては「skip」相当と評価。",
-    "japan_fit_at": "2026-05-23T19:30:00Z",
-    "review_guide_at": "2026-05-23T19:30:00Z"
-  }
+    "opportunity": "8th Wall終了の移行先需要は確実に存在し、国内でも数百社規模のWebARストックがある。STYLY+palan統合に乗り遅れた、もしくは独自実装したい開発者向けに『React Native + ViroReact導入支援』『AIアセット生成ワークフローのレクチャー』『Quest法人向けPoC受託』のレイヤーで日本語ナレッジを最初に整備すれば、英語SaaSと国内代理店の隙間で独自ポジション獲得は可能。ただし本体がOSS+無料Studioのため、再販SaaSではなく受託・教育・テンプレ販売型の周辺事業に絞るのが現実的。",
+    "rationale": "需要・コンペ・ローカライズ・商習慣の四軸が日本市場では明確に逆風。Meta Questや空間コンピューティングのマクロ追い風はあるが、ターゲットがコンシューマでなくXR受託・PoC市場に偏る日本では、Unity/C#のレガシーが厚く、わざわざReact Nativeを選ぶ動機が制作会社側に薄い。さらに国内WebAR領域はSTYLY+palan統合で寡占化が進み、ノーコードのコモディティ層は既に取られた。Reactエンジニア人口は多くロングテール需要はあるものの、本家が完全無料OSS戦略のため日本人個人開発者が乗っかってSaaS再販する余地は限定的。規制リスクは軽いが、これだけでスコアは底上げできない。総合的に『見送り(skip)』が妥当で、業務側にすり込んで受託・教育サービスを薄く狙う程度が現実線。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "本家がOSS(MIT)＋Studio無料公開を明言しており、再販SaaSやライセンス販売の余地が薄い。受託開発、教育コンテンツ、テンプレート販売など周辺事業に限られ単価×件数の伸びしろが小さい。SaaS的MRR積み上げが困難。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "AR/VR制作SaaSの国内市場はSTYLY+palan統合で約3,000社規模。React Native限定はその一部の数百社規模と推測(検索で根拠未確認)。XR市場自体は1兆円台へ拡大予測だがハード/コンテンツ受託が主で、開発者向けツールのTAMは限定的。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "ターゲットがReact Native+AR興味層という狭い交差集合。Qiita/Zenn技術記事、ReactNative Tokyoミートアップ、Meta Quest法人向けセミナー等の地道なチャネルが中心。代理店経由は本家無料モデルでは利幅出ず難しい。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "8th Wall終了(2026年2月)で移行先探索が真っ最中、Ray-Ban Meta/Oakley Metaの国内展開、Meta Quest 3の法人導入加速など空間コンピューティング元年的タイミング。乗るならまさに今1-2年だが、競合も同じ波に乗ってくる。"
+      },
+      "solo_ops": {
+        "score": 6,
+        "reason": "本体OSSとSaaSはReactVision社が運用するため、個人開発者は受託・教育・テンプレ販売など軽量ビジネスで参入可。在庫無し、サポートも限定的にできるが、AR/VRの技術キャッチアップとマルチデバイス検証の負荷は高め。"
+      }
+    },
+    "rationale": "事業性は明確に弱い。最大の構造問題は本家がOSS+完全無料Studio戦略を取っていることで、日本市場で再販SaaSとして稼ぐパスがほぼ閉ざされている。受託開発に倒すとそれは『AR/VR受託会社』であり差別化軸がReact Native縛りに過ぎず、Unityで受ける既存制作会社のほうが案件単価・実績で圧倒的優位。教育コンテンツ・テンプレート販売は単価が低く、Reactエンジニア×AR興味層という狭い交差集合のため大量送客も難しい。タイミングは8th Wall終了で良好だが、その需要はSTYLY+palan統合体が真っ先に取りに行く構造で、個人開発者が中間に入る余地は小さい。Solo継続は技術好奇心駆動なら可能だが、月数万円規模を超えるMRR化は厳しく、サイドプロジェクト止まりが現実線。go/no-goでは『consider』にすらせず『no_go』寄りの『consider』が妥当。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "one_time",
+      "arpu_jpy": 30000,
+      "plans": [
+        "テンプレ販売: 業種別ARシーン雛形 5,000円/個",
+        "PoC受託パック: 1案件30万円から(Studio+ViroReact構築代行)",
+        "オンライン講座: ReactVisionで作るAR入門 19,800円/buyout",
+        "月額メンター: 個人開発者向けSlack相談 9,800円/月",
+        "法人ハンズオン: Meta Quest導入支援 1日50万円"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "React/React Nativeを実務利用するWeb・モバイル開発者で、AR/VR体験案件のPoC構築や教育・観光・販促コンテンツを内製または小規模受託したい個人開発者・5名以下の制作会社・新規事業担当エンジニア。Meta Quest法人導入を検討する中堅事業会社の情シス/DX部隊も含む。",
+      "target_count": 3000,
+      "capture_pct_year3": 2.0,
+      "monthly_revenue_target_jpy": 1800000
+    },
+    "recommended_gtm": [
+      "Qiita/ZennでReactVision Studio日本語入門記事を連載しSEO占有",
+      "React Native Tokyo / Meta Tokyoミートアップで実機デモLT",
+      "8th Wall移行ガイドの日本語版を作りWebAR制作会社へ営業",
+      "Meta Quest法人導入PoCをパッケージ化し代理店経由で販売",
+      "YouTube/Xで『Unity不要のAR/VR』というポジショニング動画展開",
+      "ReactVision本家との非公式日本コミュニティ運営でリード集約"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家がOSS+無料Studio継続で再販SaaS化の道が閉じている",
+      "STYLY+palan統合体がノーコードWebAR市場を寡占しシェア奪取が困難",
+      "Unity中心のXR受託商習慣が変わらずReact Native案件が増えない",
+      "Meta Quest等XRハードの普及が予測より遅れ法人需要が伸び悩むリスク",
+      "AI生成3Dアセットの著作権・規制強化で法人提案が滞る可能性"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z",
+  "business_viability_at": "2026-05-23T19:30:00Z",
+  "advisor_view_at": "2026-05-23T19:30:00Z"
 }

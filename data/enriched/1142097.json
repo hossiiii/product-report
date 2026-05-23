@@ -77,35 +77,35 @@
   ],
   "ph_enriched_at": "2026-05-23T19:05:56",
   "landing_meta": "Shadow — AI for meetings, voice typing, replies, and more — Shadow runs in your meetings and on a keyboard shortcut anywhere else. Captures what you see and say, then runs your Skills — meeting notes, voice typing, replies, and more.",
-  "landing_text": "Shadow — AI for meetings, voice typing, replies, and more Try For Free The interface AI needs. One that sees, hears, and runs. The keyboard and mouse were built for action. That's AI's job now. Shadow is built for thought — it sees your screen, hears your voice, and runs the rest. From meeting notes to voice typing , quick replies , and more. Download for Mac Thousands of professionals already trust Shadow How it works Shadow captures what you say, hear, and see — then runs your own prompts. Meetings Shadow auto-starts and ends with your call, transcribes every word, and detects meeting screens to capture screenshots — so nothing slips by. Actions Press a keyboard shortcut to capture what you're saying, seeing, or reading — Shadow turns it into an email, notes, code, or whatever you need. Meetings Runs while you're in the call. Shadow joins nothing, hears everything, sees everything. Your call becomes whatever you need — meeting notes, a BANT breakdown, a follow-up email. Pick a Skill, or write your own. Shadow runs it the moment the call ends. No Bots Shadow operates entirely in the background — no bots, no interruptions. Autopilot Mode Shadow automatically detects meetings, records discussions, and structures key takeaways — so you never have to press start. Works with Speaker Identification Detects and labels speakers in real time — so you always know who said what. Meeting Skills Every Skill is a prompt — yours to edit, or write from scratch. Run meeting notes, BANT breakdowns, action items, follow-up emails, customer feedback summaries — or anything else you can describe in a prompt. Webhook Send transcripts and Skill results to your tools — Zapier, n8n, Make. Markdown Save transcripts and Skill outputs as clean .md files. Ask Ask anything about a meeting — not just what was said, but what was shown. Smart Screenshot Shadow finds your meeting window — Zoom, Huddle, anything — and captures it on its own. Actions Your shortcut to everything else. Press a keyboard",
+  "landing_text": "Shadow — AI for meetings, voice typing, replies, and more Try For Free The interface AI needs. One that sees, hears, and runs. The keyboard and mouse were built for action. That's AI's job now. Shadow is built for thought — it sees your screen, hears your voice, and runs the rest. From meeting notes to voice typing , quick replies , and more. Download for Mac Thousands of professionals already trust Shadow How it works Shadow captures what you say, hear, and see — then runs your own prompts. Meetings Shadow auto-starts and ends with your call, transcribes every word, and detects meeting screens to capture screenshots — so nothing slips by. Actions Press a keyboard shortcut to capture what you're saying, seeing, or reading — Shadow turns it into an email, notes, code, or whatever you need. Meetings Runs while you're in the call. Shadow joins nothing, hears everything, sees everything. Your call becomes whatever you need — meeting notes, a BANT breakdown, a follow-up email. Pick a Skill, or write your own. Shadow runs it the moment the call ends. No Bots Shadow operates entirely in the background — no bots, no interruptions. Autopilot Mode Shadow automatically detects meetings, records discussions, and structures key takeaways — so you never have to press start. Works with Speaker Identification Detects and labels speakers in real time — so you always know who said what. Meeting Skills Every Skill is a prompt — yours to edit, or write from scratch. Run meeting notes, BANT breakdowns, action items, follow-up emails, customer feedback summaries — or anything else you can describe in a prompt. Webhook Send transcripts and Skill results to your tools — Zapier, n8n, Make. Markdown Save transcripts and Skill outputs as clean .md files.  Ask Ask anything about a meeting — not just what was said, but what was shown. Smart Screenshot Shadow finds your meeting window — Zoom, Huddle, anything — and captures it on its own. Actions Your shortcut to everything else. Press a keyboard",
   "pricing_signals": [
     "pricing",
     "$5",
     "$16"
   ],
   "landing_fetched_at": "2026-05-23T19:05:57",
-  "description_ja": "AIが必要とするインターフェース。画面を見て、音声を聞き、Skillを実行するMac常駐アシスタント。",
-  "summary_ja": "Mac画面と音声をローカルで取り込み、ユーザー定義のプロンプト(Skill)をキーボードショートカットや会議中に実行するAIランチャー。議事録、メール下書き、音声入力などをボット不要・ローカル処理で提供する。",
+  "description_ja": "見て聞いて実行する、AIのためのインターフェース。Macの画面と音声を読み取り自作プロンプトを起動。",
+  "summary_ja": "Mac常駐型AIアシスタント。画面・音声・発話を捕捉し、キーボードショートカットや会議で自作Skill（プロンプト）を実行。議事録、音声入力、メール返信などを一発生成し、文字起こしはローカル処理でプライバシーを担保する。",
   "review_guide_ja": {
-    "what": "Shadow V2はMac常駐型のAIインターフェース。画面キャプチャ・マイク・システム音声を常時監視し、ユーザーが定義した『Skill』(プロンプト+入力ソース+出力先のセット)をキーボードショートカットで即時実行する。代表的Skillは(1)Quick Reply: 画面上のメールを読み取り音声から返信下書き生成、(2)Voice Typing: 任意テキストフィールドへの高速音声入力、(3)Meeting Skills: Zoom/Huddleなどを自動検知し会議終了と同時に議事録/BANT/アクションアイテム/フォロー邮件を生成。ボットが会議に参加せずローカル文字起こし、Webhook(Zapier/n8n/Make)とMarkdownエクスポートに対応。料金は$5/$16の2層。",
-    "for_who": "Mac中心のナレッジワーカー(営業・PM・コンサル・エンジニア)、個人開発者、英語圏のスタートアップ。プロンプトを自分でカスタマイズしたいパワーユーザー、会議が多くボット参加に抵抗があるセキュリティ意識の高い層。",
+    "what": "ShadowはmacOS常駐型のAI実行レイヤー。画面キャプチャ・システム音声・マイクをトリガにして、ユーザーが定義した「Skill」（プロンプト+入力ソース+出力先のセット）をキーボードショートカットで実行する。代表的Skillは(1)会議自動録音→議事録/フォローアップ生成、(2)Voice Typing（あらゆるテキスト欄に音声入力で清書テキストを挿入）、(3)Quick Reply（画面上のメールを読み取り発話から返信ドラフト生成）。Zoom/Meet/Teams/Webex/Slack Huddle/Discordなどの会議をボット参加なしで検出し、音声はMac上でローカル文字起こし、出力はWebhook（Zapier/n8n/Make）やMarkdownへ送出可能。Skillsはプロンプト/入力範囲/出力先を編集可能で、ユーザー自身が業務テンプレート化できるのが核心的差別化。",
+    "for_who": "Macで業務するナレッジワーカー、特に会議が多い営業/PM/コンサル/起業家。プライバシー意識が高くクラウド送信を嫌う層、ChatGPTのコピペ往復を削減したい個人開発者やライター、自前ワークフローをショートカット化したいパワーユーザー。",
     "reproducibility": {
-      "level": "medium",
-      "reason": "Whisper等のローカルSTT、画面キャプチャAPI、ホットキー、LLM API呼び出しの組合せで構成可能。ただし話者分離・常時バックグラウンド動作・Skillエンジンの安定化に2〜3ヶ月。"
+      "level": "hard",
+      "reason": "macOSのアクセシビリティ/画面収録/システム音声キャプチャ実装、ローカルWhisper級モデルの推論最適化、話者分離、Skillエンジン設計など総合難度が高い。個人開発では1要素ずつなら可能。"
     },
     "signals": [
-      "Product Hunt 4回目のローンチで上位、217 upvotes",
-      "ボット不参加+ローカル音声処理というセキュリティ訴求",
-      "$5の低価格エントリーで個人ユーザー獲得しやすい",
-      "プロンプト=Skillとしてユーザーが拡張できるプラットフォーム化",
-      "音声入力(Voice Typing)はWisprFlow等で需要が証明済み"
+      "Product Hunt 4回目ローンチで217 upvotes、創業者がV2を集大成と位置付け継続的に磨き込み",
+      "音声完全ローカル処理・Bot非参加というプライバシー設計が他社差別化として明確",
+      "Voice Typing/Quick Reply/会議議事録など複数ユースケースに横展開し『AI実行UI』として汎用化",
+      "Webhook/Markdown対応で個人/開発者ユーザーのワークフロー組込が容易",
+      "価格シグナル$5/$16と低価格レンジで個人課金しやすい"
     ],
     "concerns": [
-      "Mac限定でWindows/Linux市場を取り逃す",
-      "Granola/Cluely/WisprFlow/Krisp等の競合が密集",
-      "常時画面・音声監視のためプライバシー懸念",
-      "ローカル処理を謳うがLLM側にプロンプトが送られる範囲が不透明",
-      "Skillという抽象化が一般ユーザーに難解な可能性"
+      "日本語の文字起こし精度・話者分離・要約品質が未検証（プロダクト訴求は英語中心）",
+      "macOS専用でWindowsユーザー（日本オフィスの主流）を取り込めない",
+      "Bot非参加方式は録音通知UIを自社で持たないため、参加者同意の運用責任がユーザー側に残る",
+      "Notta/Otolio/YOMEL等の国内勢が既に強固で『会議録音だけ』では刺さりにくい",
+      "ローカル推論はApple Silicon前提のため対応機種が限定される懸念"
     ]
   },
   "japan_fit": {
@@ -114,69 +114,129 @@
     "axes": {
       "demand": {
         "score": 8,
-        "reason": "AI議事録/文字起こし市場は2025-2026年に日本でも急成長。Notta、スマート書記、Rimo Voice、toruno、AI議事録取れる君など多数のSaaSが月額1,000〜30,000円帯で立ち上がり、企業導入が進む。音声入力(Voice Typing)も生産性需要が顕在化。"
+        "reason": "国内AI議事録市場は約380億円規模で前年比+42%、企業導入率も従業員100名以上で約35%と急拡大中。会議・音声入力の生産性向上ニーズは個人/法人とも強い。ボット不参加・ローカル処理という訴求は機密性重視の日本企業に刺さる余地が大きい。"
       },
       "competition": {
-        "score": 3,
-        "reason": "AI議事録領域は国内競合が15社以上ひしめく飽和市場。AmiVoice ScribeAssist(国産音声認識トップシェア)、Notta、Rimo Voice、スマート書記、toruno、PLAUD等が成熟しMicrosoft/Google純正AIも標準搭載。Shadow独自のSkill/画面認識軸は新しいが訴求難。"
+        "score": 4,
+        "reason": "Otolio(18.8%)/Notta(12.1%)/AI GIJIROKU(11.3%)/YOMEL(9.3%)/Rimo Voice/tl;dvが既に強固な国内シェアを構築。Notta年払い月1,185円という低価格相場が形成され、後発が単なる議事録ツールで参入する余地は小さい。Skill実行UI側は競合薄め。"
       },
       "regulation": {
-        "score": 7,
-        "reason": "音声データは個人情報保護法の対象で安全管理措置義務あり。Shadowはローカル文字起こし+音声はMacに留まる設計のため越境移転リスクは低めだが、LLM呼び出し時のプロンプト送信先(海外クラウド)は越境移転の説明責任が発生。実装上のハードルは中程度。"
+        "score": 6,
+        "reason": "個情法上、録音音声・氏名等を含む議事録は個人情報。利用目的の通知/公表義務はあるが録音事実の通知義務自体は条文では明示なし。実務上は参加者同意取得が必須。BotレスはむしろUI上で同意プロセスを置きにくい。電通事業法の通信秘密は社内ネット閉域には及ばず影響限定。"
       },
       "localization": {
-        "score": 8,
-        "reason": "UIは英語ベースだがプロンプト=Skillの仕組みのため日本語化はプロンプト書換とSTTモデル切替で対応可能。ローカル文字起こしエンジン(Whisper等)が日本語対応していれば移行は比較的容易。話者分離の日本語精度が課題。"
+        "score": 5,
+        "reason": "UI日本語化、日本語音声認識・話者分離、敬語/ビジネス用語の要約品質、Zoom/Teams/Google Meet日本語UIの検出、和暦/日本のメール定型対応など要対応事項が多い。Wispr/Superwhisperと同様、英語起点プロダクトの日本語品質は構造的に劣後しがちで作り込み必須。"
       },
       "business_custom": {
-        "score": 6,
-        "reason": "ボット不参加・ローカル処理は日本企業のセキュリティ要件に好適。一方、稟議文化や日本語特有の敬語/曖昧表現の議事録要約、Slack/Chatwork/Teamsへの出力連携、請求書日本円対応など細部の調整が必要。BYOK/SSO等エンタープライズ機能も要求される。"
+        "score": 5,
+        "reason": "日本企業の会議文化は録音忌避・対面比率高め・敬語要約への要求が強い。BANT/Quick ReplyはB2B英語SaaS文脈寄りで、稟議文化や日本式議事録（決定事項/宿題/期日）テンプレに直接合致しない。個人ナレッジワーカーには合うが法人標準とは距離。"
       }
     },
     "existing_competitors_jp": [
       {
-        "name": "Notta",
-        "url": "https://www.notta.ai/ja",
-        "note": "日本語認識精度98.86%を謳うAI議事録/文字起こしSaaS。カスタム単語登録、Zoom/Teams連携、要約まで一気通貫。個人/法人とも国内シェア上位。"
+        "name": "Otolio（旧スマート書記）",
+        "url": "https://www.smartshoki.com/",
+        "note": "国内シェア18.8%首位。Mac/PCブラウザ対応、対面・Web会議両対応、AI要約・要点抽出。法人向け強し。"
       },
       {
-        "name": "スマート書記",
-        "url": "https://www.smartshoki.com/",
-        "note": "エピックベース提供。録音→文字起こし→議事録テンプレ生成まで一貫対応する法人向けクラウド。日本語精度90%以上、議事録テンプレ充実。"
+        "name": "Notta",
+        "url": "https://www.notta.ai/",
+        "note": "シェア12.1%。年払い月1,185円でAI要約・話者識別・58言語対応・Apple Watch等の幅広い導線で個人〜中小に強い。"
       },
       {
         "name": "Rimo Voice",
-        "url": "https://rimo.app/about/voice",
-        "note": "Rimo社の音声特化AI。カスタム単語、要約、話者分離。国内SaaSの中では生成AI連携に積極的で、API公開もあり。"
+        "url": "https://rimo.app/",
+        "note": "国産。個人月1,650円〜、プロ月4,950円〜。日本語精度を訴求し士業・編集等の単発文字起こし需要に強い。"
       },
       {
-        "name": "toruno",
-        "url": "https://toruno.biz/",
-        "note": "RICOH提供。Web会議に参加せず手元のPC音声を録音・文字起こし。ボット不参加というShadowと同じ訴求を国産で実現済み。"
-      },
-      {
-        "name": "AmiVoice ScribeAssist",
-        "url": "https://www.advanced-media.co.jp/products/service/scribe-assist",
-        "note": "アドバンスト・メディアの国産音声認識エンジン。長年の業務実績と高い日本語精度で官公庁/医療/法務など堅い領域に強い。"
+        "name": "Wispr Flow / Superwhisper",
+        "url": "https://wisprflow.ai/",
+        "note": "Voice Typing系の海外競合。日本語ユーザーレビューも存在するがWispr/Superwhisperは日本語品質に構造的弱点ありShadowと正面競合。"
       }
     ],
     "regulatory_findings": [
       {
         "law": "個人情報保護法",
-        "impact": "会議録音やマイク音声は『特定の個人を識別できる声』として個人情報に該当しうる。安全管理措置(組織的・人的・物理的・技術的)が義務。LLM処理で海外クラウドに送信する場合は越境移転として本人同意/移転先国の制度説明が必要(2022年改正)。"
+        "impact": "録音音声・氏名・所属を含む議事録は個人情報。事業者ユーザーは利用目的特定・通知公表、安全管理措置（ローカル保存ならOK判断しやすい）、第三者提供制限が必要。Shadowは音声をMac上に留める設計で安全管理上は有利だが、出力をWebhook経由でクラウド転送する場合は越境移転含むPP整備が必須。"
       },
       {
-        "law": "電気通信事業法(外部送信規律)",
-        "impact": "2023年6月施行の改正で、ユーザー端末から外部に情報を送信する事業者は送信先・項目の通知/公表義務。画面キャプチャやプロンプトを外部LLMに送るSaaSはこの規律の射程に入る可能性が高い。"
+        "law": "電気通信事業法（通信の秘密）",
+        "impact": "社内LAN/個人PC上で完結する会議録音には原則及ばない。一方でShadow経由でクラウドLLMに音声/転写を送る経路があるならば、利用者は同意取得とPP記載で備える必要あり。ローカル完結を厳守すれば追加負担は軽微。"
       },
       {
         "law": "著作権法",
-        "impact": "会議参加者の発言録音/録画は無断録音の論点はあるが業務利用は概ね適法。一方、画面に映る第三者の著作物(資料・スライド)をAI学習目的で送信する場合は30条の4の限界が問題。"
+        "impact": "他者の話した発話を録音/転写し配布する場合、著作権よりも肖像権・パブリシティ権・契約上の守秘義務が論点。日本の判例上は会話当事者の一方の同意で録音は適法とされるが、社外配布時は別途の同意/契約整備が必要。"
       }
     ],
-    "opportunity": "日本独自の角度は『商習慣特化のSkillストア』。(1)日本語敬語/丁寧語に最適化した議事録テンプレ(議題・決定事項・宿題・次回アジェンダ)、(2)BANT/MEDDICではなく国内営業フレーム(SPIN日本語版・稟議要約)、(3)Slack/Chatwork/kintone/Notion日本語版/Backlog出力、(4)金融/医療/官公庁向けに国内データセンター+AmiVoice等の国産STTを選択可能なBYOSTT、(5)経費精算/勤怠SaaS連携(マネーフォワード/freee/SmartHR)。ボット不参加+ローカル処理はセキュリティ厳しい大企業/士業/医療への突破口。Skill=プロンプトという拡張性は日本のSIerやコンサルが受託カスタムする商流とも相性が良い。",
-    "rationale": "需要は強い(score 8)が、国内競合が15社以上で飽和(score 3)している赤い海。Shadowの差別化はSkillによる汎用プロンプトランナー(議事録に閉じない)とローカル処理+ボット不参加だが、後者はtorunoが国産で先行している。一方、Skillストアという拡張プラットフォーム化と、画面+音声+任意ホットキーで会議外も対象化する点は国内勢にまだ無い。規制面はローカル処理の設計でリスク低めだが、外部LLM送信は電通法外部送信規律と個情法越境移転の説明責任が残る。総合スコアは6で『watch』。そのまま輸入しても国内勢に勝てず、日本商習慣特化Skillストア+国産STT選択肢+国内DC+業務SaaS連携で再構築すれば勝ち筋がある。"
+    "opportunity": "国内AI議事録市場は急成長中で『ローカル処理＋Botレス＋ショートカット起動の汎用AI実行UI』という切り口は競合と被らない。特に守秘義務の重い士業・医療・経営者・採用面談などプライバシー要件の高いセグメントは、クラウド送信前提のNotta/Otolioが取り切れない。ShadowはここにApple Silicon専用＋ローカル文字起こしという物理的安心感で差別化可能。さらにVoice Typing/Quick Reply等の周辺Skillで『議事録ツール』から脱却し、ChatGPT併用層の日常AI UIになれれば日本でも個人課金（月1,500-3,000円）が成立する余地は大きい。",
+    "rationale": "需要は強いが競合はNotta/Otolio中心に既に厚く、議事録だけでは8軸換算で勝てない。一方でShadowの強みは『議事録に閉じない実行レイヤー』であり、Voice Typing/Quick Reply/カスタムSkillという拡張面で国内に同等プロダクトはほぼ存在しない（Wispr/Superwhisperは日本語品質弱点）。プライバシー要件・録音忌避という日本特有の摩擦に対し、ローカル処理・Bot非参加という設計は説得力のある回答になる。ただしWindowsシェアが日本オフィスで高いこと、日本語の認識/要約品質ローカライズ負担、敬語ビジネス文書テンプレ整備、商習慣（議事録は決定事項/宿題/期日の三点セット）への適合が必須。総じて『見る価値はあるが正面突破は危険、個人〜SMBのプライバシー重視層に絞れば商機』との総合判断でwatchが妥当。"
   },
-  "japan_fit_at": "2026-05-23T20:15:00",
-  "review_guide_at": "2026-05-23T20:15:00"
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "AI議事録/音声入力は日本でも月1,000-2,000円の個人課金が定着しつつあり（Notta年払い月1,185円、Rimo個人1,650円）、Shadowのpricing_signals $5/$16も日本円換算で月750-2,400円と消化しやすい。BYOK疑問が出ているとおり、APIコスト負担を顧客側に寄せられれば粗利は確保しやすい。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内AI議事録市場380億円規模、加えてVoice Typing/Quick Replyを含めればナレッジワーカー全体（数百万人規模）が対象になり、TAMとしては個人/SMB特化なら十分。ただしWindows比率が日本では7-8割と高くMac限定で実効SAMは大きく目減りする。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "個人開発で日本上陸する場合の主な販路はX/Note/Zenn/Qiita/YouTube/Product Hunt Japan系媒体。本家Shadowが日本マーケに本格投資する公的シグナルは未確認で、サードパーティが代理販売する余地もない。SEO上は競合の比較記事が既に充実しており新規露出が難しい。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "Notta等が9.9億円調達し市場成長期。AI議事録は『どれを選ぶか』フェーズに入りつつあるが、ローカル処理・Botレス軸はまだ未差別化領域で残り12-18ヶ月の窓は残る。ただしWispr/Superwhisper等の海外勢も日本語対応を強化中で猶予は短い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "macOS native + ローカル音声認識モデル + 話者分離 + LLM統合 + Skillエンジン + Webhookという技術スタック総量が大きく、個人開発で同等再現は極めて困難。サポート負荷も会議という業務クリティカル領域では高め。フォロー特化（プロンプトテンプレ販売やローカル特化派生）なら現実的。"
+      }
+    },
+    "rationale": "Shadow本体を日本人個人開発者がコピー参入するのは技術ハードル・競合厚みの両面で困難。ただし『日本語ビジネス会議に最適化した議事録テンプレ集』『Apple Silicon前提の超軽量Voice Typing』『プライバシー要件の高い士業向けローカル議事録ツール』のように軸を絞った派生なら市場あり。Mac限定×プライバシー特化×個人課金月1,500-2,500円というポジションで、日本のフリーランス/コンサル/採用担当などターゲットを絞ればSMB100-300契約レンジ（月15-75万円）は射程。一方でWindows市場や法人本格導入を狙うとOtolio/Nottaと正面衝突で勝ち目薄い。コアの会議録音/転写エンジン自体は個人開発で作り切るのは非現実的で、Whisperモデル等を組み合わせた軽量派生に絞るべき。total viabilityは中庸の5。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 1800,
+      "plans": [
+        "Free: 月10時間まで文字起こし、Skill 3個まで、要約品質スタンダード",
+        "Pro 月額1,800円: 録音時間無制限、Skill無制限、話者分離、Webhook連携",
+        "Pro 年額18,000円: 月額換算1,500円、年払い割引",
+        "Team 月額3,500円/人: 共有Skill、管理コンソール、SSO（3名〜）",
+        "BYOK割引: 自社OpenAI/Anthropic APIキー持込でPro月額1,200円"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Macで業務する個人/小規模チームのナレッジワーカーで会議が多い層。具体的には士業（弁護士/会計士/コンサル）、採用担当、PM/カスタマーサクセス、フリーランスのライター/編集者、起業家。クラウドに音声を送りたくないプライバシー要件があり、月1,500-2,500円の個人課金が苦にならない層。",
+      "target_count": 300000,
+      "capture_pct_year3": 0.2,
+      "monthly_revenue_target_jpy": 1080000
+    },
+    "recommended_gtm": [
+      "X（旧Twitter）で士業/コンサル/採用担当のインフルエンサーを巻き込み、Botレス×ローカル処理の安心感を訴求するデモ動画を継続投下する",
+      "Zenn/Qiitaに『Apple Silicon上で動くローカル議事録ツール比較』『Whisperベース文字起こしの精度検証』記事を寄稿してSEO露出を獲得する",
+      "YouTube/note向けに『弁護士/採用面接で使えるBot非参加議事録Skill集』をテンプレ配布し、Skillマーケットプレイス化で口コミ拡散させる",
+      "Product Hunt Japan系媒体・運営者ギルド等の個人開発コミュニティで露出し、初期100ユーザーを獲得してフィードバックループを回す",
+      "Notion/Slack/Salesforce連携Skillをパッケージ化し、SaaS比較サイト（BOXIL/ITreview/PRONI）への掲載で法人検討層に到達する"
+    ],
+    "time_window_months": 15,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "macOSのシステム音声・画面収録APIは権限取得UXが煩雑で、初回導入で離脱が発生しやすい。Apple Silicon限定はターゲット母集団をさらに削る。",
+      "日本語ローカル文字起こしの精度がNotta/Otolio等のクラウド型に対し劣後すると致命的。Whisper large系をオンデバイスで動かす計算コスト・遅延も商品体験に直結する。",
+      "BotレスはMS Teams/Zoom側のポリシー変更（システム音声キャプチャ制限）で機能停止のリスクあり。プラットフォーム依存度が高い。",
+      "本家Shadow自体が日本市場に注力し公式日本語版を出した場合、サードパーティ的なローカル派生プロダクトは即座に競争力を失う。",
+      "会議録音は参加者同意の運用責任が利用者側に残り、無断録音トラブル発生時のレピュテーション毀損が個人開発者には致命傷になり得る。"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-23T11:15:53Z",
+  "review_guide_at": "2026-05-23T11:15:53Z",
+  "business_viability_at": "2026-05-23T11:15:53Z",
+  "advisor_view_at": "2026-05-23T11:15:53Z"
 }

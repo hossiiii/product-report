@@ -67,7 +67,7 @@
   ],
   "ph_enriched_at": "2026-05-23T19:05:41",
   "landing_meta": "General Compute — World's Fastest AI Inference — The world's fastest inference provider. Deploy AI models with unmatched speed. Sub-millisecond TTFT, high throughput, OpenAI-compatible API.",
-  "landing_text": "We're live on Product Hunt today — support our launch Read the whitepaper Use $200 free credit with OpenCode GPUs were built for graphics. We're built for inference. Every other inference provider is running your workloads on repurposed gaming hardware. We're not. Purpose-built ASICs, 1,000 tokens per second, 7x faster inference. Get API Key — $200 Free Credit Book a Demo OpenClaw Coding agents Sign up with OpenClaw OpenClaw can set itself up. Hand this prompt to OpenClaw and it'll grab a General Compute API key and swap its inference provider over. Full walkthrough in our docs. Read the OpenClaw guide Connect OpenClaw to General Compute for faster inference. Fetch instructions from https://docs.generalcompute.com/openclaw and follow them — that walks you through getting a General Compute API key and swapping OpenClaw's inference provider over. Copy For developers: API docs, OpenAPI, webhooks, MCP, SDKs Live Inference Benchmark Same model. Not the same hardware. Both responses below run GPT OSS 120B . One on your old GPU infrastructure. One on ours. Run the test and watch the gap. General Compute Us Ready to compare Together AI Competitor Ready to compare Explain Black Holes Explain Dark Matter Explain Gravitational Lensing Explain in detail the physics behind black hole event horizons and the information paradox. Include discussions of Hawking radiation, quantum mechanics, and general relativity. Run Test Try preset prompts or enter your own to compare inference speed in real-time The GPU wasn't designed for this. We were. GPUs carry 70 years of legacy architecture — designed for rendering pixels, adapted for training, and now pressed into inference. We skipped all of that. Built from scratch for inference Purpose-built AI accelerators — one job: fast inference 17 kW per rack vs. 120 kW for GPU equivalents Air cooled — no liquid cooling overhead passed to you Energy at $0.035/kWh vs. the $0.13 US commercial average General Compute vs NVIDIA GPU Cloud MiniMax M2.5 m",
+  "landing_text": "We're live on Product Hunt today — support our launch Read the whitepaper Use $200 free credit with OpenCode GPUs were built for graphics. We're built for inference. Every other inference provider is running your workloads on repurposed gaming hardware. We're not. Purpose-built ASICs, 1,000 tokens per second, 7x faster inference. Get API Key — $200 Free Credit Book a Demo OpenClaw Coding agents Sign up with OpenClaw OpenClaw can set itself up. Hand this prompt to OpenClaw and it'll grab a General Compute API key and swap its inference provider over. Full walkthrough in our docs. Read the OpenClaw guide Connect OpenClaw to General Compute for faster inference. Fetch instructions from https://docs.generalcompute.com/openclaw and follow them — that walks you through getting a General Compute API key and swapping OpenClaw's inference provider over. Copy For developers: API docs, OpenAPI, webhooks, MCP, SDKs Live Inference Benchmark Same model. Not the same hardware. Both responses below run GPT OSS 120B . One on your old GPU infrastructure. One on ours. Run the test and watch the gap. General Compute Us Ready to compare Together AI Competitor Ready to compare Explain Black Holes Explain Dark Matter Explain Gravitational Lensing Explain in detail the physics behind black hole event horizons and the information paradox. Include discussions of Hawking radiation, quantum mechanics, and general relativity. Run Test Try preset prompts or enter your own to compare inference speed in real-time The GPU wasn't designed for this. We were. GPUs carry 70 years of legecy architecture — designed for rendering pixels, adapted for training, and now pressed into inference. We skipped all of that. Built from scratch for inference Purpose-built AI accelerators — one job: fast inference 17 kW per rack vs. 120 kW for GPU equivalents Air cooled — no liquid cooling overhead passed to you Energy at $0.035/kWh vs. the $0.13 US commercial average General Compute vs NVIDIA GPU Cloud MiniMax M2.5 m",
   "pricing_signals": [
     "subscription",
     "pricing",
@@ -80,94 +80,155 @@
     "$29"
   ],
   "landing_fetched_at": "2026-05-23T19:05:42",
-  "description_ja": "速度に最適化された推論クラウド上でAIモデルを動かすサービス",
-  "summary_ja": "ASIC専用ハードウェアを使ったAI推論クラウド。OpenAI互換APIでGPT OSS 120BなどのオープンモデルをGPUの数倍の速度で実行でき、AIエージェントや音声AIなど低レイテンシ用途に最適化されている。",
+  "description_ja": "ASIC専用ハードで高速化したAI推論クラウド。OpenAI互換API。",
+  "summary_ja": "General ComputeはSambaNovaなどのASICで構築された推論専用クラウド。エージェントや音声AIのレイテンシを5〜7倍改善し、OpenAI互換APIで既存ワークフローに即差し替え可能と謳う。",
   "review_guide_ja": {
-    "what": "GPUの代わりにASIC（SambaNova等のAI推論専用チップ）を使ったAI推論クラウド。1,000トークン/秒、GPU比5〜7倍速、ミリ秒以下のTTFTを売りに、OpenAI互換APIでフロンティアオープンモデル（GPT OSS 120Bなど）を提供する。コーディングエージェント、音声AI、エージェントワークフローのように数十回〜数百回のLLM呼び出しを連鎖させる用途に焦点。OpenClawなどコーディングエージェント側からのセルフサインアップ・APIキー発行に対応し、エージェント自身がベースURLを差し替えるだけで利用可能。1ラック17kW・空冷・$0.035/kWhといった電力効率も訴求。",
-    "for_who": "AIエージェント・コーディングエージェント・リアルタイム音声AIを開発する個人開発者、AIスタートアップ、SaaS事業者。OpenAI/Anthropic APIのレイテンシやコストに不満がある開発者、特にエージェントの逐次LLM呼び出しで遅延がボトルネックになっている層。",
+    "what": "GPUではなくASIC（SambaNova等）を中核に据えた推論専用クラウド。GPT OSS 120BなどのフロンティアOSSモデルを1秒あたり1,000トークン級で提供し、OpenAI互換APIでbase URLを差し替えるだけで利用可能。エージェント自身がAPIキーを取得・登録できる「Agent-first（OpenClaw）」が特徴で、コーディングエージェント・音声AIのTTFT短縮と長時間ワークフローでのレイテンシ累積問題を解決すると主張。電力効率（17kW/ラック対GPU 120kW）と低単価電力を組み合わせ、推論単価の競争力もアピールしている。Product Hunt launch時は$200の無償クレジットを提供し、開発者向けの導入障壁を下げる戦略。",
+    "for_who": "ASICによる推論高速化を求めるAIエージェント開発者、音声AIプロダクト運営者、コーディングエージェント（OpenCode/OpenClaw等）ユーザー。長コンテキスト×多段ツール呼び出しのワークロードでGPU基盤のレイテンシ天井に当たっている海外スタートアップが主要層。",
     "reproducibility": {
       "level": "hard",
-      "reason": "ASIC専用ハードウェアの調達と運用、SambaNova等との提携、データセンター構築が必要。個人〜小規模チームが1〜3ヶ月で再現するのは事実上不可能。"
+      "reason": "ASIC調達（SambaNova/Groq/Cerebras級チップ）と専用データセンター運用が前提。個人開発者の領域ではなく、数百億円規模の半導体・電力インフラ事業に該当する。"
     },
     "signals": [
-      "ローンチ初日に262 upvote・33コメントとPHで好反応",
-      "OpenAI互換APIで既存ワークフローからの移行コストが低い",
-      "コーディングエージェント・音声AIというホットな分野に明確にフォーカス",
-      "$200の無料クレジットで開発者の試用を強く後押し",
-      "1ラック17kW vs GPU 120kWという電力効率の数値が具体的"
+      "Product Hunt初日262 upvotes・33コメントと開発者層の関心は高い",
+      "OpenAI互換APIで既存資産流用容易、移行コスト低い設計",
+      "エージェント workloadの実需が拡大しTTFT/throughput最適化への需要は明確",
+      "$200無償クレジットなど開発者獲得の積極的なGTM",
+      "電力単価と効率の優位性をハード設計レベルで構造化"
     ],
     "concerns": [
-      "Groq・Cerebras・SambaNova直接・Together AI等の強豪が既に多数",
-      "ASIC調達が必須でハードウェアの参入障壁が極めて高い",
-      "提供モデルがオープンモデル中心、GPT-5やClaudeなどフロンティアは使えない",
-      "NVIDIAがGroq技術をライセンス取得するなど巨大プレイヤーの参入で淘汰リスク",
-      "日本リージョンの記載がなく、レイテンシ・データ主権で国内顧客には不利"
+      "Groq・Cerebras・SambaNova・Together AI・Fireworksなど先行プレイヤーが既に密集する超レッドオーシャン",
+      "ASIC調達と巨額CAPEXが必要で、個人・小規模チームでは事業複製が不可能",
+      "ベンダー（SambaNova等）の提供能力に依存するため独自競争優位の持続性が不明確",
+      "コモディティ化が進めば価格競争に陥り、利幅確保が困難",
+      "OSSモデルのみ提供で、Frontier proprietary modelsを使いたい顧客は移行できない"
     ]
   },
   "japan_fit": {
-    "japan_fit_score": 6,
-    "verdict": "watch",
+    "japan_fit_score": 5,
+    "verdict": "skip",
     "axes": {
       "demand": {
         "score": 6,
-        "reason": "国内でもAIエージェント市場は2025〜2026年に急拡大しており、低レイテンシ推論への需要は確実にある。ただし日本企業の多くはまずOpenAI/Azure OpenAIを選び、サードパーティ推論クラウドへの切り替え意欲はまだ限定的。"
+        "reason": "日本でもAIエージェント・音声AI市場が2025〜2026年で急拡大し2029年に135億円規模との予測。推論高速化の需要は確かに存在するが、日本市場は依然GPU/Azure/OpenAI/Anthropic直接利用が主流で、ASICベンダー切替の意思決定者は限定的。"
       },
       "competition": {
         "score": 3,
-        "reason": "さくらインターネット（Sakura AI Engine）、GMO GPU Cloud、ソフトバンク（SambaNova SN50導入）など国内勢が政府支援込みで参入済み。海外勢もGroq・Together・Fireworks等が日本語ドキュメント・APIで利用可能。極めて飽和。"
+        "reason": "国際的にはGroq・Cerebras・SambaNova・Together AI・Fireworks・Lambda等が密集する超レッドオーシャン。日本国内も同社が直接競合になるGroqが既に技術記事多数（AI-Market、aismiley、Hakky等）で認知済み。さくらインターネット「高火力」もGPU側で対抗。"
       },
       "regulation": {
-        "score": 7,
-        "reason": "推論APIそのものはクラウド例外で個人情報保護法上の第三者提供に該当しない解釈が一般的。電気通信事業法の外部送信規律はあるが提供事業者側より利用側の責務が中心。重大な障壁はないが、データ主権要件のある業種では国内DC必須となる点に注意。"
+        "score": 6,
+        "reason": "海外推論クラウドは電気通信事業法の域外適用と個人情報保護法上のDPA要求、APPI十分性認定対象外国（米国）への越境移転論点が発生。エンタープライズ営業では同意取得・移転先国情報開示など追加コストが必要で、参入摩擦は中程度。"
       },
       "localization": {
-        "score": 8,
-        "reason": "OpenAI互換APIで実態はベースURLの差し替えのみ。UI/ドキュメントの日本語化と請求書・インボイス制度対応があれば足り、UX改修は軽い。日本語モデルの精度はオープンモデル依存で、Llama系・Qwen系で実用範囲。"
+        "score": 7,
+        "reason": "OpenAI互換APIのためコード側の日本語化要件は低く、ドキュメント日本語化と請求書/インボイス対応（適格請求書発行事業者番号）程度で導入可能。ただし国内データレジデンシー要求が強い顧客には東京リージョン提供が必要となり対応難度は上がる。"
       },
       "business_custom": {
-        "score": 4,
-        "reason": "日本企業は請求書払い・与信・SLA・国内DCを重視する傾向が強く、$200クレジット型のセルフサーブ＋ドル決済モデルとは相性が悪い。エンタープライズ販売には代理店経由＋日本法人＋日本円請求が必須になりがち。"
+        "score": 5,
+        "reason": "日本のエンタープライズはクラウド調達でSLA・データ所在地・国内サポート窓口・年間契約・請求書払いを要求する。個人開発者層は従量課金で受容性高いが、本当に価値が出る大規模ワークロード顧客層は商習慣ギャップが大きい。検索で日本進出事例の根拠未確認。"
       }
     },
     "existing_competitors_jp": [
       {
-        "name": "さくらインターネット Sakura AI Engine",
-        "url": "https://www.sakura.ad.jp/",
-        "note": "国内DCで稼働する生成AI推論APIプラットフォーム。複数の基盤モデルとRAG機能を提供。METIから500億円規模の補助金を受けGPU調達を拡大中。"
-      },
-      {
-        "name": "GMOインターネットグループ GMO GPU Cloud",
-        "url": "https://www.gmo.jp/",
-        "note": "NVIDIA H200フルスタックを日本国内で提供するGPUクラウド。AI推論を含むワークロード向け。"
-      },
-      {
-        "name": "ソフトバンク (SambaNova SN50)",
-        "url": "https://www.softbank.jp/",
-        "note": "SambaNovaの新ハードウェアSN50を日本国内AIデータセンターに導入。General Computeの基盤と同系チップを直接運用する競合。"
-      },
-      {
-        "name": "Groq (GroqCloud)",
+        "name": "Groq",
         "url": "https://groq.com/",
-        "note": "LPUベースの超低レイテンシ推論API。日本語ドキュメントは限定的だが世界中36万開発者が利用、日本からも直接利用可能で実質競合。"
+        "note": "LPUベース高速推論。日本語技術記事多数で開発者認知が確立。OpenAI互換APIで国内利用者も多い直接競合。"
+      },
+      {
+        "name": "さくらインターネット 高火力",
+        "url": "https://ai.sakura.ad.jp/gpu/",
+        "note": "国産GPUクラウド。H100/H200/B200搭載、VRT/DOK/PHYの3形態。データレジデンシー重視顧客の代替候補。"
+      },
+      {
+        "name": "Together AI",
+        "url": "https://www.together.ai/",
+        "note": "OSSモデル推論の代表格。General Computeがランディングで直接比較対象として名指ししている海外競合。"
+      },
+      {
+        "name": "Cerebras",
+        "url": "https://www.cerebras.ai/",
+        "note": "WSE採用の超高速推論クラウド。Llama 3.3 70Bで1,800トークン/秒を主張。日本でも認知拡大中。"
       }
     ],
     "regulatory_findings": [
       {
-        "law": "個人情報保護法",
-        "impact": "プロンプト入力に個人情報が含まれる場合、利用目的との整合・第三者提供の可否が論点。学習に使わない契約・クラウド例外の整理が必要だが、提供事業者側で標準的なDPA・データ取扱契約を整備すれば実装可能。"
+        "law": "個人情報保護法（越境移転）",
+        "impact": "米国は十分性認定対象外。ユーザー入力を推論に送る性質上クラウド例外は通常使えず、利用者から個別同意取得または委託先DPA締結が必要。2024年改正で移転先国情報の具体的説明も求められる。"
       },
       {
-        "law": "電気通信事業法（外部送信規律）",
-        "impact": "B2C向けに組み込まれる場合、利用者情報の外部送信に該当する可能性があり、組み込み先サービスでの通知・公表義務が発生し得る。推論API単体への直接適用は限定的。"
-      },
-      {
-        "law": "AI事業者ガイドライン（内閣府）",
-        "impact": "法的拘束力はないが、安全性・公平性・プライバシー保護のガバナンス整備を求める。エンタープライズ販売時のRFPで参照されることが多く、対応文書の整備が事実上必要。"
+        "law": "電気通信事業法（外部送信規律・域外適用）",
+        "impact": "外部LLM APIへのユーザー入力送信は外部送信規律の射程に入りうる。海外法人が国内向け提供する場合も法適用対象となり、確認・通知等の対応が顧客側に発生し導入摩擦になる。"
       }
     ],
-    "opportunity": "日本独自の角度として、(1) 国内DC設置＋日本円請求＋インボイス対応のエンタープライズ向け『日本リージョンASIC推論API』、(2) 日本語特化オープンモデル（Llama-3-Swallow、Qwen日本語Fine-tuneなど）を最適化提供する『日本語エージェント向け推論基盤』、(3) コールセンター・音声AI業界向けに低TTFTを売る垂直特化、の3軸が考えられる。ただしハードウェア調達と巨額資本が必要なため、個人開発者・小規模チームではなく、既存DC事業者（IDCFrontier・IIJ等）との提携や代理店化が現実的な打ち手。",
-    "rationale": "General Computeは技術的に魅力的で需要も伸びているが、日本市場ではさくらインターネット・GMO・ソフトバンク（SambaNova直導入）といった国内勢が政府補助金を背景に既に陣取りを始めており、競争環境は非常に厳しい。さらにハードウェアレイヤーの事業であり、個人開発者やマイクロSaaS事業者が再現できる類のプロダクトではない。一方、SaaSレイヤーで『日本語エージェント特化のラッパー』や『国内コールセンター向け音声AI推論ブローカー』のような上位レイヤービジネスは検討余地がある。重み付けスコアは demand=6, competition=3, regulation=7, localization=8, business_custom=4 → 6×0.30+3×0.25+7×0.20+8×0.15+4×0.10=5.55、四捨五入で6＝watch。本プロダクト自体の国内展開は競争で厳しいが、上位レイヤービジネスの種としては観察価値あり。"
+    "opportunity": "国内で同種のASIC推論クラウドを個人/小規模で立ち上げる余地はゼロに近い一方、General Compute自体を国内エージェント開発者・音声AIスタートアップが利用する「導入支援/プロキシ/データレジデンシー対応リセラー」という二次市場には僅かな機会がある。日本リージョン提供がない時期に、東京中継ノード・APPI対応DPA・請求書/適格請求書発行を肩代わりするラッパーSaaS型ビジネスは個人開発者にも一部可能性。ただしGroq日本展開やAWS BedrockのOSSモデル拡充に飲み込まれるリスクが大。",
+    "rationale": "本プロダクトは半導体・データセンター級のCAPEXを伴うインフラ事業であり、日本市場での「機会」を本質的に捉えるなら既存プレイヤーの代理店/インテグレーター/データレジデンシー対応ラッパーといった隣接機会に限定される。需要の生地はあるが、競合密度（Groq・Cerebras・SambaNova・Together・さくら高火力等）と日本特有の規制摩擦（APPI越境・電気通信事業法）を踏まえると、推論クラウド本体としての日本特化機会は限定的でskip判定。日本のエンタープライズは依然OpenAI/Azure/Anthropicの3強API+国産GPUを優先する傾向が強く、ASIC専業のスイッチング動機が現時点では弱い。"
   },
-  "japan_fit_at": "2026-05-23T19:30:00",
-  "review_guide_at": "2026-05-23T19:30:00"
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "OpenAI互換APIの従量課金は国内開発者にも受容性高く、Groq等で既に課金実績がある。ただしASIC推論はコモディティ化が進めば価格競争で利益率が侵食され、日本人の従量課金許容ARPUは個人開発者層で月数千円程度に留まる傾向。エンタープライズ層は本家との比較で値引き要求が強い。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内AIエージェント市場2029年見込135億円、AI推論インフラ需要は確実に拡大中。ただし本プロダクトの想定顧客は『高頻度多段推論を運用するAI企業』に絞られ、国内では数百社規模。TAMは限定的で、日本単独でユニコーン水準は厳しい。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "個人開発者がインフラ事業をPLGで売る余地は基本的にない。本プロダクト自体は$200クレジットとPHでのPLG可能だが、日本で複製する場合はSI型契約・データセンター投資が前提となり個人開発者の販売チャネルでは不適合。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "Groqが既に2024年から日本語コミュニティで認知拡大、Cerebras・SambaNovaも提供中。本家General Computeも近い将来日本展開する可能性が高く、時間窓は極めて狭い。エージェントワークロード市場自体は伸長期だが、インフラ層の窓は閉じつつある。"
+      },
+      "solo_ops": {
+        "score": 1,
+        "reason": "ASICクラスター運用は24/7監視・データセンター契約・電力契約・冷却・チップ調達が必須で、個人運用は事実上不可能。手離れの観点では最悪レベル。検索で個人開発事例の根拠未確認だが、構造的に成立しない領域。"
+      }
+    },
+    "rationale": "事業成立性は個人開発・小規模チーム視点では極めて低い。AI推論クラウドはハードウェア調達・データセンター・電力契約を前提とする重資本ビジネスであり、ソロ運用と相性が悪い。日本市場で複製を試みる選択肢は現実的でなく、代替アプローチとして『General Compute等のAPIを束ねたエージェント向けゲートウェイ／APPI対応リセラー』など軽量レイヤーに限定すれば成立余地はある。ただしその場合もGroq/Together/Bedrockの国内拡充に飲み込まれるリスクが高く、業界全体としてはマージン圧縮が進む方向にある。総合的に個人開発で取り組む価値は低い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: $5相当の無料クレジット、検証用途",
+        "Developer: 従量課金、入力$0.1〜/1Mトークン目安、OpenAI互換API",
+        "Team: 月3,000円〜の最低コミット+従量、優先キュー",
+        "Business: 年契約・SLA・請求書払い・適格請求書対応",
+        "Enterprise: 東京リージョン提供・DPA・専用キャパシティ"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内でAIエージェント・音声AI・コーディングエージェントを本格運用する開発者およびスタートアップ。月100万トークン以上を回す層に限定。リセラー/ラッパー方式で参入する場合の到達可能顧客。",
+      "target_count": 5000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 300000
+    },
+    "recommended_gtm": [
+      "個人開発者として推論クラウド本体を作るのは非推奨。代わりにGroq/General Compute等を束ねOpenAI互換で再提供する『APPI対応・適格請求書対応の国内向けゲートウェイSaaS』をPLGで立ち上げる",
+      "Qiita・Zennで『日本企業がGroq/Cerebras/General Computeを安全に使うための個人情報保護法対応ガイド』記事を継続発信し検索流入で獲得",
+      "音声AI・コーディングエージェントを開発する国内インディーハッカーにX/Discord経由でリーチし、$200クレジット相当の紹介プログラムでオンボード",
+      "国内SIerやAIスタートアップ向けに『推論プロバイダ切替アダプタ』をOSS公開し、エンタープライズ案件のリードジェネレーションに活用",
+      "Product Hunt Japan系コミュニティおよびnote記事でベンチマーク比較記事を公開してSEO獲得"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "ASIC推論クラウド本体は半導体・データセンター級CAPEXが必要で、個人/小規模での事業複製は構造的に不可能。レイヤーを変えない限り参入余地ゼロ",
+      "Groq・Cerebras・SambaNova・Together AI・Fireworks・Bedrock等が密集する超レッドオーシャンで、コモディティ化と価格競争による利益率侵食が早期に発生する",
+      "本家General ComputeおよびGroq等が直接日本リージョン展開した瞬間に、リセラー/ラッパー型ビジネスは存在意義を失う。時間窓は6〜12ヶ月程度と推定",
+      "電気通信事業法の外部送信規律・APPI越境移転規制への対応コストが顧客側で発生し、エンタープライズ採用が遅延。個人開発で対応するには法務コストが重い",
+      "OSSモデル前提のため、フロンティアモデル（GPT-5系・Claude Opus系）志向の日本企業を取り込めず、TAMが構造的に小さい"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z",
+  "business_viability_at": "2026-05-23T19:30:00Z",
+  "advisor_view_at": "2026-05-23T19:30:00Z"
 }

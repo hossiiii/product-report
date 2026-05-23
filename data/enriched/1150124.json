@@ -90,85 +90,161 @@
     "$14"
   ],
   "landing_fetched_at": "2026-05-23T19:05:30",
-  "description_ja": "1つのアプリで全てのコーディングエージェントを統合するオープンソースのデスクトップ環境。",
-  "summary_ja": "Emdashは28以上のAIコーディングエージェントを並列実行できるオープンソースのデスクトップアプリで、git worktreeで各エージェントを分離し、Linear/GitHub等のIssueをPRまで一気通貫で処理できる開発環境です。",
+  "description_ja": "28種以上のコーディングAIを並列実行できるOSSデスクトップ統合環境",
+  "summary_ja": "Claude CodeやCodexなど28種以上のAIエージェントを、Git worktreeで隔離しつつ並列実行できるOSSデスクトップアプリ。Linear/GitHub等のチケットを直接エージェントに渡し、差分レビューからPR発行までを1画面で完結する。YC W26採択。",
   "review_guide_ja": {
-    "what": "Emdashは複数のAIコーディングエージェント(Claude Code、Codex、Cursor、Amp、Gemini等25〜28種)を1つのデスクトップアプリで横断的に並列実行するオーケストレーション環境。各エージェントはgit worktreeで独立したブランチ・作業ツリーに隔離され、競合なく同時にタスクを進められる。Linear/Jira/GitHub/Asana/FeaturebaseからIssueを取り込み、エージェントへ文脈ごと渡してPR作成・差分レビュー・コミット・プッシュまでアプリ内で完結。BYOI(Bring Your Own Infrastructure)でSSH越しの自前dev server/クラウドVM/GPUボックスにエフェメラルなワークスペースを払い出すことも可能。MCP対応、CLI自動検出、内蔵ファイルエディタ・diffビューア搭載。macOS/Windows/Linux対応、Apache 2.0ライセンス、YC W26採択。",
-    "for_who": "Claude Code・Codex・Cursor等を日常的に使い、複数のIssueやタスクを同時並行で進めたい個人開発者・スタートアップエンジニア。git worktreeを活用したマルチエージェント運用に関心がある中上級者。自社インフラ上でエージェントを動かしたい開発チームのテックリード。",
+    "what": "Emdashは、Claude Code・Codex・Cursor・Gemini・Amp等28種以上のコーディングエージェントCLIを統一UIで束ねるOSSデスクトップアプリ(macOS/Windows/Linux)。各エージェントを独立したGit worktreeに割り当て並列実行でき、ファイル競合なくマルチタスクが回せる。Linear、Jira、GitHub Issues、Asana、Featurebaseからチケットを直接エージェントへ渡し、文脈付きで実装を任せられる。組み込みの差分ビューア・ファイルエディタでレビュー、コミット、PR発行までアプリ内で完結。SSH越しのリモート開発(クラウドVM、GPUボックス、社内開発サーバ)に対応し、BYOI(Bring Your Own Infra)で自社インフラ上にタスク単位のワークスペースを動的プロビジョニングできる。MCPサーバ接続とCLI自動検出も標準搭載で、設定チェックリスト不要。コア機能はGitHubで完全公開され、SaaS/フリーミアム課金は未公式。",
+    "for_who": "Claude Code/Codex/Cursorなど複数のAIコーディングエージェントを併用し、worktreeで並列タスクを回したい中級以上のソロ開発者および小規模チーム。社内開発サーバへSSHでAIエージェントを走らせたい受託・スタートアップのテックリード、複数案件を抱えるフリーランスにも適合する。",
     "reproducibility": {
-      "level": "medium",
-      "reason": "Electron系デスクトップUI+各エージェントCLIのラッパー+worktree管理の組合せ。技術的に複雑ではないがプロバイダ多数対応・SSH/BYOI・MCP統合まで作り込む工数は大きく、OSSなのでコア複製は容易だが差別化は難しい。"
+      "level": "hard",
+      "reason": "Electron相当のデスクトップアプリ実装に加え、28種のCLI差分吸収・worktree管理・SSHリモート実行・MCPブリッジ・差分ビューア統合と表面積が広く、1人で数か月の継続実装が必要。"
     },
     "signals": [
-      "YC W26採択、Backed by Y Combinator",
-      "Product Hunt初日396 upvotes/90 comments と高い関心",
-      "GitHub上で840K+ダウンロード達成と公称",
-      "Claude Code/Codex/Cursor等25〜28プロバイダ横断という強い網羅性",
-      "日本でも git worktree × AIエージェント並列開発が Zenn/Qiita で活発に議論"
+      "PH 396 upvotes / 90 comments、launch初日に高エンゲージメント",
+      "YC W26採択、GitHub 2,430スター、ダウンロード60K件超の実トラクション",
+      "Claude Code・Cursor・Codex並列実行需要は2025-2026年で急成長",
+      "ccmanager・Vibe Kanban・Conductorなど類似OSSが同領域で台頭中",
+      "Linear/Jira/GitHub Issues統合により単なるラッパーを超える価値設計"
     ],
     "concerns": [
-      "Claude Code等のサブスク料金がエージェントごとに別途必要で、並列化するほどコストが膨らむ",
-      "OSSかつコア機能が薄いラッパー寄りで、各エージェント公式IDE/CLIに機能を取り込まれるリスク",
-      "BYOI/SSHや28プロバイダ追従の運用負荷が高く収益化モデルが未確立",
-      "日本語UI未対応の可能性が高く、ターゲット層が英語が読める上級者に偏る",
-      "git worktreeを使いこなせる開発者は限定的で、教育コストが意外と高い"
+      "Cursor 3.0・Claude Codeデスクトップ・Codexアプリが純正で並列対応へ進化し陳腐化リスク",
+      "OSSとしての収益化経路が不明確(Pro/Team/クラウドBYOI課金が未提示)",
+      "28種CLI追随の保守負荷が高く小規模チームではバージョン破壊的変更に追随困難",
+      "国内エンタープライズはソースコード外部送信のガバナンス審査が長引きやすい",
+      "Claude側がIDE課金差別化を行う可能性に依存(コメント欄でも議論されている)"
     ]
   },
   "japan_fit": {
-    "japan_fit_score": 5,
-    "verdict": "skip",
+    "japan_fit_score": 6,
+    "verdict": "watch",
     "axes": {
       "demand": {
-        "score": 6,
-        "reason": "日本でもClaude Code/Cursor/Codexの3社が世界市場70%超を占め、Zenn/Qiitaでgit worktree×AI並列開発の記事が多数。ただしマルチエージェントを並列運用する層は上級者に限定され、絶対数は限定的。"
+        "score": 7,
+        "reason": "GMO、サイバーエージェント系Gemcook、NTTドコモビジネス、価格.comなど国内大手がClaude Code・Cursor・Devinを全社導入する事例が2026年に急増し、複数エージェント併用・並列実行のニーズは確実に存在する。worktree並列開発の日本語記事も2025-2026年に多数公開され、関心は高い。"
       },
       "competition": {
         "score": 4,
-        "reason": "国内にtakt、GTR(CodeRabbit)、gwq等の類似OSSが既に存在し、海外勢(Cursor、Devin 2.0、Codex Agent Manager)も並列実行UIを取り込み中。後発の純粋ラッパーが日本で独自ポジションを取るのは難しい。"
+        "reason": "Cursor 3.0・Claude Codeデスクトップ・Codexアプリが純正で並列エージェントUIを実装済み。OSS側でもVibe Kanban、Conductor、ccmanager、OpenCodeなど競合が乱立しており、差別化は28種CLI対応と中立性のみ。Emdash固有の優位性は薄い。"
       },
       "regulation": {
-        "score": 9,
-        "reason": "個人/法人開発者向けの開発支援OSSデスクトップアプリのため、個人情報保護法・電気通信事業法等の直接規制リスクは低い。コードを外部送信するのは各エージェントAPIのため、Emdash自体の規制ハードルはほぼ無い。"
+        "score": 7,
+        "reason": "プロダクト自体はクライアント実行でデータ送信を伴わず、規制リスクは低い。一方、AI事業者ガイドライン1.2版や個人情報保護法改正で、エージェント経由でAPIへ送るコード・データのガバナンス要件は厳格化中。ローカル動作とBYOIは規制対応上はむしろ有利。"
       },
       "localization": {
         "score": 5,
-        "reason": "UI日本語化は技術的には容易だが、対象が英語ドキュメントを読みこなす上級開発者で、ローカライズの投資対効果が低い。日本語Issue/コメントの取り扱いやJIRA Cloud日本リージョン等の連携検証は必要。"
+        "reason": "UI英語のみ、ドキュメント英語のみで日本語化されていない。Linear/Jira/GitHub等の連携先は日本でも使われるが、Backlog/Redmine/サイボウズなど国内シェア上位のITS連携は未対応。日本語READMEや国内ITS対応で改善余地が大きい。"
       },
       "business_custom": {
         "score": 5,
-        "reason": "個人/小規模チーム向けOSSであり日本商習慣との衝突は少ない。一方で日本のエンタープライズは社内Git/閉域網/監査要件が厳しくBYOI/SSHモデルは刺さる可能性はあるが、購買プロセスが長くPLG単独では苦戦しやすい。"
+        "reason": "国内企業はAIコーディングツール導入時、稟議・情報セキュリティ審査・SOC2/ISMS確認を要求する傾向が強く、OSSデスクトップ単体では法人購買フローに乗りにくい。一方、個人・小規模チームへの普及はGitHub経由で進めやすく、二極化する。"
       }
     },
     "existing_competitors_jp": [
       {
-        "name": "takt",
-        "url": "https://zenn.dev/rasshii/articles/dc19793edab99a",
-        "note": "日本コミュニティで紹介されているAIマルチエージェントオーケストレーションツール。同一AIの自己強化バイアス回避を狙う設計で並列実行に近い思想。"
+        "name": "Vibe Kanban",
+        "url": "https://vibekanban.com/",
+        "note": "BloopAI(YC)製OSS。worktreeでClaude/Codex/Gemini等を並列管理。日本語チュートリアル多数、GitHub 3,200スター超。"
       },
       {
-        "name": "GTR (Git Worktree Runner) by CodeRabbit",
-        "url": "https://note.com/masa_wunder/n/n6b85bf4cea63",
-        "note": "CodeRabbit社が開発したgit worktree操作の自動化CLI。AI時代の並列開発を加速する新定番として日本のnote/Zennで取り上げられている。"
+        "name": "Conductor",
+        "url": "https://conductor.build/",
+        "note": "Claude Code特化のworktree並列管理アプリ。Zenn・noteで国内エンジニアが積極評価、Vibe Coding文脈で人気。"
       },
       {
-        "name": "gwq",
-        "url": "https://zenn.dev/genda_jp/articles/2025-12-07-manage-git-worktree-with-ghq",
-        "note": "ghqと組み合わせて使うgit worktree管理ツールとして日本の開発者ブログで紹介。CLI志向だがEmdashのworktree管理機能と競合する。"
+        "name": "ccmanager",
+        "url": "https://github.com/kbwo/ccmanager",
+        "note": "国内エンジニア発のClaude Code並行セッション管理ターミナルツール。DevelopersIO等で紹介され注目度上昇中。"
+      },
+      {
+        "name": "Cursor (Anysphere)",
+        "url": "https://cursor.com/",
+        "note": "国内では価格.comなど全社導入事例。3.0で複数エージェント並列実行UIを純正搭載し、Emdashの中立性価値を圧迫。"
+      },
+      {
+        "name": "Claude Code Desktop",
+        "url": "https://code.claude.com/",
+        "note": "Anthropic公式デスクトップが2026年4月に並列セッション前提のUIへ全面刷新。国内導入企業多く、純正の優位性大。"
       }
     ],
     "regulatory_findings": [
       {
-        "law": "個人情報保護法",
-        "impact": "Emdash自体はコードを外部送信しないが、各エージェントAPI(OpenAI/Anthropic等)に渡るコード/プロンプトに個人情報が含まれる場合、利用企業側で越境移転の同意・委託先管理が必要。Emdash提供者の責務は限定的。"
+        "law": "AI事業者ガイドライン(総務省・経産省、第1.2版 2026年3月)",
+        "impact": "AIへ入力するソースコード・データの取扱いに関する社内ガバナンス整備が事業者の責務として明記。Emdash自体は規制対象外だが、利用企業は各エージェントAPI送信に対し利用規約・ログ管理を整備する必要があり、社内導入時の審査要件が増える。"
       },
       {
-        "law": "著作権法",
-        "impact": "AIコード生成物の著作物性と既存OSSライセンス汚染リスクは日本でも議論中。Emdash自体はパススルーだが、エージェント横断で同時にコード生成するUI設計上、ライセンス監査機能の提供が将来求められる可能性あり。"
+        "law": "個人情報保護法(改正動向 2026年)",
+        "impact": "生成AIに個人データを入力する場合、AIプロバイダ側が学習目的に流用しない契約確認が事業者の義務。Emdash経由で複数AIへコードを送る運用は、各プロバイダの規約レビュー責任を利用企業が負うため、企業導入時の障壁が増す。"
       }
     ],
-    "opportunity": "日本独自の角度としては、(1)日本のエンタープライズ向けに閉域網/オンプレでBYOIを徹底し、Claude/Codexのエンタープライズプラン+社内GitLab/Backlog連携をデフォルトで備える「マルチエージェント×日本SIer向けGUIシェル」、(2)Backlog/サイボウズGaroo/Redmine等の日本固有Issueトラッカー連携、(3)日本語コミットメッセージ・PRテンプレート・社内コードレビュー文化(LGTM/承認フロー)に最適化したdiff/レビューUI、(4)AI生成コードのライセンス監査・社内ガイドライン遵守チェッカーをパッケージ化、といった国内向け差別化が考えられる。ただし対象市場が限定的で単独事業化は厳しく、SIer向け請負/受託の延長としての導入支援が現実的。",
-    "rationale": "Emdashは技術的に魅力的で、git worktree×マルチエージェントというトレンドの真ん中にあり、YC W26・PH 396 upvotes・840Kダウンロードという強い初動を見せている。日本でも同様のニーズ自体は存在し、Zenn/Qiitaで関連記事が多数生まれている。しかし、(a)Cursor/Codex/Devin等の本家エージェントが急速に並列UI/Agent Managerを内製化しており、純粋なオーケストレーション層は中長期的にコモディティ化、(b)国内にもtakt/GTR/gwq等の代替が既に存在、(c)対象が英語に強いごく一部の上級開発者に限られ、TAMが小さい、(d)OSSのためマネタイズ経路が不透明で日本市場特化版を作る経済合理性も低い、という4点から日本での新規参入には不向き。watchではなくskip寄りとし、もし参入するならエンタープライズ向け日本特化シェル(Backlog/オンプレ/監査)に絞る必要がある。",
-    "japan_fit_at": "2026-05-23T19:30:00Z",
-    "review_guide_at": "2026-05-23T19:30:00Z"
-  }
+    "opportunity": "Emdashの中立性(28種CLI対応・BYOI・SSH)は、特定ベンダーロックインを嫌う国内SIerや受託開発、複数案件を並走するフリーランスに刺さりやすい。日本固有のチャンスは、Backlog/Redmine/サイボウズOffice/Notion JP連携、日本語UI、社内オンプレ環境(踏み台SSH+VPN)向けセットアップガイド、ISMS対応ホワイトペーパー提供。OSSフォーク+日本市場特化の有償サポートやBackup/監査ログ機能の有償アドオン提供で、純正製品が手を出しにくい受託・SIer領域に楔を打てる。",
+    "rationale": "需要は明確に存在し、国内大手企業が複数AIコーディングエージェントを並走運用する事例が2026年に多数公表されているため、並列管理ツールへの基盤需要は固い(demand=7)。しかしCursor 3.0・Claude Code・Codex純正アプリが軒並み並列対応UIを実装した結果、Emdashが提供する『1画面に束ねる』価値は急速に陳腐化中で、競合の純正圧と国内OSS群の両面から挟撃される(competition=4)。法規制は中立~追い風(regulation=7)、日本語/国内ITS未対応がローカライズの弱み(localization=5)、法人購買フローへの不適合が商慣行スコアを下げる(business_custom=5)。総合6/10で『watch』判定。純正製品の進化次第で評価は容易に揺れるため、半年スパンで再評価が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "現状OSSのみで有償プランは未提示。コアアプリは無料配布が前提のため、Pro機能(チーム同期、監査ログ、SSO、マネージドBYOI)で有償化する余地はあるが、競合がほぼ全てOSSまたは純正無料相当で、有償転換率は低めと予想される。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内ITエンジニア約120万人のうち、Claude Code/Cursor等を実務利用しさらに『複数エージェント並列管理』に課金する層は1〜3%程度と推定。検索で根拠未確認だが、Cursor日本利用者数ベースで数万人規模が上限。グローバルでは数十万人だが日本単独ではニッチ。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "PH・HN・YC W26で既に米国コミュニティで強い露出。日本ではZenn/Qiita/X(旧Twitter)・DevelopersIO等の技術ブログ経由が主戦場だが、ローカライズと国内インフルエンサーへの働きかけが必須。法人GTMはセキュリティ審査・稟議が壁。検索で根拠未確認の領域あり。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "2025-2026年は『複数AIエージェント並列実行』元年。Claude Codeデスクトップ刷新、Cursor 3.0、Codexアプリリリースと同時期で市場注目度はピーク。ただし純正各社の進化が早く、独立OSSの賞味期限はおそらく12〜24か月。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "28種CLI追随、Electron/Tauri相当のクロスプラットフォーム保守、SSH/BYOIインフラ、MCPブリッジ、Linear/Jira API対応と表面積が広大。本家YCチームでも2名以上で運用しておりソロ継続は困難。フォーク派生で『国内特化薄ラッパー+サポート』に絞れば可能性あり。"
+      }
+    },
+    "rationale": "Emdash本体は『OSSフリー＋将来クラウド/エンタープライズ課金』という典型的なdev tools OSS路線で、YC資金とグローバル開発者プールがあって初めて成り立つモデル。日本でフォロワー的に類似製品を立ち上げて事業化する場合、(1)マネタイズ手段が極端に限定(monetization=3)、(2)国内有料転換可能層が薄い(market_size=5)、(3)競合の純正製品とOSS群が同領域で活発(timing=7だが競合圧大)、(4)技術表面積がソロ開発者の限界を大きく超える(solo_ops=3)という4点で厳しい。月商目標を立てやすい有償ニッチ(オンプレ/国内ITS連携/監査ログ/Backlog統合)に絞り込めば、月10〜30万円の補完事業として成立する可能性はあるが、本格事業化には複数人体制が前提。総合4/10。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2500,
+      "plans": [
+        "Free: OSSコア機能(28種CLI、worktree、SSH、MCP)無制限",
+        "Pro 月2,500円: チーム同期、Backlog/Redmine連携、監査ログ、優先サポート",
+        "Team 月6,000円/席: SSO、ロール権限、共有BYOIテンプレ、JP稟議用ホワイトペーパー",
+        "Enterprise 要問合せ: オンプレ配布、ISMS対応、専任CSM、SLA",
+        "OSS Sponsor: GitHub Sponsors月1,000円〜"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Claude Code/Cursor/Codexを実務利用している国内SaaS・受託開発企業のテックリード、複数案件並走のフリーランス/小規模チーム、Backlog等の国内ITSを使う情シス。特に国内オンプレ・SSH踏み台を前提とする中堅SIerの開発部門が狙い目。",
+      "target_count": 80000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 1000000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita/note等で『Claude Code+Cursor並列運用』比較記事を執筆しEmdash派生版を訴求",
+      "X(旧Twitter)で国内AIコーディング系インフルエンサーへ無償アクセス提供",
+      "Backlog/Redmine/サイボウズOffice連携プラグインを先行提供し国内ITS市場に楔",
+      "ISMS・SOC2対応ホワイトペーパーで法人稟議突破を支援",
+      "DevelopersIO・PR TIMES等で実装事例を出し受託開発系SIerへリーチ",
+      "国内エンジニアコミュニティ(builderscon、PHPカンファレンス等)でハンズオン"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Cursor 3.0・Claude Code純正デスクトップが並列・worktree機能を内包し差別化消失",
+      "28種CLI破壊的更新への追随コストでメンテ崩壊",
+      "本家EmdashがYC資金でクラウド/エンタープライズ展開し国内派生フォークを圧倒",
+      "国内法人のセキュリティ審査でAPI送信ガバナンスが障壁化し有償転換進まず",
+      "OSS無料コアと有償SaaSの境界設計を誤りコミュニティ反発で評判低下"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z",
+  "business_viability_at": "2026-05-23T19:30:00Z",
+  "advisor_view_at": "2026-05-23T19:30:00Z"
 }

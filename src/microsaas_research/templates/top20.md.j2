@@ -1,0 +1,139 @@
+# Week {{ week }} TOP{{ rows|length }} — 日本事業成立性ランキング
+
+生成: {{ generated_at }} / 並び順: `overall_score` 降順（同点時は go_no_go → japan_fit → upvotes）
+
+`overall_score` = round(`japan_fit_score` × 0.4 + `business_viability_score` × 0.6)
+
+## サマリ表
+
+| サムネ | # | 名前 | ⭐ | 🇯🇵 | 💼 | 判定 | 推奨課金 | 月商目標 | upvotes |
+|---|---|---|:-:|:-:|:-:|:-:|---|---:|---:|
+{% for r in rows -%}
+{% set jf = r.japan_fit or {} -%}
+{% set bv = r.business_viability or {} -%}
+{% set av = r.advisor_view or {} -%}
+{% set price = av.recommended_pricing or {} -%}
+{% set mkt = av.reachable_market_jp or {} -%}
+| {% if r.thumbnail_url %}<img src="{{ r.thumbnail_url }}?w=80&h=80&fit=crop&auto=format" width="64">{% endif %} | {{ loop.index }} | [{{ r.name or r.ph_id }}](#{{ loop.index }}-{{ (r.name or r.ph_id) | replace(' ', '-') | lower }}) | **{{ r.overall_score or "—" }}** | {{ jf.japan_fit_score or "—" }} | {{ bv.business_viability_score or "—" }} | {{ av.go_no_go or "—" }} | {{ price.model or "—" }}{% if price.arpu_jpy %} ¥{{ price.arpu_jpy }}{% endif %} | {% if mkt.monthly_revenue_target_jpy %}¥{{ "{:,}".format(mkt.monthly_revenue_target_jpy) }}{% else %}—{% endif %} | {{ r.total_upvotes }} |
+{% endfor %}
+
+---
+
+{% for r in rows %}
+{% set jf = r.japan_fit or {} %}
+{% set bv = r.business_viability or {} %}
+{% set av = r.advisor_view or {} %}
+## {{ loop.index }}. {{ r.name or r.ph_id }} — ⭐ {{ r.overall_score or "?" }}/10  🇯🇵 {{ jf.japan_fit_score or "?" }} × 💼 {{ bv.business_viability_score or "?" }}{% if av.go_no_go %}  `{{ av.go_no_go }}`{% endif %}
+
+{% if r.summary_ja %}> {{ r.summary_ja }}{% endif %}
+
+{% if r.media %}{% for m in r.media %}
+![{{ r.name }} {{ loop.index }}]({{ m.url }}?w=720&auto=format)
+{% endfor %}{% elif r.thumbnail_url %}
+![{{ r.name }}]({{ r.thumbnail_url }}?w=480&auto=format)
+{% endif %}
+
+- **和訳**: {{ r.description_ja or "—" }}
+- **原文**: {{ r.description or "—" }}
+- **URL**: <{{ r.website or r.ph_url }}>{% if r.ph_url and r.ph_url != r.website %} / PH: <{{ r.ph_url }}>{% endif %}
+- **PH 指標**: upvotes `{{ r.total_upvotes }}` / comments `{{ r.total_comments }}` / decayed `{{ "%.1f"|format(r.decayed_score) }}`
+- **観測期間**: {{ r.first_seen.strftime("%Y-%m-%d") if r.first_seen else "-" }} 〜 {{ r.last_seen.strftime("%Y-%m-%d") if r.last_seen else "-" }}
+{% if r.topics %}- **トピック**: {{ r.topics | join(", ") }}{% endif %}
+{% if r.pricing_signals %}- **価格シグナル(PH)**: `{{ r.pricing_signals | join("` / `") }}`{% endif %}
+
+{% if av %}
+### アドバイザー所見 — `{{ av.go_no_go or "?" }}`
+
+{% set price = av.recommended_pricing or {} -%}
+{% set mkt = av.reachable_market_jp or {} -%}
+- **推奨課金モデル**: `{{ price.model or "?" }}` / ARPU ¥{{ price.arpu_jpy or "?" }}
+{% if price.plans %}  - プラン: {% for p in price.plans %}「{{ p }}」{% if not loop.last %} / {% endif %}{% endfor %}{% endif %}
+- **到達可能市場**: {{ mkt.target_segment or "?" }} / 対象 {{ "{:,}".format(mkt.target_count or 0) }} / 3 年で {{ mkt.capture_pct_year3 or "?" }}% 獲得 → **月商 ¥{{ "{:,}".format(mkt.monthly_revenue_target_jpy or 0) }} target**
+- **推奨 GTM**: {% for g in av.recommended_gtm or [] %}`{{ g }}`{% if not loop.last %}, {% endif %}{% endfor %}
+- **時間窓**: {{ av.time_window_months or "?" }} ヶ月
+- **個人開発継続性**: `{{ av.solo_dev_continuable or "?" }}`
+{% if av.critical_risks %}- **クリティカルリスク**:
+{% for risk in av.critical_risks %}  - {{ risk }}
+{% endfor %}{% endif %}
+{% endif %}
+
+{% if bv %}
+### 事業成立性 — 💼 {{ bv.business_viability_score }}/10
+
+{% if bv.axes %}
+| 軸 | スコア | 評価 |
+|---|---:|---|
+| 収益化 (monetization) | {{ bv.axes.monetization.score }} | {{ bv.axes.monetization.reason }} |
+| 市場規模 (market_size) | {{ bv.axes.market_size.score }} | {{ bv.axes.market_size.reason }} |
+| GTM (gtm) | {{ bv.axes.gtm.score }} | {{ bv.axes.gtm.reason }} |
+| タイミング (timing) | {{ bv.axes.timing.score }} | {{ bv.axes.timing.reason }} |
+| 個人運用 (solo_ops) | {{ bv.axes.solo_ops.score }} | {{ bv.axes.solo_ops.reason }} |
+{% endif %}
+
+{% if bv.rationale %}**事業性総評**: {{ bv.rationale }}{% endif %}
+{% endif %}
+
+{% if jf %}
+### 市場機会 — 🇯🇵 {{ jf.japan_fit_score }}/10
+
+{% if jf.axes %}
+| 軸 | スコア | 評価 |
+|---|---:|---|
+| 需要 (demand) | {{ jf.axes.demand.score }} | {{ jf.axes.demand.reason }} |
+| 競合 (competition) | {{ jf.axes.competition.score }} | {{ jf.axes.competition.reason }} |
+| 規制 (regulation) | {{ jf.axes.regulation.score }} | {{ jf.axes.regulation.reason }} |
+| ローカライズ (localization) | {{ jf.axes.localization.score }} | {{ jf.axes.localization.reason }} |
+| 商習慣 (business_custom) | {{ jf.axes.business_custom.score }} | {{ jf.axes.business_custom.reason }} |
+{% endif %}
+
+{% if jf.existing_competitors_jp %}**国内既存プレイヤー**:
+{% for c in jf.existing_competitors_jp %}- [{{ c.name }}]({{ c.url }}) — {{ c.note }}
+{% endfor %}{% endif %}
+
+{% if jf.regulatory_findings %}**規制要点**:
+{% for r2 in jf.regulatory_findings %}- **{{ r2.law }}**: {{ r2.impact }}
+{% endfor %}{% endif %}
+
+{% if jf.opportunity %}**機会**: {{ jf.opportunity }}{% endif %}
+
+{% if jf.rationale %}**市場機会総評**: {{ jf.rationale }}{% endif %}
+{% endif %}
+
+{% if r.review_guide_ja %}
+### 判断ガイド（製品概要）
+
+- **何をするか**: {{ r.review_guide_ja.what }}
+- **誰に刺さるか**: {{ r.review_guide_ja.for_who }}
+{% if r.review_guide_ja.reproducibility %}- **再現可能性**: `{{ r.review_guide_ja.reproducibility.level }}` — {{ r.review_guide_ja.reproducibility.reason }}{% endif %}
+{% if r.review_guide_ja.signals %}- **注目シグナル**:
+{% for s in r.review_guide_ja.signals %}  - {{ s }}
+{% endfor %}{% endif %}
+{% if r.review_guide_ja.concerns %}- **懸念点**:
+{% for c in r.review_guide_ja.concerns %}  - {{ c }}
+{% endfor %}{% endif %}
+{% endif %}
+
+{% if r.top_comments %}
+### PH 上位コメント
+
+{% for c in r.top_comments[:3] %}
+> ({{ c.votesCount }} votes, {{ c.user or "anonymous" }}) {{ c.body[:300] }}
+{% if not loop.last %}
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{% if r.long_description and r.long_description != r.description %}
+### 長文説明（PH）
+
+{{ r.long_description[:600] }}
+{% endif %}
+
+{% if r.landing_meta %}
+### ランディングページから
+
+{{ r.landing_meta }}
+{% endif %}
+
+---
+{% endfor %}

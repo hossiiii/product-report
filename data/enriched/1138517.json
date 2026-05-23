@@ -89,7 +89,7 @@
   ],
   "ph_enriched_at": "2026-05-23T19:06:04",
   "landing_meta": "Prosed — Turn your content into a publish-ready book. — Turn your content into a publish-ready book. Prosed assembles your newsletters, posts, and ideas into a real book. Your voice, your expertise.",
-  "landing_text": "Prosed — Turn your content into a publish-ready book. For creators & aspiring authors Turn your content into a publish-ready book. Your newsletters, podcasts, and posts already hold a book. Prosed assembles them into a publish-ready manuscript. Your ideas, your voice. Don't fill this out: Get early access → ✦ You're in! We'll be in touch soon. Limited to 100 creators at $47 beta pricing . — / 100 books created 80% of people want to write a book 3% ever finish writing one 0 new words you need to write How it works From content to manuscript in days You bring what you've already created. We restructure, connect, and shape it into a book. Your ideas, your voice, structured like a bestseller. 01 Share what you have Paste a link to your Substack, YouTube, LinkedIn, or podcast. Or drop in transcripts and notes. We pull and transcribe everything. 02 The Inkwell assembles your book Our pipeline, built on patterns from 150+ bestselling nonfiction books, restructures your content into a complete manuscript. 03 Shape it in your portal Read every chapter, leave comments, request rewrites. You direct. We revise. 04 Turn on Typo for editorial review Your built-in reviewer checks voice, flow, and cohesion. Every note links to the exact passage. 05 Export and publish Download a print-ready PDF, ePub, or DOCX. Sell it on Amazon or to your audience directly. Why Prosed A publishing process, not just a tool. You could paste your content into ChatGPT or Claude and ask for a book. You'd get a draft. But a draft isn't a book. Prosed gives you a publishing-grade editorial pipeline, a dedicated reviewer, and a portal where you shape every chapter. Meet Typo Your AI editorial reviewer. Checks grammar, voice consistency, story flow, chapter cohesion, and brand alignment. Every note links to the exact passage. 📖 Your Private Portal Read every chapter in a clean, distraction-free reader. Leave comments, accept or reject suggestions, and request revisions. All in one place. 🎤 Your Voice, Not Ou",
+  "landing_text": "Prosed — Turn your content into a publish-ready book. For creators & aspiring authors Turn your content into a publish-ready book. Your newsletters, podcasts, and posts already hold a book. Prosed assembles them into a publish-ready manuscript. Your ideas, your voice. Don't fill this out: Get early access → ✦ You're in! We'll be in touch soon. Limited to 100 creators at $47 beta pricing . — / 100 books created 80% of people want to write a book 3% ever finish writing one 0 new words you need to write How it works From content to manuscript in days You bring what you've already created. We restructure, connect, and shape it into a book. Your ideas, your voice, structured like a bestseller. 01 Share what you have Paste a link to your Substack, YouTube, LinkedIn, or podcast. Or drop in transcripts and notes. We pull and transcribe everything. 02 The Inkwell assembles your book Our pipeline, built on patterns from 150+ bestselling nonfiction books, restructures your content into a complete manuscript. 03 Shape it in your portal Read every chapter, leave comments, request rewrites. You direct. We revise. 04 Turn on Typo for editorial review Your built-in reviewer checks voice, flow, and cohesion. Every note links to the exact passage. 05 Export and publish Download a print-ready PDF, ePub, or DOCX. Sell it on Amazon or to your audience directly. Why Prosed A publishing process, not just a tool. You could paste your content into ChatGPT or Claude and ask for a book. You'd get a draft. But a draft isn't a book. Prosed gives you a publishing-grade editorial pipeline, a dedicated reviewer, and a portal where you shape every chapter. Meet Typo Your AI editorial reviewer. Checks grammar, voice consistency, story flow, chapter cohesion, and brand alignment. Every note links to the exact passage. 🎤 Your Voice, Not Ou",
   "pricing_signals": [
     "subscription",
     "pricing",
@@ -102,28 +102,26 @@
     "$19"
   ],
   "landing_fetched_at": "2026-05-23T19:06:05",
-  "description_ja": "ニュースレターやポッドキャストから出版可能な原稿へ変換するAIサービス",
-  "summary_ja": "既存のニュースレター・LinkedIn投稿・ポッドキャスト等を取り込み、独自のInkwellパイプラインで著者の声を保ちつつ章立てし、PDF/ePub/DOCXの印刷可能な原稿として出力するAI出版支援SaaS。",
+  "description_ja": "ニュースレターやポッドキャストを書籍原稿に自動再構成するAI執筆パイプライン",
+  "summary_ja": "クリエイターが既に公開したニュースレター、ポッドキャスト、SNS投稿などを取り込み、独自パイプラインで文体を分析・章立て再構成し、印刷可能なPDF/ePub/DOCXの書籍原稿に仕上げる。買い切り型のAI出版支援サービス。",
   "review_guide_ja": {
-    "what": "クリエイターが過去に作った散在コンテンツ(Substack、YouTube、LinkedIn、ポッドキャスト、トランスクリプト等)のURLを貼り付けると、Inkwellと呼ばれる10ピラー型パイプラインが著者の文体を分析、150冊以上のベストセラー・ノンフィクションのパターンに基づき章構成を生成。各章を生成後、Typoというエディトリアル・レビュアーが文法・声の一貫性・章の凝集度・ブランド整合性をチェックし、ユーザー専用ポータルで章ごとにコメント・リライト依頼が可能。完成稿はPDF/ePub/DOCXに出力し、Amazon KDP等でセルフ出版または直接販売できる。表紙デザインや印刷発注機能もある。",
-    "for_who": "数年単位でニュースレター・ブログ・SNS投稿・ポッドキャスト等を発信してきたクリエイター、ソロプレナー、コンサルタント、コーチで、リードマグネットやブランディング資産として書籍を出したい層。新規執筆ではなく既存資産の再構成が主用途。",
+    "what": "Prosedはクリエイターが既存資産（Substack、YouTube、LinkedIn、ポッドキャスト書き起こし、ブログなど）を投入すると、独自の「Inkwell」パイプラインで文体・トーンを分析し、150冊以上のベストセラーノンフィクションのパターンに沿って章立てを再構成、章ごとの繋ぎ文を生成し、印刷可能な原稿に仕上げるAIサービス。著者は専用ポータルで章を読み、コメント・書き直し依頼を行い、付属AIエディター「Typo」が文体一貫性・流れ・章間結合・ブランド整合をチェックする。最終的にPDF/ePub/DOCX、カバーデザイン、印刷発注に対応。原稿の権利は著者100％保持。初期100名限定で買い切り$47（通常$197）の創業者プランで提供。",
+    "for_who": "数年〜10年単位でニュースレターやLinkedIn投稿、ポッドキャストを発信してきたものの「本にまとめる作業」で挫折しているナレッジ系クリエイター・コンサルタント・コーチ・起業家。新規執筆ではなく既存資産の組み立てに困っている層。",
     "reproducibility": {
       "level": "medium",
-      "reason": "LLMによる文体分析・章立て・トランスクリプト取得は既存APIで可能だが、150冊分析に基づく独自パイプラインと『AIっぽさ』を回避する声の保持品質、編集ポータルUXの完成度を作り込むには2-3ヶ月の集中開発と評価ループが必要。"
+      "reason": "技術自体はLLM＋RAG＋プロンプト設計の組み合わせで個人開発可能。だが10章パイプライン、文体スコアリング、出版社品質の校閲フロー、印刷対応まで作り込むには相当な工程設計が必要。"
     },
     "signals": [
-      "ローンチ初日で141 upvotes / 25コメントとPH上で良好な反応",
-      "$47ファウンダー価格 / $197通常価格と明確な料金設計、ベータ枠100名限定で希少性訴求",
-      "『80%が本を書きたい、3%しか完成しない』という明確な課題定義",
-      "Substack/Podcast創作者経済の成長を背景にした追い風",
-      "AIっぽい量産本ではなく『自分の声を残す』というポジショニング"
+      "Launch直後で141 upvotes/25コメントと小さくないトラクション",
+      "「ChatGPTで書けるのでは」に対し編集パイプラインで差別化の論理が立つ",
+      "買い切り$47〜$197と価格設計が明確で意思決定が早い",
+      "クリエイターエコノミー拡大の追い風（Substack有料読者500万超）"
     ],
     "concerns": [
-      "Amazon KDPがAI生成本に対し1日3冊上限規制を導入するなど、出力先プラットフォーム側の規制リスク",
-      "ChatGPT/Claudeに直接プロンプトを投げても近い結果が得られるため、機能差別化が薄まる可能性",
-      "TAMが『過去コンテンツが大量にあるクリエイター』に限定され、ニッチ",
-      "出力品質が低い場合『AIスロップ本』のレッテルが付き、ブランド毀損リスク",
-      "ファウンダー価格$47は単発購入想定で、継続収益化(MRR)モデル設計が不明瞭"
+      "AI生成書籍は品質玉石混交で「AIスロップ」批判の渦中にある",
+      "Substack/LinkedIn/Spotify等のAPI/規約変更で取得経路が止まるリスク",
+      "出版業界の生成AIガイドライン整備中で将来規制リスクあり",
+      "顧客は単発購入になりがちでLTVが薄い構造"
     ]
   },
   "japan_fit": {
@@ -132,64 +130,129 @@
     "axes": {
       "demand": {
         "score": 5,
-        "reason": "日本のKindle出版市場は『コミック一強』で文字もの市場は605億円と限定的。一方でKindle出版のHowToコンテンツやAI執筆ツール記事は多く、副業・個人ブランディング目的の出版需要は一定存在する。ただし『ニュースレター文化』はSubstack並みに普及しておらず、英語圏ほどのストック資産は積み上がっていない。"
+        "reason": "noteは累計161万クリエイター、20万人が収益化、年間販売170億円規模と知識発信層は厚い。ただし「本にまとめたい」明示需要は限定的で、KDP個人作家の年収中央値は低く、Kindle文字物市場も605億円とニッチ。検索で根拠未確認の部分は中庸評価。"
       },
       "competition": {
         "score": 6,
-        "reason": "AI記事生成SaaS(AI Native、Catchy、RakuRin等)は多数存在するが、『既存コンテンツ→書籍化』に特化した日本語サービスは検索で目立った競合が見つからない。BookScribi等のAI小説執筆ツールはあるが、文体保持を売りにしたノンフィクション原稿アセンブリ専門は空白に近い。"
+        "reason": "同コンセプトの「ニュースレター/ポッドキャスト→書籍原稿AI」は国内未確認。MyBooks.jpはブログ製本（印刷）に特化、ゴーストライティング会社は人手で80万円〜と高単価。AIブックライティング系（Sudowrite等）は海外勢で日本語UI弱い。空白が残る領域。"
       },
       "regulation": {
         "score": 6,
-        "reason": "著作権法30条の4でAI学習用途の著作物利用は原則合法だが、AI生成物の著作権発生には人間の創作的寄与が必要。Amazon KDPはAI生成の開示義務化済み。2025年にはAI生成画像の著作権侵害で初の書類送検事例も発生しており、開示・人間関与の運用設計が必要。"
+        "reason": "文化庁が生成AIと著作権ガイダンス整備中、出版17社が2025年に共同声明、2026年秋に出版業界ガイドライン予定。著者自身のコンテンツを再構成するため侵害リスクは低いが、AI生成表記要請や利用規約整備は必要。重大な参入障壁ではないがウォッチが必要。"
       },
       "localization": {
-        "score": 5,
-        "reason": "UIの日本語化は容易だが、文体分析・章立てロジックは英語ベストセラー150冊を学習源とするため日本語書籍の構成パターン(序破急、新書スタイル等)に合うかは要検証。日本語LLMの文体保持精度や敬語・文末バリエーション処理も追加チューニングが必要。"
+        "score": 4,
+        "reason": "日本語文体（敬体/常体、文末バリエーション、漢字・かな比率）の自然さはLLM出力で破綻しやすく、ベストセラー150冊の学習も英語ノンフィクション偏重で日本のビジネス書文化（事例・対談・図解多用）に合わない。ePub/印刷も縦書き対応が課題。"
       },
       "business_custom": {
-        "score": 5,
-        "reason": "日本の個人作家文化は紙の自費出版・商業出版志向が根強く、Amazon KDP+セルフPDFという欧米的ワークフローへの心理的抵抗がある層も多い。ただしnote等の有料記事文化との親和性はあり、note→書籍化導線が組めれば商習慣との接合は可能。"
+        "score": 6,
+        "reason": "日本では「自分の本を出す」は経営者・コーチ・士業の権威付け施策として根強く、自費出版需要は安定。一方で書籍は紙メイン・取次経由が好まれ、デジタルのみのKDP書籍は権威性が低く見られがち。買い切り$47-$197価格は手頃。"
       }
     },
     "existing_competitors_jp": [
       {
-        "name": "AI Native (記事AI)",
-        "url": "https://www.ai-native.jp/services/article-ai",
-        "note": "SEO構造で大量に記事を生成するSaaS。書籍化ではないがコンテンツ大量生成領域で重なる。"
+        "name": "MyBooks.jp",
+        "url": "https://www.mybooks.jp/",
+        "note": "はてな・アメブロ等のブログを自動レイアウトしPDF化、1冊500円〜製本。AI再構成はせず「印刷」に特化。Prosedの編集パイプラインとは補完関係。"
       },
       {
-        "name": "Catchy",
-        "url": "https://lp.ai-copywriter.jp/",
-        "note": "マーケコピーやブログ・プレスリリース等を生成するAIライティングツール。書籍出力機能はない。"
+        "name": "ライティング株式会社（自費出版）",
+        "url": "https://www.publishing-house.jp/",
+        "note": "ゴーストライターによる代筆自費出版。一冊30〜150万円、平均80万円。人手前提でPropsedとは価格帯3桁違い、品質と権威性が強み。"
       },
       {
-        "name": "ラクリン (RakuRin)",
-        "url": "https://rakurin.net/",
-        "note": "ブログ記事作成特化のAIツール。テーマ発見からキーワード提案・アウトライン作成までを支援するが書籍化機能はない。"
+        "name": "Metareal PB",
+        "url": "https://ai-keiei.shift-ai.co.jp/publishing-ai-cost/",
+        "note": "月5万円サブスクのAI編集支援。出版社向け業務用で個人クリエイター向けではない。法人セグメント占有。"
       },
       {
-        "name": "フル外注AI式Kindle出版ラボ等の情報商材／コンサル",
-        "url": "https://shuppan-lab.com/",
-        "note": "AIを使ったKindle出版ノウハウ・ツール販売を行う個人事業者群。プラットフォーム化はされておらず、手作業中心。"
+        "name": "SAKUBUN/AI Writer等",
+        "url": "https://sakubun.ai/",
+        "note": "日本語AIライティング全般ツール。月3,000円〜数万円、記事/マーケ用途中心で書籍原稿パイプラインは持たない。"
       }
     ],
     "regulatory_findings": [
       {
-        "law": "著作権法(第30条の4、AI生成物の著作権)",
-        "impact": "学習段階の著作物利用は30条の4で広く許容されるが、生成物に著作権を発生させるには人間の創作的寄与が必要。ユーザー(著者)がリライト指示を出す設計はこの要件を満たしやすい。一方、既存ニュースレター等の取り込み時、第三者著作物が含まれていれば侵害リスクあり。"
+        "law": "著作権法",
+        "impact": "ユーザー自身のコンテンツ再構成のため侵害可能性は低い。ただしポッドキャストゲストの発言や引用素材を取り込む場合は二次利用許諾が必要。文化庁2024年ガイダンスに沿った利用範囲明示が必須。"
       },
       {
-        "law": "Amazon KDP規約(AI生成コンテンツ開示義務)",
-        "impact": "KDPアップロード時にAI使用を申告する義務があり、未申告は規約違反でアカウント停止リスク。出力先がKDPの場合、ユーザーへの開示ガイダンスが必須。"
+        "law": "特定電子メール法",
+        "impact": "サービス自体に直接影響は限定的だが、対象顧客がニュースレター運営者のため、メール配信機能を将来拡張する場合は事前同意・送信者明示・配信停止導線が必須。"
       },
       {
-        "law": "個人情報保護法",
-        "impact": "ポッドキャスト・ニュースレターのトランスクリプトに第三者の個人情報が含まれる場合、適切な取扱いが必要。サービス内で外部APIに送信する設計の場合は越境移転規制にも注意。"
+        "law": "景品表示法",
+        "impact": "「ベストセラー級の書籍が作れる」「100％あなたの声」等の効果訴求は優良誤認のリスク。AI生成物の品質に関し合理的根拠資料の保持が必要。"
       }
     ],
-    "opportunity": "日本市場では『note有料記事/Voicy/Podcast→Kindle/紙書籍化』導線に特化した日本語版が空白領域。新書スタイル(7-10章、各章8000-12000字)や実用書フォーマットに最適化したパイプラインを構築し、文化庁ガイドライン準拠の人間関与プロセスと著作権開示テンプレートを標準装備すれば、コンサルタント・コーチ・専門家による『ブランディング本』市場(数万円のリードマグネット用途)で差別化可能。商業出版社へのプレゼン用原稿生成や、企業の役員ブランディング書籍のB2B需要にも展開余地あり。",
-    "rationale": "Prosedは欧米のSubstack/LinkedInクリエイター経済を前提にしたプロダクトで、日本市場では(1)文字もの電子書籍市場が605億円と限定的、(2)ストック型ニュースレター文化が未成熟、(3)個人作家文化が紙志向/商業出版志向、という構造的逆風がある。一方で競合空白は確かに存在し、AI執筆ツール群は『記事生成』止まりで書籍アセンブリに特化したものは見当たらない。スコアは中庸の5(skip)で、現時点では日本独自で先行するほどの市場成熟度はないが、note書籍化サービスや新書フォーマット特化など派生角度には機会あり。コンサル・コーチ層のブランディング需要に絞れば収益化は可能だが、TAMが小さくPLG型SaaSとしてのスケールは厳しい。"
+    "opportunity": "noteクリエイター161万人、KDP個人作家層、ビジネス系インフルエンサーといった「既に長年発信しているが本にまとめられない」層に対し、印刷自費出版（80万円）とブログ製本（コンテンツそのまま）の中間に位置する「AI再構成+原稿納品」レイヤーは空白。特に経営者・コーチ・士業の権威付けニーズと相性が良く、「自分の本」を低コストで持ちたい需要は安定的。ニュースレター/ポッドキャストの一次取込口を日本のnote/Voicy/stand.fmに対応させれば差別化できる。",
+    "rationale": "市場機会としては中庸。需要層（note 161万人、noteで稼ぐ20万人、KDP個人作家）は存在し、明確な競合（同コンセプトのAI書籍化）は国内に未確認のため空白がある。ただし日本の自費出版市場は紙ベース・人手代筆が権威性で勝負しており、AI生成原稿は出版業界のガイドライン整備（2026年秋予定）次第で逆風になる可能性。日本語文体・縦書き・ビジネス書文化への適合は非自明で、Prosedの英語ノンフィクション150冊パターンはそのまま日本市場に転用できない。ローカライズ投資が大きく、検索で根拠未確認のローカル需要シグナルも多いため、verdictはskipとした。watchに格上げするには日本語縦書き対応・国内クリエイタープラットフォーム連携・出版社や士業協会との提携が前提条件となる。"
   },
-  "japan_fit_at": "2026-05-23T19:30:00",
-  "review_guide_at": "2026-05-23T19:30:00"
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "日本人クリエイターは月額サブスクよりも「本一冊作るなら買い切り」を好む傾向があり、Prosedの$47-$197買い切りは相性が良い。ただしLTVは1顧客1冊で頭打ちになりやすく、SaaS的継続収益にならない。複数冊・改訂・販売支援等のアップセル設計が必須。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "noteクリエイター161万、KDP個人作家数千〜数万規模（検索で根拠未確認）、ビジネス系インフルエンサーは更に少数。「既存資産が書籍化に足る分量を持つ」層は更に絞られ、reachable顧客は最大でも数万人規模。日本TAMは小さめ。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "個人開発者がリーチするにはnote/X/Voicy上での実演コンテンツが主軸となるが、書籍化は「年に1度の決断」で口コミ拡散しづらい。日本ではPMM不在のためコールドスタートが重く、出版コンサルや士業ネットワークへの提携が必要。検索で根拠未確認の国内事例多く中庸。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "生成AIによる執筆ツールはまだ国内SaaS化の黎明期、競合が来日していない空白期間。文化庁ガイダンスは整備中で2026年秋に出版業界ガイドライン公表予定、それ以降は規制風向き次第。海外勢の本格進出前の1-2年が時間窓。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "書籍原稿はユーザーの期待値が非常に高く、品質不満時の返金要求・カスタマーサクセス対応が重い。文体一貫性のチューニング、章構成の修正依頼、印刷トラブル対応など個人運用には負荷大。買い切り価格では人手サポートに耐えない。"
+      }
+    },
+    "rationale": "事業成立性は厳しめ。日本のクリエイターエコノミーは拡大中だが、「ニュースレター/ポッドキャストを書籍化したい」明確需要層は薄く、reachable数万人規模のTAMで$47-$197買い切りモデルでは年間売上数百万〜数千万円が現実的天井。日本人の本に対する権威性期待（紙・取次・編集者の手）と買い切りAI原稿の品質ギャップは大きく、カスタマーサポート負荷が個人開発の継続性を脅かす。一方、競合空白とタイミングの良さは認められ、日本語縦書き対応＋note/Voicy/stand.fm連携＋士業/コーチ協会提携の3点セットができれば差別化可能。ただし投資回収シナリオが見えづらく、海外展開の方が筋がいい可能性が高い。個人開発者目線では「watch（=海外展開を観察）」、日本フォーカス特化はno_goに近い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "one_time",
+      "arpu_jpy": 29800,
+      "plans": [
+        "ベータ：1冊買い切り 9,800円（先着100名・原稿納品まで）",
+        "スタンダード：1冊買い切り 29,800円（PDF/ePub/DOCX+表紙3案）",
+        "プロ：1冊買い切り 79,800円（編集者レビュー1往復+縦書き対応）",
+        "追加章リライト：1章 1,980円（既存購入者向け）",
+        "印刷オプション：MyBooks.jp等と提携、別途実費"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "noteで有料記事を販売中のクリエイター、Voicy/stand.fmで継続配信中のホスト、LinkedInで定期発信するBtoBコンサル・士業・コーチのうち、過去2年分以上の発信ストックを持ち権威付けに本を出したい層。",
+      "target_count": 30000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 8940000
+    },
+    "recommended_gtm": [
+      "noteで「自分の有料記事を1冊にまとめてみた」実演記事を著名クリエイター3-5名と共著で公開しソーシャルプルーフ獲得",
+      "Voicy/stand.fm人気ホストへの無料提供→放送内紹介での流入導線確保",
+      "士業（税理士・社労士・行政書士）団体と提携、「実務経験を1冊にする」訴求でセミナー登壇",
+      "X（旧Twitter）でビジネス系インフルエンサーへのアフィリエイト30%設計、書籍化体験のbefore/after投稿を促進",
+      "出版コンサル・自費出版会社とのホワイトラベル提携、人手代筆80万円の手前の選択肢として供給"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "日本語文体品質と縦書きePub対応のローカライズコストが想定以上に重く、海外プロダクトのまま日本人ユーザーが満足しない可能性。買い切りモデルではローカライズ投資の回収が困難。",
+      "出版業界ガイドライン（2026年秋予定）でAI生成書籍の表記義務化・Amazon KDP側の規約強化が起きると、商品の権威性が低下し顧客が離反するリスク。",
+      "顧客期待値が「自分らしい本」と非常に高く、品質不満による返金要求やSNS炎上のCS負荷が個人開発の継続性を直撃。買い切り単価では人件費が出ない。",
+      "Substack/LinkedIn/Spotify等のソース側APIや規約変更で取得経路が止まる単一障害点。日本市場ではnote/Voicy/stand.fmの正式連携が更にハードル。",
+      "LTVが1顧客1冊で頭打ちになるため、CACがオーガニックでない限り採算割れ。広告依存になると個人開発者は資金面で大手SaaSに勝てない。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-23T19:30:00Z",
+  "review_guide_at": "2026-05-23T19:30:00Z",
+  "business_viability_at": "2026-05-23T19:30:00Z",
+  "advisor_view_at": "2026-05-23T19:30:00Z"
 }

@@ -1,0 +1,494 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "description_ja",
+    "summary_ja",
+    "review_guide_ja",
+    "japan_fit",
+    "business_viability",
+    "advisor_view",
+    "overall_score"
+  ],
+  "properties": {
+    "description_ja": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 200
+    },
+    "summary_ja": {
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 400
+    },
+    "overall_score": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10
+    },
+    "review_guide_ja": {
+      "type": "object",
+      "required": [
+        "what",
+        "for_who",
+        "reproducibility",
+        "signals",
+        "concerns"
+      ],
+      "properties": {
+        "what": {
+          "type": "string",
+          "maxLength": 600
+        },
+        "for_who": {
+          "type": "string",
+          "maxLength": 300
+        },
+        "reproducibility": {
+          "type": "object",
+          "required": [
+            "level",
+            "reason"
+          ],
+          "properties": {
+            "level": {
+              "enum": [
+                "easy",
+                "medium",
+                "hard"
+              ]
+            },
+            "reason": {
+              "type": "string",
+              "maxLength": 200
+            }
+          }
+        },
+        "signals": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 5,
+          "items": {
+            "type": "string"
+          }
+        },
+        "concerns": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 5,
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "japan_fit": {
+      "type": "object",
+      "required": [
+        "japan_fit_score",
+        "verdict",
+        "axes",
+        "opportunity",
+        "rationale"
+      ],
+      "properties": {
+        "japan_fit_score": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 10
+        },
+        "verdict": {
+          "enum": [
+            "build",
+            "watch",
+            "skip",
+            "no_fit"
+          ]
+        },
+        "axes": {
+          "type": "object",
+          "required": [
+            "demand",
+            "competition",
+            "regulation",
+            "localization",
+            "business_custom"
+          ],
+          "properties": {
+            "demand": {
+              "type": "object",
+              "required": [
+                "score",
+                "reason"
+              ],
+              "properties": {
+                "score": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 10
+                },
+                "reason": {
+                  "type": "string",
+                  "maxLength": 300
+                }
+              }
+            },
+            "competition": {
+              "type": "object",
+              "required": [
+                "score",
+                "reason"
+              ],
+              "properties": {
+                "score": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 10
+                },
+                "reason": {
+                  "type": "string",
+                  "maxLength": 300
+                }
+              }
+            },
+            "regulation": {
+              "type": "object",
+              "required": [
+                "score",
+                "reason"
+              ],
+              "properties": {
+                "score": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 10
+                },
+                "reason": {
+                  "type": "string",
+                  "maxLength": 300
+                }
+              }
+            },
+            "localization": {
+              "type": "object",
+              "required": [
+                "score",
+                "reason"
+              ],
+              "properties": {
+                "score": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 10
+                },
+                "reason": {
+                  "type": "string",
+                  "maxLength": 300
+                }
+              }
+            },
+            "business_custom": {
+              "type": "object",
+              "required": [
+                "score",
+                "reason"
+              ],
+              "properties": {
+                "score": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 10
+                },
+                "reason": {
+                  "type": "string",
+                  "maxLength": 300
+                }
+              }
+            }
+          }
+        },
+        "existing_competitors_jp": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "name",
+              "note"
+            ],
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string"
+              },
+              "note": {
+                "type": "string",
+                "maxLength": 200
+              }
+            }
+          }
+        },
+        "regulatory_findings": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "law",
+              "impact"
+            ],
+            "properties": {
+              "law": {
+                "type": "string"
+              },
+              "impact": {
+                "type": "string",
+                "maxLength": 300
+              }
+            }
+          }
+        },
+        "opportunity": {
+          "type": "string",
+          "maxLength": 500
+        },
+        "rationale": {
+          "type": "string",
+          "maxLength": 700
+        }
+      }
+    },
+    "business_viability": {
+      "type": "object",
+      "required": [
+        "business_viability_score",
+        "axes",
+        "rationale"
+      ],
+      "properties": {
+        "business_viability_score": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 10
+        },
+        "axes": {
+          "type": "object",
+          "required": [
+            "monetization",
+            "market_size",
+            "gtm",
+            "timing",
+            "solo_ops"
+          ],
+          "properties": {
+            "monetization": {
+              "type": "object",
+              "required": [
+                "score",
+                "reason"
+              ],
+              "properties": {
+                "score": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 10
+                },
+                "reason": {
+                  "type": "string",
+                  "maxLength": 300
+                }
+              }
+            },
+            "market_size": {
+              "type": "object",
+              "required": [
+                "score",
+                "reason"
+              ],
+              "properties": {
+                "score": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 10
+                },
+                "reason": {
+                  "type": "string",
+                  "maxLength": 300
+                }
+              }
+            },
+            "gtm": {
+              "type": "object",
+              "required": [
+                "score",
+                "reason"
+              ],
+              "properties": {
+                "score": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 10
+                },
+                "reason": {
+                  "type": "string",
+                  "maxLength": 300
+                }
+              }
+            },
+            "timing": {
+              "type": "object",
+              "required": [
+                "score",
+                "reason"
+              ],
+              "properties": {
+                "score": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 10
+                },
+                "reason": {
+                  "type": "string",
+                  "maxLength": 300
+                }
+              }
+            },
+            "solo_ops": {
+              "type": "object",
+              "required": [
+                "score",
+                "reason"
+              ],
+              "properties": {
+                "score": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 10
+                },
+                "reason": {
+                  "type": "string",
+                  "maxLength": 300
+                }
+              }
+            }
+          }
+        },
+        "rationale": {
+          "type": "string",
+          "maxLength": 700
+        }
+      }
+    },
+    "advisor_view": {
+      "type": "object",
+      "required": [
+        "recommended_pricing",
+        "reachable_market_jp",
+        "recommended_gtm",
+        "time_window_months",
+        "solo_dev_continuable",
+        "critical_risks",
+        "go_no_go"
+      ],
+      "properties": {
+        "recommended_pricing": {
+          "type": "object",
+          "required": [
+            "model",
+            "arpu_jpy",
+            "plans"
+          ],
+          "properties": {
+            "model": {
+              "enum": [
+                "monthly",
+                "annual",
+                "one_time",
+                "usage",
+                "freemium",
+                "open_source"
+              ]
+            },
+            "arpu_jpy": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "plans": {
+              "type": "array",
+              "maxItems": 5,
+              "items": {
+                "type": "string",
+                "maxLength": 200
+              }
+            }
+          }
+        },
+        "reachable_market_jp": {
+          "type": "object",
+          "required": [
+            "target_segment",
+            "target_count",
+            "capture_pct_year3",
+            "monthly_revenue_target_jpy"
+          ],
+          "properties": {
+            "target_segment": {
+              "type": "string",
+              "maxLength": 300
+            },
+            "target_count": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "capture_pct_year3": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 100
+            },
+            "monthly_revenue_target_jpy": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        },
+        "recommended_gtm": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 6,
+          "items": {
+            "type": "string",
+            "maxLength": 200
+          }
+        },
+        "time_window_months": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 120
+        },
+        "solo_dev_continuable": {
+          "enum": [
+            "yes",
+            "hard",
+            "no"
+          ]
+        },
+        "critical_risks": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 5,
+          "items": {
+            "type": "string",
+            "maxLength": 250
+          }
+        },
+        "go_no_go": {
+          "enum": [
+            "go",
+            "consider",
+            "no_go"
+          ]
+        }
+      }
+    }
+  }
+}
