@@ -249,5 +249,6 @@
   "japan_fit_at": "2026-05-23T19:30:00Z",
   "review_guide_at": "2026-05-23T19:30:00Z",
   "business_viability_at": "2026-05-23T19:30:00Z",
-  "advisor_view_at": "2026-05-23T19:30:00Z"
+  "advisor_view_at": "2026-05-23T19:30:00Z",
+  "tldr_ja": "障壁: Tera Term/Warp/Coolify等の国内外競合が分厚く、英語ローカルアプリのままでは日本語UI・請求書・監査要件を求める法人に届かず、AI誤コマンドの責任リスクもソロ運用には重い。"
 }

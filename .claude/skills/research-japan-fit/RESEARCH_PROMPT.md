@@ -49,10 +49,11 @@
 既存 JSON に **merge** して `Write` で同じファイルに書き戻す。
 既存フィールド（`name`, `description`, `ph_url`, `website`, `launched_at`, `upvotes`, `comments`, `topics`, `makers`, `top_comments`, `long_description`, `featured_at`, `thumbnail_url`, `media`, `landing_meta`, `landing_text`, `pricing_signals`, `landing_fetched_at`, `ph_enriched_at`）は **絶対に削除・改変しない**。
 
-#### 翻訳
+#### 翻訳・要約
 
 - `description_ja`: tagline の日本語訳（30〜60 字目安）
 - `summary_ja`: 何をするものか開発者が一目で理解できる 1〜2 文（80〜140 字目安）
+- `tldr_ja`: **このレポート全体の 1 行総括**（60〜100 字目安）。スマホで一目で読める「機会 or 障壁 + 根拠」を 1 文で。例: 「SaaS テスト自動化需要は国内顕在、freemium で隙間獲得可」/ 「楽天/Yahoo!非対応で個人開発は困難、英語圏向け作成が筋」
 
 #### 製品概要 `review_guide_ja`
 

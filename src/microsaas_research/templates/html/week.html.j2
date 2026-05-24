@@ -1,0 +1,57 @@
+{% extends "_layout.html.j2" %}
+{% block content %}
+<nav class="breadcrumb">
+  <a href="{{ home_href }}">← All weeks</a>
+</nav>
+
+<section class="week-header">
+  <h1>Week {{ week }}</h1>
+  <p class="week-meta">生成: {{ generated_at }} / 候補プール {{ candidate_count }} / TOP{{ rows|length }} を表示</p>
+  <p class="week-meta">並び順: <code>overall_score</code> 降順 = 市場機会 × 0.4 + 事業成立性 × 0.6</p>
+  <div class="stat-bar">
+    <span class="stat-label">overall:</span>
+    {% for s, c in overall_stats %}<span class="stat-chip">{{ s }}点×{{ c }}</span>{% endfor %}
+  </div>
+  <div class="stat-bar">
+    <span class="stat-label">判定:</span>
+    {% for label, count in verdict_stats %}<span class="pill pill-{{ label }}">{{ label }} {{ count }}</span>{% endfor %}
+  </div>
+</section>
+
+<section class="product-list">
+  {% for r in rows %}
+  {% set jf = r.japan_fit or {} %}
+  {% set bv = r.business_viability or {} %}
+  {% set av = r.advisor_view or {} %}
+  {% set price = av.recommended_pricing or {} %}
+  {% set mkt = av.reachable_market_jp or {} %}
+  <article class="product-card">
+    <header class="card-header">
+      <span class="rank">#{{ loop.index }}</span>
+      {% if r.thumbnail_url %}<img class="thumb" src="{{ r.thumbnail_url }}?w=160&h=160&fit=crop&auto=format" alt="" loading="lazy">{% endif %}
+      <div class="card-title">
+        <h3><a href="{{ r.ph_id }}.html">{{ r.name or r.ph_id }}</a></h3>
+        <p class="badges">
+          <span class="badge badge-overall" title="overall">⭐{{ r.overall_score or "—" }}</span>
+          <span class="badge badge-jf" title="japan_fit">🇯🇵{{ jf.japan_fit_score or "—" }}</span>
+          <span class="badge badge-bv" title="business_viability">💼{{ bv.business_viability_score or "—" }}</span>
+          <span class="pill pill-{{ av.go_no_go or 'unknown' }}">{{ av.go_no_go or "—" }}</span>
+        </p>
+      </div>
+    </header>
+
+    {% if r.summary_ja %}<p class="summary"><span class="label">概要:</span> {{ r.summary_ja }}</p>{% endif %}
+    {% if r.tldr_ja %}<p class="tldr"><span class="label">総括:</span> {{ r.tldr_ja }}</p>{% endif %}
+
+    <dl class="card-meta">
+      {% if price.model %}<dt>推奨課金</dt><dd>{{ price.model }}{% if price.arpu_jpy %} / ARPU ¥{{ "{:,}".format(price.arpu_jpy) }}{% endif %}</dd>{% endif %}
+      {% if mkt.monthly_revenue_target_jpy %}<dt>月商目標</dt><dd>¥{{ "{:,}".format(mkt.monthly_revenue_target_jpy) }}</dd>{% endif %}
+      {% if av.solo_dev_continuable %}<dt>個人継続性</dt><dd><code>{{ av.solo_dev_continuable }}</code></dd>{% endif %}
+      {% if r.total_upvotes %}<dt>PH upvotes</dt><dd>{{ r.total_upvotes }}</dd>{% endif %}
+    </dl>
+
+    <p class="card-action"><a href="{{ r.ph_id }}.html" class="btn-link">詳細を見る →</a></p>
+  </article>
+  {% endfor %}
+</section>
+{% endblock %}

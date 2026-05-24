@@ -1,0 +1,34 @@
+{% extends "_layout.html.j2" %}
+{% block content %}
+<section class="hero">
+  {% if weeks %}
+  <p class="hero-meta">📅 最新レポート: <strong>{{ weeks[0].week }}</strong>（生成 {{ weeks[0].generated_at }}）</p>
+  <p class="hero-stats">
+    {% for label, count in weeks[0].verdict_stats %}<span class="pill pill-{{ label }}">{{ label }} {{ count }}</span>{% endfor %}
+  </p>
+  <a href="{{ weeks[0].week }}/index.html" class="btn-primary">最新レポートを見る →</a>
+  {% else %}
+  <p>まだレポートがありません。</p>
+  {% endif %}
+</section>
+
+<section class="week-list">
+  <h2>過去の週次レポート</h2>
+  {% for w in weeks %}
+  <article class="week-card">
+    <h3><a href="{{ w.week }}/index.html">Week {{ w.week }}</a></h3>
+    <p class="week-meta">生成: {{ w.generated_at }} / 候補プール {{ w.candidate_count }} / TOP{{ w.limit }} 表示</p>
+    {% if w.top3 %}
+    <p class="week-top3">
+      TOP3:
+      {% for t in w.top3 %}<strong>{{ t.name }}</strong> <span class="badge badge-overall">⭐{{ t.overall_score }}</span>{% if not loop.last %} / {% endif %}{% endfor %}
+    </p>
+    {% endif %}
+    <p class="week-distribution">
+      {% for label, count in w.verdict_stats %}<span class="pill pill-{{ label }}">{{ label }} {{ count }}</span>{% endfor %}
+    </p>
+    <a href="{{ w.week }}/index.html" class="btn-link">読む →</a>
+  </article>
+  {% endfor %}
+</section>
+{% endblock %}

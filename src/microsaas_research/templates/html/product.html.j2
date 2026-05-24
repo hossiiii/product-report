@@ -1,0 +1,170 @@
+{% extends "_layout.html.j2" %}
+{% block content %}
+{% set jf = r.japan_fit or {} %}
+{% set bv = r.business_viability or {} %}
+{% set av = r.advisor_view or {} %}
+{% set price = av.recommended_pricing or {} %}
+{% set mkt = av.reachable_market_jp or {} %}
+
+<nav class="breadcrumb">
+  <a href="index.html">← Week {{ week }}</a>
+</nav>
+
+<section class="product-header">
+  {% if r.thumbnail_url %}<img class="thumb-lg" src="{{ r.thumbnail_url }}?w=320&h=320&fit=crop&auto=format" alt="">{% endif %}
+  <h1>{{ r.name or r.ph_id }}</h1>
+  <p class="badges">
+    <span class="badge badge-overall" title="overall">⭐ {{ r.overall_score or "—" }}/10</span>
+    <span class="badge badge-jf" title="japan_fit">🇯🇵 {{ jf.japan_fit_score or "—" }}/10</span>
+    <span class="badge badge-bv" title="business_viability">💼 {{ bv.business_viability_score or "—" }}/10</span>
+    <span class="pill pill-{{ av.go_no_go or 'unknown' }}">{{ av.go_no_go or "—" }}</span>
+  </p>
+  {% if r.tldr_ja %}<p class="tldr-big">{{ r.tldr_ja }}</p>{% endif %}
+  {% if r.summary_ja %}<p class="summary">{{ r.summary_ja }}</p>{% endif %}
+
+  <p class="links">
+    <a href="{{ r.website or r.ph_url }}" target="_blank" rel="noopener">公式サイト ↗</a>
+    {% if r.ph_url and r.ph_url != r.website %} / <a href="{{ r.ph_url }}" target="_blank" rel="noopener">Product Hunt ↗</a>{% endif %}
+  </p>
+</section>
+
+{% if r.media %}
+<section class="media">
+  {% for m in r.media[:5] %}<img src="{{ m.url }}?w=720&auto=format" alt="" loading="lazy">{% endfor %}
+</section>
+{% endif %}
+
+<section class="basics">
+  <h2>基本情報</h2>
+  <dl class="card-meta">
+    <dt>和訳</dt><dd>{{ r.description_ja or "—" }}</dd>
+    <dt>原文</dt><dd>{{ r.description or "—" }}</dd>
+    {% if r.topics %}<dt>トピック</dt><dd>{{ r.topics | join(", ") }}</dd>{% endif %}
+    {% if r.pricing_signals %}<dt>価格シグナル(PH)</dt><dd>{{ r.pricing_signals | join(", ") }}</dd>{% endif %}
+    {% if r.total_upvotes %}<dt>PH 指標</dt><dd>upvotes {{ r.total_upvotes }} / comments {{ r.total_comments }}</dd>{% endif %}
+    {% if r.launched_at %}<dt>launched</dt><dd>{{ r.launched_at[:10] }}</dd>{% endif %}
+  </dl>
+</section>
+
+{% if av %}
+<section class="advisor-view">
+  <h2>アドバイザー所見 <span class="pill pill-{{ av.go_no_go or 'unknown' }}">{{ av.go_no_go or "—" }}</span></h2>
+  <dl class="card-meta">
+    {% if price.model %}<dt>推奨課金モデル</dt><dd><code>{{ price.model }}</code>{% if price.arpu_jpy %} / ARPU ¥{{ "{:,}".format(price.arpu_jpy) }}{% endif %}</dd>{% endif %}
+    {% if price.plans %}<dt>プラン例</dt><dd><ul class="inline-list">{% for p in price.plans %}<li>{{ p }}</li>{% endfor %}</ul></dd>{% endif %}
+    {% if mkt.target_segment %}<dt>ターゲット</dt><dd>{{ mkt.target_segment }}</dd>{% endif %}
+    {% if mkt.target_count %}<dt>対象規模</dt><dd>{{ "{:,}".format(mkt.target_count) }} × 3 年で {{ mkt.capture_pct_year3 }}% 獲得 → 月商 ¥{{ "{:,}".format(mkt.monthly_revenue_target_jpy or 0) }}</dd>{% endif %}
+    {% if av.recommended_gtm %}<dt>推奨 GTM</dt><dd><ul class="inline-list">{% for g in av.recommended_gtm %}<li>{{ g }}</li>{% endfor %}</ul></dd>{% endif %}
+    {% if av.time_window_months %}<dt>時間窓</dt><dd>{{ av.time_window_months }} ヶ月</dd>{% endif %}
+    {% if av.solo_dev_continuable %}<dt>個人開発継続性</dt><dd><code>{{ av.solo_dev_continuable }}</code></dd>{% endif %}
+  </dl>
+  {% if av.critical_risks %}
+  <h3>クリティカルリスク</h3>
+  <ul>{% for risk in av.critical_risks %}<li>{{ risk }}</li>{% endfor %}</ul>
+  {% endif %}
+</section>
+{% endif %}
+
+{% if bv %}
+<section class="biz-viability">
+  <h2>事業成立性 💼 {{ bv.business_viability_score }}/10</h2>
+  {% if bv.axes %}
+  <div class="axes">
+    {% for key, label in [("monetization","収益化"), ("market_size","市場規模"), ("gtm","GTM"), ("timing","タイミング"), ("solo_ops","個人運用")] %}
+      {% set ax = bv.axes[key] %}
+      <div class="axis-card">
+        <h4>{{ label }} <span class="axis-score">{{ ax.score }}/10</span></h4>
+        <p>{{ ax.reason }}</p>
+      </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% if bv.rationale %}<p class="rationale"><strong>事業性総評:</strong> {{ bv.rationale }}</p>{% endif %}
+</section>
+{% endif %}
+
+{% if jf %}
+<section class="japan-fit">
+  <h2>市場機会 🇯🇵 {{ jf.japan_fit_score }}/10</h2>
+  {% if jf.axes %}
+  <div class="axes">
+    {% for key, label in [("demand","需要"), ("competition","競合"), ("regulation","規制"), ("localization","ローカライズ"), ("business_custom","商習慣")] %}
+      {% set ax = jf.axes[key] %}
+      <div class="axis-card">
+        <h4>{{ label }} <span class="axis-score">{{ ax.score }}/10</span></h4>
+        <p>{{ ax.reason }}</p>
+      </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if jf.existing_competitors_jp %}
+  <h3>国内既存プレイヤー</h3>
+  <ul class="competitors">
+    {% for c in jf.existing_competitors_jp %}
+    <li>{% if c.url %}<a href="{{ c.url }}" target="_blank" rel="noopener">{{ c.name }}</a>{% else %}<strong>{{ c.name }}</strong>{% endif %} — {{ c.note }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if jf.regulatory_findings %}
+  <h3>規制要点</h3>
+  <ul class="regs">
+    {% for f in jf.regulatory_findings %}<li><strong>{{ f.law }}</strong>: {{ f.impact }}</li>{% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if jf.opportunity %}<p class="rationale"><strong>機会:</strong> {{ jf.opportunity }}</p>{% endif %}
+  {% if jf.rationale %}<p class="rationale"><strong>市場機会総評:</strong> {{ jf.rationale }}</p>{% endif %}
+</section>
+{% endif %}
+
+{% if r.review_guide_ja %}
+<section class="review-guide">
+  <h2>判断ガイド</h2>
+  <dl class="card-meta">
+    <dt>何をするか</dt><dd>{{ r.review_guide_ja.what }}</dd>
+    <dt>誰に刺さるか</dt><dd>{{ r.review_guide_ja.for_who }}</dd>
+    {% if r.review_guide_ja.reproducibility %}<dt>再現可能性</dt><dd><code>{{ r.review_guide_ja.reproducibility.level }}</code> — {{ r.review_guide_ja.reproducibility.reason }}</dd>{% endif %}
+  </dl>
+  {% if r.review_guide_ja.signals %}
+  <h3>注目シグナル</h3>
+  <ul>{% for s in r.review_guide_ja.signals %}<li>{{ s }}</li>{% endfor %}</ul>
+  {% endif %}
+  {% if r.review_guide_ja.concerns %}
+  <h3>懸念点</h3>
+  <ul>{% for c in r.review_guide_ja.concerns %}<li>{{ c }}</li>{% endfor %}</ul>
+  {% endif %}
+</section>
+{% endif %}
+
+{% if r.top_comments %}
+<section class="ph-comments">
+  <h2>PH 上位コメント</h2>
+  {% for c in r.top_comments[:3] %}
+  <blockquote>
+    <p>{{ c.body[:300] }}</p>
+    <footer>— {{ c.user or "anonymous" }} ({{ c.votesCount or 0 }} votes)</footer>
+  </blockquote>
+  {% endfor %}
+</section>
+{% endif %}
+
+{% if r.long_description and r.long_description != r.description %}
+<section class="long-desc">
+  <h2>長文説明（PH）</h2>
+  <p>{{ r.long_description[:1500] }}</p>
+</section>
+{% endif %}
+
+{% if r.landing_meta %}
+<section class="landing">
+  <h2>ランディングページから</h2>
+  <p>{{ r.landing_meta }}</p>
+</section>
+{% endif %}
+
+<nav class="breadcrumb">
+  <a href="index.html">← Week {{ week }} に戻る</a>
+</nav>
+{% endblock %}

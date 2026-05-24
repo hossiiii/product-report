@@ -33,6 +33,7 @@ ENRICHED_SCHEMA: dict[str, Any] = {
     "required": [
         "description_ja",
         "summary_ja",
+        "tldr_ja",
         "review_guide_ja",
         "japan_fit",
         "business_viability",
@@ -42,6 +43,7 @@ ENRICHED_SCHEMA: dict[str, Any] = {
     "properties": {
         "description_ja": {"type": "string", "minLength": 10, "maxLength": 200},
         "summary_ja": {"type": "string", "minLength": 20, "maxLength": 400},
+        "tldr_ja": {"type": "string", "minLength": 30, "maxLength": 200},
         "overall_score": {"type": "integer", "minimum": 1, "maximum": 10},
         "review_guide_ja": {
             "type": "object",

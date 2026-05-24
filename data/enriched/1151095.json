@@ -81,6 +81,7 @@
   "landing_fetched_at": "2026-05-23T19:05:33",
   "description_ja": "会話で動画を生成・編集できるGoogleの統合マルチモーダルAIモデル",
   "summary_ja": "Gemini Omniは画像・音声・テキスト・動画を入力に高品質映像を生成し、自然言語で逐次編集できるGoogleの新AIモデル。Gemini App・Flow・YouTubeで提供開始、API近日公開予定。",
+  "tldr_ja": "障壁優位。Google純正がGemini/Flow/YouTubeに直接統合済みで汎用ラッパーは勝てず、機会はEC・不動産・研修など業種特化×日本語×SynthID/C2PA明示の薄い法人ワークフロー層に限定される。",
   "review_guide_ja": {
     "what": "Gemini Omniは、Google DeepMindが2026年5月19日に発表した新世代マルチモーダル生成AIモデル。第1弾「Gemini Omni Flash」は、画像・音声・動画・テキストを入力として受け取り、物理法則や空間理解を踏まえた高品質な動画を生成する。最大の特徴は「会話による段階的編集」で、Nano Bananaの画像版コンセプトを動画に拡張し、前の編集を保持したまま自然言語で逐次的にシーンを修正・変換できる。提供形態はGemini app・Google Flow・YouTube経由で、Google AI Plus/Pro/Ultraサブスクリプションが必要。生成物にはSynthID電子透かしとC2PAコンテンツクレデンシャルが付与され、生成元の証明と検出が可能。API提供は近日予定と告知されている。",
     "for_who": "YouTubeクリエイター、SNS動画制作者、広告クリエイティブ担当、Eコマース運営者、研修・マニュアル動画を量産したい企業の人事/教育担当、AIアプリを構築する個人開発者・小規模チーム。とくに編集工程の短縮価値を強く感じるショート動画運用者やB-roll素材を多用するクリエイターに刺さる。",

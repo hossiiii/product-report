@@ -269,6 +269,7 @@
     ],
     "go_no_go": "consider"
   },
+  "tldr_ja": "AIコーディング普及で生成コード検証の需要は急増し市場成長と単価は強いが、Autify/MagicPod/SHIFT等の競合とブラウザ基盤・LLMコスト負担が個人開発の継続を阻む。",
   "overall_score": 6,
   "japan_fit_at": "2026-05-23T19:30:00Z",
   "review_guide_at": "2026-05-23T19:30:00Z",

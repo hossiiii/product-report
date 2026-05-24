@@ -104,18 +104,29 @@ uv run prr verify-week --week "$WEEK" --candidates "$CANDIDATES"
 exit 0 を確認する。exit 1 ならユーザーに不適合 ph_id 一覧を報告して中断
 （push しない）。
 
-### Step 7 — レポート生成
+### Step 7 — レポート生成（MD）
 
 ```bash
 uv run prr report --week "$WEEK" --candidates "$CANDIDATES" --limit 20
 ```
 
-`reports/<week>/top20.md` が生成される。
+`reports/<week>/top20.md` が生成される（履歴・diff 用）。
 
-### Step 8 — commit & push
+### Step 8 — HTML 公開ファイル生成
 
 ```bash
-git add data/ reports/
+uv run prr publish --candidates "$CANDIDATES" --limit 20
+uv run prr verify-published --week "$WEEK" --candidates "$CANDIDATES" --limit 20
+```
+
+`docs/` 配下に GitHub Pages 公開用 HTML を全週分再生成。
+過去週も同じテンプレで上書きされ、フォーマットが統一される。
+`verify-published` で `docs/<week>/index.html` と 20 個の product HTML、共通 CSS の存在を確認。
+
+### Step 9 — commit & push
+
+```bash
+git add data/ reports/ docs/
 if git diff --cached --quiet; then
   echo "no changes to commit"
 else
@@ -126,20 +137,21 @@ fi
 
 push で失敗した場合は中断してユーザーに報告。`--no-verify` や `--force` は禁止。
 
-### Step 9 — ユーザーへの結果報告（1 メッセージ）
+### Step 10 — ユーザーへの結果報告（1 メッセージ）
 
 以下を 1 メッセージにまとめて返答：
 
 1. 生成された report のパス（`reports/<week>/top20.md`）
-2. TOP10 を表形式で:
+2. 公開 HTML の URL（push 成功時のみ）
+   `https://<user>.github.io/<repo>/<week>/`
+3. TOP10 を表形式で:
    ```
-   #1  🇯🇵 X/10  verdict   ProductName
-   #2  🇯🇵 X/10  verdict   ProductName
+   #1  ⭐X/10  🇯🇵 X  💼 X  verdict   ProductName
+   #2  ⭐X/10  🇯🇵 X  💼 X  verdict   ProductName
    ...
    ```
-3. composite_score の分布（例: 8 点以上=3 件 / 7 点=5 件 / 6 点=8 件 / ...）
-4. push した場合は最新 commit の hash（`git rev-parse --short HEAD`）
-5. 国内既存プレイヤーが発見された件数
+4. overall_score の分布
+5. push した場合は最新 commit の hash（`git rev-parse --short HEAD`）
 
 長い解説は不要。簡潔に。
 

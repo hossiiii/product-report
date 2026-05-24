@@ -4,6 +4,7 @@
   "required": [
     "description_ja",
     "summary_ja",
+    "tldr_ja",
     "review_guide_ja",
     "japan_fit",
     "business_viability",
@@ -20,6 +21,11 @@
       "type": "string",
       "minLength": 20,
       "maxLength": 400
+    },
+    "tldr_ja": {
+      "type": "string",
+      "minLength": 30,
+      "maxLength": 200
     },
     "overall_score": {
       "type": "integer",

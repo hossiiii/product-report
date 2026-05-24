@@ -7,6 +7,7 @@ import typer
 
 from . import prep as prep_module
 from . import producthunt, report, storage
+from . import publish as publish_module
 from .config import settings
 from .schemas import export_schema, validate_enriched
 
@@ -114,6 +115,33 @@ def export_schema_cmd() -> None:
     out = settings.skill_schema_path
     export_schema(out)
     typer.echo(f"schema exported: {out}")
+
+
+@app.command("publish")
+def publish_cmd(
+    candidates: Annotated[int, typer.Option("--candidates")] = 30,
+    limit: Annotated[int, typer.Option("--limit")] = 20,
+) -> None:
+    """全週の HTML を docs/ に生成（GitHub Pages 公開ルート）。"""
+    result = publish_module.publish(candidates=candidates, limit=limit)
+    typer.echo(f"published: {result['files_generated']} files for {len(result['weeks'])} week(s)")
+
+
+@app.command("verify-published")
+def verify_published_cmd(
+    week: Annotated[str, typer.Option("--week")] = "",
+    candidates: Annotated[int, typer.Option("--candidates")] = 30,
+    limit: Annotated[int, typer.Option("--limit")] = 20,
+) -> None:
+    """指定週の HTML が docs/ に揃っているか検証。"""
+    week = week or _default_week()
+    ok, issues = publish_module.verify_published(week, candidates=candidates, limit=limit)
+    for line in issues:
+        typer.echo(line)
+    if not ok:
+        typer.echo(f"verify-published failed: {len(issues)} issue(s)", err=True)
+        raise typer.Exit(code=1)
+    typer.echo("verify-published ok")
 
 
 @app.command("report")

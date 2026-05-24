@@ -213,6 +213,7 @@
     ],
     "go_no_go": "no_go"
   },
+  "tldr_ja": "障壁大。Claude Code/rewindやCursor Checkpointが標準機能化済みで外部ツール必要性が薄く、本家Apache-2.0『Free FOREVER』で課金導線も困難。",
   "overall_score": 5,
   "japan_fit_at": "2026-05-23T19:30:00Z",
   "review_guide_at": "2026-05-23T19:30:00Z",

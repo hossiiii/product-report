@@ -227,5 +227,6 @@
   "japan_fit_at": "2026-05-23T19:05:31Z",
   "review_guide_at": "2026-05-23T19:05:31Z",
   "business_viability_at": "2026-05-23T19:05:31Z",
-  "advisor_view_at": "2026-05-23T19:05:31Z"
+  "advisor_view_at": "2026-05-23T19:05:31Z",
+  "tldr_ja": "障壁：Cursor統合の1兆パラメータMoEモデルで個人再現不可、本家とClaude Code等の競合がひしめき日本でも大手導入済みのため模倣余地はなくno_go。"
 }

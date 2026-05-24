@@ -82,6 +82,7 @@
   "landing_fetched_at": "2026-05-23T19:05:42",
   "description_ja": "ASIC専用ハードで高速化したAI推論クラウド。OpenAI互換API。",
   "summary_ja": "General ComputeはSambaNovaなどのASICで構築された推論専用クラウド。エージェントや音声AIのレイテンシを5〜7倍改善し、OpenAI互換APIで既存ワークフローに即差し替え可能と謳う。",
+  "tldr_ja": "ASIC推論クラウドはCAPEX重く個人複製不可、Groq等競合密集と日本のAPPI/電気通信事業法摩擦で本体参入は障壁が大きく、リセラー型の隣接機会も時間窓6〜12ヶ月と限定的。",
   "review_guide_ja": {
     "what": "GPUではなくASIC（SambaNova等）を中核に据えた推論専用クラウド。GPT OSS 120BなどのフロンティアOSSモデルを1秒あたり1,000トークン級で提供し、OpenAI互換APIでbase URLを差し替えるだけで利用可能。エージェント自身がAPIキーを取得・登録できる「Agent-first（OpenClaw）」が特徴で、コーディングエージェント・音声AIのTTFT短縮と長時間ワークフローでのレイテンシ累積問題を解決すると主張。電力効率（17kW/ラック対GPU 120kW）と低単価電力を組み合わせ、推論単価の競争力もアピールしている。Product Hunt launch時は$200の無償クレジットを提供し、開発者向けの導入障壁を下げる戦略。",
     "for_who": "ASICによる推論高速化を求めるAIエージェント開発者、音声AIプロダクト運営者、コーディングエージェント（OpenCode/OpenClaw等）ユーザー。長コンテキスト×多段ツール呼び出しのワークロードでGPU基盤のレイテンシ天井に当たっている海外スタートアップが主要層。",
