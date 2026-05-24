@@ -31,7 +31,9 @@ def load_posts(week: str) -> list[dict]:
     path = _posts_path(week)
     if not path.exists():
         return []
-    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+    # NOTE: splitlines() を使うと PH の description に含まれる U+2028 (LINE SEPARATOR)
+    # 等で行が誤分割されるため、明示的に \n で split する。
+    return [json.loads(line) for line in path.read_text(encoding="utf-8").split("\n") if line.strip()]
 
 
 def save_posts(week: str, posts: list[dict]) -> None:
