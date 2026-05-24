@@ -1,0 +1,232 @@
+{
+  "name": "Codex Pets",
+  "description": "Animated companions for your Codex workflow",
+  "ph_url": "https://www.producthunt.com/products/openai/launches/codex-pets-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/2HWSN7JO4UFU7I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-04T07:01:00Z",
+  "upvotes": 283,
+  "comments": 4,
+  "topics": [
+    "Pets",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi everyone!<br><br>If Codex already has a <a href=\"https://openai.com/index/where-the-goblins-came-from/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">strange affinity for goblins</a>, why not <em>/hatch</em> a <em>/pet</em> by yourself?<br><br>Or browse for some random inspiration <a href=\"https://petdex.crafter.run/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">here</a>.</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>finally I can LARP as a CEO with a team of small loyal creatures. 10/10 will exploit my pets for shareholder value.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Hey this is really good similar to the Claude Code buddy. Do we have similar Rare, Uncommon, Common, Legendary status for these pet companions ?",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Codex Pets are optional animated companions for Codex. They live in a floating overlay, show active thread status, reflect whether Codex is running, waiting, or ready for review, and can be customized through the hatch-pet skill.",
+  "featured_at": "2026-05-04T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/17065cb8-7468-46e1-aec4-27c924cefa74.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8efc2bbe-1fc2-4713-ab59-26c080814061.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a251bfa8-f6c6-4318-ab4b-b836ba3baa77.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/52074f3e-da2e-464e-94f2-1cfeffdea2e0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4a9f5d64-3cf8-4772-97d3-ca35487227df.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8a37a30c-90a6-4840-8f8a-49a734025dd5.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a253969f-1dec-476b-b87a-ce588b8fbb4e.webp"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:43",
+  "landing_meta": "Settings – Codex app | OpenAI Developers — Configure Codex app behavior and preferences",
+  "landing_text": "Settings – Codex app | OpenAI Developers Search the Codex docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation Search docs Suggested responses create reasoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured output Function calling Responses API Using tools Agents SDK Overview Quickstart Agent definitions Models and providers Running agents Sandbox agents Orchestration Guardrails Results and state Integrations and observability Evaluate agent workflows Voice agents Agent Builder Overview Node reference Safety in building agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Compaction Counting tokens Prompt caching Prompting Overview Prompt engineering Citation formatting Migration guide Reasoning Reasoning models Reasoning best practices Evaluation Getting started Working with evals Prompt optimizer External models Best practices Realtime and audio Overview Voice agents Live translation Transcription Realtime transcription Speech to text Speech generation Realtime prompting guide Connection methods WebRTC WebSocket SIP Realtime sessions Managing conversations Voice activity detection Realtime with tools Webhooks and server-side controls Managing costs Model optimization Optimization cycle Fine-tuning Supervised fine-tuning Vision fine-tuning Direct preference optimization Reinforcement fine-tuning RFT use cases Best practices Graders Specialized models Image generation Video generatio",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:43",
+  "description_ja": "Codex のワークフローに寄り添う、フローティング表示の任意装着型アニメーション・コンパニオン機能。",
+  "summary_ja": "OpenAI Codex アプリの公式オプション機能。フローティングオーバーレイ上にピクセルアートのペットが常駐し、Codex のスレッド状態（実行中・待機中・レビュー待ち）を視覚的に表現する。8 種類の標準ペットに加え、hatch-pet スキルでカスタムペットを生成可能。petdex などコミュニティギャラリーも形成され、Claude Code Buddy と双璧の開発者向けマスコット文化を作りつつある。",
+  "tldr_ja": "Codex の状態を可愛いピクセルペットがオーバーレイで知らせる OpenAI 公式オプション機能。OSS かつ無料、課金構造なし。",
+  "review_guide_ja": {
+    "what": "OpenAI Codex デスクトップアプリの設定で有効化できる、フローティング型アニメーションペット機能。Codex の実行/待機/レビュー待ち状態をマスコットの動作で表現し、開発体験を遊び心ある方向に拡張する。/pet トグル、/hatch でカスタム生成、Cmd+K で表示切替。hatch-pet スキルや petdex ギャラリーを介して 200 種以上のカスタムペットが流通する。",
+    "for_who": "Codex / Claude Code / Cursor を日常的に使う個人開発者・趣味プログラマ。エージェント実行中の待ち時間を可視化したい層、デスクトップ装飾やゲーミフィケーションを好む層。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "Electron + スプライト管理 + プロセス状態フックで実装可能。ただし Codex/Claude Code への接続部分はベンダー API/プロトコル理解が必要。"
+    },
+    "signals": [
+      "Product Hunt で 283 upvotes と開発者コミュニティで好反応",
+      "Claude Code Buddy と同系統の流れ、petdex に 1155+ のカスタムペットが集まる",
+      "OpenAI 自身が公式機能として標準搭載するほど需要を認識",
+      "MIT ライセンスの codex-pets OSS が並行して登場、エコシステムが拡張中"
+    ],
+    "concerns": [
+      "OpenAI 純正機能と完全 OSS 代替が既に無料で存在し、後発の独立 SaaS 化は困難",
+      "本体が無料・OSS なため直接課金は難しく、装飾/ガチャ要素しか収益源がない",
+      "プラットフォームベンダー（OpenAI/Anthropic）が機能を拡張するとサードパーティは即座に陳腐化",
+      "日本市場特有の差別化ポイントが薄く、グローバル OSS 化が前提になりやすい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "Codex/Claude Code の日本人ユーザーは増加中（Codex 週間 300 万人規模）で、ガジェット好き層は一定数いる。ただし本機能自体は『あれば嬉しい』レベルで強い需要シグナルではない。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "OpenAI 純正の Codex Pets と Claude Code Buddy、MIT の codex-pets OSS、petdex ギャラリーがすでに無料で存在。日本ローカルでも Desktop Mate 等のデスクトップマスコット文化が成立済みで参入余地が極小。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "装飾的オーバーレイのため規制リスクはほぼ無し。第三者キャラを使う場合の著作権、生成 AI 画像の権利処理に注意する程度。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "ピクセルアート文化・キャラ文化との親和性は高いが、UI/プロンプトは英語前提。日本の二次創作/和風ペット展開で差別化余地は一応ある。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本の個人開発者文化と整合するが、B2B 観点では生産性ツールへの遊び要素は導入承認が下りにくい。法人有料化は厳しい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Codex Pets (OpenAI 公式)",
+        "url": "https://developers.openai.com/codex/app/settings",
+        "note": "本プロダクト自体。OpenAI 純正・無料で日本からも利用可。"
+      },
+      {
+        "name": "Claude Code Buddy",
+        "url": "https://github.com/anthropics/claude-code",
+        "note": "Anthropic 公式の同系統機能。18 種 5 レアリティで先行、Pro 加入者向け。"
+      },
+      {
+        "name": "codex-pets (OSS)",
+        "url": "https://github.com/codex-pets/codex-pets",
+        "note": "MIT ライセンス、200+ ペット、Codex/Claude Code/Cursor 横断対応。完全無料の代替。"
+      },
+      {
+        "name": "petdex",
+        "url": "https://petdex.crafter.run/",
+        "note": "1155+ カスタムペットが集まるコミュニティギャラリー。素材供給側を独占しており差別化が困難。"
+      },
+      {
+        "name": "Desktop Mate (infiniteloop)",
+        "url": "https://www.infiniteloop.co.jp/desktopmate/",
+        "note": "国内発デスクトップマスコット PF。リリース 2 週で 100 万 DL、DLC キャラ販売モデルが既に確立。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法 / 二次創作ガイドライン",
+        "impact": "既存キャラを模したペット配布は権利侵害リスク。ユーザー生成ペットの流通プラットフォームにすると DMCA/権利者対応コストが発生する。"
+      },
+      {
+        "law": "景品表示法・資金決済法 (ガチャ要素を入れる場合)",
+        "impact": "レアリティ × 有料ガチャでマネタイズする場合、確率表示や前払式支払手段の登録など追加対応が必要になる可能性がある。"
+      }
+    ],
+    "opportunity": "和風ペット（妖怪・地域キャラ・干支等）に特化したスプライト/スキンパックを petdex に投稿し、知名度獲得→自身の有料スキルやアセットを訴求する『コンテンツ起点リード獲得』に留めるのが現実的。SaaS 本体の機会は乏しい。",
+    "rationale": "本機能は OpenAI が公式提供し OSS 代替も無料という、典型的な『プラットフォーマーがコモディティ化した領域』。日本側でも Desktop Mate という強力な既存 PF が DLC 課金モデルを確立しており、新規参入者がポジションを取る余地はほぼない。需要自体は『あれば楽しい』程度で支払い意欲は低く、規制は緩いが収益化の論理が成立しない。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 2,
+        "reason": "本体が無料・OSS・MIT。スキン/ガチャ/アセット販売しか収益源がなく、ARPU は数百円/月が天井。装飾系は離脱率が高く LTV も低い。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "Codex 週間 300 万、Claude Code 含めても国内開発者層は数十万人規模。そのうちペットを有料化する層は更にごく一部で、到達可能市場が小さい。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "Product Hunt や X（旧 Twitter）のスクショ拡散で個人開発者には届きやすいが、CAC を回収できる単価が無いため広告投資ができない。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "AI コーディングエージェントの普及波と一致するが、OpenAI/Anthropic が公式機能で先に押さえてしまい後発の参入タイミングを逸している。"
+      },
+      "solo_ops": {
+        "score": 6,
+        "reason": "スプライト管理と Electron アプリ運用は個人で回せるが、複数 AI ベンダーのプロトコル追随とコミュニティ運営は重い。"
+      }
+    },
+    "rationale": "プラットフォーマー（OpenAI・Anthropic）が公式に機能として組み込み、加えて MIT の OSS 代替が無料で存在するため、独立した SaaS としての成立は構造的に困難。日本市場には Desktop Mate という DLC モデルの先行成功例があるが、こちらは Codex/Claude Code 連携ではなくキャラクター IP 軸であり、本プロダクトの軸とも異なる。マネタイズ手段が装飾課金しかなく、ARPU と LTV の双方が低位に張り付くため、個人開発者が事業として継続するインセンティブが薄い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "本体は OSS / 無料配布が前提",
+        "プレミアム和風スキンパック単発販売 (¥500〜¥1,500) で限定的に補助収益",
+        "受託：企業マスコットを Codex Pet 化する B2B 制作 (¥100,000〜/案件)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本国内で Codex / Claude Code / Cursor を日常利用し、デスクトップ装飾やゲーミフィケーションに反応する個人開発者・インディーエンジニア",
+      "target_count": 50000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "petdex への高品質な和風/妖怪ペット投稿で被リンクと露出を獲得",
+      "Zenn / Qiita / X で『Codex Pets を業務効率化にどう使うか』系の解説記事を発信",
+      "企業向けに自社マスコットを Codex Pet 化する受託メニューを LP 化",
+      "Pixel Art Park など国内ピクセルアートイベントで認知獲得"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "OpenAI/Anthropic の公式機能拡張で独自実装が一夜にして陳腐化する",
+      "OSS 無料代替 (codex-pets) が既に高機能で、有料版に乗り換える動機が作れない",
+      "装飾系で ARPU が極小、CAC を回収できず広告投資が機能しない",
+      "二次創作キャラを扱う場合の著作権リスクと運営コスト",
+      "AI ベンダー側のプロトコル変更追随コストが個人開発に重い"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z",
+  "japan_fit_skill_version": "research-japan-fit/1.0"
+}

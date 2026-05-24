@@ -1,0 +1,253 @@
+{
+  "name": "Wonder",
+  "description": "The AI design agent that works on your canvas",
+  "ph_url": "https://www.producthunt.com/products/wonder-public-alpha/launches/wonder-2000?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/KMBHRB52QH7BFG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-30T07:01:00Z",
+  "upvotes": 280,
+  "comments": 25,
+  "topics": [
+    "Design Tools",
+    "Developer Tools",
+    "Design"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋\n\nI'm Aibek, co-founder and CEO of Wonder. Today is a big day for our team.\n\n🛠️ A bit of backstory\nBefore Wonder, my co-founder Boris and I built Superflex, a Figma-to-code tool that helped thousands of designers and developers turn mockups into working code. We learned something important along the way: the handoff itself was the problem. Designers were building in one tool, developers were rebuilding the same thing in another, and a huge amount of craft and intent got lost in translation.\nSo we asked a simple question. What if design and code lived on the same canvas from the start? \n\nThat question became Wonder.\n\n🎨 What Wonder is\nWonder is an AI design agent that works directly on your canvas. You describe what you want, the agent designs it, and you can grab any element to refine, restyle, or rework in real time. Nothing is a static image. Everything you see is real, editable, and ready to ship.\n\n✨ What you can make\n- Websites and landing pages\n- Mobile screens and app UI\n- Marketing graphics and social posts\n- Pitch deck covers and presentation slides\n- UI components you can drop into your product\n- AI generated images directly on the canvas\n\n🔌 Connect to your coding agents\nWonder ships with an MCP server, so you can plug it into Cursor, Claude Code, Claude Desktop, Codex, Antigravity, and Lovable. Design in Wonder, then have your favorite coding agent pull the work straight into your codebase. No more screenshots, no more rebuilding from scratch.\n\n💜 Where we are\nWe are in public alpha and growing carefully. Wonder is free to try with credits included, and Pro unlocks more generations plus code export.\nHuge thanks to our early users and to the team in Serbia who has been shipping nonstop to make this real.\n\nWould love your feedback, your wishlist, and your honest reactions. Drop a comment, try it out, and tell us what you want to see next.\n\nAibek 🪄",
+      "votesCount": 13,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey PH fam 👋</p><p></p><p>Thrilled to hunt Wonder on Product Hunt today. This one hits close to home.</p><p></p><p>I've watched the design-to-code handoff break teams for years. Designers craft something beautiful in Figma. Developers rebuild it from scratch. And somewhere in between, the original intent gets lost.</p><p></p><p>Aibek and Boris lived that pain firsthand building Superflex. Then they asked the right question:</p><p></p><p>What if design and code never had to be separate in the first place?</p><p><strong>That's Wonder.</strong></p><p></p><p>It's an AI design agent that lives directly on the canvas. Not a generator you prompt and wait on. An actual agent you collaborate with in real time.</p><p></p><p>→ Describe what you want. It designs it. </p><p>→ Click any element. Refine it on the spot. </p><p>→ Nothing is a static image. Everything is editable and ready to ship.</p><p></p><p>You can build websites, app UI, marketing graphics, pitch decks, and UI components — all from one canvas.</p><p></p><p><strong>And here's the part that made me stop:</strong></p><p></p><p>Wonder ships with an MCP server. Connect it to Cursor, Claude Code, or Codex and your coding agent pulls the design straight into your codebase. No screenshots. No rebuilding. No lost craft.</p><p>The gap between \"I designed it\" and \"it's in production\" just got a lot smaller.</p><p></p><p>Still early — public alpha, free to try with credits included. But the vision is clear and the team in Serbia has been shipping nonstop to get here.</p><p></p><p>Big congrats to Aibek, Boris, and the whole Wonder team 🙌</p><p></p><p>Drop your questions and feedback below 👇</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Aibek! Love the idea. How is the business model? Is it like a subscription? Wondering if brands or founders that need one shot designs gonna take it if so. Anyway it looks awesome and I wish you all the best here!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Wonder puts an AI design agent directly on the canvas. Generate UI, graphics, and pitch decks, then select any element to refine in real time. Connect MCP to coding agents like Cursor and Claude Code to ship straight from design. Now in public alpha.",
+  "featured_at": "2026-04-30T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/c92d5a16-7188-4ae6-8934-57ffea5cda94.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8b99c683-1b62-41ec-8d98-2578cc7bb0e6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/666fea29-470b-455c-a54e-9c58629d7800.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/37f6d26d-8304-4716-8cdf-a42a7700bbe9.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/fabca791-116c-454f-b283-55b39ead28fd.octet-stream"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:44",
+  "landing_meta": "Wonder — What you see is what you ship — Meet Wonder, the design tool where you can generate designs, make precise edits and work with your code context on the same canvas.",
+  "landing_text": "Wonder — What you see is what you ship Public Alpha 0 × 0 What you see is what you ship Meet Wonder, the design tool where you can generate designs, make precise edits and work with your code context on the same canvas. Start for free app.wonder.design Art App Describe what you'd like to design... Claude Opus 4.6 Proudly supported by Features Design and move to production faster Wonder is the design tool where you can design with AI, chat with it, edit alongside it, and everything you create becomes the exact code you ship. app.wonder.design Art App Describe what you'd like to design... Claude Opus 4.6 Design with an agent. Start new flows, create new design projects and reduce the time from idea to canvas and 0-1. Built on code, ready for production. Every design is real code. Copy React + Tailwind and ship — no handoff needed. Every design informs the next. Build on previous designs to explore iterations and surface new options without losing flow state. Connect Wonder to your coding agent Code and Canvas, Finally connected. Wonder's design format maps 1:1 to code. Start from what's already built, iterate freely, and ship straight back to production. Finally, designers own the full loop. app.wonder.design Explore Wonder MCP Wonder Toolkit Familiar tools, powerful results Generate, iterate, and ship in one place with tools that feel familiar and work together. Ideate on canvas Change styles, create variants, make flows, and use your designs as context. Generate layout Variate styles Swap image Adjust spacing Edit copy Change theme Create variants Generate Images No more placeholder assets. Just describe what you need, and generate it right on the canvas. Generating… Generating… Bring designs to life with shaders With shaders, you can 10x the quality of your designs and create stunning, interactive visuals. Push to code Ready to ship. Export or send to your agent. 1 import Image from \"next/image\" ; 2 import Link from \"next/link\" ; 3 4 export function LandingPage () ",
+  "pricing_signals": [
+    "pricing",
+    "$0",
+    "$16/mo",
+    "$20",
+    "$60",
+    "$200",
+    "$1",
+    "$21",
+    "$22",
+    "$23",
+    "$34",
+    "$3"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:45",
+  "description_ja": "キャンバス上で動くAIデザインエージェント。UI生成からコード出力まで一気通貫",
+  "summary_ja": "Wonderはキャンバス上で対話的にUI・LP・資料を生成・編集できるAIデザインツール。出力はReact+Tailwindの実コードで、MCP経由でCursorやClaude Codeと直接連携し、デザインから本番実装までの分断を解消する。",
+  "tldr_ja": "AIエージェントがキャンバス上でUI生成・編集し、MCPでコーディングAIへ直結。デザインと実装の手戻りを削減",
+  "review_guide_ja": {
+    "what": "Wonderは「キャンバス上で動くAIデザインエージェント」を標榜するデザインツール。自然言語で指示を出すとAIがUI・LP・モバイル画面・マーケ素材・ピッチデッキ・UIコンポーネントを生成し、生成された要素は静的画像ではなく1:1でコードにマップされた実体としてキャンバス上に配置される。任意の要素を選んでスタイル変更、バリアント生成、テキスト編集、コピー作成、画像生成、シェーダ適用などを対話的に行える。出力はReact+Tailwindとして即コピー可能で、加えてMCPサーバを同梱しCursor・Claude Code・Claude Desktop・Codex・Antigravity・Lovableなどのコーディングエージェントから直接デザインデータを取り込める点が差別化要素。創業者はFigma-to-codeツールSuperflexの開発経験者で、デザイン→実装のハンドオフロスを根本解決することを狙う。現在パブリックアルファでフリークレジット付き、Proで生成量とコード出力が解放される。",
+    "for_who": "個人開発者・小規模スタートアップ・デザインも担う1人エンジニアが主要層。Cursor/Claude Codeを既に使う層と相性が良く、Figmaを開かずにLPやプロトを爆速で立ち上げたいインディーハッカーや、AI駆動開発でデザインボトルネックを抱えるエンジニアに刺さる。専業デザイナーには限定的。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "AIエージェント+1:1コードマッピング+MCPサーバの統合は基盤モデル運用と専用エディタが必要で個人実装の難易度が高い。Pencilがオープンソースで類似機能を出しており参入余地は限定的"
+    },
+    "signals": [
+      "創業チームはFigma-to-codeツールSuperflexの実績ありPMF嗅覚が強い",
+      "MCPでCursor/Claude Code/Codex/Lovableなど主要AIコーディング環境を網羅",
+      "デザイン-実装ハンドオフの分断は世界共通の根強い課題",
+      "FigmaやAnimaなど大手も2026年にAIエージェント路線へ追随しテーマは追い風",
+      "出力がReact+Tailwindの実コードで「ship-ready」を強く打ち出す"
+    ],
+    "concerns": [
+      "FigmaのAI Design Agent・v0・Lovable・Bolt・Pencilと真正面で競合し差別化が薄れる",
+      "パブリックアルファで価格や生成精度が未確定でロックインリスク",
+      "MCP連携は便利だがCursor/Claude Code利用が前提で非開発者の取り込みが弱い",
+      "AI生成コードの品質・保守性・デザインシステム整合性は実運用評価待ち",
+      "日本語UI・日本語フォント・日本語タイポグラフィへの最適化が不明"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本ではCursor/Claude Codeの開発者利用が2026年に急拡大し、Figma MCP×Cursor連携やPencilを巡る記事が連日Zenn・note・企業ブログを賑わせる。デザイン→コード自動化は国内エンジニア・個人開発者の強い関心領域で、需要シグナルは明確"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "v0・Lovable・Bolt・Figma Design Agent・Animaに加え日本で先行支持を獲得中のPencil（無料・OSS・Claude Code連携）と真正面で競合。Wonderの差別化はキャンバス操作性と生成品質に限られ国内既存ユーザの乗り換え障壁は高い"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "B2BデザインSaaSで個情法・特商法以外の重い業法規制はかからない。AI生成コンテンツの著作権は議論中だがツール提供側のリスクは限定的。決済・医療・金融などの規制業種ではない"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "公式サイト・アプリは英語UIのみと推定。日本語フォント描画、縦書き、和文タイポグラフィ最適化、日本語プロンプト精度は未確認。Figmaが2022年に日本語化した経緯から、日本語UI対応は普及の重要因子"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "個人開発者・スタートアップ層はクレカ決済の海外SaaSに慣れており商習慣摩擦は小さい。一方で日本企業の受発注はFigma前提の制作フローが定着し、デザイン会社経由のB2B販売には請求書・印鑑など独自慣行が残る"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Figma (Figma Design Agent)",
+        "url": "https://www.figma.com/",
+        "note": "日本語化済み・国内デザイナー事実上のデファクト。2026年5月にネイティブAIエージェントを発表し正面競合化"
+      },
+      {
+        "name": "Pencil",
+        "url": "https://pencil.dev/",
+        "note": "AIネイティブ・OSS・Claude Code MCP連携。日本のエンジニア層で2026年初頭から強い注目を集める最大の競合"
+      },
+      {
+        "name": "v0 by Vercel",
+        "url": "https://v0.dev/",
+        "note": "shadcn/uiベースで国内Next.js開発者に高い支持。2026年にデザインモードとFigma importを強化"
+      },
+      {
+        "name": "Lovable",
+        "url": "https://lovable.dev/",
+        "note": "非エンジニア向けフルスタック生成で日本でもAIPICKSやmasatoman等が積極紹介"
+      },
+      {
+        "name": "Bolt.new",
+        "url": "https://bolt.new/",
+        "note": "プロトタイプ高速化用途で日本の個人開発者に浸透"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "クラウド設計データ保管に伴い利用者情報の越境移転告知・同意が必要。法人導入時は委託先管理の整備が論点になる"
+      },
+      {
+        "law": "著作権法（AI生成物）",
+        "impact": "生成画像・コードの権利帰属と学習データ問題は文化庁の議論継続中。商用利用時の表明保証条項が顧客から要求される可能性"
+      }
+    ],
+    "opportunity": "日本ではAI駆動開発（vibe coding）が2026年に主流化し、Cursor/Claude Codeを使う個人開発者・受託エンジニアが急増している。Figma MCPやPencilの記事数から「デザイン→コード」自動化は国内で最もホットなテーマの一つで、WonderはMCPファースト設計を武器に「Figmaを開かずにエージェントだけで完結」する層を取りに行ける。特にデザイナー不在で1人運営する個人開発SaaSや受託制作のエンジニアにLPテンプレ生成→そのままコード出力という導線がフィットしやすい。日本語UI対応とJP価格設定があれば、Pencil無料勢に対するプレミアム層の選好を取れる余地はある。",
+    "rationale": "需要面では2026年のAI駆動開発トレンドが追い風で7点。MCPでのCursor/Claude Code直結はZennや企業ブログで頻出する関心テーマと一致する。一方競合面はFigma本体のAIエージェント、v0、Lovable、Bolt、そして日本のエンジニアコミュニティで先行支持を獲得しているPencilとフル競合で4点。規制面はB2B SaaSとしてほぼフリーで9点。ローカライゼーションは日本語UI・和文タイポ・縦書き対応の確証が取れず5点で減点。商習慣はインディー層は海外SaaSに慣れているが、本格的な日本法人B2B販売には請求書・代理店経由が必須で6点。加重平均は6.45で四捨五入し6点、verdictはwatch。先行者Pencilと真っ向勝負になるため、日本市場では「観察し模倣しつつ独自レイヤーで参入」が現実的判断となる。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "サブスク+クレジット課金の標準形でPro$20/mo・チーム$60/mo・エンタープライズ$200/moの段階的価格は実証済みパターン。ただしv0・Lovableも同価格帯で価格競争激化、Pencilは現状無料でディスカウント圧力が強い"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本のUI/UXデザイナーは約5200人と狭いが、Cursor/Claude Codeを使う個人開発者・エンジニアを含めると数万〜十数万人規模に拡張可能。グローバルではFigma1300万MAU級の巨大市場だが、個人開発者目線では取れる絶対数は限定的"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "個人開発者がコピー可能なGTMはPH/X/Zenn/note発信中心となるが、Figma・v0・Pencilと同質コンテンツで埋もれやすい。MCP連携のデモ動画SNS拡散は強力だが、Wonder独自の参入余地は狭い"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "MCP規格普及とAI駆動開発本格化が重なる絶好のタイミング。一方Figma本体がAIエージェントを発表した直後で、独立系ツールの差別化窓は急速に閉じつつある"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "AI生成基盤・MCPサーバ運用・コードエクスポート品質保証・モデル課金管理を個人で再現するのは極めて困難。Wonder本体を真似て個人開発するのは現実的でなく、本プロダクトのフォロワーになる場合も基盤コストが重い"
+      }
+    },
+    "rationale": "本評価は「日本の個人開発者がWonderを模倣or並走して事業化できるか」の観点。マネタイズは6点で、サブスク+クレジット課金パターンが既に確立し再現容易だが価格競争は厳しい。マーケットサイズは6点で、AI駆動開発層の拡張余地はあるが個人開発者が取れる絶対数は限定的。GTMは4点で、Figma本体・v0・Lovable・Pencil・Boltと同テーマで発信が埋没しやすく、独自切り口（例：日本語特化、和文タイポ、特定業界テンプレ）が無いと刺さらない。タイミングは7点で、MCPとAI駆動開発の交差点というスイートスポット。SoloOpsは3点で、AI推論基盤と1:1コードマッピングエンジンを個人で構築するのは現実的に不可能で、フォロワー戦略は基盤コストとモデル課金赤字リスクが致命的。加重平均は5.0で5点、本体は強いが個人開発者が同領域で勝つには相当狭いニッチに絞る必要がある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2500,
+      "plans": [
+        "Free: 月50生成クレジット・コードエクスポート無し・公開プロジェクト限定。AI駆動開発を試したい個人エンジニアの入口とし、ZennやXで体験記が回るよう設計",
+        "Pro 2,980円/月: 月1000生成・コードエクスポート・MCP連携・プライベートプロジェクト。Cursor/Claude Codeユーザの主力プランで個人開発者・副業エンジニア向けARPUを担保",
+        "Team 8,800円/席/月: 共同編集・デザインシステム共有・SSO・請求書払い対応。スタートアップ3〜10名チーム向けで、日本企業の商習慣に合わせ請求書・銀行振込を必須化",
+        "Enterprise 月額個別見積: SAML SSO・データ保管リージョン指定・優先サポート・専用モデル。法人導入時の越境移転懸念やセキュリティ要件に対応"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Cursor/Claude Codeを日常利用する日本の個人開発者・副業エンジニア・小規模スタートアップのフルスタックエンジニア。専業デザイナー不在でLPやアプリUIを自力で立ち上げる層を中核に、AI駆動開発コミュニティ（Zenn・note・X）でのリーチを前提とする",
+      "target_count": 80000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 3000000
+    },
+    "recommended_gtm": [
+      "ZennとnoteでMCP×Cursor×Wonder実践記事を月2本ペースで発信し、Figma MCP記事の検索流入を奪う",
+      "X（旧Twitter）で日本の個人開発者インフルエンサーに無償Proアカウント提供しデモ動画を量産",
+      "PencilやFigma Design Agentとの比較記事をオウンドで自前作成し、検討初期SEOを押さえる",
+      "AI駆動開発系のオンラインイベント（vibe coding meetup等）でハンズオンスポンサー",
+      "国内の制作会社・受託開発企業向けにTeamプラン無償トライアルを提供し請求書払い・代理店経由販売ルートを構築",
+      "日本語UI・和文フォント・縦書きプリセットを早期投入し『日本語でも崩れない唯一のAIデザインツール』ポジションを確保"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Figma本体のAI Design AgentがFigma既存契約に同梱され、独立系ツールの単独契約理由が消滅するリスクが最大級。Figma日本語UIと既存ワークフローへの慣性は強力で乗り換えコストの壁が高い",
+      "Pencilが無料・OSSで日本のエンジニア層に先行浸透中。Wonderが有料前提で参入しても価格差を埋める明確な機能優位がないと選好が傾かない可能性が高い",
+      "AI推論コストと生成クレジットの単価逆転リスク。Claude Opus 4.6など高性能モデル前提だと粗利が薄く、円安局面では国内価格設定が難しい",
+      "日本語UI・和文タイポ・縦書き未対応のままだと制作会社・出版・広告系の本命用途を逃す。ローカライズ投資の意思決定タイミングが遅れると窓が閉じる",
+      "個人開発者が同領域で参入する場合、基盤モデル課金・MCPサーバ運用・1:1コードマッピング保証のいずれも単独実装は事実上不可能で、フォロワー戦略の継続性が破綻する"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

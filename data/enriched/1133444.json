@@ -1,0 +1,274 @@
+{
+  "name": "Tabstack",
+  "description": "Extract web data and automate browsers, no scraper required.",
+  "ph_url": "https://www.producthunt.com/products/tabstack/launches/tabstack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/QH3WOZ3COBXHWN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-30T07:01:00Z",
+  "upvotes": 152,
+  "comments": 29,
+  "topics": [
+    "API",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Builders! 👋 I'm Tessa, founding [technical] GTM at Tabstack.<br></p><p>Tabstack is a web data and automation API with intelligence built into every call. You don't get raw content back to parse, clean, or run through another LLM. You get the output your product or agent needs, already done.<br></p><p>Five endpoints:</p><ul><li><p><strong>/extract/json</strong> — pass a URL and a schema, get back JSON that matches it</p></li><li><p><strong>/extract/markdown</strong> — clean markdown from any URL</p></li><li><p><strong>/generate/json</strong> — custom instructions, structured output back</p></li><li><p><strong>/research</strong> — multi-source research with citations, one call, no orchestration</p></li><li><p><strong>/automate</strong> — managed browser agent for JS-heavy pages, forms, multi-step flows</p></li></ul><p>No scraper to maintain. No pipeline to build. No Monday morning incident because a site changed its data structure.</p><p></p><p>I joined this team because Mozilla has always believed the web should stay open and your data should stay yours. Ephemeral data, zero model training, robots.txt compliant. That's not a feature—it's the foundation.</p><p></p><p>Add it to Claude, Cursor, or Claude Code via MCP in 30 seconds. <a href=\"https://docs.tabstack.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Check out the docs →</a></p><p><br>What use case are you reaching for first? I vastly improved a messy data parsing pipeline the first time I tried it.</p><p><br>A few other things I've built since joining Tabstack just 4 weeks ago:</p><ul><li><p><a href=\"https://rivaldemo.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Rival</strong></a> — open source competitive intelligence tool powered by Tabstack. Tracks competitors daily, detects changes across their site, pricing, docs, jobs and social, and surfaces live intel via MCP whenever you need it for strategy. Uses all five Tabstack endpoints.</p></li><li><p><strong>LocalPlate</strong> — open source self-hosted meal planner. Imports recipes from any URL using Tabstack's extraction and automation endpoints.</p></li><li><p><strong>Scout</strong> — prospect intelligence, signal feed and CRM. Uses Tabstack to enrich prospects with structured profile data, synthesize ICP fit scores and outreach briefs, and run deep-dive research — all automated.</p></li></ul>",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>We're using Tabstack internally with some of our products b/c it out-performs many of the others we have tried against sites that have traditionally been harder to extract structured data from. </p><p></p><p>Congrats on the launch!</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Interesting, does it handle different site format?</p><p></p><p>Also dynamic sites?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Tabstack is a web data and automation API that delivers reliable structured output. Pass a URL and a schema, get back JSON that matches every time. Run research in one call and get cited answers back. Automate browsers without running infrastructure. The intelligence is built into every API call. No scraper to build, maintain, or watch break when a site changes. Built at Mozilla.",
+  "featured_at": "2026-04-30T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a1e8c483-7b8f-44d3-8a73-32c0a5be8a0a.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/135b2ba8-b41d-4054-9b6b-baa4a7477137.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ff7381cd-85e6-412b-8eef-47e71e1fd2d1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/88f5aa31-2c82-44b8-bc6a-995e39871154.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0db57642-796b-45d1-bc26-c81a50d0ca4f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/32e158aa-6874-48b0-ac72-1955ff515e00.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/73a39024-c176-4876-9726-c87030f23054.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:36:03",
+  "landing_meta": "Tabstack - Web Browsing for AI — Automate web browsing for AI systems with Tabstack's API. Click, scroll, search & submit forms. Mozilla-backed privacy. Free starter plan available.",
+  "landing_text": "Tabstack - Web Browsing for AI Web Browsing for AI Systems Get Started Tabstack enables AI systems to browse, search, and interact with the web autonomously. View Documentation Privacy you can trust, backed by Built for real-world AI systems. View Docs The Web Execution Layer for AI Web Tasks, Handled Tasks Get Answers Ask Turn the Web Into Data Data Transform Anything Create Give Tabstack a task and it handles the rest. It can click, scroll, search, and submit just like a human, navigating complex flows with real-time feedback and adaptive behavior. Getting Started Guide Output Example Try It python from tabstack import Tabstack tabs = Tabstack(api_key=os.getenv('TABSTACK_API_KEY')) result = await tabs.agent.automate( url=\"https://news.ycombinator.com\", task=\"Go through 5 pages of the top posts. For each post, determine the website it is from and group all the posts by website. Return the list of the 10 websites with the most posts.\", ) Execute Simulated API request from real data Tabstack API Everything You Need in One Place 4 Simple Endpoints /Extract Post Instantly convert any URL into markdown, JSON, or a custom schema tailored to your needs. 10¹ credits / action Try It /Generate Post Automatically turn web data into tailored messages, documents, or other customized outputs. 100 credits / action Try It /Automate Post Run powerful browser-like automations to interact with the web and complete tasks for you. 100 credits / action Try It /Research Post Deploy autonomous agents to explore the web and answer complex questions with precision. 250² credits / action Try It Get Started Curious about how Tabstack works? View Documentation ¹ Pricing shown is for markdown extraction. JSON extraction is 50 credits / action. ² Pricing shown is for fast mode. Balanced mode is 350 credits / action. For clarity, some events in the Automate and Research output examples have been condensed. Made to ship Production Ready Fast Fast by Design. Reliable Robust, Even When the Web Isn't",
+  "pricing_signals": [
+    "free trial",
+    "pricing",
+    "$0",
+    "$0.35",
+    "$99",
+    "$0.30",
+    "$499",
+    "$0.25",
+    "$1",
+    "$9",
+    "$19",
+    "$20"
+  ],
+  "landing_fetched_at": "2026-05-24T20:36:03",
+  "description_ja": "Mozilla発、AIエージェント向けウェブデータ抽出とブラウザ自動化API。スクレイパー不要。",
+  "summary_ja": "URLとスキーマを渡すだけでJSONやMarkdownを返す抽出API、引用付きリサーチ、ブラウザ自動化までを5エンドポイントで提供。Mozilla運営でプライバシーと倫理性を訴求、MCP対応でClaudeやCursorから30秒で利用可能。",
+  "tldr_ja": "Mozilla製のAIエージェント向けウェブ実行レイヤー。抽出・生成・自動化・リサーチを統合した従量課金API。",
+  "review_guide_ja": {
+    "what": "Tabstackは、AIエージェントや開発者がウェブから構造化データを取得し、ブラウザを自動操作するためのマネージドAPIサービスである。5つのエンドポイント（/extract/markdown、/extract/json、/generate/json、/research、/automate）を統合し、URLとスキーマを渡すだけで定義通りのJSONを返却。引用付きリサーチや、JS重サイト・フォーム入力・マルチステップフローの自動化もマネージドで提供する。MCP対応によりClaude、Cursor、Claude Code等から30秒で接続可能。Mozillaが運営し、データは一時保持のみ・モデル学習に未使用・robots.txt遵守を明示する点が差別化要素。価格はMarkdown抽出$1/1000リクエスト、JSON$5、自動化$7.50相当で、無料枠は月50,000クレジット。スクレイパーの開発・保守、ヘッドレスブラウザの運用、LLMを介した後処理を不要にし、エージェント開発の時間短縮を狙う。",
+    "for_who": "AIエージェントやLLMアプリを開発するスタートアップエンジニア、データ収集パイプラインの保守に疲弊した個人開発者、競合インテリジェンスやリサーチ自動化ツールを内製したいSaaS事業者、Browserbase/Firecrawl/Browser Useなど既存ツールを評価中の技術リード層に適する。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "コア機能はBrightData、Firecrawl、Browserbase等と競合し、抽出精度・JS重サイト対応・ブラウザインフラ運用が参入障壁。Mozillaブランドや倫理性も模倣困難。"
+    },
+    "signals": [
+      "PH 152 upvotes/29 comments、Mozilla New Products起点でHN複数掲載",
+      "MCP対応でClaude/Cursorから即接続可能、エージェント開発者の流入経路を確保",
+      "Parallel等の他社が実装事例として公開、エンタープライズ実利用の存在",
+      "Mozillaブランド＋データ最小化＋robots.txt遵守による倫理性訴求"
+    ],
+    "concerns": [
+      "Firecrawl・Browserbase・Browser Use・BrightDataなど競合密度が極めて高い",
+      "JS重サイトやBot対策強化サイトでの実効性能はベンチマーク次第",
+      "従量課金で高頻度自動化時のコスト膨張リスク",
+      "サイト規約・著作権・個情法対応はユーザー責任で残る"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内AIエージェント市場は2024年$250M→2030年$2.43B（CAGR46.3%）と急成長予測。LLM/エージェント開発者・SaaS事業者の構造化データ抽出ニーズは確実に拡大しており、MCP普及で個人開発者層にも波及している。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "Firecrawl、Browserbase、Browser Use、BrightData、Apifyなど海外勢が国内開発者にも浸透。Octoparse（世界450万ユーザー）など非API型ノーコード勢も存在。Tabstackの差別化はMozillaブランドと統合APIだが国内認知は限定的。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "スクレイピング自体は適法だが、個情法上の利用目的明示、要配慮個人情報の同意要件、サイト利用規約・著作権法（47条の5の解釈）、不正アクセス禁止法の射程など個別判断が必要。岡崎図書館事件など実例もあり提供側の責任ではないがユーザー側摩擦になり得る。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "公式サイト・ドキュメントは英語のみで日本語対応未確認。日本語ウェブサイトの抽出精度や全角文字処理は実検証が必要。請求がUSD建てで国内法人の経費精算・インボイス対応に追加摩擦。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本法人不在で、稟議・与信・SLA契約・日本円請求書を求める国内企業導入には不利。個人開発者・スタートアップは海外APIに慣れているが、エンタープライズ営業の事業機会は減衰する。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Firecrawl",
+        "url": "https://firecrawl.dev",
+        "note": "Qiita/Zenn記事多数、日本語解説豊富で個人開発者層に浸透。MarkdownでLLM学習向きを訴求し競合度高い。"
+      },
+      {
+        "name": "Browserbase",
+        "url": "https://browserbase.com",
+        "note": "ヘッドレスブラウザインフラとして国内開発者の認知拡大中。MCPサーバ経由連携も可能で機能領域がほぼ重複。"
+      },
+      {
+        "name": "Browser Use",
+        "url": "https://browser-use.com",
+        "note": "OSS発エージェント型ブラウザ操作。日本語解説多数で個人開発者に人気、自動化領域で直接競合。"
+      },
+      {
+        "name": "Octoparse",
+        "url": "https://www.octoparse.jp/",
+        "note": "ノーコード抽出ツール国内最大手、日本語UI/サポート完備。ターゲット層は異なるが既存スクレイピング需要を吸収。"
+      },
+      {
+        "name": "Apify",
+        "url": "https://apify.com",
+        "note": "Actor形式のクラウドスクレイピングプラットフォーム。日本語記事もあり中規模事業者まで浸透。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "公開情報でも個人を識別可能であれば個人情報に該当。利用目的の特定・公表、要配慮個人情報の同意取得、第三者提供制限が課される。エージェントによる大量取得時のリスクをユーザーが負う。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "47条の5により情報解析目的の機械的読込は権利制限の余地があるが、出力転載や軽微利用の範囲、享受目的混在時の解釈は争いあり。生成AI用学習データ収集にもグレーゾーン残存。"
+      },
+      {
+        "law": "不正アクセス禁止法",
+        "impact": "ログイン突破や認証回避を伴う/automateの利用が同法に抵触する余地。Tabstack自体は適法用途を前提とするが、利用者の用法次第で刑事リスク。"
+      },
+      {
+        "law": "サイト利用規約・民法",
+        "impact": "サイト規約でスクレイピング禁止明記の場合、契約違反・不法行為責任を負う可能性。岡崎図書館事件のようにアクセス障害を引き起こせば偽計業務妨害の論点も。"
+      }
+    ],
+    "opportunity": "日本特化の差別化機会は3つ。第一に、日本語特化チューニング（住所・氏名・電話番号の構造化、全角半角混在、価格表記揺れの正規化）を提供する公式ラッパーやプリセットスキーマ。第二に、競合インテリジェンス・採用情報収集・EC価格モニタなど国内法務リスクを低減した安全なテンプレ事業を内製しTabstackをバックエンド化する垂直アプリ。第三に、Mozilla発の倫理性・robots.txt遵守を売りに、コンプラ意識の高い大企業の法務通過率を上げるリセラー/SI型のGTM。いずれも個人開発者規模で参入余地あり。",
+    "rationale": "日本市場におけるAIエージェント／構造化抽出需要は急拡大しており、MCP対応で個人開発者導線も成立する。一方で海外競合（Firecrawl、Browserbase、Browser Use、BrightData、Apify）が日本語コンテンツやコミュニティを通じて先行浸透しており、Tabstack単体での認知獲得は容易でない。日本法人不在、ドキュメント英語のみ、USD決済、SLA・契約日本語対応の不足はエンタープライズ販売の重大な摩擦であり、個人開発者・スタートアップ層では受容されても収益単価が伸びにくい。法令面はスクレイピング自体の違法性は薄いが、個情法・著作権法・利用規約解釈などのリスクはユーザー側に残る。日本法人が独自に進出するより、Tabstackを基盤とする日本語UI・国内事業特化ラッパー・SI型導入支援などの周辺機会の方が個人開発者には現実的。総合的にwatch判定。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "従量課金＋無料枠＋$99/$499等の階段プランで実証済みのモデル。日本での再販時はARPU月1万円〜10万円規模も狙えるが、原価がUSD建てなのでマージン圧縮リスク。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内AIエージェント市場は2024-2030でCAGR46%。直接TAMは小さいが、SaaS開発者・社内ツール内製チームの裾野は広い。ただし国内固有ニーズ（日本語精度・国内サイト対応）は限定的に深掘りされていない。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "個人開発者にはPH・X・Zenn/Qiita経由で認知獲得可能。エンタープライズ向けは日本法人不在・SLA未整備で営業困難。リセラーやSI連携が現実解だが時間とリレーションが必要。"
+      },
+      "timing": {
+        "score": 8,
+        "reason": "MCP標準化、エージェントブラウザ自動化の急速な需要拡大、Mozillaブランド露出の重なりで時期は良い。Microsoft 100億ドル投資など国内AIインフラ追い風も明確。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "Tabstack本体は個人運用不可（Mozillaチーム製）。個人開発者が周辺ラッパー/SaaSを作る側であれば、APIコスト管理・国内法務リスク説明・サポート負荷を考えるとソロ運用はやや厳しい。"
+      }
+    },
+    "rationale": "Tabstackそのものは個人開発者が作るプロダクトではないため、個人視点の事業成立性は『Tabstackをバックエンドに使った日本向け垂直SaaS』として評価する。市場成長率（CAGR46%）と時期（MCP普及・エージェント興隆）は強い追い風だが、海外競合密度の高さ、日本法人不在による販売摩擦、API原価のUSD連動、個情法・著作権法ユーザー責任が中規模ハードル。リセラー的に倫理重視のエンタープライズ訴求、または日本特化抽出ラッパー（不動産情報、求人、EC価格、法人情報など）への垂直特化なら成立余地あり。ARPU月額1〜5万円のスタートアップ顧客100社、または月額数千円のソロ開発者数百〜千人規模を3年で取れるかが分水嶺。総合的に business_viability_score=5、慎重に watch すべき位置づけ。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 12000,
+      "plans": [
+        "Free: 月5,000クレジット、検証目的、サポートはコミュニティのみ、商用利用可だが本人責任。日本語ドキュメントとサンプル提供で導入摩擦を下げる。",
+        "Starter 月額3,000円: 月50,000クレジット、メールサポート、個人開発者・PoCチーム向け。日本円請求書・インボイス対応で経費計上の摩擦を解消する。",
+        "Pro 月額15,000円: 月300,000クレジット、Slackサポート、SLA99%目標、JS重サイト/automate枠拡大。法人向けの中心プラン。",
+        "Business 月額75,000円: 1,500,000クレジット、専用Slack、稟議書ひな型・契約書日本語、優先サポート。SaaS事業者向け。",
+        "Enterprise 個別見積: SLA契約、専任サポート、IPホワイトリスト、独自スキーマプリセット、コンプラ確認支援。SI連携前提の大企業向け。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本でAIエージェント・LLMアプリ・社内自動化ツールを内製・販売するスタートアップおよびSaaS事業者の開発チーム。具体的には競合インテリジェンス、採用・求人情報集約、EC価格モニタ、法人情報補完など『ウェブからの構造化データ取得』を恒常的に必要とする企業の開発リード／個人開発者層。",
+      "target_count": 8000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 1440000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiitaに日本語チュートリアル＋日本語サイト抽出ベンチを投下。Firecrawl/Browserbase比較記事でSEO流入を取りに行く。",
+      "MCP経由でClaude Code/Cursor利用者にリーチ。日本語READMEとMCP設定スニペットを公開し、個人開発者の30秒導入を促進。",
+      "競合インテリジェンス・採用情報・EC価格モニタの日本特化テンプレSaaSを内製公開し、Tabstackをバックエンドとした流入経路を作る。",
+      "国内SI/受託開発企業に対しリセラー提案。Mozilla倫理性・robots.txt遵守を法務通過力として訴求し、大企業案件のSI経由販売を狙う。",
+      "X日本コミュニティ・AIエージェント勉強会・生成AI関連カンファレンスでLT登壇し、技術ファネルを獲得。OSSサンプル公開を中心施策に据える。",
+      "日本円請求・インボイス対応の代理販売スキームを商社/MSPと組み、稟議・経費精算の摩擦を排除する有料ティアを設計する。"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Firecrawl、Browserbase、Browser Use、BrightData、Apify等の競合先行が顕著で、日本語コンテンツ・コミュニティを既に握られている。後追いの差別化に相当の発信投資が必要。",
+      "コア機能はMozilla運営のため自社で改善できない。価格改定や仕様変更が直接事業に波及し、レイヤー上位の事業者はベンダーロックインリスクを抱える。",
+      "USD建て原価のため円安が進行するとマージン悪化。日本円定額プランで再販する場合は為替ヘッジまたは価格改定機構が必要。",
+      "個情法・著作権法・サイト利用規約・不正アクセス禁止法の解釈リスクは利用者側に残る。エンタープライズ販売時は法務通過のためにコンプラ説明資料・テンプレ契約・取り扱いガイドが必須。",
+      "MCPプロトコルや上位LLMベンダー（OpenAI/Anthropic/Google）の標準ツール提供で機能が陳腐化する可能性。ブラウザ自動化が標準化されればAPI差分が消失し、価格競争に陥る。"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

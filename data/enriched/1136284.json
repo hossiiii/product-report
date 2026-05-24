@@ -1,0 +1,227 @@
+{
+  "name": "Waydev Agent",
+  "description": "Prove ROI and see if your AI spend is actually paying off",
+  "ph_url": "https://www.producthunt.com/products/waydev/launches/waydev-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/S7QZARXS6E22RE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-05T07:00:00Z",
+  "upvotes": 258,
+  "comments": 23,
+  "topics": [
+    "Pitch NYC"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey PH 👋<br></p><p>Alex here, founder of Waydev. Thanks <a href=\"https://www.producthunt.com/@rajiv_ayyangar\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"rajiv_ayyangar\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rajiv_ayyangar</a> for the hunt — and shoutout to the team at <strong>Deel</strong> for including us in <strong>Pitch by Deel NYC</strong>. Excited to be part of it.<br></p><p>Nine years ago I started Waydev because engineering leaders were flying blind on what their teams actually shipped. Now half the code is written by Cursor, Claude Code, Copilot, and Devin — and the question from CFOs is the same one in different clothes: is the seven-figure AI bill actually paying off?</p><p></p><p>Most teams don't know. They're guessing.</p><p></p><p>Waydev is the measurement layer for AI-written code. We track three things across the full SDLC:</p><ul><li><p><strong>AI Adoption</strong> — who's using which tool, how often, how deeply</p></li><li><p><strong>AI Impact</strong> — does the AI-written code ship, get reverted, or rot in PR</p></li><li><p><strong>AI ROI</strong> — dollars in vs. throughput out, across humans, copilots, and autonomous agents</p></li></ul><p>Today we're shipping three things that change how engineering leaders interact with their data:</p><ul><li><p>🤖 <strong>Ask Waydev</strong> — our agent. Ask in plain English, get a real answer. No more dashboards no one opens.</p></li><li><p>📄 <strong>Skills</strong> — configure Ask Waydev with <a href=\"http://SKILL.md\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SKILL.md</a> files. </p></li><li><p>🔌 <strong>Waydev MCP</strong> — your engineering feed, exposed to any external agent. Plug it into Claude, Cursor, your internal tools — whatever's already in your stack.</p></li></ul><p>The framing we keep coming back to: <strong>MCP is the data out. Skills are the instructions in. Ask Waydev is the conversation in the middle.</strong></p><p></p><p>The bet: engineering leaders would rather have conversations than dashboards.</p><p></p><p>We've been covered by <a href=\"https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>TechCrunch</strong></a>, <a href=\"https://thenextweb.com/news/the-question-ai-providers-hope-vps-of-engineering-never-ask\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>TNW</strong></a>, and <a href=\"https://devops.com/waydev-adds-ability-to-track-how-much-ai-code-winds-up-in-production/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>DevOps.com</strong></a> along the way. </p><p></p><p>I'll be in the comments all day. Roast the product, ask the hard questions. That's how this gets better.<br></p><p>— Alex</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is super relevant right now. Everyone is pouring money into AI, but barely anyone knows what it’s actually returning. Love the shift from dashboards to conversations, feels way more natural for how teams want to work.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>AI tooling budgets are growing but nobody on most teams actually tracks what they're getting out of it. The harder problem is attribution. How does Waydev handle cases where an agent partially completed a task or produced output that needed heavy manual fixing? that's where the ROI math gets messy.</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Waydev measures the AI Adoption, AI Impact, and AI ROI of your engineering teams, copilots, and autonomous agents — across every tool from Cursor to Claude Code to Devin. Ask Waydev, our agent, turns engineering data into answers in plain English (and more). Skills let you configure it with SKILL.md files. MCP exposes your engineering feed to any external agent. Built for engineering leaders who'd rather have conversations than dashboards.",
+  "featured_at": "2026-05-05T07:00:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d4a76c42-98f2-40c2-9d10-95d5a96af1ae.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c945bcaa-ca1a-4143-bf6a-38c27b30b138.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/415dffa3-9242-4874-895b-b0bdac1f8582.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/07fc9af1-f5b3-4c1d-9a22-956fc30c635b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/38a2cde6-f8b6-42df-980b-22827ef5fbec.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5caa6fcf-3884-4bf4-87aa-cfe4ce15abb3.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:46",
+  "landing_meta": "Productivity Insights: SPACE Framework, DX and DORA metrics - Waydev — ✅ Waydev’s developer productivity insights deliver unparalleled insights into engineering productivity using AI Agents, DORA Metrics, Developer Experience (DX) analysis, and the SPACE Framework. Our Developer Productivity Insight platform helps you optimize SDLC, streamline development processes, and align engineering efforts with strategic business objectives.",
+  "landing_text": "Productivity Insights: SPACE Framework, DX and DORA metrics - Waydev Backed by Y Combinator experience featured in TechCrunch Learn more Market Leader in Software Engineering Intelligence (G2 Crowd’s Winter, Summer & Spring 2025) Learn more TechCrunch: How engineering leaders can use AI to optimize performance￼ Read here Backed by Y Combinator experience featured in TechCrunch Learn more Waydev Enterprise Security SOC 3 experience featured in TechCrunch Learn more The AI engineering intelligence for measuring agents adoption Request a Demo or I’d like to learn… see a demo of the new Waydev how to measure the AI Agents Impact how to measure the AI Agents ROI why engineering leaders choose Waydev Using AI to Optimize Performance – Alex Circei in TechCrunch Backed by Y Combinator AI ADOPTION, AI IMPACT, AI ROI + SPACE Framework , DORA Metrics , DX : Leverage Developer Productivity insights from your engineering stack to accelerate SDLC and align engineering work to business priorities. Trusted by FORTUNE 500 enterprise companies Read Story Read Story Read Story Read Story Read Story Read Story “By 2027, the use of developer productivity insight platforms by software engineering organizations to increase developer productivity will rise to 50%.” – Market Guide to Software Engineering Intelligence Platforms Talk to a consultant Small team 10 – 50 Engineers Medium Team 50 – 500 Engineers Demo with an expert 500 – 5000 Engineers our recent awards SEE LIVE DEMO Modules Automation Delivery Health Planning Studio AI Adoption AI Impact AI ROI Waydev Agent Bird's Eye View Cost Capitalization Resource Allocation DORA Metrics Team Insights Resource Planning Targets Cycle Time Pull Request Insights Merge Quality Sprints Commitment Velocity Report Contributor Insights Beench mark Hygiene Developer Experience Project Costs Notifications Custom Dashboards Custom Metrics AI Predictibility AI Coach AI Agent AI Adoption Custom Reports Executives Turn data into valuable business insights E",
+  "pricing_signals": [
+    "free trial",
+    "pricing",
+    "premium"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:47",
+  "description_ja": "Waydev Agentは、AIコーディングツール（Cursor/Copilot/Claude Code/Devin等）への投資ROIを可視化するエンジニアリング・インテリジェンス基盤。",
+  "summary_ja": "Waydev AgentはGit/IssueトラッカーとAIコーディングツールの利用ログを統合し、AI採用率・コード品質への影響・ROIを計測するSaaS。DORA/SPACE/DXフレームに加え、自然言語で問い合わせ可能なAsk Waydevエージェント、SKILL.md設定、MCPによる外部エージェント連携を提供。VPoE/CTO向けにダッシュボードからの脱却を訴求。",
+  "tldr_ja": "AIコーディング投資のROIを可視化するエンジニアリング・インテリジェンス基盤。自然言語エージェント+MCPで対話的に分析できるのが新味。",
+  "review_guide_ja": {
+    "what": "Git/PRデータとAIコーディングツール利用ログを統合し、AI採用・インパクト・ROIを可視化するエンタープライズ向け開発生産性プラットフォーム。新機能のAsk Waydev（自然言語エージェント）、SKILL.md設定、MCPサーバ提供により、ダッシュボードではなく対話で経営判断材料を引き出せる点がローンチの目玉。",
+    "for_who": "100名以上のエンジニア組織を持つ企業のVPoE/CTO/Engineering Manager。CFOからAI予算のROI説明を求められている層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Git解析+多ツール統合+SOC3相当のセキュリティ+9年蓄積のベンチマークが必要で、個人開発では水平展開困難。"
+    },
+    "signals": [
+      "TechCrunch/TNW/DevOps.com掲載でメディア露出十分",
+      "Y Combinator出身+SOC3取得済みでエンタープライズ信頼性確保",
+      "G2 2025 Leader受賞、Fortune 500導入実績",
+      "AI ROI可視化はCFOの必須トピックとして急浮上",
+      "MCP対応で生成AIエージェント時代の標準データ口へ先行投資"
+    ],
+    "concerns": [
+      "Findy Team+/LinearB/Swarmia/DX等の既存強豪が乱立",
+      "AI生成コードの帰属判定が技術的に曖昧（コメント23でも指摘）",
+      "ダッシュボードから対話UIへの移行は教育コスト大",
+      "エンジニア監視ツール化への現場反発リスク",
+      "9年プレーヤーゆえコア機能の差別化はAI ROI領域に限定"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本企業の42.1%が生成AI試験導入中だがROI測定未着手。AI予算の説明責任は今後高まる確実なトレンドだが、エンタープライズ向けで需要総量は限定的。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Findy Team+が約850社導入で国内デファクト確立、CS伴走体制で深く食い込む。LinearB/Swarmia/DXなど海外勢も日本市場狙う。後発参入は不利。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "労働組合的観点でエンジニア個人監視への抵抗が強い。改正個人情報保護法・GDPR類似の越境データ規制でGit解析の処理場所が論点。SOC2/ISMS必須。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UI/レポート日本語化に加え、JIRA以外にBacklog等の日本独自ツール連携、四半期評価サイクル対応が必要。日本特有のSI多重下請け環境への適応も課題。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本企業はエンジニア評価指標導入に保守的でPoCに半年〜1年要する。経営層のROI説明要求も米国ほど直接的でなく、CFO主導の調達は少数。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Findy Team+",
+        "url": "https://jp.findy-team.io/",
+        "note": "国内デファクト、約850社導入。GitHub/GitLab/Jira連携、専属CS。AI開発資本プラットフォームを標榜しAI領域もカバー開始。"
+      },
+      {
+        "name": "LinearB",
+        "url": "https://linearb.io/",
+        "note": "海外大手だが日本法人なし、英語UI。エンプラ自前導入は可能。"
+      },
+      {
+        "name": "Swarmia",
+        "url": "https://www.swarmia.com/",
+        "note": "DORA特化、開発者フレンドリー。日本展開は限定的。"
+      },
+      {
+        "name": "DX (getDX)",
+        "url": "https://getdx.com/",
+        "note": "Gartner Leader、AI Era分析強い。日本市場参入はこれから。"
+      },
+      {
+        "name": "Atlas (内製可視化)",
+        "url": "https://devlog.atlas.jp/",
+        "note": "国内SI企業の自前ダッシュボード文化が競合。社内BIで代替されやすい。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "改正個人情報保護法",
+        "impact": "コミット履歴・コードレビュー履歴は個人情報に該当。越境移転時の本人同意取得が必要、サーバ所在地（米国/EU）の開示義務。"
+      },
+      {
+        "law": "労働基準法・個別労使協定",
+        "impact": "エンジニア個人別の生産性指標を人事評価に直結させる場合、就業規則改定と労使協議が必要。組合がある企業では導入が遅延。"
+      },
+      {
+        "law": "ISMS/SOC2要求",
+        "impact": "ソースコード解析サービスは情報セキュリティ委員会審査必須。エンプラ案件はISO27001取得が事実上の必須条件。"
+      }
+    ],
+    "opportunity": "AI ROI可視化に特化した『日本企業向け薄型レイヤー』ならニッチに勝機あり。Findy Team+が手薄なAIコスト/効果突合に絞り、Backlog/Redmine連携、PoC2週間で結果を出す軽量SaaSとして提案。100-300名規模の日系SaaS/事業会社内エンジニア組織向け。",
+    "rationale": "需要トレンド（AI投資のROI説明責任）は確実に来るが、Findy Team+が既に深く根を張った国内市場で後発の総合プラットフォームとして参入する勝ち筋は薄い。日本企業はエンジニア個人評価への抵抗が強くPoCサイクルも長期化しがちで、米国式のCFO主導調達が機能しにくい。SOC2/ISMS等のセキュリティ要件も参入障壁となる。ただしAI ROI測定は新領域でFindyも完全押さえているわけではなく、ニッチ特化なら勝機あり。個人開発者が真っ向勝負する市場ではなく、エンプラSaaSとして資金調達と日本法人設立が前提。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "シート課金+エンプラARPU高単価モデルが既に成立。AI ROIは経営KPIなので決裁が降りやすい。LTV/CAC比も健全な領域。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "日本のエンジニア100名以上企業は推定3,000-5,000社。狙えるのは更にIT投資先進の500-1,000社程度。海外展開前提なら市場大きいが日本単独では限定的。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "VPoE/CTO直販のエンプラセールスが必須でCAC高い。コミュニティ・カンファレンス（Developer eXperience Day等）露出が定石だがFindyが既に押さえている。"
+      },
+      "timing": {
+        "score": 8,
+        "reason": "Cursor/Claude Code/Copilot大規模導入が2025-2026年に進み、2027年に経営層からROI問われるフェーズ。今がまさに測定基盤需要のピーク立ち上がり。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "Git解析基盤・多ツールAPI統合・SOC2運用・エンプラCSが必要。個人/小規模チームでは継続困難。最低でも10名超のチームが前提。"
+      }
+    },
+    "rationale": "事業として成立する余地はあるが、エンタープライズSaaSのGTM/運用コスト構造は個人開発者・小規模チーム視点では極めて重い。タイミングは絶妙でAI ROI需要は確実に立ち上がる一方、競合のFindy Team+が国内で先行投資済みで、差別化にはAIツール統合の深さと日本企業の業務慣行（人事評価連動を避ける匿名集計UI等）への適応が必要。海外資金調達済みのスタートアップが攻めるべき市場で、ブートストラップ個人開発の打ち手としては推奨しない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "annual",
+      "arpu_jpy": 250000,
+      "plans": [
+        "Starter: 10-30シート / 月額10万円〜（チーム単位、AI ROIダッシュボードのみ）",
+        "Growth: 30-150シート / 月額25万円〜（DORA/SPACE+AI ROI、Backlog連携込み）",
+        "Enterprise: 150シート〜 / 月額60万円〜（SSO/監査ログ/専属CS/ISMS対応）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "従業員100名以上、エンジニア組織30名以上の日系SaaS/事業会社のエンジニアリング部門。AIコーディングツール全社導入済みでROI説明責任が経営課題化している層。",
+      "target_count": 800,
+      "capture_pct_year3": 3,
+      "monthly_revenue_target_jpy": 6000000
+    },
+    "recommended_gtm": [
+      "Developer eXperience Day等の国内カンファレンス登壇でAI ROI事例公開",
+      "CTO/VPoE向けクローズドラウンドテーブル（10-15社）でPoC獲得",
+      "AIコーディングツール販売パートナー（GitHub代理店等）との共同提案",
+      "技術ブログでDORA×AI ROI測定方法論を公開しSEO/被リンク獲得",
+      "Findy Team+補完ポジション（AIコスト突合専門）として共存戦略"
+    ],
+    "time_window_months": 24,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Findy Team+がAI ROI機能を本格実装した瞬間に差別化喪失",
+      "GitHub/Cursor自体がネイティブROIダッシュボードを提供開始するリスク",
+      "日本企業の長いPoC期間でランウェイ枯渇、月次キャッシュバーン重い",
+      "エンジニア監視ツール化への現場反発で導入後解約が増える",
+      "Git/コミット履歴の越境データ移転が個情法改正で制限される可能性"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

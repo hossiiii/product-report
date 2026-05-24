@@ -1,0 +1,190 @@
+{
+  "name": "Hyperswitch Prism",
+  "description": "Library to plug-n-switch payment processors",
+  "ph_url": "https://www.producthunt.com/products/hyperswitch-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/2U7NQ3R7UBKMGD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-12T07:01:00Z",
+  "upvotes": 246,
+  "comments": 21,
+  "topics": [
+    "Open Source",
+    "Fintech",
+    "Developer Tools"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hello Product Hunters 👋</p><p><br>I’m Jeeva from Juspay, the team behind Hyperswitch, the open-source payments platform with 42K+ GitHub stars.</p><p></p><p>Today, we’re launching <strong>Prism</strong>: an open-source <strong>library</strong> that gives developers one common integration layer across payment processors like Stripe, Adyen, Braintree, Checkout, and others.</p><p></p><p>Most teams start with a single payment processors. That works well early on. But as the business grows, payments get more complex:</p><p></p><p><strong>Early growth</strong>: new markets need new processors, and customers expect local payment methods.</p><p><strong>Scaling up</strong>: finance teams want pricing leverage, engineering teams need reliability, and maintaining payment processor integrations becomes ongoing work.</p><p></p><p>Prism helps teams avoid locking in to a single payment processors from the start.</p><p></p><p>With Prism, you get:</p><ul><li><p>one schema across multiple payment processors</p></li><li><p>a stateless integration layer</p></li><li><p>no database and no stored PII</p></li><li><p>SDKs for Node, Python, Java, and Rust</p></li><li><p>open-source flexibility without infra setup or sales conversations</p></li></ul><p>Our goal is simple: make payment processors integrations easier to build, maintain, and change over time.</p><p></p><p><strong>When did payments start getting operationally complex for your business?</strong></p>",
+      "votesCount": 23,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations on the launch <a href=\"https://www.producthunt.com/products/hyperswitch-2\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"hyperswitch-2\" target=\"_blank\" rel=\"noopener\">@Juspay Hyperswitch</a> team!<br>This is exactly what we need. Please add golang sdk as well (our stack is on golang)</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>How do you handle tracking events and reconciliation if Prism itself doesn’t store anything?</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Prism is a stateless payments library that connects your app to multiple payment processors. You can integrate once and point to any payment processor; add fallbacks for redundancy, switch processors based on routing rules - all by swapping a few lines of code. No sign-up needed. No infra setup needed. Actively maintained within the Juspay Hyperswitch production environment. Apache-2.0 licensed, polyglot ready, with SDKs for Node, Python, Java and Rust.",
+  "featured_at": "2026-05-12T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a3335b9a-9d57-46f8-ba00-fd6d008c5b59.png",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/8d5500c1-8ef7-428f-84c9-de617bd2ed22.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/9111761f-7c40-459b-a79d-02a296de255f.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/4a6c711d-3464-40ad-9dfa-9e8ed7070f48.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/26496704-de3b-41ad-9488-2275ed720d94.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/0f7252fb-5f73-4967-a64f-67a88ab1f698.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/64cb2739-7363-4f21-a0a6-68a7ed64dfe2.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-24T20:32:45",
+  "landing_meta": "GitHub - juspay/hyperswitch-prism at producthunt · GitHub — One library | Many payment processors | Scale to multiple processors with few lines of code. - GitHub - juspay/hyperswitch-prism at producthunt",
+  "landing_text": "GitHub - juspay/hyperswitch-prism at producthunt · GitHub Skip to content You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert juspay / hyperswitch-prism Public Notifications You must be signed in to change notification settings Fork 284 Star 1.4k main Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 917 Commits 917 Commits .agents .agents .cargo .cargo .claude .claude .github .github .opencode .opencode .skills .skills browser-automation-engine browser-automation-engine config config crates crates data data demo/ e-commerce demo/ e-commerce docs-generated docs-generated docs docs examples examples grace grace llm llm nix nix scripts scripts sdk sdk .coderabbit.yaml .coderabbit.yaml .dockerignore .dockerignore .gitattributes .gitattributes .gitignore .gitignore .nextest.toml .nextest.toml .typos.toml .typos.toml CHANGELOG.md CHANGELOG.md Cargo.lock Cargo.lock Cargo.toml Cargo.toml Dockerfile Dockerfile LICENSE LICENSE Makefile Makefile README.md README.md buf.gen.yaml buf.gen.yaml buf.lock buf.lock buf.yaml buf.yaml cliff.toml cliff.toml cog.toml cog.toml context7.json context7.json creds_dummy.json creds_dummy.json flake.lock flake.lock flake.nix flake.nix routing_demo.gif routing_demo.gif setup.md setup.md typos.toml typos.toml View all files Repository files navigation Hyperswitch Prism One integration. Any payment processor. Switch processors with few lines of code. Website · Documentation · Slack Community What is Prism? Prism is a stateless, unified connector library to connect with any payment processor. It is extracted out of the hardened integrations through continuous testing & iterative bug fixing over years of usage within Juspay Hyperswitch . Why are payment processor integration",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "subscription",
+    "pricing",
+    "premium",
+    "$10.00"
+  ],
+  "landing_fetched_at": "2026-05-24T20:32:46",
+  "description_ja": "複数の決済プロセッサ（Stripe、Adyen など）を共通スキーマで切り替え可能にする、ステートレスなオープンソース統合ライブラリ。",
+  "summary_ja": "Juspay Hyperswitch チームによる OSS（Apache-2.0）。Node/Python/Java/Rust 向け SDK を提供し、PII を保持しないステートレス構造で複数 PSP に同一インターフェイスで接続。フォールバックやルーティング切替を数行のコード変更で実現し、PSP ロックインを回避する。",
+  "tldr_ja": "PSP ロックインを避けたい開発者向け、ステートレスな決済プロセッサ抽象化 OSS。Stripe/Adyen 等を共通 API で切替可能。",
+  "review_guide_ja": {
+    "what": "Hyperswitch Prism は、複数の海外決済プロセッサ（Stripe、Adyen、Braintree、Checkout 等）に対する統一コネクタライブラリ。ステートレスで PII を保持せず、Apache-2.0 ライセンスで商用利用可能。Node/Python/Java/Rust の SDK を提供。フルスイッチである Hyperswitch 本体と比べ、軽量に PSP 抽象化レイヤーだけを導入できる。",
+    "for_who": "複数 PSP を併用する越境 EC・グローバル SaaS の開発チーム、PSP 切替の柔軟性を求めるスケール段階のプロダクト、自社で決済オーケストレーション層を内製したい開発者向け。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "コネクタ実装は PSP ごとの仕様・API・テスト・認証フローの蓄積が必要で、Juspay の長年の本番運用知見が前提。個人での競合 OSS 構築は工数的に困難。"
+    },
+    "signals": [
+      "PH 246 upvotes と Fintech/Developer Tools/OSS 3 トピック同時上位",
+      "Juspay Hyperswitch 本体 42K+ GitHub Stars の信頼基盤",
+      "PSP 多重化ニーズ（フォールバック、ローカル決済対応）の SaaS スケール期の定番課題",
+      "ステートレス・PII 非保持で PCI DSS 範囲を軽減できる設計",
+      "Apache-2.0 で商用利用容易、エンタープライズ営業不要"
+    ],
+    "concerns": [
+      "コネクタ群が海外 PSP 中心で、日本主要 PSP（GMO PG、SBPS、Komoju、Veritrans 等）は未対応",
+      "OSS 単体での収益化は困難で、Juspay 本体のリード獲得が本来の目的",
+      "個人開発者がコネクタ追加・保守を担うのは現実的でない",
+      "国内の中小 EC は決済代行 1 社に集約する文化が強くオーケストレーション需要は薄い",
+      "ライブラリで PCI スコープ縮小と言っても、最終的に SAQ-D 相当の判定は加盟店側の責任"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "国内決済代行市場は 2025 年度 7,793 億円規模に拡大中だが、需要の中心は決済代行 1 社集約型。複数 PSP 切替のオーケストレーション層への需要は越境 EC・SaaS 等の一部に限定される。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "GMO PG (15 万店超)、SBPS (21.6 万店超)、Komoju、Stripe Japan が多決済方式を 1 社で包括提供。Spreedly/Primer/Gr4vy 等のオーケストレーション SaaS も既に存在し、Prism の差別化余地は薄い。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "ライブラリ自体がステートレス・PII 非保持のため PCI DSS スコープは小さいが、加盟店側はクレジットカード・セキュリティガイドライン (経産省) と SAQ 対応が必要。改正資金決済法は収納代行が対象で本品の影響は軽微。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "日本向け PSP（GMO PG、SBPS、Veritrans、Komoju、楽天ペイ、PayPay 等）のコネクタが標準提供されておらず、日本語ドキュメント・サポートも不在。日本企業導入には自前コネクタ実装が必須。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本では決済代行を 1 社に絞り、稟議・契約・運用を委ねる商習慣が強く、社内で OSS の決済抽象化を運用するカルチャーは限定的。上位 150 社の平均決済方式 4.8 個も大半が代行 1 社経由で実現。"
+      }
+    },
+    "existing_competitors_jp": [
+      {"name": "GMO Payment Gateway", "url": "https://www.gmo-pg.com/", "note": "国内最大手の決済代行。15 万店超導入、年間処理額 21 兆円超。27 種類の決済手段を 1 契約で提供"},
+      {"name": "SB Payment Service", "url": "https://www.sbpayment.jp/", "note": "21.6 万店超導入。多数決済手段の包括提供と PCI DSS 非保持化を訴求"},
+      {"name": "Komoju (DEGICA)", "url": "https://komoju.com/ja", "note": "コンビニ・電子マネー・海外決済までカバーする決済代行。初期/月額無料"},
+      {"name": "Stripe Japan", "url": "https://stripe.com/jp", "note": "開発者向け API・135 通貨対応。PayPay 等の国内決済も Checkout 経由で提供"},
+      {"name": "Spreedly / Primer / Gr4vy", "url": "https://www.spreedly.com/", "note": "海外発の決済オーケストレーション SaaS。エンタープライズ商談ベースで JP 市場進出は限定的"}
+    ],
+    "regulatory_findings": [
+      {"law": "クレジットカード・セキュリティガイドライン（経産省）", "impact": "EC 加盟店はカード情報非保持化または PCI DSS 準拠が必須。Prism のステートレス設計は非保持化に寄与しうるが、最終的な SAQ 区分は加盟店判断"},
+      {"law": "PCI DSS v4.0", "impact": "2025 年以降の完全適用。トークン化・SAQ A/A-EP 等の区分整理が必要で、ライブラリ側で PII を持たない構造は加盟店の対応コスト軽減に寄与"},
+      {"law": "改正資金決済法（2025）", "impact": "収納代行・クロスボーダー収納代行が資金移動業登録の対象に。Prism は決済処理を PSP に委譲する設計のため直接の影響は小さい"}
+    ],
+    "opportunity": "越境 EC・国内外で複数 PSP を併用するグローバル SaaS が、PSP 価格交渉力とフェイルオーバーを求めるユースケースに薄く存在。日本主要 PSP コネクタ（GMO PG、SBPS、Komoju、楽天ペイ、PayPay）を追加開発し、日本語サポート + クレジットカード・セキュリティガイドライン対応の整理を商用パッケージ化すれば、年商 10〜100 億円規模の越境 EC・サブスク事業者に対するニッチ商機。",
+    "rationale": "日本市場では「決済代行 1 社集約」が強固な商習慣で、複数 PSP オーケストレーションのニーズは越境 EC・大規模 SaaS 等の一部に限定される。国内大手 PSP のコネクタが OSS 側に存在しない点も致命的。一方、PCI DSS 4.0 対応や非保持化要件の高度化、越境 EC の伸長、PayPay 等ローカル決済の組み合わせニーズは緩やかな追い風で、ステートレス設計自体は適合する。総合的に build ではなく watch が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 2,
+        "reason": "Apache-2.0 OSS ライブラリ単体では直接収益化が困難。本家 Hyperswitch はクラウド版・エンタープライズ商談で稼ぐ前提だが、Prism 単体での課金モデルは曖昧"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "日本のネット決済代行市場 7,793 億円のうち、オーケストレーション層を必要とするのは年商数十億〜の越境 EC・SaaS に限定され、リーチ可能市場は数百〜数千社規模"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "OSS/GitHub Stars + 開発者コミュニティ経由の GTM は可能だが、日本では開発者主導の決済選定は稀で、エンタープライズ営業や決済代行パートナー経由が主流"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "PCI DSS 4.0 完全適用、PayPay 等ローカル決済の普及、越境 EC 拡大により多 PSP 接続ニーズは緩やかに増加中。タイミング面の追い風は中程度"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "決済仕様・PSP API の継続的キャッチアップ、不正・チャージバック・SCA 等の対応コストが高く、個人開発者がコネクタを維持運用するのは現実的でない"
+      }
+    },
+    "rationale": "Apache-2.0 ライセンスの抽象化ライブラリで、直接収益化は本家クラウド版へのリードジェネレーションが本筋。日本市場では決済代行 1 社集約文化と国内 PSP コネクタの欠落により、個人開発者がこれをそのまま事業化するのは難しい。ホスティング+運用代行 SaaS や日本 PSP コネクタ拡張パックの提供等の派生事業なら一部商機はあるが、ニッチかつ高度な決済知見が前提となるため solo dev の主軸事業には向かない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "Apache-2.0 OSS 本体は無償",
+        "派生事業案: 日本 PSP コネクタ拡張パック + 導入支援を年額 60〜180 万円のスポット契約",
+        "派生事業案: マネージドホスティング + ルーティング設定 GUI を月額 5〜20 万円のサブスク"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "年商 10〜500 億円規模の越境 EC・グローバル SaaS で、複数 PSP を併用 or 併用予定の事業者の開発チーム",
+      "target_count": 1500,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Hyperswitch 本家の日本語ドキュメント整備とユースケース記事による SEO",
+      "越境 EC・サブスク事業者向けの PSP 切替/フォールバック実装の技術ブログ・登壇",
+      "国内主要 PSP（GMO PG、SBPS、Komoju）コネクタを OSS PR として提供し導入摩擦を低減",
+      "決済代行業者・SI とのパートナー連携で自社 PoC への組み込み実績作り",
+      "Stripe/Adyen 既導入のスケールアップ期スタートアップへの直接アウトリーチ"
+    ],
+    "time_window_months": 24,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "日本主要 PSP（GMO PG、SBPS、Komoju）のコネクタを自前実装する工数とその後の継続保守負荷",
+      "決済代行 1 社集約という日本商習慣によりオーケストレーション層の購買決裁が下りにくい",
+      "Stripe Japan、Komoju など既存 PSP が多数決済手段を 1 契約で提供しており差別化困難",
+      "Apache-2.0 OSS のため Juspay 本体や他社にフォーク・追随されやすく、優位性を維持しにくい",
+      "PCI DSS 4.0 / クレジットカード・セキュリティガイドライン解釈ミスによる加盟店側の法的リスク説明責任"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "research_completed_at": "2026-05-23T00:00:00Z"
+}

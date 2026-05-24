@@ -1,0 +1,255 @@
+{
+  "name": "RankSpot",
+  "description": "AI SEO Blog driven by deep competitor intelligence",
+  "ph_url": "https://www.producthunt.com/products/rankspot/launches/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/6OTRNXDGVGQLGN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-08T07:01:00Z",
+  "upvotes": 660,
+  "comments": 103,
+  "topics": [
+    "Marketing",
+    "SEO",
+    "YC Application"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey everyone 👋<br></p><p>I'm Dan, founder of RankSpot - and yes, some of you might recognize me from our <a href=\"https://www.producthunt.com/products/blogbowl-4/launches/blogbowl-4\" target=\"_blank\" rel=\"noopener\">previous launch</a>!<br></p><p>Based on the incredible feedback we got from the Product Hunt community and our early users, I made a big decision: to split the project and build RankSpot as a dedicated, focused product. <strong>This launch is a direct result of what you told us. So thank you - you literally shaped this.</strong><br></p><p><strong>The problem 👀</strong></p><p>Every founder knows they should be publishing content. But between writing, keyword research, images, and publishing - it never happens. You wrote 2 blog posts this year. Your competitors are on page 1 of Google. And when someone asks ChatGPT about your industry, they get recommended - not you.<br></p><p>SEO agencies want $3,000/month. Doing it yourself takes 5+ hours per article. Neither works for a small team.<br></p><p><strong>Our solution ⚡</strong></p><p>RankSpot is a fully automated <strong>AI SEO agent driven by deep competitor intelligence</strong>. It handles your entire SEO pipeline - every single day.<br></p><p><strong>🔍 Competitor intelligence:</strong></p><p>- Tracks what keywords your competitors rank for</p><p>- Automatically scores and targets most relevant keywords</p><p>- Finds Reddit &amp; forum conversations where your customers are asking for solutions<br></p><p><strong>✍️ Research-backed articles:</strong></p><p>- Writes 1,500+ word SEO &amp; GEO optimized articles daily</p><p>- Adds real quotes, stats, tables, internal links, and generated images</p><p>- Researches top-ranking posts before writing - not just a one-prompt agent<br></p><p><strong>🚀 Fully automated publishing:</strong></p><p>- Connects directly to WordPress, Webflow, Shopify, Framer, Ghost, and more</p><p>- Articles go through a review queue - you stay in control</p><p>- Supports 100+ languages<br></p><p><strong>Why it matters 🌟</strong></p><p>When you rank high on Google, <strong>LLMs like ChatGPT and Claude start citing you too</strong>. RankSpot optimizes for both - so you get customers from search and from AI, on autopilot.</p><p><br><strong>Is there a deal? 💰</strong></p><p>Yes! First 3 articles are completely free when you start a trial. Try it, see the quality, then decide.</p><p><br>👉 Start for free: <a href=\"https://rankspot.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://rankspot.ai</a></p><p><br>Would love your feedback - you shaped this product once already, let's do it again 🙏</p>",
+      "votesCount": 36,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Happy launch! This is super useful!</p><p></p><p>Some questions though: 1. there is lots of competition in this field, how you stand out? 2. Doesn't Google penalise AI created content? I don't know, just asking, because I heard about it, couple of times. 3. How do these SEO articles translate into LLM citation? It's just quantity or there is some specific algo, which makes LLMs pay attention to those articles?</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is a great solution, exactly what I needed (I don't always have the energy and strength to do everything myself).<br>Good luck!</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "RankSpot is your fully automated AI agent that researches, writes, and publishes SEO articles to your blog daily - getting you cited in AI answers and ranked on Google.",
+  "featured_at": "2026-05-08T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f216213c-b209-4651-ad21-a7a60d635c46.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/31783f12-5478-4bf9-a08a-0e4e1efb0345.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b5b8e18b-6621-469a-9036-508f222dddf7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3bc5fa31-f8f0-469b-8d7c-a2b4a0cee803.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a14f8af5-6647-4494-a4ac-53441ae40299.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/64fc0b3b-556e-4eed-92f5-b30210c97d2a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1b0c4dc8-edc9-4eb7-b3b5-5046049886ae.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ad468c95-cbf2-43bd-8040-82f90aad6177.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/ba6678f6-8dc4-4789-a8b4-e8abe0c66da2.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:01",
+  "landing_meta": "RankSpot – Get Customers from Google & AI Search — RankSpot is your fully automated AI agent that researches, writes, and publishes SEO articles to your blog daily - getting you cited in AI answers and ranked on Google.",
+  "landing_text": "RankSpot – Get Customers from Google & AI Search Integrations Pricing FAQ Blog Book a Demo Sign In Get 3 Free Articles Trusted by 50+ founders Get customers from Google & Claude Your fully automated AI agent that researches, writes, and publishes SEO articles to your blog daily - getting you cited in AI answers and ranked on Google. Start for free First 3 articles for free Major problems We've talked to hundreds of founders. SEO is always the problem. Sounds familiar? You know you should be publishing content. You wrote 2 blog posts this year. ChatGPT recommends your competitors. Not you. You got a $3,000/month quote from an SEO agency. You closed the tab. You tried writing articles yourself. It took 5 hours. You never did it again. You Google your own industry. Your competitors are everywhere. You're nowhere. Your competitors are on page 1 of Google. You're not. Solution Your personal SEO/GEO AI agent that works 24/7 From keyword research to publishing – RankSpot handles your entire SEO pipeline automatically, every single day. Rank High on Google Publish SEO-optimized articles daily targeting keywords your customers actually search for. Watch your impressions and clicks climb month over month. Get Mentioned by AI Assistants Every article is optimized for AI answers. When someone asks ChatGPT about your industry – your business gets recommended. One tool instead of 5 subscriptions No more Ahrefs for keywords, Canva for images, or Grammarly for writing. RankSpot handles it all. Saves you 40+ hours every month No writing, no keyword research, no publishing. You just watch the traffic grow. Finds keywords Discovers high-intent keywords your customers actually search for Writes articles Writes 1,500+ word SEO & GEO optimized articles daily Publishes to your blog Connects directly to your website and publishes every article automatically Tracks competitors Tracks what keywords your competitors rank for and automatically targets them Creates image Generates unique, on-br",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "premium",
+    "$3",
+    "$1",
+    "$29"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:02",
+  "description_ja": "競合分析に基づきSEO/GEO最適化記事を毎日自動生成し、WordPressなど主要CMSへ自動投稿するAIエージェント型SEOブログ運用ツール。",
+  "summary_ja": "RankSpotは競合がランクインしているキーワードを追跡し、1,500語以上のSEO/GEO最適化記事を毎日自動執筆、画像生成・内部リンク付与のうえWordPress/Webflow/Shopify等へ直接公開する完全自動化AIエージェント。レビューキュー経由で人手承認も可能。Google検索とChatGPT等LLMからの被引用獲得を同時に狙う点が訴求軸。",
+  "tldr_ja": "競合の検索キーワードを追跡し毎日AI記事を自動執筆・投稿する完全自動SEO/GEOエージェント。CMS直結で運用負荷を最小化。",
+  "review_guide_ja": {
+    "what": "競合がランクインしているキーワードと関連フォーラム投稿を解析し、1,500語以上のSEO/GEO最適化記事を毎日生成、画像・統計・内部リンクを付与しWordPress等CMSへ自動公開するエージェント型SaaS。レビューキューで承認後に投稿する運用も可能で、100言語以上に対応。GoogleとLLM双方からの被引用獲得を狙う。",
+    "for_who": "ブログ運用に時間を割けない海外スタートアップのソロファウンダー・少人数チームが主対象。日本では数記事/月を必要とするB2B SaaS創業者、士業、EC、メディア運営の個人事業主が候補。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "LLM・キーワードAPI・CMS連携の組合せで再現は技術的に可能だが、日本語SERPと日本語LLM引用最適化の精度確保にチューニング負荷あり。"
+    },
+    "signals": [
+      "PH 660 upvotes / 103コメントと反応量が大きい",
+      "Trusted by 50+ foundersと初期トラクションを訴示",
+      "ファウンダー自身が前回プロダクトを分割してフォーカスしたピボット型ローンチ",
+      "日本でもAIブログくん等が黒字運営できており需要が実証済み",
+      "GEO/LLMO対策の関心が日本で急上昇中"
+    ],
+    "concerns": [
+      "日本語SEO/GEOにおける記事品質と被引用実績が未検証",
+      "Google March 2026のscaled content abuse更新で大量自動投稿は罰則対象化のリスク",
+      "AIブログくん・SAKUBUN・Transcope・Creative Drive等の国内競合が値段・日本語サポート面で強い",
+      "海外ツールは日本語UI/請求書/サポートで法人導入のハードルあり",
+      "アフィリエイト案件への利用ではステマ規制によるPR表示義務"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "中小企業の36%がSEO記事内製に限界を感じておりGEO対策ニーズも急拡大。AIブログくんが月100記事プランで運用実例を持つなど需要は実証済み。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "AIブログくん(月8,200円〜)・SAKUBUN(月9,800円〜)・Transcope・Creative Drive・EmmaTools・ミエルカGEO等、日本語特化の安価な競合が多数存在し価格・サポートで先行。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "Google scaled content abuseとステマ規制(景表法)が主リスク。AI生成自体は合法だが、無編集大量投稿はSEO評価下落の懸念。アフィリエイト用途ではPR表示義務。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "100言語対応を謳うが日本語SERPの上位記事はトーンや構造が独特で、海外汎用ツールの日本語精度は国産より劣るとの指摘多数。UI/請求書/日本語サポートの整備も必須。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "法人購買では請求書払い・反社チェック・SLA・日本語問い合わせ窓口が必須。個人事業主はクレカ可だが、海外SaaSへの心理的ハードルは依然存在。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "AIブログくん",
+        "url": "https://www.ai-blogkun.com/",
+        "note": "WordPress完全自動投稿。月15記事8,200円〜100記事プランあり。日本語SERPに最適化済みで認知も高い。"
+      },
+      {
+        "name": "SAKUBUN",
+        "url": "https://sakubun.ai/",
+        "note": "60種以上のテンプレートでSEO記事生成。月9,800円〜10万字、コスパ重視層に強い。"
+      },
+      {
+        "name": "Transcope",
+        "url": "https://transcope.io/",
+        "note": "競合上位記事を分析し構成提案するSEO特化型。月11,000円〜。中〜上級者向け。"
+      },
+      {
+        "name": "Creative Drive",
+        "url": "https://creative-drive.jp/",
+        "note": "企業向けコンテンツマーケに特化。承認フロー・品質管理を標準搭載しチーム運用に強い。"
+      },
+      {
+        "name": "EmmaTools",
+        "url": "https://emma.tools/",
+        "note": "GPT-4無制限・SEO特化チューニング。自社開発のSEOツールとして法人実績多数。"
+      },
+      {
+        "name": "ミエルカGEO",
+        "url": "https://mieru-ca.com/",
+        "note": "ChatGPT/Gemini/Perplexity/AI Overviewsの被引用モニタリングに特化。GEO対策の主要ベンダー。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法(ステマ規制 2023年10月施行)",
+        "impact": "アフィリエイト用途や自社宣伝記事では#PR/#広告等の明瞭な表示義務。AI自動投稿でもラベル制御を実装しないと違反リスク。"
+      },
+      {
+        "law": "Google scaled content abuse policy (2024〜2026強化)",
+        "impact": "無編集の大量AI投稿はインデックス除外・順位下落の対象。レビューキューと人手編集の運用設計が不可欠。"
+      },
+      {
+        "law": "特定商取引法・電子契約・インボイス制度",
+        "impact": "日本法人への販売時は請求書払い・適格請求書発行事業者登録・特商法表記など事業者向け整備が必要。"
+      }
+    ],
+    "opportunity": "国内の海外ツール特化派生として、日本語SERPに最適化したテンプレート群と、ステマ規制・scaled content abuse対応の自動チェッカーを差別化要素として組み込めば、月1〜2万円のソロ起業家・士業・スモールEC向けで一定のニッチを獲得可能。GEO計測(被引用モニタリング)との統合は競合がまだ薄い領域。",
+    "rationale": "需要側は中小企業のSEO内製限界とGEOブームで強い追い風がある一方、競合は国産で月1万円前後・日本語完全対応・100記事クラスの自動化が既に成立しており、海外汎用ツールが日本語ローカライズ・法人購買フローで追いつくのは容易ではない。Google更新と景表法のダブル規制で、大量自動投稿の単純訴求は逆風。watch評価が妥当で、日本市場では既存国内ベンダーの動向を観察しつつ、GEO計測+執筆+ステマ規制対応をワンパッケージにする差別化を持つ場合のみbuild検討。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "SaaS課金との親和性が高くサブスク$29〜$300相当の価格帯が一般化。日本円換算で月3,000〜30,000円のレンジで設計可能、解約率も中位。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本のSMB(約560万事業所の中小企業群)と個人事業主・SaaSスタートアップが主市場。SEOツール市場は国内でも数百億円規模だが、自動投稿ニッチは限定的。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "国産競合はTwitter/note/ブログSEOで認知獲得済み。海外発・個人開発がここに割り込むには日本語コンテンツでの自社ドッグフード実例が必須で立ち上げ負荷高い。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "GEO/LLMO対策が2026年急浮上しており、被引用最適化を統合できれば波に乗りやすい。一方Googleの品質基準厳格化で大量生成単独訴求は鈍化中。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "LLM APIコスト・キーワードAPI・SERP取得・CMS統合の保守はソロでも可能だが、日本語法人サポート・請求書対応を担うと工数が膨らみ片手間運用は厳しい。"
+      }
+    },
+    "rationale": "サブスク課金の成立可能性は高く、GEOブームと相まってタイミングも良い。一方、国内競合の価格水準が月1万円前後で安価かつ日本語に最適化済みであるため、純粋な後発の汎用AI執筆では獲得が難しい。差別化軸を「GEO被引用モニタリング+執筆+規制対応」に絞り、ソロ可能な範囲(コミュニティ販売・自社ブログ実証)に絞り込めば、年商数千万円規模のニッチビジネスとして成立可能。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 9800,
+      "plans": [
+        "Lite: 月4,980円 / 月10記事 + GEO計測10ブランド",
+        "Standard: 月9,800円 / 月30記事 + GEO計測50ブランド + WordPress自動投稿",
+        "Pro: 月19,800円 / 月80記事 + 競合分析無制限 + 人手レビュー導線 + 請求書払"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "SEO内製に限界を感じるB2B SaaSソロ起業家・士業・スモールEC・地方中小企業のオウンドメディア担当(月1〜2万円の予算)",
+      "target_count": 50000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 1470000
+    },
+    "recommended_gtm": [
+      "自社ドメインで日本語ブログを毎日運用し、3ヶ月でターゲットKWで上位表示する実証を公開",
+      "noteとX(Twitter)で個人開発者・SEOマーケに向けたGEO/LLMO計測無料診断を配布",
+      "ステマ規制・Google scaled content abuse対応ホワイトペーパーで企業リード獲得",
+      "ミエルカGEO・AIブログくん未対応領域(CMS自動投稿+被引用計測の統合)を訴求",
+      "PH/IndieHackers経由でGlobal版を継続しつつ、日本語LPと請求書払いを別個に整備"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "国産競合(AIブログくん/SAKUBUN等)の価格・日本語UI優位を覆せず認知獲得に至らない",
+      "Google scaled content abuse更新で自動投稿モデル自体が逆風化し顧客の解約増加",
+      "日本語SERPで上位獲得実績を自社で示せず信頼性が立ち上がらない",
+      "請求書払・インボイス・法人サポートの整備工数がソロ運営の限界を超える",
+      "GEO計測の精度競争でミエルカGEO等専業に劣後し差別化要素を失う"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

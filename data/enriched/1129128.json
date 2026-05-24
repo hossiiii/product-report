@@ -1,0 +1,248 @@
+{
+  "name": "Superset 2.0",
+  "description": "Run 100s of coding agents on any machine from anywhere",
+  "ph_url": "https://www.producthunt.com/products/superset-5/launches/superset-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/DLXL3IV2Y7S2VX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-06T07:01:00Z",
+  "upvotes": 472,
+  "comments": 48,
+  "topics": [
+    "Text Editors",
+    "Developer Tools",
+    "Artificial Intelligence",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey everyone!</p><p></p><p>The pace of shipping software keeps getting faster and it's been so much fun building at the bleeding edge, and trying to help as many people ship products people love as possible. We've had quite the grind to get this one out so we're hoping you all enjoy :)<br><br>New Features:</p><ul><li><p>Remote workspaces - ship code across across devices / team members, continue working from anywhere</p></li><li><p>Automations - schedule agents to pick up tasks for you later (think of Openclaw's heartbeat feature)</p></li><li><p>Superset CLI - gives agents superpowers, and unlocks powerful new workflows</p></li><li><p>MCP refresh - works with v2 and backed by an expanded toolset</p></li><li><p>A general app refresh - the same Superset you know and love, just a bit more elevated</p></li></ul><p>I'd call this a push to get out the building blocks for everyone's code factories, there's crazy new workflows that are possible now that even we're still discovering.<br><br>Excited to see what you all build, and if you have any feedback, we're here to help!</p>",
+      "votesCount": 12,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey all,</p><p></p><p>I'm Kiet, one of the creators of Superset. Originally created Superset as a local-first IDE with the ability to run dozens of coding agents in parallel on your machine. After many months and thousands workspaces created daily from users, we're hitting the physical limit on a single laptop. Our users can have 30+ parallel workspaces on their machine running multiple coding agents each.</p><p></p><p>That's why we built Superset 2.0. It's a ground-up rewrite of the core Superset engine to allow for users to connect to any remote machine and run coding agents there as if it's their local machine. This enables users to scale to hundreds of agents and be able to run with their agents from anywhere, even when their own laptop is off. </p><p></p><p>The last few months have seen incredible adoption from the most cutting edge teams from all over the world. I'm excited to see what you will build with Superset!</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I was using Cursor, then Claude Code, then CC inside Cursor, and finally switched to Superset and haven’t looked back.</p><p></p><p>Awesome that I no longer need to worry about disk space limits killing my flow </p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Run 100s parallel coding agents, offload them to different machines. Rewritten from scratch to support remote workspaces. Share and collaborate with teammates in realtime. Works for any CLI agent.",
+  "featured_at": "2026-05-06T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f60c5c7f-21de-4714-85b1-73528abe5e55.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4eff094b-687d-4ced-b20f-3d4add937bb6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2696fcea-024a-47e0-b081-e699d12bf1c8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3c2b6f8c-f96d-42ec-b8c6-19c2b65e6bd2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4999401e-f416-4e2a-a821-31bbc8ad5e92.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8f62f8c5-67fc-4dbb-b420-fb9ea685c9c2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/73990e59-c348-4298-b1ca-0c2540d31c3a.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/92a97f95-b197-4367-bec5-aebb53ea6608.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:11",
+  "landing_meta": "Superset - Run 10+ parallel coding agents on your machine — Run 10+ parallel coding agents on your machine. Spin up new coding tasks while waiting for your current agent to finish. Quickly switch between tasks as they need your attention.",
+  "landing_text": "Superset - Run 10+ parallel coding agents on your machine The Code Editor for AI Agents. Orchestrate 100+ coding agents in parallel. Works for any agents. Built for the AI era. Download for macOS Download View on GitHub Workspaces Automations New Workspace desktop 5 ⠋ new workspace creating ⠋ use any agents + 46 − 1 create parallel branches + 193 see changes + 394 − 23 open in any IDE + 33 forward ports + 127 − 8 cloud 3 mobile 1 cli 2 ⌥ Ports 4 use any agents 3002 see changes 3000 3001 5678 claude codex cursor opencode copilot amp gemini Open Run * ▐▛███▜▌ * * ▝▜█████▛▘ * * ▘▘ ▝▝ * Claude Code v2.0.74 Opus 4.5 · Claude Max ~/.superset/worktrees/superset/cloud-ws ❯ /mcp MCP Servers 1 connected ❯ 1. superset-mcp ✓ connected config: .mcp.json ❯ Type a task for Claude… ❯ superset new ⠋ Setting up new parallel environment... → create worktree → install deps → ready shell PR #827 Files Changes Review use-any-agents +1,128 −98 · 10 files · main packages/db/src/schema cloud-workspace.ts + 119 enums.ts + 21 apps/desktop/src/renderer CloudTerminal.tsx + 169 useCloudWorkspaces.ts + 84 LegacyTerminalPane.tsx − 42 WorkspaceSidebar.tsx + 14 apps/api/src/trpc/routers ssh-manager.ts + 277 index.ts + 7 cloud-workspace.ts enums.ts +4 @@ -1,4 +1,6 @@ 1 import { db } from \"../db\" + import { CloudWorkspace } from \"./types\" + import { createSSHConnection } from \"./ssh\" 2 − export const getWorkspaces = () => { + export const getWorkspaces = async () => { 4 return db.query.workspaces Approve Comment Cursor — index.ts src index.ts utils.ts types.ts import { Agent } from \"ai\" │ const agent = new Agent ( { model: \"claude-4\" , tools: [tools.read, tools.write] } ) Use Any Agents Create Parallel Branches See Changes Open in Any IDE Trusted by builders from Parallel Execution Run dozens of agents at once Launch multiple AI coding agents across different tasks. Work on features, fix bugs, and refactor code — all in parallel. Superset In Progress 3 Analyze Tab vs Ag",
+  "pricing_signals": [
+    "pricing",
+    "$1",
+    "$14"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:12",
+  "description_ja": "100以上のCLIコーディングエージェント (Claude Code, Codex等) をローカル/リモートマシン上で並列実行するエージェント中立IDE。git worktreeで隔離。",
+  "summary_ja": "Superset 2.0は、Claude Code/Codex/Cursor等のCLIエージェントを多数並列で動かすためのエージェント中立IDE。各タスクをgit worktreeで隔離し、ローカルだけでなくリモートマシンにも処理をオフロード可能。レビュー/diff、ポートフォワード、MCP対応、チームコラボを統合。AI usage料金はユーザー自身のAPIキー経由で発生する透明モデル。",
+  "tldr_ja": "Claude Code/Codex等を100+並列で回す中立IDE。worktree隔離とリモート機が肝、AI料金は自前APIキー直払いで透明。",
+  "review_guide_ja": {
+    "what": "CLIコーディングエージェント (Claude Code, Codex, Cursor Agent, OpenCode, Aider, Gemini CLI等) を1ホスト上で同時に多数走らせ、各々をgit worktreeで完全隔離するエージェントオーケストレータ兼IDE。v2.0でリモートワークスペース(SSH)対応とAutomations/CLI/MCP刷新を追加し、ノートPCの物理限界を超えた並列度を実現する。",
+    "for_who": "Claude Code/Codexヘビーユーザーの個人開発者および5-50人規模のスタートアップ開発チーム。1人で複数featureを同時進行するパワーユーザー、AI駆動開発に本格コミット済みの層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Electron級デスクトップアプリ+SSHリモート実行基盤+各種エージェントCLI統合+MCP+リアルタイム協調と機能面が広く、UX完成度も高いため個人で同等を作るには工数大。"
+    },
+    "signals": [
+      "PH 472 upvotes / 48 comments と開発者向け新興としては強い反応",
+      "YC出身、Claude Code/Codexヘビーユーザーから乗り換え報告が複数",
+      "1ユーザーで30+ worktreeを日常使用する高エンゲージユーザーがいる",
+      "Conductor/Crystal/Vibe Kanban/Claude Squad等の競合がHN/Zennで頻出=カテゴリ自体が成立",
+      "日本でもgit worktree並列開発はFindy/YOUTRUST等で社内ツール化が進む"
+    ],
+    "concerns": [
+      "Cursor/Claude Code/Vibe Kanban/Conductor等強力なFOSS含む競合が密集",
+      "Claude Code/CodexのCLI自体に並列worktree機能やTUIが追加されるリスク",
+      "macOSダウンロード中心で日本のWindows比率に弱い可能性",
+      "本体無料でTeam $15/seatのため個人開発者からの直接収益は限定",
+      "SSH越しソースコード送信は大手SIerや金融案件で社内規定上ハードル"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本のGitHub開発者450万人/AI貢献世界4位。git worktree並列開発はFindyやYOUTRUST等の事例も増加中で、Claude Code/Codexのヘビーユーザー層に潜在需要は明確に存在する。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Cursor/Claude Code純正/Vibe Kanban(OSS)/Conductor/Claude Squad/Crystal等が密集。日本語コミュニティでもVibe Kanban+Codex組合せが既に評価されており、後発参入の差別化余地は狭い。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "ローカル実行が主用途なら個人開発者にはほぼ規制負荷なし。ただしリモートワークスペース機能を企業利用する場合は社内ソースコード持出規程・委託先管理(改正個人情報保護法)に抵触するケースあり。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "対象ユーザーが英語耐性の高い開発者であるため致命的ではないが、UI/ドキュメント日本語化、Zenn/Qiitaでの導入記事整備は未着手で参入余地はある。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業の開発環境は社内ネットワーク前提・SSH外向き禁止が多く、リモートワークスペースの法人導入は障壁。個人/スタートアップ層では商慣習的問題は小さい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Cursor",
+        "url": "https://cursor.com",
+        "note": "日本でも開発者の主流IDE化。AI Agent機能も拡張中で直接競合する場面が多い。"
+      },
+      {
+        "name": "Claude Code (公式)",
+        "url": "https://code.claude.com",
+        "note": "本家がworktreesドキュメントを日本語整備済み。並列実行の純正ワークフローが追いつくと参入余地縮小。"
+      },
+      {
+        "name": "Vibe Kanban",
+        "url": "https://github.com/BloopAI/vibe-kanban",
+        "note": "OSS。日本語のZenn/Qiita/note記事多数。カンバンUIで複数エージェント管理。料金ゼロが脅威。"
+      },
+      {
+        "name": "Conductor",
+        "url": "https://www.conductor.build/",
+        "note": "macOSネイティブの並列エージェント管理。Superset直接競合で日本のmac開発者層を奪い合う。"
+      },
+      {
+        "name": "Phantom CLI / git-worktree-runner",
+        "url": "https://github.com/aku11i/phantom",
+        "note": "日本人開発者発のworktree管理CLI。軽量・無料でCLI派に支持。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "改正個人情報保護法 (委託先監督)",
+        "impact": "企業ソースコードを米国SaaSのリモートワークスペースに送信する場合、委託先管理・越境移転同意が必要となり法人売りに障壁。"
+      },
+      {
+        "law": "経産省 クラウドサービス利用ガイドライン",
+        "impact": "上場企業・金融案件では機密情報持出禁止・国内DCリージョン要件があり、Supersetのremote workspace機能はそのままでは導入不可なケース多い。"
+      }
+    ],
+    "opportunity": "Supersetそのものを日本展開するより、日本の個人開発者向けに『git worktree×Claude Code並列開発』の軽量GUIラッパー(無料/OSS)を作り、Zenn/Qiita/X経由でmindshareを獲得、後にチーム向け有料機能(社内DCで完結するMCPサーバ管理、日本語タスク管理連携)で収益化する戦略が現実的。Supersetのリモートワークスペース部分を国内DC完結型で再実装するニッチも候補。",
+    "rationale": "需要は確実に存在し増加中で、日本の開発者コミュニティでも並列AI開発の話題は急速にメインストリーム化している。ただしカテゴリ自体は世界レベルでホットで、Cursor/Claude Code純正/Vibe Kanban等の競合が既に日本語コミュニティに浸透。本家Supersetも英語のまま流入してくる構造のため、watch相当。日本市場特化のローカライズや国内DC完結型の差別化があれば局所的に勝てるが、ゼロから真っ向勝負はskip寄り。"
+  },
+  "business_viability": {
+    "business_viability_score": 6,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "本体個人無料/チーム$15-20/seatのモデルで、AI usageの転嫁もしない透明型。粗利は薄く、個人開発者ユーザーからの直接収益はほぼゼロでチーム/エンタープライズ依存。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "日本のGitHub開発者450万人、AI駆動開発実践層は数十万人規模に拡大中。グローバルではさらに大きく、有料転換率1-3%でも数十億円市場は射程内。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "OSS/フリーミアム+Zenn/Qiita/X発信は再現性のある王道GTM。ただしSupersetはYC支援で先行しており、日本ローカル後追いは時間との勝負。"
+      },
+      "timing": {
+        "score": 8,
+        "reason": "Claude Code/Codexの並列実行ニーズが顕在化した直後で、worktreeベース並列開発が日本でも2026年初頭にメインストリーム化中。タイミングは強い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "デスクトップ+SSH基盤+各種エージェント追従+MCPサーバ+リアルタイム協調と機能面の保守負荷が極めて高く、1人ではエージェント追従だけで疲弊する。"
+      }
+    },
+    "rationale": "市場成長とタイミングは強いが、収益化の単価が低くチームプラン依存。さらに保守負荷が個人開発者には重い。日本固有のローカル戦略(国内DC完結リモート、日本語UI/ドキュメント、Zenn/Qiita中心の発信)に絞り込めば局所収益はあり得るが、Supersetのフル機能再現はsolo不向き。limited scopeの小さなOSS+チーム機能のフリーミアムが現実解。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1800,
+      "plans": [
+        "Free: 個人利用、ローカルworktree並列実行、エージェント連携、無制限",
+        "Pro ¥1,800/月: クラウド同期、Automations、優先サポート、MCP拡張",
+        "Team ¥2,500/seat/月: チーム共有ワークスペース、SSO、監査ログ",
+        "Enterprise 個別: 国内DC完結リモートワークスペース、SLA"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Claude Code/Codexを業務利用する日本の個人開発者および5-50人規模の開発チーム所属エンジニア",
+      "target_count": 80000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 720000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiitaに『Claude Code並列実行ベンチ・worktree GUI比較』記事連載で検索流入を獲得",
+      "Xで日本のClaude Codeインフルエンサー(npaka/erukiti等の層)に無償ライセンス配布し言及獲得",
+      "OSS核を公開しスター獲得→Pro機能で収益化のフリーミアム",
+      "Findy/サイボウズ等の社内worktree並列事例企業に直接DMでヒアリング→共同事例化",
+      "Product Hunt JP/PRTimes同時ローンチで初動メディア露出"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Claude Code/Codex純正がworktree並列TUIを公式実装した時点で価値が消失",
+      "Vibe Kanban等のOSS無料競合が日本語コミュニティで既に先行しmindshare取得済み",
+      "デスクトップ+SSH+多数エージェント追従の保守工数が個人キャパを超える",
+      "日本企業のソースコード越境移転規制でリモートワークスペース機能の法人売りが進まない",
+      "Superset本家英語版がそのまま日本に浸透し、ローカルプレイヤーの参入余地が消える"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 6,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z",
+  "japan_fit_skill_version": "research-japan-fit/1.0"
+}

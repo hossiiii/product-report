@@ -1,0 +1,229 @@
+{
+  "name": "Monid 2.0",
+  "description": "OpenRouter for agent tools",
+  "ph_url": "https://www.producthunt.com/products/monid/launches/monid-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/RGRECF5QMV23LX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-08T07:01:00Z",
+  "upvotes": 489,
+  "comments": 25,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence",
+    "YC Application"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey PH 👋 I'm Shengkun, co-founder of Monid.<br><br>Some of you saw us launch 15 days ago as \"wallet for agents.\" Yes, we're back so soon. We've been shipping fast.<br><br><strong>Since then, agents have made 3,000+ purchases through us.</strong> They're buying APIs to scrape social media, blockchain data to monitor wallets, and people data APIs to source talent.<br><br>But holding money in a wallet is only the first step. <br><br>Today, we're introducing <strong>Monid 2.0: OpenRouter</strong> <strong>for agent tools. </strong>With Monid 2.0, your agents can:</p><ul><li><p>Discover different services and compare them easily</p></li><li><p>Use APIs and tools on demand</p></li><li><p>Run under budget controls that you set</p></li></ul><p></p><p>With Monid, your agent can tap into powerful premium tools to:</p><ul><li><p>Access every major social platform including TikTok, Facebook, Instagram, X, LinkedIn, Reddit, and YouTube</p></li><li><p>Search and enrich people across platforms with verified contact details</p></li><li><p>Find B2B leads with LinkedIn profiles, jobs, and company firmographics</p></li><li><p>Pull product, pricing, and review data from Amazon, Google Shopping, and global retailers</p></li><li><p>Track on-chain activity, trending tokens, and prediction markets like Polymarket and Kalshi</p></li><li><p>Extract structured content from any URL on the web</p></li></ul><p><br>We also shipped MCP support. You can use Monid in any platform now, including Claude.ai, Claude Desktop, Claude Code, Cursor, Windsurf, OpenClaw, Hermes Agent, and more.<br><br>Get started:</p><pre><code>set up <a href=\"https://monid.ai/SKILL.md\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://monid.ai/SKILL.md</a></code></pre><p><br>Everyone here gets $1 in free credits. Try it and let me know what your agent does with it.</p><p>We'll be around all day to answer questions!</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "A lot of teams already cobble this together with a mix of RapidAPI for general APIs and Apify/PhantomBuster-style scrapers for data—what’s the concrete breaking point that makes them switch to Monid, and which parts of that DIY stack do you replace vs deliberately not replace?",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Whats the top 3 paied tools offered on your platform? \"Tool registry coming soon 😅\"</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "One skill, every tool your agent needs. Monid is OpenRouter for agent tools. Plug in once, and your agent can discover, compare, and pay for any of 200+ tools on demand: social scrapers, search APIs, ecommerce data, lead gen, and more.",
+  "featured_at": "2026-05-08T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a1760f0d-d140-447f-8050-ce9cee137b9c.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/726a1f1e-3a5f-44ea-ac4c-ab75c3a3e6ea.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/35d225e1-6b49-45d2-9a63-e87bea4601d5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d33a128f-e8da-4f71-8703-ece5463908ec.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f6594093-731d-413b-ad8d-4783d37c4142.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/66a75c2c-3c3d-413d-a2c1-f938ed9f126e.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:04",
+  "landing_meta": "Monid — One skill. Every tool your agent needs. — Monid is an agent-native router for tool calls. Your agent describes what it needs, Monid discovers the right endpoint and routes the call — metered under a single balance.",
+  "landing_text": "Monid — One skill. Every tool your agent needs.",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-24T20:33:05",
+  "description_ja": "AIエージェント向けのツール・APIルーター。1つの残高で200以上の外部APIを発見・比較・従量課金で利用できる、エージェント版OpenRouter。",
+  "summary_ja": "Monid 2.0は、AIエージェントが必要なツールやAPI（SNSスクレイパー、検索、人物データ、Eコマース、オンチェーンデータ等）を1つの統合インターフェースから発見・呼び出し・課金できるルーター。MCPに対応しClaude/Cursor/Windsurf等から利用可能。200以上のツールを単一残高でメータリング、予算制御で安全に運用できる。エージェント時代の「ツール調達」レイヤを担う位置づけ。",
+  "tldr_ja": "エージェント版OpenRouter。1つの残高で200以上のツールAPIを発見・比較・従量課金で呼び出せるMCP対応ルーター。",
+  "review_guide_ja": {
+    "what": "AIエージェントが外部ツール/APIを呼び出す際の統合ルーター。1アカウント1残高で200+のAPI（SNSスクレイピング、人物検索、B2Bリード、Eコマースデータ、オンチェーン、Web抽出など）を発見・比較・呼び出しでき、MCP経由でClaude Code/Cursor/Windsurf等のクライアントから直接利用可能。予算上限を設定してエージェントの暴走を防ぐ。",
+    "for_who": "AIエージェント/自律ワークフローを構築する開発者・小規模チーム。複数のAPIキー管理や個別契約を避けたい個人開発者。MCPクライアント（Claude Code, Cursor等）のヘビーユーザー。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "200+ツールの審査・卸契約・課金精算の交渉、低レイテンシのルーティング、MCPサーバ運用、不正利用検知が必要で、個人開発の単独実装は困難。"
+    },
+    "signals": [
+      "15日間で3,000+のエージェント購入実績を主張",
+      "MCP対応で主要クライアント(Claude/Cursor/Windsurf)に即接続",
+      "PHで489 upvotes/25コメント、YC Applicationタグ",
+      "AIエージェントの自律ツール調達という明確なトレンドに乗る"
+    ],
+    "concerns": [
+      "RapidAPI/Apify/Composio/Pipedreamなど強力な既存プレイヤーと正面競合",
+      "ツールカタログ未公開（『coming soon』）でロックインがまだ弱い",
+      "200+ツールの品質・SLA担保とサプライヤ離脱リスク",
+      "ツール提供者がOpenRouter類似プラットフォームに分散する可能性"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "国内でもMCP・Claude Code・Cursorの個人開発者利用は急増中だが、エージェントに外部APIを自律購入させるユースケースはまだニッチ。需要の中心は米国市場で、日本はフォロワー段階。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Rakuten RapidAPI(国内展開有)、Composio、Pipedream、各クラウドのエージェントマーケットプレイス(AWS/GCP/Microsoft)など競合多数。MCPツールも14,000超で個別接続も容易化している。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "エージェントが残高を持って自律購入する仕組みは資金決済法の前払式支払手段(第三者型)に該当する可能性があり、財務局登録や残高供託義務などの規制対応が必要となるリスクがある。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI/ドキュメントの日本語化と、日本特有のデータソース(国内SNS、ECサイト、求人サイト等)の追加が必要。MCP自体は言語非依存だが提供ツールが英語圏中心。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業はクレジット課金より月額固定・請求書払い・年間契約を好む傾向。エージェントの自律購入は社内稟議・経費精算の運用に馴染みにくい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Rakuten RapidAPI",
+        "url": "https://api.rakuten.co.jp/",
+        "note": "10,000+ APIを擁する国内向けAPIマーケットプレイス。20%手数料モデル。エージェント特化ではないが汎用ルーターとして競合。"
+      },
+      {
+        "name": "Composio",
+        "note": "900+ toolkitsを持つエージェント統合プラットフォーム。MCP対応で世界的に先行。日本でも認知拡大中。"
+      },
+      {
+        "name": "Pipedream",
+        "note": "$20M調達済みのワークフロー自動化基盤。API統合・エージェント向けも展開。"
+      },
+      {
+        "name": "Dify",
+        "note": "国内人気のエージェント開発プラットフォーム。マーケットプレイスでLLMとツール統合を提供。"
+      },
+      {
+        "name": "AWS Marketplace AI Agents/Tools",
+        "url": "https://aws.amazon.com/jp/about-aws/whats-new/2025/07/ai-agents-tools-aws-marketplace/",
+        "note": "MCP/A2A対応のエージェント・ツール調達基盤。エンタープライズで先行。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "資金決済法（前払式支払手段）",
+        "impact": "クレジットを事前購入してエージェントが各種APIを購入する仕組みは第三者型前払式支払手段に該当する可能性があり、財務局への登録、残高供託（未使用残高の50%）、利用者保護義務などが発生し得る。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "人物データAPI/B2Bリード/SNSスクレイピングをエージェント経由で取得する用途は、第三者提供・要配慮個人情報の取扱いで違反リスクが高い。"
+      },
+      {
+        "law": "著作権法・不正競争防止法",
+        "impact": "TikTok/Instagram/Amazon等のスクレイピングは各社利用規約違反かつ国内判例上のリスクあり。データベース著作権侵害の可能性。"
+      }
+    ],
+    "opportunity": "日本市場固有チャンスは限定的。差別化するなら(1)国内SaaS/EC/求人/SNSの公式APIを束ねた『日本特化ツールルーター』、(2)請求書払い・社内承認フロー対応のエンタープライズ向けゲートウェイ、(3)国内MCPツール開発者向けの収益化プラットフォームの3方向。本家Monidは英語圏向けで、国内はWatchが妥当。",
+    "rationale": "MCPやエージェント自律実行のトレンドは国内でも追い風だが、(a)競合過密(RapidAPI/Composio/Pipedream/各クラウド)、(b)スクレイピング系APIの法的リスク、(c)エージェントによる自律購入が前払式支払手段に抵触する可能性、(d)日本企業の請求書文化との不整合により、本家Monidを日本展開しても勝ち目は薄い。模倣する場合も法務・調達コストが個人開発レベルを大きく超える。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "従量課金にマージンを乗せる明快なモデル。MCPツール呼び出しごとに10-20%手数料が現実的。残高プリペイドでキャッシュフロー良好。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "世界のエージェント市場は急成長中だが、日本国内でエージェントに自律購入させる開発者数は数千-1万規模と推定。リーチ可能ARPU×件数は限定的。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "B2D(developer)向け。MCPカタログ掲載・GitHub・Zenn/Qiitaでの露出が主だが、国内開発者は無料LLM API+自前統合で済ませる傾向。教育コストが高い。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "MCPサーバが14,000超に急増し、エージェントツール市場の黎明期。今後2年が標準化レースのウィンドウ。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "200+ツール調達・卸契約・SLA監視・不正検知・課金精算・MCP運用は個人/小規模チームでは継続困難。サプライヤサイドの営業も必要。"
+      }
+    },
+    "rationale": "課金モデルとタイミングは魅力的だが、サプライサイド(ツール提供者)とデマンドサイド(エージェント開発者)の両面市場を回す必要があり、ソロ運用は実質不可能。日本市場単独ではARPU×件数も小さく、本気でやるなら米国主軸で日本は後追いが現実解。模倣事業として個人開発で着手するのは推奨しない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 8000,
+      "plans": [
+        "Free: $1相当の初期クレジット、月10呼び出しまで",
+        "Pay-as-you-go: 各ツール価格+15%手数料、月額固定なし",
+        "Pro: 月額¥3,000で5%割引+優先ルーティング+詳細ログ",
+        "Team: 月額¥15,000で予算管理・複数メンバー・請求書払い",
+        "Enterprise: 個別見積、SLA・SSO・専用サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内のAIエージェント・自律ワークフローを構築する個人開発者および小規模SaaSスタートアップ(Claude Code/Cursor/Difyヘビーユーザー層)",
+      "target_count": 8000,
+      "capture_pct_year3": 3,
+      "monthly_revenue_target_jpy": 1920000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita/note でMCP活用記事を継続発信し開発者リードを獲得",
+      "Claude Code/Cursor/Dify公式マーケットプレイスへのMCPツール掲載",
+      "国内エージェントハッカソン・PyCon JP/builderscon等でブース展開",
+      "国産LLM(tsuzumi/cotomi/PLaMo)との接続デモで差別化",
+      "国内SaaS API(freee/マネーフォワード/SmartHR等)の公式コネクタ提供"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "資金決済法の前払式支払手段該当による登録・供託義務でコンプライアンスコストが個人開発レベルを超える",
+      "RapidAPI/Composio/AWS Marketplace等の巨大競合に対しサプライサイドで負ける",
+      "スクレイピング系APIの提供は規約違反・著作権・個人情報保護で法務リスク",
+      "ツール提供者の品質ばらつき・障害時のサポート負荷が膨大",
+      "MCP標準化が進むほど中抜きされ、ルーター層の価値が希薄化"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_analyzed_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0.0"
+}

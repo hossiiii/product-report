@@ -1,0 +1,220 @@
+{
+  "name": "Plurai",
+  "description": "Vibe-train evals and guardrails tailored to your use case",
+  "ph_url": "https://www.producthunt.com/products/plurai/launches/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/2SG5VACZQUBMO7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-29T07:01:00Z",
+  "upvotes": 775,
+  "comments": 228,
+  "topics": [
+    "API",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt, Ilan from Plurai here.<br></p><p>We spent the last year on a research problem: can you train a production-grade eval or guardrail from just a task description, no labeled data, no annotation pipeline?</p><p>Turns out you can. We call it <strong>vibe-training</strong>.<br></p><p>Most teams today rely on LLM as a judge. It never fully converges, breaks on edge cases, and at 100ms per call it collapses economically at scale. So teams sample instead of evaluating everything. Failures happen between the samples, invisibly.<br></p><p>Plurai lets you describe what your agent should and should not do. The platform generates training data, validates it through a multi-agent debate process, and deploys a custom small language model in minutes.<br></p><p>Results against GPT-5 LLM-as-judge: over<strong> 43%</strong> fewer failures, <strong>8x</strong> lower cost, sub <strong>100ms</strong>. <br>Good enough to run on every interaction, not just a sample.<br></p><p>The research behind it is public.</p><p>Try it free at <a href=\"https://app.plurai.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://app.plurai.ai</a>, I'd love to hear what eval problem you're working on.</p>",
+      "votesCount": 41,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This team just coined the concept of vibe-training: real-time, tailored evals for your AI agents, with high accuracy, at a fraction of the cost.</p><p></p><p>Brilliant.</p>",
+      "votesCount": 17,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>the 'LLM as judge breaks at 100ms per call' pain is exactly where most eval pipelines silently rot. you end up with a sampling regime nobody actually trusts. the part i'm curious about is calibration in the wild: when the small model and the original llm-judge disagree on a real production trace, who do you trust, and how do you surface that disagreement to the team? that's usually where these systems either become real or quietly shelfware.</p>",
+      "votesCount": 12,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Vibe training for AI agent reliability. Describe what your agent should and should not do — Plurai generates training data, validates it, and deploys a custom model in minutes. It feels like vibe coding, but for evaluation and guardrails. No labeled data. No annotation pipeline. No prompt engineering. Under the hood, small language models deliver sub 100ms latency, 8x lower cost than GPT as judge, and over 43% fewer failures. Always on, not sampled. Built on published research (BARRED).",
+  "featured_at": "2026-04-29T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/e87131be-1490-4ed2-a291-5f91da603996.png",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/9e34553a-efc6-42a4-bf4a-d9d7e327d2fb.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/0d996f39-2e2d-46c7-b3a7-53800e7f675b.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/b738f0ef-6d67-4433-8a79-68a718f601f1.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/60530eb0-03dc-41db-b6f0-d79fb6f67b81.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/7972797a-58b5-4806-8e7b-defef93111b7.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/fd43b9f8-0582-4a93-a64e-1c1677041b14.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/1c027ace-8a70-4dc9-a39d-f503429eb8b7.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/924e7f99-a4b9-4543-bb31-ce932e3154bd.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:26",
+  "landing_meta": "Vibe-Training Platform for AI Evals & Guardrails | Plurai — Build real-time, tailored evals and guardrails with vibe-training. Reduce failure rates by 43% and costs by 8x vs GPT. Production-grade accuracy at <100ms.",
+  "landing_text": "Vibe-Training Platform for AI Evals & Guardrails | Plurai The first vibe-training platform for evals and guardrails Plurai introduces vibe-training to build real-time, tailored evals and guardrails for your agent, with high accuracy at a fraction of the LLM cost Get started Get started *No credit card required Eval Guardrail Classifier Failure rate reduction vs GPT 5.2 >43% Read our paper Cost reduction vs GPT 5.2 >8x See for yourself Inference latency <100ms Test our public FAQ How do I use the evals and guardrails on my agents? You can use our models across a wide range of semantic tasks, including conversation evaluation, semantic similarity, grounding validation, policy compliance, and more. Explore our use case catalog to see what’s possible How is that different from the evals I already have? Plurai uses a proprietary intent calibration process to deeply understand your task and generate a high-quality testing set and consistent evaluator. This enables production-grade evals and guardrails powered by optimized small language models (SLMs), which are far more cost-efficient and scalable than traditional LLM-as-judge approaches that are expensive and difficult to run at full production coverage. Can you do this on prem? Sure, Plurai can be deployed in your VPC for maximum security, data control, and even lower latency. Contact us to discuss your infrastructure and deployment requirements. What makes your SLMs so accurate and cost-effective? Plurai’s SLMs are purpose-built for your specific tasks through our intent calibration and synthetic data generation process. We don’t require prior labeled data. If you don’t have historical datasets, we generate high-fidelity synthetic data tailored to your use case. By training and optimizing evaluators on highly targeted datasets instead of relying on general-purpose LLMs, we achieve high accuracy with far lower latency and cost. The result is production-grade coverage you can run continuously without the expense of tradi",
+  "pricing_signals": [
+    "open source",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:26",
+  "description_ja": "タスク記述だけで専用の小型言語モデル（SLM）を訓練し、AIエージェントの評価とガードレールを<100msで実行できるVibe-Trainingプラットフォーム。",
+  "summary_ja": "Pluraiは「やってほしいこと/やってはいけないこと」を自然文で記述するだけで合成データ生成・多エージェント討論による検証・カスタムSLMの自動デプロイまで行うLLMOpsツール。GPT-5 LLM-as-judge比で失敗43%減・コスト1/8・100ms未満を実現し、サンプリングではなく全トラフィックでのリアルタイム評価とガードレールを可能にする。",
+  "tldr_ja": "タスク記述からSLM自動訓練で100ms未満・1/8コストのLLM評価&ガードレールを実現するLLMOps SaaS。",
+  "review_guide_ja": {
+    "what": "ユーザーがエージェントの仕様（許可/禁止行動）を自然文で記述すると、合成データ生成→マルチエージェント討論による検証→専用SLMの訓練・デプロイまでを数分で自動化するLLM評価・ガードレールSaaS。LLM-as-judge方式の遅さ・高コスト・収束性問題を解決し、本番トラフィックの100%を常時評価する『Always on』運用を可能にする。VPC/オンプレ展開にも対応。",
+    "for_who": "LLM/AIエージェントを本番運用する開発チーム、特にコスト・レイテンシ制約で全件評価を諦めサンプリングに頼っているSaaS事業者、規制対応で出力監査が必要なエンタープライズAI開発者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "合成データ生成と多エージェント討論パイプライン、SLM最適化のノウハウは公開論文(BARRED)ベースだが、本番品質に到達する実装と運用は重い研究投資が必要。"
+    },
+    "signals": [
+      "PH 775 upvotes / 228 comments は同カテゴリ平均の3倍以上で関心が高い",
+      "公開論文(BARRED)に基づく技術的正当性",
+      "8x コスト削減・<100ms というメトリクスが具体的で検証可能",
+      "VPC/オンプレ展開対応で大企業ニーズに合致",
+      "Galileo/Future AGI/Arize 等の競合が同時に伸びておりカテゴリ自体が成長中"
+    ],
+    "concerns": [
+      "LLM-as-judge との不一致時の信頼判定をどう運用するか未確立(top_commentで指摘)",
+      "日本語タスクでの精度・トーン検出の検証データが未公開",
+      "SLMカスタム訓練の評価カバレッジが想定外ケースで劣化するリスク",
+      "個人開発者が同じ機能を再構築するには合成データ品質と評価器収束ノウハウが障壁",
+      "国内ではchakoshi等の日本語特化競合が先行"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本のLLM/SLM APIサービス市場は2025年度357億円→2029年度1,300億円見込み。AIエージェントの本番運用フェーズ移行で評価・ガードレール需要は急伸中。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "NTTドコモ chakoshi(日本語特化、無料)、リコーのガードレールモデル、Langfuse/LangSmith(ZOZO・Pairs・KDDI等が導入済)が先行。海外勢Galileo/Arizeも国内営業強化中。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "AI事業者ガイドライン第1.2版でAIエージェントのリスク評価が明示。個情法改正でAI学習データ利用も整備中。規制対応需要は追い風だが、合成データの個情法上の取扱いに注意要。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "現状UI/ドキュメント英語のみ。日本語の敬語・婉曲表現・業界用語の評価精度は未検証。chakoshi等の日本語特化勢に対し合成データ生成品質で勝つには相当の追加投資が必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業はPoC→本格運用への移行期で評価基盤需要は強いが、SIer経由の伴走型導入・オンプレ要求・稟議文化が強くセルフサーブSaaSの単独導入は苦戦しがち。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "chakoshi (NTTドコモビジネス)",
+        "url": "https://chakoshi.ntt.com/",
+        "note": "日本語特化LLMガードレール。gemma-2-9b-itベース、F1>0.92、GENIAC-PRIZE2位、無料試用可。"
+      },
+      {
+        "name": "Langfuse (国内導入多数)",
+        "url": "https://langfuse.com/",
+        "note": "OSS LLMOps。ZOZO/Pairs/KDDI/Caratがセルフホスト導入。データ主権要件に強い。"
+      },
+      {
+        "name": "リコー ガードレールモデル",
+        "url": "https://jp.ricoh.com/release/2025/1225_1",
+        "note": "日本語性能特化のセーフガードモデル。他社製比較で高F1スコア。"
+      },
+      {
+        "name": "W&B (NTTドコモビジネス連携)",
+        "url": "https://openhub.ntt.com/journal/14673.html",
+        "note": "日本語ガードレール×LLMOps基盤として国内大手と連携実績。"
+      },
+      {
+        "name": "GMOサイバーセキュリティ byイエラエ",
+        "url": "https://gmo-cybersecurity.com/service/assessment/llm/",
+        "note": "LLMセキュリティ診断。OWASP LLM Top10準拠。診断サービス型で競合領域は限定的。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "AI事業者ガイドライン 第1.2版 (2026年改訂)",
+        "impact": "AIエージェント・フィジカルAIのリスク評価手法が追記。リスクベースアプローチが具体化され評価・ガードレール導入の経営アジェンダ化が進む。"
+      },
+      {
+        "law": "個人情報保護法 (2025年改正検討)",
+        "impact": "要配慮個人情報のAI開発目的利用が一部緩和方向だが、合成データ生成・本番ログを評価データに使う場合は同意・匿名加工・第三者提供制限の整理が必須。"
+      },
+      {
+        "law": "OWASP Top 10 for LLM Applications 2025",
+        "impact": "国内セキュリティベンダーの診断基準として浸透。Pluraiのガードレールが項目別カバレッジを示せれば導入根拠になる。"
+      }
+    ],
+    "opportunity": "国内では日本語ガードレールはchakoshi優位だが、エンタープライズ向け『カスタム評価器をタスク記述から自動生成』『全件常時評価』ポジションは空いている。製造業・金融のオンプレ志向と相性が良く、SIerと組んだVPC展開で差別化可能。逆に個人開発者がゼロから同様のSaaSを作るのは技術的・市場的に難度高。",
+    "rationale": "需要・規制は追い風だが、(1)日本語特化勢chakoshiの無料提供、(2)Langfuse系OSSの定着、(3)海外Galileo/Arizeの参入、で競合密度が高い。本家Pluraiの日本展開を待つ『watch』が妥当。個人開発者がこれを真似るより、Pluraiや競合の日本ローカライズ代行・SIer向けインテグレーション・日本語特化評価データセット販売など周辺市場で勝負する方が現実的。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "本家価格は1eval<$1+1Mトークン、Business tierはオンプレ・SSO・カスタムSLA。エンタープライズARPUは月10〜50万円規模が見込めるが、個人開発者複製版ではOSS無料勢との差別化が課題。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内LLM APIサービス市場2029年度1,300億円。LLM運用企業を1,000社と仮定すると評価/ガードレール周辺で年数十億円規模だが、上位は大手SIer・既存ベンダーが寡占しやすい。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "エンタープライズ向けはSIer経由の長期営業が前提。個人開発者がPLGで攻めるにはOSS版や日本語特化ニッチ(業界用語/敬語評価)など差別化必須。技術系コンテンツSEOで認知獲得は可能だが受注までの転換率は低い。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "AIエージェント本番運用元年で評価/ガードレール需要急伸。Gartner予測で2028年までに日本企業60%がAIエージェント活用。今後1〜2年がWindow。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "SLM訓練パイプライン・合成データ品質保証・マルチエージェント討論の運用は研究グレード。GPU運用コストとSLA要求もあり個人開発者の本業継続レベルでは破綻リスク大。"
+      }
+    },
+    "rationale": "市場・タイミングは強いが、本機能を個人開発者が単独で再現するには研究・GPU・営業すべてが重い。日本独自ニッチ(日本語業界用語ガードレール、SIer向け評価データセット作成補助ツール、Pluraiラッパー)に絞れば可能性はあるが、本家コピーは非推奨。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 80000,
+      "plans": [
+        "Free: 月100件評価、1モデル、公開ベンチのみ",
+        "Pro: 月3万円、5モデル・10万件評価、Slack/Discord通知",
+        "Team: 月8万円、無制限モデル・100万件評価、VPC接続、SSO",
+        "Enterprise: 月30万円〜、オンプレ展開・カスタムSLA・専任サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "LLM/AIエージェントを本番運用する日本のSaaS事業者・大企業AI部門で、評価・ガードレールを内製しサンプリング運用に課題を抱えるチーム",
+      "target_count": 2000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 2400000
+    },
+    "recommended_gtm": [
+      "日本語業界特化評価データセット(金融・医療・法律)で差別化したニッチPLG",
+      "AWS/GCP Marketplace掲載でエンタープライズ調達の摩擦削減",
+      "chakoshi/Langfuse連携プラグインを提供しエコシステム取込み",
+      "SIer(NTTデータ・伊藤忠テクノソリューションズ等)とのアライアンス",
+      "技術ブログ・日本語ガードレールベンチマーク公開で開発者認知獲得"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "chakoshi(無料)とLangfuse(OSS)に対する有料価値訴求が困難",
+      "SLM訓練・運用GPUコストが個人開発者のキャッシュフローを圧迫",
+      "Plurai本家・Galileo・Arize等の本格的な日本進出で短期に差別化喪失",
+      "合成データ・本番ログ使用時の個情法・著作権リスクの法務負担",
+      "エンタープライズ営業の長期化(平均6〜12ヶ月)で資金繰り破綻"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_evaluated_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0"
+}

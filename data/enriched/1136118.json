@@ -1,0 +1,200 @@
+{
+  "name": "Zed 1.0",
+  "description": "High-performance, open source, multiplayer code editor",
+  "ph_url": "https://www.producthunt.com/products/zed/launches/zed-1-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/UKEMMK6DO2KIXA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-01T07:01:00Z",
+  "upvotes": 366,
+  "comments": 14,
+  "topics": [
+    "Open Source",
+    "Text Editors",
+    "Developer Tools",
+    "GitHub"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "How does it handle merge conflicts in real time when two people edit the same line?",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The Rust-native approach genuinely shows in day-to-day use, especially when you have agents running in parallel. Most editors start choking under that load. Curious how the multiplayer collab works when one person is also running an agent, do their edits and the agent edits come through the same channel?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hadn't heard of Zed before today but the engine design caught my attention. Building on Rust instead of Electron solves a class of performance problems most editors just accept as given. How does the collaborative sync actually behave on large files, that's the first thing I'd test before switching anything.</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Fast — Written from scratch in Rust to efficiently leverage multiple CPU cores and your GPU. • Agentic — Run agents in parallel to smoothly edit files, navigate code, and run tools at native speed. • Collaborative — Chat with teammates, code together, and share your screen and project.",
+  "featured_at": "2026-05-01T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/871e64d2-8913-48d7-962f-5ce1b5ee0122.webp",
+  "media": [
+    {"type": "video", "url": "https://ph-files.imgix.net/705aff1e-0443-438e-a0a0-76bcfae81ea5.jpeg"},
+    {"type": "image", "url": "https://ph-files.imgix.net/621ffa4d-846e-419d-812c-6db49862c4ac.webp"},
+    {"type": "image", "url": "https://ph-files.imgix.net/bfb1fce2-d59d-409e-8988-5ad3e402a374.webp"}
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:37",
+  "landing_meta": "Zed is 1.0 — Zed's Blog — From the Zed Blog: The editor we set out to build is now 1.0.",
+  "landing_text": "Zed is 1.0 — Zed's Blog Zed is 1.0 Zed is 1.0 Nathan Sobo April 29th, 2026 To create a fundamentally better editor, we had to invent a new approach to building desktop software. Our previous editor, Atom , was built as a fork of Chromium, spawning the Electron framework in the process. Electron eventually became the foundation of VS Code (which today seems to be forked into a new AI code editor every other week). Web technology offered an easy path to shipping flexible software, but it also imposed a ceiling. No matter how hard we worked, we couldn't make Atom better than the platform it was built on. So we started over. Instead of building Zed like a web page, we built it like a video game , organizing the entire application around feeding data to shaders running on the GPU. That meant writing our own UI framework, GPUI , from scratch in Rust. Owning every layer of our stack lets us take Zed places that no one building on borrowed foundations can go, but we knew from the beginning that it wasn't going to be an easy path. Thanks to years of hard work by our team and community, Zed is closer than ever to that ideal tool we set out to create. We've added a ton of capabilities while remaining true to our core ethos of craft and performance, and hundreds of thousands of developers now rely on Zed to ship software each day. That's part of what gives us the confidence to declare version 1.0. Zed is 1.0 What 1.0 Means Developers expect a modern editor to support dozens of languages and their ecosystems, endless variations and edge cases across every stack: Git integration , SSH remoting , a Debugger , and, yes, rainbow brackets . We've spent five years building that surface area around Mac, Windows , and Linux , exceeding a million lines of code. Zed is also an AI-native editor. You can run multiple agents in parallel , and edit predictions suggest your next change at keystroke granularity and with the speed you've come to expect from Zed. The Agent Client Protocol opens Z",
+  "pricing_signals": [
+    "open source",
+    "pricing",
+    "$1",
+    "$18",
+    "$5",
+    "$98"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:37",
+  "description_ja": "Rust製・GPU描画の高速マルチプレイヤー対応コードエディタ、Zedが1.0正式リリース",
+  "summary_ja": "Atom開発元が再出発し5年間ゼロから作り上げたRust製コードエディタ。GPU描画とAIエージェント並列実行、リアルタイム共同編集を一体化し、Electron系の限界を超える速度で1.0に到達した。",
+  "tldr_ja": "Rust×GPU×AIエージェントの新世代コードエディタZedがついに1.0、VS Code/Cursorに対抗する性能と協業体験を提示。",
+  "review_guide_ja": {
+    "what": "Zed 1.0は、Atomを生みElectronの源流となったチームが「Webスタックの限界」を脱するためRustで一から書き直したデスクトップアプリ向けUIフレームワークGPUIを基盤に、コードエディタとして5年間で約100万行を投じて到達したマイルストーン版である。レイテンシは入力2ms前後、起動0.4秒、120Hz描画を厳守という性能設計が中核で、複数のAIエージェントを並列実行できるエージェントパネル、キーストローク粒度の編集予測、リアルタイム共同編集（共有カーソル、音声/テキストチャネル、画面共有）、Git/SSHリモート/デバッガ/LSPなど現代エディタの必須機能を網羅。Mac/Windows/Linuxに対応し、Personal無料、Zed AI $20/月、Business自己サービスの3段プライシング。Agent Client Protocol（ACP）を公開して外部エージェント連携も狙う。",
+    "for_who": "VS CodeのElectron性能やCursorのVS Code拡張依存に不満があり、ネイティブ速度とRust文化を重視するシニア開発者、AIエージェントを多数並列で回したいモダンな開発者、ペアプロや実況コーディングを日常化したい少人数チーム、JetBrains重さを嫌うが軽量さも欲しい層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "RustでGPUI/GPU描画UIをゼロから書き、5年・100万行・コミュニティ多数の蓄積。個人/小規模では到底再現不可能。"
+    },
+    "signals": [
+      "1.0到達、数十万人の日次利用者を公称",
+      "PHで366upvotes、Hacker News等で高評価",
+      "Cursor $2B ARR・Windsurf $82M ARRが示すAIエディタ市場の急成長",
+      "オープンソースで信頼性とエコシステム拡張を確保",
+      "ACP公開によりエージェント連携のハブを狙える設計"
+    ],
+    "concerns": [
+      "VS Code 74%シェアとCursor 100万有料の壁",
+      "Windows/Linux版でIME（特にATOK・Google日本語入力）の致命的不具合継続",
+      "拡張機能エコシステムがVS Code比で限定的",
+      "AI機能のマネタイズはOpenAI/Anthropic原価依存で粗利圧縮リスク",
+      "個人/小規模開発者には模倣不能でPoCネタにならない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本のITエンジニアは約144万人で世界4位規模、Zenn/Qiitaに多数の試用記事が投稿されAIエディタ熱もCursor/Windsurfで明確。VS Codeからの乗り換え候補として一定需要は存在する。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "VS Code 74%シェア、Cursor 100万有料ユーザー、Windsurf 350+企業、JetBrains/Vim系も根強い。エディタ市場は世界規模の超レッドオーシャンで、後発の単独参入余地は極小。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "コードエディタ単体は個情法・特商法を除き重い業規制なし。Business版でユーザーコード/AIプロンプトを扱う際の越境データ移転や個情法対応が論点になる程度。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "Windows/LinuxでATOK・Google日本語入力との連携にIME消失や半角崩れの未解決Issueが存在。UI日本語化も非公式に留まり、日本人エンジニアにとって致命的なUX摩擦が残る。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業はJetBrains/Visual Studio文化と無料エディタ志向が同居。SOC2のみではBusiness版の大企業導入は厳しく、稟議文化と相性が悪い面もある。"
+      }
+    },
+    "existing_competitors_jp": [
+      {"name": "Visual Studio Code", "url": "https://code.visualstudio.com/", "note": "日本で圧倒的シェア、無料、拡張機能数で他を圧倒し移行コスト高い。"},
+      {"name": "Cursor", "url": "https://cursor.com/", "note": "VS Codeフォークで日本開発者にも急速浸透、AIネイティブで$20/月、Zedの直接競合。"},
+      {"name": "Windsurf", "url": "https://windsurf.com/", "note": "40+ IDE対応プラグイン展開、コンプライアンス強み、日本でも紹介記事多数。"},
+      {"name": "JetBrains IDE群", "url": "https://www.jetbrains.com/", "note": "IntelliJ/PyCharmなど日本の大企業・受託で根強く採用、JetBrains AIで対抗。"},
+      {"name": "GitHub Copilot+VS Code", "url": "https://github.com/features/copilot", "note": "MS/GitHub経由で日本法人の販売網があり大企業導入が容易。"}
+    ],
+    "regulatory_findings": [
+      {"law": "個人情報保護法", "impact": "AIエージェント機能でユーザーのコード・プロンプトを米国サーバーに送る場合、越境移転規制と利用目的明示・同意取得が必要。"},
+      {"law": "電気通信事業法", "impact": "Collaboration機能の音声・テキストチャネルが第三者間通信の媒介に該当する可能性があり、外部電気通信事業者届出の論点が生じうる。"},
+      {"law": "特定商取引法", "impact": "Business/AIプランのオンライン課金で特商法表記、解約条件、自動更新表示などの義務を満たす必要がある。"}
+    ],
+    "opportunity": "個人開発者がZed本体を作り直すことは不可能だが、Zedエコシステム上に薄く乗る周辺ビジネスには余地がある。具体的には、(1) Agent Client Protocol対応の日本語特化エージェント（社内文書・社内コーディング規約RAG付き）、(2) 日本語IME問題に対するパッチ提供・有償サポート、(3) Zed用日本語チュートリアル・社内導入支援コンサル、(4) Zed Businessの日本市場向けリセラー兼導入支援。本体ではなく「Zed上のレイヤー」を狙うのが妥当で、本体ビジネスとしての日本展開はZed社自身が直接やるべきテーマであり個人/小規模では適合しない。",
+    "rationale": "日本のエンジニア人口とAIエディタ需要は確かに大きいが、Zed本体は5年間100万行の積み上げで個人模倣は不可能。さらに日本独自のIME問題が解消されない限り日本での主力エディタ化は困難で、VS Code/Cursor/JetBrainsという既存王者の壁も極めて高い。法規制面のフリクションは小さいものの、ローカライゼーションとCompetitionが致命的に低く、加重スコアは中位に留まる。verdictは『個人開発者視点で本体に挑むのはskip、周辺レイヤーで小さく乗るのはwatch相当』。総合では本体としての日本市場適合度はskip。読者向けの示唆は『Zedそのものを国内SaaSとして展開しようとせず、ACP対応エージェントやIME・日本語化パッチなどの薄いレイヤーで補完する』こと。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "コードエディタ本体は無料が当然視され、AI機能で$20/月課金が標準。OpenAI/Anthropic原価圧迫でAIプランの粗利は薄く、Business版はSOC2のみで大企業課金の梃子が弱い。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本エンジニア144万人×AIエディタ普及率の伸びを考えれば顕在市場は数十万人規模あるが、VS Code無料・Cursor先行の中でZed単独でその一部を取るのは難しい。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "Zed社のGTMは英語OSS文化×プロダクトドリブンで、日本での法人営業や代理店網は未整備。個人開発者が本体GTMを担うのは非現実的で、薄いレイヤーでも認知獲得には大きな労力が必要。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "AIネイティブエディタ市場はCursor/Windsurfが先行しており、Zedは1.0でようやくAI機能を統合した段階。タイミングは『早すぎず遅すぎず』だが、後発感は否めない。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "本体はRust巨大コードベース・GPUドライバ対応・3OSサポート・AIモデル更新追随が必要で、個人運用は不能。周辺レイヤーであっても継続的なZed本体追随コストが発生する。"
+      }
+    },
+    "rationale": "Zed本体はVC資金と多人数チーム前提のビジネスで、個人開発者の事業候補としては成立しない。Monetizationは$20/月相場が市場に定着しつつあるもののAI原価で粗利が薄く、本体ビジネスは規模の経済が必須。GTMは英語圏OSSコミュニティ起点で、日本市場特有の代理店・稟議文化に対する受け皿がない。Solo opsはRust大規模コードベースと3OS対応の保守だけでも個人運用が不可能で、その上にAIモデル追随とエージェント機能改良が乗る。タイミング面ではAIネイティブエディタ需要が高まる中での1.0到達はそれなりに良いが、Cursor $2B ARR・Windsurf 350+企業の先行に追いつくのは困難。総合スコアは3（個人開発者視点で本体は明確にno-go）。本レポートを読む個人開発者への実務的示唆は『Zed本体ではなくACP対応エージェント、日本語IMEパッチ、Zed用社内導入コンサルなどの薄い周辺レイヤーで小さく事業化する』こと。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "Personal: 無料、エディタ全機能と2000回の編集予測を含む、AI機能なしでBYOK利用も可能、個人開発者・OSS開発の主力プラン。",
+        "Zed AI: 月額$20相当、AI補完・インライン編集・マルチエージェントを含み月$5のトークンクレジット付与、超過は従量課金、AIヘビーユーザー向け。",
+        "Business: 自己サービスでシート単位課金、AI機能の組織制御・データ共有ポリシー・統合請求を提供、25シート以上で発注書契約可能、企業導入向け。",
+        "Enterprise: 営業お問い合わせ型、SLA・SSO・コンプライアンス対応など個別交渉、規制業種向け、現状日本法人なしで導入ハードル高い。",
+        "周辺レイヤー想定（本体ではない）: ACP対応日本語エージェントを月3000円や日本語IMEパッチを年1万円程度で個人開発者が薄く乗せる選択肢。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Zedを既に試したことのある日本のシニアエンジニア・小規模スタートアップ開発者で、ATOK/Google日本語入力を常用しIME問題で離脱した層、またはACP連携の日本語特化エージェントを業務で欲しい層。本体ではなく周辺レイヤーを買う前提の想定。",
+      "target_count": 30000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "本体に挑まず、ACP対応の日本語社内ドキュメント連携エージェントなど周辺レイヤーをまず1つに絞ってZenn/Qiitaで発信する。",
+      "日本語IME問題のGitHub Issueに具体的なパッチ提案を行いZedコミュニティ内で日本人開発者の信頼を獲得する。",
+      "Zed本体採用を検討する日本企業向けに導入コンサル・社内勉強会・移行支援を月額固定で提供する。",
+      "Cursor/Windsurfからの移行記事や比較記事を継続的に発信し、Zed日本コミュニティの一次情報源となる。",
+      "Personal/AI/Businessの3段プランの違いを日本語で整理し、Affiliate的なメディア化で受託案件に誘導する。"
+    ],
+    "time_window_months": 24,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Zed本体側がIME問題を全面解消すると、日本語特化パッチ事業は瞬時に消滅する。本体の動向に常に追随する必要がある。",
+      "Cursor/WindsurfがACP互換やZed同等のネイティブ性能を実装した場合、Zedエコシステム自体が縮小し周辺レイヤー事業の前提が崩れる。",
+      "Zed社の日本法人設立や直販開始で、個人開発者の導入支援・コンサル事業は中抜きされ存続が難しくなる。",
+      "OSSコミュニティ規範上、有償パッチや有償エージェントの提供がコミュニティから反発を受けるリスクがあり、ブランド毀損につながりうる。",
+      "AIモデル料金の変動・Anthropic/OpenAI APIの規約変更によりエージェント周辺サービスの原価が急変するリスク。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

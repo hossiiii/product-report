@@ -1,0 +1,274 @@
+{
+  "name": "OpenHuman",
+  "description": "An open source AI harness built with the human in mind",
+  "ph_url": "https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/RWEBXA76IIY2MF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-15T07:01:00Z",
+  "upvotes": 641,
+  "comments": 73,
+  "topics": [
+    "Productivity",
+    "Open Source",
+    "Artificial Intelligence",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Heya! I'm Steven, founder of TinyHumans.</p><p></p><p>A few months ago I tried to set up an open-source AI agent for my dad. Three hours later and after wrestling with API keys, YAML and a terminal he had never opened in his life, we both gave up.</p><p></p><p>That's when I realised that every powerful AI agent today is built for the 0.01% who can spin up their own runtime. The other 99.99% are watching the agent revolution from the sidelines.</p><p></p><p>So we built OpenHuman.</p><p></p><p>OpenHuman is a super-intelligent AI agent that anyone can use. Two-minute setup. No config files. A simple GUI you'd hand to your parents and they'd actually figure out. Connect Gmail, Slack, Telegram, Notion, and GitHub in one click and it just works.</p><p></p><p>A few things I'm proud of:</p><p></p><p>* It runs locally. Encrypted vault. We never sell your data.</p><p>* It never forgets. Real memory across sessions, not session-only.</p><p>* It's open-source under GNU.</p><p>* It's free to start: no engineer, no GPU, no $6k setup bill.</p><p></p><p>Early signal has been wild: 8000+ GitHub stars, 5000+ users in the first 7 days, and 150% week-over-week growth.</p><p></p><p>Today, we're opening it up to all of you. Note that it is still in beta, so you're super early if you find bugs. Feel free to report them to me over at the Discord.</p><p></p><p>I'll be in the comments all day. You can break it, roast it, tell me what's missing, ask anything. We ship fixes live.</p><p></p><p>Would love your feedback!</p>",
+      "votesCount": 31,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hi 👋</p><p>I'm Ankita, the product marketer at OpenHuman.<br></p><p>I joined this team because Steven and the rest of TinyHumans were the only people I'd met who genuinely wanted to build an AI agent for everyone, not just engineers. The people who don't write code, don't want to wire API keys, don't want to read YAML files. People like my parents, honestly.<br></p><p>Watching the last few months of shipping has been wild. The skills marketplace went from a handful of integrations to 118+. Memory went from session-only to actually remembering you across weeks. And Tiny the mascot has somehow become the most-discussed feature in our internal slack.<br></p><p>If you've ever wanted to use an AI agent but felt the setup wasn't worth the headache, today is your day. It gets way more useful the longer you use it because it actually remembers what you tell it.</p><p>Try it free at <a href=\"http://tinyhumans.ai/openhuman\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">tinyhumans.ai/openhuman</a>. <br><br>Hop into our Discord if you want to chat, ask for a feature, or report a bug. I'm reading everything today.<br></p><p>Thanks for being here 🙏</p><p>Ankita</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Launching alongside great products like this makes today even more exciting. Really impressed by what you’ve built. Supporting fellow makers today would love to cheer each other on 🚀</p><p></p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "90% of people who try AI agents give up. Three reasons: memory that resets every session, your data sitting in someone else's cloud and a terminal just to get started. Real blockers. OpenHuman fixes all of it. Local-first, privacy-first. It remembers everything about you and actually gets smarter the more you use it. Every feature lives in one simple interface. Fully open source. One-click setup. P.S. The product is in beta, so expect bugs, but we're building and shipping fast.",
+  "featured_at": "2026-05-15T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/918b11cd-52e9-4f01-8f82-de1b756957cd.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/534c3ee9-9932-4108-a526-e4904069291e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/feb7b2b3-1b5e-4c5f-98a7-f2f0b454c954.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/28b9f697-f5e3-4974-a3c3-0516e1cf00ba.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/24bb389d-bfe5-40b3-906a-3f0fa6300bda.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/38d0e4b5-03a4-4968-9ecf-35898e71e30f.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/76092b17-74c2-4f7d-8a09-6536a579602b.gif"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:03",
+  "landing_meta": "OpenHuman — TinyHumans — OpenHuman is your personal AI superintelligence: private, simple, and extremely powerful.",
+  "landing_text": "OpenHuman — TinyHumans OpenHuman Your Personal AI super intelligence. Private, Simple and extremely powerful. Download Documentation GitHub One Subscription. That's it. One subscription gives you access to 30+ providers needed to build your AI assistant. No more juggling multiple subscriptions. Incredible Memory OpenHuman remembers upto 1 billion tokens of memory. Which means you can give it everything about yourself and it'll know everything about you. Get Started in Minutes Once you connect your world, OpenHuman can start helping immediately. You do not have to wait days for your AI to learn your context. Personalized Learning OpenHuman learns from you. This includes information from your screen, text, emails etc.. All kept privately. Runs a Local AI Model A local LLM handles low-level tasks like summarizing, tooling, etc so that your privacy stays off the cloud. Simple or Advanced Connect tools like Gmail/Notion etc in a few clicks for fast setup or configure credentials manually for maximum control.",
+  "pricing_signals": [
+    "subscription",
+    "$1",
+    "$2",
+    "$0",
+    "$12"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:03",
+  "description_ja": "ローカル動作・記憶保持型のオープンソースAIエージェント。Gmail/Slack/Notion/GitHub等118+の連携をワンクリックでつなぎ、非エンジニアでも2分でセットアップできるデスクトップ型ハーネス。",
+  "summary_ja": "TinyHumans社が開発するOpenHumanは、Rust+Tauri製のローカルファーストなAIエージェント。最大10億トークン規模の永続メモリ、暗号化ボルト、Ollama経由のローカルLLMルーティングを備え、非エンジニア層にもAIエージェントの恩恵を届けることを目指す。GPLv3で、launch7日で5000ユーザー、GitHub 8000+ stars。料金は$0/$1/$2/$12の階層が示唆されている。",
+  "tldr_ja": "ローカル動作・記憶保持・1クリック連携の非エンジニア向けOSS AIエージェント。Gmail/Slack/Notion接続で日次業務を自動化。",
+  "review_guide_ja": {
+    "what": "デスクトップ常駐型のオープンソースAIエージェント。Gmail/Slack/Notion/GitHub/Telegram等118+のSaaSと1クリック接続し、永続メモリ(最大10億トークン規模)を持って日次業務を自動化する。ローカルLLM(Ollama)とクラウドLLMをルーティングし、機密データは端末内のSQLite/暗号化ボルトに保持。Rust+Tauri実装、GPLv3、価格階層は$0/$1/$2/$12が示唆。",
+    "for_who": "AIエージェントを使いたいがCLI/YAML/APIキー管理に挫折した非エンジニア層、およびプライバシー重視でクラウドにデータを置きたくない個人ユーザー・小規模チーム。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "118+連携・永続メモリパイプライン・ローカル/クラウドルータ・デスクトップ配布まで揃えるには工数が大きく、個人開発で1から作るのは現実的に困難。"
+    },
+    "signals": [
+      "launch7日で5000ユーザー、GitHub 8000+ stars、WoW150%成長",
+      "Product Hunt upvotes 641、comments 73で上位ランクイン",
+      "日本でもローカルLLMアクティブユーザーが2026年時点で約1500万人規模に拡大",
+      "ChatGPT Goが日本円1500円で投入されるなど個人向けAI価格は$2-20帯が激戦",
+      "GPLv3でASPループホールあり、ホスト版マネタイズの余地"
+    ],
+    "concerns": [
+      "本家OpenHumanがそのまま日本展開する可能性が高く、後発の独自実装は競合になりにくい",
+      "Gmail/Slack OAuthスコープ・サードパーティ規約への抵触リスク",
+      "個人情報保護法に基づくPII取扱の説明責任と利用規約の整備負荷",
+      "ローカルLLM動作にRAM/GPU要件があり、シニア層の標準PCで動かない可能性",
+      "$1-$12のARPUは低く、ChatGPT/Gemini/Copilotの値下げ圧力を受ける"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "個人向けAI利用は拡大(生成AI利用率21.3%)し、プライバシー意識も高い。ただし非エンジニア層への普及はChatGPT/Gemini等の単機能チャットで満たされている部分が大きく、エージェント自動化の必要性は顕在化途中。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "本家OpenHumanがそのまま英語UIで日本ユーザーを獲得しており、ChatGPT(月3000円)/Gemini/Copilot/Notion AI/Dify等が個人エージェント領域を覆っている。後発の同型プロダクトは差別化が困難。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "ローカル処理中心ならPII漏えいリスクは低減できるが、Gmail/Slack OAuthスコープ取得時の個人情報保護法・電気通信事業法・サードパーティ利用規約への対応設計が必要。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI/プロンプト/連携先(LINE/Chatwork/Backlog/freee/サイボウズ等)の日本ローカライズが必要。本家未対応の領域はあるが、日本独自連携を1から整備する負荷は大きい。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の小規模事業者・個人は依然としてメール・電話・FAXワークフローが根強く、デスクトップ常駐型AIエージェントの導入文化が薄い。Slack/Notion利用層は限定的でリーチが狭い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ChatGPT (Go/Plus)",
+        "url": "https://chatgpt.com/pricing/",
+        "note": "日本円1500円〜3000円帯で個人向けAIアシスタント市場を支配。記憶機能・コネクタも実装済み。"
+      },
+      {
+        "name": "Notion AI",
+        "url": "https://www.notion.com/help/notion-ai-connectors-for-slack",
+        "note": "Notion+Slackコネクタで業務情報を統合。日本でも法人/個人で広く利用。"
+      },
+      {
+        "name": "Dify",
+        "url": "https://dify.ai/jp/pricing",
+        "note": "AIアプリ・エージェント構築のノーコード基盤。個人開発者・小規模チーム向けProfessionalプラン提供。"
+      },
+      {
+        "name": "Ollama / LM Studio",
+        "url": "https://ollama.com/",
+        "note": "ローカルLLM実行の標準ツール。OpenHumanのローカル機能はOllama依存。"
+      },
+      {
+        "name": "Gemini / Microsoft Copilot",
+        "url": "https://gemini.google.com/",
+        "note": "Google AI Plus(1200円)・Copilotが個人向け価格を下押し、ARPU圧縮要因。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "Gmail/Slack/Notion等から取得するメール本文・連絡先・スケジュールはPIIに該当。利用目的の明示、第三者提供・越境移転(クラウドLLM呼出時)の同意取得設計が必要。"
+      },
+      {
+        "law": "電気通信事業法(外部送信規律)",
+        "impact": "クラウドLLMへのプロンプト送信時、利用者情報の外部送信に該当しうる場合は通知・公表義務。ローカルLLM比率を明示する設計が望ましい。"
+      },
+      {
+        "law": "GPLv3 / AGPL ライセンス遵守",
+        "impact": "GPLv3のASPループホールでホスト版マネタイズは可能だが、コピーレフト派生物の取扱いに注意。商用フォーク時はソースコード開示義務の有無を要確認。"
+      },
+      {
+        "law": "Google/Slack/Notion API利用規約",
+        "impact": "OAuthスコープ・トークン保管・LLMへの転送に関するベンダ規約遵守。違反時は連携停止リスク。"
+      }
+    ],
+    "opportunity": "本家OpenHumanが手薄な日本固有連携(LINE WORKS/Chatwork/Backlog/サイボウズ Office/freee/マネーフォワード/kintone)とプロンプト/UIの日本語最適化に絞れば、士業・個人事業主・小規模チーム向けにニッチを取れる可能性はある。特にメール下書き・経費入力・スケジュール整理を業務固有の語彙で処理できるエージェントは需要がある。ただし本家が日本語UIと主要日本連携をリリースした時点で差別化は急速に消えるため、ホスト版+業務テンプレート販売など『手間賃を売る』モデルに振らない限り独立SaaSとしては成立しにくい。",
+    "rationale": "本プロダクトはローカル動作・永続記憶・1クリック連携という個人向けAIエージェントの典型的提案を完成度高くまとめ、launchから1週間で5000ユーザー・GitHub 8000+ starsという初動指標も強い。しかし日本市場に視点を移すと、(1)ChatGPT/Gemini/Notion AIといった巨人が個人向けエージェント機能を月1000-3000円帯で提供し激戦化、(2)Slack/Notion普及率は法人偏重で個人ユーザー基盤が薄い、(3)本家がそのまま英語UIで日本ユーザーを取り込めるためローカライズ参入の優位が小さい、という3つの理由で日本での独自展開価値は限定的。法令面ではPII取扱と外部送信規律の説明責任が必要で、運用負荷は無視できない。個人開発者が新規参入するなら『日本固有業務SaaS+ローカルAIエージェント』のような縦展開に切り直さない限り、watchより下のskip判定が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "OSSハーネス本体は無料、$1-$12の薄いプライシングが示唆されARPUは月1000-1500円帯に留まる見込み。クラウドLLM API原価が圧迫しグロスマージンが薄い構造。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内ChatGPT Plus層が約14万人、ローカルLLM関心層は数十万規模。エージェント化に踏み込むコア顧客はさらに絞られ、リーチャブル市場は数万人規模。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "本家がProduct Hunt/GitHub/DiscordでグローバルGTMを既に確立。日本独自フォーク/ラッパーがX/Qiita/Zennで上書きするのは難しく、参入コストに見合う流入が読みにくい。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "個人向けAIエージェント領域はちょうど黎明期から成長期に入る局面で、ローカルLLM市場は2028年に向け200%成長予測。だが本家OpenHumanが先行している点で遅れは大きい。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "118+連携の保守、各APIの仕様変更追随、ローカル/クラウドルータ運用、PIIガバナンス対応を個人開発で継続する負荷は極めて高い。本家依存にすれば軽くなるが事業の独立性は失われる。"
+      }
+    },
+    "rationale": "事業性は全体的に低い。マネタイズ面は$1-12の階層が示すように『プライバシー価値を保ちつつ低価格』というポジショニングが想定され、個人エージェントのARPUは月1000-1500円帯に収まる公算。ChatGPT GoやGoogle AI Plusが日本円で1200-1500円帯にあり、価格差で勝つのは難しい。市場規模は日本でAIエージェント・ローカルLLMに踏み込むコア層が数万人レベルで、捕捉率3-5%でも実現売上はMRR数百万円規模に留まる。GTMは本家がGitHub/PH/Discordでグローバル展開済みのため、日本ローカルなフォーク/ラッパーが上書きする経路は細い。タイミングはエージェント黎明期で悪くないが、本家先行の差を埋めるリードタイムが足りない。最大のネックはソロ運用維持コストで、118+連携の追随・PII対応・カスタマーサポートを個人で続けるのは現実的でない。総じて『本家のホスティング代行+日本業務テンプレ販売』のような手間賃モデルに振らない限り、新規SaaSとして勝負するのは推奨しない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1200,
+      "plans": [
+        "Free: ローカルLLM+基本連携10件、メモリ100MB",
+        "Personal 1200円/月: クラウドLLMルーティング、連携無制限、メモリ10GB",
+        "Pro 2800円/月: 日本業務テンプレ、優先サポート、複数デバイス同期",
+        "Team 4800円/月/席: 共有メモリ、管理コンソール、SSO"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AIエージェント・ローカルLLMに関心がある個人事業主・士業・小規模チームの先行採用層(国内のChatGPT Plus層+ローカルLLM熱心層の重なり)",
+      "target_count": 50000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 1200000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『ローカルAIエージェント+日本SaaS連携』のハンズオン記事連載",
+      "X(旧Twitter)で個人事業主・士業インフルエンサーと連携した活用デモ",
+      "本家OpenHumanのコントリビュータ化→日本連携プラグインを上流PRしブランド化",
+      "freee/マネーフォワード/サイボウズ等のマーケットプレイス掲載",
+      "noteで業務テンプレ販売(経費入力/議事録/メール下書き)を有料配布"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家OpenHumanの日本語UI/日本連携リリースで差別化が即座に消える",
+      "Gmail/Slack/Notion等のOAuth規約変更・スコープ縮小で機能停止リスク",
+      "クラウドLLM API原価上昇でARPU 1200円ではグロスマージン破綻",
+      "PII取扱・外部送信規律の説明責任で利用規約・サポート負荷が累積",
+      "ChatGPT/Gemini/Notion AIの価格・機能侵食でリテンション低下"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-23T00:00:00Z",
+  "review_guide_at": "2026-05-23T00:00:00Z",
+  "business_viability_at": "2026-05-23T00:00:00Z",
+  "advisor_view_at": "2026-05-23T00:00:00Z"
+}

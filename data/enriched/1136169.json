@@ -1,0 +1,192 @@
+{
+  "name": "Fere AI",
+  "description": "AI agents that turn signals into crypto + Polymarket trades",
+  "ph_url": "https://www.producthunt.com/products/fere-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/5IJWOH2H3DJIER?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-17T07:01:00Z",
+  "upvotes": 519,
+  "comments": 62,
+  "topics": [
+    "Fintech",
+    "Artificial Intelligence",
+    "Web3"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p><strong>\"Your AI should be making your trades, not just narrating them.\"</strong></p><p><br>That line wouldn't leave us alone. So here we are.</p><p><br>I'm Aron. Pranav and I have been building autonomous AI since 2014, before agents were a buzzword. Enterprise AI for pharma, Fortune 100 ops, web3 infra. Multiple exits. A few brutal failures. One obsession throughout: AI that actually acts, not just answers.</p><p>Crypto handed us the perfect environment. But the workflow was broken. I was bouncing between six tabs every morning, and every \"AI\" I tried would research beautifully then hand me back the mouse. Not an agent. A fancy search engine.<br></p><p>The market splits into two failures:</p><ul><li><p>Chatbots that walk you through a trade and never make it</p></li><li><p>Bots that fire orders all day and can't tell you why</p></li></ul><p>Either way, you end up doing the work anyway. <strong>Fere is the third thing.</strong><br></p><p>Tell it your thesis in plain English. It researches, trades, manages risk — with its own wallet, across multiple chains, for days unattended.<br></p><p>What you can hand it today:</p><p>→ <em>\"Track top 5 AI tokens by 7-day volume. Rebalance weekly. Cut anything down 20%, let winners run.\"</em></p><p>→ <em>\"Find me easy wins on polymarket\"</em></p><p>→ <em>\"Every day buy 10$ of eth for me as long as it is under 2400$\"</em><br><br></p><p><strong>Why it works:</strong> most \"AI agents\" tap out after one prompt. Ours have been live 90+ days straight — reasoning, remembering, adapting, improving. Not scripts with vibes. Real system underneath: planner, retriever, analyst, executor, guardian.<br></p><p><strong>Where we are:</strong> 7,000+ daily users. 10M+ autonomous executions. Backed by Ethereal Ventures, Galaxy Vision Hill, and Kosmos Ventures.<br></p><p>We're just getting started. Swarm framework goes open-source next. The agentic internet is coming — we're building the infrastructure early.<br></p><p>Try free at <a href=\"http://fereai.xyz\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">fereai.xyz</a> , no card needed.</p><p><br>What's the trade or thesis you'd actually trust an AI to run? Drop it below 👇 Pranav and I are here all day.</p><p><br>~ Aron &amp; Pranav</p><p></p>",
+      "votesCount": 26,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The Polymarket integration is what got me.</p><p> You claim that most prediction market tools just surface odds while Fere actually trades them autonomously...</p><p>Curious how the agent decides which markets are worth entering. Is it purely signal-based or does it factor in liquidity and market depth too? Because thin markets on Polymarket can move fast once a position opens.</p><p><a href=\"https://www.producthunt.com/@0xaron\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"0xaron\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@0xaron</a> would love to understand the edge here vs. just trading spot crypto.</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Excited to hunt Fere AI today!</p><p></p><p>I'm impressed by Fere AI's execution-first approach to agentic finance: turning market signals into crypto and Polymarket trades, not just research reports.</p><p></p><p>What I particularly appreciate is the focus on the full workflow: research the opportunity, build the setup, optimize routes and fees, and execute with a wallet.</p><p></p><p>The Polymarket angle also makes this stand out. Most crypto agents compete on research, but Fere is pushing further into autonomous execution.</p><p></p><p>Also: cheaper query + execution runs make the product feel practical.</p><p></p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Unlike generic crypto research assistants, Fere turns market signals into autonomous trading workflows. Agents research opportunities, build trade setups, optimize routes and fees, execute with a wallet, and monitor strategies 24/7 across crypto and Polymarket. Standout features include autonomous Polymarket trading, entry/exit rules, stop-loss controls, execution routing, and lower-cost agent runs.",
+  "featured_at": "2026-05-17T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/5614d8c2-3faa-4639-9a6e-57e55f40dfb9.png",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/6f50454e-0f2f-4bb9-91eb-7e63c7d03637.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/e6a855a0-c61f-4673-946f-16a84b9fe843.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/b9c56adc-34b2-4f4a-821f-107c0beb26ef.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/0ee93b07-9998-4ce9-abd9-24fd2a3b1d1e.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/fac95e80-7983-4ba3-b59a-8c4400bb860f.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/668127da-e117-4bab-8977-e456a211edcb.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/702509df-3b13-4bd9-8ec9-64d5faa76314.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/a7826a9f-980e-4fe6-9dd2-3b50fb036059.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/5fddf5f0-5382-475a-a592-bf9d7d11db54.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:04",
+  "landing_meta": "FereAI: AI Crypto Agents for Real-Time Research & Trading — Unlock real-time AI crypto insights and automated trading with FereAI. Discover top crypto trends, optimize investments, and start trading smarter with your personal AI team.",
+  "landing_text": "FereAI: AI Crypto Agents for Real-Time Research & Trading Your Edge. Running 24/7. Fere is the only AI agent with a live wallet — it runs your strategies, monitors every chain, and executes with precision while you're not watching. Built for traders with real positions. Deploy Your Strategy Deploy Your Strategy 10M + Live Executions 90 + Days Strategies Running 7,000 + Active Traders Daily 6 Chains Covered Powered by The Difference You Have the Thesis. Fere runs it. The gap between conviction and execution costs you money every day. Fere closes it — permanently. A wallet-native agent that decomposes complex strategies into ordered tasks, sources live data for each one, and executes. Not a dashboard. Not a signal bot. An agent with a wallet. Multi-Step Execution Complex, conditional strategies broken into ordered tasks — each handled by a specialist sub-agent. Plan, validate, execute. Reasoning on Live Data No hardcoded rules. Every decision is made against live prices, on-chain data, and sentiment at the moment of execution. Full Execution Audit Every step, every data point, every decision logged. Know exactly what ran, what it found, and why it traded or held. Automatic Fallbacks If a route fails at peak demand, Fere retries with alternatives. No missed entries during high-volatility windows. Precise Before It Moves Fere confirms scope before executing. Ambiguity flagged upfront — not discovered after a trade you didn't sanction. Strategy instruction Scan Base and Solana for tokens $10M–$100M mcap. Cross-reference whale net-buy > $200k in last 24h. Sentiment score > 85 → buy $500. Set TP +45%, SL -18%. Agent execution → Scanning Base: 847 tokens in range → 23 pass volume filter → Scanning Solana: 1,204 tokens → 31 pass volume filter → Cross-referencing whale wallet activity (last 24h) ✓ AERO: whale net-buy $412k · sentiment 91/100 → executing → VIRTUAL: whale net-buy $87k · below threshold → skip → Route: Uniswap V3 · slippage estimated 0.12% ✓ $500 → AERO confirme",
+  "pricing_signals": [
+    "subscription", "$10", "$100", "$200", "$500", "$412", "$87", "$105.5", "$7", "$50", "$1", "$2"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:04",
+  "description_ja": "自然言語で戦略を渡すと、独自ウォレットで暗号資産とPolymarketの取引を自律的に実行・監視するAIエージェント。",
+  "summary_ja": "Fere AIは、ユーザーが自然言語で渡した投資テーゼを、計画・検索・分析・執行・監視の専門サブエージェント群が連携して自律的に運用するウォレット内蔵型エージェント。複数チェーン横断のスポット売買、リバランス、ストップロス、Polymarketの予測市場取引まで24時間無人で実行する。日次7000ユーザー・累計1000万件以上の自律実行実績を持ち、執行ログによる完全な監査性を売りにしている。",
+  "tldr_ja": "自然言語で渡した戦略を、ウォレット付きAIエージェント群が複数チェーンとPolymarketで自律執行・監視する実行特化型クリプト投資AI。",
+  "review_guide_ja": {
+    "what": "ユーザーが自然言語で記述した投資戦略（例：『AIトークン上位5銘柄を7日出来高で追跡し週次リバランス、20%下落で損切り』）を、planner/retriever/analyst/executor/guardianの専門サブエージェント群に分解し、ライブ価格・オンチェーンデータ・センチメントを参照しながら独自ウォレットで実取引まで実行する自律エージェント基盤。スポット暗号資産（6チェーン）に加え、Polymarketの予測市場ポジションも自動で取りに行く点がユニーク。全ステップが監査ログとして可視化される。",
+    "for_who": "海外DEX/Polymarketで実弾を運用しているアクティブなクリプトトレーダー、ヘッジファンド志向の個人運用者、複雑な条件付き戦略を24時間運用したいWeb3ネイティブ層。日本では一般投資家向けではなく、自己責任で海外ウォレットを扱える上級者層に限られる。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "LLMオーケストレーション、複数チェーンの執行ルーター、Polymarket統合、長期間の状態管理、自己ウォレット運用とセキュリティを全部束ねる必要があり、個人開発では運用負荷とリスクの両面で困難。"
+    },
+    "signals": [
+      "日次7000ユーザー・累計1000万件超の自律実行という具体的なトラクション",
+      "Ethereal Ventures等から$1.3Mの調達済みで本気度が高い",
+      "Product Huntで519upvote/62コメントと反応が強い",
+      "Polymarket統合という差別化要素が複数コメントで好意的に言及",
+      "Swarmフレームワークのオープンソース化が予告されている"
+    ],
+    "concerns": [
+      "自己保管ウォレットへの秘密鍵預け入れというセキュリティリスクが極大",
+      "Polymarketは日本の刑法上の賭博罪に抵触する可能性が高くプロダクトの核機能の一つが日本で違法化",
+      "暗号資産の助言・運用を業として日本国内で提供すると無登録の投資助言業/運用業として摘発リスク",
+      "AIシグナルの誤動作で大きな実損が出た場合の責任範囲が不明確",
+      "LLM推論コストとAPI/オンチェーン手数料が高く、小口ユーザーには採算が合いにくい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 3,
+    "verdict": "no_fit",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "日本の暗号資産口座は1347万・利用者預託金5兆円超だが、海外DEXやPolymarketを自前ウォレットで運用する層は極めて少数。MMD調査でも現在取引者は3.2%に留まる。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "国内ではQUOREA BTC（4000ロボ・1.6万人）が国内取引所連携で先行。海外勢では3Commas/Cryptohopper/Pionexが日本語UIで広く使われており、AIエージェント特化での差別化余地は狭い。"
+      },
+      "regulation": {
+        "score": 2,
+        "reason": "Polymarket利用は刑法185条賭博罪の構成要件に該当しうる。暗号資産助言を業として個別提供すれば投資助言業登録が必要、運用は運用業登録必須。無登録摘発の厳罰化（拘禁10年・罰金1000万円）も決定済。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "UI/プロンプトの和訳に加え、国内交換業者（bitFlyer/Coincheck等）との接続が必須だが、現状は海外DEX前提。日本人ユーザー向けには税務（最大55%雑所得）・確定申告サポートも要求される。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本の個人投資家は『AIにウォレットを預けて自動執行』への心理的抵抗が強く、書面交付・適合性原則・クーリングオフ等の対面営業文化と乖離。法人需要も内部統制上ほぼゼロ。"
+      }
+    },
+    "existing_competitors_jp": [
+      {"name": "QUOREA BTC", "url": "https://quorea.jp/btc", "note": "AI採点付きCtoC自動売買。OKCoinJapan/bitFlyer接続。月2980円+売買代金0.03%。国内最大手。"},
+      {"name": "Cryptact", "url": "https://www.cryptact.com/", "note": "暗号資産損益計算・自動売買解説で集客するメディア。直接競合ではないが情報導線で競合。"},
+      {"name": "3Commas (日本語対応)", "url": "https://3commas.io/ja", "note": "海外発のクリプトボット最大手。日本語UI・複数取引所連携。月額$14.5〜。"},
+      {"name": "Pionex", "url": "https://www.pionex.com/ja/", "note": "グリッドボット標準搭載の海外取引所。日本人ユーザー多数。手数料0.05%のみで実質無料。"},
+      {"name": "Cryptohopper", "url": "https://www.cryptohopper.com/", "note": "海外発AIシグナル+ボット。日本語ドキュメント整備済。月額$24〜$129。"}
+    ],
+    "regulatory_findings": [
+      {"law": "刑法185条（賭博罪）", "impact": "Polymarketでの賭けは『偶然の勝負により財物の得喪を争う行為』に該当する可能性が高く、日本居住者の利用および国内向け勧誘は犯罪となるリスク。プロダクト中核機能の一つが事実上提供不可。"},
+      {"law": "金融商品取引法（投資助言・代理業/投資運用業）", "impact": "暗号資産の金商法移管が2026年通常国会で審議中。個別ユーザー向けにAIで売買助言・運用代行する形態は登録必須。無登録摘発の厳罰化が2026年3月から施行（拘禁10年・罰金1000万円）。"},
+      {"law": "資金決済法（暗号資産交換業）", "impact": "ユーザー預かりウォレットで売買代行する設計は『暗号資産の管理』に該当し交換業登録が必要となる可能性。最低資本金・分別管理・コールドウォレット等の重い義務。"},
+      {"law": "所得税法（雑所得・最大55%）", "impact": "日本の暗号資産損益は雑所得・総合課税で最大55%。短期売買主体のAIエージェントは課税効率が悪く、税務サポート未提供のサービスは個人投資家に敬遠される。"}
+    ],
+    "opportunity": "正規ルートで日本市場を狙うなら『暗号資産AIアシスタント（非執行・情報提供のみ）』『国内取引所API連携のスポット限定リバランスボット』にスコープを絞り、Polymarket機能と海外DEX執行を完全に切り離す形に限定される。さらに金融商品取引業の登録を取った提携事業者経由で『有価証券化された暗号資産関連商品のロボアド』として再構築する道もありうるが、これは個人開発レベルでは不可能。現実的には日本市場は『情報シグナル配信＋税務計算連携』程度のサブセットしかフィットせず、本プロダクトの執行特化という差別化はほぼ消滅する。",
+    "rationale": "Fere AIの最大の強みである『ウォレット内蔵で自律執行』と『Polymarket統合』は、日本では真正面から法規制とぶつかる。Polymarketは刑法賭博罪、暗号資産の運用代行は金商法/資金決済法、AI個別助言は投資助言業登録、無登録摘発の厳罰化も2026年に進行中で、規制リスクは複合的かつ最大級。需要面でも、日本の暗号資産口座1347万のうち実取引者は3%程度、さらに海外DEXとPolymarketを能動的に使う層は極小で、TAMは数千〜1万人レベル。競合面ではQUOREA BTCが国内交換業者連携で先行し、Pionex/3Commas/Cryptohopperが日本語対応で価格競争を既に展開中で、後発で執行特化を訴求しても差別化が立たない。ローカライズは交換業API連携・日本円対応・税務連携と要件が重く、ビジネス商慣行面でも『AIにウォレットを預ける』への心理抵抗が大きい。総合してverdictはno_fit、国内向けに展開する妥当性は乏しい。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "クレジット課金+サブスクのハイブリッドで本家は$10〜$100/月想定。日本ARPUは4000〜8000円が現実圏だが、規制で正規収益化が難しく、グレー領域での運用は決済代行も拒否されやすい。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "対象は海外DEX/Polymarketを能動的に使う日本のクリプトネイティブ層に限定され、見積3000〜5000人。Year3で5%獲得しても150〜250人、月商200万円未満で個人事業レベル。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "正規広告は仮想通貨自動売買詐欺の摘発強化で広告審査が厳しい。X/Discord/Telegramのクリプトコミュニティ口コミ依存となり、規模化に時間がかかる。アフィリエイト規制も厳しい。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "金商法移管とインサイダー規制整備が2026年に進行中で、規制ランドスケープが変動中。早期に登録業者と組めば先行優位もあるが、個人開発では規制対応コストが重く、タイミングは中立。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "AIエージェントのプロンプト調整、複数チェーン執行、ウォレット鍵管理、24時間障害対応、規制問い合わせ対応のすべてが個人運営では破綻リスク高。資金事故時の損害賠償リスクも個人で負えない。"
+      }
+    },
+    "rationale": "ビジネス成立性は4点。収益化モデル自体はサブスク+クレジットでクリプトユーザーには馴染みがあるが、日本市場では規制適合コストと事業継続リスクが過大。市場規模は海外DEX/Polymarketを能動的に使うクリプトネイティブ層数千人程度に限定され、Year3で5%獲得を仮定しても月商200万円弱と個人事業レベルに留まる。GTMはクリプト広告の制約と詐欺類似事例の摘発強化で、X/Discord/Telegram等のコミュニティ口コミ以外に手段がなく、スケールが遅い。タイミングは規制再編期で中立、ただし金商法移管後は無登録運営の刑事リスクが厳罰化される。個人開発継続性は、AIエージェント+ウォレット運用+24時間執行+規制対応の総合運営となり、ソロでは破綻リスクが極めて高い。資金事故が起きれば個人で賠償できる規模を超え、刑事責任を問われる可能性もあるため、現実的には法人化+登録業者連携が前提で、個人開発の射程外と判定。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 5000,
+      "plans": [
+        "Free: 月10回までの情報提供型シグナル閲覧（執行・助言なし）",
+        "Pro 月3000円: シグナル+バックテスト+税務連携（情報提供範囲に限定）",
+        "Trader 月8000円: 国内取引所API連携のスポット限定リバランス（執行は登録業者経由）",
+        "Pay-as-you-go: クレジット$0.05/実行"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内暗号資産取引所を主に使い、追加で海外DEXも触る上級個人投資家（20-40代、年取引額500万円以上）",
+      "target_count": 5000,
+      "capture_pct_year3": 3,
+      "monthly_revenue_target_jpy": 750000
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)のクリプトトレーダーコミュニティでテーゼ共有型UGC（『俺の戦略をAIに渡してみた』）",
+      "国内暗号資産メディア（あたらしい経済、Cointelegraph Japan）への寄稿/取材依頼",
+      "QUOREA等の既存ロボ提供プラットフォームへのストラテジー提供者参画",
+      "Discord/Telegramの日本人クリプトコミュニティでベータ募集",
+      "金融商品取引業登録済の事業者とOEM/提携交渉（執行レイヤーは委託）"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Polymarket統合機能を日本提供すると刑法賭博罪・賭博開帳図利罪の幇助に問われるリスク",
+      "個別ユーザー向け売買助言・運用代行は投資助言業/運用業の無登録営業として摘発対象（2026年から拘禁10年）",
+      "ユーザーウォレット鍵管理に伴うハッキング・誤執行時の損害賠償が個人では負担不能",
+      "暗号資産自動売買詐欺の摘発強化で広告審査・決済代行が拒否され、GTM導線が枯渇",
+      "金商法移管に伴う規制の不確実性で、登録業者と組まないと事業継続の見通しが立たない"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-23T00:00:00Z",
+  "review_guide_at": "2026-05-23T00:00:00Z",
+  "business_viability_at": "2026-05-23T00:00:00Z",
+  "advisor_view_at": "2026-05-23T00:00:00Z"
+}

@@ -1,0 +1,244 @@
+{
+  "name": "Open Vibe",
+  "description": "Ship your SaaS with AI, without getting stuck",
+  "ph_url": "https://www.producthunt.com/products/open-vibe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/74MX3XTFNJVI5S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-12T07:01:00Z",
+  "upvotes": 324,
+  "comments": 44,
+  "topics": [
+    "Education",
+    "SaaS",
+    "GitHub",
+    "Vibe coding"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Vibe coding blindly builds apps you don't understand. </p><p>Static tutorials teach with throwaway apps. </p><p></p><p>With Open Vibe your agent tutors you while you build and ship your SaaS using the tools and concepts of the pros.<br><br>What Open Vibe does:<br>🛠️ Sets up your local development environment for agentic coding for you<br>😎 Guides you through building full-stack apps (Auth, Payments, AI-integrations)<br>💻 Explains complicated processes like Git, Deployments, Databases, HTTP, etc along with animated diagrams<br>🧑‍🏫 Acts as your personalized tutors as you build and ship your own app ideas<br><br>Who it’s for:<br>🧑‍💻 Vibe Coders <br>🏗️ Aspiring Founders/Entrepreneurs <br>🔬 Learners experimenting with AI<br><br>Quick links<br>Website: <a href=\"https://OpenVibe.sh\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://OpenVibe.sh</a><br>GitHub: <a href=\"https://github.com/wasp-lang/ship-your-first-app\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://github.com/wasp-lang/shi...</a></p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The biggest problem with vibe coding right now isn't that people can't ship - it's that they ship without understanding what they shipped. You get a working app and zero ability to debug, extend, or make architectural decisions when the AI gets confused. Curious about how it handles the teaching moments. Does it pause and explain concepts in context (like \"here's why we're using this pattern\"), or is it more of a structured curriculum that happens to use your project as the canvas? Those are very different learning experiences.</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This feels like a bridge between learning and doing finally.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Build the skills of a pro coder while you ship a real SaaS app! Open Vibe turns Claude Code (or your agent of choice) into the ultimate SaaS tutor, teaching the most important concepts while you build.",
+  "featured_at": "2026-05-12T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/fbaad5be-8e3d-452d-844f-3557574e0d3d.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/756ab799-9c06-4fb9-b507-958e9a016810.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0b8119bf-db45-4415-aceb-af3b675abfeb.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8d137fb1-8f41-4559-a1c5-2a5a8fecfa1d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8765fc5c-e15f-4023-80cb-9970461a89ee.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4746d1ff-f1c3-4426-b6f4-7a4637d3a3e0.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/a4d6f0f3-20aa-4136-be0b-e3d6ad1e7581.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:30",
+  "landing_meta": "Open Vibe — Ship your SaaS with AI. Confidently. — Open Vibe turns Claude Code, or your agent of choice, into the ultimate SaaS-building assistant, helping you understand the systems behind a production-ready SaaS while building your own app idea.",
+  "landing_text": "Open Vibe — Ship your SaaS with AI. Confidently. We're launching on Product Hunt on May 12! calculating… Support us ↗ NEW v1.0 is live → Ship your SaaS with AI. Confidently. Open Vibe turns Claude Code (or your agent of choice) into the ultimate SaaS-building assistant, helping you understand the systems behind a production-ready SaaS while building your own app idea. Get started — it's free → Watch a demo ✓ 100% free & open source ✓ No signup required ✓ MIT licensed My ToDo App Create a new task What do I need to do? Create setup my app 17/04/2026 → learn web dev 17/04/2026 → BEHIND THE SCENES How does adding a task work? 01 /06 ✕ BROWSER React → SERVER Node.js → DATABASE PostgreSQL 📁 Open Vibe · Module 02 =} Open Vibe v1.0.0 ~/my-todo-app > what happens behind the scenes when I click \"add task\"? ● Let me show you with a diagram on your app. ● Diagram (render \"behind-the-scenes\" · 1/6) │ overlay rendered │ POST /add-task HTTP/1.1 │ Host: localhost:3000 > See it in action Here's a quick demo. Open Vibe — Claude Code Stop getting left in the dark. Stuck in the prompt-fix loop? On vibe coding platforms, every prompt is a roll of the dice. You burn credits going in circles instead of shipping an app you actually understand. 📁 my-saas credits: 93 / 100 > dashboard is empty ● fixed +3 credits > login is broken ● fixed +4 credits > the colors are STILL wrong ● fixed +6 credits > 🔒 my-saas.lovable.app/dashboard Welcome back, [object Object] ⚠ GET /api/fetch-data → 500 ¯\\_(ツ)_/¯ no data to display add data ↓ Open Vibe breaks the loop Why Open Vibe Grok the system. Ship faster. Tutorials teach with throwaway apps. Vibe coding builds apps you don't understand. Open Vibe fixes both problems at once. 💰 Free and open source Static tutorials cost $200–$400 for content that's outdated the day it ships. Open Vibe is open source and stays free forever. 🧩 Lessons live in your agent Run Open Vibe in your terminal, and your agent tutors as you build your SaaS. When something breaks, yo",
+  "pricing_signals": [
+    "free forever",
+    "open source",
+    "open-source",
+    "subscription",
+    "$200",
+    "$400"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:31",
+  "description_ja": "Claude Code 等の AI エージェントを SaaS 構築チューターに変える OSS 教材。実プロジェクトを作りながら Auth/決済/AI 統合の本質を学べる。",
+  "summary_ja": "Open Vibe は Wasp-lang が公開した MIT ライセンスの OSS 学習教材。ワンライナーのプロンプトを Claude Code などのエージェントに貼ると、ローカル環境構築から認証・決済・AI 連携を含むフルスタック SaaS を一緒に作りながら、Git/HTTP/DB といった裏側の概念をアニメ図解付きで教えてくれる。静的チュートリアルと「丸投げ Vibe Coding」の中間を埋めるポジションで、無料・サインアップ不要が特徴。",
+  "tldr_ja": "AI エージェントを SaaS 構築の家庭教師化する OSS。実アプリを作りながら認証・決済・DB の仕組みを学べる無料教材。",
+  "review_guide_ja": {
+    "what": "Claude Code や Cursor などのコーディングエージェントに読み込ませることで、エージェント自身が SaaS 構築の手順とその裏側にある概念（Git・HTTP・DB・デプロイ等）を生徒に教えてくれる OSS カリキュラム。Wasp フレームワークをベースに、認証・決済・AI 統合を含む実用 SaaS を題材として進行する。MIT・無料・サインアップ不要。",
+    "for_who": "Vibe Coding でアプリを作れるが裏側を理解していないアスピリングファウンダー、副業で SaaS を立ち上げたい非エンジニア、AI 駆動開発を体系的に学びたい学習者。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "MIT で全コード公開、Wasp + Claude Code/Cursor 等の標準ツールで構成。教材設計・図解アセット・プロンプト品質の作り込みは要するが技術的障壁は低い。"
+    },
+    "signals": [
+      "PH 324 upvotes / 44 comments と教育系としては好反応",
+      "日本でも 2026 年 3 月にバイブコーディング検定が開始されるなど学習需要が顕在化",
+      "Claude Code Pro $20/月の普及で対象ツールユーザーが拡大中",
+      "Wasp が YC 出身 OSS フレームワークで信頼性あり",
+      "Udemy で Claude Code 学習講座（受講者1100人超）が成立する市場性"
+    ],
+    "concerns": [
+      "OSS 完全無料のため直接収益化が困難",
+      "Wasp 依存のため Next.js/Rails 等の主流スタックに置き換えにくい",
+      "英語前提で日本人初学者にはハードルが高い",
+      "AI モデルの世代交代で教材陳腐化リスクが高い",
+      "認証・決済の実装が日本固有要件（Stripe JP、特商法）に未対応"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "Vibe Coding 検定開始、Udemy 関連講座が1100人超など、AI で SaaS を作りたい層は急拡大中。アスピリングファウンダー・副業層を中心に潜在需要は明確。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "Progate・ドットインストール・Udemy・DMM 生成AI CAMP などが既存。Claude Code 研修 (39,800円/2h) も存在するが、エージェント常駐の家庭教師型は空白。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "教材自体に直接の法規制はない。ただし生成物 SaaS を公開する場合は特商法・電気通信事業届出・個人情報保護法・PCI DSS（Stripe 経由なら回避）等は別途必要。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "現状は英語のプロンプトとドキュメント。日本人初学者には英語と Wasp フレームワーク両方のキャッチアップが必要で参入障壁が高い。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本では『教材は有料で安心』『動画＋日本語サポート』を好む文化が強く、無料 OSS だけでは到達性が限定的。法人研修ニーズはあり。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "DMM 生成AI CAMP（Claude Code マスターコース）",
+        "url": "https://genai.dmm.com/",
+        "note": "学び放題型の生成AIスクール。動画＋日本語サポート付きで初学者向け。"
+      },
+      {
+        "name": "Claude Code 研修（AIDD）",
+        "url": "https://aidd.jp/training/claude-code/",
+        "note": "個人向け2時間39,800円のオンライン実践講習。エンジニア寄り。"
+      },
+      {
+        "name": "Udemy『0から2週間でClaudeCode』講座",
+        "url": "https://www.udemy.com/course/902claudecode/",
+        "note": "単発1,500-3,000円。設計書テンプレ付きの実践型。"
+      },
+      {
+        "name": "Vibe Coding サロン",
+        "url": "https://vibecoding.salon/",
+        "note": "プログラミング知識ゼロでチャットしながら作る学習環境。2026年6月末まで限定運営。"
+      },
+      {
+        "name": "バイブコーディング検定（日本AIスキル認定協会）",
+        "url": "https://ai-skill-kentei.jp/exams/ask-vibecoding/start/",
+        "note": "日本初の無料 AI 資格。学習者の入口となる。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定商取引法",
+        "impact": "教材自体の販売時は表示義務あり。OSS 無料なら影響軽微。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "受講者の学習データを取得する場合は利用目的明示と安全管理措置が必要。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "学習者が作る SaaS を公開する際の届出要否を別途案内する必要あり。"
+      }
+    ],
+    "opportunity": "Open Vibe の日本語フォーク／ラッパーを作り、Wasp ではなく Next.js + Supabase + Stripe JP 等の国内主流スタックに置き換え、決済・特商法・電気通信事業届出の解説を組み込んだ『日本仕様 SaaS 立ち上げカリキュラム』として再パッケージ。法人研修・Zenn/Qiita コミュニティ・Discord サポートで差別化。OSS は集客フロント、有償は『日本語動画＋サポート＋テンプレ』で月額課金。",
+    "rationale": "需要面では Vibe Coding 検定や生成AI CAMP の隆盛が示すように追い風だが、本家 Open Vibe は英語前提・Wasp 依存・完全無料のため日本市場での直接展開は厳しい。一方、日本固有のスタック・法規制・サポート要件を上乗せした派生プロダクトには明確な余地がある。競合は中堅スクール中心で、エージェント常駐型の家庭教師は未充足。スコアは需要 7×0.30+競争 5×0.25+規制 8×0.20+ローカライズ 4×0.15+商習慣 5×0.10=5.65→6 で watch 判定。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "本家は OSS 完全無料・MIT で直接収益ゼロ。Wasp 本体の宣伝装置として機能。派生商用化は可能だが、無料代替が常に存在するためプライシング難度高。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本のエンジニア人口 132万人＋副業フリーランス 248万人、アスピリングファウンダー・非エンジニア層含めると数十万人規模の TAM。ただし有料転換率は低め。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Zenn/Qiita/X での技術記事、Claude Code コミュニティ、Vibe Coding 検定受験者層への接点が確保しやすい。法人研修ルートも有望。"
+      },
+      "timing": {
+        "score": 8,
+        "reason": "Claude Opus 4.7、Cursor、Vibe Coding 検定など 2026 年 5 月は AI 開発教育のピーク手前。あと 12-18 ヶ月は強い追い風。"
+      },
+      "solo_ops": {
+        "score": 6,
+        "reason": "教材作成・更新・サポートを一人で回すのは可能だが、AI モデル世代交代に追随する継続コストが重い。動画化すると工数増。"
+      }
+    },
+    "rationale": "Open Vibe そのものは OSS なので商売にならないが、日本市場向けに『日本語＋国内スタック＋法規制対応＋サポート』を載せた派生プロダクトとして再構成すれば、月額 2,000-4,000 円の学習サブスクや法人研修（10-30万円/社）として成立しうる。市場のタイミングは極めて良く、GTM も技術コミュニティ経由で個人開発者が回せる範囲。ただし AI モデル更新による教材陳腐化と無料代替の常時存在が継続性の壁。スコアは収益 4×0.25+市場 6×0.20+GTM 6×0.25+タイミング 8×0.10+運用 6×0.20=5.50→5。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2980,
+      "plans": [
+        "Free: GitHub の OSS カリキュラム本体（日本語化）と Discord 閲覧",
+        "Pro 月額2,980円: 動画解説＋日本語プロンプト集＋週次ライブQ&A＋Stripe JP/特商法テンプレ",
+        "Annual 29,800円: Pro 年払い（実質 2 ヶ月分割引）",
+        "法人研修プラン 30万円/回: 半日オンライン研修＋Slack 1ヶ月サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本の vibe coder／アスピリングファウンダー／副業で SaaS を立ち上げたい非エンジニア・ジュニアエンジニア層。Claude Code Pro 課金済みで英語ドキュメントに躓く層。",
+      "target_count": 80000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 1192000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita で『Claude Code で SaaS を作りながら学ぶ』連載を週次投稿",
+      "Vibe Coding 検定受験者向けにアフィリエイト経由で集客",
+      "X(Twitter) で個人開発者コミュニティ（#個人開発 #ClaudeCode）に毎週デモ動画",
+      "Discord に無料カリキュラム参加者を集めて Pro 転換動線",
+      "中小 SaaS 企業・スタートアップ向けに半日法人研修を販売"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "AI モデル世代交代（半年に1回）で教材が陳腐化し更新コストが膨らむ",
+      "本家 Open Vibe 含む無料 OSS 代替が常に存在し有料転換率が低い",
+      "Wasp 依存からの脱却（Next.js 等への移植）に初期工数が必要",
+      "DMM 生成AI CAMP 等の大手スクールが同領域へ参入するリスク",
+      "教材内で扱う Stripe/SendGrid 等の外部 SaaS の仕様変更追随コスト"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "research_enriched_at": "2026-05-23T00:00:00Z"
+}

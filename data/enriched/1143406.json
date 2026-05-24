@@ -1,0 +1,268 @@
+{
+  "name": "Loova Agents",
+  "description": "Your AI director for creating cinematic videos with ease",
+  "ph_url": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/4GHN2XBZOGAXZS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-16T07:01:00Z",
+  "upvotes": 396,
+  "comments": 84,
+  "topics": [
+    "Marketing",
+    "Artificial Intelligence",
+    "Video"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi everyone, this is Anbang, founder of <a href=\"https://loova.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Loova</a> 👋</p><p><br>Before building Loova Agents, I kept running into the same issue over and over again.</p><p>AI video creation is powerful now. But the workflow still feels broken.</p><p>People open 20 different tabs just to make one video.</p><p>Docs for ideas. GPT for scripts. One tool for images. Another for video. Another for music. Then editing software on top of that.</p><p>You go from:<br>idea → prompts → images → video → editing</p><p>And somewhere in the middle, the creative flow gets lost.</p><p><br>The bigger problem is that most AI tools only help you generate.<br>They don’t help you think visually.<br>They don’t help you direct.</p><p>But most creators are not trained filmmakers. They shouldn’t need to think like prompt engineers just to tell a story.</p><p>That frustration is what led us to build <a href=\"https://loova.ai/ai-agent\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Loova Agents</a>.</p><p><br>We wanted to create something that behaves more like a creative director than just another AI generator. <br>With Loova Agents, the goal is simple:</p><ul><li><p>understand the intent behind your idea</p></li><li><p>plan scenes before generation</p></li><li><p>generate visuals and BGM together</p></li><li><p>keep the whole project inside one infinite canvas</p></li><li><p>let creators shape stories visually, not tab by tab</p></li></ul><p>People are already using it for product ads, AI short films, talking avatar videos, UGC style content, and more.</p><p><br>We’re still very early. Still learning every day. Still building with the community.</p><p>If you try it, I’d genuinely love to hear your thoughts. A lot of what we build next will come directly from user feedback. Here is a quick link to explore: <a href=\"https://loova.ai/ai-agent/intro\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://loova.ai/ai-agent/intro</a></p>",
+      "votesCount": 17,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch, Anbang! Love the \"creative director\" framing. Here's what I'm wondering — during scene planning, how much control do I actually have over specific camera moves? Like if I want a slow dolly in or a whip pan, will the agent follow my command, or does it decide what's best based on the script?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This looks like a game-changer for solo creators. The jump from \"AI-generated video\" to \"cinematic video\" usually requires a lot of manual editing. Does the \"AI Director\" allow for specific camera movement commands (like pans or dollies), or does it infer the best shots based on the script?</p><h3></h3>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Tell Loova your idea in everyday words, and Loova agents act as your personal director to plan, direct, and generate your film. Make scroll-stopping ads, short films, and product videos fast. With an infinite canvas for boundless imagination, Loova Agents make professional video storytelling simple.",
+  "featured_at": "2026-05-16T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/058eaf05-8041-4782-a657-e567a7da18e8.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4b9619e2-c464-43b0-886e-9c75594e32c6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/41866d71-b1d1-4918-a70b-0d2a9728b90f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e8893218-a36b-4ed0-9e82-fb056fbaf5dd.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bb0326ec-1a4d-49e9-8452-15943d597b92.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/a0ca0021-87a5-41f9-b044-d13edc9366ab.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:12",
+  "landing_meta": "Loova Agents – Director-Like AI Video Agent for Creating Cinematic Videos — Loova Agents is a director-like AI video agent that helps you plan, direct, and generate videos in one place. Create product ads, films, UGC videos, and explainer videos faster using advanced AI models and an infinite creative canvas.",
+  "landing_text": "Loova Agents – Director-Like AI Video Agent for Creating Cinematic Videos Features Image to Video Turn any image into a moving video. Text to Video Create a video from simple text. AI Video Editor Edit videos with prompts and references. Reference to Video Create videos from multiple reference images. Models Happy Horse 1.0 New Seedance 2.0 HOT Wan 2.7 Video NEW PixVerse V6 NEW Kling 3.0 Google Veo 3.1 Grok Imagine Vidu Q3 Sora 2 Kling AI Seedance 1.5 Kling O1 Kling 2.6 Seedance 1.0 Wan 2.6 Wan AI PixVerse Wan 2.5 Vidu AI Hailuo AI Midjourney Features Text to Image Create stunning AI images from any idea. Image to Image Transform your images into new styles. Models GPT Image 2 NEW Nano Banana 2 NEW Wan 2.7 Image NEW Seedream 5.0 Nano Banana Pro HOT Grok Imagine Seedream 4.0 FLUX.2 Nano Banana Flux Kontext GPT Image 1 Midjourney Features Talking Photo Turn any image into a realistic talking photo. Character Swap Replace a person in a video or image with AI. Mimic Motion Transfer motion and expressions from videos to images. Text to Speech Convert text into a natural-sounding voice. Video AI Ad Generator Video Background Changer AI Video Enhancer Add Object to Video AI Video Object Remover AI Angle Changer View More Image AI Photo Editor AI Image Upscaler AI Background Changer AI Image Extender AI Angle Changer AI Product Image Generator AI Agent Pricing AI Video AI Image AI Avatar AI Tools Connect to OpenClaw Creative Partner Program API Pricing 52% OFF & UNLIMITED Log In Sign up for Free AI Video Agent Loova Agents Director-Like AI Video Agent Turn ideas into videos faster. Plan scenes, direct your story, and generate ads, films, UGC videos, and explainer videos on an infinite creative canvas. Try Loova Agents Highlights Create Like a Director with Loova Agents The First Director-Like AI Video Agent Loova Agents works like a creative director for your videos. Instead of manually building scenes, editing clips, and arranging shots, you can simply describe your vision",
+  "pricing_signals": [
+    "pricing",
+    "$15",
+    "$49",
+    "$39.2",
+    "$118",
+    "$99",
+    "$59.4",
+    "$476",
+    "$249",
+    "$119.5",
+    "$1554"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:15",
+  "description_ja": "アイデアを日常言葉で伝えるだけで、AIが監督役となりシーン設計から映像・BGMまで一括生成する映像制作エージェント。",
+  "summary_ja": "Loova Agentsは複数の最新動画生成モデル（Sora 2、Veo 3.1、Kling、Seedanceなど）を統合し、AIが「クリエイティブディレクター」としてシーン計画・生成・編集を無限キャンバス上で一気通貫に行うSaaS。広告・短編映画・UGC・解説動画を、タブを行き来せず1画面で完成させる点が特徴。料金は$15〜$1,554の幅広いプラン。",
+  "tldr_ja": "AIが監督役となり、アイデアからシーン計画・動画生成・BGM・編集まで無限キャンバス上で一括処理する映像制作エージェント。",
+  "review_guide_ja": {
+    "what": "Sora 2、Veo 3.1、Kling、Seedanceなど主要な動画生成モデルをラップし、AIエージェントがプロンプトからシーン構成・カット割り・音楽・編集まで自律的に組み立てる「映像監督AI」。出力結果は無限キャンバス上で視覚的に編集でき、広告・短編映画・UGC・商品紹介などの用途に対応。プロンプトエンジニアリングを不要にし、創作の文脈を保ったままアウトプットを得るUXが提供価値。",
+    "for_who": "映画的なクオリティの動画を作りたいが、複数AIツールを行き来する余裕がない個人クリエイター・ソロマーケター・小規模D2C/EC事業者・SNS広告運用者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "コア機能（動画生成）は外部APIラッパーだがGPUコストと品質の差別化が困難。エージェント設計・無限キャンバスUX・モデル選定の最適化に長期投資が必要。"
+    },
+    "signals": [
+      "Product Hunt初日396 upvotes/84コメントと高い注目度",
+      "日本の縦型ショート動画広告市場は2024年900億円・前年比171%成長",
+      "TikTok Shop日本上陸（2025年6月）で動画クリエイティブ需要急増",
+      "国内SaaSはRICHKA/VIDEO BRAINともに法人向け定額制で成長",
+      "Sora/Veo/Klingを単一UIで触れる統合プラットフォームは国内に少ない"
+    ],
+    "concerns": [
+      "Runway/Sora/Kling本家・Canva・Adobe・国内RICHKAと真っ向競合",
+      "外部モデルAPIラッパーは原価率が高くソロ開発で粗利確保が難しい",
+      "AI生成動画の肖像権・パブリシティ権ガイドラインが2026年整理中",
+      "日本語プロンプト・縦型9:16・テロップ自動生成等の現地最適化が必須",
+      "GPU/API原価変動の影響を直接受けるため価格設計が難しい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "動画広告市場7,249億円、縦型ショート動画900億円(+71%)、TikTok Shop上陸で動画制作需要は強い。個人〜中小企業まで内製ニーズが急拡大。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Runway/Sora/Kling/Pika等の本家、Canva AI Video、国内RICHKA・VIDEO BRAIN・Vrewが既に支配的。同種の『統合AI監督』も海外勢が複数。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "AI推進法成立、文化庁ガイドラインで方向性は明確化されつつあるが、肖像権・パブリシティ権は法務省で2026年4月から整理中。模倣リスクの注意必要。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "日本語プロンプト精度・縦型最適化・日本人顔の自然生成・テロップ文化への対応が課題。Klingはアジア顔生成が強い等、モデル選定の最適化が必要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "国内B2Bは年間契約・対面導入支援を求める傾向が強く、海外型のセルフサーブSaaS UXとミスマッチ。法人請求書・銀行振込対応も必須。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "RICHKA（リチカ）",
+        "url": "https://richka.co/",
+        "note": "国内動画自動生成SaaS導入数No.1。定額制で広告代理店・大企業を中心に250社超導入。"
+      },
+      {
+        "name": "VIDEO BRAIN（Open8）",
+        "url": "https://open8.com/",
+        "note": "AI動画編集クラウド国内シェア2年連続No.1。月額15万円〜の法人向け定額制で本数無制限。"
+      },
+      {
+        "name": "Vrew",
+        "url": "https://vrew.ai/ja/",
+        "note": "韓国発、日本語UI完備。テキストから自動字幕・AI音声・ショート動画生成。個人クリエイターに人気。"
+      },
+      {
+        "name": "Canva AI Video",
+        "url": "https://www.canva.com/ja_jp/ai-video-generator/",
+        "note": "日本語UI・無料枠あり。デザイン統合の手軽さで個人〜中小企業層を獲得。"
+      },
+      {
+        "name": "Runway / Kling / Sora（直接利用）",
+        "url": "https://runwayml.com/",
+        "note": "本家AI動画モデルは個人クリエイターが直接契約。Kling月額1,500円〜、Runway $15〜と低価格帯競争が激化。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法（文化庁ガイドライン）",
+        "impact": "学習段階は広く許容、生成・利用段階で既存著作物に類似すると依拠性が認定されるリスク。商用利用前のチェック機構が必要。"
+      },
+      {
+        "law": "肖像権・パブリシティ権（法務省2026年4月整理）",
+        "impact": "著名人の顔・声を無断生成すると侵害認定の可能性。生成側プラットフォームに事業者責任が及ぶ動き。"
+      },
+      {
+        "law": "AI推進法（2026年成立）",
+        "impact": "AI事業者への調査・指導・助言の枠組みが導入。悪用時の通報窓口対応が必要となる可能性。"
+      }
+    ],
+    "opportunity": "完全クローンは不利だが、『縦型ショート動画特化×日本語プロンプト×TikTok Shop連携』に絞れば隙間あり。例：商品画像をアップロードするだけで日本人ナレーション・テロップ・縦型9:16・15秒尺の広告クリエイティブをAIエージェントが一括生成。Shopify/TikTok Shop API連携で『商品データ→広告動画→配信』を完結させるラインに勝機。",
+    "rationale": "需要は強いが供給側も既に飽和。Runway/Sora/Klingの直接利用＋Canva/RICHKA/Vrewが各レイヤーを抑えており、汎用『AI監督エージェント』を国内向けに作っても差別化困難。さらに動画生成API原価が高くソロ開発の粗利確保が厳しい。ただしTikTok Shop上陸で縦型ショート動画広告は171%成長中であり、ECに垂直特化（商品DB連携・日本人顔・縦型・15秒最適化）ならニッチで成立し得る。汎用ビルドはskip、特化型ならwatch相当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "Loova本家は$15〜$1,554の幅広いプラン。月額制は機能するが動画生成APIコストが粗利を圧迫。usage基盤の従量制が現実的。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内動画広告7,249億円・縦型900億円・TikTok Shop500億円規模見込み。EC約44万社、副業クリエイター・YouTuber含め広いTAM。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "個人セグメントはSEO/YouTube/Xで獲得可能だがCPA高い。法人セグメントは対面営業と年間契約が必要で、ソロ開発では難しい。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "Sora終了発表で乱戦化、TikTok Shop日本上陸、AI動画モデルがコモディティ化しラッパー価値が一時的に高まる。タイミングは良好。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "外部API原価管理、モデル切替、生成品質モニタリング、コンテンツ規制違反対応、CSなど運用負荷が高い。ソロ運営は厳しい。"
+      }
+    },
+    "rationale": "市場規模とタイミングは追い風だが、競合過多と原価率の高さがビジネス成立の壁。汎用『AI監督ツール』としてはRunway/Canva/RICHKAに勝てない。一方、縦型ショート動画広告に絞り込みTikTok Shop/Shopify連携で『商品→広告動画→出稿』のワークフロー特化なら、ARPU 3,000〜10,000円帯の中小EC事業者向けにニッチで成立する余地はある。それでも継続的なモデル原価変動とコンテンツ規制対応はソロ開発で持続困難。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 4000,
+      "plans": [
+        "Free: 月3本生成・透かしあり（リード獲得）",
+        "Creator 月額1,980円: 月20本・縦型/横型・テロップ自動生成",
+        "Pro 月額4,980円: 月100本・商用利用・モデル選択可・ブランドキット",
+        "Business 月額19,800円: 無制限・チーム共有・Shopify/TikTok Shop連携・優先サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "TikTok Shop/Shopify/楽天/Amazonに出品する中小EC事業者および動画広告を内製したいSNSマーケター・副業クリエイター層",
+      "target_count": 200000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 2400000
+    },
+    "recommended_gtm": [
+      "TikTok/X/YouTube Shortsでの『AIで広告動画30秒で作る』デモ動画SEO",
+      "Shopifyアプリストア / TikTok Shopパートナー登録で公式チャネル獲得",
+      "EC支援系のnote/X発信者・YouTuberへのアフィリエイト紹介",
+      "縦型動画広告に強い代理店・OEM事業者へのホワイトラベルOEM提供",
+      "BASE/STORES等の中小EC基盤と連携した『商品データ→動画化』ワンクリック導線"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Runway/Sora/Kling本家が直接日本語対応・低価格化し中間レイヤーが淘汰されるリスク",
+      "動画生成APIの原価変動・モデル提供終了でビジネスモデルが崩れるリスク",
+      "AI生成動画の肖像権・著作権侵害クレーム発生時の事業者責任",
+      "Canva・Adobe・国内RICHKAなど既存大手のAI監督機能追加で差別化喪失",
+      "サポート・モデレーション運用がソロでは追いつかず炎上・解約リスク"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

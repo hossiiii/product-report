@@ -1,0 +1,252 @@
+{
+  "name": "Tailgrids 3.0",
+  "description": "Open-source React UI library for Tailwind and AI Workflow",
+  "ph_url": "https://www.producthunt.com/products/tailgrids/launches/tailgrids-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/SRA36BX2QALQPN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-10T07:01:00Z",
+  "upvotes": 348,
+  "comments": 23,
+  "topics": [
+    "Design Tools",
+    "Open Source",
+    "Developer Tools",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt Folks 👋<br></p><p>Super excited to finally share <strong>Tailgrids 3.0</strong> with you all.</p><p>We have spent the last several months rebuilding Tailgrids from the ground up. The original goal was simple: keep what developers loved: Clean React UI components built on Tailwind CSS with modern consistent design and zero lock-in. We also rebuilt everything else for how dev and design teams actually ship today.<br></p><p>The result is a complete React UI system that bridges code and design, with a real CLI, full theming, and AI-ready workflows baked in.<br></p><p>✨ <strong>WHATS NEW IN TAILGRIDS 3:</strong></p><ul><li><p><strong>CLI tooling</strong>: Install components in seconds with npx <a href=\"https://github.com/Tailgrids/tailgrids\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@tailgrids/cli@latest</a> add button. No more copy-paste.</p></li><li><p><strong>600+ handcrafted </strong><a href=\"https://tailgrids.com/docs/components\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>components</strong></a><strong>, </strong><a href=\"https://tailgrids.com/blocks\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>blocks</strong></a><strong> &amp; </strong><a href=\"https://tailgrids.com/templates\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>templates</strong></a>: Covering dashboards, SaaS, marketing, eCommerce, and AI products</p></li><li><p><strong>TypeScript-first React architecture</strong>: Every component rebuilt for performance, tree-shaking, and modern React workflows.</p></li><li><p><strong>Complete </strong><a href=\"https://tailgrids.com/figma\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Figma design system</strong></a>: With 2,800+ variants, 900+ tokens, Auto Layout 5.0, fully synced with the codebase</p></li><li><p><strong>Robust theming system</strong>: Design tokens for colors, typography, spacing, radius, and themes. Allows you to customize everything and switch between themes (dark/light/...)</p></li><li><p><strong>Ready for AI Workflow: </strong><a href=\"https://tailgrids.com/docs/mcp\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>MCP server</strong></a><strong>, Markdown docs, and more</strong>: Connect Tailgrids to LLMs and generate React components also markdown and <a href=\"https://tailgrids.com/design.md\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">DESIGN.md</a> files makes it more accessible for AI</p></li><li><p><strong>Tailgrids </strong><a href=\"https://tailgrids.com/icons\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>SVG icon library</strong></a>: Searchable, themeable, copy as SVG or JSX</p></li><li><p><a href=\"https://tailgrids.com/docs\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>New docs portal</strong></a>: Much improved and detailed developer docs, live previews, searchable, and contributor-friendly.<br></p></li></ul><p>🔗<strong> Useful Links</strong></p><ul><li><p><a href=\"https://tailgrids.com/roadmap\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Public roadmap</a></p></li><li><p><a href=\"https://github.com/Tailgrids\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Tailgrids on Github</a></p></li><li><p><a href=\"https://x.com/tailgrids\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Tailgrids on X/Twitter</a></p></li><li><p><a href=\"https://tailgrids.com/docs/changelog\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Changelog / Update Logs</a></p></li></ul><p><strong>💜 We'd love your feedback </strong><br>Specially on the new components, CLI workflow, the Figma kit, and the MCP integration. <br>Drop questions, ideas, or anything you'd want to see next. We're around all day 🙌<br></p><p>— Musharof from Tailgrids Team</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Love this direction 🚀<br>AI is definitely speeding up frontend development, but great UI still needs taste, structure, and personality. TailGrids 3.0 feels like a strong balance between speed and craftsmanship. Congrats on the launch and best wishes for Product Hunt 🙌</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Great work buddy as always! Best of luck!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "TailGrids 3.0 is a complete rebuild - a modern open-source React UI library and design system that unifies React, Tailwind and Figma. Ship real-world web projects with 600+ components, blocks, and templates for dashboards, AI, ecommerce, SaaS, and marketing sites. Includes CLI install, design tokens for theming, and an MCP server for AI-ready workflows. TypeScript-first, accessible, production-ready, with a Figma kit that mirrors the codebase 1:1",
+  "featured_at": "2026-05-10T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/7ecc20a2-9410-43c5-9121-5dc66db93b66.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/882cb709-2063-4b73-b7b8-c74b46c6dda0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c175c741-3a67-4e46-9e17-a8ad9913bbd9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d066dc95-292c-4930-b5aa-a21aeed1bb49.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/b8e16d63-ba54-4fde-9bf3-21a20c8a70cb.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:12",
+  "landing_meta": "Tailgrids UI – Tailwind React Component Library and Design System — Tailgrids UI is an open-source React component library built with Tailwind CSS. Build production-ready apps faster with reusable components, UI blocks, templates, CLI tooling, theming, and a Figma design system.",
+  "landing_text": "Tailgrids UI – Tailwind React Component Library and Design System Trusted by 150k+ developers, designers and teams worldwide React UI Components, Powered by Tailwind CSS A complete React component library built for production. Ship modern web apps faster with 600+ free components, blocks, and templates in one unified React, Tailwind and Figma UI library. Built for developers and designers, optimized for performance, accessibility, and consistency. AI-workflow ready, with a full Figma design system and React UI system included. npx @tailgrids/cli@latest init Browse All - Components User Profile Account Settings Language & Region Support Billing & Plans Button Remember Me Loading 0 % All Projects Active Users 364 Live visitors Traffic Stats Today Week Month New Subscribers 2.4K +3.85% than last day Conversion Rate 1.2K -5.39% than last day Page Bounce Rate 285 +12.74% than last day Overview Notification Analytics Customers Upcoming Schedule Wed, 11 jan 09:20 AM Business Analytics Press Exploring the Future of Data-Driven +6 more Fri, 15 feb 10:35 AM Business Sprint Techniques from Business Sprint +2 more Complete React UI System Built on Tailwind CSS React Tailwind CSS Figma Trusted by 150,000+ devs, designers, and teams worldwide. Main Features Build faster with a complete React UI component library 600+ free and pro React UI components, production-ready blocks, templates, and a complete design system built for teams who design, build, and ship at scale. Applications Marketing E-commerce Dashboards AI 600+ UI Blocks and Components Build faster with 600+ reusable React and Tailwind CSS UI blocks for applications, dashboards, marketing sites, eCommerce, and AI products. Ready-to-Launch Templates Production-ready React and Tailwind CSS templates built for real product flows, helping teams launch faster at scale. Figma Design System 900+ Figma components with tokens and variants for precise, scalable design-to-development workflows. 100+ Free UI Components Open-source Re",
+  "pricing_signals": [
+    "free trial",
+    "open-source",
+    "subscription",
+    "pricing",
+    "premium",
+    "$1",
+    "$15",
+    "$23",
+    "$29",
+    "$2",
+    "$40",
+    "$46"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:14",
+  "description_ja": "Tailwind CSS で構築されたオープンソースの React UI コンポーネントライブラリ。600 以上のコンポーネント、CLI、Figma 連携、MCP サーバーを備える。",
+  "summary_ja": "Tailgrids 3.0 はゼロから再構築された React UI システム。600+ のコンポーネント／ブロック／テンプレート、CLI でのインストール、Figma デザインシステム 1:1 同期、テーマトークン、AI 連携用 MCP サーバーを統合。MIT ライセンスの OSS だが、Pro ブロックや Figma キットは有償。shadcn/ui や Tailwind Plus と直接競合するコモディティ領域。",
+  "tldr_ja": "Tailwind 上に 600+ コンポーネントと Figma・MCP まで揃えた OSS React UI 系。shadcn/ui の牙城に挑む後発勢で日本での独自需要は薄い。",
+  "review_guide_ja": {
+    "what": "React + Tailwind 向けの大規模 UI コンポーネントライブラリ。CLI（npx で導入）、TypeScript 完全対応、Figma との 1:1 同期、デザイントークン、MCP サーバー（LLM 連携）が特徴。OSS（MIT）コア + 有償 Pro（ブロック・テンプレート・Figma キット）のハイブリッド型。",
+    "for_who": "Tailwind を採用する React/Next.js 開発者、SaaS／ダッシュボード／マーケサイトを高速に立ち上げたい個人開発者・受託開発者・小規模スタートアップ。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "600+ コンポーネントを自作・保守し、Figma とコード両方を 1:1 で同期する作業量は個人開発の範囲を超える。shadcn/ui 等の既存資産が圧倒的。"
+    },
+    "signals": [
+      "150,000+ ユーザー実績を Trusted by として訴求",
+      "PH で 348 upvote / 23 コメントの安定したローンチ反応",
+      "AI コーディング時代に合わせた MCP サーバー対応の先取り",
+      "Figma 2,800+ バリアントの完全同期は希少",
+      "OSS で導入障壁を下げつつ Pro で収益化する成熟モデル"
+    ],
+    "concerns": [
+      "shadcn/ui の独占的支持の中で差別化が薄い（コピー型 vs 一体型）",
+      "v0/21st.dev Magic など AI 生成系に長期的に置き換わるリスク",
+      "Tailwind Plus 公式・MUI・Chakra など重量級プレイヤーが揃う",
+      "日本語ドキュメント・コミュニティはほぼ皆無で JP 向け差別化なし",
+      "OSS 価値を維持しつつ Pro 売上を伸ばすバランス難易度が高い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "JP の React 開発者は Tailwind を採用するが、UI ライブラリ需要は shadcn/ui が既に吸収済み。Tailgrids 単体への需要シグナル（日本語記事・採用事例）はほぼ確認できない。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "shadcn/ui、MUI、Chakra UI、Tailwind Plus、21st.dev Magic、Mantine など強豪が密集。日本コミュニティでは特に shadcn/ui がデファクト化。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "開発者向け OSS ライブラリのため業法・個人情報保護法等の直接的制約はほぼなし。MIT ライセンスで配布リスクも低い。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "コードは英語ベースで JP 開発者も問題なく利用可。ただし日本語ドキュメントや事例がなく、JP 限定の優位性も作りにくい。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "JP の B2B SaaS や受託では細かい UX 調整・帳票・全角文字対応など独自ニーズあり、海外 UI キットは合致しにくい場面が残る。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "shadcn/ui",
+        "url": "https://ui.shadcn.com/",
+        "note": "JP React コミュニティのデファクト。Qiita/Zenn で多数の解説記事、コピー型で自由度が高い。"
+      },
+      {
+        "name": "MUI (Material UI)",
+        "url": "https://mui.com/",
+        "note": "JP の B2B SaaS で広く採用。DataGrid 等の業務系コンポーネントが豊富で Pro 版商習慣と親和。"
+      },
+      {
+        "name": "Chakra UI",
+        "url": "https://chakra-ui.com/",
+        "note": "学習コストが低く JP スタートアップでも採用例多数。アクセシビリティ強み。"
+      },
+      {
+        "name": "Tailwind Plus (旧 Tailwind UI)",
+        "url": "https://tailwindcss.com/plus",
+        "note": "Tailwind 公式の有償 UI 集。買い切りモデルで JP の個人開発者にも一定の認知。"
+      },
+      {
+        "name": "21st.dev Magic MCP",
+        "url": "https://21st.dev/",
+        "note": "AI で UI 生成する MCP サーバー。Tailgrids の MCP 機能と機能的に競合。"
+      },
+      {
+        "name": "デジタル庁デザインシステム",
+        "url": "https://design.digital.go.jp/",
+        "note": "公共・準公共向け案件で参照されるデファクト。民間でも参考にされ JP 独自の存在感。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "MIT License / OSS ライセンス整合",
+        "impact": "依存 OSS とのライセンス互換性に注意。商用利用は基本可だが、有償 Pro 部分の再配布規約は要確認。"
+      }
+    ],
+    "opportunity": "JP 向けの隙間としては、(1) 帳票・データグリッド・全角入力 UI など JP B2B SaaS 特有のコンポーネント集、(2) デジタル庁デザインシステム準拠の公共・行政テンプレート、(3) 日本語フォント・縦書き・ふりがな等を組み込んだ和文最適化テーマ、などが考えられる。ただし Tailgrids そのままの転用は競争上厳しい。",
+    "rationale": "Tailgrids は技術的に完成度が高いが、グローバルでも shadcn/ui が圧倒的優位な領域での後発。日本市場でも shadcn/ui・MUI・Chakra・Tailwind Plus が既にメインストリームを占め、JP 独自の差別化軸も乏しい。法規制・ローカライズは問題ないが、需要・競合の両軸で苦しい。個人開発者が同種プロダクトで参入する旨味は薄く、模倣ではなく JP 特化のニッチ（行政準拠／帳票特化等）に振り切る場合のみ可能性が残る。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "OSS + Pro（ブロック・Figma キット）のハイブリッド。買い切り中心の市場で MRR を積みにくく、ARPU は $15-46 程度。個人開発者には収益化の天井が見えやすい。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "JP の React 開発者は十分多い（案件市場で 1 位）が、UI キットに有償課金するセグメントは限定的。受託・スタートアップ合算でも数千社規模が現実。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "OSS UI キットの GTM は GitHub Star・PH・SEO 中心で英語コンテンツ勝負。JP 個人開発者が後発で英語コミュニティに食い込むのは難度が極めて高い。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "MCP / AI コーディング統合は時宜を得ているが、同分野は 21st.dev 等が先行。Tailwind 4 + React 19 への対応需要は追い風。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "600+ コンポーネントの保守、Figma 同期、CLI、MCP、ドキュメント、テーマ、テストを単独で回すのは現実的でない。チーム前提のプロダクト形態。"
+      }
+    },
+    "rationale": "技術的には洗練されているが、ビジネスとしては (1) 買い切り中心で LTV を伸ばしにくい、(2) shadcn/ui が無料で君臨する中で価値訴求が困難、(3) JP 単独市場では年商規模で月数十万円〜数百万円が現実的天井、(4) 単独開発者では保守・SEO・コミュニティ運営すべてを回し続けるのが困難。Tailgrids 自体を真似るのではなく、JP B2B 帳票特化や行政準拠など狭い縦軸に振り切らないと事業性は出ない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2000,
+      "plans": [
+        "Free (OSS): 基本コンポーネント＋CLI＋ドキュメント",
+        "Pro 月額 2,000 円: 全ブロック・テンプレート・Figma キット・優先サポート",
+        "Team 月額 6,000 円/シート 5: チーム共有ライセンス・Figma マルチシート",
+        "Lifetime 49,800 円買い切り: 個人開発者・受託向け一括ライセンス"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "JP の React/Next.js を扱う個人開発者・受託フリーランス・小規模スタートアップで Tailwind を採用しているチーム",
+      "target_count": 5000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 50000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita で JP 向けの日本語ドキュメント・ハンズオン記事を高頻度発信",
+      "JP B2B SaaS 帳票 UI・全角入力・印影ダイアログなど和製ニッチに特化したテンプレ集を別線で出す",
+      "デジタル庁デザインシステムに準拠した React テンプレを無償公開し名乗りを上げる",
+      "GitHub Star を稼ぐより、PH・X(JP) コミュニティで継続的にニッチ需要を耕す",
+      "AI コーディング向け MCP プリセットを日本語プロンプト最適化で配布"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "shadcn/ui のデファクト化で UI キット領域そのものがコモディティ・無償化",
+      "v0 / 21st.dev Magic 等 AI 生成系に UI キット市場が浸食される",
+      "Tailwind Plus 公式や MUI Pro など資金力のある競合に価格・品質で挟撃",
+      "600+ コンポーネント保守と Figma 同期を単独で継続するのは事実上不可能",
+      "JP のみでは月商数万円規模に留まり、海外展開には英語コンテンツ・コミュニティ投資が必須"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_analyzed_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0"
+}

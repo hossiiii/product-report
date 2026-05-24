@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Minions (Week 2026-W19) — Micro-SaaS Trend Research</title>
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a href="../index.html" class="site-title">Micro-SaaS Trend Research</a>
+    <p class="site-subtitle">Product Hunt の launch を週次調査・日本市場適合度で評価</p>
+  </div>
+</header>
+<main class="container">
+
+
+
+
+
+
+
+<nav class="breadcrumb">
+  <a href="index.html">← Week 2026-W19</a>
+</nav>
+
+<section class="product-header">
+  <img class="thumb-lg" src="https://ph-files.imgix.net/b8a5b01b-75e3-487b-807f-c3dff615cad4.png?w=320&h=320&fit=crop&auto=format" alt="">
+  <h1>Minions</h1>
+  <p class="badges">
+    <span class="badge badge-overall" title="overall">⭐ 4/10</span>
+    <span class="badge badge-jf" title="japan_fit">🇯🇵 4/10</span>
+    <span class="badge badge-bv" title="business_viability">💼 4/10</span>
+    <span class="pill pill-consider">consider</span>
+  </p>
+  <p class="tldr-big">Hermes Agentを並列大量運用する開発者向けに、ハートビート監視付きカンバン型タスクボードをOSSで提供する運用レイヤー</p>
+  <p class="summary">Hermes Agentを20件並列で動かすと運用負荷で破綻する課題に対し、Minionsはカンバン型タスクボード+ハートビートチェックイン+人間レビューキューを提供。SQLiteベースでローカル実行可能、Agent37のホスト版も並行展開。OpenClaw対応がロードマップ次の優先項目。Hermes/OpenClawヘビーユーザー向けエージェント運用層という明確な立ち位置。</p>
+
+  <p class="links">
+    <a href="https://www.producthunt.com/r/AW7QWKE3MQG5QD?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+product-report+%28ID%3A+284436%29" target="_blank" rel="noopener">公式サイト ↗</a>
+     / <a href="https://www.producthunt.com/products/minions/launches/minions?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+product-report+%28ID%3A+284436%29" target="_blank" rel="noopener">Product Hunt ↗</a>
+  </p>
+</section>
+
+
+<section class="media">
+  <img src="https://ph-files.imgix.net/a38598ec-1cf3-4024-960a-fa36608f4d13.jpeg?w=720&auto=format" alt="" loading="lazy"><img src="https://ph-files.imgix.net/28f55b4c-8c53-4ac6-8d1a-8c481a0f2352.jpeg?w=720&auto=format" alt="" loading="lazy"><img src="https://ph-files.imgix.net/772342d0-8497-45b2-8f23-cd7b9e29b2e9.jpeg?w=720&auto=format" alt="" loading="lazy"><img src="https://ph-files.imgix.net/406c8e48-e357-4154-93e2-b0cb40d4b6f7.jpeg?w=720&auto=format" alt="" loading="lazy"><img src="https://ph-files.imgix.net/bdbc9483-89e1-4f68-9707-3f6aebd664b7.jpeg?w=720&auto=format" alt="" loading="lazy">
+</section>
+
+
+<section class="basics">
+  <h2>基本情報</h2>
+  <dl class="card-meta">
+    <dt>和訳</dt><dd>Hermes Agent向けのOSSミッションコントロール。複数の長時間稼働タスクをカンバンで一元管理し、ハートビート監視で詰まりを自動検知する。</dd>
+    <dt>原文</dt><dd>Open source mission control for Hermes agent</dd>
+    <dt>トピック</dt><dd>Open Source, GitHub, YC Application</dd>
+    <dt>価格シグナル(PH)</dt><dd>open source, subscription, pricing, premium</dd>
+    <dt>PH 指標</dt><dd>upvotes 339 / comments 23</dd>
+    <dt>launched</dt><dd>2026-05-08</dd>
+  </dl>
+</section>
+
+
+<section class="advisor-view">
+  <h2>アドバイザー所見 <span class="pill pill-consider">consider</span></h2>
+  <dl class="card-meta">
+    <dt>推奨課金モデル</dt><dd><code>freemium</code> / ARPU ¥2,500</dd>
+    <dt>プラン例</dt><dd><ul class="inline-list"><li>OSS Local: 無料(SQLite/単一ユーザー)</li><li>Cloud Solo: 月額1,980円(ホスト+10並列+履歴30日)</li><li>Cloud Team: 月額4,980円/シート(SSO+監査ログ+Backlog/Slack連携)</li><li>Enterprise: 月額29,800円〜(オンプレ/専有環境+SLA)</li></ul></dd>
+    <dt>ターゲット</dt><dd>Claude Code/Cline/Codex CLIを業務で並列運用する個人開発者・小規模AI受託・SaaSスタートアップのエンジニア</dd>
+    <dt>対象規模</dt><dd>20,000 × 3 年で 1.5% 獲得 → 月商 ¥750,000</dd>
+    <dt>推奨 GTM</dt><dd><ul class="inline-list"><li>note/Zenn/Qiitaで『Claude Code並列運用カンバン』系の日本語記事を週次連載</li><li>X(旧Twitter)で個人開発者インフルエンサーへ早期アクセス配布</li><li>Vibe Kanbanからの乗り換えガイド+移行スクリプトを公開</li><li>Backlog/Slack/Notion通知連携を最初に実装しSIer受託層に訴求</li><li>技術書典・AI Agent Meetupでデモ+ハンズオン</li></ul></dd>
+    <dt>時間窓</dt><dd>12 ヶ月</dd>
+    <dt>個人開発継続性</dt><dd><code>hard</code></dd>
+  </dl>
+  
+  <h3>クリティカルリスク</h3>
+  <ul><li>GitHub Agent HQ/Cursor純正カンバンが標準機能化し無料化される</li><li>Hermes/OpenClaw双方のAPI破壊的変更で工数の半分が追従に消える</li><li>Vibe Kanbanが先にClaude Code日本市場を固めシェア取れない</li><li>並列実行でLLMコストが膨らみ顧客の月額予算がLLM側に流れる</li><li>OSSコミュニティ運用とホスト版SaaS開発の二重負荷で個人継続困難</li></ul>
+  
+</section>
+
+
+
+<section class="biz-viability">
+  <h2>事業成立性 💼 4/10</h2>
+  
+  <div class="axes">
+    
+      
+      <div class="axis-card">
+        <h4>収益化 <span class="axis-score">4/10</span></h4>
+        <p>OSSは無料、収益はAgent37ホスト版頼み。個人開発者は自分でホストしがちでホスト版ARPUは月$15-30(2,250-4,500円)程度が天井。並列実行のLLMコスト負担も加わり財布の取り合いが厳しい</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>市場規模 <span class="axis-score">4/10</span></h4>
+        <p>日本のITエンジニア144万人のうちAIコーディングエージェントを5タスク以上並列運用する層は1-2%(1.4-2.8万人)に絞られ、Hermes/OpenClaw限定だと数千人規模まで縮小</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>GTM <span class="axis-score">4/10</span></h4>
+        <p>OSS+PHでの開発者直販モデル。Hermes Agent本体ユーザー基盤に乗れる反面、日本ではHermes自体の認知が薄くnote/Zenn/X発信から地道に積む必要</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>タイミング <span class="axis-score">7/10</span></h4>
+        <p>AIエージェント並列運用がまさに現場の痛点になる時期、GitHub Agent HQも2026早期展開で市場意識が高まる絶妙なタイミング。ただし窓は12-18ヶ月で大手プラットフォームに飲まれるリスク</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>個人運用 <span class="axis-score">5/10</span></h4>
+        <p>Node+SQLiteのシンプル構成は個人継続可能だが、Hermes/OpenClaw両方のAPI追従+ホスト版運用+OSSコミュニティ対応で実質フルタイム必要。完全ソロは厳しい</p>
+      </div>
+    
+  </div>
+  
+  <p class="rationale"><strong>事業性総評:</strong> 並列エージェント運用の痛点は本物で、タイミングも良いが、(1)対象runtimeをHermes/OpenClawに絞ったことで日本ではTAMが極小(2)Vibe Kanban等の競合が既に先行(3)OSS無料モデルとホスト版SaaSの二段構えで開発負荷が高い(4)LLMコストが顧客財布を圧迫し月額の天井が低い。本家の海外展開は成立しても、日本でのコピー事業は時間窓内に十分なARPU×顧客数を取れない可能性が高い</p>
+</section>
+
+
+
+<section class="japan-fit">
+  <h2>市場機会 🇯🇵 4/10</h2>
+  
+  <div class="axes">
+    
+      
+      <div class="axis-card">
+        <h4>需要 <span class="axis-score">5/10</span></h4>
+        <p>日本でもAIコーディングエージェント採用率は78%、Vibe Kanban関連の日本語記事・Udemy講座も増加中で並列管理ニーズはある。ただしHermes Agent/OpenClawの国内利用は限定的で、主流はClaude Code/Cursor/Cline</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>競合 <span class="axis-score">3/10</span></h4>
+        <p>Vibe Kanban、Cline CLI(カンバンモード)、agent-kanban、parallel-code、builderz-labs/mission-controlなどOSS競合が乱立。Claude Code対応の方が日本では刺さるためrunner選択で差別化困難</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>規制 <span class="axis-score">8/10</span></h4>
+        <p>ローカル実行+SQLiteで個人情報保護法上のリスクは低い。ホスト版に進むと監査ログ・データ越境の懸念が出るが個人開発者向けOSS範疇では問題薄い</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>ローカライズ <span class="axis-score">4/10</span></h4>
+        <p>UIは英語想定、Hermes Agentの日本語ドキュメント自体が限られる。日本市場で広げるにはClaude Code対応とUI日本語化、note/Zenn等の日本語コンテンツ整備が必要</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>商習慣 <span class="axis-score">4/10</span></h4>
+        <p>日本のチーム開発はSlack+GitHub+Jira/Backlogが標準。SQLiteローカル限定は社内利用で承認取りづらく、SSO/監査ログがないとエンタープライズ展開不可</p>
+      </div>
+    
+  </div>
+  
+
+  
+  <h3>国内既存プレイヤー</h3>
+  <ul class="competitors">
+    
+    <li><a href="https://vibekanban.com/" target="_blank" rel="noopener">Vibe Kanban</a> — 日本語note記事・Udemy講座あり。Claude Code/Codex/Gemini CLI対応で日本では本命扱い</li>
+    
+    <li><a href="https://cline.bot/cli" target="_blank" rel="noopener">Cline CLI (Kanban mode)</a> — git worktreeで並列分離、Claude Code連携。日本コミュニティで人気</li>
+    
+    <li><a href="https://github.com/saltbo/agent-kanban" target="_blank" rel="noopener">agent-kanban (saltbo)</a> — leader-worker型、Claude Code/Codex/Gemini CLI対応OSS</li>
+    
+    <li><strong>GitHub Agent HQ</strong> — 2026早期にCopilot加入者へロールアウト、日本でもCopilotユーザーが標準採用見込み</li>
+    
+  </ul>
+  
+
+  
+  <h3>規制要点</h3>
+  <ul class="regs">
+    <li><strong>個人情報保護法</strong>: ローカルSQLite運用なら影響軽微。Agent37ホスト版で日本顧客のソース・対話を国外保管する場合は越境移転同意・利用目的明示が必要</li><li><strong>下請法・労働者派遣法(受託開発文脈)</strong>: 受託開発企業が顧客コードをエージェントに渡す場合の秘密保持義務に抵触しうるため監査ログが事実上必須</li>
+  </ul>
+  
+
+  <p class="rationale"><strong>機会:</strong> Claude Code/Cursor主流の日本市場向けに、Hermes/OpenClawではなくClaude Code+Cline+Codex CLI対応のカンバン管理ツールを、note/Zenn上で日本語コンテンツ厚めに展開する派生形ならチャンス。SSO・監査ログを最初から備え、Backlog/Slack通知連携を入れて受託開発SIerと小規模SaaS企業に売る方向が現実的</p>
+  <p class="rationale"><strong>市場機会総評:</strong> 本家MinionsをそのままJP展開するのは(1)Hermes/OpenClawの国内ユーザーが薄い(2)Vibe Kanban等の先行OSSが既に日本コミュニティを獲得(3)UI/ドキュメントが英語のみ、という三重苦で勝ち目薄い。ただし並列エージェント運用の課題自体は日本でも実在し、Claude Code軸での派生実装と日本特有のSSO/監査要件対応をすれば差別化余地は残る。OSS本体ではなくAgent37型ホスト課金SaaSが現実的なマネタイズ</p>
+</section>
+
+
+
+<section class="review-guide">
+  <h2>判断ガイド</h2>
+  <dl class="card-meta">
+    <dt>何をするか</dt><dd>Hermes AgentやOpenClawなど自律型コーディングエージェントを多数並列で走らせる際の運用層。カンバン(in progress/needs help/ready for review/done)とハートビート定期チェックイン、ライブストリーム、ヒューマンインザループ承認、スケジュール実行履歴を持つ。Node.js 18+とSQLiteで`npx minionsai`から起動でき、~/.minions/に状態を保持する完全ローカルOSS。Agent37というホスト版SaaSが本体ビジネス。</dd>
+    <dt>誰に刺さるか</dt><dd>Hermes Agent/OpenClawを業務で常時稼働させる個人開発者および小規模AI受託・スタートアップのCTO、特に5-50タスク同時実行で運用破綻している層</dd>
+    <dt>再現可能性</dt><dd><code>easy</code> — Node+SQLiteのカンバンUI+定期ポーリングという構成は技術難度が低く、Vibe Kanban等の先行類似OSSも複数存在し模倣容易</dd>
+  </dl>
+  
+  <h3>注目シグナル</h3>
+  <ul><li>PH上で初日23コメント339upvoteと小ロンチながらコメント密度が高い</li><li>GitHub Star 583/Fork 55(ローンチ直後としては健全)</li><li>競合のVibe Kanbanは日本でnote記事・Udemy講座が複数出るほど注目</li><li>Hermes Agent自体が95k★/7週というハイペースで普及中</li><li>YC Applicationトピック付き=本気の事業化志向</li></ul>
+  
+  
+  <h3>懸念点</h3>
+  <ul><li>Hermes/OpenClaw両方のAPI破壊的変更にロックインされる脆さ</li><li>OSSはローカル無料、収益はAgent37ホスト版頼みで二重開発負荷</li><li>Claude Code/Codex CLI/Gemini CLIに広くハマるVibe Kanban等に対し対象runtimeが狭い</li><li>ハートビート監視はLLM呼び出しコスト増(ユーザー側の財布)</li><li>ClawHubで341件の悪性Skillが出たエコシステムを束ねる責任</li></ul>
+  
+</section>
+
+
+
+<section class="ph-comments">
+  <h2>PH 上位コメント</h2>
+  
+  <blockquote>
+    <p>&lt;p&gt;Hey Product Hunt, I’m Vishnu, maker of Minions.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;I built this after watching Hermes/OpenClaw power users hit the same wall: one agent task works great, but 10–50 long-running tasks become operations work.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;The core idea is &lt;strong&gt;heartbeat supervision&lt;/strong&gt;: every in-p</p>
+    <footer>— [REDACTED] (16 votes)</footer>
+  </blockquote>
+  
+  <blockquote>
+    <p>&lt;p&gt;Congrats on the launch! It’s always refreshing to see makers ship something practical with a polished first impression. Interested to see how the community uses it.&lt;/p&gt;</p>
+    <footer>— [REDACTED] (6 votes)</footer>
+  </blockquote>
+  
+  <blockquote>
+    <p>If someone is currently managing Hermes/OpenClaw work with a mix of terminal tabs + scripts + chat (Slack/Telegram), what’s the specific breaking point where switching to Minions becomes a no-brainer—and what does the first week of migration typically look like?</p>
+    <footer>— [REDACTED] (4 votes)</footer>
+  </blockquote>
+  
+</section>
+
+
+
+<section class="long-desc">
+  <h2>長文説明（PH）</h2>
+  <p>Your Hermes Agent works great for one task. Try managing 20 in parallel? It&#39;s chaos. Cron jobs fail silently, tasks are blocked and you&#39;re spending more time fixing your agent than getting results. Minions gives you a single task board to view it all. Every running task gets periodic check-ins, retry if stuck, and escalate only when it&#39;s genuinely exhausted alternatives Works with Hermes Agent today, more runtimes coming.</p>
+</section>
+
+
+
+<section class="landing">
+  <h2>ランディングページから</h2>
+  <p>GitHub - Agent-3-7/minions at producthunt · GitHub — Mission Control for your OpenClaw/Hermes agents. Contribute to Agent-3-7/minions development by creating an account on GitHub.</p>
+</section>
+
+
+<nav class="breadcrumb">
+  <a href="index.html">← Week 2026-W19 に戻る</a>
+</nav>
+
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <p>Data source: <a href="https://www.producthunt.com">Product Hunt</a> via official API.</p>
+    <p>This research is for non-commercial personal use. Generated by an AI pipeline.</p>
+    <p>Generated: 2026-05-25 05:07</p>
+  </div>
+</footer>
+</body>
+</html>

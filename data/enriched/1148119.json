@@ -1,0 +1,203 @@
+{
+  "name": "Raybeam",
+  "description": "A better way to screen share on macOS",
+  "ph_url": "https://www.producthunt.com/products/raybeam?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/RV5JDEVXRGNEOU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-16T07:01:00Z",
+  "upvotes": 207,
+  "comments": 6,
+  "topics": [
+    "Productivity",
+    "User Experience",
+    "Menu Bar Apps"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Screen sharing on macOS can be surprisingly clunky when you're trying to hide private notifications or specific windows. I love the focus on UX here. Is there a \"privacy mode\" that automatically blurs background apps or sensitive data during a beam?</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Screen sharing on Mac has been broken in subtle ways forever lag, crop issues, audio sync. What's the core thing Raybeam fixes that the native tools don't? Curious if it handles multiple monitors better.</p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>A real problem I always have. I will give a try. </p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Raybeam is a macOS app for sharing a draggable, resizable region of your screen—perfect for ultra-wide and multi-monitor setups. Works with Zoom, Slack, Teams, and more.",
+  "featured_at": "2026-05-16T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/19142699-a4a5-4736-98e2-7959056defdf.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bbb5931b-b1b5-40ac-b8ba-7ffa40c8db0c.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/9008cf27-7dfd-4424-97c4-98ef0a74845b.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:40",
+  "landing_meta": "Raybeam — A better way to screen share on macOS — Raybeam is a macOS app for sharing a draggable, resizable region of your screen—perfect for ultra-wide and multi-monitor setups. Works with Zoom, Slack, Teams, and more.",
+  "landing_text": "Raybeam — A better way to screen share on macOS Raybeam macOS 14+ A better way to screen share on macOS. Works With Find it in your Menu Bar What you get Quick, precise, accessible screen-sharing. A draggable, resizable region. Share exactly the pixels you want. Perfect for ultra-wide monitors or multi-monitor setups. Hot key support to quickly change the region in an instant. Menu bar access so Raybeam stays out of the way until you need it. Live feed stays in sync with the region you're sharing. How it works Share your screen in three simple steps Define the part of your screen you want to share. Drag and resize the region anytime. The live stream updates instantly. Use that view in your video call with the screen-sharing flow you already use. Preview Share any part of your screen Drag and resize to instantly update the live stream. No need to re-share. Your browser does not support the video tag. Go further Privacy & Accessibility Raybeam includes tools to keep specific applications out of the shared frame, mark up your stream, and drive it from the keyboard. Your browser does not support the video tag. Keep windows off the stream Hidden Applications Choose apps whose windows should never appear inside your rectangle. Their pixels are replaced by whatever sits behind them on the desktop. This is useful for things like personal chats or anything you do not want mirrored. Your browser does not support the video tag. Annotate the live region Drawing / Annotation Turn on draw mode to sketch freehand on top of your capture. Marks are baked into the stream, so everyone on the call sees them. Control Raybeam Hotkeys Register global hotkeys to pick a new region, toggle draw mode, and stop streaming without opening the menu bar panel. Compare Raybeam vs. Traditional Screen Sharing Most video apps only let you share your whole screen or pick a single window from the system sheet. Raybeam adds a third path: a live rectangle you place anywhere on your desktop. Traditional · ",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-24T20:19:41",
+  "description_ja": "macOS のメニューバー常駐型アプリで、画面の任意の矩形領域だけを Zoom/Slack/Teams に画面共有できる。ウルトラワイド/マルチモニター向け。",
+  "summary_ja": "Raybeam は macOS 14+ 向けのメニューバー常駐ユーティリティで、ドラッグ＆リサイズ可能な矩形領域を「仮想ディスプレイ」として既存ビデオ会議アプリへ画面共有できる。指定アプリの除外（プライベート通知やチャットの隠蔽）、注釈描画、グローバルホットキーを備え、ScreenCaptureKit を活用したと推定される。ウルトラワイド/デュアルモニター環境で「ウィンドウ単位より広く、全画面より狭く」共有したい知識労働者を狙う。",
+  "tldr_ja": "Mac のウルトラワイド/マルチモニター環境で「画面の一部矩形」だけを Zoom/Teams に共有できるメニューバーアプリ。プライバシー除外と注釈付き。",
+  "review_guide_ja": {
+    "what": "macOS 14+ 専用のメニューバー常駐アプリ。ScreenCaptureKit（推定）で画面をキャプチャし、任意の矩形領域を仮想ソースとしてビデオ会議アプリに渡すことで、Zoom/Teams/Slack 標準の「全画面 or ウィンドウ」選択肢に「自由領域」を追加する。指定アプリ除外、注釈、ホットキーが特徴。",
+    "for_who": "ウルトラワイド/マルチモニターを使う Mac ユーザーで、デモ・営業・コンサル・開発ライブコーディングなどで頻繁に画面共有する個人。プライベート通知やチャットを映したくないニーズが強い層。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "ScreenCaptureKit と仮想カメラ/仮想ディスプレイ実装、コード署名/Notarize、複数会議アプリ互換のテストが必要。Swift とシステム拡張に慣れた個人開発者なら 2〜4 ヶ月で MVP 可能。"
+    },
+    "signals": [
+      "PH 207 upvotes でカテゴリ Productivity の中位ヒット",
+      "コメントで『プライバシー機能（通知隠蔽）』への需要が明示",
+      "ウルトラワイドモニター市場が成長中で固有ペインが拡大",
+      "macOS Sonoma 以降の ScreenCaptureKit 公開で実装ハードルが低下"
+    ],
+    "concerns": [
+      "Zoom/Teams 側で『部分共有』が将来標準実装されると価値が消える",
+      "コメント数 6 と少なく初期トラクションは限定的",
+      "個人開発者向け生産性ツールは ARPU が低く LTV を作りにくい",
+      "macOS のバージョン更新で API 仕様変更が起きるとメンテ負荷大"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "日本の Mac シェアは個人 PC で約16〜18%、リモートワーク実施率は約17〜22%。ウルトラワイドユーザーは更に細い層で、画面共有時の通知隠蔽ニーズはあるが日本独自の強烈な不満は観測されない。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "日本国内で同等の『矩形領域共有』専用アプリは見当たらない一方、Zoom/Teams/Meet の標準ウィンドウ共有が無料で広く使われており、代替コストはほぼゼロ。間接競合が圧倒的に強い。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "個人情報保護法・営業秘密管理の観点でむしろ追い風（画面共有時の情報漏洩リスク低減）。クライアントサイド完結のため特段の規制適用なし。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UI 日本語化と決済（JPY/インボイス対応）対応で十分。会議アプリは Zoom/Teams が主流で互換性は問題なし。請求書払い等の B2B 商習慣には別途対応必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業の Mac 配布は限定的で IT 部門が野良アプリ導入を嫌うため、個人購入のプロシューマー需要が主。情シスの導入承認・脱獄扱いリスクで法人展開はハードル高い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Zoom 標準のウィンドウ共有/領域共有",
+        "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060596",
+        "note": "Zoom には『画面の一部』共有機能があり、無料・標準で利用可能。Raybeam の最大の間接競合。"
+      },
+      {
+        "name": "macOS Sonoma プレゼンターオーバーレイ + System Window Picker",
+        "url": "https://pc.watch.impress.co.jp/docs/column/macinfo/1540326.html",
+        "note": "OS 標準でウィンドウ単位共有 UI が改善。Apple 自身が領域共有に進む可能性。"
+      },
+      {
+        "name": "OBS Studio + 仮想カメラ",
+        "note": "無料 OSS でクロップして仮想カメラに流す運用が技術リテラシー層では定着済み。"
+      },
+      {
+        "name": "Setapp バンドル各種ユーティリティ",
+        "url": "https://setapp.com/",
+        "note": "月 $9.99 で 240+ アプリ使い放題。Mac ユーティリティのサブスク文脈で価格圧力。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "通知・チャットを非表示にできるためコンプラ強化に資する。むしろ追い風。"
+      },
+      {
+        "law": "不正競争防止法（営業秘密管理）",
+        "impact": "営業秘密の意図せぬ漏洩防止という訴求軸が法人にも刺さる可能性。"
+      }
+    ],
+    "opportunity": "営業・コンサル・開発ライブコーディングなど『画面共有が日常業務』のプロシューマー個人向けに、買い切り 4,000〜6,000 円 or 月 480〜780 円で展開。法人より個人 IT 強者を狙い、X（旧Twitter）/note でのインフルエンサー導線が現実的。プライバシー軸を前面にした営業 SaaS 補完アドオン文脈での提案も有効。",
+    "rationale": "日本市場には固有の強い需要シグナルはなく、Mac シェアとリモートワーク率の限定的なクロスセクションで TAM は薄い。一方で Zoom 等の標準機能が無料で『部分共有』を提供するため、Raybeam の差別化（自由矩形＋アプリ除外＋注釈）の対価を払う層は限られる。Apple 自身が ScreenCaptureKit を進化させる時間的脅威もあり、verdict は『watch』が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "買い切り（$29〜$49）+ メジャー更新課金、または月額 $4〜$6 が現実的。Mac ユーティリティ市場は支払い意欲が比較的高く、Setapp 経由のロイヤリティ収入も狙える。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "日本国内の Mac ユーザー × 頻繁な画面共有業務 × ウルトラワイド/マルチモニター層は数万〜十数万人規模で限定的。グローバル前提なら拡大可能。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "PH/HN/X での話題化が中心。日本では note・Zenn・YouTube レビューアが現実的な拡散経路。法人セールスは ROI が合いにくい。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "ScreenCaptureKit 公開・ウルトラワイド普及・テレワーク定着で需要は安定。ただし OS 標準実装による陳腐化リスクが時計を進めている。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "macOS ネイティブで Swift/AppKit 実装、OS バージョン追従・コード署名・サポート対応の負荷あり。個人で継続可能だが macOS の API 変更追跡が常時必要。"
+      }
+    },
+    "rationale": "Mac ユーティリティ単体としては成立する価格帯（買い切り 5,000〜7,000 円 or 月 500〜800 円）でニッチを取り、Setapp 入りや法人ボリュームライセンスでの収益上振れも狙える。ただし日本単独では市場が薄く、グローバル前提のプロダクトの中で日本向けは UI/サポート整備で 10〜20% の追加売上を上乗せする位置付け。OS 標準機能の進化が最大の収益圧迫要因。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "one_time",
+      "arpu_jpy": 600,
+      "plans": [
+        "買い切り Personal: 4,980 円（1 ライセンス、1 年メジャー更新無償）",
+        "買い切り Pro: 6,980 円（複数 Mac, 注釈/録画拡張, 永続更新）",
+        "月額サブスク: 680 円/月（試用しやすい価格でファネル拡張）",
+        "Setapp 経由配信（月額バンドルからのロイヤリティ）",
+        "Team 5 席パック: 19,800 円（小規模スタジオ・コンサル向け）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本国内の Mac ユーザーのうち、画面共有が日常業務でウルトラワイド/マルチモニター環境を使う個人プロシューマー（営業, コンサル, 開発者, デザイナー, 講師）",
+      "target_count": 80000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 240000
+    },
+    "recommended_gtm": [
+      "Product Hunt + Hacker News でグローバル launch を先行し、日本は追随展開",
+      "X(Twitter) の Mac 系インフルエンサー/ガジェット系 YouTuber にレビュー依頼",
+      "note/Zenn で『Zoom 画面共有での情報漏洩を防ぐ』切り口の技術記事を継続投稿",
+      "Setapp バンドル申請でファネル拡張と継続収益化",
+      "営業 DX 系メディア（SalesZine 等）に『商談画面の通知隠し』記事寄稿"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "Zoom/Teams/Apple が『自由領域共有』を標準機能化し代替価値が消失",
+      "macOS の ScreenCaptureKit/プライバシー API 変更によるメンテ負荷急増",
+      "日本の法人 IT で『野良 Mac アプリ』導入が承認されず B2B 拡大が止まる",
+      "ARPU が低いユーティリティ市場で LTV が伸びず、サポート負荷で利益が圧迫",
+      "ウルトラワイド層が想定より細く、target_count が過大評価となる可能性"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "research_completed_at": "2026-05-23T00:00:00Z"
+}

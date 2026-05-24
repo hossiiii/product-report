@@ -1,0 +1,239 @@
+{
+  "name": "Kuku: open source",
+  "description": "Your open-source, local second brain for every AI",
+  "ph_url": "https://www.producthunt.com/products/kuku/launches/kuku-open-source?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/S4FEM3RNRHIADW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-08T07:01:00Z",
+  "upvotes": 241,
+  "comments": 27,
+  "topics": [
+    "Text Editors",
+    "SaaS",
+    "YC Application"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋 I’m Minkyu Lee, design engineer on Kuku.\n\nOur first launch started as an Obsidian-like Markdown editor. Thanks to this community, we got a ton of attention, feedback, and energy from it.\n\nSince then, we’ve been rebuilding Kuku almost from the ground up, many late nights included.\n\nKuku is now open source and moving toward something bigger: a local-first second brain that can become shared memory for your AI tools.\n\nThink plain Markdown, wikilinks, graph, search, Cursor-style AI edits, and a Mem0-like memory layer — but open, hackable, and yours.\n\nWe’re still early, still shipping hard, and looking for people who want to help shape it: users, contributors, plugin builders, and anyone obsessed with AI context.\n\nWould love your feedback, questions, and weirdest use cases.",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hi everyone, I’m one of the developers behind Kuku, mainly working on the core logic and implementation.<br></p><p>We’ve rebuilt a lot of the product from the ground up for this launch, while thinking deeply about how local-first Markdown knowledge management can connect with an AI memory layer.</p><p><br>Kuku is still early, and there’s a lot we want to improve. </p><p>Please feel free to share anything. I’d be happy to answer as openly as I can.</p><p><br>We’ll also be shipping frequent updates from here, so please keep an eye on what’s coming next.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>It’s Friday, so we’re going for it. <a href=\"https://www.producthunt.com/products/yc\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"yc\" target=\"_blank\" rel=\"noopener\">@Y Combinator</a> </p><p></p><p>Kuku is open source, but we’re building it like a real company: a local-first second brain and memory layer for the AI era.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Kuku is back as an open-source, local-first second brain for the AI era. It keeps your knowledge in plain Markdown files, then turns your vault into reusable context: wikilinks, backlinks, graph, search, and AI-assisted edits with reviewable diffs. Unlike closed note apps or one-off AI chats, Kuku is built to make your memory portable across tools, models, and self-hosted setups.",
+  "featured_at": "2026-05-08T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/46548dee-2685-46c1-b34b-a64b4a00b42e.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/16ca35e7-6678-42af-85a0-1a274b0dcfb8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/39284119-e0f1-48ba-92f9-49ae28ff2446.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b462ab91-b231-4035-b4f6-f06399934e69.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/65f49687-2a30-40cb-8a7b-d3483faca886.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/8de2ff0e-c0b4-4714-bf41-4d395e91f7df.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:25",
+  "landing_meta": "kuku — Local-first AI Markdown workspace for macOS — A fast, local-first Markdown knowledge base for macOS. Write with wikilinks, backlinks, graph view, and AI editing with reviewable diffs. Offline-first, open source, no lock-in.",
+  "landing_text": "kuku — Local-first AI Markdown workspace for macOS {\"labels\":{\"en\":\"English\",\"ko\":\"한국어\",\"ja\":\"日本語\"},\"messages\":{\"en\":{\"nav.roadmap\":\"Roadmap\",\"nav.pricing\":\"Pricing\",\"nav.blog\":\"Blog\",\"nav.signin\":\"Sign in\",\"nav.dashboard\":\"Dashboard\",\"nav.download\":\"Download\",\"nav.coming_soon\":\"Coming soon\",\"hero.sub1\":\"Native, local-first Markdown on macOS — Tauri, not Electron. Wikilinks, backlinks, and graph view on plain files.\",\"hero.sub2\":\"AI searches, edits, and links your vault with reviewable, Cursor-style diffs. Light, offline-first — no cloud, no lock-in.\",\"hero.mobile_sub\":\"Native Markdown for macOS. AI edits your vault. Offline-first, no lock-in.\",\"hero.see_how\":\"See how it works\",\"hero.github\":\"we are open source on \\u003cspan class=\\\"lp-yc-link\\\">github\\u003c/span>\",\"s01.label1\":\"[01] INSTANT CONTEXT\",\"s01.label2\":\"/ WHILE YOU WORK\",\"s01.heading\":\"kuku gives you \\u003cem>instant context\\u003c/em> while you work.\\u003cbr />Never lose your train of thought again.\",\"s01.c1.h3\":\"Instant answers from your notes\",\"s01.c1.p\":\"kuku finds the right answer in under a second, so you never fumble mid-thought.\",\"s01.c2.h3\":\"Learn from what worked before\",\"s01.c2.p\":\"Answers from past sessions become suggestions for future ones.\",\"s01.c3.h3\":\"Know the right question to ask\",\"s01.c3.p\":\"kuku picks up on context and suggests follow-up prompts to keep your thinking moving.\",\"s01.c4.h3\":\"Connected across all your docs\",\"s01.c4.p\":\"Surface related notes, links, and ideas from anywhere in your workspace in one keystroke.\",\"s02.label1\":\"[02] FULL VAULT\",\"s02.label2\":\"/ WITHIN REACH\",\"s02.heading\":\"Your entire knowledge base,\\u003cbr />\\u003cem>always at hand\\u003c/em>.\",\"s02.c1.h3\":\"Markdown-first editing\",\"s02.c1.p\":\"Write the way your brain works. kuku understands structure and surfaces it intelligently.\",\"s02.c2.h3\":\"AI that reads your docs\",\"s02.c2.p\":\"Upload any document and kuku learns its content for instant retrieval.\",\"s02.c3.h3\":\"Works offline too\",\"s02.c3.p\":\"Your notes are yo",
+  "pricing_signals": [
+    "free trial",
+    "open source",
+    "open-source",
+    "self-hosted",
+    "subscription",
+    "pricing",
+    "$10/mo",
+    "$15",
+    "$0",
+    "$10"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:26",
+  "description_ja": "macOS ネイティブ (Tauri 製) のローカルファースト Markdown ナレッジベース。Wikilink・グラフ・AI 編集 diff を備え、OSS でベンダーロックインなし。",
+  "summary_ja": "Kuku は macOS 向けローカルファーストの Markdown 第二の脳。プレーンテキストの vault を Wikilink・バックリンク・グラフで構造化し、Cursor 風の diff レビュー付き AI 編集と Mem0 ライクなメモリレイヤを提供する。OSS でセルフホスト可能、AI コンテキストを各種ツール間で持ち運べることを売りにする。",
+  "tldr_ja": "Obsidian × Cursor × Mem0 を OSS で 1 つにした macOS ローカル AI ノート。データは手元に残り、AI 編集も差分レビュー可能。",
+  "review_guide_ja": {
+    "what": "Tauri ベースの macOS ネイティブアプリ。プレーン Markdown を vault として保持しつつ、Wikilink・バックリンク・グラフビュー・全文検索、Cursor 風の AI 編集 (diff レビュー)、Mem0 風のメモリレイヤで AI 向け再利用可能なコンテキストを構築する OSS ノートアプリ。$10/mo の有料プランと無料/セルフホストの線引きを敷く想定。",
+    "for_who": "macOS を使う個人開発者・研究者・ライター・PKM 愛好家で、Obsidian の柔軟性と Cursor 的な AI 編集体験、データ主権を同時に欲しい層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Markdown エディタ + グラフ + AI diff + メモリ層 + OSS 運用の総合品質が必要で、Obsidian 既存エコシステムを覆すには UX とプラグイン互換が壁。"
+    },
+    "signals": [
+      "PH 再ローンチで 241 upvote / 27 コメントと一定の関心",
+      "YC 申請中で「OSS だが会社として作る」姿勢を明言",
+      "Mem0/Cursor といった 2026 年トレンドキーワードを的確に押さえる",
+      "Tauri 採用で Electron 比でメモリ軽量を訴求",
+      "macOS 単独で先にネイティブ感を確立する戦略"
+    ],
+    "concerns": [
+      "Obsidian (個人無償・$4 Sync) との機能・価格差別化が不明確",
+      "macOS のみで Windows/Linux/iOS の PKM ユーザーを取りこぼす",
+      "OSS のためコア機能はフォーク可能で課金面の堀が薄い",
+      "AI 編集・メモリ層は Smart Connections 等 Obsidian プラグインで代替可能",
+      "個人ユーザーの ARPU が低く、$10/mo 課金へのコンバージョン難"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本でも Obsidian/Notion/Logseq の PKM 文化は Zenn・Qiita・note で活発。AI ノートへの関心は高いが、Obsidian + AI プラグインで満たされており新規需要は中規模。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Obsidian (無料個人利用)・Notion AI・Cursor・NotebookLM・Mem0 と各レイヤで強豪が乱立。日本市場でも Obsidian と Notion の二強で、OSS 後発の差別化は厳しい。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "ローカルファースト & OSS のためデータが端末に留まり、改正個人情報保護法 (越境移転規制) や社内データの取り扱い面でむしろ追い風。AI 経由送信時の同意設計のみ要配慮。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI は日本語ラベル対応の素地あり (ja key 確認) だが、日本語全文検索・形態素解析・縦書き・IME 確定挙動など PKM 特有のローカライズ品質は未検証。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業は SaaS 単体購入・SSO・請求書払い・国内サポートを求めがちで、OSS/個人 macOS アプリは法人導入の商慣習に乗りにくい。個人開発者市場が中心になる。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Obsidian",
+        "url": "https://obsidian.md/ja/",
+        "note": "日本語コミュニティ・プラグイン記事が多数。個人無料・$4 Sync。Smart Connections 等で AI 機能も実現済み。"
+      },
+      {
+        "name": "Notion",
+        "url": "https://www.notion.so/ja",
+        "note": "日本の個人・スタートアップで最大シェア。Notion AI/エージェント機能で AI 統合済み。"
+      },
+      {
+        "name": "Logseq",
+        "url": "https://logseq.com/",
+        "note": "OSS のローカル PKM。日本語コミュニティあり、アウトライナー派ユーザーが移行。"
+      },
+      {
+        "name": "Cursor",
+        "url": "https://cursor.com/",
+        "note": "日本の開発者で『使わない選択肢がない』水準まで普及。AI 編集体験のリファレンス。"
+      },
+      {
+        "name": "Scrapbox/Cosense",
+        "url": "https://scrapbox.io/",
+        "note": "日本産のリンクベース知識ツール。ライト層・研究者に根強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法 (APPI 2022 改正)",
+        "impact": "ローカル保存中心ならむしろ有利。AI 編集で OpenAI/Anthropic 等に送信する場合は越境移転の同意取得・委託先管理が必要。"
+      },
+      {
+        "law": "電気通信事業法 (外部送信規律)",
+        "impact": "テレメトリ・クラウド AI 送信を実装する場合、利用者通知・同意 UI が必要。OSS でも配布者として該当しうる。"
+      }
+    ],
+    "opportunity": "日本では『データを社外/海外に出したくないが AI も使いたい』層 (士業・研究者・受託開発・法人個人事業主) にローカル LLM + ローカル Markdown の組み合わせを訴求できる余地がある。ただし主戦場は Obsidian + 国産 LLM プラグインとの競合で、Kuku が日本特化を行う動機は薄い。",
+    "rationale": "需要は中、規制は追い風、競合は極めて厚い、ローカライズと商慣習適合は弱いという構図。OSS で macOS 専用の英語圏グローバルプロダクトとしての立ち位置が明確で、日本市場を主戦場にする合理性は乏しい。日本のユーザーにとっては『Obsidian で十分』が支配的な答えになるため skip 判定。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "OSS + $10/mo のフリーミアムは個人 PKM 市場では転換率が低い。Obsidian Sync が $4/mo の中で $10/mo を正当化する差別化要素 (チーム vault, クラウド AI) が必要。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "PKM/ノートアプリは世界規模では数億人だが、ローカルファースト × macOS × 開発者寄りに絞ると数百万人規模。日本に限ると個人開発者・PKM 愛好家で数万〜十数万人程度と推定。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "Product Hunt 再ローンチ・YC 申請・OSS コントリビュータ獲得という王道 GTM。HackerNews / Reddit r/ObsidianMD 等が主戦場で、日本向けの独自 GTM は乏しい。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "Mem0/LCM 等 AI メモリ層が 2026 年に第一級アーキテクチャ要素として確立しつつあり、Cursor 風 diff UX も普及。タイミング自体は良い。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "OSS コミュニティ運営 + AI モデル統合 + Tauri ネイティブ保守 + メモリ層研究と工数が広く、個人開発者には負荷大。2 人組でもギリギリ。"
+      }
+    },
+    "rationale": "タイミングは追い風だが、強力な既存プレイヤーと OSS 故の課金堀の薄さで収益性は厳しい。市場規模は十分にあるものの捕捉率を上げる手段が限定的で、運用負荷も個人開発者向けではない。商用化は『チーム vault + 共有 AI メモリ』『コンプラ志向の中小法人向けセルフホスト』など特定の縦に絞らないと PMF しにくい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1200,
+      "plans": [
+        "Free / OSS セルフホスト: コア機能・ローカル AI 連携 (BYO API key)",
+        "Pro 約 $10/mo (≒1,500 円): クラウド同期・チーム vault・ホスト型 AI メモリ",
+        "Team 約 $20/seat/mo: SSO・監査ログ・共有メモリ管理 (将来)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本国内の macOS を使う個人開発者・研究者・テクニカルライター・PKM 愛好家のうち、データ主権と AI 編集の両立を求める層",
+      "target_count": 50000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 900000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita で『Obsidian からの移行レビュー』『ローカル LLM + Kuku』記事を継続投下",
+      "X (旧 Twitter) の日本 PKM/AI 個人開発者クラスタにデモ GIF で訴求",
+      "Obsidian ユーザー向けに vault インポート機能を明示し、移行摩擦を最小化",
+      "学術研究者・士業など『AI を使いたいが外に出せない』層へケーススタディ提示",
+      "OSS コントリビュータ獲得を主軸にし、日本語ドキュメント整備を早期に行う"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Obsidian が公式 AI 機能/メモリ層を実装した瞬間に差別化が消失",
+      "OSS のためコア機能がフォークされ、商用版の堀が崩れる",
+      "macOS 単独だと Windows ヘビーな日本企業需要を取り込めない",
+      "AI API コスト負担が ARPU を圧迫し、$10/mo では赤字化する可能性",
+      "2 人体制でコミュニティ運営とコア開発の両立に失敗"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_evaluated_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0"
+}

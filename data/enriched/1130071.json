@@ -1,0 +1,232 @@
+{
+  "name": "MESA",
+  "description": "Describe your Shopify workflow. MESA builds it.",
+  "ph_url": "https://www.producthunt.com/products/mesa/launches/mesa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/2YSQH4VYVZVYWJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-07T07:01:00Z",
+  "upvotes": 238,
+  "comments": 42,
+  "topics": [
+    "Artificial Intelligence",
+    "E-Commerce",
+    "No-Code"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>What's up Product Hunt 👋 I'm Aaron, one of the founders at MESA</p><p><br>Quick question:</p><p><br><strong>What's one thing your Shopify store <em>should</em> be doing automatically... but isn't?</strong></p><p><br>For most merchants I've talked to, the list is long:</p><ul><li><p>Notify the warehouse differently for priority / VIP / wholesale orders</p></li><li><p>Push orders, customers, and products to Google Sheets (and not break)</p></li><li><p>Trigger a personalized follow-up when someone buys a specific product</p></li><li><p>Fix messy data (tags, collections, metafields) automatically</p></li><li><p>Cancel orders going to PO boxes</p></li><li><p>Keep inventory in sync across systems without overselling</p></li></ul><p>The ideas aren't the problem.<br><strong>Building them is.</strong></p><p><br>So folks end up choosing between two not-great options:<br>❌ Hire a developer (slow, expensive, now every change is a ticket)<br>❌ Wrestle with a generic automation tool (powerful if you enjoy building software instead of running a store)</p><p><br><strong>We built MESA because this shouldn't be hard.</strong></p><p><br>You just describe what your store needs:</p><blockquote><p>\"When orders over $500 come in, notify my team on Slack, tag the customer VIP, and add them to a Klaviyo flow.\"</p></blockquote><p>MESA figures out the logic, connects your apps, and builds it for you.</p><p><br>No digging through developer docs. No difficult data mapping. No \"why isn't my trigger firing?\"</p><p><br><strong>A few things I'm especially excited about:</strong></p><ul><li><p>Just describe what you need and get a working automation in minutes</p></li><li><p>Works across your stack (Recharge, Etsy, Google, ShipStation, Odoo, 100+ more)</p></li><li><p>Add human approval when you <em>don't</em> want full autopilot</p></li></ul><p>If you run a Shopify store and have a backlog of \"we should figure this out someday...\" this is for you.</p><p><br>🔗 <a href=\"https://www.getmesa.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.getmesa.com</a> <br>(use code <strong>PHBASIC3</strong> for 3 months free)</p><p><br>We'll be hanging out here all day!</p><p><br><strong>Curious: what's one thing you've wanted to automate but felt too annoying to set up?</strong></p>",
+      "votesCount": 30,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch <a href=\"https://www.producthunt.com/@itsdarrylnorris\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"itsdarrylnorris\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@itsdarrylnorris</a>! <br><br>Quick question on the AI builder. When it generates a workflow from a plain-English description, what does editing look like after that? Like if it gets 80% right but the conditions or logic need tweaking, are you back to re-prompting and hoping it lands, or do you get a visual editor where you can go in and adjust individual steps, conditions, filters etc? That's usually where AI-generated anything feels super limiting! The first pass is impressive but then you need fine control and you're stuck talking to the AI in circles. <br><br>Also curious how you think about the line between MESA and Shopify Flow, which keeps getting better and is free out of the box.</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>does the inventory sync work in real-time across etsy and shopify? we’ve been having a lot of overselling issues lately during sales and our current setup just can't keep up with the api limits. <a href=\"https://www.producthunt.com/@aaroneous\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"aaroneous\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@aaroneous</a> </p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "For Shopify merchants buried in repetitive store operations, MESA turns plain-English requests into automations that work across their existing tools. Unlike more DIY automation platforms, MESA is built for teams that want outcomes, not workflow complexity. Describe what your store needs, and MESA helps automate the busywork behind orders, inventory, fulfillment, and customer support.",
+  "featured_at": "2026-05-07T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/6775009f-d8fa-4b86-9a15-ed844696e847.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/23dc20e8-a37a-42b2-902d-82b2460f5eae.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e5cedf5e-b372-4e7b-bd85-66d12c724a47.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6fe398dc-90b9-4a6c-9e99-f1a9c3e38990.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/4c4282fe-2d60-474e-9667-fa35971238c9.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:35",
+  "landing_meta": "Shopify Automation Without the Developer | MESA — Tell MESA what your store needs and get a working automation in minutes. Connect 100+ apps, build with AI, and keep humans in the loop when it matters.",
+  "landing_text": "Shopify Automation Without the Developer | MESA Describe what your Shopify store should be doing. You've known what your store should be doing automatically. Now it can. Describe the task then MESA handles it from there. Start free trial ★★★★★ 4.9 rating on Shopify App Store When an order over $500 comes in, tag it VIP and ping #warehouse on Slack. Got it. Building that now... VIP Order Routing Order created → If value ≥ $500 → Tag VIP → Slack #warehouse Ready. What else can I help with? Trusted by 1,000+ Shopify merchants The setup There's so much more your store could be doing. Handle it all instantly. Most merchants already know what they want to automate. Ideas are not the problem. Building them is. To-do list 4 open · 0 done Notify warehouse differently for VIP and wholesale orders Shopify Slack Push orders and customers to Google Sheets without it breaking Shopify Google Sheets Trigger a personalized follow-up when someone buys product X Shopify Klaviyo Keep inventory in sync across systems with no overselling Shopify Etsy Odoo Airtable Workflows built. Ready to turn \"On\". 30-second tour See MESA build a real workflow in the time it takes to read this. ▸ Yedric demo · 0:30 0:30 \"Watch MESA take a plain-English request and turn it into a live, multi-step workflow.\" How it works It's surprisingly simple. 01 — Describe Tell us what you want to happen Just describe what you need in your own words. \"Tag VIP orders and ping #warehouse\" Building it now… ✓ Your workflow is ready 02 — Build MESA takes care of the rest It builds the logic and connects your apps. VIP Order Routing ● On New order received If total ≥ $500 Tag order \"VIP\" Send to Slack #warehouse 03 — Turn On Turn it on and walk away Everything happens automatically from here. ✓ #4187 142ms ✓ #4186 98ms ✓ #4185 119ms 100+ integrations Plug into the stack you already run. Whatever your store depends on, MESA connects to it. 100+ more Platform Everything you'd hire a developer to build. Without the developer.",
+  "pricing_signals": [
+    "free trial",
+    "pricing",
+    "$500"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:35",
+  "description_ja": "Shopify店舗向けに、自然言語の指示からワークフロー自動化を生成するAIノーコードツール。100以上のアプリを連携可能。",
+  "summary_ja": "MESAはShopify店舗の運用業務を自然言語で記述するだけでAIが自動化フローを構築するノーコードツール。注文タグ付け、在庫同期、Slack通知、Klaviyo連携など100超のアプリを連携。開発者なしで業務自動化を実現し、人間承認ステップも追加可能。Shopify App Storeで4.9評価、1,000以上のマーチャントが利用。",
+  "tldr_ja": "Shopify向けAIノーコード自動化。日本語化と国内アプリ連携整備が必要だが、需要は確実に存在する領域。",
+  "review_guide_ja": {
+    "what": "Shopifyの注文・在庫・顧客データを起点に、自然言語プロンプトでマルチステップ自動化フローを生成するSaaS。Shopify Flow標準機能では実現困難な分岐・外部アプリ連携・データ整形を、開発者を介さずに構築できる点が特徴。100以上の連携先（Klaviyo、Slack、ShipStation、Odoo等）と人間承認ステップを備える。",
+    "for_who": "Shopifyを使う日本のEC事業者で、店舗運営に手作業が多く、エンジニアを雇う余力はないが、Shopify FlowやZapierでは要件を満たせない中堅店舗（年商1〜10億円）の運営者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "100超の双方向アプリ連携、AIによるワークフロー生成、リアルタイム在庫同期等のインフラ構築には複数人月の開発と継続的なAPI追随が必要。"
+    },
+    "signals": [
+      "Shopify App Store評価4.9で1,000マーチャント以上",
+      "Product Huntローンチで238 upvotes、42コメント",
+      "MESA本体は$96〜$239/月で課金可能性を実証",
+      "日本のShopify店舗数は2025年で3.8万を突破"
+    ],
+    "concerns": [
+      "Shopify Flow自体が無料で強化され続けている競合圧力",
+      "Zapier・Make・TēPsなど既存自動化SaaSとの差別化",
+      "日本のSaaS連携先（Klaviyoではなく国内MA、ShipStationではなく国内倉庫API）への対応負荷",
+      "AIワークフロー生成の精度不足時のサポート工数"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本のShopify店舗3.8万、Shopify Plus採用も拡大中。EC運営の人手不足は深刻でFlow学習コストの高さも指摘されており、自然言語で組める自動化需要は存在するが、大半の店舗は手作業で済ませている。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Shopify Flowが無料で同梱、TēPs（EC特化日本産）、Zapier、Makeが既に普及。MESA自身もShopify App Store経由で日本進出可能なため、後発の差別化は難しい。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "EC運営自動化は特商法・個人情報保護法の範囲内で運用可能。SaaS提供時は委託・外国第三者提供の同意取得が必要だが、Shopifyアプリ枠で運用すれば既存準拠を踏襲できる。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UIの日本語化、国内MA（Karte、b→dash）・国内倉庫（オープンロジ）・楽天/Amazon連携などローカル統合が必須。AIプロンプトの日本語理解も精度確保が必要。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "日本のEC事業者は商品マスタや受注の例外処理が多く、自動化ニーズはむしろ強い。一方で「導入は外部代理店に任せたい」志向が強く、セルフサーブ型は刺さりにくい層もある。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Shopify Flow",
+        "url": "https://www.shopify.com/flow",
+        "note": "Shopifyスタンダード以上に無料同梱。テンプレ英語表記とデータ構造理解が必要で学習ハードルあり。"
+      },
+      {
+        "name": "TēPs（テープス）",
+        "url": "https://teps.io/",
+        "note": "日本産のEC特化ノーコード自動化。Amazon・楽天・Shopify対応、フリープランあり、定期実行も可能。"
+      },
+      {
+        "name": "Zapier / Make",
+        "url": "https://zapier.com/",
+        "note": "汎用iPaaS。Zapier Team約¥43,600/月。日本語UIは限定的だが法人EC事業者の利用事例あり。"
+      },
+      {
+        "name": "ハックルベリー / ワサビ等のShopifyアプリ開発代行",
+        "note": "受託開発モデル。日本のShopify Expertsが自動化要件をスポットで構築するのが主流。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（25条・28条）",
+        "impact": "SaaSに顧客データを委託する形となるため、外国事業者提供時は本人同意または委託契約での安全管理措置が必要。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "自動化フローが申し込み確認画面・キャンセル処理に影響する場合、改正特商法（2022年施行）の表示義務に合致する必要。"
+      }
+    ],
+    "opportunity": "MESA本家が日本ローカライズを優先しない隙を突き、楽天・Amazon・Yahoo!ショッピング・Karte・オープンロジなど国内EC周辺SaaSと深く連携した「日本版Shopify自動化」を、AIプロンプト×日本語UIで提供する余地はある。受託開発代行が高額（数十万〜）な隙間でセルフサーブ＋有人サポートのハイブリッドが刺さりうる。",
+    "rationale": "需要は確実に存在し規制リスクも軽微だが、Shopify Flow（無料）・TēPs（日本産先行）・MESA本家のApp Store出店という三方からの競合に挟まれる。差別化軸はAI精度ではなく「国内EC SaaSとの濃い連携」「日本語サポート」「越境/楽天マルチチャネル管理」の3点に絞る必要があり、純粋なMESAクローンは推奨しない。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "MESA本家は$96〜$239/月で課金可能性を実証。日本でも¥10,000〜¥30,000/月のSaaSは中堅EC事業者にとって許容可能。タスク従量課金との組み合わせで上振れも可能。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "日本のShopify店舗3.8万のうち自動化に投資する余力がある中堅以上は数千店規模。楽天・Yahoo!まで広げても自動化に月額数万円払う事業者は限定的で、TAMは控えめ。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "Shopify App Store出店が王道だが、日本人向けの認知獲得には日本語SEO・Shopify Experts協業・ECメディア露出が必要で、個人開発者には参入コスト高い。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "AIワークフロー生成はちょうど実用段階に入り、Shopify Flow強化と並行して需要が顕在化中。労働力不足の追い風もあり今後12〜24ヶ月が好機。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "100超アプリ連携・リアルタイム在庫同期・AI生成精度・カスタマーサポートを個人で維持するのは現実的に困難。最低でも2〜3名のチームが必要。"
+      }
+    },
+    "rationale": "課金単価は確保しやすくタイミングも良いが、市場規模が限定的でGTMコストが重く、運用負荷は個人開発の限界を超える。日本版を新規に作るより、既存MESA/TēPsの代理店化やニッチ垂直特化（例：D2Cアパレル専用、サブスクEC専用）でスタートする方が現実的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 12000,
+      "plans": [
+        "Free: 月100実行まで、連携2つまで（リード獲得用）",
+        "Starter ¥4,980/月: 月1,000実行、連携無制限、日本語サポート",
+        "Pro ¥14,800/月: 月10,000実行、AI生成、楽天/Amazon連携、優先サポート",
+        "Business ¥39,800/月: 無制限実行、専任サポート、カスタム連携開発"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本のShopify中堅店舗（年商1〜10億円、Plus未満〜Plus）および楽天・Yahoo!併売型EC事業者で、自動化ニーズはあるが受託開発を依頼するほどの予算はない層",
+      "target_count": 5000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 300000
+    },
+    "recommended_gtm": [
+      "Shopify App Store出店＋日本語ローカライズ（4.9相当のレビュー獲得）",
+      "Shopify Experts / 制作代行会社へのレベニューシェア型紹介プログラム",
+      "EC特化ノウハウメディア（ECzine、ネットショップ担当者フォーラム）寄稿",
+      "TēPsが手薄なAIプロンプト生成領域でX/noteの実例コンテンツ発信",
+      "楽天・Amazonマルチチャネル管理という切り口で差別化"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Shopify Flow本体がAI生成機能を取り込み、無料で同等機能を提供してくる可能性",
+      "MESA本家が日本ローカライズを開始した瞬間に競争優位を失う",
+      "100超アプリ連携の保守コストが収益を上回る運用負荷",
+      "日本のEC事業者は自動化より受託代行を好む文化的バイアス",
+      "AIワークフロー生成の精度不足によるカスタマーサポート工数膨張"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

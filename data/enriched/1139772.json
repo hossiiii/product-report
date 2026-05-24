@@ -1,0 +1,234 @@
+{
+  "name": "Claude Agents for Financial Services",
+  "description": "Finance agent templates for pitches, KYC, and closing books",
+  "ph_url": "https://www.producthunt.com/products/claude-code/launches/claude-agents-for-financial-services?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/S6IM5WTBU4BUVH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-07T07:01:00Z",
+  "upvotes": 246,
+  "comments": 6,
+  "topics": [
+    "Fintech",
+    "Investing",
+    "Artificial Intelligence"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>Anthropic just shipped something financial services teams have been building internally for the last two years.</p><p></p><p><strong>What it is</strong>: Ten pre-built Claude agent templates covering core financial workflows, from pitchbook creation and KYC screening to general ledger reconciliation and month-end close. </p><p></p><p>Each template includes domain-specific instructions, governed connectors to existing financial data providers like FactSet, PitchBook, Moody’s, and Dun &amp; Bradstreet, plus subagents for tasks like comparables analysis or methodology checks. </p><p></p><p>The goal is straightforward: deploy Claude on real financial workflows in days instead of months of custom engineering. </p><p></p><p><strong>What makes it different</strong>: Most finance AI tools are chat interfaces layered on top of documents. These are structured, task-specific agent architectures. </p><p></p><p>The Pitch Builder agent generates target lists, runs comps, and drafts pitchbooks; the KYC Screener assembles entity files, reviews source documents, and packages escalations for compliance review. Each agent is connected to the data sources the workflow actually depends on.</p><p></p><p><strong>Key features</strong>:</p><ul><li><p>Ten agent templates across research, coverage, and operations</p></li><li><p>Deployable in Claude Cowork, Claude Code, or as Managed Agents</p></li><li><p>Per-tool permissions, credential vaults, and audit logs</p></li><li><p>Connectors for providers including Moody’s, IBISWorld, Guidepoint, Verisk, and SS&amp;C IntraLinks</p></li><li><p>Available through GitHub’s financial services marketplace</p></li></ul><p><strong>Benefits</strong>:</p><ul><li><p>Cuts finance-agent deployment from months to days</p></li><li><p>Keeps workflows inside approval and compliance processes</p></li><li><p>Maintains context across Excel, PowerPoint, and Word</p></li><li><p>Gives compliance and engineering teams full audit visibility</p></li></ul><p>Who it’s for: Analysts, operations teams, and compliance staff at banks, hedge funds, insurers, and asset managers running AI workflows on governed financial data. </p><p></p><p>The meaningful part isn’t the individual capabilities. It’s the packaging: the architecture is pre-assembled, connectors are already wired in, and deployment paths are documented. For enterprise teams, that removes most of the implementation burden. </p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a> </p>",
+      "votesCount": 12,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Using this for a live GPU kernel optimization competition and the </p><p>context retention across long multi-step tool chains is what separates </p><p>it from everything else. Most agents fall apart after 3-4 tool calls. </p><p>Curious how the memory architecture handles tasks that span hours — </p><p>does it summarize and compress or maintain the full trace?</p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>It's really interesting how you're using these pre-built templates to let agents take the first pass at building pitchbooks and screening KYC files. I do wonder how you plan to prevent compliance teams from becoming a bottleneck once those agent-generated financial reports start piling up.</p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Ten pre-built Claude agent templates for investment research, KYC screening, and month-end close. Each ships with connectors and subagents. For analysts and ops teams at banks, funds, and insurers.",
+  "featured_at": "2026-05-07T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f9c97c9f-1744-4a04-a01b-1f99cec85f8d.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/933b35be-7e9c-4ce9-8998-90cfae883af6.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5df19721-93ac-4f88-9f5a-6ce9a120e98f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/467c3043-2f7d-4eec-b32d-9d94f905ae23.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9dfee9fe-0c2e-4c0c-95df-e1ea25407380.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1b6e47c4-7839-4f47-a47b-3446f6749baf.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/ff01e149-d441-4e7d-97f3-630f31531e67.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:33",
+  "landing_meta": "Agents for financial services \\ Anthropic — We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations.",
+  "landing_text": "Announcements Agents for financial services May 5, 2026 We’re releasing ten ready-to-run agent templates for the most time-consuming work in financial services: building pitchbooks, screening KYC files, and closing the books at month-end. Each one ships as a plugin in Claude Cowork and Claude Code, and as a cookbook for Claude Managed Agents , so a team can put Claude on real financial work in days rather than months. Claude also now works across Microsoft Excel, PowerPoint, Word, and Outlook (coming soon) through the Claude add-ins for Microsoft 365. Once the add-ins are installed, context carries automatically between applications, so work that starts in a model can end in a deck without re-explaining anything in between. Finally, we’re continuing to expand our partner ecosystem with new connectors and an MCP app, so the agents draw on the data financial professionals already use. Connectors give Claude governed, real-time access to a provider’s data, and MCP apps go a step further by embedding the provider’s own tools directly inside Claude. These updates pair best with Claude Opus 4.7, which is state-of-the-art on financial tasks and leads the industry on Vals AI's Finance Agent benchmark , at 64.37%. New agent templates for finance work Each agent template is a reference architecture that packages three things: skills (instructions and domain knowledge for the task), connectors (governed access to the data the task runs on), and subagents (additional Claude models that are called upon by the main agent, for specific sub-tasks such as comparables selection or methodology checks). Firms can adapt any of them to their own modeling conventions, risk policies, and approval flows. Enable these new agent templates either as plugins within Claude Cowork or Claude Code, or as cookbooks for Claude Managed Agents. Find all the plugins and cookbooks at the financial services marketplace . The full list of new agents is as follows: Research and client coverage Pitch builder",
+  "pricing_signals": [
+    "pricing",
+    "$1",
+    "$8",
+    "$4",
+    "$5",
+    "$6"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:34",
+  "description_ja": "ピッチブック作成、KYC審査、月次決算等10種の金融業務向けClaudeエージェントテンプレート群。FactSet等のコネクタ付き。",
+  "summary_ja": "Anthropic公式が投資銀行・KYC・経理向けに事前構築した10種のエージェントテンプレートを公開。FactSet/Moody's等の業務データソースへのコネクタ、サブエージェント、監査ログ、権限管理を備え、Claude Cowork/Code/Managed Agentsとして数日で展開可能。Microsoft 365統合により Excel/Word/PowerPointで文脈を引き継ぐ。",
+  "tldr_ja": "Anthropic直販の金融業務エージェント10種。FactSet等のコネクタ込み。個人開発者ではなく大手金融機関向け公式パッケージで、第三者参入余地は薄い。",
+  "review_guide_ja": {
+    "what": "Anthropic純正の金融業務向けエージェント・テンプレート集。ピッチブック作成、コンプ分析、KYC審査、月次決算、勘定突合等10種の業務を、ドメイン指示書＋FactSet/Moody's/PitchBook/Dun&Bradstreet等のコネクタ＋サブエージェントの3点セットで提供。Claude Cowork/Claude Code/Managed Agentsの3形態で展開可能。Microsoft 365アドインによりExcel/Word/PowerPoint/Outlookで文脈共有。",
+    "for_who": "銀行・ヘッジファンド・保険・資産運用会社のアナリスト、オペレーション、コンプライアンス担当者。エンタープライズ向け公式製品であり、個人開発者の競合領域ではない。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "個別エージェント自体はClaude+MCPで模倣可だが、FactSet/Moody's等の有料データコネクタ契約、監査ログ・権限管理、エンタープライズ営業網が必須で個人レベル再現は不可。"
+    },
+    "signals": [
+      "246 upvotes、PHトップコメントが詳細解説でエンタープライズ層の関心が高い",
+      "Vals AI Finance Agent benchmark 64.37%のスコア訴求",
+      "みずほ3万人Claude導入、3メガバンクへのMythos提供等、日本でも先行採用実績",
+      "FactSet・Model ML等が既にピッチブック自動化で大手金融に食い込み中",
+      "金融庁AIディスカッションペーパー1.1版で生成AI活用が「条件付き提供段階」へ進展"
+    ],
+    "concerns": [
+      "Anthropic直販のため第三者SaaSの参入余地が極めて狭い",
+      "FactSet等のデータコネクタ契約・監査要件で個人開発者は実装不可",
+      "金融機関の購買サイクルが長く、エンタープライズ営業力が必須",
+      "金融庁規制の見直し可能性、AIガバナンス3線防衛体制が必要",
+      "OpenAI・Microsoft Copilot等のメガベンダー競合圧力"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "メガバンク・地銀・証券・保険でAIエージェント需要は急拡大中。みずほ3万人Claude利用、3メガバンクへMythos提供決定等、需要シグナルは強い。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Anthropic公式が直接提供。FactSet、Model ML、JPM内製等が同領域。NEC・日立等国内SIerのAML/KYCも既存。個人開発者の入る隙はほぼゼロ。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "金融庁AIディスカッションペーパー1.1版、3線防衛体制要請、AML/CFTガイドライン等規制が厚く、個人開発レベルの提供は実質困難。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "日本語金融ドキュメント、邦銀の独自勘定体系、稟議文化、Excel/PowerPoint日本語テンプレートへの対応が必要。Anthropic本体は対応進行中。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "邦銀は対面・パートナーシップ重視、商談サイクル長期。SIer経由の導入が主流で、海外発のセルフサーブSaaSは浸透しづらい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "NEC マネー・ローンダリング対策（AML）サービス",
+        "url": "https://jpn.nec.com/fintech/ai/aml/",
+        "note": "AI型不正検知でAML・KYCを大手邦銀に提供。SIer直販で参入障壁高い。"
+      },
+      {
+        "name": "日立ソリューションズ西日本 AMLソリューション",
+        "url": "https://www.hitachi-solutions-west.co.jp/products/finance/aml/",
+        "note": "リスト照合・モニタリング・継続的顧客管理。地銀・信金実績多数。"
+      },
+      {
+        "name": "FactSet AIピッチクリエーター",
+        "url": "https://www.factset.com/ja/factset-launches-ai-powered-pitch-creator",
+        "note": "投資銀行向けAIピッチブック自動化。LogoIntern買収で機能拡張。"
+      },
+      {
+        "name": "Model ML",
+        "url": "https://thebridge.jp/2025/12/model-ml-75m-series-a-ai-investment-banking-fintech",
+        "note": "投資銀行向けAIエージェント。$75M調達済、UBS・HSBC顧客。"
+      },
+      {
+        "name": "freee + AIエージェント / バクラクAIエージェント",
+        "url": "https://start-link.jp/hubspot-ai/ai/freee-ai/ai-agent-monthly-closing",
+        "note": "月次決算自動化で国内中小〜中堅企業向けに普及中。"
+      },
+      {
+        "name": "TOKIUM 経理AIエージェント",
+        "url": "https://www.keihi.com/column/53601/",
+        "note": "請求書読み取り・仕訳自動化で経理AI市場を獲得済み。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "金融庁AIディスカッションペーパー第1.1版（2026年3月）",
+        "impact": "金融機関でのAI活用は技術中立を維持しつつ、ガバナンス・説明可能性・3線防衛体制が要求される。エージェント運用には監査ログとリスク管理体制が必須。"
+      },
+      {
+        "law": "犯罪収益移転防止法（犯収法）・AML/CFTガイドライン",
+        "impact": "KYCで判定根拠の保存、疑わしい取引届出、継続的顧客管理が義務。AIによる自動判定もログ・人手レビュー併用が必要。"
+      },
+      {
+        "law": "個人情報保護法・金融分野ガイドライン",
+        "impact": "顧客データの海外移転・LLM外部送信は同意・契約上の制約あり。クラウドAI利用には委託先管理体制の整備が必須。"
+      }
+    ],
+    "opportunity": "個人開発者がAnthropic公式と真正面から競合するのは不可。狙うなら(1) 邦銀の和文ピッチ・稟議書・取締役会資料に特化したテンプレートをClaude Code Plugin/Skillとして提供、(2) 国内データソース（帝国データバンク・東商リサーチ・EDINET）連携の薄いラッパー、(3) freee/MFクラウド/勘定奉行向け月次決算サポートエージェント等、ニッチかつ国内データに密着した補完レイヤー。",
+    "rationale": "本体は強烈な需要を捉えた公式パッケージで、Anthropic直販・FactSet等のグローバル金融データ網・既存SIer・金融庁規制が四重の参入障壁を形成。個人開発者の競合余地はほぼ無いが、和文金融ドキュメントや国内データ連携の補完レイヤーに限定的なニッチは残る。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "金融機関の支払能力は高くARPU期待値は大きいが、第三者がClaude公式の上で課金するモデルは難しい。プラグイン課金は単価が低い。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内対象（メガ3+地銀約100+信金254+信組143+証券大手＋ヘッジファンド少数）。母数は小さく、Anthropic公式・SIerが寡占。個人開発が取れる範囲は極小。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "邦銀はSIer/コンサル経由の長期商談中心。個人開発者がエンタープライズ営業を回すのは事実上不可能。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "金融庁ガイドライン整備・Mythos採用報道で機運最大。だが本命のスロットはAnthropic本体が押さえた。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "金融機関対応はコンプライアンス・監査・SOC2/ISMS・運用SLAが必要で個人運営は不可。"
+      }
+    },
+    "rationale": "需要・タイミングは最高水準だが、Anthropic公式自身が本丸を取りに来た領域。個人開発者は補完プラグイン・国内データラッパー等の周辺にしか居場所がなく、金融機関相手のエンタープライズ商流に乗るのは事実上不可。事業化はSIer提携やニッチ和文特化に限定される。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "annual",
+      "arpu_jpy": 480000,
+      "plans": [
+        "Starter: 月額3万円 / 5シート（地銀・信金向け和文ピッチテンプレ＋EDINET連携）",
+        "Pro: 月額10万円 / 20シート＋稟議書テンプレ＋帝国データバンク連携",
+        "Enterprise: 個別見積（オンプレ/専用VPC・SOC2準拠監査ログ）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "地銀・第二地銀・信金・地場証券のフロント／業務部門で、Anthropic公式テンプレでカバーしきれない和文ピッチ・稟議書・国内データ連携が必要な層",
+      "target_count": 400,
+      "capture_pct_year3": 2.0,
+      "monthly_revenue_target_jpy": 3840000
+    },
+    "recommended_gtm": [
+      "SIer（NTTデータ・NEC・日立）の金融部門にOEM/二次代理で組み込み",
+      "Claude Code Plugin Marketplaceで和文金融テンプレートを公開し名刺代わりに利用",
+      "地銀協会・全国信用金庫協会の勉強会・カンファレンス登壇で認知獲得",
+      "金融特化コンサル（アクセンチュア、デロイト等）にレファラル契約",
+      "EDINET/帝国データバンク等国内データプロバイダとアライアンス"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Anthropic公式が和文テンプレ・国内コネクタを直接対応した瞬間に事業根拠が消失",
+      "金融庁ガイドライン改訂で監査・説明可能性要件が厳格化、個人運営の対応コスト爆発",
+      "SIerが内製化を進めるとプラグイン領域すら需要が消える",
+      "FactSet/Bloomberg等の国内データ独占により邦銀データ連携にコスト過大",
+      "セキュリティインシデント時の責任分界点が個人事業主には致命的"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "research_japan_fit_at": "2026-05-23T00:00:00Z"
+}

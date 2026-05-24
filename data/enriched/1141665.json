@@ -1,0 +1,243 @@
+{
+  "name": "Fabraix",
+  "description": "Find gaps in your AI agents before users do",
+  "ph_url": "https://www.producthunt.com/products/nyx-4/launches/fabraix-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/343V4QSMXHGFIP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-08T07:01:00Z",
+  "upvotes": 239,
+  "comments": 20,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence",
+    "YC Application"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋 <br><br>We built agents for massive scale before and realised that 90% of the work was making them reliable enough not to break in production. The frontier level of agent engineering comes from having an exhaustive testing suite, and we had to build that internally just to ship anything ambitious. So we're building it for everyone else.</p><p><br>Most teams don't have that infrastructure today and they cope by \"nerfing\" the agent - reverting to single-step tasks instead of the multi-step autonomous workflows agents are actually capable of.</p><p><br>Our agent is an offensive AI that stress-tests your AI agents. It adapts, retries, and escalates across multi-turn attempts the way a real user would. Pure blackbox, no integration. Point it at any agent and let it run.</p><p><br>It surfaces functional failures (wrong tool calls, hallucinations, broken handoffs) and security exploits before users do.</p><p><br><strong>What we can help with</strong>: Confidence that the agents you've already deployed hold up against the failure modes that matter. Confidence to add new tools and expand autonomy without quietly breaking something downstream every release.</p><p><br>Built by a team of ex-Meta and Monzo engineers. We'd genuinely love feedback from anyone who's been facing an issue with testing AI agents.</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p></p><p>Just to add to what Zach said, we really believe agentic reliability is the biggest hurdle to overcome before we can really realise the productivity benefits of agents, and it's starts with being able to evaluate them. How can you build something reliable, if you don't know where it fails?<br><br>Would love feedback and comments on our approach!<br><br></p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Crazy times, this is a killer product</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "AI agents fail in ways traditional software doesn't. Our agents help you find all the ways in which your AI agents fail by adversarially testing them in a dedicated environment. Point it at any AI agent, or multi-agent system, and it launches 1,000+ strategies that adapt to your system in real time - pure blackbox, no integration needed. Built by ex-Meta engineers.",
+  "featured_at": "2026-05-08T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/7db6ae83-50cf-4635-adee-236755a1014a.svg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9f5b6faa-88f2-4dfa-bff2-3b9a67f5dff5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/91bd341c-9848-4e18-9a79-5a7c7a21c95a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/36c60dd9-3f3e-4b94-862d-1ee177883aa6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/76d8faa8-da69-4d06-83c1-005f89cdddd5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3d316057-8061-4656-97c4-f236fbc27ac8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f94abb9e-627a-4149-9b8f-927778feb67e.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/3a399be2-4264-41ee-b9c2-058beba668f5.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:26",
+  "landing_meta": "Fabraix — Adversarial Verification for AI Agents — An adversarial staging environment for AI agents.",
+  "landing_text": "Fabraix — Adversarial Verification for AI Agents 01 / 03",
+  "pricing_signals": [
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:27",
+  "description_ja": "AIエージェントを敵対的に攻撃し、機能不具合とセキュリティ脆弱性を本番投入前に検出するブラックボックス型ステージング環境。",
+  "summary_ja": "Fabraixは、対象のAIエージェントに対し1,000以上の攻撃戦略を実行時適応で投入し、誤ったツール呼び出し・ハルシネーション・プロンプトインジェクション等の失敗モードを統合不要で炙り出す敵対的検証SaaS。ex-Meta/Monzoエンジニアが構築、複数ターン会話・エスカレーションも模擬する。",
+  "tldr_ja": "AIエージェントに攻撃を仕掛けて壊れ方を可視化するブラックボックス型のレッドチーミングSaaS。統合不要で本番前検証に使える。",
+  "review_guide_ja": {
+    "what": "対象AIエージェントに対して敵対的なテストエージェントを差し向け、複数ターンの試行・エスカレーション・ツール誤呼び出しなど本物のユーザーが起こしうる失敗を再現する。インテグレーション不要のブラックボックス方式で、機能不具合とセキュリティ侵害(プロンプトインジェクション等)を同時に検出する位置づけ。",
+    "for_who": "LLMエージェントを本番投入したい/既に投入済みの開発チーム、エンタープライズSaaS、AIガバナンス責任者、社内エージェントを多数運用するSIer/事業会社。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "敵対戦略の生成、マルチターン適応、リスク採点を自社運用するには研究レベルのRed Team知見と継続的な戦略更新が必要で、PoCは作れても運用品質まで持っていくのが困難。"
+    },
+    "signals": [
+      "PH 239 upvotes / 20 comments と Developer Tools 系として手堅い反応",
+      "Ex-Meta / Monzo の開発者背景でエンタープライズ信頼度が出やすい",
+      "YC Application タグで資金/採用面のシグナルあり",
+      "General Analysis等が同時期に$10M調達するなど領域全体に追い風"
+    ],
+    "concerns": [
+      "競合 (LangSmith / Langfuse / Braintrust / General Analysis / DeepTeam) が急増しコモディティ化懸念",
+      "ブラックボックス前提のためエージェント側のドメイン文脈把握が浅く、誤検知が増える可能性",
+      "日本語固有の指示文・敬語・業界用語に対する攻撃戦略カバレッジが未知数",
+      "顧客側のAIエージェント本番運用がまだ少ない国(日本含む)では需要先行が読みにくい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "AIエージェントの本番運用は2026年に金融・大手SI中心に立ち上がりつつあるが、テスト/評価専用ツールに予算を付ける段階に達しているのはまだ一部。PoC止まりが多く、需要は中期で本格化する見込み。"
+      },
+      "competition": {
+        "score": 6,
+        "reason": "国内テスト自動化(Autify/MagicPod)はGUI/E2E中心でエージェント敵対検証とは直接競合しない。観測領域はLangfuse/LangSmithが先行するが、ブラックボックス×攻撃特化のポジションは国内で空白に近い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "AI事業者ガイドライン第1.2版・改正個情法でリスク評価/レッドチーミング相当の対応が事実上推奨される方向。プラスに働くがガイドライン依拠の事業ロジック整理は必要。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "敬語・婉曲・業界固有用語を踏まえた日本語プロンプト攻撃シナリオ、レポートUIの日本語化、国内データ保管(ソブリン要件)対応が必要で、ローカライズコストは中〜高。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のエンタープライズは『稟議・PoC・セキュリティチェックシート』の長い販売サイクル、ベンダーロックイン回避志向、現地法人/サポート必須など個発組には重い商習慣がある。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Autify Nexus",
+        "url": "https://autify.jp/products/nexus",
+        "note": "E2Eテスト自動化にAIエージェントを組み込む。エージェント本体の敵対検証は対象外だが顧客接点が重なる。"
+      },
+      {
+        "name": "MagicPod",
+        "url": "https://magicpod.com/",
+        "note": "AI型テスト自動化。UIテスト中心でエージェントの会話/ツール呼び出し検証はカバーしない。"
+      },
+      {
+        "name": "SHIFT AIテストエージェント",
+        "url": "https://www.shiftinc.jp/news/20260205_ai_testing_agent/",
+        "note": "仕様書起点のテスト自動化を24/7で実行。エージェントのソフト品質保証だが敵対視点は弱い。"
+      },
+      {
+        "name": "Langfuse(国内自社ホスト導入例)",
+        "url": "https://langfuse.com/",
+        "note": "観測/評価OSS。LLM-as-judgeでオフライン評価は可能だが敵対戦略生成は別レイヤー。"
+      },
+      {
+        "name": "NTTデータ LITRON Builder",
+        "url": "https://www.nttdata.com/global/ja/news/release/2025/120901/",
+        "note": "業務特化AI開発基盤。ガバナンス組込みを謳うがサードパーティ敵対検証はオプション余地あり。"
+      },
+      {
+        "name": "トレンドマイクロ等のLLMセキュリティ",
+        "note": "LLMサービスのランタイム保護中心。Fabraixはプリプロダクション検証側でレイヤーが異なる。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "AI事業者ガイドライン 第1.2版(2026/3/31)",
+        "impact": "AIエージェント・物理AI実装・リスク評価手法を新たに記載。レッドチーミングや事前リスク評価の実施が事実上の運用基準化し、本サービスの追い風となる。"
+      },
+      {
+        "law": "改正個人情報保護法(2026年閣議決定)",
+        "impact": "違法取扱への課徴金導入・生体特徴データの強化保護。テスト用ダミーデータでも個人情報を取り扱う場合は越境・委託先管理が必須で、国内データ保管の整備が必要。"
+      },
+      {
+        "law": "経済安全保障/重要システムガイドライン",
+        "impact": "金融・公共向けエージェントを扱う場合、海外SaaSをそのまま採用しづらく国内/オンプレ提供が求められるケースがある。"
+      }
+    ],
+    "opportunity": "国内ではAIエージェント運用が金融・SI中心に始まり、AI事業者ガイドライン1.2版がリスク評価/レッドチーミングを前提化しつつある。海外SaaS型は国内データ保管・日本語攻撃カバレッジ・SI連携の3点で差が出やすく、『日本語特化のエージェント敵対検証+ガイドライン対応レポート』という縦展開なら個人開発でも入り込む余地がある。",
+    "rationale": "AIエージェント自体の市場はGartnerが2028年に日本企業60%が利用すると予測する通り中期成長は確度が高い。一方、Fabraixのような『敵対検証専用ツール』は対象顧客のAIエージェント本番運用が前提となるため、現状国内ではPoC比率が高く需要が先行している。ガイドライン1.2版が後押し材料になる一方、海外発SaaSはエンタープライズ販売の長期化・国内データ保管・日本語ローカライズの3壁が重く、原則『watch』が妥当。日本展開を狙うなら国内SI(NTTデータ等)とのチャネル提携か、特定業種(金融/コンタクトセンター)に絞った縦切りが現実的。"
+  },
+  "business_viability": {
+    "business_viability_score": 6,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "エンタープライズ向けセキュリティ/品質保証は1社あたりARPU 月10万〜50万円超を取りやすく、海外類似(General Analysis等)も同水準。Usage+Seat複合課金で粘着性も高い。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本のAIシステム市場は2024年1.3兆円→2029年4.2兆円。エージェントテスト/評価レイヤーは数%だが、SI経由を含めれば中期的に数百〜千社の到達母数がある。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "個人開発者やSMBではAIエージェント本番運用がまだ少なくPLGが効きにくい。エンタープライズSLGかSI再販が中心となり、立ち上げコストは個発組には重い。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "ガイドライン1.2版・改正個情法・SaaSの死論争などレッドチーミング需要を喚起する材料が2026年に集中。海外も同タイミングで複数社調達済みで需要立ち上がり期。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "攻撃戦略の継続更新、エンタープライズSLA、コンプライアンス対応、サポート要件が重く、純粋ソロでは規模を出すのが厳しい。1〜2人+業務委託が現実的下限。"
+      }
+    },
+    "rationale": "領域全体としてはタイミング良好でユニットエコノミクスは強い。一方、エンタープライズSLG/SI再販主体になりやすくPLGが効きにくいため、個人開発者単独で勝ち切るのは難度高。攻撃戦略のR&D競争と海外大手参入が同時に進む点もリスク。スコープを『日本語特化の対話/ツール呼び出し敵対テスト』『コンタクトセンター/RAGに絞ったレッドチーム』など縦に絞れば、SI連携前提で十分に事業化余地がある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 120000,
+      "plans": [
+        "Starter 月3万円: テスト実行月100回、攻撃戦略 数十種、レポート日本語",
+        "Pro 月12万円: 月1,000回・MCP/Tool連携検証・SLAレポート・スプリント運用想定",
+        "Enterprise 月50万円〜: 国内データ保管・カスタム攻撃シナリオ・監査レポート・SSO/SOC2相当"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AIエージェントを本番運用 or 直近1年で本番投入予定の国内中堅〜大企業の開発組織(金融・コンタクトセンター・SaaS事業者)。",
+      "target_count": 1500,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 3600000
+    },
+    "recommended_gtm": [
+      "国内SI(NTTデータ/アクセンチュア/SHIFT等)とのOEM/再販提携",
+      "金融/コンタクトセンターに縦切りで日本語シナリオライブラリを差別化",
+      "AI事業者ガイドライン1.2版『レッドチーミング対応』チェックシートを無料配布しSEO/被リンク",
+      "Langfuse等OSS観測ツールと統合し既存導入企業に上乗せ販売",
+      "YC/海外プロダクト勢が手薄な日本語コミュニティで技術ブログ/勉強会"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "海外勢(General Analysis/Braintrust/Confident AI等)が日本法人/SI提携で先行する可能性",
+      "AIエージェント本番運用の立ち上がりが遅れ、テスト需要がさらに後ろ倒しになる",
+      "国内データ保管・SOC2/ISMS等のコンプラ要件が個発組には重い",
+      "攻撃戦略の継続R&Dコストが想定以上に高く運用負荷で利益率が低下",
+      "LangSmith/Langfuse等の観測プラットフォームが敵対検証機能を統合し差別化が薄れる"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 6,
+  "research_completed_at": "2026-05-23T00:00:00Z"
+}

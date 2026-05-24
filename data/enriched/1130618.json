@@ -1,0 +1,244 @@
+{
+  "name": "Radar",
+  "description": "The missing open-source Kubernetes UI",
+  "ph_url": "https://www.producthunt.com/products/radar-7/launches/radar-42edb7b0-e388-4fa8-9ba5-4876c2c0d638?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ZVGW24KQL2TDTF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-03T07:01:00Z",
+  "upvotes": 403,
+  "comments": 19,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "Artificial Intelligence",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey PH 👋 Eyal, Roy, and Nadav here - the team behind Radar. We also build Skyhook, YC W23.</p><p><br>We've wanted a better Kubernetes UI for a long time. kubectl is powerful, but day-to-day cluster work still ends up split across terminals, dashboards, Helm, Argo/Flux, cloud consoles, and log tools.</p><p><br>The existing options all have tradeoffs. Lens lost the OSS trust that made people love it. FreeLens is a welcome fork, but still carries the same heavy Electron desktop model. Headlamp is useful, but shallow once you want deeper operations - Helm, GitOps, traffic, audits. k9s is excellent if you live in the terminal, but not everyone does. And the SaaS tools often price by node and ask for a work email before they let you look at your own cluster.</p><p></p><p>So we built the Kubernetes UI we wanted: fast, local-first, open source, and not locked behind an account. We quietly shipped it a couple of months ago. The community took it past 1.4k GitHub stars and gave us way more feedback than we expected, so we kept shipping. Today is the proper launch.</p><p></p><p>What's in it:</p><p>- Topology with real ownership chains, not force-directed spaghetti</p><p>- Live event stream across all resources using Kubernetes watches, not polling</p><p>- Helm release management with diff/rollback + native Argo CD / Flux sync</p><p>- Live traffic flows via Hubble/Cilium, Caretta, or Istio</p><p>- Cost insights via OpenCost - auto-detected per namespace, workload, and node</p><p>- Cluster audit - 31 checks across security, reliability, and efficiency</p><p>- Image filesystem viewer - read container files in the UI, no exec, no pull</p><p>- Built-in MCP server - point Cursor or Claude at your cluster</p><p><br>Plus first-class integrations for 20+ popular K8s tools - Argo Rollouts, Karpenter, KEDA, cert-manager, Trivy, Kyverno, Velero, Knative, and more.</p><p><br>Single Go binary. Apache 2.0. No account required. No usage tracking. No cloud dependency.</p><p><br>Site: <a href=\"https://radarhq.io\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://radarhq.io</a></p><p>Repo: <a href=\"https://github.com/skyhook-io/radar\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://github.com/skyhook-io/radar</a></p><p>Discord: <a href=\"https://radarhq.io/community/chat\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://radarhq.io/community/chat</a></p><p><br>Also yes, we cared about making it beautiful. K8s tools don't have to look like punishment.</p><p><br>Would love your feedback - what's missing, what breaks, what we got wrong. We're here all day.</p>",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>a cluster audit with 31 checks across security and reliability is a massive value-add for day-to-day ops. we usually run separate trivy or kyverno reports, so having that integrated into the primary ui workflow is a huge time-saver. does the audit allow for custom check injection? <a href=\"https://www.producthunt.com/@nadav_erell\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"nadav_erell\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@nadav_erell</a> </p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Looks very useful, sharing it with my team</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Radar brings your Kubernetes workflows into one fast, open-source UI: real-time topology, resources, events, Helm, GitOps, live traffic flows, security & best-practice checks, image filesystem inspection, and MCP for AI agents. Run it locally as a single binary or self-host it in-cluster with RBAC + OIDC — no account, agents, or cloud required.",
+  "featured_at": "2026-05-03T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/11fb138e-2845-4df4-8b33-38b9b414095f.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/81fa1e6d-4cb5-4a35-9c89-af9ce8573cb9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4416408b-913e-43db-85ce-27dffe9ac457.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1f8779fd-0668-478f-931c-f82cf8e701b0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/266d02ee-7f15-4de8-a775-734e8e96a10e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cc0816d9-feae-4197-b50b-c74f06e3097b.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:32",
+  "landing_meta": "Radar | The missing open-source Kubernetes UI — Open-source Kubernetes UI: topology, events, Helm, GitOps, traffic flows, OpenCost, cluster audit, image filesystem viewer, and MCP for AI agents. Single Go binary, Apache 2.0, no account required.",
+  "landing_text": "Radar | The missing open-source Kubernetes UI skyhook-io/radar · 2.1k stars · Apache 2.0 The missing Kubernetes UI. Topology, events, Helm, GitOps, image inspection, audits, and MCP for AI agents - all in one open-source Kubernetes UI. Run it locally as a single binary or self-host in your cluster. Single binary · No account required · Free forever Quick install Homebrew Desktop app In-cluster $ curl -fsSL https://get.radarhq.io | sh && kubectl radar Other install methods (Krew, Scoop, .rpm, direct download) → app.radarhq.io / fleet 3 clusters The problem Kubernetes is easy to query. Hard to understand. kubectl is great for one cluster, one engineer, one moment in time. But your team runs dozens of clusters across regions and clouds. When an alert fires at 2am, nobody has time to SSH through three jump hosts and grep for pods. kubectl Still the on-call engineer's primary debugging tool for multi-cluster incidents 5+ Tools the typical platform team juggles to debug a Kubernetes incident 1 hour Default event retention in a Kubernetes cluster before data is lost forever Open source, Apache 2.0 Radar is and always will be open source. The full product lives at github.com/skyhook-io/radar . Install it with Helm, run it yourself, keep your data. No feature gates, no license keys, no \"call us for pricing\" features. Radar Cloud exists for the things a single binary can't reasonably do - fleet aggregation, persistent retention, routed alerts, SSO - not because the OSS is crippled. 2.1k + GitHub stars Apache 2.0 Permissive license $0 Self-host, forever Star on GitHub Read the docs OSS vs Cloud → Use cases Built for the work that eats your day. Troubleshoot without kubectl roulette Pod crashing in a namespace you don't remember? Search across every cluster, jump to logs, rewind the event timeline, and share the link. Learn more Manage a fleet, not a cluster Search across every cluster from one bar. Compare workload versions side by side. No kubeconfig hunting, no tab-switching",
+  "pricing_signals": [
+    "free forever",
+    "open source",
+    "open-source",
+    "self-hosted",
+    "pricing",
+    "$99",
+    "$0",
+    "$1",
+    "$12",
+    "$18",
+    "$25"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:33",
+  "description_ja": "k8sの運用を一画面に統合するオープンソースKubernetes UI。トポロジ、Helm、GitOps、監査、MCPを同梱。",
+  "summary_ja": "Radarはローカルファースト/Apache2.0のKubernetes UI。単一Goバイナリで動作し、トポロジ可視化、Helm/Argo/Flux連携、OpenCostコスト分析、31項目のクラスタ監査、MCPサーバーをひとつのUIに統合する。",
+  "tldr_ja": "国内Kubernetes需要は強いが本家OSSが完全無料・課金壁なし、個人開発者が割って入る余地は薄い。",
+  "review_guide_ja": {
+    "what": "Radarは、kubectl/Lens/Headlamp/k9sなど分散していたKubernetes運用を一つのUIに統合するOSSダッシュボード。所有関係を表現するトポロジ表示、全リソースのライブイベントストリーム(watch API)、Helmのdiff/rollback、Argo CD/Fluxのネイティブ同期、Hubble/Cilium/Caretta/Istioによるトラフィック可視化、OpenCost連携のコスト分析、31項目のクラスタ監査、コンテナイメージのファイルシステムビューア、CursorやClaudeを接続できるMCPサーバーを内蔵。単一Goバイナリで配布、Apache 2.0、アカウント登録不要。Radar Cloud(SaaS)はフリート集約・永続保持・SSO等の追加用途のみ。典型ユースは複数クラスタの障害調査、Helm差分確認、コスト按分、セキュリティ監査、AIエージェントへのクラスタ情報提供。",
+    "for_who": "複数Kubernetesクラスタを運用するSRE/プラットフォームエンジニア/インフラエンジニア。Lensの有償化に不満を持つ層、FreeLensのElectron重さを避けたい層、k9sのCLIでは情報量が足りない層、CursorやClaude等のAIエージェントにクラスタ操作権限を渡したい開発者。エンタープライズPlatformチームも対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Kubernetes APIへの深い対応、Helm/Argo/Flux/Hubble/OpenCost等20+ツールとの統合、トポロジ可視化、MCP実装が必要。OSSのため模倣でなく差別化が困難。"
+    },
+    "signals": [
+      "PH 403 upvotes / GitHub 2.1k stars - 初動の関心は高い",
+      "Lensの有償化で乗り換え需要が国際的に発生中",
+      "MCPサーバー内蔵でAIエージェント時代の文脈を取り込む",
+      "Apache 2.0 + アカウント不要で導入摩擦が極めて低い",
+      "本家(skyhook-io)はYC W23、開発リソースは個人開発者の比でない"
+    ],
+    "concerns": [
+      "本家OSSが完全無料・機能制限なしのため、第三者(個人)が同領域で課金する余地が乏しい",
+      "Radar Cloud(本家SaaS)が既存マネタイズ枠を全方位で抑えに来る",
+      "国内Kubernetes実運用層が薄く、日本語化単体の付加価値は限定的",
+      "競合(Lens/Headlamp/FreeLens/k9s/Rancher)が多数存在し差別化困難",
+      "深いk8s知識が必要で個人開発者の参入ハードルが高い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内Kubernetes求人はLinkedIn約4,000件・Indeed約2,000件と一定規模あり、メルカリ等の事例も多い。ただし本番運用は大企業/メガベンチャー中心で、個人レベルの利用は限定的。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Lens/FreeLens/Headlamp/k9s/Rancher/Portainerと既存OSSが乱立。さらにRadar自身も含めOSS無料が標準で、競合密度が極めて高い。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "開発者向けOSSダッシュボードで個人情報を直接扱わない。クラスタ運用ログは個情法対象になり得るがツール提供者側ではなく利用企業の責務。法令上の参入障壁はほぼない。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UIは英語、Lens同様日本語UIなし。CLI/API中心の利用者が多くローカライズ需要は中程度。日本語ドキュメント・Qiita/Zenn記事整備で十分対応可能。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "OSS×self-host文化は国内SRE層には浸透済みで相性悪くないが、エンタープライズではサポート契約必須・稟議文化が壁。個人開発者がエンタープライズ収益を取りにいく障壁は高い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Lens (Mirantis)",
+        "url": "https://k8slens.dev/",
+        "note": "国内Qiita/gihyo/ASCII等で多数紹介済み。Kubernetes IDEのデファクト。有償化以降の不満は国内SREでも共有されている。"
+      },
+      {
+        "name": "Headlamp (CNCF Sandbox)",
+        "url": "https://headlamp.dev/",
+        "note": "PFNが2025年k8s Tokyo#72で独自プラグイン活用を発表するなど国内採用事例あり。CNCF配下で信頼性が高い。"
+      },
+      {
+        "name": "k9s",
+        "url": "https://k9scli.io/",
+        "note": "国内SREに広く浸透するターミナルUI。CLI派には不動の地位。"
+      },
+      {
+        "name": "Rancher (SUSE)",
+        "url": "https://www.rancher.com/",
+        "note": "国内エンタープライズで強い。SUSE Japan経由の保守契約あり。マルチクラスタ管理プラットフォームの定番。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "ツール自体は個情を扱わないが、クラスタ監査ログ機能は利用企業側でアクセス記録の保管要件に貢献。提供者責務は限定的。"
+      },
+      {
+        "law": "著作権法 / OSSライセンス",
+        "impact": "Apache 2.0なので商用利用・改変・再配布可。フォーク/派生での商用化は法的に可能だが、本家との差別化が実質課題。"
+      }
+    ],
+    "opportunity": "国内独自の角度として(1)日本語UI/ドキュメント整備とQiita/Zenn連載で国内SRE層に浸透、(2)国内クラウド(さくら/IDCF/オラクル等)固有のk8sサービス対応プラグイン、(3)国内SES/受託でKubernetes導入支援を行う中小ベンダー向けの『監査レポートPDF出力』など稟議向け機能、(4)エンプラ向けにRadar Cloudの日本リセラー/MSPサポート、といった派生戦略が考えられる。ただし本家がCloudを直販する以上、薄い粗利のサポート業に留まる可能性が高い。",
+    "rationale": "需要面では国内Kubernetes求人4,000件規模・本番運用82%(グローバル)という強いシグナルがあり、SRE/プラットフォームエンジニア層はターゲットとして成立する。一方、競合面はLens/FreeLens/Headlamp/k9s/Rancher/Portainerに加えRadar自身がOSS無料で参入しており、もはや『無料・OSS・高機能』が当たり前の超レッドオーシャン。規制リスクは低く、ローカライズも構造化UI中心で容易。商習慣ではOSSセルフホスト文化が国内SRE層に浸透しており大きな摩擦はないが、エンタープライズ収益は稟議・サポート契約が前提で個人開発者には届きにくい。総じて『市場機会は存在するが、Radar本体に乗っかる以外の独自ポジションが取りにくい』状況で、watch評価が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "本家がOSSを完全無料・機能制限なしで提供。さらにCloudで上位機能を直販するため、第三者がfreemium課金する余地が極めて狭い。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内Kubernetesエンジニアは数千~1万人規模(求人数からの推定、根拠未確認)。SRE/プラットフォーム合計でも有償課金対象は数千社レベル。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "PLGはOSS本家が直接行うため、第三者個人開発者がCNCF/Qiita経由でリーチできる余地は限定。SRE層へのリーチは可能だが収益化チャネルが不明瞭。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "本家Radarが既に2.1k stars/PH 403upと先行。Lens/Headlamp/FreeLens/Rancher等の既存プレイヤーも多数。個人参入の時間窓は実質ゼロ。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "Kubernetes周辺は版上げ追随・複雑な互換性検証が必要で個人運用は重い。エンタープライズ顧客はSLA期待値が高く24/7対応に近い負荷。"
+      }
+    },
+    "rationale": "本家RadarがApache 2.0/アカウント不要/全機能無料という極めて強い姿勢でOSSを出しており、その上のRadar Cloudで上位収益化を本家が直接握る構造になっている。日本の個人開発者が同領域に参入する場合、(a)本家のフォークで派生製品を作る、(b)Radar/Lens等の日本語サポート・導入支援を提供するMSP的業態、(c)k8s周辺のニッチプラグイン販売、のいずれかとなるが、いずれも本家との差別化や日本市場の薄さでスケールしにくい。国内市場規模は数千社レベルで悪くないが、課金嗜好・時間窓・運用負荷のすべてで個人開発者にとって厳しい。事業として成立させるなら、Radar/Headlamp等のエンタープライズ導入を支援するコンサル/SI業を併設する方が現実的。純粋なプロダクト事業として個人で乗るのは推奨しない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "OSS本家に追随する場合は無償OSS+寄付/スポンサー(GitHub Sponsors)",
+        "派生サービスとして導入支援/監査レポート受託: 1案件¥300,000~¥1,500,000",
+        "国内向け日本語サポート契約(MSP): ¥50,000~¥200,000/月/クラスタ規模に応じて"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内でKubernetesを本番運用する中堅~大企業のSRE/プラットフォームチーム、およびCloud Native受託開発を行う中小SI/SES。",
+      "target_count": 2000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn連載でRadar導入・運用ノウハウ発信",
+      "CloudNative Days Tokyo/Kubernetes Meetupでの登壇",
+      "X(旧Twitter)でSRE層への個人発信",
+      "GitHub Sponsors / OSS貢献経由の認知獲得",
+      "MSP/受託で本家OSSを企業導入支援するルートに切り替え"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家RadarがApache 2.0/全機能無料/アカウント不要で出ているため、第三者プロダクト事業として参入する余地が原理的に乏しい",
+      "Lens/Headlamp/FreeLens/k9s/Rancher等の既存OSSと差別化が困難で、後発個人開発者がポジションを取れない",
+      "本家Radar Cloudが上位収益層を直接押さえるため、SaaSラッパー戦略も成立しづらい",
+      "Kubernetes本体のバージョン追随コストが高く、個人運用では版上げ事故・互換性問題で時間が溶ける",
+      "国内エンタープライズはサポート契約・稟議文化があり個人開発者のリーチが構造的に困難"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

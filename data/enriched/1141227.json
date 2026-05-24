@@ -1,0 +1,205 @@
+{
+  "name": "HasData",
+  "description": "Web scraping service for AI agents",
+  "ph_url": "https://www.producthunt.com/products/hasdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/6FFSO6JJJ2XS3Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-15T07:01:00Z",
+  "upvotes": 441,
+  "comments": 111,
+  "topics": [
+    "Artificial Intelligence",
+    "Data",
+    "Vercel Day"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p>Sergey here, co-founder at HasData.</p><p><br>HasData is the managed web data service for AI agents and pipelines. We handle the messy infrastructure like proxies and anti-bot. We also maintain dozens of ready APIs for Google, Maps, Zillow and e-commerce.</p><p><br>And one thing that sets us apart from every other API in this space: we only bill on success. Failed requests cost nothing. You pay for data that actually arrives, not for retries on a broken proxy.</p><p><br>Today we are launching our AI Agent, an MCP server, a CLI and Agent Skills for Claude Code and OpenClaw. You can now connect HasData straight to your AI stack.</p><p><br>The catalog is pretty powerful if you know exactly what you need. But it gets frustrating if you do not. Picking the right tool, learning the parameters and parsing the output takes time away from actual building.</p><p><br>The new AI Agent fixes that. Describe what you need. The Agent picks the matching API, runs the job, and returns a dataset. Enrich any row from the same chat with contacts, firmographics, or whatever's missing.</p><p><br>The MCP server, CLI, and Agent Skills give the same flow to anyone working from Claude, ChatGPT, the terminal, or Claude Code.</p><p><br>Two things worth knowing:</p><ul><li><p>We're giving 10,000 free credits during launch week.</p></li><li><p>If you're a HasData user already, everything works on your existing account, catalog, and workspace. No separate plan, no migration.</p></li></ul><p>It's live at app.hasdata.com/chat. I'm here all day, so is the team. Drop a comment, break it, tell us what's missing.</p>",
+      "votesCount": 34,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunters!<br><br>Nick's here, CPO and Growth Advisor for HasData. I believe this launch is 100% worth your attention, let me tell you why.<br><br>Web scraping always used to be a complicated tool for developers to use: if you do it on your own, you have to build and maintain the whole scraping infrastructure by yourself, but that's even not the most complicated part. Parsing your data and extracting relevant values used to be another kind of a nightmare - before LLM and ChatGPT, of course.</p><p></p><p>Today, thanks to HasData and AI capabilities integrated into this products, I feel like searching and extracting the data you need from web is like building a website with Lovable instead of hiring a freelancer to built it for you with WordPress. You simply pick the required scraper, or even further, prompt your request to HasData AI Agent - then get the relevant data set ready for your CRM enrichment or cold outreach in minutes. Or, what I personally love the most, simply use something like Claude or OpenClaw connector and use the whole power of HasData scraping capabilities in your favourite AI tool - simple as that!</p><p></p><p>So go ahead and try HasData AI scraping tools today for free and let us know what you think - we are happy to consider your feedback and feature requests ❤️</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Your AI is only as smart as the data behind it. And right now most teams I talk to are either flying blind, or they've got somebody on the team who basically does proxies and CAPTCHAs full-time and rewrites parsers every time a site changes its DOM.<br></p><p>I'm Roman, CEO &amp; CTO at HasData. We've spent years on that infrastructure so you don't have to.<br></p><p>Behind one key:</p><ul><li><p><strong>40+ ready-made APIs</strong> across search (Google SERP), travel (Booking, Airbnb, Google Flights, Google Maps), real estate (Zillow, Redfin), shopping (Amazon, Google Shopping), jobs, and social</p></li><li><p>A <strong>Web Scraping API</strong> for everything else: any URL in, parsed JSON out</p></li><li><p>An <strong>AI Agent</strong> that drives the catalog from natural language if you just want a one-off pull without writing code<br></p></li></ul><p>Use it however you build: HTTP API, CLI, Claude Skill, OpenClaw, or MCP server.<br></p><p>Free to start at <a href=\"http://hasdata.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">hasdata.com</a>. You get 10,000 credits when you sign up. If we save you a week of proxy work, throw us an upvote.<br></p><p>I'll be in the comments today. Happy to get into the APIs, the agent, pricing, what we're working on next, whatever.</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "HasData is the managed web scraping service for data pipelines and AI agents. Send any URL, get clean JSON or Markdown back in one API call. We handle proxies, browser rendering, retries, and anti-bot. 50+ ready scrapers cover Google Search, Maps, News, Zillow, Indeed, and major e-commerce. AI extraction handles any other URL from a plain-text prompt. Use it from Claude, ChatGPT, or your own AI agent via MCP. CLI for everything else.",
+  "featured_at": "2026-05-15T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/1f3aa885-0d2d-4b0e-a304-67ffc9bd0494.svg",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/f35c3c4a-e3a2-449a-8006-795cd6fc4711.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/e3a458de-1c6c-4b28-a574-99808a530dff.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/4b5efab8-2510-4c45-a521-7a2b3cb07d97.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/548800ab-e6d9-4e9d-b825-8a2e9479a478.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/5487ecf8-3cad-40e1-a4f3-bd01e436c1cd.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/6ffaa959-d316-45f2-b343-5007119197a5.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/541733dc-5141-43ee-9100-f821af7fb0d9.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/0e940880-fd31-4e09-bbf0-d8db38cee421.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/d7739722-4294-4f96-8b0d-7d1fdad22b77.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/c70b8d5a-4c6f-4091-9efa-8d2039d507ef.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:08",
+  "landing_meta": "Web Scraping Service for Data Pipelines and AI - HasData — HasData web scraping service with 70+ pre-built scrapers from $0.08 per 1,000 requests. Any URL to JSON or Markdown in one API call.",
+  "landing_text": "Web Scraping Service for Data Pipelines and AI - HasData Web scraping service for data pipelines and AI From any URL to JSON or Markdown in one API call. No blocks, just data. HasData helps product teams automate web data collection at scale. No more building scrapers that break every time a site updates. We handle proxies, rendering, and retries. You pay only for successful requests. Search Scrape AI Agent What We Do Web scraping without the infrastructure HasData provides a managed scraping pipeline for product teams. Send any URL, get clean JSON or Markdown back. We handle everything in between. Headless browser rendering We run thousands of headless browser instances. Dynamic content, SPAs, and client-side JavaScript rendered automatically. 2.3s median response time. Automatic proxy rotation Requests route through a managed pool combining 10+ proxy providers and a private residential network. Geo-targeting and IP rotation included in every call. 70+ scrapers with AI extraction 40 API endpoints and 30 no-code scrapers for popular sources. AI extraction turns any URL into structured JSON using plain-text prompts. Developer Friendly Scraper APIs HasData wraps the most popular scraping targets into clean API endpoints. Structured JSON, documented schemas, prices from $0.08 per 1,000 requests. All Scraper APIs Web Scraping API AI Extraction • $0.08 / 1k requests URL Title Description Images Links Content Metadata Structured Data Tables Lists URL Title Description Images Links Content Metadata Structured Data Tables Lists Google SERP API Live SERP Data • $0.83 / 1k requests Organic AI Overview Ad Results Answer Box Knowledge Graph Local Results News Related Questions Related Searches Organic AI Overview Ad Results Answer Box Knowledge Graph Local Results News Related Questions Related Searches Google Maps Search API Live SERP Data • $0.42 / 1k requests Title Place ID Address Phone Website Description Working Hours Open State Rating Reviews Count Category Price Range Se",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing",
+    "$0.08",
+    "$0.83",
+    "$0.42",
+    "$1.25",
+    "$0",
+    "$49",
+    "$99",
+    "$249"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:09",
+  "description_ja": "AIエージェント向けのマネージドWebスクレイピング基盤。URLを投げるとJSON/Markdownを返し、プロキシ・ブラウザ描画・アンチボット対策を内包。",
+  "summary_ja": "HasDataはAIエージェントとデータパイプライン向けに、Webスクレイピングのインフラを丸ごとマネージするSaaS。40+の専用API(Google SERP/Maps、Amazon、Zillow等)と汎用Web Scraping APIに加え、AI Agent・MCPサーバ・CLI・Claude Code Skillを提供し、Claude/ChatGPT/Claude Codeから自然言語で呼び出せる。課金は成功リクエストのみ($0.08/1k〜)。",
+  "tldr_ja": "プロキシ・アンチボット・パーサ込みのWebスクレイピングAPIをMCP/CLI/Skill経由でAIエージェントから直接叩ける、成功課金型インフラSaaS。",
+  "review_guide_ja": {
+    "what": "Web上の任意URLから構造化データ(JSON/Markdown)を取得するマネージドAPI。プロキシ、ヘッドレスブラウザ、リトライ、アンチボット回避を内製し、Google SERP/Maps/Amazon/Zillow等の主要サイト向けに40+の専用エンドポイントを持つ。さらにAI Extractionで任意ページもプロンプト指定で構造化可能。MCPサーバ・CLI・Claude Code Skillが同梱され、AIエージェント側から自然言語で呼べる点が新規性。",
+    "for_who": "営業リスト作成、価格モニタリング、AIエージェント用RAGデータ収集、CRMエンリッチ、検索結果分析を行う開発者・データチーム・SaaSプロダクト開発者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "プロキシプール、ヘッドレスブラウザ群、アンチボット運用、40+の対象別パーサ維持と、価格競争力ある成功課金モデルを個人で再現するのは困難。"
+    },
+    "signals": [
+      "PH 441 upvotes / 111 comments と高関心",
+      "$0.08/1k requestsという破格の入口価格",
+      "AI Agent + MCP + CLI + Claude Code Skill を同時投入し配布チャネルが豊富",
+      "成功課金(失敗無料)というポジショニングが明快",
+      "70+ scrapers、AI Extractionで対象網羅性が高い"
+    ],
+    "concerns": [
+      "Bright Data / Apify / ScrapingBee / Firecrawl 等の強豪が密集",
+      "国内では著作権法30-4・不正競争防止法・利用規約違反といった法的グレー領域への配慮必須",
+      "プロキシ・アンチボット・パーサ運用は永続コストで規模の経済が必要",
+      "日本語サイト固有のレイアウトや会員制サイトへの精度はベンチ未公開",
+      "ターゲットがほぼ開発者で日本での認知獲得には英語SEOだけでは不十分"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "営業リスト作成・競合価格監視・RAG用Webデータ収集の需要は強く、国内ではOctoparse/PigData/ShtockData/Bright Dataが既に商売になっている。2026年はMCP/AIエージェント実装が本格化し、API型需要は伸び基調。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "海外勢(Bright Data、Apify、ScrapingBee、ScraperAPI、Firecrawl)が日本語サポート込みで既に参入。国内ではOctoparse、PigData、ShtockData、Shtock等が代行・SaaS両面で稼働しており、後発の差別化余地は限定的。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "著作権法30-4で情報解析目的の複製は許容されるが、第三者配布や個人情報、利用規約違反、不正競争防止法(限定提供データ)に該当する用途は禁忌。サービス提供側として用途制限・規約整備が必須。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "対象APIがGoogle/Amazon/Zillow/Booking等の海外サービス寄り。iタウンページ、食べログ、SUUMO、HOME'Sなど国内主要サイト向け専用パーサがなく、日本市場でのUVPが弱い。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業はSaaS導入時に請求書払・日本語サポート・SLA・契約書を要求し、海外APIをそのまま使うのに抵抗が大きい。代行型サービス文化が根強く、セルフサーブAPIの浸透は中速。"
+      }
+    },
+    "existing_competitors_jp": [
+      {"name": "Bright Data", "url": "https://brightdata.com/ja", "note": "日本語サポートあり、15,000+顧客。プロキシ網最大手で国内大企業の導入実績多数。"},
+      {"name": "Octoparse", "url": "https://www.octoparse.jp/", "note": "ノーコードスクレイピングツール。$99-$249/月、日本語UI完備。"},
+      {"name": "PigData", "url": "https://pig-data.jp/", "note": "国内のスクレイピング代行サービス。月額4-10万円が相場。"},
+      {"name": "ShtockData Pro", "url": "https://www.itreview.jp/products/shtockdata-pro/", "note": "日本人スタッフサポート、初期費用0円。"},
+      {"name": "Apify", "url": "https://apify.com/", "note": "Actor市場でカスタムスクレイパー流通。日本でも開発者層に浸透。"},
+      {"name": "Firecrawl", "url": "https://www.firecrawl.dev/", "note": "Claude Code MCP連携で日本の開発者ブログでも頻繁に紹介される競合。"},
+      {"name": "ScrapingBee", "url": "https://www.scrapingbee.com/", "note": "$49〜/月、シンプル路線。HasDataと最も近い価格帯。"}
+    ],
+    "regulatory_findings": [
+      {"law": "著作権法 第30条の4(情報解析目的の複製)", "impact": "情報解析目的なら複製可だが、第三者への配布や原コンテンツの再利用は不可。サービス側で用途を限定する規約整備が必要。"},
+      {"law": "不正競争防止法(限定提供データの不正取得・使用等)", "impact": "他社の有料DBやID/PW保護されたデータを取得・第三者提供すると違法。会員制サイトのスクレイピング機能提供にリスク。"},
+      {"law": "個人情報保護法", "impact": "氏名・連絡先等を含む営業リストを大量収集・第三者提供する場合は本人同意や利用目的明示が必要で、用途次第で違反となる。"},
+      {"law": "電気通信事業法・偽計業務妨害(刑法233条)", "impact": "対象サイトに過剰負荷を与えた場合に業務妨害として刑事責任を問われた判例(岡崎図書館事件)あり。レート制御が必須。"}
+    ],
+    "opportunity": "国内向けに『食べログ/SUUMO/iタウンページ/求人ボックス』等の主要日本サイト専用パーサを揃え、請求書払・日本語SLA・法令ガイドライン込みで提供すれば、海外APIでカバーしきれない営業リスト/不動産/求人エンリッチ需要を取りに行ける。AIエージェント×日本サイト特化スクレイパーはまだ空白。",
+    "rationale": "需要は確実にあり、AIエージェント×Web取得というタイミングも追い風。ただし海外プレイヤーの先行と国内代行業者の根強さ、日本サイト向けパーサ整備のコスト、法令運用の重さが組み合わさり、HasDataがそのまま日本市場で勝てる構図ではない。日本特化リスケラピングSaaSとしてのリパッケージなら勝機あり。"
+  },
+  "business_viability": {
+    "business_viability_score": 6,
+    "axes": {
+      "monetization": {
+        "score": 8,
+        "reason": "従量+月額のハイブリッドで、$49/$99/$249の階層が明快。成功課金で導入障壁が低く、AIエージェント側の自動利用でクレジット消費が膨張しやすい構造。ARPUは個人〜中小で$50-$250(7,500-37,500円)が現実的。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内Webスクレイピング/データ収集SaaS市場は推定200-400億円規模で成長中。ターゲットは開発者・データチーム・営業マーケ・SaaSプロダクトで、SMB+大手合わせ数千〜1万社規模はある。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "開発者向け配布(MCP/CLI/Skill)は強いが、日本市場ではZenn/Qiita記事、技術系YouTube、SaaS比較メディア(ITreview等)経由のSEOが効く。代行型に慣れた非エンジニアには訴求しづらい。"
+      },
+      "timing": {
+        "score": 8,
+        "reason": "MCP/AIエージェント実装が2026年に本格化、Claude Code/Cursor等の開発エージェント普及により、AI側から直接叩けるWebデータAPIへの追い風は強い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "プロキシ網、ヘッドレスブラウザ群、各サイト対応パーサ維持、アンチボット対応は個人開発の範疇を大幅に超える。HasData本体の運用はチーム前提。"
+      }
+    },
+    "rationale": "課金モデルとタイミングは優秀で、ビジネスとしてのスケール余地は十分ある。一方、ソロや小規模で本家HasData相当をやるのは非現実的。日本市場に絞った薄いニッチ(日本主要サイト専用スクレイパーをHasData/Bright Data経由で組み立てるラッパーSaaS)なら個人開発で参入余地はある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 15000,
+      "plans": [
+        "Free: 1,000クレジット/月(検証用)",
+        "Starter: 月額7,500円 + 従量(成功課金)",
+        "Pro: 月額15,000円、優先サポートと月50,000リクエスト込み",
+        "Business: 月額37,500円、SLA・請求書払・専用パーサ追加対応",
+        "Enterprise: カスタム見積、専任サポートと法令ガイダンス"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内の営業マーケ自動化SaaS開発者、AIエージェント/RAGプロダクト開発企業、価格モニタリング・不動産・求人系メディア、CRMエンリッチ需要のあるSMB",
+      "target_count": 8000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 1800000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiitaで『Claude Code × 日本サイトスクレイピング』実装記事を量産しSEO獲得",
+      "MCPサーバ公開ディレクトリへの登録とClaude Code Skill配布",
+      "国内主要サイト(食べログ/SUUMO/iタウンページ)専用パーサをセールスポイントに",
+      "代行業者(PigData等)とOEM/再販提携を打診",
+      "ITreview等SaaS比較メディアでのレビュー獲得",
+      "営業リスト/CRM系SaaSベンダーへのAPI埋め込み提案"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Bright Data/Apify/Firecrawlの値下げ・MCP対応強化で差別化喪失",
+      "対象サイトのDOM変更追随コストが個人運用では破綻",
+      "著作権法・不正競争防止法・個人情報保護法違反案件発生でブランド毀損",
+      "プロキシ調達コスト高騰と成功課金モデルの利益率悪化",
+      "日本市場で代行型(月4-10万円)文化が継続し、セルフサーブAPIが浸透しない"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 6,
+  "research_japan_fit_at": "2026-05-23T00:00:00Z",
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

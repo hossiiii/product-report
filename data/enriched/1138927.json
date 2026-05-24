@@ -1,0 +1,276 @@
+{
+  "name": "articuler.ai",
+  "description": "Describe your goal. Meet the right professional.",
+  "ph_url": "https://www.producthunt.com/products/articuler-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ZTPLA6JAPDGMNV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-11T07:01:00Z",
+  "upvotes": 530,
+  "comments": 88,
+  "topics": [
+    "Social Network",
+    "Career",
+    "Community"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p></p><p>I'm Jason, CEO of <a href=\"http://Articuler.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Articuler.ai</a>. Before this, I was a VC — and the hardest part of the job was never closing the deal. It was finding the right person in the first place.</p><p></p><p><strong>LinkedIn works like the Yellow Pages</strong>: you have to already know who you're looking for. That's <strong>broken</strong>.</p><p></p><p><strong>Articuler.ai matches on intent, not keywords.</strong></p><ol><li><p><strong>Describe what you need</strong> in plain language — e.g., <em>\"early-stage consumer AI investors who wrote checks recently.\"</em></p></li><li><p><strong>We match across 980M public profiles</strong> and surface the people who actually fit.</p></li><li><p><strong>Playbook decodes them.</strong> For every match, we read their public footprint and tell you what they care about, how they think — and the things you should <em>never</em> say. <em>(\"Don't ask Chris Messina to be your hunter — his FAQ says he doesn't charge.\")</em> The intel you used to only get from a friend who knew them.</p></li><li><p><strong>We draft the first note</strong> — anchored in shared context. 15% reply rate. 8x cold outreach.</p></li></ol><p>🔍<strong>For founders sourcing co-founders, hires, or investors</strong>, and <strong>young professionals</strong> exploring their next move. If your next opportunity depends on a person who isn't in your contacts yet, <a href=\"https://Articuler.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Articuler.ai</a> is for you.</p><p></p><p><strong>What's next:</strong> Event Match (pre-event matchmaking) launches next month.</p><p></p><p>🎁 <strong>PH gift:</strong> apply code <strong>PH26Q2</strong> at checkout → one month free of our Pro features.</p><p></p><p>Drop a comment and tell us what do you think!</p><p></p><p>— Jason</p>",
+      "votesCount": 18,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I get a load of cold outreach that opens like, <em>\"based on your experience with the Ride Home AI Fund…\"</em> — and I laugh, because I'm not actively investing from the fund now.</p><p></p><p>In these cases, someone's AI agent scraped some stale info, deemed it \"relevant,\" and sent it to me anyway.</p><p></p><p>With Articuler, that problem goes away.</p><p></p><p><a href=\"https://www.producthunt.com/@jason_shen3\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@jason_shen3</a> and <a href=\"https://www.producthunt.com/@hotwheels_bo\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@hotwheels_bo</a> built two of China's largest dating apps — Tantan (acquired by Momo / <a href=\"https://en.hellogroup.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Hello Group</a>) and Jimu (acquired by Inke / Inkeverse) — and they made an observation: <em>dating apps got cannibalized by Instagram and Snapchat because people found more natural ways to meet. </em><strong><em>The professional equivalent hasn't happened yet.</em></strong></p><p></p><p>LinkedIn is still the default, and LinkedIn is full of AI garbage that nobody wants to read.</p><p></p><p>Articuler starts from <em>intent</em>: you describe who you're trying to reach, it runs conversational clarification, then surfaces ranked matches from ~980M public profiles with a \"<em>why connect</em>\" annotation baked in. The cold email writes itself from there.</p><p></p><p>The relevance problem is real and unsolved. But if anyone has the pattern-matching instincts to crack professional matchmaking, it's a team that already did it twice in a harder market.</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey PH 👋</p><p></p><p>I'm Bob, co-founder &amp; CTO of <a href=\"http://Articuler.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Articuler.ai</a>.</p><p></p><p>Before <a href=\"http://Articuler.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Articuler.ai</a>, I spent a decade developing human-matching systems — as Tech VP at Tantan and CTO at Jimu. <strong>Two dating apps, 6M+ DAU combined 👨🏻🎓</strong>.</p><p></p><p><strong>You might think dating apps and professional networking tools are different things, but the core challenge was always the same:</strong></p><blockquote><p><strong>How do you identify the right person out of millions, fast and accurately?</strong></p></blockquote><p>💕 Twenty years ago, you met your spouse in your village, your church, your office, or your social circle. Dating apps decoupled romance from those institutions — now you can match with anyone, anywhere, based purely on signals.</p><p></p><p>🎓 The same thing is happening to professional life, just faster. <strong>AI is unbundling individuals from organizations.</strong> A solo operator with Cursor and Claude ships what used to take a 10-person team. The unit of value creation is shrinking from the company to the person.</p><p></p><p><strong>Which means: who you find, and who finds you, stop being a career nicety and become infrastructure,</strong> as critical as your bank account.</p><blockquote><p><strong>LinkedIn is a directory. Warm intros don't scale. What's needed is matching at internet scale, on intent — which wasn't possible until GenAI turned every public footprint into a vector.</strong></p></blockquote><p></p><p>That's what we're building. 980M+ professionals, vectorized. Match on intent.</p><blockquote><p><strong>Romance got its decoupling tools twenty years ago. Professional life is getting them now. And that is what </strong><a href=\"http://Articuler.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Articuler.ai</strong></a><strong> is doing.</strong></p></blockquote><p></p><p>Have a great day guys!</p><p>— Bob</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Networking is broken because keyword search is broken. We bring real connections to the table — the investor who funds your round, the hire who ships your roadmap, the partner who opens your next market. Tell us your intent and Articuler does three things: (1) Match across 980M public profiles, or within a scope like \"VCs who wrote checks in Q1 2026.\" (2) Playbook: decode anyone from their public footprint. (3) Cold email: a first note that actually lands. 15% reply rate. 8x cold outreach.",
+  "featured_at": "2026-05-11T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/c9c49bb8-f788-45ee-893c-f91f5df05bb4.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3cc5ce32-f73c-4e51-859b-7476f86a249e.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f46c546f-c6bc-4946-90ee-7e1ac2c9aa30.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/822b8796-036c-4a83-86ca-4fed582d7737.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/eb2b1932-84db-484c-91f2-9f2f6f7c34b0.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9421c1cf-7bdf-4872-b945-ff0a129de180.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/97d6de4c-434a-493b-bf14-5009a14765fb.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/422456d4-d1cd-440c-85d3-a001012d4907.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/33966512-8c10-478d-ac24-b2489d5617da.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:17",
+  "landing_meta": "Articuler | AI-Powered Professional Networking Platform — Connect with professionals you are meant to meet. Articuler uses AI semantic vector matching to discover and connect with 980M+ professionals based on intent, not keywords. Cold email tools, meeting prep, and relationship management included.",
+  "landing_text": "Articuler | AI-Powered Professional Networking Platform Great things start with the right person. Find your investor Connect with people you are meant to meet. Match Now They Are Already Here. The Only Thing Missing Is You. See It In Action Intent In. Connection Out. Alex's Profile Alex Dalton Senior PM · 5 yrs Stripe Product Strategy B2B SaaS Developer Experience 0→1 Payments Infra What You Asked I want to find a technical co-founder What We Already Know About You Senior PM 5 yrs Stripe Developer APIs 0→1 Shipper Co-founder Intent AI Dev Tools Your True Intent You need a staff-level ML engineer who's shipped production AI infrastructure at scale and is ready to leave — someone building in AI-native developer tools who can own architecture end-to-end and has felt the pain your future customers feel. Match Level: S Levi S. Lian CEO, Raycaster Match Level: S Marcus Rivera General Partner, a16z Match Level: S Anthony Stephens Technical Recruiter, Ekloud, Inc. Match Level: S Kumar Vadivel Senior Talent Acquisition Specialist, 360 Technology Match Found Match Level: S Sarah Nolan Staff ML Engineer · Databricks · 4 yrs ML Infrastructure Developer Tools AI Agents Co-founder Intent Shared Focus You've both spent 3+ years building developer-facing infrastructure — you on the product side at Stripe, she on ML systems at Databricks. Same problem space, different angles. Complementary Needs She's been attending YC Startup School, South Park Commons sessions, and No Deck Founders over the last 6 months — she has the thesis and the technical chops but no product co-founder. Your PM track + developer-tool shipping = the exact gap she's trying to fill. Network Overlap You both did CS at Stanford — different years, but same department and same advisor track. She also did a 6-month rotation on Databricks' payments integration team, which overlaps directly with the infra you built at Stripe. Intelligence Playbook ready for Alex → Sarah Personalized openers, resonant topics, and things",
+  "pricing_signals": [
+    "subscription",
+    "premium",
+    "$25/mo",
+    "$9.2",
+    "$100",
+    "$1",
+    "$2",
+    "$9",
+    "$3"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:18",
+  "description_ja": "目的をテキストで伝えると、9.8億人の公開プロフィールから意図ベースでマッチング相手を推薦し、相手の傾向解読と初回コールドメール文面まで生成するAIネットワーキングSaaS。",
+  "summary_ja": "Articuler.aiは「キーワード検索ではなく意図ベース」で人脈を発掘するAIプロフェッショナル・マッチングサービス。約9.8億件の公開プロフィールをベクトル化し、ユーザーが自然文で「初期消費者向けAIに最近出資したVC」などと描写するとランク付け候補を提示。さらに相手の公開発信から関心・地雷・話題を抽出した「Playbook」と、共有文脈に基づくコールドメール文案を提示し、返信率15%・コールドアウトリーチの8倍を訴求。ターゲットは創業者(共同創業者・採用・出資者探し)と若手プロフェッショナル。",
+  "tldr_ja": "意図テキストから9.8億プロフィールを意味検索しコールドメール下書きまで自動化する、創業者向けAIマッチングSaaS。",
+  "review_guide_ja": {
+    "what": "LinkedInをはじめとする公開プロフィール約9.8億件をベクトル化し、ユーザーの自然文の意図から最適な人物をマッチングするAIプラットフォーム。マッチングのほか、対象者の公開情報から思考傾向・関心・NGトピックをまとめたPlaybook、共有文脈に基づくコールドメール文案までを一気通貫で提供。ChinaのTantan/Jimu出身チームがプロフェッショナルマッチに応用。",
+    "for_who": "共同創業者・初期メンバー・投資家を探すスタートアップ創業者、転職・副業の機会を探る若手プロフェッショナル、BD/採用担当などコールドアウトリーチを多用する人。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "9.8億プロフィールのデータ収集・更新・ベクトル化・利用許諾の整理、スケーラブルなセマンティック検索基盤、メール送信レピュテーション管理など、個人・小規模では再現困難。"
+    },
+    "signals": [
+      "PH 530票・88コメントと反応良好で初日トップ層",
+      "VC出身CEO+中国大規模マッチングサービス出身CTOで領域知見が深い",
+      "返信率15%・コールドの8倍という具体数値訴求",
+      "Event Matchなど横展開ロードマップが提示済"
+    ],
+    "concerns": [
+      "LinkedIn等公開データの大量スクレイピング・再利用は各国で規制リスクが拡大中",
+      "返信率15%の母集団・条件が不明で再現性検証が困難",
+      "競合(Apollo, ZoomInfo, Clay, LinkedIn Sales Navigator)が機能を取り込めば差別化消失",
+      "コールドメール自動化はスパム/送信レピュテーションと隣り合わせ"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "国内でも創業者・BD/採用領域のコールドアウトリーチ需要は存在するが、日本のビジネスSNS主流はWantedly(約200万)/YOUTRUST/Eight等で、LinkedIn(500万)は普及途上。9.8億プロフィールのうち日本人比率は数%レベルで、国内利用者には海外接触の用途にやや偏る。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内ではWantedly Visit/YOUTRUST/Eight/ビズリーチ/Sales Markerが各セグメントで強固。グローバルではLinkedIn Sales Navigator・Apollo.io・Clay等が同領域。日本特化のIntentベース人物検索SaaSは少ないが、参入障壁(データと信用)が高い。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "2026年改正個人情報保護法でWebスクレイピングは統計/AI開発目的は同意不要となるが、個人特定可能なプロフィールを営業用に提示・送信する用途は同意/利用目的明示・要配慮個人情報の扱いが論点。特商法/特電法によるオプトイン規制も該当する可能性。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "日本語自然文プロンプト・日本語コールドメール生成・日本固有の役職/業界文脈(部長/執行役員/SaaS市場固有用語)の精緻化が必須。海外プロダクトの単純翻訳では精度が出にくく、日本人プロフィールデータの網羅性も課題。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本BtoBは紹介/リファラル偏重で、面識のないコールドメール文化は限定的。創業者-投資家間も既存VCネットワーク(STARTUP DB/Founder/StartupList)と紹介が中心。AIによる定型コールドへの心理的抵抗も強い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Wantedly",
+        "url": "https://www.wantedly.com/",
+        "note": "国内200万ユーザーの採用/カジュアル面談特化SNS。月額5万円~でスカウト機能あり"
+      },
+      {
+        "name": "YOUTRUST",
+        "url": "https://youtrust.jp/",
+        "note": "信頼経済型キャリアSNS。副業/転職のリファラル文化を体現"
+      },
+      {
+        "name": "Sansan/Eight",
+        "url": "https://8card.net/",
+        "note": "名刺起点の国内最大級ビジネスネットワーク"
+      },
+      {
+        "name": "Sales Marker",
+        "url": "https://sales-marker.jp/",
+        "note": "国内500社導入のインテントセールスSaaS。AIで企業意図検出+アウトリーチ自動化"
+      },
+      {
+        "name": "Founder/StartupList",
+        "url": "https://found-er.com/",
+        "note": "起業家-投資家マッチング国内最大級。共同創業者・出資者検索でArticulerと用途近接"
+      },
+      {
+        "name": "LinkedIn Sales Navigator",
+        "url": "https://business.linkedin.com/sales-solutions",
+        "note": "本家。日本500万人。検索/InMail/スカウトを内包しArticuler価値の上書きが容易"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "改正個人情報保護法(2026年改正)",
+        "impact": "公開プロフィールでも要配慮個人情報の取得・営業目的利用は同意/利用目的明示が必要。AI学習目的は緩和されたが、本サービスのように個人を特定して第三者に提示する用途は対象外で要対応。"
+      },
+      {
+        "law": "特定電子メール法/特定商取引法",
+        "impact": "AI生成コールドメールの大量送信はオプトイン原則・表示義務違反のリスク。送信元責任・配信停止対応の実装が必要。"
+      },
+      {
+        "law": "プラットフォーム利用規約(LinkedIn等)",
+        "impact": "LinkedInはスクレイピング禁止を規約・訴訟で強く主張。日本でも準拠法問題はあるが、データソース正当性が事業継続リスクに直結。"
+      }
+    ],
+    "opportunity": "国内では「日本人VC・スタートアップ創業者・採用担当」に特化したインテントマッチ(STARTUP DB+生成AIラッパー)や、Wantedly/YOUTRUST/Eightのプロフィールに対する意図検索オーバーレイは個人開発レベルで現実的。LinkedIn全量を真似るのではなく、特定業界(SaaS創業者、地方経営者、海外進出担当)+紹介経路の可視化に絞ったニッチが狙い目。",
+    "rationale": "本家本人プロダクトの日本展開はLinkedIn普及率の低さ・規制・紹介文化の3重壁で苦戦が予想される。ただし国内では同種のIntentマッチが空白で、Wantedly/YOUTRUST/Eight/STARTUP DBのデータを正規にAPI活用するニッチ版は機会あり。個人開発者がフルクローンを作る合理性は低く、特定領域(VC/共同創業者/SaaS BD)に絞った薄いラッパーが現実解。"
+  },
+  "business_viability": {
+    "business_viability_score": 6,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "コールドアウトリーチ・採用・投資家探索は明確な投資対効果が出やすく、$25/月~の課金は妥当。Wantedly月額5-15万円水準と比較すると、個人プロ向けに$25-$100/月レンジで複数プラン構築可能。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "グローバルではLinkedIn代替/補完で巨大だが、日本単独ではLinkedIn500万・Wantedly200万に限定。日本ARRトップシナリオでも数億円規模。狙うべきはBD/採用/VC領域の数万人の有償ユーザー層。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "PH掲載で初動の海外創業者リーチは成功。日本では創業者コミュニティ(STARTUP HUB・SCT・Ycombinator JP・スタートアップ媒体)経由のPLG/インフルエンサー紹介が現実的だが、信頼形成に時間がかかる。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "GenAIによる意図ベース検索の技術成熟と、AIスパム洪水でLinkedIn DMが劣化している逆風がタイミングを後押し。日本でも2026年LinkedIn500万到達で過渡期。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "9.8億プロフィールのクロール/更新/ベクトル化/ストレージは個人運用不可。データ規模を絞っても法務・送信レピュテーション管理が必要で、最小2-3名チーム+専門家が必須。"
+      }
+    },
+    "rationale": "プロダクト価値・課金性・タイミングは強いが、データ調達と規制対応の重さがソロには致命的。本家がグローバルでスケールする可能性は十分高いが、個人開発者として本家を再現する道は非現実的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 4500,
+      "plans": [
+        "Free: 月3意図検索/プレビューのみ",
+        "Pro ¥3,500/月: 月50検索+Playbook+メール文案",
+        "Founder ¥9,800/月: 月300検索+VC/採用CRM連携+チーム共有",
+        "Team ¥29,800/月: 5シート+共有テンプレ+API"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内スタートアップ創業者・共同創業者を探す層、SaaS BD/採用担当、独立系VC/エンジェルの計2-3万人。+LinkedIn日本ユーザーの上位コアユーザー数万人。",
+      "target_count": 30000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 2700000
+    },
+    "recommended_gtm": [
+      "PHはグローバル向け。日本はSTARTUP HUB/SHIBUYA QWS/J-Startup等のスタートアップコミュニティに直接配布",
+      "VC/エンジェル投資家のXアカウントとパートナーシップ(無料Pro付与してUGC獲得)",
+      "Wantedly/YOUTRUST/Eightと統合する後付ツール路線で摩擦回避",
+      "創業者向けニュースレター(Off Topic, Coral Insights等)寄稿",
+      "イベント連動Event Matchを国内Startup Weekend/IVS/B Dash Campに対応"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "LinkedIn・各SNSからのスクレイピング差止・規約違反訴訟リスク",
+      "改正個人情報保護法による営業目的の個人プロフィール利用への同意要件",
+      "LinkedIn Sales Navigator/Apolloが同等のIntent検索を内製する競合リスク",
+      "AI生成コールドメールのスパム認定・送信ドメインレピュテーション毀損",
+      "9.8億規模のデータ運用コスト(ベクトルDB/更新パイプライン)が利益を圧迫"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0"
+}

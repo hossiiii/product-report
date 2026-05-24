@@ -1,0 +1,196 @@
+{
+  "name": "Kilo Code v7 for VS Code",
+  "description": "Parallel agents, diff reviewer, and multi-model comparisons",
+  "ph_url": "https://www.producthunt.com/products/kilocode/launches/kilo-code-v7-for-vs-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/SNLH5TXRYOCJUJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-05T07:01:00Z",
+  "upvotes": 787,
+  "comments": 207,
+  "topics": [
+    "Open Source",
+    "Software Engineering",
+    "Developer Tools",
+    "GitHub"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>This is the most ambitious release by the <a href=\"https://www.producthunt.com/products/kilocode\" target=\"_blank\" rel=\"noopener\">@Kilo Code</a> team to date. </p><p></p><p>Looking forward to seeing what you're building with this new <a href=\"https://www.producthunt.com/products/vscode\" target=\"_blank\" rel=\"noopener\">@VS Code</a> extension!</p>",
+      "votesCount": 24,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt 👋 Brian from Kilo Code here.<br></p><p>We just shipped the biggest update to our VS Code extension since launch. The entire thing has been rebuilt on OpenCode server, which is the same open-source core that powers our CLI and Cloud Agents. One engine across every surface, so when we improve something, it gets better everywhere.</p><p></p><p>The headline feature is real parallelism. Kilo can now run multiple tool calls at the same time (file reads, searches, terminal commands all firing concurrently), and it can spin up parallel subagents that each handle a piece of a larger task simultaneously. You actually feel the speed difference.</p><p></p><p>A few other things shipping in this release:</p><ul><li><p><strong>Agent Manager</strong> — run multiple independent agents in separate tabs, give each one a role, and use git worktrees so they never step on each other's code</p></li><li><p><strong>Inline code review</strong> — leave line-level comments directly on agent diffs, just like a PR review, and send them back as structured context</p></li><li><p><strong>Multi-model comparisons</strong> — run the same prompt through different models side by side and pick the best result</p></li><li><p><strong>Cross-platform sessions</strong> — start in the CLI, pick up in VS Code, share with a teammate</p></li></ul><p>Kilo is open source, runs 500+ models at provider cost (zero markup), and has over a million developers using it. We'd love for you to try it out and tell us what you think!</p>",
+      "votesCount": 12,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Been on Cursor for a while but the model lock-in is starting to bother me. The 500+ models angle here is hard to ignore. Does switching models mid-project break any context?</p>",
+      "votesCount": 17,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "We've completely rebuilt Kilo Code for VS Code, built on OpenCode server. New portable core, parallel tool calls, subagent delegation, inline code review, multi-model comparisons. Get started: kilo.ai/install",
+  "featured_at": "2026-05-05T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/a64054bd-07ca-42c5-9520-4beeec8eeeba.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/09dbc737-0e34-4531-b8da-528ca191cc4c.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/276743a0-d0df-4cf9-bcb3-384ba7bc4da4.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/9b0a99b6-bd98-4986-8837-0a8e81ae3b1f.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:02",
+  "landing_meta": "Kilo Code for VS Code - Rebuilt on the Portable Core — The rebuilt VS Code extension features parallel execution, subagent delegation, and the same portable core as Kilo CLI. Free, open source, 500+ models.",
+  "landing_text": "Kilo Code for VS Code - Rebuilt on the Portable Core Skip to main content The rebuilt Kilo Code for VS Code is here Powered by the same portable core as Kilo CLI, built on OpenCode as its open-source foundation. You get subagent delegation, parallel execution, and cross-platform sessions without leaving your editor. Install in VS Code Sign up 3M+ downloads · Free and open source ( view on GitHub ) PARALLEL EXECUTION An agent that doesn't just think faster - it works faster Parallel tool calls, parallel subagents, and custom subagents all come built into the rebuilt extension. Parallel tool calls File reads, searches, and terminal commands can run at the same time, so the agent spends less time waiting around. Parallel subagents Implementation, tests, and docs can each get their own specialist and merge back into one result. Custom subagents Define your own agent roles to match the way your team actually ships software. AGENT MANAGER One interface for every agent session Agent Manager already existed. Now it runs on the same portable core, so worktrees, parallel sessions, and inline review are native instead of bolted on. Session tabs built for context switching Spin up tabs, monitor what each agent is doing, and jump between tasks without losing the thread. Shared core, fewer workarounds Because Agent Manager now uses the same foundation as CLI, the newest capabilities land here naturally. INLINE CODE REVIEW Review agent changes like a teammate PR Inspect every edit file by file, comment on exact lines, and send structured review context back into the chat. Built-in diff reviewer Review changes in unified or split view and see exactly what the agent touched before you apply anything. Line-level comments Comment on the exact line that needs attention, just like reviewing a pull request. Send all to chat Every comment gets sent with file path, line number, and code so the next response is grounded in the diff. WORKTREES Run parallel agents without stepping on each oth",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "self-hosted",
+    "pricing",
+    "$1",
+    "$14",
+    "$16",
+    "$21",
+    "$2",
+    "$5",
+    "$65",
+    "$10"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:03",
+  "description_ja": "VS Code 上で並列エージェント、差分レビュアー、500+ モデル比較が使えるオープンソース AI コーディング拡張機能 Kilo Code v7。",
+  "summary_ja": "Kilo Code v7 は OpenCode サーバーを基盤に再構築された VS Code 拡張で、並列ツール呼び出し、サブエージェント委譲、ライン単位のインラインレビュー、複数モデル並列比較、CLI と共有するクロスプラットフォームセッションを提供。OSS / プロバイダ実費課金で 500+ モデル対応、累計 100 万人超の開発者が利用。",
+  "tldr_ja": "並列実行とサブエージェントを VS Code に統合した OSS の AI コーディング拡張。Cline/Roo の延長線で OpenCode 基盤に統一。",
+  "review_guide_ja": {
+    "what": "VS Code 拡張として動作する AI コーディングエージェント。OpenCode サーバーをコアに据え、複数ツール呼び出しの並列化、複数サブエージェントを git worktree で隔離して並走させる Agent Manager、エージェント差分への行単位レビュー、複数モデル同時比較、CLI とのセッション共有を提供する。Cline と Roo Code を起点に派生したプロジェクトで、500+ モデルをプロバイダ実費（マークアップなし）で接続できる。",
+    "for_who": "Cursor の特定モデル依存から離れて複数モデル/OSS を試したい個人開発者、エージェント並列実行で開発速度を上げたいスタートアップエンジニア。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "OpenCode 基盤・100 万 DL の OSS コミュニティ・並列ランタイムを個人で再現するのは現実的でなく、上位互換も困難。"
+    },
+    "signals": [
+      "上位コメントで Cursor のモデルロックインからの乗り換え需要が言及",
+      "PH で 787 upvotes / 207 comments と強い反応",
+      "累計 3M+ ダウンロード、100 万人超の開発者利用と宣言",
+      "Cline / Roo Code 派生として日本語記事も多く認知済み",
+      "並列エージェントは 2026 年トレンド（Cursor Background Agents 等）"
+    ],
+    "concerns": [
+      "Cursor / GitHub Copilot / Cline / Roo Code / Claude Code とレッドオーシャン",
+      "OSS かつプロバイダ実費課金で利益率が極小",
+      "国産・日本語対応の優位性は薄く、エンタープライズは Copilot Business に流れる",
+      "並列実行は API トークン消費を増大させコスト懸念",
+      "個人開発者がこのカテゴリをゼロから再構築するのは事実上不可能"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "日本でも Cline/Roo/Cursor/Claude Code の Zenn・Qiita 記事が多数。AI コーディングエージェントへの需要は明確に存在する。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Cursor、GitHub Copilot、Cline、Roo Code、Claude Code、OpenCode、Codex CLI が乱立し、新規参入余地は極めて狭い。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "日本は生成 AI 専用法はなくソフトロー中心。ただし企業導入時はコードや機密の海外送信に懸念があり、ガイドライン策定が必須。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UI/ドキュメント英語中心。日本語コミュニティはあるが公式の日本語サポート・請求書対応は弱く法人導入の壁になる。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業は GitHub Copilot Business/Enterprise を MS 経由で導入する傾向が強く、OSS 個人課金型の導入決裁は通りにくい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {"name": "Cursor", "url": "https://cursor.com/", "note": "日本の登壇者でも標準的に紹介される最有力 AI エディタ。Background Agents で並列実行も対応。"},
+      {"name": "GitHub Copilot", "url": "https://github.com/features/copilot", "note": "Business $19/月・Enterprise $39/月。日本法人の標準採用。"},
+      {"name": "Cline", "url": "https://cline.bot/", "note": "OSS の VS Code エージェント。日本の Zenn でも記事多数。"},
+      {"name": "Roo Code", "url": "https://github.com/RooCodeInc/Roo-Code", "note": "Cline 派生でチーム開発向け。Kilo と直接競合。"},
+      {"name": "Claude Code", "url": "https://www.anthropic.com/claude-code", "note": "Anthropic 公式 CLI。日本コミュニティで急速に浸透。"}
+    ],
+    "regulatory_findings": [
+      {"law": "AI 事業者ガイドライン (経産省/総務省)", "impact": "コードを外部 LLM に送信する際の透明性・リスク評価が推奨され、社内ガイドライン策定が必須。"},
+      {"law": "個人情報保護法", "impact": "顧客データを含むコードを海外 LLM に送る場合、越境移転と委託先管理の論点。"},
+      {"law": "不正競争防止法 (営業秘密)", "impact": "業務ソースコードの第三者 LLM 送信が営業秘密漏えいに該当しないか個別判断が必要。"}
+    ],
+    "opportunity": "日本市場で純粋に Kilo Code クローンを作る余地はないが、(1) OSS エージェントを法人向けに日本語サポート・請求書・国内 LLM (さくら AI Engine 等) ルーティングを束ねる SI/MSP 的レイヤー、(2) 並列エージェント実行のコスト最適化・監査ログ専用ツール、という周辺アドオンには小さな余地がある。",
+    "rationale": "日本でも AI コーディング需要は強く、Kilo の派生元である Cline/Roo は既に Zenn 等で広く認知されている。一方カテゴリ自体が Cursor/Copilot/Claude Code/Cline/Roo/OpenCode で過密で、OSS かつ無マークアップという同社モデルでは個人開発者が同種プロダクトをゼロから収益化するのは非現実的。需要は高いが競争が壊滅的に厳しく、ローカライズ・商習慣面でも MS/GitHub に分がある。watch 相当で、本体追従ではなく日本特有の運用/規制レイヤを狙う場合のみ検討余地。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "AI コーディングは Cursor が $20/月で実証済みの強い課金性。ただし Kilo は OSS かつプロバイダ実費でマージンを取らない方針なので追従は不利。"
+      },
+      "market_size": {
+        "score": 8,
+        "reason": "日本の IT 人材約 144 万人。世界では数千万人規模で、AI コーディングの TAM は巨大。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "OSS で 100 万 DAU/3M DL の先行者を、個人開発者が追いつくチャネルは現実的に存在しない。"
+      },
+      "timing": {
+        "score": 8,
+        "reason": "並列サブエージェント・worktree 連携は 2026 年の主戦場。トレンドのど真ん中。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "コアエンジン保守、500+ モデル対応、UI/UX、コミュニティ運営すべてを個人で継続するのは事実上不可能。"
+      }
+    },
+    "rationale": "市場規模・タイミングは抜群だが、GTM とソロ運用適性が壊滅的に低い。Cursor/Copilot/Cline/Roo/Claude Code が既存巨人として君臨し、後発の Kilo すら OSS+ノーマージンで差別化している中で、個人開発者が同種プロダクトを商業化するのは事実上不可能。狙うなら本体を作るのではなく、企業向け運用層 (監査ログ・コスト最適化・LLM ルーティング・社内ガバナンス) のような薄いラッパーに留めるのが現実的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: OSS 本体は無料、自己 BYO LLM",
+        "Pro 月額 3,000 円: 企業向け監査ログ・コスト集計・日本語サポート",
+        "Team 月額 8,000 円/席: SSO・社内ガバナンス・国内 LLM ルーティング"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Cline/Roo/Kilo を業務利用する日本の中小 IT 企業・受託開発・スタートアップの開発者",
+      "target_count": 50000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 1500000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita で OSS エージェント運用 Tips を継続発信し SEO 流入を確保",
+      "X (旧 Twitter) で並列エージェントのコスト最適化事例をデモ動画化",
+      "国内 SI/MSP との協業で OSS エージェント導入支援パッケージ化",
+      "AI コーディング系勉強会 (TSKaigi/JSConf JP 等) でスポンサー登壇"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Cursor/Copilot/Claude Code/Kilo 本体が同領域を急速に取り込み差別化余地が消滅",
+      "OSS 本体側に同等機能が無料で実装されるとラッパー事業が崩壊",
+      "API コスト変動と為替で粗利率が大きく揺れる",
+      "営業秘密・個人情報の越境移転リスクで導入ハードルが上がる",
+      "個人開発者ではエンタープライズの SLA/SSO/監査要件を満たせない"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

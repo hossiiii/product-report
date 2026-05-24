@@ -1,0 +1,283 @@
+{
+  "name": "Graphbit PRFlow",
+  "description": "AI code reviewer that catches what others miss",
+  "ph_url": "https://www.producthunt.com/products/graphbit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/K4W36ZSYF7WPLV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-11T07:01:00Z",
+  "upvotes": 394,
+  "comments": 99,
+  "topics": [
+    "Productivity",
+    "Developer Tools",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Thanks everyone, I'm Musa, founder of GraphBit.</p><p></p><p>We built PRFlow after getting frustrated with AI code reviewers that flood your PR with noise, miss the issues that actually matter, and feel different every time they run.</p><p></p><p>The market has options. We know that. We built PRFlow anyway because none of them solved the core problem: consistency and cross-file context in a single pass.</p><p></p><p>PRFlow is a deterministic baseline reviewer that lives inside GitHub. Open a PR and a structured review posts in minutes, every time, with the same output. It traces the exact function that changed across cross-file dependencies, not just the diff lines. That is how it caught 14 security issues on a PR where another tool found zero.</p><p></p><p>We benchmarked PRFlow on 10 real public pull requests. Rated 4.3/5 on average. Every review is live on GitHub and readable right now.</p><p></p><p>PRFlow handles the baseline so your team focuses on architecture, intent, and edge cases. Not repeated first-pass checks.</p><p></p><p>There are other tools. Try PRFlow on a real repo and see the difference yourself. We read every comment.</p>",
+      "votesCount": 43,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Does your benchmark include PRs with generated code or vendored dependencies?</p>",
+      "votesCount": 17,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Really like the direction here. Most teams already have code review processes in place, but review fatigue and repetitive comments still slow things down a lot.<br></p><p>What stood out to me about PRFlow is that it seems focused on improving reviewer focus instead of trying to fully replace human reviews. That balance is important for engineering teams.<br></p><p>Curious to see how teams integrate this into their existing PR workflow over time. Congrats on the launch 👏</p>",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Your AI teammate that reviews every pull request before it ships. Tested on 10 real projects, PRFlow found 7 critical security issues where competitors found zero. Learns your team's standards over time. Pay per review, not per seat.",
+  "featured_at": "2026-05-11T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/3b472422-3bb2-4185-be18-2ec7d57d6ffc.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/454b7b60-a4b7-4ee3-9027-f073bdc9c296.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a304df42-ed57-4c9b-9f2c-d853763e4d6a.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0ae057f2-18ae-4cd2-8095-ee09dcd62529.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2fea8586-2a13-4a51-bde3-53377d4f236c.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a466719a-c0f2-48fb-b91c-db1337d8c7b9.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9343d579-9cc0-4ca6-948a-c7e133ae7da3.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fc63d186-9f14-4036-9cf0-f2267e2c6a98.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/327d6761-e244-4f20-a353-01f0d1b6f967.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/9b1ebb10-b900-4624-b21b-4b841a0f37d3.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:26",
+  "landing_meta": "PRFlow | AI Code Review That Catches What Others Miss — PRFlow indexes your codebase, traces cross-file dependencies, and produces a structured security review in under 3 minutes — automatically on every PR. Benchmarked 4.3/5 vs 2.5/5 across 10 real pull requests.",
+  "landing_text": "PRFlow | AI Code Review That Catches What Others Miss Benchmark verified — 4.3/5 vs 2.5/5 across 10 real PRs The only AI reviewer that finds the bugs that ship. PRFlow indexes your codebase, traces cross-file dependencies, and produces a structured security review in under 3 minutes — automatically on every PR. Start reviewing - it's free Live sample 1 Live sample 2 Live sample 3 Under 5 min setup · No CI/CD config · Works on every PR prflow // discourse/pull/2 CHANGES_REQUESTED 6.5 /10 14 issues found · 27 files reviewed 🔴 CRITICAL XSS via iframe src injection — embed.js:9 🔴 CRITICAL XSS via raw HTML output — embed.html:19 🟠 IMPORTANT X-Frame-Options ALLOWALL — clickjacking risk 🟠 IMPORTANT SSRF via insufficient URL validation + 10 more issues 4.3/5 PRFlow avg · 10 real PRs 2.5/5 Competitor avg · same PRs 7 vs 0 Issues found · Sentry #8 ↗ verify on GitHub 10/10 PRs won or matched Capabilities Architected for the complexity of real codebases. Semantic Codebase Memory Indexes cross-repo dependencies and internal patterns. Knows your codebase before it reads the PR. Persistent Learning Corrects itself based on your team's feedback. Remembers the correction forever and applies it globally. Smart Context Extraction Sends the LLM exactly the right context — the changed function + its cross-file dependencies. Not the whole file, not just the diff. Security-First Review XSS, SSRF, SQLi, auth bypass, race conditions — caught by tracing how code flows across files, not just lines changed. Single-Pass Review Reads the whole PR once. Produces the complete structured review — score, issues, strengths, fixes — in 1–3 minutes. Conversational Follow-up Reply to any PRFlow comment in your PR thread. It responds with full review context. Your corrections improve future reviews. Pipeline How the agent works Request to resolution · 1–3 minutes 01 Webhook Received PR opened or updated → HMAC-SHA256 validated webhook triggers within 1 second. Acknowledgment comment posts before any deve",
+  "pricing_signals": [
+    "open-source",
+    "subscription",
+    "pricing",
+    "$25",
+    "$75",
+    "$150",
+    "$250",
+    "$300",
+    "$500",
+    "$700",
+    "$1",
+    "$19"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:27",
+  "description_ja": "GitHub の PR にクロスファイル依存関係まで追跡したセキュリティ重視の AI コードレビューを自動投稿する SaaS。従量課金制。",
+  "summary_ja": "PRFlow は GitHub の PR を 1〜3 分で構造化レビューする AI コードレビューエージェント。差分だけでなく変更関数とクロスファイル依存を辿り、XSS/SSRF/SQLi/認可バイパス等のセキュリティ問題を検出する。10 件の実 PR ベンチマークで競合 2.5/5 に対し 4.3/5。チーム標準を継続学習し、シート課金ではなくレビュー単位の従量課金で提供。",
+  "tldr_ja": "GitHub PR に自動投稿される従量課金型 AI コードレビュー。クロスファイル解析でセキュリティ問題を網羅検出する点が差別化。",
+  "review_guide_ja": {
+    "what": "GitHub の PR が開かれると Webhook 経由で自動起動し、リポジトリ全体をインデックス済みのコードグラフで参照しながら変更関数の cross-file 依存を辿って構造化レビュー（スコア、issue 一覧、修正案）をコメント投稿する AI エージェント。XSS/SSRF/SQLi/認可バイパスなどセキュリティ観点を中心に検出し、レビュー結果はチームの修正フィードバックを永続学習する。価格はシートではなく『レビュー単位』の従量課金。",
+    "for_who": "GitHub を使う SaaS スタートアップ・受託開発・OSS メンテナで、Senior レビュアーの工数が逼迫しているチーム。とくにセキュリティを重視する Web/B2B SaaS の開発組織が想定顧客。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "コードグラフ構築・継続学習・LLM プロンプト最適化が中核で、競合の CodeRabbit/Greptile/Qodo と差別化するには検出精度の継続的改善とコスト管理が必要なため。"
+    },
+    "signals": [
+      "Product Hunt で 394 upvotes / 99 comments と高エンゲージメント",
+      "ベンチマーク 4.3/5 vs 競合 2.5/5 を公開 PR で透明に提示",
+      "Pay per review という seat 課金疲れに対するアンチテーゼ",
+      "GitHub という巨大流通基盤上で動作（450万人の日本人開発者含む）",
+      "セキュリティ問題検出という ROI を説明しやすい価値訴求"
+    ],
+    "concerns": [
+      "CodeRabbit/Greptile/Qodo/GitHub Copilot Review など強力な先行プレイヤーが既に日本でも導入実績",
+      "ソースコードを SaaS に送信することへの企業セキュリティポリシー懸念",
+      "ベンチマークが 10 件と少なく、生成コード/ベンダーディレクトリでの精度未検証",
+      "LLM API コスト次第で per-review 単価のマージン管理が難しい",
+      "個人開発者が同じ路線で参入すると LLM 推論コスト負担で勝負しにくい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "日本の GitHub 利用開発者は 450 万人超で 6 番目に大きいコミュニティ。レビュー疲れと AI コードの脆弱性検出ニーズは Findy/Zenn/Classmethod 等で頻繁に議論されており国内需要は強い。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "CodeRabbit が日本語 UI/レビュー対応済みで国内導入が広く、Greptile/Qodo/Copilot Code Review も参入済み。差別化（cross-file・determinism）は機能パリティで追われやすい。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "個情法・NDA・OSS ライセンスの観点でソースコード送信を懸念する企業が一定数あるが、CodeRabbit 等が既に法人導入実績を作っており致命的な障壁はない。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "GitHub UI 内完結で英語のままでも使えるが、日本語レビューコメント・日本語ドキュメント・国内決済（請求書/インボイス）対応が CodeRabbit 並みに必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業は『年間契約・固定価格・印影付き見積書』が標準。Pay per review は変動費を嫌う購買部門との摩擦になりやすく、月額/年額プラン併設が必要。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "CodeRabbit",
+        "url": "https://www.coderabbit.ai/ja/pricing",
+        "note": "日本語 UI/日本語レビューコメント対応済み。$12/$24 per developer。キカガク・ミツカリ等の国内導入事例が公開されている。"
+      },
+      {
+        "name": "Greptile",
+        "url": "https://www.greptile.com/",
+        "note": "$30/seat。コードグラフ方式で PRFlow と最も競合。日本語ドキュメントは限定的だが国内エンジニアに認知あり。"
+      },
+      {
+        "name": "Qodo Merge (旧 PR-Agent)",
+        "url": "https://www.qodo.ai/",
+        "note": "OSS の PR-Agent をベースにした商用版。$19/seat または self-host 無料。DMM などが PR-Agent を導入済み。"
+      },
+      {
+        "name": "GitHub Copilot Code Review",
+        "url": "https://github.com/features/copilot",
+        "note": "GitHub ネイティブ統合。Copilot 契約に内包され、2026/6 以降は usage-based に移行。圧倒的なディストリビューション。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "ソースコード内に個人情報や API key が含まれる場合、第三者提供・委託先管理の整理が必要。SOC2/ISO27001 等の認証提示が法人導入の前提になる。"
+      },
+      {
+        "law": "OSS ライセンス（GPL 等）",
+        "impact": "AI が生成・提案するコードがコピーレフト OSS を学習している場合、生成コードのライセンス汚染リスクを顧客が懸念する。"
+      },
+      {
+        "law": "下請法・電子帳簿保存法/インボイス制度",
+        "impact": "国内 B2B 販売には適格請求書発行事業者番号と JPY 請求書発行が事実上必須。海外 SaaS の場合リバースチャージで購買稟議が通りにくい。"
+      }
+    ],
+    "opportunity": "国内では『日本語でセキュリティ知見の効くレビュー』『PII/API key の自動マスキング』『国内 IaaS（さくら・IIJ）リージョンでのセルフホスト』など、海外大手が手薄な領域がニッチとして残る。受託開発会社（年間 PR 数千件規模）向けに『PR 単価＋月額上限キャップ』というハイブリッド課金は購買稟議を通しやすい。",
+    "rationale": "需要は明確で大きいが、CodeRabbit を筆頭に差別化要素（クロスファイル、日本語、価格）が既にカバーされ参入後発不利。個人/小チームが PRFlow と同じ路線で勝つには、LLM 推論コストを抑えた特定垂直（Rails/Laravel/Next.js のセキュリティ専門）への絞り込みと、国内 SIer の購買フローに合わせた請求書月額モデルが必須。watch に分類する。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "Pay per review は説明しやすく LLM コスト連動で粗利が読める一方、日本企業は固定費を好むため CodeRabbit 並みの月額プラン（$12-24/dev）併設が必要。ARPU 想定は 1 シート 3,000 円/月。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "日本の GitHub 開発者 450 万人のうち、企業の開発組織で AI レビュー導入余地のあるシートは保守的に 30-50 万シート程度。SaaS 市場規模 3,030 億円の中で開発者ツールは数百億円規模が見込まれる。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "個人開発者には GitHub Marketplace、Zenn/Qiita/Findy ブログ経由でリーチ可能だが、法人導入は SOC2 取得・日本語サポート・国内代理店が必要で個人/小規模チームには重い。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "AI コードレビューの認知は 2024-2026 で急速に拡大し DMM・キカガク等の事例が公開済み。ただし大手が固まりつつあるレッドオーシャン化フェーズで、後発参入のウィンドウは 12-18 ヶ月。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "コードグラフ構築・継続学習・複数言語対応・LLM コスト最適化・GitHub 認証連携・SOC2 等、運用負荷が高く個人開発者が単独継続するのは困難。"
+      }
+    },
+    "rationale": "市場サイズと需要は十分大きいが、競合密度・GTM 難易度・運用負荷がいずれも個人開発者には重荷。同じ路線をクローンするのではなく、Rails/Laravel/Next.js 等の特定言語×セキュリティに絞り込み、月額固定 + レビュー上限のシンプル価格で国内 SES/受託向けに刺すなど、明確なニッチを取れるなら勝負可能。Pay per review は資金力のある競合（Greptile 等）に追随されやすい点も注意。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: 月 20 PR まで、Public リポジトリ無制限",
+        "Pro: 1,800 円/月/dev・年間契約（月 200 PR 込・追加 30 円/PR）",
+        "Team: 3,000 円/月/dev・SAML/監査ログ・日本語サポート",
+        "Enterprise: 要見積・セルフホスト/国内リージョン・SOC2 提示"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "GitHub を使う日本の SaaS スタートアップ・受託開発・社内開発組織のうち、PR 月 50 件以上で AI レビュー導入余地のあるエンジニア（5-50 名規模のチームの開発者）",
+      "target_count": 300000,
+      "capture_pct_year3": 0.1,
+      "monthly_revenue_target_jpy": 900000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita で『Rails/Next.js のセキュリティ脆弱性を AI が検出した実例』記事を週次投稿",
+      "Findy Tools / Findy Team+ への掲載と比較表での競合との差別化訴求",
+      "OSS リポジトリへ無料提供 → メンテナの SNS 拡散を狙う",
+      "国内 SIer/受託の CTO コミュニティ（CTOA、CTO Night）で実 PR デモ",
+      "請求書払い・適格請求書発行・日本語サポートを Day1 から整備"
+    ],
+    "time_window_months": 15,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "CodeRabbit/Greptile/Qodo/Copilot Review との機能パリティ競争で差別化が消える",
+      "LLM 推論コスト高騰時に pay-per-review のマージンが急速に悪化する",
+      "ソースコード送信を NG とする企業セキュリティポリシーで導入が止まる",
+      "SOC2/ISO27001 未取得だと法人案件で見送られ ARPU が伸びない",
+      "GitHub Copilot Code Review の標準機能化で価格圧力が極端に強まる"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-23T00:00:00Z",
+  "review_guide_at": "2026-05-23T00:00:00Z",
+  "business_viability_at": "2026-05-23T00:00:00Z",
+  "advisor_view_at": "2026-05-23T00:00:00Z"
+}

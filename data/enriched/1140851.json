@@ -1,0 +1,192 @@
+{
+  "name": "Tendem by Toloka",
+  "description": "AI platform to hand off any task to a human expert",
+  "ph_url": "https://www.producthunt.com/products/tendem-by-toloka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/VU7DEOLLKRGOW4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-14T07:01:00Z",
+  "upvotes": 268,
+  "comments": 71,
+  "topics": [
+    "Design Tools",
+    "Productivity",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt, I'm Natalia from the Tendem team at Toloka 👋</p><p><strong>The Problem</strong></p><p>Builders today have more AI tools than ever, but turning AI output into work you can actually ship is still harder than it should be.</p><p>Most options follow one of two flawed approaches:</p><p>❌ <strong>Pure AI agents.</strong> Impressive in demos, then miss things, hallucinate, and leave you doing the last 20% yourself.</p><p>❌ <strong>Freelance marketplaces.</strong> They work, but quality is a coin flip. You end up project-managing strangers, and the ramp kills the speed advantage.</p><p>After watching teams burn hours fixing AI output or chasing freelancers, we built Tendem to actually solve the problem.</p><p><strong>How Tendem is Different 🚀</strong></p><p>Tendem is a task delegation platform where AI and vetted human experts work together to deliver verified output, for work pure automation can't finish.</p><p>✅ <strong>Backed by Toloka's expert network.</strong> 10,000+ vetted specialists across design, dev, copywriting, research and more — the same humans who help train the AI models you're using elsewhere.</p><p>✅ <strong>AI + human expert in every task.</strong> No \"AI-only\" tier. Every output gets reviewed, corrected, or finished by a vetted human before it ships back to you.</p><p>✅ <strong>Per-task pricing.</strong> Pay for the tasks you send. No seats, no contracts, no committing to volume you don't have.</p><p><strong>Who is this for?</strong></p><p>If you're a founder, builder, or small team that's tired of copy-pasting AI output and thinking \"well, now I have to fix this\" — then Tendem is for you. Especially if your work mixes things AI is almost good at with things that absolutely have to land right the first time.</p><p>🔗 <strong>Get started today</strong>: try Tendem at <a href=\"http://tendem.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">tendem.ai</a>. 20$ for our first task is on us.</p>",
+      "votesCount": 35,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>For anyone curious about the thinking behind Tendem: we wrote a white paper a while ago covering how Tendem works, the metrics we care about, and how it compares with other AI tools and workflows.</p><p>You can check it out here: <a href=\"https://arxiv.org/abs/2602.01119\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://arxiv.org/abs/2602.01119</a></p>",
+      "votesCount": 26,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt – I'm Egor, Head of Engineering at Tendem by Toloka. 👋</p><p></p><p>The post you're reading right now? I asked AI to write it for you.</p><p></p><p>And you know what? It was fast and technically fine.</p><p>Clean structure, correct grammar, all the usual launch words: “AI-powered,” “seamless,” “revolutionary.”</p><p>It was the kind of text that says everything and makes you feel nothing. The kind of post you scroll past before the second sentence.</p><p></p><p>And that's exactly the problem.</p><p>AI can produce something that looks finished very quickly. But “looks finished” is not the same as “ready to ship.” Real work needs expert judgment, context, human taste, and verification.</p><p></p><p><strong>That's why we built Tendem.</strong></p><p>Tendem combines AI with vetted human experts. AI handles the fast parts. Humans review, correct, finish, and QA the output before it gets back to you. So if you've ever used AI and thought, “Cool… but now I still need to fix this”, Tendem is for you.</p><p></p><p>We're launching our open beta today, and we’d love your support, feedback, and toughest tasks.</p><p>Your first $20 task is on us.</p><p></p><p>Try Tendem → <a href=\"http://tendem.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">tendem.ai</a></p><p>Share feedback in the comments – we’ll read everything.</p>",
+      "votesCount": 19,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Tendem is a platform where human experts and AI agents complete high-stakes tasks. Submit a task in plain language. AI agents handle the volume. Human experts level up the the final output. What comes back is complete, accurate, and ready to act on. Built by Toloka.ai, a company that has spent more than a decade building human-in-the-loop quality systems for frontier AI labs. Trusted by founders, operators, and AI-native users who need reliable results.",
+  "featured_at": "2026-05-14T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/b18f1c41-98fa-4ae8-a0da-549be2be9a72.jpeg",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/846633dd-3dde-45e5-9e2b-c9edaf928ecc.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/a009b0d5-48a0-4301-baef-d1dff139057c.jpeg"},
+    {"type": "image", "url": "https://ph-files.imgix.net/6b2a94ed-601a-43da-9ae0-57e22ac71161.jpeg"},
+    {"type": "image", "url": "https://ph-files.imgix.net/61e8b869-2af4-4ba7-a2a4-5cb851b44ff2.jpeg"},
+    {"type": "image", "url": "https://ph-files.imgix.net/02fa9138-f7f1-4ad3-b8ae-afa1d3220cf8.jpeg"},
+    {"type": "video", "url": "https://ph-files.imgix.net/95ed22a2-99a8-4aa5-8ca2-0a1a61add1a2.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:32",
+  "landing_meta": "Behind every AI: a human expert — Where AI meets accountability. Every result is backed by human intelligence.",
+  "landing_text": "Behind every AI: a human expert by Toloka Experts via MCP Pricing Our experts Blog Use cases Log in Get Started by Toloka AI is working.... AI is working.... AI draft AI draft Human Expert is working Human Expert is working 4,9 4,9 267 solved tasks 267 solved tasks Behind every AI: a human expert Where AI meets accountability. Every result is backed by human intelligence. Where AI meets accountability. Every result is backed by human intelligence. Get your first result $20 free credits. No setup. No API key. No learning curve. $20 free credits. No setup. No API key. No learning curve. 2,400+ tasks completed 4.9 / 5 avg task rating 4-36h typical turnaround 2,400+ tasks completed 4.9 / 5 avg task rating 4-36h typical turnaround Individual contributors from top companies use Tendem by Toloka Not everything needs to be on your plate. Not everything needs to be on your plate. RESEARCH Find businesses up for sale Get a verified list of companies matching revenue, location, and acquisition-status criteria pure AI can't access. ~12 hours CSV export Chatbots WhatsApp, Telegram etc. bots Build a WhatsApp chatbot for your café — menu questions, reservations, and handoff to a human if needed. ~8 hours Working automation Copywriting Write a cold call sequence A multi-step sequence for a new market or campaign, written to sound human and convert. ~12 hours CSV export Data Monthly lead list refresh Request a recurring scrape from your chosen sources, verified and deduplicated. ~8 hours Spreadsheet DESIGN Generate sketch-style images Turn AI-generated product renders into investor-ready sketches that signal a thoughtful collection plan. ~6 hours Summary doc Design and Development Convert Figma to Website A pixel-accurate live build from your Figma file, coded by a vetted developer and ready to publish. ~36 hours Live page These are just a sample — we handle much more than what's listed here. These are just a sample — we handle much more than what's listed here. Launch your task Wha",
+  "pricing_signals": [
+    "pricing",
+    "$20"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:34",
+  "description_ja": "AI下書き＋審査済み人間専門家のレビューでタスクを完納する、タスク単位課金のハイブリッド業務委託プラットフォーム。",
+  "summary_ja": "Tolokaが提供するTendemは、ユーザーが自然言語でタスクを依頼すると、AIエージェントが下書き・実装を行い、1万人超の審査済み人間専門家がレビュー・修正・QAを行った上で納品する仕組み。デザイン・開発・リサーチ・ライティングなど幅広い領域に対応し、シート課金ではなくタスク単位で都度払い。AI出力の『最後の20%』を埋める用途を想定し、創業者・小規模チームをターゲットにしている。",
+  "tldr_ja": "AIが下書きし人間専門家がレビュー納品する、タスク単位課金のハイブリッド業務委託プラットフォーム。日本では既存代行サービスと競合し参入は厳しい。",
+  "review_guide_ja": {
+    "what": "Tolokaが運営するハイブリッドAI＋人間専門家のタスク委託プラットフォーム。10,000人超の審査済み人材ネットワークを背景に、AIエージェントが処理した下書きを必ず人間がQA・修正してから納品する。デザイン・コード・リサーチ・データ・ライティングなど幅広いタスクに対応し、4〜36時間でターンアラウンド、料金はタスク単位（シート不要）。Toloka本体はAnthropic/Amazon/Microsoft等のAI訓練データ供給で十年の実績がある。",
+    "for_who": "AI出力の最終調整に時間を取られている個人開発者・スタートアップ創業者・小規模チーム。フリーランス管理に疲弊し、シート課金SaaSを抱えたくない層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "1万人規模の審査済み専門家ネットワーク構築・品質QAパイプライン・10年分の人間-AIワークフローのKnow-Howが核で個人では再現困難。"
+    },
+    "signals": [
+      "PH 268 upvotes / 71 comments と高関心",
+      "Toloka本体がAnthropic等のAI訓練データで実績",
+      "タスク単位課金・$20初回無料のローフリクション設計",
+      "ランディング上で2,400件完了/4.9評価/4-36h納期を明示",
+      "白書を公開し品質指標で1.8x優位を主張"
+    ],
+    "concerns": [
+      "海外プレイヤーで日本語専門家プールが不透明",
+      "日本ではクラウドワークス/ランサーズ/ココナラ/ビザスクと真っ向競合",
+      "個人開発で1万人ネットワークの構築は不可能",
+      "AI出力の品質向上で『人間補完』の価値が減衰しうる",
+      "守秘性の高い業務（コード/個人情報）で海外人材使用への抵抗"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本でもAIの最終調整に時間を取られる課題は普遍的で、オンラインアシスタント市場（CASTER BIZ・フジ子さん・タスカル等）も成長しており潜在需要は確実にある。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "クラウドワークス・ランサーズ・ココナラ・ビザスク・各種オンラインアシスタント・HELP YOU等の既存プレイヤーが厚く、新規参入はネットワーク効果と価格で苦戦必至。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "業務委託マッチング自体は規制が緩いが、インボイス制度対応、個人情報保護、下請法、海外事業者としての消費税登録が必要な場合あり。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "日本語専門家プールの量と質、日本のビジネス慣習に沿った成果物（商習慣・敬語・契約書フォーマット等）の対応が不透明で、現状ローカライズ未対応。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本企業は実績・対面・契約書・PO発行・指名委託を好み、不特定の海外人材へのタスク投入や英語UIに抵抗。守秘性の高い情報の海外送付も忌避されやすい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {"name": "クラウドワークス", "url": "https://crowdworks.jp/", "note": "国内最大級クラウドソーシング。AI連携機能も拡充中で価格競争力が高い。"},
+      {"name": "ランサーズ", "url": "https://www.lancers.jp/", "note": "案件数約19,500件。副業向け『ランサーズAI』も展開。"},
+      {"name": "ココナラ", "url": "https://coconala.com/", "note": "スキル単位の出品型マーケットプレイス。個人発注が多い。"},
+      {"name": "ビザスク", "url": "https://expert.visasq.com/", "note": "スポットコンサル・専門家マッチング。AIマッチングを内製化。"},
+      {"name": "CASTER BIZ", "url": "https://cast-er.com/", "note": "高品質オンラインアシスタント。月額固定型。"},
+      {"name": "フジ子さん", "url": "https://fujiko-san.com/", "note": "月額35,000円〜のオンラインアシスタント。"},
+      {"name": "タスカル", "url": "https://taskar.online/", "note": "月額2.5万円〜のオンラインアシスタント。"},
+      {"name": "HELP YOU", "url": "https://help-you.me/", "note": "ロボット＋人間ハイブリッドプランを提供。"}
+    ],
+    "regulatory_findings": [
+      {"law": "インボイス制度（消費税法）", "impact": "国内事業者にサービス提供する場合、適格請求書発行事業者登録が必要となる可能性。海外事業者は国外事業者用の特別登録が必要。"},
+      {"law": "個人情報保護法", "impact": "リサーチタスクで個人データを扱う際、越境移転規制・本人同意取得が論点。海外人材への共有で論点増。"},
+      {"law": "下請代金支払遅延等防止法", "impact": "発注者が大企業の場合、海外事業者経由でも下請法的な公正取引観点で支払サイト・成果物検収プロセスを整える必要。"},
+      {"law": "労働者派遣法", "impact": "業務委託形態を維持する限り対象外だが、指揮命令の実態が出ると偽装請負リスク。"}
+    ],
+    "opportunity": "純粋な再現参入は厳しいが、日本語特化×ニッチ領域（例: 法務文書のAI下書き＋弁護士レビュー、医療コンテンツのAI下書き＋医療者レビュー、税務AI下書き＋税理士レビュー）で資格保有者ネットワークを限定構築する形なら、規制業種ゆえに参入障壁を逆手に取れる可能性あり。",
+    "rationale": "潜在需要は確実に存在し市場は伸びるが、既存の汎用クラウドソーシング/オンラインアシスタント/スポットコンサルが層厚く、価格・指名・実績で先行。Tendem型の差別化（AI下書き＋専門家QA一体）も、ランサーズ/クラウドワークスのAI拡張で陳腐化しうる。個人開発者が1万人規模の審査済みネットワークを構築するのは事実上不可能。日本市場参入を狙うなら汎用ではなく専門資格×規制業種への垂直特化が現実解だが、PoC段階の個人開発者には推奨しない。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "タスク単位課金は受け入れやすく、平均20-100ドル/タスク程度で月数千〜数万円のARPUは見込める。ただし利益率は人件費に圧迫される構造。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本のオンラインアシスタント・クラウドソーシング・スポットコンサル合計で数百億円規模あり潜在大。ただしTendem型に絞ると獲得可能パイは限定的。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発者にはCAC高すぎ。SEO/SNS/紹介での獲得は既存大手に圧倒される。Product Hunt型ローンチは1回限り。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "AIエージェント普及期で『AI出力の最終調整』というペインは2026年に顕在化。HITL需要も拡大中。タイミング自体は良い。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "専門家プール構築・品質QA・分配計算・トラブル対応・継続採用は個人運用ほぼ不可能。マーケットプレイス型は供給側オペレーションが重い。"
+      }
+    },
+    "rationale": "課金モデルとタイミングは良いが、マーケットプレイス型ビジネスは需要側・供給側の二面流動性が必須で、個人開発者が立ち上げから運用まで担うのは現実的でない。GTMコストも高く、既存大手のAI機能拡張で価値提案が陳腐化するリスクも高い。日本市場で個人開発者が事業として成立させるのは難しい構造。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 15000,
+      "plans": [
+        "初回タスク無料クレジット2,000円分（リード獲得）",
+        "タスク単位課金: 簡易タスク2,000円〜/専門タスク10,000-50,000円",
+        "月額サブスクリプション12,000円: 月3タスクまで＋15%割引",
+        "法人プラン50,000円〜: 専属マネージャ・SLA・請求書対応"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AI出力を業務に組み込んでいる個人開発者・1-10名規模のスタートアップ・士業/コンサル個人事業主",
+      "target_count": 30000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 2250000
+    },
+    "recommended_gtm": [
+      "規制業種×AI下書きの垂直特化（税理士監修・弁護士監修等）でニッチ独占",
+      "X（旧Twitter）で個人開発者コミュニティ向けに『AIの最後の20%』訴求",
+      "noteやZennで実タスクの納品事例を公開しSEO獲得",
+      "既存士業ネットワークと提携してB2B2C的に専門家プールを構築",
+      "Product HuntやIndie Hackers日本コミュニティでローンチ"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "供給側（日本語専門家）プールが集まらず納期/品質が崩壊",
+      "クラウドワークス・ランサーズのAI機能拡張で差別化が消失",
+      "個人情報・守秘情報の取扱いトラブルで信用喪失",
+      "需要が個人開発者中心だとARPUが低くCAC回収できない",
+      "Tendem本体が日本市場に正式参入し早期に占拠"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "research_japan_fit_completed_at": "2026-05-23T00:00:00Z"
+}

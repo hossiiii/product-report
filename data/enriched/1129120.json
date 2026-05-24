@@ -1,0 +1,237 @@
+{
+  "name": "Gemini Deep Research Agent",
+  "description": "Web and MCP research agents, now in Gemini API",
+  "ph_url": "https://www.producthunt.com/products/gemini-deep-research/launches/gemini-deep-research-agent-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/NWPUJCSQEF5ED4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-30T07:01:00Z",
+  "upvotes": 229,
+  "comments": 6,
+  "topics": [
+    "API",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>Deep Research Max by Google DeepMind is a powerful autonomous research agent built on Gemini 3.1 Pro 🚀</p><p></p><p>It tackles the biggest problem in research today... time-consuming, fragmented, and shallow analysis by automating deep, multi-source research workflows into fully cited, high-quality reports.</p><p></p><p>What stands out is its ability to combine open web + proprietary data (via MCP), generate native charts/infographics, and iteratively refine insights for expert-grade output.</p><p></p><p><strong>Key features</strong>:</p><ul><li><p>Autonomous long-horizon research workflows</p></li><li><p>MCP support for custom data integration</p></li><li><p>Native visualizations (charts &amp; infographics)</p></li><li><p>Multimodal inputs (PDFs, CSVs, media)</p></li><li><p>Real-time reasoning + collaborative planning</p></li></ul><p>Perfect for analysts, enterprises, and teams in finance, life sciences, and market research who need fast, reliable, and deep insights.</p><p></p><p>If you're building or scaling with AI agents, this is worth exploring!</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a></p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>ALready got my Claude Code on this!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>MCP-native research agent in the Gemini API is a smart positioning play vs hosted-only Deep Research alternatives. Two q's: when sources contradict, does it surface the disagreement in citations or just pick one? And any quota visibility for async DR Max jobs before they blow past budgets?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Two research agents in the Gemini API: Deep Research for low-latency interactive workflows, Deep Research Max for exhaustive async synthesis. Both support MCP data sources and native chart generation. For developers and AI engineers.",
+  "featured_at": "2026-04-30T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/721ed556-69e4-4bce-8c58-a761f951430f.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e98303ac-2363-4595-8e04-e5242cb9e883.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f3049c48-c702-49b0-8d65-ffcfefa13ff2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/27603ee0-8004-4ff6-a18d-6ddee7a6659e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/30db7c1a-8be4-4628-b7ae-254ed1d0f0a2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/303e6588-d82e-4347-874c-5f46eee9788c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cb3d4270-efaa-4229-9d9e-6c1d06cfd435.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0efcc2aa-825f-4b56-81ae-06b5e7b44d4a.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/389453f7-d0f5-419e-aea8-2173e85ca07d.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:51",
+  "landing_meta": "Introducing Deep Research and Deep Research Max — Introducing Deep Research and Deep Research Max, the next generation of Google’s autonomous research agents.",
+  "landing_text": "Introducing Deep Research and Deep Research Max Deep Research Max: a step change for autonomous research agents Apr 21, 2026 · Share x.com Facebook LinkedIn Mail Copy link Built with Gemini 3.1 Pro, the new Deep Research agents bring MCP support, native visualizations and unprecedented analytical quality to long-horizon research workflows across the web or custom sources. Lukas Haas Product Manager, Google DeepMind Srinivas Tadepalli Program Manager, Google DeepMind Read AI-generated summary Bullet points Google’s \"Deep Research Max\" article introduces powerful new autonomous agents for advanced data analysis. Choose between the fast Deep Research agent or the comprehensive Deep Research Max model. These agents now securely connect to your private data using the Model Context Protocol. The system creates professional charts and infographics to help you visualize complex research findings. You can now guide the agent's research plan to ensure you get exactly what's needed. Summaries were generated by Google AI. Generative AI is experimental. Basic explainer Google just released two new AI research agents that can dig through massive amounts of data to write professional reports. One version is built for speed, while the other, called Deep Research Max, handles complex, deep-dive projects. These tools can even create their own charts and connect to your private files to find specific answers. It’s a huge upgrade that helps people get expert-level analysis done much faster than before. Summaries were generated by Google AI. Generative AI is experimental. Explore other styles: Bullet points Basic explainer Share x.com Facebook LinkedIn Mail Copy link Your browser does not support the audio element. Listen to article This content is generated by Google AI. Generative AI is experimental [[duration]] minutes Voice Speed Voice Speed 0.75X 1X 1.5X 2X In December , we released the Gemini Deep Research agent to developers via the Interactions API , giving developers access to ",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-24T20:35:51",
+  "description_ja": "Gemini APIで使える自律型リサーチエージェント。Deep Researchは対話的、Deep Research Maxは網羅的な長期リサーチを実行し、MCP接続と可視化対応。",
+  "summary_ja": "Google DeepMindが提供する2種類の自律型リサーチエージェントAPI。Gemini 3.1 Pro基盤で、Web検索＋MCP経由の社内データ統合、グラフ/インフォグラフィック自動生成、PDF/CSV/音声などのマルチモーダル入力に対応。開発者は対話型のDeep Researchか、最大160クエリ・90万トークンを使う網羅型Deep Research Maxを選択でき、自社プロダクトに組み込み可能。",
+  "tldr_ja": "Gemini APIに統合された自律リサーチAgent。MCP経由で社内データも統合し、グラフ付きレポートを自動生成。SaaS組込み用の開発者向けAPIで、Felo/Perplexityと真っ向勝負する基盤技術。",
+  "review_guide_ja": {
+    "what": "Google DeepMindがGemini API上で提供する自律型リサーチエージェントAPI。Deep Research(高速対話型)とDeep Research Max(網羅型)の2種類があり、Web検索とMCP接続による社内データ統合、ネイティブなチャート/インフォグラフィック生成、PDF/CSV/動画などマルチモーダル入力に対応。開発者は自社SaaSに組み込んで、市場調査・法務調査・競合分析などの長期リサーチワークフローを自動化できる。",
+    "for_who": "AIエージェントSaaSを開発する事業者、業界特化型リサーチツールを構築する個人開発者、金融/法務/コンサル向けに高精度リサーチを組み込みたい中小SaaS事業者。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "Gemini API呼び出しのラッパー実装は数日で可能だが、Google本体製品との差別化が困難で技術参入障壁は実質ゼロ"
+    },
+    "signals": [
+      "PH 229 upvotes、Deep Research関連はAI開発者層で継続的注目",
+      "MCPサポートで社内データ統合が標準化、業務特化に追い風",
+      "日本でもFelo/Perplexity等がBtoB導入を急伸中",
+      "Fortune500 SaaS上位の95%がGemini API採用と公表",
+      "Gemini 3.1 ProはHLE/DeepSearchQA等のベンチでGPT-5 Proを上回ると報道"
+    ],
+    "concerns": [
+      "Google自身がGemini Appで同等UIを無料/低価格提供し垂直統合",
+      "APIラッパーは差別化困難、価格競争に巻き込まれやすい",
+      "Deep Research Maxは1回で最大80kトークン出力＝API原価が高く粗利圧迫",
+      "日本市場ではFelo(国産)が日本語UXで先行、後発参入のハードル高い",
+      "MCPは標準規格化が進みコモディティ化、囲い込み困難"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "国内AIエージェント市場は2030年3.5兆円規模・CAGR46%予測。リサーチ業務代行のニーズは法務/金融/コンサルで明確で、既存リサーチ代行(時給3,000円～)の代替需要が大きい。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Felo($15/月・国産)、Perplexity Pro($20/月)、Genspark、ChatGPT Deep Research、Google AI Pro(¥2,900)が乱立。本APIラッパーは同じ土俵での差別化が極めて困難。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "個人情報保護法(APPI)対応とGoogle/MCP経由の社外データ送信について法人説明責任あり。DeepSeek警告事例のように個人情報保護委員会の動向を注視する必要。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "Gemini自体は日本語精度高く国内サイト分析実績あり。ただしFeloが日本語UX/資料作成で先行し、引用形式や日本語商習慣に最適化された後発差別化が必須。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "日本企業は業界特化型エージェント志向が強く(LegalOn、TOKIUM、燈など)、汎用リサーチより業務組込型を好む。商習慣を踏まえた狭いバーティカルに絞れば勝機あり。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Felo",
+        "url": "https://felo.ai/ja",
+        "note": "日本発AI検索/リサーチ。Pro $15/月。日本語UXと資料作成支援で先行、最大の国内競合。"
+      },
+      {
+        "name": "Perplexity Pro",
+        "url": "https://www.perplexity.ai/",
+        "note": "$20/月。Deep Research機能搭載、日本でもBtoBで導入急伸。"
+      },
+      {
+        "name": "Genspark",
+        "url": "https://www.genspark.ai/",
+        "note": "AIエージェントで日本進出。リサーチ自動化に強み。"
+      },
+      {
+        "name": "Google AI Pro / Ultra",
+        "url": "https://gemini.google/jp/subscriptions/",
+        "note": "Gemini純正サブスク。Pro ¥2,900/月、Ultra ¥36,400/月でDeep Research利用可。API元締めがB2Cを直接押さえる。"
+      },
+      {
+        "name": "ChatSense Deep Research",
+        "url": "https://chatsense.jp/function/deep-research",
+        "note": "国内法人向けChatGPTにDeep Research搭載。エンタープライズSSO/監査対応で先行。"
+      },
+      {
+        "name": "LegalOn Technologies",
+        "url": "https://legalontech.jp/",
+        "note": "契約書・法務特化のリサーチAI。業界特化型として国内圧倒的地位。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法(APPI)",
+        "impact": "MCP経由で顧客の社内データをGoogle APIに送る場合、第三者提供/越境移転の同意取得とDPA締結が必要。法人提案時に必須確認事項。"
+      },
+      {
+        "law": "経済産業省 AI事業者ガイドライン",
+        "impact": "出力の引用元検証、ハルシネーション対策、ログ保管などのAI事業者向け遵守事項が適用される。"
+      },
+      {
+        "law": "下請法/著作権法",
+        "impact": "生成レポートをコンサル業務で再販する場合、引用元のスクレイピング元の利用規約と著作権法32条の引用要件を満たす設計が必要。"
+      }
+    ],
+    "opportunity": "汎用リサーチでは勝てないため、(1)特定業界(医薬/法務/金融/不動産デューデリ)に特化したバーティカルSaaS、(2)日本語の業界固有データソース(EDINET/特許庁/裁判所判例DB等)をMCP経由で接続するアダプタ提供、(3)Deep Research Maxのコスト最適化(キャッシュ/バッチ実行)を肩代わりする中間レイヤー、のいずれかに絞れば個人開発でも参入余地あり。",
+    "rationale": "需要は確実だが競合が極めて激しく、Google本体が直接エンドユーザー向け製品を出しているため、汎用APIラッパーは消耗戦になる。一方、日本特有のデータソース連携と業界特化UX(法務の判例検索、不動産の登記/重説要約、医薬の論文+PMDA等)に絞れば、Felo/Perplexityでも届かないニッチを取れる。個人開発者は『業界特化MCPコネクタ＋日本語レポートテンプレ』の薄いラッパーで早期参入し、3〜6ヶ月で先行者利益を取りに行く戦略が現実的。"
+  },
+  "business_viability": {
+    "business_viability_score": 6,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "月額サブスク(¥3,000〜10,000/席)＋従量(レポート数)のハイブリッドが王道。BtoB特化なら¥30,000〜100,000/月のチーム単価も狙え、API原価率30〜50%程度で粗利は確保可能。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内AIエージェント市場2030年3.5兆円、リサーチ代行/ライティング外注市場も年数千億規模。1〜2業界に絞っても数十億の獲得可能市場(SAM)あり。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "BtoB獲得は業界特化なら有効だが、コンテンツマーケ+業界カンファレンス+デモ動画+試用法人開拓に時間がかかる。Felo/Perplexityのブランド先行で個人開発の集客は厳しい。"
+      },
+      "timing": {
+        "score": 8,
+        "reason": "2026年は『AIエージェントが日本企業利益に本格貢献する年』と日経が宣言。MCPの標準化と業務特化型エージェント需要が同時に立ち上がる絶好期。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "API原価のキャッシュフロー先行リスク、Deep Research Maxの長時間ジョブ運用、エンタープライズ要件(SSO/監査ログ/SLA)対応など個人運用は重い。BtoCに絞れば軽くなる。"
+      }
+    },
+    "rationale": "市場の追い風とマネタイズ手段は揃っているが、APIラッパーゆえの差別化困難・Google直販リスク・エンタープライズ要件が個人開発の重荷。垂直特化＋日本固有データ接続＋日本語業務テンプレ提供で『汎用Deep Researchでは届かない領域』に絞り、月商100〜300万円の小規模スケールに留める前提なら2〜3年成立可能。中規模以上を狙うとGoogle本体・先行SaaSとの正面衝突で消耗する。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 3980,
+      "plans": [
+        "Free: 月3レポートまで、引用元10件まで、ロゴ表示",
+        "Pro ¥3,980/月: 月50レポート、Deep Research Max月10回、API利用ログ閲覧",
+        "Team ¥29,800/月(5席): 業界特化MCPコネクタ、レポートテンプレ、Slack通知",
+        "Business ¥98,000/月: 専用MCP接続、APPI対応DPA、優先サポート、監査ログ"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本のBtoBコンサル/法務/金融/不動産/医薬の知的労働者で、リサーチ業務を週5時間以上行う個人ユーザー及び小規模チーム",
+      "target_count": 200000,
+      "capture_pct_year3": 0.1,
+      "monthly_revenue_target_jpy": 796000
+    },
+    "recommended_gtm": [
+      "業界特化バーティカル1つに絞る(例: 不動産デューデリ or 法務判例リサーチ)",
+      "Zenn/Qiita/note でDeep Research API実装記事を継続発信し開発者ブランド構築",
+      "業界カンファレンス/勉強会(LegalTech、不動産Tech)でデモ展示し法人リード獲得",
+      "TwitterのAI界隈+業界インフルエンサーへ無料Pro提供→事例紹介",
+      "MCPコネクタをOSS公開し、利用フックから本体SaaSへ誘導",
+      "ベータ法人5社を無料運用→3ヶ月後に有償切替で実績作り"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Google本体がGemini App/AI Proで同等機能を低価格提供しコモディティ化",
+      "API価格改定/レート制限変更でユニットエコノミクスが瞬時に崩壊",
+      "Felo/Perplexity日本法人が業界特化機能を後追いで実装し追い抜かれる",
+      "APPI/AI事業者ガイドライン違反による行政指導や法人解約",
+      "Deep Research Maxの長時間ジョブ運用とエンタープライズ要件が個人運用の限界を超える"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 6,
+  "research_japan_fit_at": "2026-05-23T00:00:00Z"
+}

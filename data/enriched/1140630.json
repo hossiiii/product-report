@@ -1,0 +1,198 @@
+{
+  "name": "Naptick AI",
+  "description": "Al sleep companion that helps fall asleep without struggle",
+  "ph_url": "https://www.producthunt.com/products/naptick-ai-sleep-companion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/OT2VX5IW7L4F7E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-14T07:01:00Z",
+  "upvotes": 552,
+  "comments": 123,
+  "topics": [
+    "Health & Fitness",
+    "Hardware",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi Product Hunt Community, 👋</p><p></p><p>I’m Anubhab, founder of <a href=\"https://naptick.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Naptick</a>. Really excited to finally share what we’ve been building. :)</p><p></p><p>Naptick is an AI sleep companion bringing an agentic era to sleep combining a bedside device, AI sleep coach, circadian light, adaptive soundscapes, distraction app-locking, and room condition intelligence to help people fall asleep faster, not just track sleep after the fact.</p><p></p><p><strong>What is Naptick?</strong></p><p></p><p>Naptick sits next to your bed and helps you build a better evening routine.</p><p></p><p>It can check your room conditions, start calming light and sound routines, help you talk through your day with an AI sleep coach, reduce phone distractions, and wake you up gently with light-based cues.</p><p></p><p>The goal is simple: <strong>make falling asleep feel effortless</strong>.</p><p></p><p><strong>The Problem &amp; Our Solution</strong></p><p></p><p>Most sleep products today are passive.</p><p></p><p>They tell you your sleep score in the morning, but they don’t help much at the moment that matters most — before you fall asleep.</p><p></p><p>The real sleep problem is usually not lack of data. It’s late-night scrolling, inconsistent routines, poor room conditions, stress, noise, light, and a mind that refuses to switch off.</p><p></p><p>Naptick solves this by turning your bedroom into a guided sleep environment. Instead of saying “you slept badly,” Naptick helps you take action before the night begins.</p><p></p><p><strong>What Makes Naptick Different</strong></p><p></p><p>Most sleep apps still need your phone at bedtime. Naptick is built to be phone-free by design (the app is mainly for setup and preferences).</p><p></p><p>Users can start routines directly from the bedside device, control sound and light physically, talk to an AI sleep coach, and reduce doomscrolling before sleep.</p><p></p><p>It’s also not just another white-noise machine or sleep tracker. Naptick brings together the key sleep levers — light, sound, environment, coaching, routine, and phone discipline — into one connected bedtime experience.</p><p></p><p><strong>Features &amp; Benefits</strong></p><p></p><p><strong>1. Room condition intelligence: </strong>Naptick helps you understand whether your bedroom is actually sleep-ready.</p><p><strong>Benefit:</strong> Better control over the environment affecting your sleep.</p><p></p><p><strong>2. 1000+ adaptive soundscapes: </strong>Choose from calming sounds, nature, brown noise, piano, meditation, and more through our licensed content library.</p><p><strong>Benefit:</strong> Easier wind-down without endlessly searching for the right track.</p><p></p><p><strong>3. AI sleep companion: </strong>Talk to Naptick before bed to unload your mind, reflect, or get guided support.</p><p><strong>Benefit:</strong> Helps reduce mental clutter before sleep.</p><p></p><p><strong>4. App-locking for distraction-free sleep: </strong>Block distracting apps as part of your night routine.</p><p><strong>Benefit:</strong> Less doomscrolling and stronger bedtime boundaries.</p><p></p><p><strong>5. Circadian-inspired lighting: </strong>Evening light cues help you wind down, while morning light cues help you wake up gently.</p><p><strong>Benefit:</strong> Your room starts working with your body’s natural rhythm.</p><p></p><p><strong>6. Physical bedside controls: </strong>Tap, double tap, rotate, and long press to control sleep routines without picking up your phone.</p><p><strong>Benefit:</strong> Fewer reasons to bring your phone back into bed.</p><p></p><p><strong>Who is Naptick For?</strong></p><p></p><p>Naptick is for anyone who wants better sleep without adding another complicated wellness habit.</p><p></p><p>Especially useful for:</p><ul><li><p>Founders and high-performance professionals</p></li><li><p>People who scroll too much before bed</p></li><li><p>Parents trying to create calmer nights</p></li><li><p>Light sleepers</p></li><li><p>Apple Watch / Oura / Whoop users who want interventions, not just scores</p></li><li><p>Anyone trying to build a consistent wind-down routine</p></li></ul><p>(Naptick integrates with wearables to create a stronger feedback loop.)</p><p></p><p><strong>Our Ask</strong></p><p></p><p>We’d love your feedback from the Product Hunt community.</p><p></p><p>Please check out Naptick, ask us hard questions, and tell us what would make this a daily bedtime habit for you.</p><p>And if better sleep matters to you, we’d love your support today. 🙌</p><p></p><p><strong>Try Naptick, pre-book your device here 👉 </strong><a href=\"https://launch.naptick.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>https://launch.naptick.com/</strong></a></p><p></p><p>Thank you PH ❤️</p><p>AG &amp; Team Naptick<br></p>",
+      "votesCount": 34,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>How phone free is the setup? Can I complete the entire first time configuration without touching my phone?</p>",
+      "votesCount": 17,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>After building multiple 0 to 1 products and then scaling them upto 150M+ transactions per month, 220M+ active sessions per month, building Naptick had its own set of learnings - building scalable infra for 24x7 connected hardware devices, ensuring your devices work seamlessly all day and switching b/w places with multiple wifi networks is seamless unlike most other hardware devices that require rigorous setup after slight move, easiest controls by doing button taps on devices, seamless voice to voice conversations with the device that makes it your preference to use device by voice than by app. Go into a DND mode just by single voice command before drifting off to sleep..</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Naptick is a smart bedside AI sleep companion designed for founders, professionals, light sleepers, and anyone struggling with nighttime stress or doomscrolling. It combines circadian light therapy, 1000+ adaptive soundscapes, room condition intelligence, app-locking, and an on-device AI sleep coach to help users fall asleep faster and wake up refreshed. Unlike passive sleep trackers, Naptick is built phone-free by design and actively helps improve sleep before the night begins.",
+  "featured_at": "2026-05-14T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/768542e3-e0be-44b7-8547-cde9ad144423.jpeg",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/c2ad3c0c-6e90-4745-a42a-57b09bfdaa5a.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/787249bf-5cd9-4f3f-bdea-f0d1781c5547.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/83acb1ce-7ec3-48cc-a792-87c8f190111c.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/0e2c1d39-43d4-4ac2-a704-9f366746150e.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/1d7ea2b5-1ac0-42b6-ab78-61b94b956904.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/a92e2b57-eb3c-48e4-9a0f-f7784aa7d964.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/700bd50b-16bb-466c-a902-4e1ed394d8ad.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/2d025bc4-23da-4d6b-8d9b-dd520b913e59.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/1c6bd1b0-ae91-4c8b-b30e-ca4381f0a72c.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:07",
+  "landing_meta": "Naptick - AI Sleep Companion for Better Nights & Deep Sleep — Transform your sleep with Naptick - an AI-powered bedside sleep companion designed to reduce phone distractions, optimize your room, and help you fall asleep faster, naturally. Pre-order now.",
+  "landing_text": "Naptick - AI Sleep Companion for Better Nights & Deep Sleep Free US Shipping 60-night money-back guarantee Fall Asleep Without Struggle Meet the first bedside AI sleep companion that works as a personal sleep mentor, available 24/7. The real problem isn’t sleep. It’s that your mind never switches off. ✕ Wake up drained. Stay slow all day. ✕ Focus drops. Decisions get harder. ✕ Stress builds. Mood gets worse. ✕ Your health quietly takes the hit. And it all starts here: You can’t switch off. Meet Naptick : a bedside device to fix your night It doesn’t track your sleep. It fixes your night. Mindful AI Support AI Sleep Companion Calm racing thoughts Guided calming Bedtime support Voice journaling 1000+ Sleep Soundscapes Immersive Audio Library Guided meditations Deep sleep tracks Nature sounds White / Pink / Brown noise Live Room Insights Bedroom Environment CO₂ & VOC tracking PM2.5 / PM10 monitoring Temperature & humidity Noise & light sensing Buy Naptick – AI Bedside Sleep Device Sale price $149.00 Regular price $350.00 Fall asleep faster - naturally. Naptick is an AI-powered bedside sleep device designed to replace your night routine, using light, sound, and intelligent sensing to help you switch off and sleep better. How it works: Guided audio, room sensing, an AI sleep companion, and phone-free bedtime tools - working together to help you fall asleep faster and sleep better. Color: Sand Beige Sand Beige Sky Blue − + Buy Now Please select a NAPTICK color first. Quantity Decrease quantity for Naptick – AI Bedside Sleep Device Quantity Increase quantity for Naptick – AI Bedside Sleep Device Add to Cart View Full Details 68 % faster sleep onset Median time to sleep dropped 74 % fewer post-10pm phone pickups Driven by app-lock and wind-down routines. +4.5 hr more quality sleep / week Based on paired wearable data. Why Naptick works? Naptick is designed to remove what keeps you awake - from phone habits to poor sleep environments - so your body can fall asleep naturally.",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing",
+    "$149.00",
+    "$350.00",
+    "$350"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:08",
+  "description_ja": "ベッドサイドに置くAI睡眠コンパニオン。光・音・室内環境センサー・AIコーチ・アプリロックを統合し、寝つきを改善するハードウェアデバイス。",
+  "summary_ja": "Naptickはベッドサイド設置型のAI睡眠デバイス。1000以上のサウンドスケープ、サーカディアンライト、室内環境センシング（CO2/VOC/PM2.5/温湿度/騒音/光）、AI音声コーチ、就寝前アプリロックを組み合わせ「眠りを記録する」のではなく「眠りに入る前の環境と行動を整える」ことを目的にしている。価格は$149〜$350の売り切り型で、米国先行プリオーダー中。Apple Watch/Oura/Whoopユーザーの介入手段としても訴求する。",
+  "tldr_ja": "光・音・室内センサー・AIコーチを統合したベッドサイド型睡眠デバイス。寝つきと脱スマホを物理的に支援する。",
+  "review_guide_ja": {
+    "what": "ベッドサイドに常設するAI搭載スリープデバイス。サーカディアンライト、1000以上の音源ライブラリ、室内環境センサー、音声対話AIコーチ、就寝時アプリロックを統合し、寝つき前の環境と行動を整える点が特徴。スマホ無しで操作できる物理ボタン設計と、ウェアラブル連携によるフィードバックループも備える。",
+    "for_who": "創業者・高ストレス職、寝る前の長時間スクロールに悩む層、ライトスリーパー、Oura/Whoop/Apple Watchを使うが介入手段が欲しい人、子育て中で就寝ルーティンを整えたい家庭。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "BLE/Wi-Fi接続のセンサー内蔵ハードウェア、ライセンス音源、AI音声対話、PSE/技適認証など個人開発で再現するには資金・調達・認証コストが高い。"
+    },
+    "signals": [
+      "PH 552 upvotes/123コメントと反応良好",
+      "プリオーダー値引き($149/通常$350)で需要テスト中",
+      "68%寝つき短縮など定量効果を訴求",
+      "phone-free設計でDigital Wellnessトレンドに乗る",
+      "創業者が大規模インフラ運用経験を持つ"
+    ],
+    "concerns": [
+      "効果データは自社調査でエビデンス弱め",
+      "サブスク有無/月額が不透明で継続収益が読みにくい",
+      "ベッドサイド競合(Hatch/Dreamegg/SOXAI)とのスイッチコスト",
+      "日本では技適/PSE再認証と日本語AI/音源ローカライズが必須",
+      "ハードウェア在庫リスクと返品(60泊保証)の運用負荷"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本人成人の20.6%が慢性的不眠、4人に1人が睡眠不足。経済損失は約20兆円。スリープテック市場は2026年に150〜205億円規模で成長中。需要は明確に存在。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "ベッドサイド枠ではDreamegg/Hatch/SOXAI Ring/Oura/Pokémon Sleep/Somnusなど競合多数。ただし『光+音+環境センサー+AIコーチ+アプリロック』を統合したベッドサイドデバイスは国内未飽和。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "技適マーク(Wi-Fi/BLE必須/1年以下懲役か100万円罰金)、PSE(ACアダプタ等)、薬機法は医療効果を謳わなければ非該当。海外認証は日本国内では無効で再認証必須。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "AI音声コーチを日本語自然対話化、1000音源の和ナラティブ(瞑想/睡眠導入)整備、サーカディアン提案の和暦/生活時間への合わせ込み、布団文化やワンルーム住宅でのフォームファクタ調整が必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本ではハード単発購入より『安心の月額』志向は弱め。値崩れせず長く使える設計は受容。一方で『健康効果の証明』『静音性』『見た目の家具性』への要求が高い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {"name": "Dreamegg D3 Pro", "note": "29音源搭載のホワイトノイズマシン。Amazon上位、3000-5000円帯。"},
+      {"name": "SOXAI RING", "note": "国内シェアNo.1スマートリング。サブスク不要を売りに。"},
+      {"name": "Pokémon Sleep", "note": "睡眠を娯楽化したアプリ。継続率が高くマスを獲得。"},
+      {"name": "Somnus/ソムナス", "note": "100万DLの国内睡眠アプリ。専門家オンライン相談も提供。"},
+      {"name": "Active Sleep BED (パラマウントベッド)", "note": "アプリ連携電動ベッド。税別43万円〜のハイエンド。"},
+      {"name": "NEWPEACE AI Motion Mattress", "note": "AIマットレス。シングル29.7万円。"},
+      {"name": "Hatch Restore (越境)", "note": "ベッドサイド型ライト+音+目覚まし、日本でも一部流通。"}
+    ],
+    "regulatory_findings": [
+      {"law": "電波法/技適", "impact": "Wi-Fi/BLE搭載のため国内販売には技適マーク取得が必須。違反は1年以下懲役または100万円以下の罰金。"},
+      {"law": "電気用品安全法 (PSE)", "impact": "ACアダプタ等は特定電気用品としてPSE適合確認と表示が必要。第三者認証機関の検査と工場監査が伴う。"},
+      {"law": "薬機法", "impact": "医療効果(不眠症改善等)を訴求すると医療機器規制対象に。『リラックス』『環境改善』表現に留める運用が必要。"},
+      {"law": "個人情報保護法/APPI", "impact": "音声・室内環境データ・睡眠データの取得は要配慮個人情報に近く、明示同意と国外移転規定遵守が必要。"}
+    ],
+    "opportunity": "日本は不眠人口・経済損失とも世界トップクラスで、Apple Watch/Oura/Pokémon Sleepで睡眠リテラシーは既に高い。一方『計測』止まりで『介入』空白が大きい。ベッドサイド常設×日本語AIコーチ×布団/ワンルーム最適フォルムで再パッケージし、家具家電として展示販売(蔦屋家電/b8ta/ロフト)+ふるさと納税返礼+法人ウェルネス導入(健保組合)で差別化する余地がある。",
+    "rationale": "需要シグナルは強い(d=6)が、競合領域は『計測』『音』『マットレス』『リング』に分散し、統合型ベッドサイドはまだ未飽和(c=5)。技適/PSE/薬機法は越えられるが時間と資金を要する(r=4)。AI音声と音源の日本語化、家具としての見た目、布団文化対応が必要(l=4)。ハード価格2.2-5万円帯は受容可だがサブスク継続は読みにくい(b=5)。総合5/10で『watch』。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "$149-$350のハード売り切りでLTV計算は容易だが、リピート購入は弱い。サブスク化(プレミアム音源/AIコーチ無制限)を併設しないとARPUは伸びにくい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内スリープテック市場150-205億円(2026)。健康家電全体は4220億円。睡眠悩み層は成人の20%強(約2000万人)。SAMは数百億円規模で十分。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発でハードを越境輸入販売するのは技適/PSE/在庫/返品(60泊保証)で極めて重い。代理店・3PL・税関知識・サポート言語化が必須。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "スリープテック市場CAGR約18%、Pokémon SleepでマスのリテラシーUP、企業健康経営でB2B需要も成長中。AIスマートスピーカーへの抵抗感低下も追い風。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "ハードウェア在庫、製造QC、ファームウェア更新、24x7接続維持、認証取得、返品物流、音源ライセンス管理など個人開発ではほぼ不可能。"
+      }
+    },
+    "rationale": "市場規模(ms=6)・タイミング(t=6)は良好だが、ハードウェア事業のため個人/小規模では運用負荷(s=2)とGTM(g=3)が致命的。ソロ開発者がそのまま再現するのではなく、Naptickの『環境連動型AI睡眠コーチ』のソフト/アプリ部分を切り出し、既存スマートスピーカー(Alexa/Google Nest Hub/SwitchBot)やスマートライト連携で実装する『ソフトのみ』派生のほうが現実的。総合4/10。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "one_time",
+      "arpu_jpy": 22000,
+      "plans": [
+        "デバイス本体: 早期予約 22,000円 / 通常 35,000円(売り切り)",
+        "Naptick+ 月額サブスク: 980円(AIコーチ無制限/プレミアム音源/家族プロファイル)",
+        "法人健康経営パック: 12ヶ月 1,800円/ユーザー(健保組合・企業向け)",
+        "ふるさと納税返礼品ルート: 寄附額110,000円相当で1台提供"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "30-49歳の都市部高所得層(年収700万以上)で慢性的睡眠不足を自覚し、Apple Watch/Oura/Whoopなど既にウェアラブルを所有する『計測済み・介入未着手』層。",
+      "target_count": 300000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 3000000
+    },
+    "recommended_gtm": [
+      "蔦屋家電/b8ta Tokyo/ロフト渋谷で実機展示と60泊返品保証で家具家電として体験訴求",
+      "Makuake/CAMPFIREでの先行販売で需要検証と初期キャッシュ確保",
+      "睡眠系インフルエンサー(医師・産業医・スポーツ選手)とブランドコラボ",
+      "健保組合・人事部向けに健康経営ソリューションとして法人パッケージ提供",
+      "ふるさと納税返礼品としての高単価ハード販売ルート開拓",
+      "ソフト派生案: SwitchBot/Nature/Philips Hue連携アプリで『Naptick的体験』をハード無しで先行展開"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "技適/PSE/薬機法認証で初期投資数百万円〜と6-12ヶ月のリードタイムが発生",
+      "ハード在庫・返品60泊保証・QC・ファームウェア更新の運用負荷が個人では崩壊",
+      "Hatch Restore等の海外類似品が並行輸入で市場を先食いするリスク",
+      "AIコーチ音声・音源・サーカディアン提案の日本語ローカライズコスト",
+      "睡眠効果の臨床エビデンスを欠くと『広告レビュー』として景表法/薬機法上の問題化リスク"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "ja_enriched_at": "2026-05-24T20:30:00Z"
+}

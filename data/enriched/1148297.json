@@ -1,0 +1,252 @@
+{
+  "name": "Kirki",
+  "description": "WordPress finally has a freeform canvas website builder.",
+  "ph_url": "https://www.producthunt.com/products/kirki?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/OLRRY6YJ3LNAUB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-17T07:01:00Z",
+  "upvotes": 207,
+  "comments": 19,
+  "topics": [
+    "Design Tools",
+    "WordPress",
+    "Website Builder"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Kirki gives you an infinite canvas. Place anything, anywhere — or use CSS Grid and Flexbox when structure serves your design. We use an atomic design approach — every element starts as a primitive. You compose upward. No pre-decided widgets. No component ceilings. Structure is a tool you choose, not a constraint imposed on you.</p><p></p><p>A note for transparency: Kirki was previously launched on Product Hunt as Droip. This is not an update — it's a complete rebuild from scratch with a fundamentally different philosophy. New canvas engine. New design approach. Simpler workflow. Easier learning curve. The freeform canvas replaces everything Droip was.</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The infinite canvas + collaboration combo feels super useful for modern WordPress workflows. Congrats on the launch 🚀</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations on the launch!</p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Kirki gives WordPress designers a freeform infinite canvas — design freely without structure imposed. Built-in CMS, real-time collaboration, visual interaction timeline, and 100+ template kits. Free for everyone.",
+  "featured_at": "2026-05-17T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/b605c592-de55-4306-af8c-2cb8b1f5f0d6.webp",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/787584b2-bb4a-40cf-93ee-8c0319e6dbe9.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/78fad325-7101-464b-93ad-42824914cf00.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/382df1df-f0b5-4a88-8154-967d75f92966.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a6093496-7d21-40cb-bb08-312f3336e8e8.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/eff832d1-fb9e-4ec7-b24a-71a590c33274.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3c135fba-ceb5-4501-ba16-a90ee008d5cf.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/19fe3055-b024-4270-9b6d-e41e6fe5ceba.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/26ad4f02-676a-4e75-91f9-72f731c63959.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6a696f91-2a35-4378-80a3-3298551530ad.webp"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/d2252471-83a1-4ba4-9f89-becd1d141558.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:35",
+  "landing_meta": "Kirki – Freeform Website Builder for WordPress — The first freeform visual builder for WordPress. Design on an infinite canvas — no grids, no columns, no limits. Free to install. 500,000+ active sites.",
+  "landing_text": "Kirki – Freeform Website Builder for WordPress Droip is now Kirki Website Builder for WordPress, reimagined. Design without boundaries. Kirki is the first freeform visual builder for WordPress. An infinite canvas, a real CMS, and everything you need to build — all in one place. Get started free Watch it in action 100+ template kits Start with something that turns heads. Modern, interactive template kits — each fully customizable on the freeform canvas. Light and dark versions included. You've been building inside boxes long enough. Section → Row → Column → Element Kirki gives you a canvas. Built differently. By design. Four things that make Kirki unlike anything else on WordPress. Design freedom Infinite freeform canvas Unlimited breakpoints CSS variable design system Interactions & animations Infinite freeform canvas Explore the canvas Built-in CMS Content manager & custom fields Reference & multi-reference Dynamic templates Schedule posts Collection filter & pagination Explore the CMS Realtime collaboration Multiple editors, one canvas Comments directly on design Staging mode & publish history Client view-only share links Dev mode for handoff Explore the Collaboration Interaction timeline Visual keyframe timeline editor Scroll, click, hover, mouse move Interaction presets Text animations Lottie file support Explore the interaction Everything you need. Nothing you don't. {\"blocks\":{\"dpcn45rn\":{\"visibility\":true,\"collapse\":false,\"name\":\"slider\",\"title\":\"Slider\",\"properties\":{\"slider\":{\"mode\":\"manual\",\"animation\":\"slide\",\"duration\":600,\"easing\":\"ease-out\",\"defaultSlide\":0,\"autoplay\":false,\"pauseOnHover\":true,\"delay\":2000,\"infiniteLoop\":0,\"swipeGestures\":true,\"hideArrowsAtEnds\":false,\"arrowIconName\":\"chevron\",\"arrowIconColor\":\"#D6D6D6\",\"arrowSpacing\":\"24px\",\"indicatorIconName\":\"box\",\"indicatorIconColor\":\"#D6D6D6\",\"indicatorSpacing\":\"8px\",\"indicatorPosition\":\"center-bottom\",\"indicatorHorizontalOffset\":0,\"indicatorVerticalOffset\":0,\"orientation\":\"\",\"activeSlideIndex\":1,",
+  "pricing_signals": [
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:36",
+  "description_ja": "WordPress向けの無限キャンバス型ノーコードビルダー。Webflow風の自由なレイアウト、CMS、リアルタイム共同編集を統合。",
+  "summary_ja": "Kirki は旧Droipを刷新したWordPress用のフリーフォーム・ビジュアルビルダー。グリッドや列の制約を捨て、Webflow的な無限キャンバス上で要素を自由配置できる。組み込みCMS、リアルタイム共同編集、ステージング、ビジュアル・インタラクションタイムライン、100以上のテンプレートキットを備える。無料プランに加え Pro 59ドル/年、Agency 149ドル/年、Lifetime プランを提供。",
+  "tldr_ja": "Webflowの自由度をWordPressに持ち込む無限キャンバス型ビルダー。CMSと共同編集も内蔵し、無料から使えるフリーミアム。",
+  "review_guide_ja": {
+    "what": "WordPressのページビルダー競合（Elementor、Divi、Bricks、Breakdance）と異なり、行・列・セクション構造を排した無限キャンバス上に要素を自由配置できるビジュアルビルダー。さらに組み込みCMS、リアルタイム共同編集、ステージング、ビジュアル・インタラクションタイムラインを統合し、Webflow的UXをWordPressエコシステム上に再現することを狙ったプラグイン。",
+    "for_who": "WordPress制作会社・フリーランスデザイナー、Webflowからの乗り換え層、複数人で1案件を並行編集したい受託制作チーム。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "無限キャンバスエンジン、リアルタイム共同編集、アニメーションタイムライン、独自CMSという複合機能はフロント実装難度が極めて高く、個人開発では再現困難。"
+    },
+    "signals": [
+      "Droipから完全リブランド・再構築の発表で再注目",
+      "PH 207upvotes/19コメントと中位の関心度",
+      "WordPressアクティブインストール50万件規模を主張",
+      "Pro $59/年と業界比やや安めの価格設定",
+      "無限キャンバス×WordPressという未充足ニッチを直撃"
+    ],
+    "concerns": [
+      "Elementor/Bricks/Divi等の既存巨大コミュニティとの真正面衝突",
+      "WordPress標準テーマ/プラグインとのCSS衝突リスク",
+      "Droip時代からの評価引継ぎとリブランド混乱",
+      "国内では日本語UI/サポート未成熟の競合ツールの典型課題",
+      "無限キャンバスが構造化CMSサイト運用と相性が悪い場面"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内CMSシェアの8割超がWordPressで、ページビルダー需要は厚い。一方でフリーフォーム型は国内ではSTUDIOで一定充足されており、WP上での需要は中程度。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Elementor/Divi/Bricks/Breakdance/SnowMonkeyBlocks等が既に強固に根付く。さらにSTUDIOやWebflowもノーコード文脈で競合し、参入障壁は高い。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "Webサイト制作ツール領域で日本固有の規制は実質なし。特商法・景表法はユーザー側責任で、ツール提供者側のリスクは限定的。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UI日本語化、日本語フォント対応、IME入力上の挙動、国内ホスティング(Xserver/ConoHa)との相性検証が必要。Elementorでさえ部分的な日本語化に留まる前例あり。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "国内受託は固定価格・スポット納品が主流でPro/Agencyのサブスク継続率は読みにくい。一方、制作会社の社内標準ツール化に成功すれば年間ライセンス販売は成立する。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Elementor",
+        "url": "https://elementor.com/",
+        "note": "国内WordPress制作で最も普及するビジュアルビルダー。日本語化部分対応、解説記事多数。"
+      },
+      {
+        "name": "Divi",
+        "url": "https://www.elegantthemes.com/gallery/divi/",
+        "note": "国内デザイナー層に一定ファン。買い切り型ライセンスで根強い人気。"
+      },
+      {
+        "name": "Bricks Builder",
+        "url": "https://bricksbuilder.io/",
+        "note": "近年制作会社で採用増加。軽量・高速を売りにElementor代替として浸透中。"
+      },
+      {
+        "name": "STUDIO",
+        "url": "https://studio.design/ja",
+        "note": "日本発ノーコード。WordPressではないが自由配置UIで真っ向競合する代替選択肢。"
+      },
+      {
+        "name": "Snow Monkey",
+        "url": "https://snow-monkey.2inc.org/",
+        "note": "国産WordPressテーマ＋ブロックエディタ拡張。日本語サポートが強み。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "リアルタイム共同編集やテンプレ配信でCookie/外部送信が発生する場合、利用者サイト側で通知義務が生じる可能性。プラグイン側で送信透明化が必要。"
+      },
+      {
+        "law": "改正個人情報保護法",
+        "impact": "クライアントビュー共有や共同編集で顧客データを取り扱う場合、再委託扱いとなり得る。日本リージョンでの保存可否がエンプラ採用の鍵。"
+      }
+    ],
+    "opportunity": "Webflow経験者を中心とした日本国内の中堅Web制作会社・デザイン重視フリーランスを狙い、『WordPressエコシステム＋Webflow級の自由度＋日本語フルローカライズ』をパッケージ化する余地がある。テンプレート販売や日本語テクニカルサポート代行という横展開ニッチも狙える。",
+    "rationale": "WordPress自体の母数は国内でも極めて大きく、ページビルダー市場の絶対需要は十分。一方、すでにElementor/Divi/Bricks/Snow Monkeyが習熟層を掴んでおり、フリーフォーム軸ではSTUDIOが日本語UXで先行。Kirkiが日本で勝つには日本語ローカライズと国内制作会社の社内標準採用が必須だが、本家プロダクトとしての参入は容易でない。個人開発者視点では本体クローンより、Kirki公式テンプレ販売・日本語サポート代行・国産テーマブリッジ等の周辺ニッチに価値がある。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "Pro $59/年・Agency $149/年・Lifetimeのフリーミアム＋ライセンス販売が確立。買い切り併売で国内文化にも適合しやすい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内WordPress利用サイト数は数百万規模で潜在市場は大きいが、ビジュアルビルダー有料化に到達するのは制作プロ層に限定され、実質Reachableは数万事業者規模。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発で本体クローンを作るのは不可能。本家の代理販売／日本語化マーケットプレイス／テンプレートビジネスでの参入が現実線で、本体GTMは難しい。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "Gutenberg疲れとElementor肥大化の反動で軽量・自由度型ビルダーへの関心は高まりつつあるが、Bricks等が既に同タイミングで台頭しており時間優位は限定的。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "WordPressプラグイン本体としての継続運用は無理だが、周辺事業（テンプレ、コンサル、日本語サポート）は個人運営可能。"
+      }
+    },
+    "rationale": "Kirki本体の事業を個人で再現するのは非現実的だが、周辺ビジネス（日本語化テンプレ販売、制作会社向け導入支援、StudioやWebflowからの移行コンサル）であればソロ開発でもマネタイズし得る。ただし国内制作市場は単発受託モデルが主流で、サブスク前提のSaaS的GTMは依然難しく、月次収益の積み上げは緩やか。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1200,
+      "plans": [
+        "Free: 無限キャンバス＋CMS基本機能（本家踏襲）",
+        "Pro: 9,800円/年（個人・小規模制作向け、ダイナミック・ポップアップ等）",
+        "Agency: 24,800円/年（複数サイト・チーム共同編集）",
+        "Lifetime: 69,800円買い切り（国内制作会社向けに買い切り訴求）",
+        "Japan Support Add-on: 月3,300円（日本語サポート・初期導入伴走）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "WordPressを主戦場とする国内Web制作会社・デザイン系フリーランス（年商300万〜3,000万円規模）。Webflow/STUDIOから乗り換えを検討するクリエイター層。",
+      "target_count": 30000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 540000
+    },
+    "recommended_gtm": [
+      "本家Kirkiの日本公式パートナー／リセラー化交渉",
+      "日本語テンプレートキット販売（BOOTH・STORES）",
+      "制作会社向け Elementor / Webflow からの移行ハンズオン記事と動画",
+      "X(Twitter)とZennで実装Tips発信、案件相談からのコンサル獲得",
+      "WordPress Meetup Tokyo/WordCamp Asia登壇でデモ"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Droipリブランド直後で本家側仕様変動が大きく、ローカライズ投資が陳腐化するリスク",
+      "Elementor/Bricks/STUDIO等の既存巨大エコシステムから乗換が起きない可能性",
+      "WordPress標準ブロック/他プラグインとのCSS・JS衝突によるサポート工数の膨張",
+      "本家との関係次第でテンプレ販売や日本パートナー権益が突然変更される依存リスク",
+      "国内制作会社のサブスク忌避により Lifetime 偏重で LTV が伸び悩む"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 4,
+  "research_completed_at": "2026-05-23T00:00:00Z",
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

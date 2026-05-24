@@ -1,0 +1,217 @@
+{
+  "name": "Rosentic",
+  "description": "Catch when coding agents break each other before merge",
+  "ph_url": "https://www.producthunt.com/products/rosentic/launches/rosentic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/NESYCJRHZWGZSB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-03T07:01:00Z",
+  "upvotes": 190,
+  "comments": 14,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋. I'm Laramie. Nearly 20 years in tech. By day I run technical partnerships. By night I build with Claude Code and Codex on the same repo.</p><p></p><p>Here's what I kept running into: both agents write good code. Both PRs pass CI. Then they merge and break main. CI checks one branch at a time. Git merges text, not logic. Nobody checks whether the branches are compatible with each other.</p><p></p><p>With agent orchestration tools shipping weekly and PR volume exploding, this is only getting worse.</p><p></p><p>So I built Rosentic.</p><p></p><p>It checks every PR against every other active branch before merge. Deterministic. Same scan, same result, every time.</p><p></p><p>Most scans come back clean. That means you're clear to merge. When something fires, you catch it before production does.</p><p></p><p>150+ repos scanned. Real conflicts found and fixed by maintainers. One YAML file, no signup, 60-second install.</p><p></p><p>What's the messiest merge conflict you or your team has dealt with lately?</p><p><a href=\"https://github.com/marketplace/actions/rosentic-cross-branch-compatibility-check\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://github.com/marketplace/actions/rosentic-cross-branch-compatibility-check</a></p>",
+      "votesCount": 12,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is solving a problem that's about to hit every engineering team at scale. When I was CTO running 120 engineers, merge conflicts between humans were already one of our biggest velocity killers - now multiply that by AI agents working in parallel across the same codebase. The hard part isn't detecting the textual conflict - it's catching the semantic breaks where two agents make changes that individually pass tests but together introduce subtle regressions. Curious how you're handling that semantic layer versus pure git-level conflicts?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Nice work. Narrow but useful problem. Curious how you handle false positives when two PRs touch the same surface for legitimately different reasons (e.g. coordinated multi-agent refactors). That's been the trickiest part of PR-conflict detection in our orchestration work.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Rosentic checks every PR against every other open PR before merge. When coding agents work in parallel, they break each other in ways no single-PR tool catches. Rosentic catches it. Deterministic analysis. Same scan, same result, every time. Most scans come back clean. That means you're clear to merge. Runs on your infrastructure. One YAML file, no signup, 60-second install.",
+  "featured_at": "2026-05-03T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/1d5375e5-6298-41b5-81d0-be2e2046d0d1.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/49ae034f-6fee-4b0e-895b-b38e952eb392.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e504e241-0d04-446a-a559-909bc807fd5f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f0b4b44e-81ff-42cf-bc33-14812da5ed4c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3b7c2f5a-a5cc-4500-9547-c663e2482ff9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ed471bd4-c255-4af4-9af1-49b767793548.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/d02c5f17-7e65-4d04-85de-d2534ceb37c4.gif"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:50",
+  "landing_meta": "Rosentic - Find conflicts across active branches before merge — Rosentic checks every PR against every active branch before merge. Deterministic cross-branch verification. Free for open source.",
+  "landing_text": "Rosentic - Find conflicts across active branches before merge 851 branches monitored 1,020+ production scans 16 repos connected 9 external orgs Full-stack detection 15+ languages supported 0 lines of code leave your infrastructure Find and fix conflicts across every agent branch. Rosentic checks every PR against every active branch before merge. Any agent in. Any repo out. Cursor Claude Code Copilot Codex Windsurf Factory Human Schema drift API break Signature mismatch 🌹 Rosentic Verifying Breaking Clear main All branches verified compatible - safe to merge Cursor Claude Code Copilot Codex Windsurf Factory Human 🌹 Rosentic Verifying Breaking Clear Schema drift main All branches verified safe to merge Runs in your CI Deterministic Code never leaves your runner Free for open source .github/workflows/rosentic.yml Copy name: Rosentic Scan on: pull_request: branches: [main] jobs: rosentic: runs-on: ubuntu-latest permissions: contents: read pull-requests: write steps: - uses: actions/checkout@v4 with: fetch-depth: 0 - uses: Rosentic/rosentic-action@v1 No signup No API key 60 seconds Or tell your coding agent: > Install Rosentic on this repo Copy What no single-PR tool can see 🌹 rosentic reviewed seconds ago Rosentic Review -- 22 conflicts on this PR Breaking create_order() changed in this PR to require 3 args, but branch alice/refactor-checkout still calls it with 2 at bulk_orders.py:7 . Breaking getTeamsOfUser() now requires 3 args, but resolver at team.resolver.ts:125 still sends 2. Likely breaking sendNotification() changed return type from Promise<void> to Promise<Result> . 3 callers may not handle new shape. + 19 more conflicts Scanned 11 branches in seconds Code never left your runner The missing layer Code Review One PR quality Rosentic Every branch compatibility Observability Production health Explore the AI engineering stack → Proven on real repos 1,020+ scans across 14 orgs 5 detection layers, evidence-gated findings Runs across 15+ languages Maintainers of scan",
+  "pricing_signals": [
+    "open source",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:50",
+  "description_ja": "並列で動くAIコーディングエージェントが互いのPRを壊す前に、全ブランチ横断で互換性を検証するGitHub Action。",
+  "summary_ja": "Claude Code・Cursor・Copilot・Codexなど複数のAIエージェントが同じリポジトリで並列にPRを出す状況で、単一PR検証では見逃す「ブランチ間の意味的な破壊（関数シグネチャ変更、スキーマドリフト、API break）」を決定論的に検出するOSSツール。GitHub Actionとして1ファイルで導入でき、コードはユーザーのrunner外に出ない。15言語対応・OSSは無料。",
+  "tldr_ja": "AIエージェント時代の「マージ前に他ブランチを壊していないか」を全ブランチ横断で決定論的に検証するGitHub Action型OSSツール。",
+  "review_guide_ja": {
+    "what": "PRを作成すると、対象PRを他の全アクティブブランチに対してマージシミュレーションし、関数シグネチャ・型・API・スキーマレベルの非互換を検出してPRコメントに証拠付きで列挙する。1,020+スキャン・16リポジトリ・14組織で稼働実績ありとランディングに記載。検出精度は約88%との外部レビューあり。OSSは無料、エンプラ向けに有料プラン想定。",
+    "for_who": "複数のAIコーディングエージェント（Claude Code/Cursor/Copilot/Codex/Windsurf/Factory等）を並列運用し、PR量が急増しているエンジニアリング組織。特にmono-repoや20+並列ブランチを抱えるチーム。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "GitHub Actionの配布形態は容易だが、5層検出ロジック・15言語のAST/型解析・false positive制御に深い専門性とドメイン資産が必要。"
+    },
+    "signals": [
+      "Product Hunt 190 upvotes・14コメントで一定の反響",
+      "1,020+本番スキャン・14組織で実利用済みと開示",
+      "AIエージェント並列運用というナラティブが2026年に主流化",
+      "OSS無料+セルフホスト前提でセキュリティ懸念を回避"
+    ],
+    "concerns": [
+      "課金プランがランディングに明示されておらず、収益化モデルが未確立",
+      "並列AIエージェント運用が必要な組織は日本ではまだ少数",
+      "CodeRabbit・GitHub Copilot自身のconflict解決機能と機能境界が曖昧化する可能性",
+      "false positive制御は実運用で最大の難所（コメントでも指摘）",
+      "GitHub Action市場でSEO/Marketplace露出競争が激化"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "日本のAIコーディングツール採用率は2026年で78%まで上昇したが、複数エージェント並列運用フェーズに到達した組織はまだ先進企業中心。需要は明確だが市場の厚みはこれから。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "CodeRabbit（日本での導入実績多数・$12-24/dev月）、GitHub Copilot自身のconflict解決機能、ai-pr-reviewer等の既存AIレビュー勢が「PR品質」レイヤを占有。Rosenticはレイヤが異なるが認知競合は強い。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "コードはユーザーのCI runner内で処理されSaaSではないため、個人情報保護法・改正電帳法・業界固有規制の影響を受けにくい。エンプラのコード持ち出し懸念も回避可能。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "UI・PRコメントの日本語化は設定言語切替で対応可能。設定YAMLとMarketplace説明の和訳が主タスク。Zennや技術ブログでの紹介でリーチ可能。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業はUSD/クレジットカード決済・海外直契約に抵抗が強く、有料化時は代理店経由や日本円請求書対応が事実上必須。意思決定もボトムアップ評価→稟議の二段階で長期化しやすい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "CodeRabbit",
+        "url": "https://www.coderabbit.ai/ja/pricing",
+        "note": "PRレビュー領域で日本国内導入事例多数。Resolve Merge Conflicts機能も追加済み。Lite $12/Pro $24/dev月。"
+      },
+      {
+        "name": "GitHub Copilot (PR conflict resolution)",
+        "url": "https://github.com/features/copilot",
+        "note": "PR内でAIにマージコンフリクト解消を依頼可能。レイヤは異なるが顧客の認知競合。"
+      },
+      {
+        "name": "Graphite",
+        "note": "AIコードレビュー・スタックPR管理。バグ/セキュリティ重点でノイズ抑制。"
+      },
+      {
+        "name": "ai-pr-reviewer / 内製AIレビュー",
+        "note": "GMOなど日本企業が独自プロンプトでAIレビューを内製化している事例あり。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法・営業秘密管理",
+        "impact": "コードがユーザーrunner外に出ない設計のため影響は限定的。エンプラ向けセールスでは秘密保持の証跡（SOC2等）が将来的に必要。"
+      }
+    ],
+    "opportunity": "「並列AIエージェント運用を始めたいが互いを壊すのが怖い」というFUDを抱える日本の中堅〜大手エンジニアリング組織が一定数存在。日本語ドキュメント+稟議用ROI資料+代理店経由販売を整備できれば、CodeRabbit導入済み層に「上位互換ではなく相補レイヤ」として刺さる余地はある。",
+    "rationale": "技術的にはニッチだが本質的な課題で、規制・ローカライズ面のハードルは低い。一方で日本では『複数AIエージェントの並列運用』というユースケース自体がまだ早期で、刺さるICPの絶対数が薄い。さらに有料化時には日本特有の決済・調達商習慣の壁があり、個人開発者が日本市場をPrimaryに置く合理性は弱い。グローバル先行・日本はwatch段階での日本語コンテンツ展開が現実的。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "OSS+GitHub Actionは課金UX設計が難しい領域。CodeRabbit並みの$15-25/dev月は理屈上可能だがOSS出自で値付け期待値は下がる。エンプラ向けセルフホスト/サポート課金が現実解。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "日本のGitHub Enterprise顧客は1,400組織+で、うち並列AIエージェント運用に踏み込む先進層は数百社程度。SAM/SOMともに薄く、Year3で月数十万円〜数百万円規模が現実。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "GitHub Marketplaceとデベロッパーコミュニティ経由のPLGはハマれば伸びるが、日本ではエンプラ販売に営業/代理店が必須で個人開発者単独では到達コストが高い。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "2026年は『並列AIエージェント運用』が主流化する転換点で、課題顕在化のタイミング自体は良好。ただし大手プラットフォーム（GitHub・Anthropic）が同領域に踏み込む可能性が常時リスク。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "GitHub Action配布でサーバー運用負荷は低いが、15言語×5検出層のロジック・false positive対応・サポート問い合わせは個人では重い。コミュニティ運営も継続コスト。"
+      }
+    },
+    "rationale": "課題は本質的で技術差別化もあるが、(1)有料化の価格弾力性が読みにくいOSS出自、(2)日本のリーチアブルマーケットが薄い、(3)プラットフォーマーによるコモディティ化リスクが恒常的にあり、ビジネスとしての中規模化は容易でない。グローバル前提・OSSコミュニティ駆動・サポート/エンプラ課金を組む前提でなら個人開発でも継続は可能だが、日本単独事業としては成立しない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 40000,
+      "plans": [
+        "OSS Free: パブリックリポジトリ・基本検出無料",
+        "Team: 月額2,000-3,000円/開発者、プライベートリポジトリ・拡張検出層",
+        "Enterprise: 月額40,000円〜/組織、セルフホスト/SLA/監査ログ・代理店請求対応",
+        "Sponsorship: GitHub Sponsors経由の個人/組織サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "GitHub Enterprise/Team利用かつClaude Code・Cursor・Copilotなど複数AIエージェントを並列運用する日本の中堅〜大手エンジニアリング組織（金融除く）。",
+      "target_count": 300,
+      "capture_pct_year3": 2.0,
+      "monthly_revenue_target_jpy": 240000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita/note で「並列AIエージェント運用の落とし穴」系の技術記事を月1本発信し検索流入を確保",
+      "Claude Code/Cursorの大型コミュニティMeetupでLT登壇しMarketplace導線を作る",
+      "OSSリポジトリへのドッグフーディングPRで実例を可視化（被検出事例の事後レポート化）",
+      "エンプラ案件は日本のGitHubパートナー（NRI/SBC&S等）に二次代理店化を打診",
+      "日本語の稟議用ROIシート（ロールバック1件あたりの想定損失）テンプレを配布"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "GitHubまたはAnthropicが同等機能を純正提供しコモディティ化",
+      "False positive多発でユーザー離反、シグナル/ノイズ比の維持に専門人員が必要",
+      "OSS課金モデルの心理的抵抗で有料化が伸び悩む",
+      "日本では並列AIエージェント運用組織の母数が薄く、JP単独ではARR成立が困難",
+      "15言語×5検出層の保守負荷が個人開発のスループットを超過するリスク"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "research_japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

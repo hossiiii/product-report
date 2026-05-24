@@ -1,0 +1,248 @@
+{
+  "name": "Mintlify Editor",
+  "description": "AI-native collaborative editor",
+  "ph_url": "https://www.producthunt.com/products/mintlify/launches/mintlify-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/VTXQDFKI235QP6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-30T07:01:00Z",
+  "upvotes": 395,
+  "comments": 23,
+  "topics": [
+    "Notes",
+    "Text Editors",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p><strong>Hi Product Hunt community 👋</strong><br>I'm Hahnbee, co-founder of Mintlify, and we're excited to introduce the new Mintlify Editor - a new way for every team to build and maintain knowledge.</p><p><br><strong>What is it?</strong><br>A git-synced, WYSIWYG, live-collaborative, and AI-native editor built for cross-functional collaboration.</p><p><br><strong>Why now?</strong><br>Fragmented knowledge isn't just a collaborative problem anymore, it’s an agent problem. As organizations scale, knowledge sprawls. from different teams, tools, and sources of truth. AI agents need accurate, unified knowledge to participate effectively in your workflows.<br><br><strong>What's included?</strong><br>- WYSIWYG editing with slash commands, custom components, and navigation management. No markdown or yaml required.<br>- Bi-directional git sync: CLI and IDE-native for developers, web-native for everyone else<br>- Live collaboration so your whole team can jump in and ship together in real time<br>- AI-native support so agents can collaborate on your docs alongside your team<br><br>Let us know what you think and any feedback!</p>",
+      "votesCount": 33,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Excited to put this out! A huge unblock for how teams create knowledge bases 🚀</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>just wow.</p><p>i recently swapped our vibecoded docs site to mintlify and wish we had done it a long time ago. mintlify is unquestionably the best solution for docs - this release makes that even more crystal clear.</p><p>huge congrats <a href=\"https://www.producthunt.com/@hahnbeelee\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"hahnbeelee\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@hahnbeelee</a> <a href=\"https://www.producthunt.com/@han_wang6\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"han_wang6\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@han_wang6</a> <a href=\"https://www.producthunt.com/@shawn_lestage1\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"shawn_lestage1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@shawn_lestage1</a> and team!</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "The Mintlify editor is WYSIWYG, live-collaborative, git synced, and AI-native — so every teammate can contribute, from engineers pushing from the CLI to marketers editing in the browser to agents updating docs automatically.",
+  "featured_at": "2026-04-30T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/5daa9b0c-dec8-45be-856c-36a7e4957c32.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/82fda2bf-8a69-433b-b5a3-c28b0218e334.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d3d69dc5-3f33-40fc-aa68-71c98a2e7fd2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/053cf645-375a-40b3-a6a9-9b05de0f2d2b.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/f5db5e49-7d00-4843-89e2-1ea9e18dc6bc.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:36",
+  "landing_meta": "Mintlify - The Intelligent Knowledge Platform — Meet the next generation of documentation. AI-native, beautiful out-of-the-box, and built for developers.",
+  "landing_text": "Mintlify - The Intelligent Knowledge Platform New Workflows for self-updating knowledge management Workflows for self-updating knowledge management The Intelligent Knowledge Platform Helping teams create and maintain world-class documentation built for both humans and AI Start now Built for the intelligence age Integrate AI into every part of your docs lifecycle. Woven into how your knowledge is written, maintained, and understood by both users and LLMs. LLMs.txt & MCP Built for both people and AI Ensure your product shows up in the AI workflows users already rely on. We support llms.txt, MCP, and whatever comes next. Copy page agent Self-updating knowledge management Draft, edit, and maintain content with a context-aware agent. Move faster and more consistently without the documentation debt. Assistant Intelligent assistance for your users Turn every documentation visit into a guided conversation. Your AI assistant understands context and delivers what users need. Enterprise-reinvention Bring intelligence to enterprise knowledge Modernize without the rebuild with enterprise-grade professional service & security. Explore for enterprise Build with partnership Direct, white-glove access to our documentation experts. Dedicated migration support and guidance tailored to your setup, and elevated support SLAs. Compliance and access control Compliant with SOC 2, and in the process for ISO/27001 and GDPR compliance to meet your internal and external data requirements. Secure access and provisioning with SAML-based SSO. Customer story See how Anthropic accelerates AI development with Mintlify Read story 2M+ Monthly active developers 3+ Products serviced: Claude API, MCP, and Claude Code Anthropic Coinbase HubSpot Zapier AT&T Loved by your favorite companies From frontier AI companies to consumer brands, leaders across industries scale knowledge with Mintlify. How Perplexity transformed its documentation into an AI-native developer experience that matches the pace of its prod",
+  "pricing_signals": [
+    "pricing",
+    "$1",
+    "$2",
+    "$33",
+    "$34",
+    "$35",
+    "$37",
+    "$38",
+    "$3",
+    "$40",
+    "$41",
+    "$66"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:36",
+  "description_ja": "Git同期・WYSIWYG・AIネイティブな共同編集ドキュメントエディタ",
+  "summary_ja": "Mintlify Editorは、エンジニアと非エンジニアが共にドキュメントを編集できるWYSIWYGエディタ。双方向Git同期、リアルタイム共同編集、AIエージェント連携を備え、組織のナレッジを人間とAIの両方が活用できる形に統合する。",
+  "tldr_ja": "Git同期型のWYSIWYGドキュメントエディタ。AIエージェントとチーム全員が同じナレッジ基盤を編集・参照できる。",
+  "review_guide_ja": {
+    "what": "Mintlify Editorは、開発者向けドキュメンテーション基盤Mintlifyに統合された新しいエディタで、WYSIWYGによる直感的編集、双方向Git同期、リアルタイム共同編集、AIエージェントによる自動更新を一体化したプロダクト。エンジニアはCLI/IDEからMarkdownで、マーケターやPMはブラウザのリッチエディタからスラッシュコマンドとカスタムコンポーネントで編集でき、両者の変更が同一のGitリポジトリに整合する形で同期される。LLMs.txtやMCPをネイティブサポートし、AIエージェント(Claude Code等)がドキュメントを自動更新・参照可能。SOC2準拠、SAML SSO、Anthropic/Coinbase/HubSpot/PayPal等の大規模採用実績があり、Series Bで$45M調達、20,000社以上が利用する開発者ドキュメント領域の事実上のリーダー。今回のEditor発表は単独プロダクトではなく既存プラットフォームの編集UX大幅刷新と位置付けられる。",
+    "for_who": "API/SDKを公開するSaaS企業、開発者向けプロダクトを展開するスタートアップ、社内開発者ポータルを運用するエンタープライズ、AIエージェント連携を前提とした次世代ナレッジベースを構築したい技術組織。特にエンジニアと非エンジニアの両方がドキュメント編集に参加する小〜中規模の開発組織が中核ターゲット。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "WYSIWYG+双方向Git同期+AIエージェント連携+大規模顧客実績の組み合わせは技術的・営業的に高い参入障壁。インフラとブランドの両面で個人開発者の再現は困難。"
+    },
+    "signals": [
+      "Series B $45M調達・評価額$500M・20,000社採用という強力なトラクション",
+      "Anthropic/Coinbase/Microsoft/PayPal等のフラッグシップ顧客",
+      "AIエージェント時代のドキュメント基盤としての明確なポジショニング(LLMs.txt/MCP対応)",
+      "PH 395 upvotes・短期間で35M ARR到達という市場検証",
+      "エンジニア×非エンジニアの編集ギャップという普遍的課題への解"
+    ],
+    "concerns": [
+      "Pro $250/月・Enterprise $1000+/月という日本中小企業には高い価格帯",
+      "公式UIの日本語化対応は限定的でローカライズはユーザー側コンテンツ翻訳に依存",
+      "国内競合(NotePM/Confluence/Notion/GitBook)が既に深く浸透",
+      "AIエージェントによる自動編集はガバナンス・監査要件と摩擦",
+      "個人開発者がこの巨大プラットフォームと正面競合するのは現実的でない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内SaaSのAPI公開率は14.7%と海外86.3%に比べ低く、開発者向けドキュメント整備の余地は大きい。一方で社内ナレッジはNotion/NotePM/Confluenceが既に普及し、Mintlifyの想定する『開発者向けPublic Docs』需要は国内では限定的。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "国内ではNotePM(12,000社・継続率99%)・Confluence・Notion・GitBookが強く、Docusaurus/VitePress等のOSSも一般化。Mintlifyの差別化(AIネイティブ・git同期)は本国では明確だが、日本の意思決定者にはまだ訴求が浅い。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "ドキュメント編集ツールという性質上、規制リスクは小さい。個情法はナレッジに個人情報を載せる場合に通常配慮で対応可。電気通信事業法の届出範囲外。SOC2取得済みで国内エンタープライズの最低条件は満たす。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "i18n機能でユーザーコンテンツの日本語化は可能(AI翻訳サポート)だが、管理UI/サポート/請求は英語中心。日本円請求や国内代理店体制が未整備で、エンタープライズ営業には課題が残る。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業はドキュメント外部公開より社内Wiki志向が強く、稟議・SI経由の購買慣行が支配的。一方、スタートアップ・テック企業はSelf-Serveで採用しやすく、二極化した受容性となる。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "NotePM",
+        "url": "https://notepm.jp/",
+        "note": "国内12,000社採用の社内Wiki大手。日本語UI/サポート/請求書対応で国内中堅企業に強い。"
+      },
+      {
+        "name": "Confluence",
+        "url": "https://www.atlassian.com/ja/software/confluence",
+        "note": "国内エンタープライズで広く採用。Atlassian製品スイートとの統合が強み。"
+      },
+      {
+        "name": "Notion",
+        "url": "https://www.notion.com/",
+        "note": "京都発の経緯もあり日本で爆発的普及。社内ドキュメント・Wiki用途で支配的。"
+      },
+      {
+        "name": "GitBook",
+        "url": "https://www.gitbook.com/",
+        "note": "技術ドキュメント特化の直接競合。日本でもAPI Docs用途で採用例あり。"
+      },
+      {
+        "name": "Docusaurus",
+        "url": "https://docusaurus.io/",
+        "note": "Meta製OSS。アルファテック・バックテック等が採用、エンジニア主導案件で根強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "社内ドキュメントに個人情報を載せる場合、Mintlify(米国SaaS)への越境移転に該当。利用目的の明示・同意取得・委託先管理が必要。"
+      },
+      {
+        "law": "下請法/秘密保持関連",
+        "impact": "受託開発の納品物ドキュメントをクラウドに置く際は秘密保持契約・データ所在地条項の確認が必要。日本リージョン提供はないため懸念事項となる場合がある。"
+      }
+    ],
+    "opportunity": "日本市場におけるMintlifyそのものの再現は非現実的だが、『日本市場ローカライズ版・代理販売・国内特化サブセット』のニッチには機会がある。具体的には(1)国内SaaSのAPI公開率14.7%という低さを背景に、日本語UI/請求書/SIサポート付きのAPIドキュメント代行サービス、(2)Mintlifyの日本語コンテンツ運用支援(AI翻訳監修+用語集管理)コンサル、(3)Notion/Confluence上に蓄積された社内ドキュメントをLLM/MCP対応形式に変換するエージェント向けアダプタ、(4)金融・医療等規制業界向けのオンプレ/国内リージョン版docs-as-codeソリューション。個人開発者は『隣接ニッチ』を狙うべき。",
+    "rationale": "Mintlifyは既に評価額$500M・20,000社採用のグローバルリーダーで、日本市場参入も時間の問題。本体と正面競合するのは無謀だが、watchすべき理由は明確: AIエージェント時代のドキュメント基盤という構造変化を体現しており、Notion/Confluence/NotePMがどう対応するかで国内市場の勢力図が動く。日本のSaaS市場は2026年で1.6兆円規模、SaaSのAPI公開率は海外比で大きく遅れており、エージェント連携を前提としたドキュメント整備需要は今後3年で確実に拡大する。個人開発者は(a)Mintlify本体の日本展開を待つwatcherとして関連サービス(翻訳/移行/監修)を提供するか、(b)国内特有要件(日本語UI/請求書/オンプレ)に絞ったニッチプロダクトを作るのが現実的。日本企業の購買慣行・既存ベンダーのロックインを考慮すると、Mintlify同等の正面プロダクトをゼロから立ち上げるGTMは成立しない。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "ドキュメント基盤はProプラン$250/月・Enterprise$1000+/月とARPUが高く、Mintlify本体はSeries Bで$35M ARR水準に到達。ただし個人開発者が同水準のARPUを取るには大規模エンタープライズ営業が必要で、ボトムアップでは$20-50/月程度に留まる。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "日本のSaaS市場1.6兆円・国内開発者人口100万人超だが、APIドキュメント公開企業は推定数千社規模。Mintlifyレベルの製品ではTAM限定的で、社内Wiki領域に拡張するとNotePM等の既存プレイヤーと正面競合になる。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "ドキュメント基盤はネットワーク効果・ブランド・実績で勝負が決まる市場で、個人開発者が新規参入する余地は極めて狭い。Mintlifyが既にAnthropic等のフラッグシップを獲得しており、GTMの非対称性が大きい。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "AIエージェント時代のドキュメント整備需要は確実に立ち上がるフェーズ。LLMs.txt/MCP対応の流れは2026年現在加速中で、日本でも今後12-24ヶ月で意識される。隣接ニッチを狙うタイミングとしては悪くない。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "プラットフォーム型プロダクトは個人運用が極めて困難(エディタ実装・Git同期・AI統合・SOC2準拠・24/7稼働)。隣接ニッチ(翻訳監修・移行支援)に絞れば個人運用可能だが、本体の再現は不可能。"
+      }
+    },
+    "rationale": "個人開発者視点でMintlify本体と同領域に参入する事業性は低い(score 4)。理由は3点。第一に、ドキュメント基盤プロダクトは技術的に複雑(WYSIWYG+Git同期+AI統合+リアルタイム共同編集)で、個人開発者がMVPを作るにも数ヶ月、Mintlify水準に到達するには数年と$10M+のR&Dが必要。第二に、GTMの非対称性が決定的で、Mintlifyは既にAnthropic/Coinbase/Microsoft/PayPal等のロゴを持ち、20,000社が採用、Series B$45Mで評価額$500M。これと正面競合するのは現実的でない。第三に、日本市場では既存プレイヤー(NotePM/Confluence/Notion)のロックインが強く、新規参入は数年規模のブランディング投資が前提。一方でwatchすべき構造変化(AIエージェント時代のドキュメント整備)は本物で、(1)Mintlify日本展開支援、(2)Notion/Confluence→LLM対応形式への変換ツール、(3)国内SaaSのAPI Docs作成代行といった隣接ニッチには個人開発の機会が残る。ただしこれらも数百万円〜数千万円ARR規模の小ビジネスに留まる見込み。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 8000,
+      "plans": [
+        "Free: 個人開発者向け、Public Docs 1サイト・基本AI機能・コミュニティサポート。OSSプロジェクトや個人ブログ用途。Mintlifyの真似でなくニッチ特化(例: 日本語UI完備の社内Wiki+API Docs統合)で差別化。",
+        "Starter 月額3,000円: 小規模チーム向け、5シートまで・日本語サポート・請求書払い対応。NotePMより安価でAPI Docs機能を提供する立て付け。",
+        "Pro 月額12,000円: 中小SaaS向け、20シート・SSO・カスタムドメイン・Git同期・LLMs.txt自動生成。日本円請求・電話サポート。",
+        "Business 月額40,000円: 中堅企業向け、50シート・監査ログ・APIアクセス・国内データセンター・SLA。日本市場特化のEnterprise代替。",
+        "Enterprise 個別見積: 大企業向け、オンプレ/プライベートクラウド・SAML SSO・SOC2・専任CS。SI経由販売も想定。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内SaaSスタートアップ・受託開発企業・社内開発者ポータルを運用する中堅IT企業のうち、API Docs整備とAIエージェント対応(LLMs.txt/MCP)の双方を志向する組織。Mintlifyを採用するほどではないが、Notion/NotePMでは技術ドキュメント機能が不足する層。",
+      "target_count": 5000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 400000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita等での技術記事連載でドキュメント運用ベストプラクティスを発信し、開発者コミュニティでのブランド構築。Mintlifyの日本語チュートリアル提供で関連検索流入を獲得。",
+      "国内SaaS Vendor(kintone/Backlog/SaaSus等)のAPI Docs移行支援を入口とした受託→プロダクト誘導モデル。API公開率14.7%という低さを切り口にコンサル提案。",
+      "Mintlify日本語ローカライズ・運用支援パートナーとして公式または非公式に立ち位置を確保。代理販売・実装支援フィーで収益を確保しつつ、隣接機能(用語集・翻訳監修)をプロダクト化。",
+      "JSUG/Developer Summit等の技術カンファレンスでAIエージェント時代のドキュメント運用を講演、エンタープライズリードを獲得。",
+      "GitHub上でOSS版を公開し開発者コミュニティで認知拡大、Cloud版で収益化するfreemium GTM。",
+      "Notion/Confluenceからの移行ツールを無料提供してリード獲得、有料プランへ転換。"
+    ],
+    "time_window_months": 24,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Mintlify自身の日本進出: 評価額$500M・20,000社採用の本体が日本語UI/請求書対応で参入した瞬間に隣接ニッチの市場価値が急減する。先行2年程度の窓しかない可能性。",
+      "Notion/Confluence/NotePMのAI機能強化: 既存プレイヤーがMCP対応・LLM連携を実装すれば、Mintlify的価値提案の差別化が消失。実際Notionは2026年5月にDeveloper Platform発表済。",
+      "個人開発者の技術的限界: WYSIWYG+Git同期+AI統合+リアルタイム共同編集の同時実装は非現実的。ニッチに絞っても最低18-24ヶ月の開発が必要で、その間に市場が動く。",
+      "日本企業の購買慣行: 稟議・SI経由・年度予算という壁で、Self-Serveでの収益拡大は限定的。エンタープライズ営業を個人で回すのは不可能で、外部営業委託のコスト負担が重い。",
+      "AIエージェント時代の不確実性: LLMs.txt/MCPは標準化途上で、別の規格が支配的になればドキュメント基盤の設計前提が崩れる。Anthropic/OpenAIの規格戦争に巻き込まれるリスク。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

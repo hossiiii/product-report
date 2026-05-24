@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>deepsec (Week 2026-W19) — Micro-SaaS Trend Research</title>
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a href="../index.html" class="site-title">Micro-SaaS Trend Research</a>
+    <p class="site-subtitle">Product Hunt の launch を週次調査・日本市場適合度で評価</p>
+  </div>
+</header>
+<main class="container">
+
+
+
+
+
+
+
+<nav class="breadcrumb">
+  <a href="index.html">← Week 2026-W19</a>
+</nav>
+
+<section class="product-header">
+  <img class="thumb-lg" src="https://ph-files.imgix.net/593ff5e2-9d11-491c-ab63-9e929e894214.jpeg?w=320&h=320&fit=crop&auto=format" alt="">
+  <h1>deepsec</h1>
+  <p class="badges">
+    <span class="badge badge-overall" title="overall">⭐ 5/10</span>
+    <span class="badge badge-jf" title="japan_fit">🇯🇵 6/10</span>
+    <span class="badge badge-bv" title="business_viability">💼 5/10</span>
+    <span class="pill pill-consider">consider</span>
+  </p>
+  <p class="tldr-big">Vercel 発 OSS。Claude/Codex で大規模コードを AI スキャンし脆弱性を発見。自社インフラ実行、CI 連携、API 課金前提。</p>
+  <p class="summary">deepsec は Vercel が 2026 年 5 月に Apache 2.0 で公開した OSS。静的解析→AI エージェントによる調査→再検証→責任者特定→チケット化の 5 段階で動作し、Claude Opus と GPT-5.5 を組み合わせて大規模リポジトリの脆弱性を発見する。ローカル/CI/Sandbox 並列実行に対応し、誤検知率は 10〜20%、大規模スキャンでは数千〜数万ドル規模の API コストが発生する。</p>
+
+  <p class="links">
+    <a href="https://www.producthunt.com/r/T5UPS2CJT3MEUS?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+product-report+%28ID%3A+284436%29" target="_blank" rel="noopener">公式サイト ↗</a>
+     / <a href="https://www.producthunt.com/products/vercel/launches/deepsec?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+product-report+%28ID%3A+284436%29" target="_blank" rel="noopener">Product Hunt ↗</a>
+  </p>
+</section>
+
+
+<section class="media">
+  <img src="https://ph-files.imgix.net/d3e42376-2de5-48a3-b9c0-22257e8af04c.png?w=720&auto=format" alt="" loading="lazy">
+</section>
+
+
+<section class="basics">
+  <h2>基本情報</h2>
+  <dl class="card-meta">
+    <dt>和訳</dt><dd>Vercel が公開した OSS のコーディングセキュリティハーネス。自前インフラ上で Claude/Codex を呼び出し、大規模コードベースの脆弱性を AI エージェントが調査する。</dd>
+    <dt>原文</dt><dd>Open-source coding security harness</dd>
+    <dt>トピック</dt><dd>Open Source, Developer Tools, GitHub, Security</dd>
+    <dt>価格シグナル(PH)</dt><dd>open source, open-source, subscription, pricing, $1, $16, $23, $34, $5</dd>
+    <dt>PH 指標</dt><dd>upvotes 252 / comments 6</dd>
+    <dt>launched</dt><dd>2026-05-10</dd>
+  </dl>
+</section>
+
+
+<section class="advisor-view">
+  <h2>アドバイザー所見 <span class="pill pill-consider">consider</span></h2>
+  <dl class="card-meta">
+    <dt>推奨課金モデル</dt><dd><code>monthly</code> / ARPU ¥80,000</dd>
+    <dt>プラン例</dt><dd><ul class="inline-list"><li>Starter: 月 50,000 円 / 1 リポジトリ・月 1 回スキャン・日本語レポート</li><li>Pro: 月 150,000 円 / 5 リポジトリ・週次スキャン・Slack/Jira 連携・誤検知トリアージ</li><li>Enterprise: 月 50 万円〜 / 無制限・改正個情法/AI ガイドライン対応監査レポート・SLA</li></ul></dd>
+    <dt>ターゲット</dt><dd>AppSec 専任者がいない自社開発系 SaaS/Web 企業 50〜500 名規模、AI コーディングエージェントを既に導入済み</dd>
+    <dt>対象規模</dt><dd>3,000 × 3 年で 1.0% 獲得 → 月商 ¥2,400,000</dd>
+    <dt>推奨 GTM</dt><dd><ul class="inline-list"><li>技術ブログ + Zenn/Qiita で deepsec 運用ノウハウを継続発信し OSS 専門家ポジションを確立</li><li>AI コーディング系 Meetup・DevSecOps 勉強会で実演デモ・国内事例を発表</li><li>中堅 SaaS 企業 CTO へ無料 PoC スキャン(報告書付き)を提示し有償運用契約に転換</li><li>AeyeScan/GMO 等の既存ベンダーが手薄な『AI 生成コード特化』『社内 LLM 利用監査』で差別化</li><li>改正個情法/AI 事業者ガイドライン対応の監査レポートテンプレートを商品化</li></ul></dd>
+    <dt>時間窓</dt><dd>12 ヶ月</dd>
+    <dt>個人開発継続性</dt><dd><code>hard</code></dd>
+  </dl>
+  
+  <h3>クリティカルリスク</h3>
+  <ul><li>Vercel 自身が公式マネージド版や日本進出を行うと優位性が一瞬で消える</li><li>LLM API コストが顧客請求と乖離・暴騰した場合の収益悪化リスク</li><li>セキュリティ事故時の責任分界・賠償リスクで個人開発では引き受けが難しい</li><li>競合 (Snyk/GHAS/AeyeScan) が同等の AI スキャン機能を統合する可能性</li><li>誤検知トリアージ・夜間対応など運用負荷でソロ継続が困難</li></ul>
+  
+</section>
+
+
+
+<section class="biz-viability">
+  <h2>事業成立性 💼 5/10</h2>
+  
+  <div class="axes">
+    
+      
+      <div class="axis-card">
+        <h4>収益化 <span class="axis-score">5/10</span></h4>
+        <p>本体 OSS のため直接課金不可。マネージド/サポート/レポート日本語化での収益化は可能だが、ARPU は SaaS 単体より低くなりがち(5〜30 万円/月)。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>市場規模 <span class="axis-score">6/10</span></h4>
+        <p>国内 SaaS 市場 1.8 兆円のうちセキュリティ診断市場は数百億円規模。AppSec 内製化を進める中堅自社開発企業は数千社規模で存在。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>GTM <span class="axis-score">4/10</span></h4>
+        <p>セキュリティ製品の販売は SIer・代理店ルートが強く、個人/小規模では新規顧客獲得が極めて困難。技術ブログ＋勉強会＋OSS 信頼性で時間がかかる。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>タイミング <span class="axis-score">8/10</span></h4>
+        <p>AI コーディングエージェント普及と生成コードのセキュリティ懸念が顕在化した直後で、規制対応 (改正個情法・AI ガイドライン) のタイミングともマッチ。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>個人運用 <span class="axis-score">4/10</span></h4>
+        <p>セキュリティ製品は SLA・脆弱性対応・誤検知トリアージ・サポートで運用負荷が高く、ソロでの継続は厳しい。マネージドサービスは特に夜間対応リスク大。</p>
+      </div>
+    
+  </div>
+  
+  <p class="rationale"><strong>事業性総評:</strong> 需要とタイミングは追い風だが、本体が OSS で直接の SaaS 化ができず、収益モデルはマネージドサービス/レポート販売/コンサルに限られる。さらに国内では SIer 経由販売が主流で、個人/小規模での GTM ハードルが高い。技術的な熱量はあるがビジネスとしての持続性は中程度。AppSec コンサル/受託診断の既存事業を持つ法人が deepsec をプラットフォームとして取り込む形が最適で、個人開発者が単独で SaaS 化するには不向き。</p>
+</section>
+
+
+
+<section class="japan-fit">
+  <h2>市場機会 🇯🇵 6/10</h2>
+  
+  <div class="axes">
+    
+      
+      <div class="axis-card">
+        <h4>需要 <span class="axis-score">7/10</span></h4>
+        <p>国内でも AI コーディングエージェント導入が急拡大しており、生成コードのセキュリティ需要は明確に存在。MM 総研調べでセキュリティ人材不足を 82% の企業が感じている。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>競合 <span class="axis-score">5/10</span></h4>
+        <p>AeyeScan(国内 SaaS 型 1 位)、GMO サイバーセキュリティ byイエラエ、Snyk 日本法人、GitHub Advanced Security、NRIセキュア など強い既存プレイヤーが多数。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>規制 <span class="axis-score">6/10</span></h4>
+        <p>改正個人情報保護法(2026)・AI 事業者ガイドライン v1.2 でソースコードの外部送信に慎重さが要求される。自社インフラ実行モデルはむしろ追い風。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>ローカライズ <span class="axis-score">6/10</span></h4>
+        <p>CLI/英語ドキュメント中心で開発者には届くが、エンタープライズ販売には日本語 UI・レポート・サポートが必須。エージェントのレポート日本語化も必要。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>商習慣 <span class="axis-score">5/10</span></h4>
+        <p>日本企業は SIer・受託診断ベンダー経由で導入する商習慣が強く、OSS をそのまま社内導入する文化は限定的。稟議・PoC・年間契約に乗せる必要がある。</p>
+      </div>
+    
+  </div>
+  
+
+  
+  <h3>国内既存プレイヤー</h3>
+  <ul class="competitors">
+    
+    <li><a href="https://www.aeyescan.jp/" target="_blank" rel="noopener">AeyeScan (エーアイセキュリティラボ)</a> — SaaS 型 Web 脆弱性診断で国内シェア 1 位(2023 年度)。AI で診断自動化、見積もり制。</li>
+    
+    <li><a href="https://gmo-cybersecurity.com/" target="_blank" rel="noopener">GMO サイバーセキュリティ byイエラエ</a> — 国内最大規模の脆弱性診断ベンダー。AI 活用診断サービスを展開中。</li>
+    
+    <li><a href="https://snyk.io/jp/" target="_blank" rel="noopener">Snyk 日本法人</a> — 開発者向け SAST/SCA で日本語サポートあり、$25/月〜。</li>
+    
+    <li><a href="https://github.co.jp/" target="_blank" rel="noopener">GitHub Advanced Security</a> — Copilot Autofix 連携で AI 自動修正対応。要見積、Enterprise 前提。</li>
+    
+    <li><a href="https://www.nri-secure.co.jp/service/assessment/ai-red-team" target="_blank" rel="noopener">NRI セキュア AI Red Team</a> — AI システム向けレッドチーミング診断。エンタープライズ向け。</li>
+    
+    <li><a href="https://www.shiftsecurity.jp/aisystem/" target="_blank" rel="noopener">SHIFT SECURITY 生成AI診断</a> — 生成 AI 活用システムの脆弱性診断、OWASP 基準対応。</li>
+    
+  </ul>
+  
+
+  
+  <h3>規制要点</h3>
+  <ul class="regs">
+    <li><strong>改正個人情報保護法 (2026 年閣議決定)</strong>: 違法な個人情報取扱いに対する課徴金制度導入。ソースコードに含まれる個人データの外部 AI 送信に慎重対応が必要。自社インフラ実行モデルは適合しやすい。</li><li><strong>AI 事業者ガイドライン v1.2 (総務省/経産省 2026/3/31)</strong>: AI 利用時の機密情報入力、出力検証、ログ保管に関する遵守事項。診断結果の取扱いに準拠が必要。</li><li><strong>営業秘密保護 (不正競争防止法)</strong>: ソースコードを外部 LLM に送信する場合、営業秘密の保護要件(秘密管理性)が崩れるリスク。自社鍵・自社インフラ実行は適合しやすい。</li>
+  </ul>
+  
+
+  <p class="rationale"><strong>機会:</strong> deepsec 本体は OSS なので、日本企業向けに (1) 日本語化したレポート・チケット出力、(2) 国内 SIer/受託診断と連携した PoC パッケージ、(3) Claude/Codex API コストを最適化する運用代行、(4) 改正個情法・AI ガイドライン対応の監査レポート出力を付加したマネージドサービスを構築できる余地がある。AppSec 専任者がいない 50〜500 名規模の自社開発系企業がターゲット。</p>
+  <p class="rationale"><strong>市場機会総評:</strong> 需要は AI コーディング普及で確実に伸びている一方、本体は OSS かつ Vercel がエコシステムの中心。国内には強力な既存ベンダーが存在し、個人開発者が独立 SaaS で勝つのは難しい。一方で『deepsec 運用代行＋日本語レポート＋規制対応』のマネージドサービスやコンサルとしての商機はあるため『watch』とし、自社インフラ実行モデルが規制対応で優位な点を活かせるか継続観察が妥当。</p>
+</section>
+
+
+
+<section class="review-guide">
+  <h2>判断ガイド</h2>
+  <dl class="card-meta">
+    <dt>何をするか</dt><dd>Vercel が OSS 化した AI 脆弱性スキャナで、Claude Opus 4.7 と GPT-5.5 のコーディングエージェントを使い、自社インフラ上でソースコードを調査する。regex による静的事前スキャンで対象ファイルを絞り込んだ後、エージェントが各ファイルを精査し、再検証で偽陽性を削減、git メタデータで担当者を特定、最後にチケット化用フォーマットで出力する。CLI 中心、Vercel Sandbox への fanout で 1,000+ 並列実行も可能。</dd>
+    <dt>誰に刺さるか</dt><dd>中〜大規模コードベースを抱える Web/SaaS 開発組織、AppSec 担当者、AI コーディングエージェント (Claude Code/Codex) のサブスクリプションを既に契約している開発チーム。</dd>
+    <dt>再現可能性</dt><dd><code>hard</code> — コアの差別化は Vercel の社内検証実績と Sandbox 連携・プロンプト/エージェント設計のチューニング。表層クローンは可能だが、検出精度と運用コスト最適化に多大なノウハウが必要。</dd>
+  </dl>
+  
+  <h3>注目シグナル</h3>
+  <ul><li>Product Hunt で 252 upvotes、Vercel 公式ブログでの大々的な発表</li><li>AI コーディングエージェントの企業導入が急増し、生成コードのセキュリティ課題が顕在化</li><li>GitHub Advanced Security/Snyk など既存 SAST が AI 文脈に追従しきれていない</li><li>OSS かつ自社鍵・自社インフラ実行で、機密コードを外部に出したくない需要にマッチ</li><li>Claude Code/Codex の既存サブスクで動くため追加導入障壁が低い</li></ul>
+  
+  
+  <h3>懸念点</h3>
+  <ul><li>スキャン 1 回あたり数千〜数万ドルの LLM API コストが発生し、個人/小規模では負担大</li><li>誤検知率 10〜20% で、トリアージ運用が必要</li><li>Vercel が本体 OSS をリードしておりエコシステムの中心は彼ら</li><li>日本市場では SAST/DAST 受託ベンダーが強固な販路を持ち、OSS 単体は売りにくい</li><li>セキュリティ製品は SLA・サポート・責任分界の要求が高く個人開発で受けにくい</li></ul>
+  
+</section>
+
+
+
+<section class="ph-comments">
+  <h2>PH 上位コメント</h2>
+  
+  <blockquote>
+    <p>&lt;p&gt;Running security tooling on your own infra is the right call for anything touching production code. Quick question: does deepsec scan at commit time, CI time, or both? I&#39;m curious how it handles cases where the samecode has different risk profiles in diffrent environments.&lt;/p&gt;</p>
+    <footer>— [REDACTED] (5 votes)</footer>
+  </blockquote>
+  
+  <blockquote>
+    <p>&lt;p&gt;Congrats on the launch! I like that it runs on your own infra.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Is deepsec mostly for CI/PR checks, or also local dev use?&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Curious how you’re handling false positives, that’s usually the hard part with security tools.&lt;/p&gt;</p>
+    <footer>— [REDACTED] (2 votes)</footer>
+  </blockquote>
+  
+  <blockquote>
+    <p>&lt;p&gt;AI security tooling is 2 years behind where it needs to be right now. open-source is the only model that makes sense for this — you can&#39;t ask people to trust a black box to secure their black box. This is infrastructure work and it needed to exist yesterday.&lt;/p&gt;</p>
+    <footer>— [REDACTED] (1 votes)</footer>
+  </blockquote>
+  
+</section>
+
+
+
+<section class="long-desc">
+  <h2>長文説明（PH）</h2>
+  <p>Vercel is open sourcing deepsec, an AI security harness that runs on your infrastructure, with your keys, against your code.</p>
+</section>
+
+
+
+<section class="landing">
+  <h2>ランディングページから</h2>
+  <p>Introducing deepsec: The security harness for finding vulnerabilities in your codebase - Vercel — Today we&#39;re open sourcing deepsec, an AI security harness that runs on your infrastructure, with your keys, against your code.</p>
+</section>
+
+
+<nav class="breadcrumb">
+  <a href="index.html">← Week 2026-W19 に戻る</a>
+</nav>
+
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <p>Data source: <a href="https://www.producthunt.com">Product Hunt</a> via official API.</p>
+    <p>This research is for non-commercial personal use. Generated by an AI pipeline.</p>
+    <p>Generated: 2026-05-25 05:07</p>
+  </div>
+</footer>
+</body>
+</html>

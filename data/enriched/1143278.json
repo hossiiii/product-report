@@ -1,0 +1,215 @@
+{
+  "name": "AgentPeek",
+  "description": "Claude Code and Codex in your Mac notch",
+  "ph_url": "https://www.producthunt.com/products/agentpeek/launches/agentpeek?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/I5VUUCMKZ6ZLDB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-10T07:01:00Z",
+  "upvotes": 149,
+  "comments": 23,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence",
+    "Menu Bar Apps"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Also working on running/prompting all inside of the notch - no terminals required.</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Cool idea! Does AgentPeek work when multiple Claude Code sessions run in parallel? How does the notch UI handle 3-4 concurrent agents?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Does AgentPeek detect ports automatically, or do you have to configure which servers to watch?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Monitor Claude Code and Codex from the Mac notch. Sessions, permissions, token usage, and local dev servers. Session data stays local.",
+  "featured_at": "2026-05-10T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/c2a6584f-3aa0-4526-bcdb-6cc9fff3a877.png",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/7af2990b-fe51-41b3-8ce7-3daac6fb5877.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1054319b-1f5c-4002-be25-b24784d056cd.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:51",
+  "landing_meta": "AgentPeek — Monitor Claude Code & Codex from the Mac notch — AgentPeek is the Mac notch app for Claude Code and Codex: see live agent sessions, approve permissions, track token usage, and manage local dev servers — all from the notch. Local-first, $9 lifetime, free 2-day trial.",
+  "landing_text": "AgentPeek — Monitor Claude Code & Codex from the Mac notch Claude Code and Codex in your Mac notch Apple silicon · macOS 14+ · 2-day free trial Download for free Claude Code Codex Any terminal Lifetime access Unlimited sessions Local-first See every agent in parallel 5 Sessions 5H: 42% 7D: 68% 5H: 9% 7D: 24% agentpeek-web · Editing src/auth/session.ts 12k 4 2 +47 −12 2m Ghostty billing-api · Planning rate-limit fix 8.4k 2 +12 −3 5m iTerm docs-site · Awaiting permission 3.1k 1 1m Cursor internal-tools · Build failed: SwiftSyntax mismatch 5.2k 3 4m Warp release-pipeline · Refactoring InteractionPanel 22k 9 6 +84 −31 18m Terminal 5 sessions · 2 agents · 1 view Approve without breaking flow Edit src/auth/session.ts 42 const session = await loadSession() 43 - if (!session) return null 43 + if (!session) { 44 + return redirect('/login') 45 + } 46 return session +3 −1 4 files 2 commands 12k tokens Deny ⌘N Always Allow ⌥A Allow ⌘A ⌘A allow · ⌘N deny · ⌥A always Token budgets, visible Claude Code 5H 42% resets in 2h 14m 7D 68% refills Mon Codex 5H 9% resets in 4h 31m 7D 24% refills Sun 5-hour and 7-day windows · both agents Jump to any agent folder Skills Plugins Config Logs Root Skills Plugins Config Logs Root Pinned. One keystroke. Every local server, one click localhost: 5173 · Node web 3h 37m localhost: 3000 · Next.js marketing 1h 12m localhost: 8787 · Wrangler api 42m localhost: 4321 · Astro docs 2h 08m localhost: 9323 · Playwright 18m localhost: 7265 · Raycast 5h 45m Auto-detected on ports 3000–9999 Lifetime access Try free for 2 days, then keep using AgentPeek with one payment. Free Trial 2 days, full access $0 All features unlocked Unlimited sessions Download for free License One payment, yours forever $9 one-time Future updates included Apple silicon Mac, macOS 14+ Buy license Questions? What is AgentPeek? + How does AgentPeek monitor Claude Code and Codex? + Which agents does AgentPeek support? + Does AgentPeek work with Cursor, Windsurf, or other AI coding tools? ",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing",
+    "$9",
+    "$0"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:51",
+  "description_ja": "Mac のノッチ部分から Claude Code と Codex のセッション、権限承認、トークン使用量、ローカル開発サーバを監視する常駐ユーティリティ。",
+  "summary_ja": "Apple Silicon Mac の MacBook Pro ノッチに常駐し、Claude Code / Codex の並列セッション・権限承認・トークン残量・ローカル dev サーバを一覧表示。ターミナルを切り替えずに複数エージェントを俯瞰できる。ローカル完結でデータは外部に出ず、$9 買い切り(2 日無料試用) というシンプル課金。",
+  "tldr_ja": "Mac ノッチに Claude Code/Codex の進捗・トークン・ローカルサーバを常時表示する $9 買い切りのローカル常駐モニタ。複数エージェント並列開発が増える中での『俯瞰』ニーズに刺す。",
+  "review_guide_ja": {
+    "what": "macOS 14+ / Apple Silicon 向けの常駐アプリで、Claude Code と Codex の (1)アクティブセッション一覧 (2)権限承認プロンプトをノッチ上で処理 (3)5h/7d のトークンバジェット表示 (4)ポート 3000-9999 の dev サーバ自動検出と起動/停止 を提供する。ローカルログを読みに行く方式でクラウド送信なし、買い切り$9(ライフタイム)。",
+    "for_who": "Claude Code / Codex で 2 〜 5 並列のエージェントを回す個人開発者・小規模スタートアップのエンジニア。とくにターミナルを複数立ち上げて見失いがちな AI ネイティブ開発者。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "SwiftUI でのノッチ常駐 UI と CLI ログ tail は技術的に難しくないが、Claude Code/Codex のログフォーマット変更追随と権限プロンプト hijack の安定性確保に継続工数が必要"
+    },
+    "signals": [
+      "Product Hunt 149 upvotes / 23 comments と並列セッション運用に関する具体的な質問が寄せられている",
+      "ccusage 等の Claude Code 使用量可視化 OSS が国内外で多数登場し、ニーズが顕在化",
+      "JetBrains 2026 調査で Claude Code 採用率が前年比 6 倍 (18%) と急伸",
+      "Mac ノッチ常駐アプリ (NotchNook / Alcove / Boring Notch) は既に成立カテゴリ",
+      "$9 買い切り + 2 日トライアルというフリクション低めの導線"
+    ],
+    "concerns": [
+      "Claude Code/Codex のログ仕様変更や公式ダッシュボード追加で価値が即座に陳腐化するリスク",
+      "ccusage 等の無料 OSS が既に同等の使用量可視化機能を提供しており差別化はノッチ UI と権限承認のみ",
+      "ターゲットが Apple Silicon + macOS 14+ + Claude/Codex 課金ユーザーに限定され母数が小さい",
+      "$9 買い切りで継続収益が立たず、保守インセンティブが弱い",
+      "macOS Tahoe 標準メニューバー機能強化で常駐アプリ市場全体が圧迫"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 7,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本でも Claude Code は楽天/NRI/パナソニック等で採用され、Zenn/Qiita に ccusage 記事が多数。AI コーディング並列実行のニーズは確実に存在するが、ノッチ依存で対応機種が限定される"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "使用量可視化は ccusage / claude-monitor / claude-code-otel が無料 OSS で提供。ノッチ UI 部分は NotchNook($25)/Alcove($25)/Boring Notch(無料) が存在し、AI エージェント特化はまだブルーオーシャン"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "ローカル完結でデータ送信なし、個人情報保護法・電気通信事業法の影響は軽微。Apple Developer Program ($99/年) と公証(Notarization)のみ"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "UI は英語のままでも開発者は許容しやすい。日本語ドキュメントとブログ記事を整備すれば追加コスト小。$9 という低価格は為替変動の影響も限定的"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "個人開発者・スタートアップ向けで稟議は不要、買い切りは法人経費でも処理しやすい。ただし企業導入時の請求書/インボイス対応がないと中堅以上は採用しづらい"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ccusage",
+        "url": "https://ccusage.com/",
+        "note": "@ryoppippi 製の Claude Code/Codex CLI 使用量解析ツール。無料 OSS、日本語記事多数。AgentPeek の使用量可視化部分と直接競合"
+      },
+      {
+        "name": "Claude Code Usage Monitor (claude-monitor)",
+        "note": "リアルタイムターミナルダッシュボード OSS。トークン残量監視に特化し無料"
+      },
+      {
+        "name": "BuhoBarX",
+        "url": "https://www.drbuho.com/",
+        "note": "日本でも紹介記事多数の Mac メニューバー整理アプリ。2,980 円買い切り。ノッチ問題解消が主目的で AI 非特化"
+      },
+      {
+        "name": "Boring Notch / NotchNook / Alcove",
+        "note": "Mac ノッチ常駐アプリの先行勢。汎用 (音楽/通知/AirDrop) で AI エージェント特化機能はない"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "ローカル完結でクラウド送信なしのため低リスク。プライバシーポリシーで『データはローカル保存のみ』を明記すれば十分"
+      },
+      {
+        "law": "Apple Developer Program / Notarization",
+        "impact": "macOS 配布には Developer ID 署名と Notarization が必須 ($99/年)。Setapp 配信時は別途審査"
+      },
+      {
+        "law": "特定商取引法 (個人開発で日本顧客に直販する場合)",
+        "impact": "Stripe/Gumroad 等で日本顧客に販売する場合、特商法表記と返金ポリシーが必要。$9 買い切りなので争点は少ない"
+      }
+    ],
+    "opportunity": "日本では ccusage が Claude Code モニタリングの事実上のデファクト OSS だが、CLI ベースで GUI 体験は弱い。AgentPeek 的なノッチ常駐 + 権限承認 hijack は『ターミナル切替不要』を売りにできる。Cursor/Windsurf にも対応を広げ、$9→月額 500 円程度の SaaS 化 + チームライセンス + 日本語ドキュメントで個人開発者層に刺せる余地あり。",
+    "rationale": "ローカル完結のため規制リスクは極小、需要は Claude Code 採用拡大とともに増加中。ただし使用量可視化は無料 OSS と直接競合し、差別化はノッチ UI と権限承認 UX のみ。対象機種が Apple Silicon + macOS 14+ に限られ、$9 買い切りで継続収益が薄い。日本での独自参入余地は『日本語サポート + 国内決済 + チーム版』が中心となる。"
+  },
+  "business_viability": {
+    "business_viability_score": 6,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "$9 (≒1,400 円) ライフタイム買い切りは導入障壁が低い反面、LTV が低くストック収益にならない。アップデート保守インセンティブが弱く、月額 / チーム版を併設しないと事業として伸ばしづらい"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内対象は Apple Silicon Mac × Claude Code/Codex 課金ユーザーで概ね 10-20 万人規模と推定。グローバルでは Claude Code VS Code 拡張 DL が 2026/2 で 2,900 万に到達しており TAM は数百万規模だが、ノッチ機種制約で 1/3 程度に縮小"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Product Hunt / X / Zenn / Qiita のオーガニックで個人開発者層に届きやすい。$9 トライアルあり買い切りは口コミ拡散と相性良し。ただし Setapp 等のサブスク束ね配信を取らないと到達は限定的"
+      },
+      "timing": {
+        "score": 8,
+        "reason": "Claude Code 採用率は 2025→2026 で 6 倍 (JetBrains 調査)。並列エージェント運用が普及期に入り、可視化ツール需要が立ち上がる絶妙なタイミング"
+      },
+      "solo_ops": {
+        "score": 8,
+        "reason": "Swift/SwiftUI 単独プロジェクト、ローカル完結でサーバ運用不要、買い切りで返金/サブスク管理も最小。個人開発者が片手間で保守可能"
+      }
+    },
+    "rationale": "タイミング(Claude Code 急伸)と運用負荷の低さ(ローカル完結 + 買い切り)は強い追い風。一方で $9 一括は LTV が低く、ノッチ機種限定で TAM が小さい。市場規模 × 収益化のかけ算で見ると、グローバルで数千〜数万ライセンスが現実的ライン。日本単独では月数十万円規模に留まる見込み。ストック収益化(チーム月額・Cursor/Windsurf 対応)で 1 段引き上げる余地がある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "one_time",
+      "arpu_jpy": 1400,
+      "plans": [
+        "Free Trial: 2 日間フル機能",
+        "Personal Lifetime: $9 (約 1,400 円) 買い切り・将来アップデート含む",
+        "(追加検討) Team: ¥800/席/月 - 中央課金 + 請求書/インボイス対応",
+        "(追加検討) Pro Subscription: ¥500/月 - Cursor/Windsurf 対応 + 高度ダッシュボード"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本国内の Apple Silicon Mac 所有 × Claude Code / Codex 課金ユーザー (個人開発者・スタートアップ・社内エンジニア)",
+      "target_count": 200000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 1400000
+    },
+    "recommended_gtm": [
+      "Zenn / Qiita に『Claude Code 並列開発の可視化』というテーマで実体験記事を出し SEO 流入確保",
+      "X (旧 Twitter) で AI コーディング系インフルエンサー(ryoppippi 氏など)に試用依頼しレビュー獲得",
+      "Product Hunt JP / Indie Hackers Japan で個人開発者コミュニティに直接訴求",
+      "日本語ランディング + 特商法表記 + Stripe で国内決済を整備し心理障壁を下げる",
+      "Setapp パートナーシップ申請でサブスク経由の継続収益チャネルを確保",
+      "ccusage 等 OSS への補完ポジションを明示(連携・読み込み対応)してコミュニティ反発を回避"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "Anthropic / OpenAI が公式ダッシュボードや Mac 公式アプリを出すと一気に陳腐化",
+      "Claude Code / Codex のログ仕様や CLI 出力が破壊的変更され追随コストが増大",
+      "ccusage 等の OSS がノッチ UI / 権限承認まで取り込むと差別化点が消失",
+      "ノッチ非搭載 Mac (M1/M2 MBA, Studio Display, iMac) を切り捨てる設計で TAM が縮小",
+      "$9 買い切りで保守費用が回収できず、放置アプリ化することでレビュー悪化"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 6,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z",
+  "japan_fit_version": "1.0"
+}

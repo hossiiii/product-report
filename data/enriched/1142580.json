@@ -1,0 +1,253 @@
+{
+  "name": "Adject 2.0",
+  "description": "Create hyperrealistic product visuals with AI",
+  "ph_url": "https://www.producthunt.com/products/adject/launches/adject-2-0-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/BPB5EVZOROWIVC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-10T07:01:00Z",
+  "upvotes": 202,
+  "comments": 22,
+  "topics": [
+    "Design Tools",
+    "Artificial Intelligence",
+    "E-Commerce"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt!\n\nMost AI creative tools still work like isolated prompt boxes. Generate something, download it, then start over again.\n\nWe wanted something closer to how real creative work actually feels.\n\nAdject 2.0 introduces an agentic workflow for product visuals where generations, edits, assets, videos, and context all live together inside an infinite workspace.\n\nYou can upload products once, iterate visually, reuse assets across projects, and work with AI more collaboratively instead of restarting every generation from scratch.\n\nInternally, we sometimes describe it as “Figma meets Cursor for product shoots.”\n\nWould genuinely love feedback from anyone exploring where creative AI tools are heading.",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is the one worth attention today in my opinion. The generate/download/repeat loop in most AI image tools kills any sense of creative momentum. So, keeping products/models/edits all connected in one place is how creative teams actually think about campaigns. Wonder how you guys handle products with complex textures like fabric or reflective packaging?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hello Product Hunt community! 😸</p><p>Bringing Adject v2 to life has been an amazing journey. As the team building the AI infrastructure, our biggest challenge (and most fun task) was setting up the new chatting logic. Getting the agent architectures to communicate perfectly to provide a smooth user experience took a lot of late nights, but we are really proud of the result.</p><p>Please give it a spin and let us know where we can improve. I'm looking forward to reading your feedback and answering your questions!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Adject 2.0 is an agentic product studio where brands can create, edit, and iterate product visuals inside an infinite creative workflow. Instead of isolated generations, products, models, edits, videos, and assets stay connected inside projects and evolve continuously over time. Upload once, generate in context, iterate visually, and build complete campaigns without fragmented tools or repetitive prompting.",
+  "featured_at": "2026-05-10T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/71bffed4-4e53-4c02-aff9-d9d5cf2fcd84.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f2ed94cc-81a8-4535-a8d1-b234590a2c27.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/679a1499-16fd-4647-88a3-f38b13b2f0ad.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c9d6f483-d8b1-47c9-b20a-7ecd06606cc4.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/761bf10d-81cb-4bdd-bf1a-a4435a999604.gif"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:31",
+  "landing_meta": "Adject AI | Product Images and Videos for Ecommerce Brands in Seconds — Create commercial-ready product images and videos with AI. Adject helps ecommerce brands replace photoshoots with fast, consistent visuals.",
+  "landing_text": "Adject AI | Product Images and Videos for Ecommerce Brands in Seconds We’ve just launched 2.0 to help you create better! Check them out now! We’ve just launched 2.0 to help you create better! Check them out now! new ADJECT 2.0 Create product visuals that sell, in seconds. Create product visuals that sell, in seconds. Turn a single product photo into realistic visuals built for ecommerce listings and ads. Turn a single product photo into realistic visuals built for ecommerce listings and ads. No cameras, no high-cost, no delays No cameras, no high-cost, no delays Get Started No credit card required Join 1000+ brands and sellers creating realistic campaign visuals Toooo Easy Follow these three steps to generate realistic photoshoots for your products. STEP 1 STEP 2 STEP 3 UPLOAD Upload product photo STEP 1 STEP 2 STEP 3 UPLOAD Upload product photo Built for every type of product category Adject is built for real e-commerce products across every category, not just fashion. Apparel & Fashion Apparel & Fashion AI product photography for clothing brands, streetwear, activewear, and fashion collections. Beauty & Cosmetics Beauty & Cosmetics Generate luxury skincare, makeup, and beauty product visuals with studio-level lighting. Jewelry & Accessiores Jewelry & Accessiores Create high-detail jewelry product images with realistic reflections and premium backgrounds. Furniture Furniture Produce lifestyle interior product visuals for sofas, chairs, decor, and home accessories. Packaged Products Packaged Products Create high-quality product visuals for bottled, boxed, and retail-ready goods. Electronics Electronics Create perfect product visuals for electronics, smart devices, and modern tech brands. See All Examples Why Adject? Photoshoots are expensive. Mockups are boring. Adject AI gives solopreneurs ad-ready visuals for less than a coffee per week. Create in seconds, not days Upload one product photo and instantly generate studio or lifestyle images ready for listings and ad",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "premium",
+    "$29",
+    "$59",
+    "$99"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:32",
+  "description_ja": "AIで商品写真や動画をワンクリック生成するEC向け画像スタジオ。アセットや編集履歴を1つの無限ワークスペース上で連続的に運用できるエージェント型ツール。",
+  "summary_ja": "Adject 2.0は商品画像をアップロードするとAIがスタジオ写真・ライフスタイル写真・短尺動画を生成し、生成物・モデル・編集・アセットをプロジェクト単位で蓄積できる「Figma×Cursor for product shoots」型ツール。EC事業者の撮影コスト削減と広告クリエイティブの反復生成を狙う。",
+  "tldr_ja": "EC向け商品写真AIをエージェント型ワークスペース化。撮影代替で月額$29〜の海外SaaS、日本では強力な競合多数。",
+  "review_guide_ja": {
+    "what": "単一の商品写真からスタジオ風・ライフスタイル風の静止画と5秒程度の動画をAI生成し、生成物・素材・編集履歴をプロジェクト単位の無限キャンバスに統合するエージェント型のEC向けクリエイティブツール。複数アセットを再利用しながらキャンペーン単位で連続的に画像を反復できる点が従来のワンショット型生成ツール（Pebblely、PicCopilot等）との差別化ポイント。",
+    "for_who": "Shopify/BASE/カラーミーで月商10〜数百万円規模の個人EC事業者、D2Cブランド、複数案件を抱える小規模クリエイティブ代理店。アパレル・ジュエリー・コスメ・家具・パッケージ商品など物撮りコストが課題のカテゴリ。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "画像生成基盤の自前開発はGPUコストと品質チューニング負荷が大きく、Nano Banana/Imagen等のAPIラッパーでは差別化困難。エージェント型ワークスペースのUX設計も重い。"
+    },
+    "signals": [
+      "PH202 upvotes / 22 comments と中規模の関心",
+      "ローンチページに「1000+ brands」の実利用シグナル",
+      "$29/$59/$99 の明確な3階層SaaS価格",
+      "コメントで反射素材・布など難素材の質問あり需要明確",
+      "「Figma meets Cursor」の打ち出しで反復ワークフロー需要を捉えている"
+    ],
+    "concerns": [
+      "Photoroom/Pebblely/Flair/Fotographer.ai等の強力な競合が既に存在",
+      "Nano Banana等の汎用モデルAPIで個人が代替可能",
+      "日本語UIと日本のEC文脈（楽天/カラーミー連携）への対応未確認",
+      "景品表示法・ステマ規制下でAI生成画像の優良誤認リスク",
+      "ロゴ・反射・布等の素材忠実性が長期的な差別化を維持できるか不透明"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本のEC稼働店舗は約455万、Shopify日本3.8万店、BASE240万店超と母数が大きく、個人EC事業者の物撮りコスト（1商品1,000円〜外注）削減ニーズは明確。AI商品画像のキーワードで複数の国内記事が乱立しており需要は高い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "国内ローカライズ済のFotographer.aiがカラーミー/Yahoo!コマースに統合済。海外勢もPebblely/Photoroom/Flair/PicCopilot/Claid等が日本語対応進行中で、Canva・Adobeの生成AI機能も競合。レッドオーシャン。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "AI生成画像自体に直接規制はないが、景品表示法のステマ規制（2023.10〜）と優良誤認表示リスクあり。実物と乖離した「盛りすぎ」生成画像は景表法違反となり得るため、テンプレ設計に注意が必要。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "プロンプトUIは英語前提と推測。日本語UI、和室・畳・和食器などのアジア系ライフスタイル背景プリセット、楽天/カラーミー/BASE/STORES連携が未整備の可能性が高く、追加開発が必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本のEC現場は「実物と一致した素材であること」を強く重視し、AI生成画像への信頼形成が課題。一方で楽天・Amazon JPの商品画像ガイドラインに沿った出力（背景白・サイズ等）のテンプレ提供で受容拡大の余地あり。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Fotographer.ai",
+        "url": "https://fotographer.ai/",
+        "note": "国内発、カラーミー/Yahoo!コマースに公式アプリ統合。完全日本語対応で価格1,200円〜。最有力ローカル競合。"
+      },
+      {
+        "name": "Photoroom",
+        "url": "https://www.photoroom.com/",
+        "note": "iOS/Android対応で日本でも個人EC・メルカリ層に浸透。$39〜と上位互換的サブスク。"
+      },
+      {
+        "name": "Pebblely",
+        "url": "https://pebblely.com/",
+        "note": "商品画像AIの代表格。$9.99〜と価格優位。日本語ブログ記事多数で認知あり。"
+      },
+      {
+        "name": "PicCopilot (Alibaba)",
+        "url": "https://piccopilot.com/",
+        "note": "Alibaba提供で$5.99〜と最安帯。物販・越境EC向けに日本でも紹介記事多数。"
+      },
+      {
+        "name": "Canva / Adobe 生成AI",
+        "url": "https://www.canva.com/",
+        "note": "既存デザインツールの生成AI機能で代替可能。中小EC事業者の多くが既に契約済で乗り換え障壁大。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法（優良誤認表示）",
+        "impact": "AI生成で実物より過度に魅力的に見せると優良誤認となり違反。色味・質感・サイズ感の再現性確保とテンプレ警告が必要。"
+      },
+      {
+        "law": "景品表示法（ステマ規制 2023.10〜）",
+        "impact": "AI生成画像をインフルエンサー投稿に流用する際の「広告」表記運用ガイドが必要。BtoB向けには直接影響は限定的。"
+      },
+      {
+        "law": "著作権法・パブリシティ権",
+        "impact": "AIモデル写真で実在人物に酷似した場合のパブリシティ権侵害リスク。学習データのクリーン性証明（Adobe Fireflyのような）が差別化要素。"
+      }
+    ],
+    "opportunity": "日本市場では「楽天・Amazon JP商品画像ガイドライン準拠テンプレ」「和室・畳・和食器プリセット」「カラーミー/BASE/STORES連携」「景表法配慮の品質警告UI」を備えたローカル特化版に余地。ただしFotographer.aiが既に押さえつつあるポジションで、後発が取り切るのは困難。",
+    "rationale": "需要は確実に存在するが、Fotographer.aiという国内最適化済の強力ローカル競合に加え、Photoroom/Pebblely/Canva等の海外強豪が日本語対応を進めており、Adject 2.0が日本市場に正面参入してもブランド認知・販売チャネル・価格競争の三重苦に直面する。watchが妥当で、個人開発者が同領域で参入するなら明確なニッチ（楽天特化、メルカリ特化、特定カテゴリ特化）が必須。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "サブスク$29/$59/$99の明確3階層を確立済。EC事業者は撮影コスト（外注1商品千円〜数万円）と直接比較できるため購入意思決定が早く、課金単価も高め。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内EC稼働店舗455万、Shopify日本3.8万、BASE240万のうち継続的に商品画像を必要とする層は数十万規模。但しほとんどがCanva等の既存ツールで足りる層で、課金可能なTAMは数万店規模に絞られる。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "PH202upvotesは中程度、SEOは既存大手が占有、楽天/Shopifyのアプリストア審査・販売手数料負担。個人開発者がローカル競合(Fotographer.ai)を抜く獲得チャネル構築は困難。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "Nano Banana/GPT Image等の精度向上で2025-26はAI商品画像の普及期。一方で参入過多のレッドオーシャン化が進行中で、新規参入の旨味は徐々に減衰。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "画像生成のGPU推論コストが従量で増え、解約・返金対応・著作権クレーム等のCSも重い。エージェント型UIは保守コスト大で、個人開発で品質を維持しつつ拡張するのは厳しい。"
+      }
+    },
+    "rationale": "ARPU設定と単価訴求力は強いものの、競合密度・GTMの困難さ・GPUコストとCS負荷の重さで個人開発適性は低い。Adjectのようなフルフィーチャー版を後追いするのは現実的でなく、特定ニッチ（例：メルカリ出品者向け、ハンドメイド作家向け、楽天特化）に絞ったMVPで$10〜$20帯の月額1,500〜3,000円プランから始めるなら成立余地はある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 2980,
+      "plans": [
+        "Free: 5枚/月、ウォーターマーク付き、解約自由",
+        "Lite 1,480円/月: 50枚/月、楽天/Amazon JPテンプレ、商用利用OK",
+        "Standard 2,980円/月: 200枚/月+短尺動画10本、優先生成、メルカリ/BASE連携",
+        "Pro 5,980円/月: 1,000枚/月+API、複数ブランド管理、CSV一括処理"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Shopify日本/BASE/STORES/カラーミーで月商10〜100万円規模、自分で物撮りしている個人EC事業者・ハンドメイド作家・メルカリShops出品者",
+      "target_count": 80000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 1192000
+    },
+    "recommended_gtm": [
+      "メルカリShops/BASE/STORES等の個人EC向け公式アプリストア出品でリーチ",
+      "ハンドメイド作家・D2C個人事業主向けにX/Instagramでビフォーアフター事例投稿",
+      "noteや個人ブログでの撮影コスト削減事例コンテンツSEO",
+      "楽天市場の商品画像規定準拠テンプレを差別化に売る出店者コミュニティ営業",
+      "Canva/Adobeで物足りない層に向けたフリーミアム→Lite誘導"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Fotographer.aiが先行ローカル化済で個人開発の差別化は極めて困難",
+      "Nano Banana/GPT Image等の汎用モデル進化で機能の陳腐化スピードが速い",
+      "GPU推論コストが利用量に比例し、低価格帯では赤字化リスク",
+      "景品表示法（優良誤認）クレームと著作権クレームのCS対応負荷",
+      "Canva/Adobeの生成AI機能拡張による上位互換化"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

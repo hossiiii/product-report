@@ -1,0 +1,235 @@
+{
+  "name": "InvestorFinder",
+  "description": "Find investors who've backed founders just like you",
+  "ph_url": "https://www.producthunt.com/products/investorfinder/launches/investorfinder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/RYYTMN5NZ76UMA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-10T07:01:00Z",
+  "upvotes": 293,
+  "comments": 24,
+  "topics": [
+    "Investing",
+    "Venture Capital",
+    "Tech"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey PH! 👋<br><br>When founders raise, they pitch dozens of investors, get a handful to back them, and spend months figuring out who the right ones were all along.<br><br>InvestorFinder shortens that gap massively. Based on our database of 1000s of investors, our AI match you to the right investor based on your profile and product. <br><br>You also get 12+ rich datapoints on every partner:<br><br>🎓 Where their founders studied<br>🏢 Where their founders worked<br>📍 Where their founders are based<br>🧠 Founder archetypes<br>💰 Check size<br><br><br>The use cases are straightforward:<br><br>🚀 Founders raising: Stop cold pitching. Find the 10 partners whose portfolio data looks like you and go deep on warm intros to those specific people.<br><br>🌱 First-time founders: You don't have a network yet. Use the data to identify exactly which investors have backed founders with similar backgrounds to yours.<br><br>🧑‍💻 Solo founders: See which partners have consistently backed solo founders vs. those who only back co-founder teams. Don't waste a pitch on the wrong fit.<br><br>📋 Preparing for a pitch: Before any meeting, pull up the partner's profile and know their investment patterns. Walk in more prepared than any other founder in the room.<br><br>🔍 Founders doing investor research: Cross-reference check size, stage, sector focus, and founder background all in one place before you add anyone to your target list.<br><br>1000+ investor profiles across Sequoia, a16z, Lightspeed, and more. Free. 🎉<br><br>Try it at: <a href=\"https://tools.crustdata.com/investorfinder\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://tools.crustdata.com/inve...</a></p>",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Some VCs publish why they invested in a company in their blogs and others appear to actively promote their portfolio companies on LinkedIn and Twitter. \n\nDo you scan for all these for signals?",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Congrats on the launch 🙌 This is the kind of tool I actually need right now as I am looking for early-stage investors. When I sign up, how does it figure out which investors are the right match for me?",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Finally, real data on how every VC partner actually invests - founder backgrounds, universities and prior companies. Paste your profile and find your best matches in seconds.",
+  "featured_at": "2026-05-10T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/43973f52-c69a-4d2c-b5fa-23e738090a32.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ca609634-368a-484a-a131-335287ff42ce.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fb85b511-7d0a-410e-aabd-f498a0d8caae.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4f0f61ec-fbe1-4064-845b-e9b1aae64484.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f147afde-9e2d-409b-b9d6-1aef28534f15.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/84e42050-70f8-4880-84af-5b9c2981acd6.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:18",
+  "landing_meta": "InvestorFinder — Deep dive into VC partner profiles, stats & portfolio data.",
+  "landing_text": "InvestorFinder InvestorFinder Click any partner above to dive into their portfolio Find my VCs",
+  "pricing_signals": [
+    "$1",
+    "$5",
+    "$9",
+    "$0"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:19",
+  "description_ja": "創業者のプロフィールから最適なVCパートナーをAIマッチングする無料の投資家検索ツール。1000人以上のVCパートナーの投資傾向データを保有。",
+  "summary_ja": "Crustdataが提供する無料のVCパートナー検索ツール。創業者の出身大学・前職・所在地・チーム構成などのプロフィールから、過去に類似背景の創業者へ投資したVCパートナーをAIで推薦。Sequoia、a16z、Lightspeedなど米国主要VCの1000人以上のパートナー情報と12項目以上のデータポイントを保有し、コールドピッチではなく類似投資パターンに基づくターゲティングを支援する。",
+  "tldr_ja": "創業者背景に類似するVCパートナーをAIで推薦する無料DB。日本では既にsmartround(無料)が同等機能を提供済み。",
+  "review_guide_ja": {
+    "what": "VCパートナー単位のポートフォリオデータ(投資先創業者の出身校・前職・所在地・チーム構成・チェックサイズ等)をAIマッチングし、自分のプロフィールと類似する投資家を推薦する無料Web ツール。Crustdataのリードジェネ用フリーミアム導線として機能している。",
+    "for_who": "シード〜アーリーで資金調達中の創業者、特に初回起業家やソロ起業家。コールドアウトリーチではなく、過去の投資パターンに基づくターゲティングをしたい層。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "LinkedIn等のスクレイピング+LLMによる類型化で技術的には再現可能だが、1000人規模のVCパートナーデータ整備とAI推薦の精度確保には継続的データ運用コストがかかる。"
+    },
+    "signals": [
+      "PHで293 upvote/24コメントと初動好調",
+      "Crustdataという既存B2Bデータ企業のリードマグネット型ローンチ",
+      "資金調達はソロ起業家にとって普遍的な痛み"
+    ],
+    "concerns": [
+      "完全無料モデルで単体マネタイズ不明、本体DB販売の導線前提",
+      "日本ではsmartround/INITIALが85,000件超の投資家DB+検索機能を無料提供済み",
+      "VCパートナー単位の詳細データ取得は日本では情報粒度が荒く再現困難",
+      "資金調達ニーズの母集団が極めて小さい(年間数千社規模)"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 3,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "2024年に資金調達した日本のスタートアップは約2,869社、シード/アーリー比率は約65%。資金調達ニーズはあるが母集団は数千社規模と限定的。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "smartround(6,900社導入/無料投資家検索+アタックリスト)、StartupList(国内最大級)、INITIAL/Speeda、ANGEL PORT、中小機構マッチングスクエア等が既に占有。差別化余地が極めて狭い。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "投資家データの公開情報利用は基本的に問題ないが、個人投資家プロフィールは個人情報保護法・適合性確認の観点で配慮必要。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "日本のVCパートナー情報は米国ほどLinkedIn/公開ブログでの開示が進んでおらず、創業者背景データの粒度確保が困難。日本語UIと国内VC網羅性の両方が必須。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の資金調達は紹介経由のウェット文化が強く、データドリブンなターゲティングよりも人脈仲介(VC紹介・アクセラ・smartround等)の方が実効性が高い傾向。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "smartround",
+        "url": "https://jp.smartround.com/",
+        "note": "6,900社超導入。INITIAL連携で85,000件超の投資家DB+アタックリスト機能を無料提供。日本市場では最強の代替。"
+      },
+      {
+        "name": "StartupList",
+        "url": "https://www.startuplist.jp/",
+        "note": "国内最大級の起業家・投資家マッチング。月16,500円で能動検索可。審査制で質を担保。"
+      },
+      {
+        "name": "INITIAL/スピーダ スタートアップ情報リサーチ",
+        "url": "https://initial.inc/",
+        "note": "投資家・ファンド情報DB。エンタープライズ向け有料だがsmartround経由で実質無料アクセス可能。"
+      },
+      {
+        "name": "ANGEL PORT",
+        "url": "https://angl.jp/",
+        "note": "エンジェル投資家プロフィール公開型コミュニティ。エンジェル領域で強い。"
+      },
+      {
+        "name": "中小機構スタートアップマッチングスクエア",
+        "url": "https://j-net21.smrj.go.jp/",
+        "note": "公的機関による無料マッチング。VC/CVC/海外投資家まで網羅。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "VCパートナー個人や投資先創業者の経歴データを集約・公開する場合、公知情報の範囲を超える要素や名寄せには配慮必要。"
+      },
+      {
+        "law": "金融商品取引法(投資勧誘)",
+        "impact": "投資家マッチング自体は仲介に該当しない設計なら問題ないが、未公開株勧誘や手数料取得の場合はライセンス要件が発生する可能性。"
+      }
+    ],
+    "opportunity": "正面突破は厳しい。狭い切り口としては、(1)日本VCパートナーの公開記事/ブログ/X投稿をAI要約してテーマ別に整理する『日本VCパートナー解説』ニッチ、(2)業界特化(Deep Tech/SaaS/バイオ)でパートナー別投資傾向を可視化する有料ニッチDB、(3)海外VC(NEA/Khosla等が日本投資を活発化)向け日本創業者マッチング、程度に限定される。",
+    "rationale": "日本市場ではsmartroundが85,000件超の投資家DBと検索/アタックリスト機能を無料提供済みで、ユーザー6,900社という圧倒的なネットワーク効果を構築している。StartupList、INITIAL、ANGEL PORT、中小機構など競合が層をなしており、新規参入の余地は極めて小さい。さらに日本のVCパートナー情報は米国ほどLinkedIn等で開示されておらず、AIマッチングの精度確保が困難。資金調達ニーズの母集団も年間数千社と限定的で、無料モデル前提では収益化が極めて難しい。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "本体(Crustdata)は無料リードマグネット運用。スタンドアロンSaaS化する場合、起業家は資金調達直後に解約する一過性顧客で継続課金困難。年間調達社数も少なく従量課金も成立しにくい。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "日本の年間資金調達社数約2,869社、月額3,000円課金で全社獲得しても月860万円程度。実獲得は1〜3%が現実的で月10〜30万円規模の超ニッチ市場。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "TwitterやnoteでのVC解説コンテンツ・資金調達ノウハウ発信が有効だが、smartroundやXなどに先行された認知獲得は困難。アクセラ/VC提携が現実的だが個人開発者には敷居高い。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "日本VCシーンへの海外マネー流入(NEA、Khosla等)で英文プロフィール需要は微増。ただし国内市場としてのSaaSタイミングは特に好機ではない。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "VCパートナーのデータ収集と継続更新(投資先・人事異動・新ファンド)の運用負荷が重く、ソロ開発で品質維持が困難。スクレイピングの法的リスク管理も必要。"
+      }
+    },
+    "rationale": "ターゲット顧客(年間数千社の資金調達中スタートアップ)が小さく、かつ無料代替(smartround、中小機構)が極めて強力。マネタイズは継続課金が成立しにくい一過性顧客構造で、月額化しても月収数十万円のニッチに留まる。データ運用負荷もソロ向きではない。本家InvestorFinderと同様に本体B2B DB販売のフロントエンドとして使う戦略でないと採算が合わない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: 基本検索+月5件まで詳細閲覧",
+        "Pro 月3,000円: 無制限閲覧+アタックリスト+CSVエクスポート",
+        "Team 月9,800円: 共同編集+ピッチ進捗管理(VC側との共有不要)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "シード〜シリーズAで資金調達中のスタートアップ創業者、特にネットワークの薄い初回起業家・地方創業者",
+      "target_count": 3000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 135000
+    },
+    "recommended_gtm": [
+      "noteやXで『日本VCパートナー○人の投資傾向まとめ』等のコンテンツマーケ",
+      "アクセラレータ・大学起業部・地方インキュベータとの提携で無料配布",
+      "ピッチコンテスト/Demo Day会場での出展・スポンサー",
+      "資金調達経験者起業家のレファラル制度",
+      "Product Hunt JapanやICCサミット等での露出"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "smartround/INITIALが無料で同等機能を既に提供しており差別化が極めて困難",
+      "顧客が資金調達完了で解約する一過性構造でLTVが伸びない",
+      "日本VCパートナーの公開情報粒度が低くマッチング精度を担保しにくい",
+      "VCパートナー本人からのデータ削除要請リスク(個人情報保護法)",
+      "ターゲット母集団が年間数千社と小さく、TAM自体が限定的"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

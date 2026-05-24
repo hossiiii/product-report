@@ -1,0 +1,300 @@
+{
+  "name": "Kelviq",
+  "description": "Payments, tax, and billing for SaaS & AI companies",
+  "ph_url": "https://www.producthunt.com/products/kelviq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/F6U3WKKQYBLXSI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-12T07:01:00Z",
+  "upvotes": 529,
+  "comments": 96,
+  "topics": [
+    "Payments",
+    "SaaS",
+    "Developer Tools"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi Product Hunt 👋<br></p><p>I'm Sachin, co-founder of Kelviq.<br></p><p>For the past few months, we've been building Kelviq, and we're excited to finally share it with you.</p><p><br>Kelviq helps SaaS, AI, and digital products sell globally without rebuilding billing infrastructure from scratch.<br></p><p>It handles payments, checkout, global taxes, compliance, subscriptions, digital file delivery, license keys, usage-based billing, credits, feature access, and payouts in one place.</p><p><br>We built this because we kept seeing the same problem through our other product, ParityDeals.</p><p><br>Adding a payment gateway is easy. Building the full monetization layer around it is not.</p><p><br>Once you start charging for features, seats, usage, credits, API calls, or AI tokens, you usually end up building a lot of custom infrastructure:</p><ul><li><p>Webhook listeners to sync payment events into your database</p></li><li><p>Subscription tables to track who has access to what</p></li><li><p>Retry logic for missed or failed events</p></li><li><p>Custom usage tracking</p></li><li><p>Feature flags tied to pricing plans</p></li><li><p>Scripts for upgrades, downgrades, prorations, and grandfathered users</p></li></ul><p>Over time, pricing becomes tightly coupled with your codebase. Changing a plan, moving a feature, adding usage limits, or launching a new pricing model often requires engineering work, database changes, and a deployment.<br><br><br>We wanted to make all of this much simpler. With Kelviq, you can:</p><ul><li><p><strong>Get started in minutes:</strong> You don't have to handle dozens of webhooks, build a database layer to track customers, manage subscription states, or hardcode feature access. Kelviq provides a single, unified system.</p></li><li><p><strong>Handle Global Tax &amp; Compliance Automatically:</strong> As your Merchant of Record, Kelviq takes on the full liability for global sales tax (VAT, GST, etc.), fraud, and regulatory compliance. You can sell in 100+ countries without ever registering for a foreign tax ID.</p></li><li><p><strong>Run any pricing model:</strong> Flat fee, usage, seats, tiers, volume, credits, pay-as-you-go, overage charges, or hybrids. Configure them in minutes.</p></li><li><p><strong>Sell digital products with ease:</strong> Securely deliver files, e-books, or software on purchase and automatically generate license keys to validate customers.</p></li><li><p><strong>Meter usage in real time:</strong> Count every API hit, data storage unit, or AI tokens in real time. Set soft or hard caps, pick reset cycles, send alerts, and handle overages with one call.</p></li><li><p><strong>Control feature access:</strong> Define features per plan. Turn them on or off and check access in your app with one SDK call.</p></li><li><p><strong>Localized pricing by country:</strong> Offer country-specific prices in 135+ currencies with VPN, proxy, and fraud protection built in. You can also set up promotions for specific countries.</p></li><li><p><strong>Ship pricing changes without touching code:</strong> A/B test plans, roll out changes, or update pricing in real time without redeploys.</p></li></ul><p><strong>Manage the full customer lifecycle:</strong> Handle upgrades, downgrades, migrations, overrides, and grandfathering without writing custom scripts.<br><br><br><strong>We are also running a special founder offer right now:</strong><br>2.9% + 40¢ per transaction for your first $5K in volume. After that, just 3.5% + 40¢ per transaction.</p><p><br>We'd love your feedback, questions, and suggestions.<br></p><p>Thank you for checking out Kelviq 🙏</p>",
+      "votesCount": 30,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Id use this over Stripe.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch 🙌 </p><p>Does Kelviq handle reverse-charge VAT for B2B sales within the EU automatically (valid VAT ID = no tax charged)?  </p><p></p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Kelviq is the complete monetization platform for SaaS, AI, and digital products. It handles payments, global tax, subscriptions, usage-based billing, digital delivery, license keys, and compliance in one place, for 3.5% + 40¢ per transaction.",
+  "featured_at": "2026-05-12T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/32ae2061-842f-4d89-8368-d892a7290a3c.x-icon",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/463397a2-5105-404d-941e-acda5b72d01e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/48ac58ef-453b-4b95-bfab-8f147caf8d8e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/24e27eee-f9ba-43e7-89f2-71d128406498.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/aaa70824-d109-4be3-bce7-c0dcd8ff347e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/add1c179-45ff-4de0-b55c-1732c0cf32e1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e5122193-b444-4178-9ad3-7f95a22c67c4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6b663f5b-a16a-41d4-8667-b6858ddca0a4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4d76e2f3-24d5-49e7-9082-f0467af555cb.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d205222a-1814-4b0d-ab23-11ec4f44696f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/eec96f54-625f-4247-9f7b-182d80a2a89b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/67a0f8b8-07bc-4dc0-8943-031813f136a9.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/37fc6879-5210-42b5-a987-dfb26a4d79d8.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:11",
+  "landing_meta": "Kelviq — Merchant of Record & Usage Billing for SaaS and AI agents | Global Tax & Payments — Kelviq — Kelviq is the all-in-one merchant of record and payment system for SaaS and AI. Run subscriptions, entitlements, usage metering, and global tax.",
+  "landing_text": "Kelviq — Merchant of Record & Usage Billing for SaaS and AI agents | Global Tax & Payments — Kelviq The home of global software monetization. built by builders, for builders Payments, usage billing, tax, and Merchant of Record in one system, built for SaaS and AI companies. Get started Request a demo SOFTWARE MONETIZATION Build your product . We’ll handle the rest One platform for payments, tax, pricing, and feature access, so you can sell globally without stitching together billing infrastructure. Flexible pricing models Deploy flat fee, per seat, usage, volume, credits, one-time payments, overages, and hybrid pricing. Global payments & tax Accept 135+ currencies and local payment methods. We handle tax nexus, VAT, and liability as your merchant of record. Dynamic entitlements Gate features, cap usage, and enforce credit limits. Issue license keys and deliver digital downloads. Real-time metering Ingest events at scale with zero latency. Track every AI token, API call, compute unit, or active user. REVENUE INFRASTRUCTURE Your entire revenue stack, unified. Kelviq brings checkout, real-time usage metering, entitlements, tax compliance, and global payments into one system. BILLING AND USAGE Billing and usage in one system Run subscriptions, usage, and one-time payments side-by-side. We keep them in sync so your invoices always match reality. Model any pricing strategy Mix flat fees, per-seat, and tiered usage in one plan. Handle overages, minimum spend, and rollover credits. Change limits and prices without touching code. Meter usage in real-time Track API calls, tokens, AI agents, storage, or custom units. Update meters instantly. No processing lag. Link every invoice line item back to a raw event log. GLOBAL COMPLIANCE Scale globally without the tax liability Sell in every major global market without opening a local entity. We act as the merchant of record to shield you from global tax nexus and compliance risk. Global payments and payouts Accept 135+ currencies an",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "$5"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:11",
+  "description_ja": "SaaS・AI・デジタル製品向けの統合マネタイズ基盤。決済、グローバル税務、サブスク、従量課金、ライセンス管理、エンタイトルメントを Merchant of Record として一括提供。",
+  "summary_ja": "Kelviq は Paddle / Lemon Squeezy / Polar と同じ MoR (Merchant of Record) 型の課金基盤で、決済代行に加え世界の VAT・GST・米国売上税の責任を肩代わりする。AI トークンや API コール単位のリアルタイム従量計測、エンタイトルメント、ライセンス発行、A/B 価格テストまで 1 SDK で扱える。手数料は 3.5% + 40¢（初期 5K ドルは 2.9% + 40¢）。",
+  "tldr_ja": "海外向け SaaS/AI を売る個人開発者の決済・税務・課金を丸投げできる MoR 統合プラットフォーム。Paddle/Polar の正面競合。",
+  "review_guide_ja": {
+    "what": "Stripe のような単純な決済ゲートウェイではなく、Paddle / Lemon Squeezy / Polar と同じ MoR モデル。販売者の代わりに Kelviq が世界各国の税務登録・徴収・納税を負担し、開発側は ARR インフラ（サブスク、従量、シート、クレジット、ライセンス）を SDK 1 本で組み込める点が中核。AI 時代のトークン課金やエンタイトルメント制御まで一気通貫なのが特徴。",
+    "for_who": "海外（特に米欧）の個人ユーザーや小規模 B2B に SaaS / AI ツール / デジタルダウンロードを売りたい個人開発者・少人数スタートアップで、税務処理を自分でやりたくない層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "MoR を名乗るには各国での税務代理人登録・KYC・与信・チャージバック対応が必要で、個人開発レベルでの自前構築は実質不可能。"
+    },
+    "signals": [
+      "PH 上で 529 upvotes / 96 コメントと開発者向けカテゴリで強い反応",
+      "Stripe 買収後の Lemon Squeezy の停滞と Polar の台頭で MoR 市場が再編期",
+      "AI トークン課金・クレジット課金需要が GitHub Copilot 等の動向で急増",
+      "同社の既存プロダクト ParityDeals でローカライズ価格の顧客基盤を保有"
+    ],
+    "concerns": [
+      "Paddle / Lemon Squeezy(Stripe) / Polar / Dodo と既に多数のレッドオーシャン",
+      "3.5% + 40¢ は Polar の 4% + 40¢ より僅差・Paddle 5% + 50¢ より安いが、Stripe 直接利用 3.6% より割高な国もある",
+      "日本円・JPY 建てサポートと国税庁向け適格請求書(インボイス)発行可否が不透明",
+      "MoR ゆえに新規プレイヤーは信頼性・チャージバック耐性で実績が必須"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "海外向け SaaS/AI 個人開発者の間で MoR ニーズは確実に存在し、note 等で Polar や Lemon Squeezy の比較記事が継続して書かれている。一方で国内向け B2B SaaS の主流は依然 Stripe Billing+自社対応。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Stripe / Stripe Billing / Paddle / Lemon Squeezy / Polar / Dodo Payments など強力な既存プレイヤーが既に同じ層を奪い合い、Polar が手数料・実装容易性で先行。後発の Kelviq は差別化が薄い。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "国外事業者が国内事業者向けに電気通信利用役務を提供する際は消費税のリバースチャージや適格請求書(インボイス)対応が必要。Kelviq がインボイス番号を取得・領収書発行に対応しないと国内 B2B 顧客の仕入税額控除に支障。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "135 通貨対応を謳うが、JPY 表記・コンビニ決済・銀行振込・請求書払いなど日本固有の決済手段サポートは不明。日本語 UI / 日本語サポートも未提示で、買い手側(購入者)体験には不安。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本企業は SaaS 購入時に紙/PDF 請求書、源泉所得税、会社契約・与信、年度末締めなど海外型 MoR と相性が悪い慣習が残る。個人開発者の海外売り上げ用途では問題ないが、国内 B2B には浸透しづらい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Stripe (Stripe Billing)",
+        "url": "https://stripe.com/jp/billing",
+        "note": "日本円ネイティブ・JCB 対応・国内法人サポートで国内 SaaS の事実上の標準。MoR ではないため税務は自社負担。"
+      },
+      {
+        "name": "Paddle",
+        "url": "https://www.paddle.com/",
+        "note": "MoR 老舗。日本からの利用例多数だが手数料 5%+50¢ で高め、ローカル決済は限定的。"
+      },
+      {
+        "name": "Lemon Squeezy (Stripe 傘下)",
+        "url": "https://www.lemonsqueezy.com/",
+        "note": "個人開発者人気だったが Stripe 買収後の方向性が不透明。日本人ユーザーの不満記事も増加。"
+      },
+      {
+        "name": "Polar.sh",
+        "url": "https://polar.sh/",
+        "note": "4%+40¢ の低手数料 MoR。Next.js / MCP 等の DX で個人開発界隈の支持を急拡大。Kelviq の最大の直接競合。"
+      },
+      {
+        "name": "Dodo Payments",
+        "url": "https://dodopayments.com/",
+        "note": "新興 MoR。インドベース、Kelviq と同様のポジショニング。"
+      },
+      {
+        "name": "ROBOT PAYMENT サブスクペイ",
+        "url": "https://www.robotpayment.co.jp/",
+        "note": "国内法人向けサブスク課金代行の代表格。MoR ではないが国内 B2B のインボイス・口座振替に強い。"
+      },
+      {
+        "name": "GMO ペイメントゲートウェイ",
+        "url": "https://www.gmo-pg.com/",
+        "note": "国内決済の老舗。サブスクオプション・コンビニ決済を備え国内顧客向け SaaS で広く利用。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "消費税法（電気通信利用役務の提供、リバースチャージ方式）",
+        "impact": "国外 MoR が日本の事業者(B2B) に SaaS を販売する場合、受け手側にリバースチャージ義務が生じる取引区分があり、Kelviq 側が適切に「事業者向け／消費者向け」を判定・表示しないと購入側で課税仕入控除トラブル。"
+      },
+      {
+        "law": "インボイス制度（適格請求書等保存方式、2023/10〜）",
+        "impact": "国内 B2B 顧客が仕入税額控除を受けるには適格請求書(登録番号入り)が必要。海外 MoR は適格請求書発行事業者登録を行わない例が多く、国内法人売上に対しては顧客側のコスト増要因となる。"
+      },
+      {
+        "law": "資金決済法 / 前払式支払手段",
+        "impact": "Kelviq の「クレジット」「ライセンスキー」機能を国内事業者が自社プロダクト向けに前払いチャージとして販売すると、第三者型前払式支払手段に該当し財務局登録が必要になる可能性。販売者側の規制リスクとして要注意。"
+      },
+      {
+        "law": "特定商取引法 / 景品表示法",
+        "impact": "日本のエンドユーザーに販売する場合は特商法表記・解約導線・通貨表示の明示が必要。MoR が代行する場合でも、表示責任は実質的な販売者である開発者に残るケースが多い。"
+      }
+    ],
+    "opportunity": "「海外向けに SaaS / AI を売りたい日本の個人開発者」が手数料を抑えて MoR を使う選択肢は増えており、Kelviq もその選択肢の 1 つになり得る。ただし日本市場特有の機会は限定的で、むしろ『国内 B2B 向けに、インボイス対応 + 銀行振込 + 与信 + サブスクを一気通貫で出す国産 MoR』のニッチが空いている。Kelviq のローカライズが進まない限り、日本人開発者は『海外売り＝Polar、国内売り＝Stripe』の二択を続ける。",
+    "rationale": "プロダクト自体は世界的には需要があるが、Kelviq そのものは『日本市場での新規事業機会』とは言いがたい。後発の海外 MoR で、Polar / Paddle / Lemon Squeezy に対して決定的な差別化が無く、日本独自の規制(インボイス、リバースチャージ)や慣習(振込・特商法表記)への対応も未確認。日本の個人開発者にとっては watch 止まり——『どこかが日本専用の MoR を作る』方が遥かに筋が良い、というシグナルとしての価値が大きい。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "決済額の 3.5% + 40¢ の取り分は MoR としては標準的で、顧客の売上が伸びるほど線形にレベニューが乗る優れたモデル。スケール時の単価も高い。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "世界の SaaS / AI 課金 TAM は巨大だが、Kelviq が新規プレイヤーとして取れる SAM は限定的。日本に絞ると国内 SaaS 市場 1.5 兆円規模のうち MoR 利用層は数%。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "Polar が既に開発者コミュニティを押さえつつあり、Twitter / Zenn / note 上で先行記事多数。Kelviq が後追いで GTM するには ParityDeals 経由の既存顧客流入が必須。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "AI トークン課金、Usage-based billing の波で MoR 需要は加速中。一方、Stripe による LS 買収・Polar 急成長で『主要プレイヤーが概ね定まりつつある』終盤局面でもある。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "MoR 自体は個人開発者が単独で運営できる事業ではない（税務代理人、コンプライアンス、チャージバック、KYC、24/7 サポート）。本案件を『同じものを作る』方針で日本のソロ開発者が継続するのは現実的でない。"
+      }
+    },
+    "rationale": "プロダクト自体の単価×粘着性は高く、世界規模で見れば事業として成立する。だが本レポートの読み手である個人開発者・小規模チームにとっては『Kelviq 競合を自作する』選択肢が現実的でなく、せいぜい『Kelviq を使う / 国内特化 MoR の薄いラッパーを作る』にとどまる。グローバルプラットフォームとしての成功確度は中程度。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 45000,
+      "plans": [
+        "Pay-as-you-grow: 取扱高に対し 3.5% + 40¢ (個人開発者の MRR $1-3K 想定で月額 3,500-15,000 円換算)",
+        "Founder Offer: 初回 $5K まで 2.9% + 40¢ で導入障壁を下げる",
+        "Enterprise: 月額固定 + 取扱高ディスカウント (年商 $1M+ 向け、想定 ARPU 数十万円)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "海外（特に英語圏）向けに SaaS / AI ツール / デジタルダウンロードを販売、または販売したい日本の個人開発者・少人数スタートアップ。すでに Stripe / Gumroad / Polar / LS のいずれかを使用中または検討中の層。",
+      "target_count": 8000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 5400000
+    },
+    "recommended_gtm": [
+      "Zenn / Qiita / note で『Polar vs Kelviq vs LS』比較記事を書き、SEO 流入を狙う",
+      "ParityDeals 既存顧客から日本ユーザーを掘り起こしクロスセル",
+      "国内インディハッカー Discord / X コミュニティでの実装ハンズオン配信",
+      "日本円・JPY ローカル価格表示と特商法表記テンプレを目玉機能として打ち出す",
+      "適格請求書(インボイス)発行事業者登録を済ませ、国内 B2B 向けに領収書発行可能とアピール"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Polar / Paddle / LS との価格・機能競争で後発の優位性を示せず埋没",
+      "日本のインボイス制度・リバースチャージへの対応不備で国内 B2B 顧客から敬遠",
+      "MoR としての税務代理・チャージバック対応に高い運用コストが必要、個人/小チームでは追従不可",
+      "Stripe が MoR 機能を Lemon Squeezy 経由で本格統合し市場を一気に飲み込むシナリオ",
+      "日本円や JCB・コンビニ・銀行振込未対応のままだと国内エンドユーザー向け SaaS で使えない"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_evaluated_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0"
+}

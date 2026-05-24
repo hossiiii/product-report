@@ -1,0 +1,196 @@
+{
+  "name": "CodeHealth MCP Server by CodeScene",
+  "description": "Keep AI-generated code healthy and maintainable",
+  "ph_url": "https://www.producthunt.com/products/codescene-codehealth-mcp-server/launches/codehealth-mcp-server-by-codescene?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/7OEHF3AEEFZJCD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-29T07:01:00Z",
+  "upvotes": 219,
+  "comments": 88,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence",
+    "Vibe coding"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p></p><p>I’m Adam Tornhill, a software developer for over 30 years.</p><p></p><p>I’ve spent the past decades watching teams plan to fix technical debt... and then not do it.</p><p></p><p>Now we’ve added AI to the mix, which is fantastic at writing code fast. Unfortunately, it’s just as good at scaling your technical debt if you let it.</p><p></p><p>This is where it gets interesting: AI agents depend on code health even more than we do.</p><p></p><p>Sceptical? Here's what the research shows:</p><ul><li><p>AI increases <a href=\"https://codescene.com/hubfs/whitepapers/AI-Ready-Code-How-Code-Health-Determines-AI-Performance.pdf\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">defect risk by more than 60%</a> when working in unhealthy code</p></li><li><p>At low code health, AI wastes 35–50% more tokens unnecessarily</p></li><li><p>Most codebases <a href=\"https://codescene.com/blog/making-legacy-code-ai-ready-benchmarks-on-agentic-refactoring\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">aren’t even close to AI-ready</a></p></li></ul><p>AI is an accelerator. It amplifies both good and bad in your codebase. So AI doesn’t make technical debt less important. It makes it critical.</p><p></p><p>That’s why we built the CodeHealth MCP. It plugs code health directly into your workflow so your AI can:</p><ul><li><p>Auto-review AI-generated code before it becomes a problem.</p></li><li><p>Safeguard code health so it stays maintainable</p></li><li><p>Help uplift unhealthy code to make it AI-ready</p></li></ul><p>Generating code fast is easy.</p><p>Healthy systems at AI speed are the real challenge.</p><p></p><p>👉 Try it for free. Your code will notice: <a href=\"https://codescene.com/product/code-health-mcp\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://codescene.com/product/code-health-mcp</a></p>",
+      "votesCount": 46,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Been a CodeScene user for a while, so when the CodeHealth MCP Server dropped I jumped on it immediately and it's been a great addition to my workflow.</p><p>As someone who leans heavily into vibe-coding, having real-time CodeHealth feedback baked directly into my AI coding assistant is a game changer. It catches the kind of subtle technical debt that accumulates fast when you're moving quickly and letting the AI do the heavy lifting. Instead of ending up with a pile of \"works but nobody should touch this\" code, I actually ship things I'm not embarrassed by later.</p><p></p><p>If you're already a CodeScene user, this is a no-brainer. And if you're new to it this is a great entry point. The deterministic health scoring gives you something concrete to improve toward, which is way more actionable than vague AI suggestions.</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This hits a nerve. When I was CTO scaling an engineering team from 15 to 120 people, code review was already our biggest bottleneck - senior engineers spending 30-40% of their time reviewing junior code. Now multiply that by AI-generated PRs that look clean on the surface but silently introduce coupling and complexity. The fact that CodeHealth MCP runs deterministic checks locally is the right call - you need something that catches structural issues before they compound, not after three sprints of building on top of them. Curious how the feedback loop works in practice: when an agent gets a CodeHealth warning, does it typically self-correct in one pass or does it tend to need multiple iterations to converge on healthy code?</p>",
+      "votesCount": 14,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "CodeHealth MCP Server ensures agents and AI coding assistants write maintainable, production-ready code without introducing technical debt. Using deterministic CodeHealth feedback, it guides agents to spot risks, improve unhealthy code, and refactor toward clear quality targets. Run it locally and keep full control of your workflow while making legacy systems more AI-ready. The result is more reliable AI-generated code, safer refactoring, and greater trust in real engineering workflows.",
+  "featured_at": "2026-04-29T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/7c98e09f-56db-472b-9812-808a9d1f0885.gif",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/9ba87788-2831-43d3-acaa-57baf688fd32.gif"},
+    {"type": "image", "url": "https://ph-files.imgix.net/98bdf2dd-038d-4f38-abb6-80e8486516c2.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/4c0428ae-aecf-43fc-a793-833626a410d6.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/151e32c2-b29f-4cd0-b482-3761dadf7e2e.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/819e05e2-c772-4fee-abbb-fd8987f85733.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/a0af58c0-2156-4948-93d4-f7c9d621623f.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/6f6e27a5-9943-4d7b-9845-83822827ba40.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/9d5ce096-e5a5-47d5-b53f-bce42e9cedb7.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:55",
+  "landing_meta": "CodeHealth™ MCP Server | CodeScene — Give AI coding assistants code health guidance to detect and resolve code health issues, keeping code maintainable and helping legacy systems become AI-ready.",
+  "landing_text": "CodeHealth™ MCP Server | CodeScene Select your location To set up your account correctly, please select where you are located. Select your account region: International United States Remember my choice for future visits Set up my trial Save selection Setting up your trial... MCP Server CodeHealth™ MCP Server Enable AI coding assistants to detect and fix code health issues using CodeHealth™ guidance, keeping code maintainable and making legacy code AI-ready. Free trial How it works ◇ Copilot Chat MCP: codescene-code-health CodeHealth™ We created CodeHealth , a metric that predicts where AI coding agents will perform reliably and where they are likely to fail. MCP Server Productized in the CodeHealth™ MCP Server for safe, high-quality AI coding. Code health determines AI performance Without structural guidance, frontier LLM models only fix ~20% of the code health issues. With MCP-augmented CodeHealth™ data, fix rates reach 90–100% and break rate declines as code health improves. 20% Without structural guidance, frontier models fix only ~20% of the code health issues. See the results 90-100% With MCP-augmented CodeHealth™ guidance, fix rates reach 90–100%. See the benchmarks 60% 60% lower defect risk when AI works on healthy code. Read our research How does it work? STEP 1 Install the MCP server locally Run the MCP server locally, fully under your control. Model-agnostic, it supports AI assistants and agents out of the box. STEP 2 AI guided by CodeHealth™ As AI writes code, the server checks changes against CodeHealth™ signals, detecting risk and preventing tech debt. STEP 3 Self-correcting feedback loop Every change is checked automatically. If risk increases, feedback is returned so the AI adjusts and retries in real time. STEP 4 AI code is re-evaluated The AI refactors for maintainability, not passing tests. The code is re-evaluated until CodeHealth™ thresholds are met. STEP 5 AI code you'd approve When AI completes the task, code is easier to review and evolve, so ",
+  "pricing_signals": [
+    "free trial",
+    "open source",
+    "open-source",
+    "subscription",
+    "pricing",
+    "$8",
+    "$86",
+    "$25",
+    "$22",
+    "$9"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:57",
+  "description_ja": "AI生成コードの健全性を保つMCPサーバー。CodeHealth指標でAIアシスタントに構造的フィードバックを与え、技術的負債の蓄積を防ぐ。",
+  "summary_ja": "CodeSceneが提供するローカル実行のMCPサーバーで、Cursor/Claude Code/GitHub Copilot等のAIコーディングエージェントに、決定論的なCodeHealthスコアを通じてリファクタリング指示を返す。AIが書いたコードを自動レビューし、レガシーコードをAI-Ready化することを目的とする。MCP拡張時のバグ修正率は20%→90-100%に改善との社内ベンチマーク。",
+  "tldr_ja": "AIコーディング時にCodeHealth指標で構造的負債を即時フィードバックし、AI生成コードの保守性を担保するMCPサーバー。",
+  "review_guide_ja": {
+    "what": "CodeSceneが提供するCodeHealth™解析をMCPサーバー経由でCursor/Claude Code/CopilotなどのAIアシスタントに統合する開発者向けツール。AIが生成・修正するコードをリアルタイムで構造解析し、複雑度/結合度/重複などの劣化を検出してAI自身にリファクタを促す自己修正ループを形成する。ローカル実行でコードは外部に送信されない点と、決定論的（=毎回同じ結果）なルールベース解析である点が特徴。",
+    "for_who": "AIコーディング比率が高くなりつつあるエンジニア、特にレガシーコードを扱うシニア層やCTO/テックリード。個人開発者には品質ゲートとして利用価値あり。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "CodeHealth指標自体が10年以上の研究蓄積に基づく独自IPで、決定論的かつ低偽陽性な静的解析エンジンを個人開発で再現するのは現実的でない。"
+    },
+    "signals": [
+      "PH 219 upvotes / 88 comments で開発者の関心は高い",
+      "Cursor/Claude Code/Copilotの急速普及によりMCP統合の需要拡大",
+      "経産省2025年の崖など日本でも技術的負債への関心が高まる",
+      "月$9と個人開発者にも手の届く価格設定",
+      "30日無料トライアルあり、参入障壁が低い"
+    ],
+    "concerns": [
+      "UI/ドキュメントが英語のみで日本語化されていない",
+      "SonarQube/Coverityなど既存静的解析が日本エンタープライズに深く浸透",
+      "CodeHealthスコアの解釈に学習コストが必要",
+      "MCP規格の標準化動向に依存するためロックインリスク",
+      "AIエージェントが警告を素直に従うかは利用LLM次第"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "2025年の崖・技術的負債への危機意識は強く、AIコーディング普及で『AIが負債を量産する』懸念は実需化しつつある。一方でCodeHealthという指標自体の認知は低い。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "SonarQube(Cloud月$32〜)/Coverity/Veracodeなど既存静的解析が日本のエンタープライズに深く食い込む。ただしMCP経由でAIエージェントに統合する角度はCodeSceneがリード。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "ローカル実行でコードは外部送信されないため情報漏えい懸念が小さく、業界規制も実質ない。エンタープライズの情報セキュリティ稟議を通しやすい。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI/ドキュメント/価格表記が英語＋USD・EURのみ。日本語サポートや国内代理店も限定的で、エンタープライズ営業には不向き。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "海外SaaSの直接購入に慣れた個人開発者層には届くが、大企業はベンダーロックや代理店経由を好む傾向。請求書・年契約・日本語SLAが弱い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {"name": "SonarQube (Cloud/Server)", "url": "https://www.sonarsource.com/", "note": "日本でも代理店多数。Cloud月$32〜、Server年額LOCベース。AI CodeFix機能も追加済みで直接競合。"},
+      {"name": "Synopsys Coverity", "url": "https://www.synopsys.com/", "note": "日立ソリューションズ/オージス総研が販売。損保ジャパン/富士フイルムBI/SEGAなど大企業導入実績。"},
+      {"name": "Veracode", "url": "https://www.veracode.com/", "note": "セキュリティ寄りSAST。日本でも金融/SIerに導入実績あり。"},
+      {"name": "GitHub Advanced Security (CodeQL)", "url": "https://github.com/features/security", "note": "GitHub Enterpriseの一機能として日本でも急速に浸透。CopilotとのバンドルでAIコード解析の主流に。"}
+    ],
+    "regulatory_findings": [
+      {"law": "改正個人情報保護法", "impact": "ローカル実行のため自社コード/秘匿情報の越境移転は発生せず、影響は限定的。"},
+      {"law": "経済安全保障推進法 (重要基盤)", "impact": "重要インフラ事業者ではサプライチェーン上の海外SaaS利用に審査が必要となる可能性。"}
+    ],
+    "opportunity": "AIコーディング普及により『コードを書く速さ』より『品質を保つ仕組み』が稀少資源になる転換点で、MCP経由でAIエージェントに直接フィードバックする角度は既存SAST勢にない優位性がある。日本ではClaude Code/Cursor導入企業を中心に『AIが生んだ技術的負債の可視化』という切り口で開発者コミュニティ→DevOpsチームへの浸透余地がある。",
+    "rationale": "規制リスクと参入障壁(規制軸)はほぼなく、技術的負債への日本市場の関心も高い。一方で日本語化されていない海外プロダクトであり、SonarQube/Coverity/GHASといった先行プレイヤーが大企業を押さえている現実から、エンタープライズに正面突破するのは難しい。月$9という個人/小チーム向け価格と『AIコード品質ゲート』という新しい切り口で、まずはAIコーディング先進ユーザーに watch ポジションが妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "月$9のシート課金で個人開発者にも手の届く価格。30日無料トライアル＋年払い10%引き。CodeScene本体への引き上げ導線もあり収益化設計は明快。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "日本のソフトウェア従事者は約67万人だが、AIコーディング積極利用層は数〜十数万人規模と推定。コアターゲットはニッチだが拡大中。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "海外発・英語UIのプロダクトを日本の開発者に届けるのはコミュニティ/技術ブログ/Qiita等のオーガニック頼みになりがち。代理店ネットワークも未整備。"
+      },
+      "timing": {
+        "score": 8,
+        "reason": "MCP規格の急速普及(2026年3月で月9700万DL)、Claude Code/Cursor/Copilotの企業導入加速、AIコード爆増による負債懸念のピーク化と完全に追い風。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "CodeHealth相当の決定論的解析エンジンを個人で構築・運用するのは事実上不可能。CodeScene等の既存プラットフォーム上に乗る前提でないと成立しない。"
+      }
+    },
+    "rationale": "タイミングは申し分なく価格も合理的だが、本プロダクトは静的解析エンジンを持つCodeScene本体ありきで成立しているため、個人開発者が同種を作る余地は薄い。日本市場では既存SAST勢が大企業を押さえる中、AI×MCPの角度は新しいものの、GTMが英語コミュニティ依存になりやすく『眺めて学ぶ』対象に留まる可能性が高い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 1400,
+      "plans": [
+        "Free trial 30日 (全機能)",
+        "Individual 月$9 (約1,400円) シート課金",
+        "Team 月額シート課金＋管理機能 (将来)",
+        "Enterprise 年契約＋日本語SLA＋代理店経由 (要相談)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Cursor/Claude Code/Copilotを業務で日常利用し、レガシーコードや中規模以上のコードベースを扱う日本のシニアエンジニア・テックリード",
+      "target_count": 100000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 700000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn技術記事でCodeHealth指標の解説と日本語チュートリアル",
+      "Claude Code/Cursor日本コミュニティ(Discord/Slack)でのデモ配信",
+      "国内SIer/受託開発企業向けに『AIコード品質監査』としてホワイトペーパー配布",
+      "Findy/LAPRAS等エンジニア向けメディアで『2025年の崖×AIコーディング』切り口の寄稿",
+      "国内代理店(オージス総研/日立ソリューションズ等の既存SAST販社)とのアライアンス検討"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "SonarQube/GitHub Advanced SecurityがMCP統合を出すと角度の優位性が消失",
+      "日本語化・代理店網がない状態ではエンタープライズに届かず売上が伸びない",
+      "MCP規格自体の標準化方向に依存しすぎるとロックインリスクが顕在化",
+      "CodeHealthスコアが日本のレガシーCOBOL/メインフレーム周辺で機能しにくい",
+      "AIエージェントが警告を素直に従わない/トークン超過で運用コストが嵩む懸念"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z",
+  "japan_fit_updated_at": "2026-05-23T00:00:00Z"
+}

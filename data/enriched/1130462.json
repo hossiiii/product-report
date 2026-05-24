@@ -1,0 +1,236 @@
+{
+  "name": "Lingo.dev v1",
+  "description": "Localization engineering platform for consistent translation",
+  "ph_url": "https://www.producthunt.com/products/lingodotdev/launches/lingo-dev-v1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/IVEPQYVA4UMJAQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-07T07:01:00Z",
+  "upvotes": 231,
+  "comments": 33,
+  "topics": [
+    "API",
+    "Developer Tools",
+    "Artificial Intelligence",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋\n\nThanks for hunting us. Excited to be here!\n\nTwo things changed at once in localization engineering\n\nTeams are switching from legacy machine translation and translation vendors to LLMs. That part is visible. The invisible shift: LLMs without domain context don't localize, they just produce text that looks translated.\n\nLLMs made translation fast. They also made it stateless.\n\nRaw LLMs have no memory of previous decisions. The same term gets three different translations across the product. The results compound silently.\n\nThis is terminology drift. And it's the gap between translation and localization.\n\nTranslation converts text. Localization makes it consistent, domain-aware, and terminologically correct across every locale, every release. That gap is an engineering problem. And nobody had built the infrastructure for it.\n\nUntil lingo.dev v1.\n\nWhat we learned from processing 200,000,000+ words:\n\nWe started at a hackathon in 2023. Won \"Best DevTools.\" Spent 2024 building open-source localization tooling with select early users, design partners, customers, and our Discord community.\n\nBy 2025, we’d processed 200M+ words and teams at Mistral, Solana, SoSafe, and Cal.com were running localization through our infrastructure.\n\nDuring this time, we learnt that every team hit the same wall. LLMs translated fast. But terminology drifted across releases. The model had no memory of previous decisions. Each request started from zero.\n\nThe missing piece was never better models. It was the context pipeline around the model.\n\nThe research that shaped this:\n\nRecently, we published a study: retrieval augmented localization (RAL), injecting glossary terms into the LLM's context at inference time - reduced terminology errors 16.6–44.6% across five LLM providers and five European languages. 42,000+ quality judgments in our published research. \n\nThe finding that mattered most: Mistral models with a 72-term glossary approached Google Gemini's raw quality at a fraction of the per-token cost.\n\nTurns out, Localization quality is a function of configuration, not model spend.\n\nRead the research → <a href=\"https://lingo.dev/research/retrieval-augmented-localization\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://lingo.dev/research/retri...</a>\n\nWhat v1.0 ships:\n\nTeams create stateful localization engines on Lingo.dev, configure it once, and call it from anywhere:\n\n- Glossaries: map source terms to target translations per locale pair, injected at inference time on every request\n- Per-locale model chains: ranked fallback across providers; swap models between releases without touching a single glossary term\n- Brand voice and instructions: define tone per locale, set rules for specific patterns (quotation marks, elision, spelling conventions)\n- AI reviewers: one model translates, another scores by dimension; cross-model quality measurement at scale\n- API, CLI, CI/CD, MCP: synchronous API, async jobs with webhook delivery,&nbsp;npx lingo.dev@latest run, GitHub integration that opens PRs with translations on every push.\n\nWhere this doesn't work:\n\nOne-off translations with no consistency requirements.\nTeams that prefer human-led review workflows may find legacy platforms a better fit.\n\nTry it today:\n\nCreate your first localization engine in under 3 minutes at&nbsp;<a href=\"https://lingo.dev/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://lingo.dev/</a>\n\nBefore we go, there are a few things we're genuinely curious about from this community:\n\n1. If you've localized a product into 3+ languages, what broke first - speed, quality, or consistency? (We have a hypothesis, but I'd love to know your experience.)\n2. If you're a developer who's tried wiring LLM translation into a CI/CD pipeline, what did you have to hack around that you wish was just... handled?\n\nWe've been building in public since 2023, first with select few users, then with our Github community, and now with you all.\n\nHappy to go deep on the RAL research, the engine architecture, glossary injection mechanics, whatever's interesting. \n\nDrop a comment or hit us directly!",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><a href=\"https://www.producthunt.com/products/kilocode\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"kilocode\" target=\"_blank\" rel=\"noopener\">@Kilo Code</a>, <a href=\"https://pay.sh/?ref=producthunt\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">pay.sh</a> by <a href=\"https://www.producthunt.com/products/solanafndn\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"solanafndn\" target=\"_blank\" rel=\"noopener\">@Solana Foundation</a>, now <a href=\"https://www.producthunt.com/products/lingodotdev\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"lingodotdev\" target=\"_blank\" rel=\"noopener\">@Lingo.dev</a>. packed week for the oss ecosystem! lfg</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Pricing is a bit confusing. Can you guys give any indication here or on your website?\n\nFriendly feedback: pricing page is slightly broken on mobile (from iPhone and navigated from producthunt).",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "On Lingo.dev, teams configure localization engines: Stateful translation APIs with glossaries, brand voice rules, per-locale model chains, and AI quality scoring, and then call them via API, CLI, CI/CD, or MCP.",
+  "featured_at": "2026-05-07T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/782b3127-7490-4f72-8e53-95695093cc46.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bb78bcf7-e0cc-4c43-95a1-3a522fe3fbb8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/36985927-5ffe-4229-a5b7-585d4988b29e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bff812e9-da06-4f22-a052-2162909e9560.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:35",
+  "landing_meta": "Lingo.dev – The localization engineering platform — On Lingo.dev, teams configure localization engines that persist glossaries, brand voice, and per-locale model chains, then call them from code, CLI, CI/CD, or MCP.",
+  "landing_text": "Lingo.dev – The localization engineering platform The localization engineering platform. Teams configure localization engines that persist glossaries, brand voice, and per-locale model chains – then call them from backend code, CLI, CI/CD, or MCP. Terminology stays consistent across every locale, every release. Create localization engine Book a Demo Words processed on Lingo.dev: 2 6 6 , 9 8 3 , 2 4 9 Shipped May 17 W20 – API keys split: personal keys, or service keys with their own role A shift in where the work lives. Localization used to sit outside the product – weeks of coordination, translators new to the domain, fresh context every request. Teams that moved it inside the product found it compounds. Before Translation as a vendor relationship. Requests leave the product. Vendors translate without knowing the domain. Every turnaround arrives fresh, so terminology drifts release over release. Quality lives in reviewer opinions no one can audit. After Translation as infrastructure you configure. A localization engine holds your glossary, brand voice, and per-locale model chain. Every request enters the product with that context already attached. Terminology locks. Quality is scored per dimension and tracked over time. Customers What teams found when they measured. Engineering teams that moved localization inside the product found the context compounds. Terminology locks. Quality becomes measurable. View all customer stories 36 languages automated Our engineers don't even think about localization anymore. They just build features, and translations happen automatically. KW Keith Williams Head of Engineering Read story Papermark 80 pages day one The first impression was the best one – it just worked. For an open-source project like ours, this level of personal support was exactly what we needed. IS Iuliia Shnai Founder Read story “ Lingo.dev's approach reminds me of how Stripe revolutionized payments - making a complex process invisible to developers. ” Pete Koomen G",
+  "pricing_signals": [
+    "open-source",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:43",
+  "description_ja": "用語の一貫性を保つステートフルなローカライゼーション基盤。グロッサリーとブランドボイスを設定し、API/CLI/CI/CD経由で多言語化を自動化。",
+  "summary_ja": "Lingo.dev v1はLLMベース翻訳の「用語ドリフト」問題を解決する開発者向けローカライゼーション基盤。グロッサリー、ブランドボイス、ロケール毎のモデルチェーン、AI品質スコアリングを設定可能なエンジンとして提供し、API/CLI/CI/CD/MCPから呼び出せる。GitHub連携で翻訳PRを自動生成。OSS版もあり、Mistral・Solana・Cal.comなどが採用。",
+  "tldr_ja": "用語ブレを防ぐステートフルなLLM翻訳基盤。グロッサリー注入とCI/CD連携で開発者の多言語対応を自動化する。",
+  "review_guide_ja": {
+    "what": "LLM翻訳の用語ブレ（terminology drift）を解決するローカライゼーションエンジン。グロッサリー、ブランドボイス、ロケール毎のモデルフォールバック、AIレビュアー（クロスモデル品質採点）を設定し、API/CLI/CI/CD/MCPから呼び出すSaaS。GitHubにpushすると翻訳PRが自動で立つ。コアはOSSで、エンジン実行とホスティングが有料SaaS。RAL（Retrieval Augmented Localization）研究で用語エラー16.6〜44.6%削減を実証。",
+    "for_who": "3言語以上に展開する開発者主導のSaaS/モバイル開発チーム。翻訳ベンダーを使わずコードベース内で多言語化を完結させたいエンジニアリングチーム。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "OSS版は公開済みで模倣容易だが、200M+ワード処理実績・RAL研究・ブランド評価（Cal.com等）・MCPまで含めた統合体験を再現するのは時間と運用ノウハウが必要。"
+    },
+    "signals": [
+      "ローンチ後231 upvotes・33コメントと中堅レベルの注目",
+      "Mistral/Solana/SoSafe/Cal.comなど実利用ロゴが揃う",
+      "ランディングで266M+ワード処理という稼働実績を提示",
+      "MCP対応でAIエージェント時代の翻訳ハブを狙う設計",
+      "RAL研究を公開しエンジニアリング思考の信頼を獲得"
+    ],
+    "concerns": [
+      "Lokalise/Crowdin/Phrase/Transifexなど確立競合がひしめく",
+      "DeepL/OpenAI/Geminiの直叩きで足りる小規模チームが多い",
+      "価格モデルがコメント欄でも分かりにくいと指摘される",
+      "日本語の敬語・文体・JIS互換などはRALだけでは詰めきれない",
+      "OSS版で需要を満たされるとSaaSへの転換率が低い恐れ"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "日本SaaS市場は2027年2兆円規模に成長見込みで海外展開ニーズはあるが、現状3言語以上に本気で展開する国内SaaSは限定的。多言語対応は主にWeb翻訳（WOVN等）が中心で、開発者向けエンジンの需要層は薄い。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内はWOVN.io（18,000サイト導入）が圧倒的、海外勢のLokalise/Crowdin/Phrase/Transifexも日本企業に浸透。DeepL Pro（月1,200円）の存在感も大きく、開発者は自前でDeepL/OpenAI APIを直叩きする選択肢が強い。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "日本の個人情報保護法では翻訳対象テキストに個人情報が含まれる場合の越境データ移転（米国LLMプロバイダ）に同意取得が必要。プライバシーポリシーの多言語化はGDPR圏向けには事実上必須。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "敬語・丁寧語・カタカナ語/和製英語・縦書き・文字幅などRAL（グロッサリー注入）だけでは不十分な領域が多い。日本語UIに必要なスペース調整やキャッチコピーの自然さは別途人手レビューが要る。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業は翻訳に人手レビューを介在させる商習慣が強く、ベンダー契約・印鑑・年契約が前提。Lingo.dev風のセルフサービス＋自動PRは個人開発者やDevOps成熟企業以外には浸透しにくい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "WOVN.io",
+        "url": "https://wovn.io/",
+        "note": "国内圧倒的シェア。18,000+サイト導入、43言語対応。生成AI翻訳も搭載。年契約・個別見積もりで開発者向けというより事業部主導。"
+      },
+      {
+        "name": "Lokalise",
+        "url": "https://lokalise.com/",
+        "note": "海外発のローカライズSaaS。月額$140〜。日本のスタートアップ・グローバル展開チームで採用例あり。"
+      },
+      {
+        "name": "Crowdin",
+        "url": "https://crowdin.com/",
+        "note": "月額$50〜＋OSS無料枠。600+ツール連携で開発者人気が高い競合。"
+      },
+      {
+        "name": "Phrase Localization Platform",
+        "url": "https://phrase.com/",
+        "note": "開発者向けAPI/CLIに強み。Lingo.devが直接置き換えを狙うポジション。"
+      },
+      {
+        "name": "DeepL Pro / DeepL API",
+        "url": "https://www.deepl.com/ja/",
+        "note": "日本での認知・精度ともに圧倒的。API Proは$5.49/月＋$25/M字。多くの開発者がエンジン経由ではなく直叩きで解決。"
+      },
+      {
+        "name": "shutto翻訳",
+        "url": "https://shutto-translation.com/",
+        "note": "Webサイト翻訳特化の国内SaaS。中小企業向けに普及。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（越境移転規制）",
+        "impact": "翻訳テキストに個人情報が含まれる場合、Lingo.devや背後のLLMプロバイダ（米国）への送信に本人同意またはAPPI28条相当の措置が必要。SaaS事業者として越境移転に関する説明責任を負う。"
+      },
+      {
+        "law": "プライバシーポリシー多言語化の実務（GDPR連動）",
+        "impact": "日本法上は義務ではないが、海外展開SaaSはGDPR12条に基づき現地言語ポリシー整備が必要。多言語化需要の根拠ではあるがLingo.dev固有の規制リスクではない。"
+      }
+    ],
+    "opportunity": "日本向け追加価値として（1）敬語/カジュアル切替プリセット（2）JIS文字・絵文字・全角半角の自動整形（3）日本語特化のレビュアーモデル（4）WOVN.io等エンタープライズ製品と棲み分けた『開発者向けセルフサービス＋OSS』ポジションが空いている。海外展開する国内SaaS（SmartHR、Sansan級含む）にCI/CD組込みで売る道が現実的。",
+    "rationale": "翻訳・ローカライゼーション市場自体は日本でも巨大だが、開発者向けエンジニアリング基盤層はWOVN.ioという事業部向け巨人と、DeepL/OpenAI直叩きの両極が支配し、Lingo.devが入る『3言語以上＋CI/CD＋ステートフル品質管理』のニッチは小さい。規制面は越境移転に注意が必要だが致命傷ではない。日本語の敬語・文体・全角半角などRAL（用語注入）だけでは詰められない論点が多く、本格進出には日本語専用の語彙・スタイル定義機能が必須。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "$30/$600/Enterpriseの明快なSaaS階段＋OSSフリーミアム。単語数従量課金で利用増に応じARPU上昇しやすい構造。ただしOSS版で吸収されるリスクとDeepL直叩きとの価格比較圧力あり。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "グローバルローカライゼーション市場は数十億ドル規模だが、日本でCI/CD型を採用しうる開発者主導SaaSは数百社規模に絞られる。中堅以上はWOVN.io・Phraseに既に流れている。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "OSSスター＋GitHub PR自動化＋Discord＋Cal.com等のロゴで開発者コミュニティ起点GTMは確立済み。日本では英語UIと商習慣がボトルネックで、現地パートナーや日本語コンテンツが必須。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "LLM翻訳普及で用語ドリフトが顕在化、MCP/エージェント時代に翻訳ハブが必要なタイミングは正しい。ただし競合も同時期にLLM対応中で差別化窓は短い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "OSSメンテナンス、LLMプロバイダ管理、品質研究、エンタープライズ営業、SLA保証、課金請求書対応など個人開発者では到底回せない。チーム＋資金調達が前提のプロダクト。"
+      }
+    },
+    "rationale": "プロダクト自体の収益化設計は健全で、開発者向けGTMも先行。ただし市場規模は『国内CI/CD型ローカライズ需要』に絞ると意外と狭く、ソロでの運用は事実上不可能。日本市場単独で勝負するより、グローバル基盤の一部として海外展開SaaSの国内事業部に売り込む補助線が現実解。個人開発者がフォロワー製品（日本語特化版）を作る場合は、敬語・文体テンプレート＋OSS連携の差別化が最低限必要だが、本家OSSにマージされて消えるリスクが大きい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 8000,
+      "plans": [
+        "Free: 月5,000ワード、グロッサリー1個、GitHub連携",
+        "Pro: 月4,500円/月20,000ワード、グロッサリー無制限、CI/CD",
+        "Team: 月45,000円/月100,000ワード、AIレビュアー、SLAなし",
+        "Enterprise: 月20万円〜、SLA・越境移転同意フロー・専任サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "海外展開している国内SaaS・モバイルアプリ開発チーム（3言語以上、GitHub＋CI/CD運用、開発者主導の意思決定）",
+      "target_count": 1500,
+      "capture_pct_year3": 3,
+      "monthly_revenue_target_jpy": 360000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiitaで『LLM翻訳の用語ドリフトを止める』技術記事＋実装サンプル",
+      "GitHub Actionsのマーケットプレイス上位露出と日本語READMEを徹底",
+      "海外展開支援系コミュニティ（BRIDGE/Coral Capital等）でケース紹介",
+      "WOVN.ioと棲み分け：『事業部翻訳はWOVN、コード内文言はLingo』訴求",
+      "DeepL API直叩きからの移行ガイドを公開して比較表で誘導"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "OSS版で需要が満たされSaaS転換率が伸びずユニットエコノミクスが崩れる",
+      "Lokalise/Crowdin/Phraseが同等のLLM＋グロッサリー機能を実装し差別化喪失",
+      "DeepL/OpenAI直叩きで十分という開発者意識が日本では特に強い",
+      "日本語の敬語・文体・JIS対応で品質が出ず初期事例が作れない",
+      "個人情報を含むテキストの越境移転で日本企業の法務部門に止められる"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_research_at": "2026-05-23T00:00:00Z",
+  "japan_research_version": "1.0"
+}

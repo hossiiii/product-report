@@ -1,0 +1,269 @@
+{
+  "name": "Open Wearables",
+  "description": "Open infrastructure for wearable-powered health products.",
+  "ph_url": "https://www.producthunt.com/products/open-wearables/launches/open-wearables-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/IUMQA6GC7RBMJ5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-29T07:01:00Z",
+  "upvotes": 645,
+  "comments": 317,
+  "topics": [
+    "Open Source",
+    "Wearables",
+    "Developer Tools",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p></p><p>Every team building with wearable data rebuilds the same infrastructure. Oura, Garmin, Whoop, Apple Health: each with its own API, its own schema, its own quirks. Weeks of plumbing before you get to the product itself. And even once the data is flowing, you still have to turn it into something a user or a clinician can act on.</p><p></p><p>We've lived this at Momentum for years, shipping healthtech for digital health, wellness, and clinical teams. So we put the whole stack in the open.</p><p></p><p>Meet Open Wearables: the health intelligence platform for wearable data. One open-source layer to ingest from any wearable, standardize the signals, score them with transparent logic, and let AI reason over what's actually happening in a user's body.</p><p></p><p>Here's what Open Wearables gives you:</p><p>📡 Unified wearables API , ingest from Oura, Garmin, Whoop, Apple Health, Polar, Suunto, Samsung, Strava, Google Health Connect</p><p>🧬 Data standardization , one consistent schema across every device, so you stop writing per-vendor normalization code</p><p>🧮 Open health scoring logic, auditable, forkable, tuneable for your domain. No proprietary black boxes.</p><p>🎯 Coaching profiles, domain-specific intelligence layers for wellness, clinical, and performance use cases</p><p>🤖 MCP server, any LLM can reason over health trends and patterns, not just read raw numbers</p><p>🔒 Self-hosted by design, MIT license, HIPAA and GDPR friendly</p><p>💸 $0 per user at any scale, no per-seat pricing, no surprise bills at 10k users</p><p></p><p>Open Wearables is already running in production inside healthcare and wellness apps, including teams building AI coaching products on top of it.</p><p></p><p>What makes Open Wearables different?</p><p></p><p>Other wearable APIs stop at raw data delivery. Open Wearables is a full health intelligence layer: data in, meaningful signals and AI-ready context out. Open algorithms, zero per-user fees, and an AI-native architecture from day one. Built by Momentum, 130+ engineers with 10+ years of shipping healthtech in regulated industries.</p><p></p><p>🎁 Exclusive for Product Hunt: book a free 30-min architecture call with the Momentum team that actually built it. We'll walk through your stack and show where Open Wearables fits.</p><p>👉 <a href=\"https://www.cal.eu/openwearables\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.cal.eu/openwearables</a><a href=\"https://www.cal.eu/openwearables/open-wearables-demo\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">...</a></p><p></p><p>Try it now: <a href=\"http://openwearables.io\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">openwearables.io</a></p><p></p><p>Would love your honest feedback, especially on what's missing for your use case.</p><p></p><p>Piotr, CEO &amp; Founder @ Momentum</p>",
+      "votesCount": 58,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The open-source, self-hosted approach is the right call for health data - it's one of those categories where developers and users both care deeply about where the data lives. I'm curious about something slightly different: have you thought about this beyond health apps? The idea of a unified API that aggregates personal data from multiple devices could be interesting for other contexts too. For example, we work with personal relationship data — contacts, interactions, communication patterns. The fragmentation problem is similar: everyone's data lives in 10 different places and nobody has a unified view. What was the decision to go deep on health vs building a broader personal data layer?</p>",
+      "votesCount": 18,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The algorithm transparency thing is something I hadn't thought about before but now I can't stop thinking about it. I've been trusting a score for two years and have no idea what it's based on.</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Build personalized health products with one API for every wearable. Access wearable data, open health scoring algorithms, and structured context your AI can reason with. Self-hosted, open-source, MIT licensed.",
+  "featured_at": "2026-04-29T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/4c2418e7-e7e9-48f3-8b7a-61b173e034c1.svg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/14b76f8f-e685-4794-841a-287ea15b556e.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ab93cf02-9d64-4041-9bb8-8c06e4b35041.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/06ff23e2-16de-406d-977b-407707969749.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3404c453-c5d1-4690-b74e-61bdf3c59eb3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e0a1f3bd-7369-4829-95c0-c08324a10843.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/41d09fa7-5606-46f0-895b-6b6a50ca72c8.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/fbfbd7be-b1ac-4ad3-bfc5-6bb46085d268.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:27",
+  "landing_meta": "Open Wearables | Open-Source Health Intelligence Platform — Open-source health intelligence platform for wearable data. Health scores, AI reasoning platform, AI reasoning engine, and coaching profiles. Connect Whoop, Garmin, Oura, Apple Health. Self-hosted, MIT licensed.",
+  "landing_text": "Open Wearables | Open-Source Health Intelligence Platform Join our Discord → Open source · Self-hosted · MIT license Health intelligence, not just health data. Turn wearable data into health scores and AI recommendations your users can act on. Self-hosted on your infrastructure. Your data, your compliance, your control. Get Started Book a Demo Integrations Whoop Garmin Oura Apple Health Strava Polar Suunto Samsung Health Google Health Connect Ultrahuman Fitbit soon Coros soon Xiaomi soon Whoop Garmin Oura Apple Health Strava Polar Suunto Samsung Health Google Health Connect Ultrahuman Fitbit soon Coros soon Xiaomi soon • Platform Data to decisions. One platform. Data ingestion, health scoring, AI reasoning, and domain-specific coaching profiles. Everything between a wearable and an intelligent recommendation. 01 Wearable Data One API for wearables like Apple Health, Whoop, Oura, Samsung Health, and more. Normalized. Deduplicated. Self-hosted on your infrastructure. Unified API Self-hosted 02 Health Scores Open algorithms for sleep, recovery, strain, stress, HRV, VO2 max, and more. Audit every line. Tune thresholds for your population. Open algorithms Customizable 03 Health AI Engine Reasoning tools that detect trends, flag anomalies, and connect patterns across scores. MCP server for any LLM. Not a wrapper. A structured health reasoning framework. Trends Anomalies MCP 04 Coaching Profiles Define how the engine reasons for your use case. Build profiles for wellness, performance, clinical monitoring, or anything in between. Same data, same scores. Different logic for different domains. Configurable Domain-specific • Scores Open algorithms. Zero black boxes. Audit-ready from day one. Every algorithm is open. Fork it. Tune thresholds for your users. Unified across all devices, same score regardless of which wearable your users have. Sleep Recovery Strain Stress HRV Index RHR Trend Energy Score + more Example output \"Sleep quality declining: light sleep phase extended, R",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "self-hosted",
+    "pricing",
+    "$1",
+    "$50",
+    "$5",
+    "$0",
+    "$0.50"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:29",
+  "description_ja": "ウェアラブルデータを統合し健康スコアとAI推論を提供するOSSプラットフォーム",
+  "summary_ja": "Oura・Garmin・Whoop・Apple Health等の複数ウェアラブルを1つのAPIに統合し、睡眠・回復・HRV等の健康スコアをオープンアルゴリズムで算出。MCPサーバでLLMから推論可能。MITライセンス・セルフホスト型で月額課金ゼロ。",
+  "tldr_ja": "ウェアラブルデータを統一スキーマ化し、健康スコアとAI推論層まで提供するOSS基盤。セルフホスト前提でユーザー単価ゼロ。",
+  "review_guide_ja": {
+    "what": "Open Wearablesは、Oura、Garmin、Whoop、Apple Health、Polar、Suunto、Samsung Health、Strava、Google Health Connect等の異なるウェアラブルAPIを統一スキーマに正規化するデータ取込層、睡眠・回復・ストレス・HRV・VO2max等の健康スコアをオープンアルゴリズムで算出するスコアリング層、トレンド検知や異常検知を行うAI推論エンジン、用途別のコーチングプロファイル、そして任意のLLMからアクセスできるMCPサーバを統合したMITライセンスのセルフホスト型プラットフォーム。Momentum社が10年以上のヘルステック開発知見をOSS化したもので、ユーザー数によらず追加課金が発生しない。",
+    "for_who": "デジタルヘルスやウェルネス、臨床モニタリング、フィットネス領域でAIコーチングや健康分析アプリを開発するスタートアップや受託開発チーム、ベンダーロックインを避けたい医療機関の社内開発部門、HIPAA/GDPR準拠が必要なクリニカル系プロダクトを構築するエンジニアが主要対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "個々のウェアラブルAPI連携自体は実装可能だが、9社以上のSDK・OAuth・正規化スキーマ・スコアリングロジック・MCP統合まで含めると総工数は数百人日規模で、後追いのOSS再構築は現実的でない。"
+    },
+    "signals": [
+      "Product Hunt 645 upvotes / 317 comments と高エンゲージメント",
+      "Momentum社の130名+エンジニア組織が10年の知見を投入",
+      "Terra/Junction等の競合が$1-3/ユーザー/月課金の中で月額ゼロという明確な差別化",
+      "MCPサーバ対応でLLMネイティブ設計",
+      "MITライセンスで監査可能・フォーク可能なスコアアルゴリズム"
+    ],
+    "concerns": [
+      "セルフホスト故にインフラ運用・SLA・サポートは顧客側責任で、商用採用時はサポート契約モデル必須",
+      "本体は無料のためマネタイズはコンサル・有償サポート・マネージドサービスに依存",
+      "Apple Health等は端末ローカル取得が前提で、サーバサイドのみで完結しない統合制約あり",
+      "ヘルスケア領域特有の規制対応や臨床エビデンスは利用企業側の責任となる",
+      "オープン化により競合がフォークして類似サービスを立ち上げるリスク"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本のデジタルヘルス市場は2025年314億ドル規模・CAGR6.9%、ウェアラブル市場もCAGR15%で成長。健康経営・PHR政策の追い風があり、FiNCやキュアコードPHRONTIER等がウェアラブル連携を進めるためインフラ需要は確実に存在。ただし国内開発者の英語OSS採用ハードルと、Whoop等の国内普及率の低さで需要は中程度。"
+      },
+      "competition": {
+        "score": 6,
+        "reason": "国内に直接競合の統一ウェアラブルAPI SaaSは現状ほぼ存在せず、PHRONTIER・FiNC・dacadoo等はアプリ/プラットフォーム提供で開発者向けインフラ層は手薄。海外ではTerra/Junction/ROOK等が先行するが日本語サポートなし。OSSとして参入余地は大きい。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "ウェアラブル健康データは個人情報保護法上の要配慮個人情報に該当する可能性が高く、本人同意・第三者提供制限が厳格。診断・治療目的だとSaMD（プログラム医療機器）規制でPMDA承認が必要で開発コスト数億円規模。ウェルネス用途に限定すれば回避可能だが線引きが微妙。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI・ドキュメントは英語前提でGitHub READMEも英語。日本のウェアラブル普及はApple Watch・Fitbit中心でOura/Whoopは少数派。日本独自のスマートウォッチ規格や保険組合連携、健保データとの統合要件はカバーされていないため、ローカル実装層を追加する必要あり。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "国内企業はOSS導入時に有償サポート契約や責任所在を重視する傾向が強く、MITライセンスのみのプロダクトは大企業の購買プロセスで採用障壁が高い。一方、スタートアップやアプリ開発受託では好まれる。商習慣的には中庸。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "キュアコード PHRONTIER",
+        "url": "https://prtimes.jp/main/html/rd/p/000000028.000103467.html",
+        "note": "FitbitやGarmin等のウェアラブル連携を含むPHRプラットフォーム。完成品アプリ寄りで開発者向けインフラ層ではないが、機能領域は重複。"
+      },
+      {
+        "name": "FiNC for BUSINESS",
+        "url": "https://biz.finc.com/",
+        "note": "320社以上導入の健康経営SaaS。ウェアラブル連携機能を内包するが、SaaS完結型でAPI/SDKを開発者に公開していない点が異なる。"
+      },
+      {
+        "name": "ヘルスケアテクノロジーズ HELPO",
+        "url": "https://healthcare-tech.co.jp/terms/privacy.html",
+        "note": "ソフトバンクG傘下のヘルスケア事業。PHR/ウェアラブル領域に進出するが、自社サービス特化でデベロッパープラットフォームではない。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（要配慮個人情報）",
+        "impact": "心拍・睡眠・HRV等のウェアラブル健康データは病歴と類推され要配慮個人情報に該当する可能性が高い。取得・第三者提供にオプトインの本人同意が必要で、オプトアウト方式が認められない。セルフホスト型はデータが顧客環境に留まる利点があるが、利用企業側のプライバシーポリシー整備が必須。"
+      },
+      {
+        "law": "薬機法（プログラム医療機器/SaMD）",
+        "impact": "診断・治療判断に使う健康スコアやアラートを実装するとSaMD該当となりPMDA承認が必要。承認には数億〜数十億円・数年規模のコスト。ウェルネス・自己管理目的に留めれば該当外だが、コーチングプロファイルや臨床モニタリング用途では線引きが微妙で法務確認が必須。"
+      },
+      {
+        "law": "次世代医療基盤法",
+        "impact": "医療機関連携や匿名加工医療データの二次利用を行う場合、認定事業者制度との整合性が問われる。直接の影響は低いが、医療機関への販売時にデータガバナンス文書化を求められる可能性あり。"
+      }
+    ],
+    "opportunity": "日本市場は健康経営市場拡大・PHR政策推進・SaMD規制緩和の追い風があり、ウェアラブル連携を必要とするデジタルヘルススタートアップ・受託開発が増加中。Terra/Junction等の海外APIは日本語サポートやインボイス対応がなく、国内向けに日本語ドキュメント・健保連携・要配慮個人情報運用ガイド・有償サポート契約をセットにすればOSSのアップセル余地がある。Open Wearablesを上流に置き、国内ヘルステック向けのマネージドホスティング+規制コンサルとして提供するビジネスは個人開発者でも開始可能。",
+    "rationale": "Open Wearablesは技術的にはTerra/Junction等の海外SaaSと同等以上の機能を無料で提供する強力なOSSだが、日本市場固有の3つの摩擦がある。第一に、健康データは要配慮個人情報として個情法の厳格な扱いが必要で、利用企業側の同意設計負担が大きい。第二に、Whoop/Oura等の主要対応デバイスの国内普及率はApple Watchに比べ低く、Apple Health依存度が高まるためOSS単体の価値が薄まる。第三に、国内大手はOSSのみの導入を避け有償サポート契約を求めるため、本体無料モデルだけでは収益化が難しい。一方で、ベンダーロックイン回避ニーズ・PHR政策の追い風・SaMD前のウェルネス層の市場拡大は確実な追い風で、適切な日本向けレイヤーを上乗せすれば事業機会は存在する。判定はwatch（適切な日本向けラッパーやマネージドサービス事業者を観察）。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "本体MITライセンスかつユーザー単価ゼロを明示しており、収益化は有償サポート契約・コンサル・マネージドホスティング・カスタムインテグレーション開発に依存。SaaS型と異なり継続課金導線が弱く、個人開発者がフォークしてマネタイズする場合はサポート/コンサル契約の営業力が必要で月次安定収益化までのリードタイムが長い。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本のデジタルヘルス市場2025年314億ドル・ウェアラブル市場CAGR15%と十分大きいが、ウェアラブル統合インフラを必要とするヘルステック開発企業数は国内で数百社レベル。健康経営SaaSやPHRベンダー、デジタル療法（DTx）スタートアップが主要顧客で、TAMは中規模。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "個人開発者が本家Momentumをフォークして国内代理として展開する戦略がメインだが、ヘルステック顧客はエンタープライズ寄りで意思決定が長期化。技術ブログ・GitHubコミュニティから流入する開発者リードを、医療機器商社や保険連携の事業会社へつなぐ仕掛けが必要。検索で根拠未確認のため中庸。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "厚労省のDASH for SaMDやPHR政策、健保データ標準化、AIコーチング/DTx拡大、MCPの登場でLLM連携の関心も高い。ウェアラブル統合とAI推論層の組み合わせは2026年時点のトレンドの中心。タイミングとしては良好で逃すと先行者利益喪失リスクあり。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "9社以上のウェアラブル連携保守、健康スコアの臨床妥当性検証、HIPAA/個情法対応、エンタープライズサポート、オンプレ運用支援を個人で継続するのは現実的に困難。Momentum本家のOSSメンテに乗っかる前提でも、日本向けサポート契約の営業・実装は1人だと処理能力上限が早期に到来する。"
+      }
+    },
+    "rationale": "Open Wearables自体はMITライセンス・無料・自社ホスト前提で、収益化モデルは有償サポート/マネージド/コンサルに集約される。日本市場でこのモデルを個人開発者が回す場合、ヘルステック企業10社程度に年間100〜300万円のサポート契約を結べばMRR50〜200万円規模は到達可能だが、契約取得には医療業界のネットワークと薬機法・個情法の専門知識が必要で、純粋な個人開発者の射程からはやや外れる。タイミング・市場性はあるが、収益化の難易度・運用負荷・規制対応の重さから、個人開発SaaSとしての成立性は低い。むしろ既存のヘルステック受託開発会社や医療情報コンサルが自社サービスとして取り扱うのが妥当な構造であり、ソロ開発者がそのまま事業化するなら、ニッチ用途のラッパー（例：健保連携モジュール、特定ウェアラブル特化のレシピ集）に限定するのが現実的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "annual",
+      "arpu_jpy": 1200000,
+      "plans": [
+        "Community: 無料・GitHub Issuesのみ・SLA無し",
+        "Starter: 年額60万円・営業時間内日本語サポート・四半期1回の技術レビュー",
+        "Business: 年額180万円・SLA 99.9%・マネージドホスティング・要配慮個人情報運用テンプレ提供",
+        "Enterprise: 年額480万円〜・カスタムインテグレーション・薬機法/個情法レビュー込み・専任エンジニア",
+        "Implementation: 単発200万円〜・初期導入支援・既存PHRからの移行"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AIコーチングアプリ・DTxスタートアップ・健康経営SaaSベンダー・保険組合向けPHR事業者・大学病院の臨床研究部門で、複数ウェアラブル連携の必要性があり、自社開発を諦めたい開発リソース不足の組織。社員規模5〜200名のミドルレンジを中心に想定。",
+      "target_count": 500,
+      "capture_pct_year3": 4,
+      "monthly_revenue_target_jpy": 2000000
+    },
+    "recommended_gtm": [
+      "日本語READMEとQiita/Zenn技術記事でMomentum本家からの流入を作る",
+      "JapanDigitalHealthAlliance(JaDHA)等の業界団体イベントで認知を獲得し医療機器商社経由のリードを開拓",
+      "FiNC・PHRONTIER等の既存PHRベンダーへOEM/インテグレーションパートナー提案",
+      "薬機法・個情法に詳しい行政書士/弁護士と提携し『規制込みパッケージ』として差別化",
+      "Apple Health/Google Health Connect統合に絞った日本向け軽量ディストリビューションを公開"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Momentum本家のロードマップ変更・ライセンス変更（BSL等への移行）で日本側ビジネスが土台ごと崩れるリスク。本家との連携・パッチ貢献関係の維持が事業継続の前提となる。",
+      "要配慮個人情報の取扱いで漏洩事故が発生した場合、利用企業からの賠償請求・行政指導の連鎖でサポート事業者にも信用毀損が波及する。契約での責任範囲明確化と保険加入が必須。",
+      "Terra/Junction等の海外SaaSが日本円決済・日本語サポート・国内データセンターを提供し始めると、OSSラッパー事業の価値が一気に減少する。先行者として2年以内に顧客資産を作る必要。",
+      "ヘルスケアアプリがSaMD該当と再分類されると顧客側の承認取得が止まり、ウェアラブル連携プロジェクト自体が停滞。ウェルネス用途とSaMD境界の判定支援を商品化する必要。",
+      "個人開発者のサポート体制では大手顧客のSLA要求・夜間障害対応に応えられず解約リスク。エンジニア2-3名の小規模チーム化が事実上の前提となる。"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

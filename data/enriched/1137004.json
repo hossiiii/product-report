@@ -1,0 +1,249 @@
+{
+  "name": "ClawSecure",
+  "description": "The AI-Powered Antivirus for AI Agents",
+  "ph_url": "https://www.producthunt.com/products/clawsecure?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/CBB34LD6UL5TT2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-11T07:00:00Z",
+  "upvotes": 304,
+  "comments": 49,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence",
+    "Pitch Singapore"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt! 👋 I'm J.D., founder of ClawSecure.</p><p></p><p>Your AI agents are running with full system access. No verification. No oversight. 41% are dangerous. 1 in 5 send data to attackers. 22.9% silently mutate code after install. 1.6M+ get installed every week. Zero security underneath. 🚨</p><p></p><p>After a decade securing AI and Web3 at scale (2x exited founder, Bloomberg, CNBC, NYSE, NASDAQ), I've watched billions disappear when ecosystems scale faster than their security. It's happening again, but faster than any cycle before.</p><p></p><p>We built what the AI agent economy was missing: AI-powered scanning, real-time runtime monitoring, an AI security agent, and a sub-200ms Verification API. Full 10/10 OWASP ASI. Free, no signup, 30 seconds.</p><p></p><p>Hyped to be back on PH 🚀</p><p></p><p>Ask us anything, challenge us, or share what's keeping you up at night about agent security — I'll be here all day!</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "If an AI agent mutates code after install, how does ClawSecure distinguish malicious behavior from self-improving workflows?",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Honestly, this feels like one of those “boring but super necessary” tools. If AI agents are touching real user data, having security audits + live monitoring built in is a pretty big deal.</p><p></p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "ClawSecure is the AI-powered antivirus for AI agents. Pre-install scanning, real-time runtime monitoring, an in-agent Security Companion Agent, and a sub-200ms Verification API. Full 10/10 OWASP ASI coverage. 41% of top agents are dangerous. Free, no signup. clawsecure.ai",
+  "featured_at": "2026-05-11T07:00:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/81d1c1f7-26d3-4b8e-8079-52b1e6322b03.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4140b97f-6a6a-4761-bbd5-37d55149940e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3d0fbb74-6935-4988-85ef-be1f05f4bca0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b8a9fb19-4ea4-4a68-9771-2bf296154b52.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/98772840-6e27-4f11-bca3-6e80f7ee74b4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7872edb9-20f1-4924-9a92-372fd803d655.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b4be693a-8b7d-4951-854a-bb528772afb0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a91c98f7-ad31-425c-af0b-2a9e9e4f24cc.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:37",
+  "landing_meta": "OpenClaw Security Scanner & Audit — ClawSecure | AI Agent Security — Free OpenClaw security scanner — audit any agent skill before installing. 3-layer security audit with full OWASP ASI Top 10 coverage. 2,890+ agents audited from the most popular skills in the ecosystem.",
+  "landing_text": "OpenClaw Security Scanner & Audit — ClawSecure | AI Agent Security 📄 New Report: 41% of Popular OpenClaw Skills Have Security Vulnerabilities Read Report → × Home Scan Blog Registry Marketplace 🔍 Scan a Skill \"I'm Claw, your Lead Auditor. I ensure the agents you interact with are exactly who — and what — they claim to be.\" Claw Secure OpenClaw Security Scanner & Integrity Verification The Integrity Layer for Agent Skills and Workflows Don't just scan the file; verify the soul of the agent as it evolves. Free OpenClaw security scanner with full OWASP ASI Top 10 coverage — securing individual skills and certifying agent swarm workflows. 🔍 Scan a Skill ✧ Get Verified → 2,890+ Agents Audited 2.2M+ Agents Vaccinated 3 Security Layers 24/7 Watchtower Monitoring Follow our GitHub Independently Verified Across the Same Security Frameworks Trusted by Microsoft, Salesforce, and Cisco OWASP ASI Top 10 Full 10/10 Agentic Security Coverage CSA STAR for AI Level 1 AI Security Assessed NIST AI RMF U.S. Federal Risk Framework Aligned Aikido Security 24/7 Application Security Monitoring OWASP ZAP Penetration Tested Mozilla Observatory B+ Infrastructure Security Rating 3-Layer Audit Protocol Deep OpenClaw Security for Every Skill and Workflow Every OpenClaw security audit runs through our proprietary multi-layer protocol — purpose-built for the agentic era with full OWASP ASI Top 10 coverage. Proprietary OpenClaw threat detection Industry-standard behavioral analysis Comprehensive vulnerability database 🔍 Scan a Skill Now Why ClawSecure Beyond Static Scans: OpenClaw Security That Verifies Agentic Intent. Generic malware scanners check if a file is dangerous. ClawSecure's OpenClaw security scanner verifies if an Agentic Workflow is integral — with Context-Aware Intelligence that understands the ecosystem. 🛡️ Anti-Sleeper Protection After you install a skill or build a workflow, our Watchtower continues monitoring the code actually running on your machine for unauthorized changes — pro",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-24T20:19:38",
+  "description_ja": "AIエージェント（スキル／ワークフロー）を対象としたアンチウイルス。インストール前スキャン・実行時監視・サブ200msの検証APIを提供しOWASP ASI Top10に対応する。",
+  "summary_ja": "ClawSecureはAIエージェントのスキルやワークフローを対象に、インストール前の静的スキャン、Watchtowerによるランタイム改ざん検知、サブ200msの検証API、エージェント内の同伴セキュリティエージェントを提供するSaaS。OWASP ASI Top10に10/10対応し、無料スキャンで2,890件以上の監査実績を訴求しエコシステム側のレジストリ役を狙う。",
+  "tldr_ja": "AIエージェントのスキル／ワークフローを実行前後で監査する『AIエージェント版アンチウイルス』。OWASP ASI完全対応の無料スキャン+検証APIでレジストリ化を狙う。",
+  "review_guide_ja": {
+    "what": "AIエージェント（OpenClaw系スキル／ワークフロー）に特化したセキュリティスキャナと実行時モニタリングのSaaS。プレインストール時の静的スキャン、Watchtowerによるインストール後改ざん検知、サブ200msの検証API、OWASP ASI Top10完全対応を3層プロトコルとして提供。無料でブラウザから即試行できる点と、レジストリ／マーケットプレイス機能でエコシステムの『信頼レイヤー』を取りに行く戦略が特徴。",
+    "for_who": "AIエージェントを社内/プロダクトで運用する開発チーム、サードパーティスキルを多数導入するエンタープライズSecOps、OWASP ASIやNIST AI RMFへの準拠を求められる規制業界。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "脅威パターンDB、レジストリ運用、24/7監視基盤、OWASP ASI完全対応の整備に継続的なリサーチ投資が必要で、個人で同等品質の再現は困難。"
+    },
+    "signals": [
+      "PHで304upvote/49コメントと初日トラクション良好",
+      "Snyk ToxicSkillsで36.8%のスキルが脆弱と公表されエコシステム的危機感が高い",
+      "Snyk/Palo Alto/Cisco等大手が次々AI agent securityへM&A参入",
+      "OWASP Top10 for Agentic Applicationsが2025年12月に正式公開され市場が定義された",
+      "2026年Gartnerが『対策不十分なAIエージェントは攻撃の温床』と警告"
+    ],
+    "concerns": [
+      "OpenClawという特定ランタイム前提の表現が多く、対応エコシステム範囲が読みにくい",
+      "Snyk・Palo Alto AIRS・Aikido等とポジショニング衝突、価格非公開で差別化が不明",
+      "Watchtowerの常時監視は誤検知と運用負荷が論点（PHでも自己改良との区別を質問）",
+      "国内ではGMOイエラエ等のペネトレ＋PromptSecurity系MCPゲートウェイが先行",
+      "創業者ストーリーが派手だがエンタープライズ営業/SOC2/ISMSなどの裏付け表記が薄い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内法人の生成AI利用は2026年50万社規模、AIエージェント導入率も29.7%まで上昇。エージェントセキュリティは『次のテーマ』として認知され始めたが、実購買決裁者がまだ少ない。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内ではGMOイエラエのAIエージェントペネトレ、Flatt Security、PromptSecurity代理店、海外ではSnyk/Palo Alto Prisma AIRS/Aikido等が一斉参入。差別化余地は『AI agent skillレジストリ』のニッチに限定される。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "AI事業者ガイドラインver1.1、個人情報保護法、AISIレッドチーミング手法ガイド等が整備されつつあり、AIエージェント監査需要は規制側からも後押し。NIST AI RMF対応訴求は日本でも刺さる。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI/レポートは英語ベース。日本企業の調達ではIPA/CSA STAR/ISMS等の準拠証跡、日本語レポート、JIS準拠表現が必要。OpenClawという海外特化用語の翻訳・置換も必須。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のエンタープライズはセキュリティ製品をSIer経由で導入する慣習が強く、無料スキャン→PLGはSMB止まり。Wholeエージェント監査は人手ペネトレ需要に流れやすい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "GMOサイバーセキュリティ byイエラエ AIエージェントペネトレーションテスト",
+        "url": "https://gmo-cybersecurity.com/service/assessment/ai-agent/",
+        "note": "2026年4月開始。RAG・チャットボット・Copilot等を対象にホワイトハッカーが手動診断。AISI手法ガイド対応。"
+      },
+      {
+        "name": "Snyk（日本法人）",
+        "url": "https://go.snyk.io/jp-lp",
+        "note": "Invariant Labs買収でエージェント可観測性へ拡張。ToxicSkillsレポートで認知を確立し開発者向け流入が強い。"
+      },
+      {
+        "name": "Palo Alto Networks Prisma AIRS",
+        "url": "https://www.paloaltonetworks.com/prisma/airs",
+        "note": "OWASP Agentic Top10 実装を全面に。エンタープライズSOC・SASE統合で日本大手の調達ルートに乗りやすい。"
+      },
+      {
+        "name": "PromptSecurity（丸文株式会社 国内代理）",
+        "url": "https://www.marubun.co.jp/products/74367/",
+        "note": "MCP Gatewayでエージェント実行時のポリシー制御。Claude悪用事件を起点に国内認知が立ち上がっている。"
+      },
+      {
+        "name": "Flatt Security",
+        "url": "https://flatt.tech/",
+        "note": "国内DevSec文脈で開発者向け監査。AI/LLM文脈にも知見を拡張中で初動の競合になり得る。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（APPI）",
+        "impact": "AIエージェント経由で個人データを処理する場合、安全管理措置・委託先監督・越境移転規制が課される。スキャン結果やテレメトリの保存場所が国内かを明示する必要。"
+      },
+      {
+        "law": "AI事業者ガイドラインver1.1（経産省・総務省）",
+        "impact": "AI開発者・利用者にリスクベースのガバナンス整備を要請。エージェント脆弱性管理ツールの導入はガバナンス実装の一部として整理しやすい。"
+      },
+      {
+        "law": "改正電気通信事業法／外部送信規律",
+        "impact": "AIエージェントが外部に通信送信する場合の利用者通知。Watchtowerによる送信先監視機能は規制対応のセールスポイントになる。"
+      },
+      {
+        "law": "AISIレッドチーミング手法ガイド",
+        "impact": "国内の大手・規制業界の調達でAISIガイド準拠が要求されつつあり、ツールが手法へのマッピングを示せると有利。"
+      }
+    ],
+    "opportunity": "国内ではGMOイエラエ等の『人手ペネトレ』が市場を作っているが、月額SaaSでのスキル/MCPサーバー単位の継続スキャンは空白に近い。Claude Code/Devin/Copilot Agent等のスキル流通が増えるほど、無料スキャン→Pro月額→検証API課金のロート設計が刺さる。特に金融・製造の情報システム部門は『社内エージェントマーケットの審査基盤』を必要としており、ISMS/ISMAP対応とJIS表現を整備すれば国内SIer経由で売れるニッチがある。日本語のスキル・MCPサーバー脆弱性レジストリを国内コミュニティと共同運営するPLG施策（Snyk Advisor的）に勝機。",
+    "rationale": "需要は規制ガイドの整備と生成AI企業利用率64%という追い風で確かに伸びる。一方、Snyk・Palo Alto・Aikido・PromptSecurityといった海外大手とGMOイエラエ・Flatt Security等の国内勢が同時に参入しており、ClawSecureの差別化要素であるOpenClaw特化／レジストリ化は日本ではブランド認知ゼロから戦う必要がある。日本のエンタープライズ調達は『SIer経由』『日本語レポート』『国内データセンタ保管』『AISIガイド/ISMS対応』が事実上の入場券で、PLG型の無料スキャン誘導だけでは法人有償化が難しい。規制対応は強いがローカライゼーションと商習慣の壁が高く、競合密度も高いため日本単独進出はskip相当。逆に開発者個人や中小SaaS事業者向けにスキル監査CLI＋日本語コミュニティを限定的に運営する形なら『watch』寄りの戦い方が可能。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "無料スキャン→Pro月額→検証API従量という3層課金は機能。OWASP/NIST準拠が必要な法人ほどシート×コンシューマー混合の単価が伸ばせ、エンタープライズ年契約に乗せやすい。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内AIエージェント関連の有償セキュリティ市場は立ち上がり期で、明確に支払う層は当面1万社未満。グローバルでは大きいが日本単独は小さい。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "個人開発者がOSS/PLGで取れるのはSMB止まり。エンプラ攻略にはSIer連携・SOC2/ISMS取得・日本語SE体制が要り、ソロでは到達しづらい。"
+      },
+      "timing": {
+        "score": 8,
+        "reason": "OWASP Agentic Top10公開（2025/12）、Gartner警告、Snyk ToxicSkills、Claude悪用事件報道等の追い風が2026年に集中し、買い手の予算化が始まる絶妙な時期。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "脅威パターンDB継続更新、24/7監視、誤検知対応、レジストリ運用、コンプラ証跡作成と運用負荷が大きく、ソロでは品質維持が困難。"
+      }
+    },
+    "rationale": "タイミングは2026年で最も追い風だが、競合密度と運用負荷の高さが事業性を相殺している。マネタイズは『無料CLI→Pro→検証API従量』というSnyk型の階段が組めるためモデル自体は健全で、OWASP ASI/NIST AI RMF準拠を旗印にすれば1社あたり月数万円〜十数万円のARPUは現実的。ただし日本の到達可能市場（生成AI/AIエージェントを実運用に乗せる企業）は2026年時点で5〜10万社、うち外部監査ツールに有償投資する層は数千社規模に絞られる。GTMは個人開発者では資料・SE・SIer折衝のオーバーヘッドが重く、PLGで取れるのは個人開発者と数十名以下のテックSaaS。継続スキャン・誤検知対応・脅威パターン更新・コンプラ証跡作成という運用面のソロ継続性が最大の障壁で、事業を伸ばすにはセキュリティリサーチ要員を採用する必要が出てくる。総合では平均的（5/10）。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 15000,
+      "plans": [
+        "Free: ブラウザからのスキル単体スキャン無制限、レポートPDF出力なし",
+        "Pro 月額 ¥4,800/シート: CLI連携、Watchtower常時監視（5エージェントまで）、レポートPDF・SBOM出力",
+        "Team 月額 ¥29,800〜: 検証API 10万コール込み、ポリシー管理、SSO、Slack通知",
+        "Enterprise 年契約 ¥120万〜: ISMS/ISMAP対応資料、日本語サポート、AISIガイドマッピング、専任CSM",
+        "Verification API 従量: ¥0.5/コール（10万コール超）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AIエージェント／Copilot／RAGを内製運用しコンプラ要件のある国内SaaS企業・情報システム部門（金融・製造・SIer内製チーム）",
+      "target_count": 5000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 225000
+    },
+    "recommended_gtm": [
+      "Claude Code/MCP/Cursor向けの無料CLIスキャナをOSS公開し日本語READMEで開発者流入",
+      "ZennとQiitaで『日本語版ToxicSkillsレポート』を四半期で公開しPR起点を作る",
+      "AISIレッドチーミング手法ガイド／OWASP ASI Top10への対応マトリクスを公開資料化",
+      "GMOイエラエ・Flatt Security等の人手ペネトレ企業と棲み分けOEM／補完提携",
+      "ISMAP取得は重いので、ISMSクラウドセキュリティ認証＋SOC2 Type1から段階整備",
+      "Microsoft for Startups / AWS Activate 経由で日本のスタートアップエコシステムにバンドル"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Snyk・Palo Alto・Aikido等の大手が機能を取り込みコモディティ化、無料スキャン層が即時崩れる",
+      "OpenClaw等特定ランタイム前提だと、Anthropic/OpenAI公式が同等機能を内蔵した瞬間に存在意義が薄れる",
+      "脅威パターン更新と誤検知対応の継続コストが個人開発者では維持困難",
+      "国内エンプラはSIer経由調達が主流で、SE・コンプラ証跡（ISMS/ISMAP/SOC2）整備にコストが嵩む",
+      "セキュリティ製品の信頼毀損リスク（誤通知・見逃し）が一度起きると事業継続が困難"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-23T00:00:00Z",
+  "review_guide_at": "2026-05-23T00:00:00Z",
+  "business_viability_at": "2026-05-23T00:00:00Z",
+  "advisor_view_at": "2026-05-23T00:00:00Z"
+}

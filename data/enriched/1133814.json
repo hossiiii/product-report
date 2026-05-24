@@ -1,0 +1,261 @@
+{
+  "name": "Buda",
+  "description": "Recruit agents to run your company as a synchronous team",
+  "ph_url": "https://www.producthunt.com/products/buda-2/launches/buda-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/4NVMGG5SCQ5ZVV?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-01T07:01:00Z",
+  "upvotes": 207,
+  "comments": 18,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Computers"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey PH! 👋\n\nThis started on a flight from Honolulu to Las Vegas — Record of Ragnarok on screen, Spam Musubi in hand, headphones on.\n\nIt's an anime — the gods put humanity on trial and decide to wipe us out. And then Buddha, a god worshipped by billions, walks over to the human side and says: I'll fight for them.\n\nI paused the episode and kept thinking: this is exactly what's happening with AI right now. The question isn't whether AI gets powerful. It's whether the people building it stand with humans or against them.\n\nThat's where the name Buda came from.\n\nThen we actually tried to run our company on AI agents — OpenClaw teams spread across 8 Linux machines, 2 Mac Minis, and 30+ chat channels. It worked well enough that 90%+ of our internal jobs could be handled by agents.\n\nTwo weeks in, 40% of our teammates didn't know what to put on their weekly update. The agents had quietly taken their to-do lists.\n\nThat wasn't a failure. It was a promotion. They stopped doing the work — and started managing the agents who did. Support, ops, design: all became AI managers overnight.\n\nBut the infrastructure was chaos. So we rebuilt it.\n\nBuda is an AI agent company platform:\n\n🦞 Claw Computer — Kubernetes-based cluster. Agents run in isolated, long-running sandboxes with high-performance SSD volumes. No Mac Mini, no gateway. Auto-sleep when idle — saves 80%+ compute and 30%+ token costs.\n\n🐰 Buda Organizer — schedules work, coordinates agents, runs daily automations across your whole team.\n\n👁️ Watch Them Work — live Drive, Terminal, and Browser for every agent. No black box.\n\n🗄️ Buda Drive — Trash, version history, delete protection, auto-backup, and sync. Three layers of data safety, built in.\n\n👥 Teams &amp; Collaboration — invite members, share agents, coordinate humans and AI in one workspace. Self-hosted option available.\n\n⚡ No setup — no config, no model keys, no installation. Don't build. Just hire and go.\n\n🛒 Marketplace — recruit or sell Skills, Agents, and Teams in one click. Publish public or private GitHub repos and monetize them directly.\n\nWe believe AI should make humans more powerful, not replace them. That's why we named it Buda.\n\nPeople killin', people dyin', dropping bombs — we've got enough of that.\n\nBuda, buda, buda — help us. To the moon, not the battlefield. 🐰\n\nEvery Claw we ship has one system prompt: Protect Human. Push humanity forward.\n\nWhat's your first job for 🐰 Buda and her 🦞 Agents?",
+      "votesCount": 12,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey PH! 👋</p><p>If Kelly’s intro got you curious about Buda, here are <strong>two things you’ll probably notice pretty quickly once you start using it</strong> — both a bit different from most agent platforms (including tools like OpenClaw).<br></p><p><strong>1️⃣ Multiple agents in one workspace,</strong></p><p>Inside a workspace you can create multiple specialized agents, for example a <strong>Full-Stack Engineer</strong> or an <strong>SEO Specialist</strong>. Your teammates can <strong>share and collaborate with the same agents</strong> in one place.<br></p><p>And when you want to expand the team, Buda includes a <strong>built-in Marketplace</strong>.<br>You can <strong>recruit ready-made Agents, install useful Skills with one click, or add entire Teams (bundles of multiple agents)</strong> created by others.<br></p><img src=\"https://ph-files.imgix.net/69aad137-2def-48d2-bdc0-acb726bcbddd.jpeg?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p><br></p><p></p><p><strong>2️⃣ No model setup — latest models ready to use</strong></p><p>You don’t need to configure API keys or model providers.</p><p>Buda automatically gives agents access to the <strong>latest models from multiple providers</strong>, so they can pick the best one for the job — Claude, Gemini, GPT, and others.</p><p>For example, in the screenshot below the agent is generating an image using <strong>Nano Banana 2</strong> — no setup required, just ask and it runs.</p><p><br></p><img src=\"https://ph-files.imgix.net/7b205c9b-6788-463f-bef1-8f32645ed16c.jpeg?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p><br></p><p>🎁 <strong>Product Hunt Special</strong></p><p>We’ve added a PH promo code on the launch page if you’d like to try Buda with extra credits.</p><p>We also made a quick <strong>2-minute tutorial</strong> showing how to redeem it:</p><p>👉 <a href=\"https://youtu.be/GvaIjmE_-JI\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://youtu.be/GvaIjmE_-JI</a><br></p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Nice idea! That's original thinking!</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "OpenClaw / Hermes gave you an agent. Buda gives you a company. Recruit or sell Skills, Agents, and Teams from a Marketplace, coordinate them with an Organizer, and watch every agent work live in Browser and Terminal — all in one screen. Long-running isolated sandboxes with SSD volumes — secure by design, no Mac Mini needed. No setup, no model config. Works across Slack, Discord, WeChat, Teams, and web. Buda runs your entire company. Actually doing things.",
+  "featured_at": "2026-05-01T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/4c087d0d-1fd3-4b64-b8e7-198c30969b84.webp",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/26b58962-d9e5-4ecc-8d0c-624c145c13bc.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c66ee23f-3ab7-4951-9df3-1390240ae3b8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1f8e08d7-c9e5-4159-b298-b6947f090044.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b7a87436-f5dd-4bbe-b4a8-a3fc98f77b06.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c0f876d1-71aa-4cd4-b1b9-89e04368b3d1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/12cb1f39-9327-434e-81d6-9bfb9b24d373.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bd7488cd-84f1-4d9b-a70b-57c333c475b2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cac2c442-f253-44b0-a549-f8340ebefd5a.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/935274db-ae84-4060-853f-541b029601f1.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:52",
+  "landing_meta": "Buda — Agents as a Company — Cloud-Native AI Workspace — Run Your Agent Company with Buda: an OpenClaw alternative built for teams. Recruit Claw agents, coordinate with an Organizer, and watch every agent work live — no Mac Mini needed.",
+  "landing_text": "Buda — Agents as a Company — Cloud-Native AI Workspace 🚀 Start Free — No Credit Card Required · Multi-Agent OpenClaw Alternative Agents as a Company AI Agents 🐰 Buda runs your entire company — actually doing things. Try it Free buda.im 🐰 🦞Claws Company Skills Automations + New Agent Agents 💻 Coding Agent 🦞 Sales Agent 📣 Marketing Agent ⚙️ Operations Agent Agent Drive Browser Terminal Git How can I help you today? Claude Sonnet 4.6 · 1.0x / @ Click once. Get a team. Click twice. Get a company. Use Cases New AI employees work 24/7, never quit, start free. They learn from your Drive and evolve with every task. Entire Company Organize different AI agents to handle HR, Operations, and Sales. Sales Team Automate lead generation, follow-ups, and CRM management with AI sales agents. Solo Developer Spawn coding agents, run terminal commands, and review PRs locally. Media & Creator Studio Automate content creation, social media scheduling, and SEO. Operations Team Replace entire departments with AI agents. Humans lead and manage the AI workforce. 🧑‍💻 🦞Claws Company Skills Automations + New Agent Agents 🏛️ Strategy Advisor 📣 Marketing Agent 🤝 Sales Agent 💰 Finance Agent 🔬 Research Agent ✍️ Content Writer Agent Drive Weekly Focus — Founder Digest What should I focus on this week? Task Scanner Finance Checker Marketing Status Top priority: close 2 pending contracts. Then review the Q4 budget draft I prepared. Marketing Agent queued 3 posts for approval. 📋 weekly-focus-nov4.md Synced Approve the posts and send the contract follow-ups. How can I help you today? Gemini 3.1 Flash · 0.2x / @ Boundless. Unlimited. Your own drive, not someone else's cloud Agents run instantly, no cold start delays Execute code safely in isolated sandboxes Unlimited agents, unlimited possibilities Agents remember everything across sessions Connect any tool, build any workflow Give AI employees memory the evolve. Watch them evolve. Buda Drive: Persistent memory for AI agents Every run writes to a persistent cloud w",
+  "pricing_signals": [
+    "self-hosted",
+    "pricing",
+    "$1",
+    "$7"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:53",
+  "description_ja": "AIエージェントを社員のように雇い会社全体を運営するクラウド型エージェント基盤",
+  "summary_ja": "Buda はKubernetes基盤の隔離サンドボックスで複数AIエージェントを長時間稼働させ、オーガナイザーが業務を割振り、マーケットプレイスでSkillsやTeamsを売買できる「AI企業運営」プラットフォーム。Slack/Teams/Web横断で動き、自己ホスト可。",
+  "tldr_ja": "AIエージェントを社員として雇い、会社全体をマルチエージェントで運営。マーケットプレイス、Drive、隔離サンドボックスを一画面で提供する統合基盤。",
+  "review_guide_ja": {
+    "what": "Buda は「AIエージェントを社員として雇って会社を運営する」をコンセプトにした統合プラットフォーム。Kubernetesベースの Claw Computer 上で各エージェントが隔離されたサンドボックス（SSDボリューム付き、アイドル時オートスリープで計算80%/トークン30%削減）として長時間稼働し、Buda Organizer がスケジュール・タスク分配・日次自動化を担当。Buda Drive がバージョン履歴・自動バックアップ・削除保護で永続メモリを提供する。マーケットプレイスでは Skills/Agents/Teams を1クリックで雇用・販売でき、GitHubリポジトリ直結で個人開発者がエージェント収益化できる。Claude/Gemini/GPT等の最新モデルへAPIキー設定なしでアクセス可、Slack/Discord/WeChat/Teams/Web 連携、自己ホストオプション、エージェントのDrive/Terminal/Browserをライブ可視化する透明性も特徴。",
+    "for_who": "AIエージェントを単体ツールではなくチーム的に組み合わせて業務全体を回したいテックスタートアップCEO、複数案件を1人で運営したいソロ開発者・クリエイター、サポート/オペレーションをAI化したい小規模SaaS運営者。マーケットプレイス出品で受動収入を作りたい個人開発者にも適する。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Kubernetesクラスタ運用、隔離サンドボックス、マルチモデル統合、マーケットプレイス決済、ライブ可視化UIを統合する必要があり、個人開発の最小構成では到達困難。"
+    },
+    "signals": [
+      "Product Hunt 207 upvotes・18コメントの初動",
+      "OpenClaw/Hermes 等先行プラットフォームに対するアンチテーゼ的明確なポジション",
+      "マーケットプレイス+Skills売買による開発者エコシステム設計",
+      "Self-hosted対応で企業導入のハードルを下げる",
+      "$1/$7 等の低価格フリーミアム的価格シグナル"
+    ],
+    "concerns": [
+      "OpenClaw/Manus/Devin/Hermes 等の巨大プレイヤーとの直接競合",
+      "Kubernetes基盤の運用・セキュリティ保守コストが極めて重い",
+      "日本では LLM 機密情報入力への警戒感が強く、自社データを預ける障壁が高い",
+      "AI事業者ガイドライン1.2版でAIエージェントが規制対象に追加されHITL義務化",
+      "中小企業のビジネスチャットがTeams中心でDiscord/WeChat連携の訴求が弱い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本のAIエージェント市場は2026年に「マルチエージェント元年」とされ、Forrester や総務省データで企業導入率41.2%、業務での生成AI利用率55.2%と成長中。ただし72%がテスト止まりで本番運用に至っておらず、需要は急成長中だが本格購買は限定的。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "vottia/Gen-AX/KDDI/Salesforce Agentforce/Microsoft Copilot Studio/Devin/Manus 等、国内外プレイヤーが既に乱立。マルチエージェント+マーケットプレイスでも Agent Skills.tokyo、Onegai 等の日本発競合が存在し、Bubaのエッジは限定的。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "AI事業者ガイドライン1.2版（2026年3月）でAIエージェントが正式規制対象に追記され、Human-in-the-Loop義務化、学習データのトレーサビリティ要件強化。個人情報保護法の3年ごと見直しでもAI開発時の本人同意が検討中。Buda の自律実行+広範アクセスは要対応。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "ランディングページは英語のみ、Discord/WeChat 推しは日本企業文化と乖離。日本の中小企業ビジネスチャットはTeams 67.8%、Slack 7.5%、Chatworkが中小に強い構造。日本語UI/Chatwork連携/Teams優先設計がなく、現状ローカライズ未実装。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "「AIに社員仕事を譲渡」という発想は日本の雇用文化・稟議文化・ハンコ文化と摩擦。中小企業ではAI導入の躊躇理由として「効果的活用法不明」「情報漏えい懸念」「コスト」が上位で、自律エージェントへの全権委譲は心理障壁が高い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "vottia",
+        "url": "https://vottia.jp/",
+        "note": "モビルス×トランスコスモス合弁。ノーコードでマルチエージェント構築、音声+テキスト両対応。"
+      },
+      {
+        "name": "Gen-AX 自律型AIオペレーター",
+        "note": "ソフトバンク子会社。複数専門エージェント+オーケストレーション層。三井住友カードで70%自動化。"
+      },
+      {
+        "name": "Salesforce Agentforce / AgentExchange",
+        "url": "https://www.salesforce.com/jp/agentforce/",
+        "note": "マルチエージェントオーケストレーション+エージェントマーケットプレイスを既に提供。"
+      },
+      {
+        "name": "Microsoft Copilot Studio",
+        "note": "Teams 67.8%シェアと統合済。ローコードでマルチエージェント連携、日本企業導入実績多数。"
+      },
+      {
+        "name": "Onegai（オネガイ）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000004.000124316.html",
+        "note": "Dify ベースの日本発AIエージェント販売マーケットプレイス。出品料10%。"
+      },
+      {
+        "name": "Agent Skills.tokyo",
+        "url": "https://agentskills.tokyo/",
+        "note": "Claude Code/Cursor/Copilot 向けスキル共有の日本発マーケットプレイス。基本無料。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "AI事業者ガイドライン1.2版（総務省・経産省、2026年3月）",
+        "impact": "AIエージェントが正式に規制対象として明記。Human-in-the-Loop（HITL）が義務化され、学習データのトレーサビリティ・リスク分類拡充も要求。Buda の自律実行モデルは監督フロー実装と監査ログが必須。"
+      },
+      {
+        "law": "個人情報保護法（3年ごと見直し、2026年改正方針公表）",
+        "impact": "AI開発・統計作成目的での個人情報取扱いに関する本人同意のあり方が再整理中。Buda Drive に顧客個人情報を入れる利用シーンは、利用目的特定・第三者提供（モデルプロバイダ転送）の整理が必要。"
+      },
+      {
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "ブラウザ動作するエージェントが利用者情報を外部サーバへ送信する場合、外部送信規律の通知・公表義務に該当する可能性。Slack/Discord連携時の情報送信フローも対象。"
+      }
+    ],
+    "opportunity": "日本でのチャンスは限定的だが存在する。具体的には(1)2026年マルチエージェント元年トレンドに乗る初動需要、(2)個人開発者・1人SaaS運営者向け「セルフ自動化」用途、(3)国内マーケットプレイス（Onegai等）とは異なる『英語圏Skills輸入チャネル』としてのポジション、(4)既存OpenClaw/Devin利用者の移行先、の4軸。ただし企業向け本格導入は Microsoft/Salesforce/国内ベンダーが圧倒的有利で、Buda はソロ開発者・小規模クリエイター・SEO/コンテンツ業者など、稟議不要の意思決定者層に絞った訴求でないと刺さらない。",
+    "rationale": "5軸合計を加重平均すると 6×0.30+4×0.25+5×0.20+4×0.15+4×0.10 = 1.8+1.0+1.0+0.6+0.4 = 4.8 ≒ 5。需要は確かに伸びているが、(a)国内外の強力な競合（vottia/Gen-AX/Agentforce/Copilot Studio/Onegai）が既に同じ領域で動いており、特に Microsoft Copilot Studio は Teams 67.8% シェアと一体運用できる絶対優位、(b)AI事業者ガイドライン1.2版でAIエージェントへのHITL義務化が始まり Buda の「90%自動化」訴求はそのままでは適合しない、(c)ローカライズは英語UI+Discord/WeChat推しと日本企業の業務環境（Teams/Chatwork中心、稟議文化）が乖離、(d)業務委譲というメッセージ自体が日本の雇用感覚と摩擦、という4つの強い逆風がある。結論として『日本市場全体ではskip、ただし日本人ソロ開発者の個別利用ツールとしてはwatch』が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "$1/$7 価格シグナル、フリーミアム+マーケットプレイス手数料+セルフホスト法人プランの多層モデルが想定でき、収益化導線は明確。ただし計算リソース原価（K8s+SSD+トークン）が高く粗利は薄い。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "日本市場に絞ると、本業フリーランス約209万人、SaaS導入加速中の中小100名以下企業層が現実ターゲット。しかしマルチエージェント本番運用層は更に絞られ、TAM はソロ/SMB AI支出で500-1000億円規模だが Buda の取り分は限定的。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "海外発・英語UI・PH発の典型的グローバル製品。日本での GTM チャネル（代理店/SI/法人営業）が不在で、SEO/SNS/コミュニティ流入頼り。中小企業はTeams/Chatworkが入口で、エージェント単体製品の認知獲得は極めて難しい。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "2026年が日本でのマルチエージェント普及元年と各種調査で位置づけられ、企業導入率41%・本格運用本番化フェーズに突入。タイミング自体は良好で、向こう12-18ヶ月の波に乗る余地はある。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "Kubernetesクラスタ、隔離サンドボックス、マルチモデルプロキシ、マーケットプレイス決済、自己ホスト配布、ライブ可視化UI を1人で運用するのは現実的でなく、Buda 自体の開発は数名チーム以上の前提。個人開発者がコピーするには無理筋。"
+      }
+    },
+    "rationale": "加重平均は 6×0.25+4×0.20+3×0.25+7×0.10+2×0.20 = 1.5+0.8+0.75+0.7+0.4 = 4.15 ≒ 4。Buda 自体のビジネスモデル筋は悪くない（フリーミアム×マーケットプレイス手数料×法人セルフホスト）が、日本市場での収益化は (i)GTMチャネル不在、(ii)中小企業のビジネスチャットがTeams/Chatworkに固定でWeChat/Discord訴求が刺さらない、(iii)Kubernetes基盤の高い運用コスト、(iv)Microsoft Copilot Studio/Salesforce Agentforce との価格・統合競争で勝てない、という構造的障害が重なる。タイミングだけが追い風だが、それを取りに行く GTM 体力（日本法人営業/代理店網/日本語UI/Chatwork連携）の構築コストが極めて高く、個人開発者がこの規模を再現するのは事実上不可能。日本市場での viability は低い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 4500,
+      "plans": [
+        "Free: エージェント数2、月間実行時間5時間、Buda Drive 1GB、マーケットプレイス利用可。初期体験用で広告塔。",
+        "Pro 月額2,980円: エージェント数10、実行時間50時間、Drive 50GB、最新モデルアクセス、Skills 購入クレジット2,000円分。ソロ開発者・クリエイター向け中核プラン。",
+        "Team 月額9,800円/5席: エージェント無制限、実行時間200時間、共有ワークスペース、メンバー管理、優先サポート。小規模チーム向け。",
+        "Business 月額29,800円/15席: 専用クラスタ、監査ログ、SSO、HITL承認フロー、日本語サポート。AI事業者ガイドライン対応を訴求。",
+        "Self-Hosted 年額制 980,000円〜: オンプレK8sへの導入、データ完全管理、エンタープライズコンプラ対応。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本国内の(1)AIに前向きなソロ開発者・1人SaaS運営者・コンテンツクリエイター（フリーランス本業約209万人のうちIT/クリエイティブ職コア層約30万人）、(2)従業員10名以下のテックスタートアップ・小規模制作会社で、Teams/Chatwork非ロックイン層約3万社、(3)マーケットプレイスでSkillsを売りたい個人開発者層約1万人。意思決定が個人で完結する稟議不要層に絞る。",
+      "target_count": 340000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 4590000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita/note でのマルチエージェント実装解説記事を主要モデルプロバイダ別に量産しオーガニック流入獲得",
+      "日本人有名インディハッカー（YouTube/X）と提携した実演デモ動画＋アフィリエイトコード配布で個人開発者を初動獲得",
+      "Agent Skills.tokyo / Onegai 等の日本マーケットプレイスとSkills輸出入提携を結びクロスエコシステム化",
+      "AI事業者ガイドライン1.2版準拠の監査ログ・HITL機能を訴求するホワイトペーパー＋WebセミナーでBusinessプラン誘導",
+      "Chatwork連携アダプタを優先実装し、国内中小企業ロックインを崩す差別化要素として打ち出す",
+      "Product Hunt Japanコミュニティ/Indie Hackers Tokyo 等で月次ミートアップ＋ハンズオン開催し草の根認知を積む"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Kubernetes基盤+マルチモデルプロキシ+マーケットプレイス決済+自己ホスト配布を維持するインフラ運用負荷は最低でも3-5名のエンジニア体制を必要とし、個人開発者の事業継続は事実上不可能。模倣する場合は範囲を1機能に絞る必要あり。",
+      "Microsoft Copilot Studio が Teams 67.8% シェアと統合価格で攻めてくるため、日本の法人マルチエージェント市場で価格・流通とも勝てない。差別化はマーケットプレイス活性度しかなく、初期は鶏卵問題で停滞する。",
+      "AI事業者ガイドライン1.2版でHITL義務化、個人情報保護法改正で同意取得要件が変動。Buda の『90%自動化・エージェントがToDoを奪う』訴求は要修正で、規制対応コストが恒常的に重い。",
+      "ローカライズ未対応(英語UI/Discord/WeChat推し)で日本企業の業務環境（Teams/Chatwork/日本語UI/稟議）と摩擦。本格参入には日本語UI・Chatwork連携・日本語サポートに大きな先行投資が要る。",
+      "OpenClaw/Manus/Devin/Hermes など世界の上流プレイヤーが急速進化中で、Buda 独自のオーガナイザー＋サンドボックス＋マーケットプレイスの優位性が短期間で吸収される構造的リスクが高い。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

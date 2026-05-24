@@ -1,0 +1,254 @@
+{
+  "name": "Spellar 3.0",
+  "description": "AI Meeting companion with cross-meeting memory",
+  "ph_url": "https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/FVMNYOIYMA7YBP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-14T07:01:00Z",
+  "upvotes": 570,
+  "comments": 117,
+  "topics": [
+    "Productivity",
+    "Meetings",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>🚀 Hey Product Hunt! I’m Zino the founder of Spellar AI 3.0, and I'm beyond excited to be back with our biggest launch 🎉<br></p><p>Your support on our previous hunts (those #2 and #3 spots still give me chills 🏆) pushed us to ask a harder question: <strong>why do meeting tools only capture the moment — and never remember it?</strong></p><p><br>So we built something different.<br></p><p><strong>Spellar AI 3.0 isn't a note-taker. It's memory.</strong></p><p>It joins your calls, captures every word, and builds context <em>across</em> your meetings — so you can actually use what was said, not just find it.</p><p><br>What's new in 3.0:</p><p>🧠 <strong>Cross-meeting memory</strong> — Ask what a client said three calls ago. Get an actual answer.</p><p>📁 <strong>Organized by client &amp; project</strong> — Your context, structured the way you work.</p><p>📋 <strong>Templates</strong> — Set up the right AI context before the meeting even starts.</p><p>🤖 <strong>Your AI, your choice</strong> — OpenAI, Anthropic, Perplexity or Google. You decide who processes your data.</p><p>🔍 <strong>Open decisions &amp; follow-ups</strong> — Never lose track of what still needs to happen.</p><p><br>We've always believed your meeting assistant should be native and bot-free, with support for 100+ languages. With 3.0, we're taking that further: meetings that don't just get recorded — they get <em>remembered</em>.</p><p><br>Would mean the world if you'd give it a try and share your honest thoughts. The Product Hunt community has shaped everything we've built, and today is no different. 🙏</p><p><br>Let's make meetings actually stick!</p><p>Zino</p>",
+      "votesCount": 30,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Today we launched Spellar 3.0 on Product Hunt, and I want to be honest about what this launch means to me.<br></p><p>The last PH launch was in June 2025. Spellar got great traction, kind reviews, and new users who took a chance on us. Then, for a while, we went quiet.<br></p><p>Not because something went wrong — but because we kept hearing the same thing in feedback: people would use our meeting assistant, get solid notes... and still lose context a few weeks later. They'd join a follow-up call and not remember what had been decided. The notes were there. The memory wasn't.<br></p><p>So we spent the past year rebuilding Spellar around that idea.<br></p><p>Spellar 3.0 isn’t just a meeting recorder with a better summary. It’s an AI companion that works quietly in the background — no bot joining your call, no one else noticing — and creates a persistent memory across all your conversations.<br></p><p>You can search for something from two months ago. Pick up a thread from a call you half-remember. Walk into a client meeting with the full story from every previous chat.<br></p><p>Most meeting tools give you notes.</p><p>Spellar gives you memory.<br></p><p>We’re live today. If this resonates with how you work, your support on Product Hunt means a lot to a small, bootstrapped team like ours<br></p><p>Thank you so much, your support means a lot!</p>",
+      "votesCount": 14,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>hey team, my congrats! the memory feature is what got me. so if I have a related call today, can Spellar surface context from a meeting I had three weeks ago?</p><p></p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Most meeting tools give you notes. Spellar AI gives you memory. It joins your calls, captures every word, and builds context across all your meetings. Ask what a client said three calls ago. Find decisions from last week. See what’s still open. Organize by client, use templates, and choose the AI you trust — OpenAI, Anthropic, Perplexity, Gemini and more!",
+  "featured_at": "2026-05-14T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/06ff0df7-631d-44e8-8951-92f5147a43fe.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/be87f9fe-48eb-4943-9117-4bac178607f3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9996f19f-260e-40b3-9006-a151be16a02d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/82a12bc2-d31f-455d-a047-e78b5bdfa3b4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7592f79f-2c75-4052-8595-86a2bd5f07f3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/83e4a6b0-a15f-4a6f-9e50-d33559b29fca.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e3c611da-ee9d-4882-b4f6-8a667593fd4e.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/bfadf843-b8ef-4ba8-a301-e1d8d2497766.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:06",
+  "landing_meta": "Spellar - AI Meeting Note Taker — Spellar AI — bot-free meeting assistant for Mac, iPhone, iPad & Web. Smart summaries, AI copilot, 100+ languages, 18+ integrations including Notion, Jira, Linear, Google & more.",
+  "landing_text": "Spellar - AI Meeting Note Taker",
+  "pricing_signals": [
+    "$16",
+    "$1"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:06",
+  "description_ja": "ボットを使わずネイティブに動作するMac/iOS向けAI会議アシスタント。複数会議を横断して文脈を記憶し、過去の発言や決定事項を後から呼び出せる。",
+  "summary_ja": "Spellar 3.0は会議録音と要約に留まらず、クライアントやプロジェクト単位で会議内容を蓄積し、横断検索・参照できる「会議メモリ」を売りにしたAIアシスタント。bot-freeでZoom/Meet/Teamsに侵入せず動作し、100以上の言語と18種類以上の外部連携に対応。OpenAI/Anthropic/Gemini/Perplexity等のLLMをユーザーが選択できるのが特徴。",
+  "tldr_ja": "Mac常駐型ボット不要AI議事録。複数会議横断のメモリで「3週間前に何を言ったか」を即答できる点が新規性。",
+  "review_guide_ja": {
+    "what": "Mac/iOSのデスクトップアプリとして常駐し、ユーザー側マイクと会議音声を直接キャプチャしてリアルタイム文字起こし・要約・タスク抽出を行う。3.0では会議横断のベクトル記憶を持ち、クライアントやプロジェクトでフォルダ化、テンプレ適用、利用するLLMの選択が可能。NotionやJira等への自動エクスポートを備える。",
+    "for_who": "営業・カスタマーサクセス・PMなど、同じ相手と複数回打ち合わせを重ねる職種の個人〜小規模チーム。特にMacユーザーかつ会議ボット参加を嫌う環境。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "文字起こしと要約はLLM APIで容易だが、bot-freeのネイティブmacOS音声キャプチャと長期会議メモリ（埋め込み+RAG）の品質確保には相応の実装工数が必要。"
+    },
+    "signals": [
+      "PH上で570 upvote/117コメントと前作からの強い再ローンチ反応",
+      "市場は依然成長中で過去会議の横断検索を求める声が増えている",
+      "Notta BrainやCirclebackなど横断メモリは新潮流として認知されつつある"
+    ],
+    "concerns": [
+      "Notta/Otolio/Rimo/AI GIJIROKUなど日本語特化の強豪が固まっており新規参入余地が薄い",
+      "会議横断記憶は競合も追随中で差別化の持続性が弱い",
+      "macOSネイティブ限定でWindows比率が高い日本企業との相性が悪い",
+      "改正個情法下で会議録音・LLM外部送信の同意・データ越境の説明責任が重い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内AI議事録市場は58%を上位5社が占めるほど顕在需要は強く、Notta単体で国内利用者多数。横断メモリ需要も2026年に顕在化している。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Otolio18.8%、Notta12.1%、AI GIJIROKU11.3%、YOMEL、Rimoが寡占。さらにNotta BrainやCirclebackも横断記憶を提供開始しレッドオーシャン。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "改正個情法・PPCガイドラインで会議録音には全参加者の同意とLLM入力の明示説明が必須。海外LLM経由のクロスボーダー移転の同意取得負担も大きい。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "100言語対応するが日本語要約精度ではRimo/Otolioに分があり、UI/契約書/インボイス対応・国内決済（請求書払い）対応も未整備でB2B導入の壁が高い。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業はWindows比率が高くMac/iOS常駐限定モデルは導入対象が個人〜小規模クリエイティブに限られる。情シス審査もネイティブ録音アプリは通りにくい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Otolio（旧スマート書記）",
+        "url": "https://www.smartshoki.com/",
+        "note": "国内シェア1位(18.8%)。日本語精度と日本企業向けUI/契約に強い。"
+      },
+      {
+        "name": "Notta",
+        "url": "https://www.notta.ai/",
+        "note": "国内シェア2位(12.1%)。Premium月1,980円、累計9.9億円調達済み。Notta Brainで横断メモリも提供。"
+      },
+      {
+        "name": "AI GIJIROKU",
+        "url": "https://gijiroku.ai/",
+        "note": "業界特化音声認識と話者分離。Zoom連携が強い純国産。"
+      },
+      {
+        "name": "Rimo Voice",
+        "url": "https://rimo.app/",
+        "note": "25万ユーザー2000社導入。Pro月4,950円〜、Business月50,000円〜。"
+      },
+      {
+        "name": "tl;dv / Fireflies",
+        "url": "https://tldv.io/",
+        "note": "海外勢の代表。日本語要約も提供。SpellarのbotフリーUSPと真っ向被り。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（2026年改正方針）",
+        "impact": "会議参加者の音声は個人情報。生成AI入力時に利用目的・LLM事業者の越境移転を本人説明する必要があり、ユーザー任意LLM選択UIでの同意管理が課題。"
+      },
+      {
+        "law": "PPC生成AI注意喚起（2023〜）",
+        "impact": "AI事業者へのプロンプト入力は利用目的内に限定する旨を周知する必要。社内ガイドライン策定が前提となるためエンプラ販売の摩擦要因。"
+      },
+      {
+        "law": "労働契約法・録音の同意慣行",
+        "impact": "ボットが入らないため相手に録音が伝わりにくく、無断録音と取られるリスク。ユーザー側に明示同意フロー誘導が必要。"
+      }
+    ],
+    "opportunity": "横断会議メモリ自体は新潮流だが日本では『情シスが許可しやすい純国産』『Windows対応』『請求書払いと日本語要約精度』を満たす派生プロダクトに余地。個人開発者は法人ではなく、フリーランスのコンサル・コーチ・士業など『同じクライアントと10回以上面談する』縦割りニッチに絞り、テンプレ＋顧客カルテ機能で差別化するなら勝機あり。",
+    "rationale": "需要は確かに大きいが既に上位5社で6割が占有され、後発のSpellarが日本市場の主流であるWindows・請求書払い・日本語精度・ボット型運用の慣習にどれも刺さらない。Notta Brainの横断記憶機能投入で唯一のUSPも追随されており、参入してもPMF達成は難しい。watchに留め、Macクリエイター/コンサル個人など局所領域だけ模倣する形が現実的。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "本家$7.99-9.99/月相当（約1,200-1,500円）。日本でもNotta1,980円・Rimo1,650円水準で月額1,500-2,500円の課金は通る。ただし価格弾力は高くフリーミアム圧力が強い。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内AI議事録市場は中堅企業32万社+知識労働者数百万人規模で拡大中だが、Mac限定・個人向けに絞ると到達可能市場は数万〜十数万ユーザーに縮小。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "国内では既存5社がリスティング/比較メディア/代理店網を握り、後発の個人開発者がCAC回収する有機チャネルは乏しい。X/note発のクリエイター層攻略が現実線。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "横断会議メモリは2026年に立ち上がる潮流で先行性は半年程度残る。一方でNotta Brain等が同時期にローンチしており窓は短い。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "ネイティブmacOS音声処理、LLM切替、ベクトル検索、20以上の外部連携保守は個人1人では維持困難。サーバ常時運用とサポート負荷も高い。"
+      }
+    },
+    "rationale": "ARPU1,500-2,500円という単価は合格点だが、市場の上位5社で6割が占有されGTMチャネルが既に確立されていることが事業性を下押しする。Mac/iOS限定の縛りも到達顧客数を一桁削る。タイミングは悪くないがWindow6か月で資金力ある既存勢に上書きされやすく、個人開発者単独で日本ローカライズと法務対応まで維持するのは難しい。模倣するなら個人クリエイター/コンサル特化のニッチ縦割りに振った設計に絞るべき。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1800,
+      "plans": [
+        "Free: 月5会議・横断メモリ7日保持・基本要約",
+        "Pro 1,800円/月: 無制限会議・横断メモリ無期限・LLM選択・Notion/Slack連携",
+        "Team 3,500円/ユーザー月: 共有メモリ・SSO・監査ログ・請求書払い対応"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Macで複数クライアントを継続フォローする日本のフリーランスコンサル/コーチ/PM/士業/カスタマーサクセス担当者（月10回以上の1on1ミーティングを行う層）",
+      "target_count": 150000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 2700000
+    },
+    "recommended_gtm": [
+      "X/note/YouTubeで『3週間前のクライアント発言を一発で出すワークフロー』をデモ動画で配信",
+      "Setapp/Mac App Storeへの掲載でMacユーザーの自然流入を狙う",
+      "コンサル・コーチ向けコミュニティ（Mosh、ストアカ講師等）への限定割引",
+      "Notion/Linearユーザー向けのテンプレ配布によるPLG導線",
+      "比較メディア（ITreview/BOXIL）へのレビュー投稿で日本語SEO獲得"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Notta Brain等の既存勢が同じ横断メモリ機能を低価格で投入し差別化消失",
+      "改正個情法対応（同意取得・越境LLM説明）の運用負荷とエンタープライズ審査落ち",
+      "macOSネイティブ録音APIの仕様変更・権限ブロックでコア機能が止まるリスク",
+      "個人開発でLLM API原価が会議時間に比例し粗利が圧迫されるユニットエコノミクス問題",
+      "日本語要約精度でOtolio/Rimoに劣後しレビュー評価が伸びない"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-23T00:00:00Z",
+  "review_guide_at": "2026-05-23T00:00:00Z",
+  "business_viability_at": "2026-05-23T00:00:00Z",
+  "advisor_view_at": "2026-05-23T00:00:00Z"
+}

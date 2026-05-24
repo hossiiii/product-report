@@ -1,0 +1,228 @@
+{
+  "name": "Quarkdown",
+  "description": "Markdown with superpowers: from ideas to stunning documents",
+  "ph_url": "https://www.producthunt.com/products/quarkdown/launches/quarkdown?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/QB6RTH5OYVGS2X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-30T07:01:00Z",
+  "upvotes": 134,
+  "comments": 8,
+  "topics": [
+    "Open Source",
+    "Writing",
+    "Developer Tools",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Hunters!<br><br>I'm the author and project lead of Quarkdown. What started as a simple university research project eventually evolved into a full-fledged typesetting system for writers, developers, and anyone who cares about control.<br><br>I've been building open source software for the past 10 years. Making things is what I love the most, and I'm driven by passion for what I do.<br><br>If you try it out, please share your feedback! And if not, a star goes a long way ⭐️</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey all, thanks for the support!</p><p></p><p>I’m aware of the typo in the subtitle: a Product Hunt moderator changed my original description right before launch and left a typo there that I’m not able to edit out! I’m waiting for support to edit it for me</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Giorgio, congrats on the launch! markdown + latex in one system is an achievement by itself, but the syntactic ambiguity is brutal. How are you resolving the underscore problem (italic in markdown vs subscript in latex)? mode-switch on $..$ delimiters, or some smarter context inference? anyway, best of luck!</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Quarkdown is a modern, fast, Markdown-based typesetting system to create papers, presentations, knowledge bases and websites. Write in the markup language you're already familiar with for a flat learning curve, but juice it up with powerful extensions for full control over your documents, and live preview to enter flow state faster. Quarkdown runs on VS Code or your terminal.",
+  "featured_at": "2026-04-30T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/063ff643-3829-48bd-9b0e-d7fc3f08e062.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0063e319-b398-4f4d-bee3-3ebddcc75be1.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e8a1a10b-6903-4e15-8f65-6be6aeb93b84.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/480e2ac8-cebb-40c5-b728-54e74309b576.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/27762f03-c1d2-4d39-8e52-08333e9414a3.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/265bb0ab-9d1c-4017-8152-b63db07f3ea5.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dfc28c56-f765-4f53-9a28-8a89cb5bb1c2.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3c491827-ef16-4c8c-9a94-c2c58c7b3eba.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/318c276c-ac75-4372-8d1b-beb32fe656ee.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d19f826e-5be0-48cc-980e-25f692e87d9a.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:36:05",
+  "landing_meta": "Quarkdown | Markdown with superpowers — Quarkdown is a modern, open-source, Markdown-based typesetting system for creating papers, presentations, knowledge bases and static websites.",
+  "landing_text": "Quarkdown | Markdown with superpowers Markdown with superpowers Markdown meets the power of LaTeX. And it's free and open source. Install Get started → No boilerplate Spend your time writing and don't worry about the rest. .docauthor { Jennifer Chu } .pagemargin { topright } .docauthor | MIT News # X-ray flashes from a supermassive black hole !( 70% )[ Black hole ]( img/blackhole.jpg ) .abstract One supermassive black hole has kept astronomers glued to their scopes for the last several years. The black hole in question is `1ES 1927+654` , which is about as massive as a million suns and sits in a galaxy that is 270 million light-years away. In 2018, astronomers at MIT and elsewhere observed that the black hole’s corona — a cloud of whirling, white-hot plasma — suddenly **disappeared** , before reassembling months later. The brief though dramatic shut-off was a first in black hole astronomy. > This would be the closest thing we know of around any black hole. > - Megan Masterson, a graduate student in physics at MIT Batteries included Complete authoring experience Write Markdown to reach flow state faster. Use Quarkdown's extensions to achieve more. Ready for autopilot Agent-friendly Let your AI agent speak fluent Quarkdown with built-in skills. > Add a warning for candy thieves ● Skill( quarkdown ) .box type :{ warning } **Hands off the candy jar.** You have been warned. Versatile One tool to rule them all Whether you are writing a research paper, a quick report, a company-wide wiki, class notes, or preparing interactive slides for your next talk, there's only one line you need. Replaces .doctype { paged } For articles, books and reports. Replaces .doctype { plain } For notes, knowledge bases and simple static websites. Replaces .doctype { docs } For wikis, technical documentation and large knowledge bases. Replaces .doctype { slides } For lectures, talks and interactive presentations. Reactive preview Typesetting for the impatient With blazing fast compilation and li",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "$1"
+  ],
+  "landing_fetched_at": "2026-05-24T20:36:07",
+  "description_ja": "アイデアを論文・スライド・Wikiに変える、Markdown拡張型タイプセットOSS",
+  "summary_ja": "Markdown構文をLaTeX級の表現力に拡張するOSSタイプセットシステム。論文・スライド・Wiki・サイトを単一ソースから生成でき、VS Code/CLIで動作。スクリプティング機能と関数定義で動的文書を作成可能。",
+  "tldr_ja": "OSSタイプセット領域はTypst/Marp/Pandocで競合飽和、本家OSSも無料で直接利用可。日本での課金化は困難で個人開発はSaaS化に不向き。",
+  "review_guide_ja": {
+    "what": "QuarkdownはMarkdown構文を拡張し、LaTeX相当の表現力を持つOSSタイプセットシステム。Kotlin/JVMで実装され、関数・変数・条件分岐などTuring完全なスクリプティングが可能。`.doctype`ディレクティブで論文(paged)、スライド(slides)、Wiki(docs)、静的サイト(plain)を単一ソースから出力できる。VS Code拡張とCLIで動作し、リアクティブプレビュー、数式、図表、コンポーネント、AIエージェント連携用ビルトインスキルを内包。GitHub stars 13,000超で2026年4月にv2.0リリース。典型ユースケースは論文執筆、技術プレゼン、社内Wiki構築、技術ブログ生成、講義資料作成など。",
+    "for_who": "Markdown慣れしておりLaTeXの複雑さを避けたい研究者・大学院生・技術ライター、開発者向けスライド/Wiki作成を効率化したいエンジニア、単一ソースから複数フォーマットを出力したいOSS愛好家・テックブロガー。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "MarkdownパーサとTuring完全DSL、複数フォーマット出力、リアクティブプレビュー、AIエージェント統合まで作り込まれており、Kotlin/JVMの大規模実装。個人で同等品を作るのは数ヶ月単位。"
+    },
+    "signals": [
+      "GitHub 13,000+ stars、週次2,500+増（2026/05時点）で勢いあり",
+      "Zenn/Qiita/note等で日本語紹介記事が複数あり開発者の関心は確認可能",
+      "v2.0で「Agent-friendly」(AIエージェント連携Skills)を打ち出しトレンド対応",
+      "PHローンチ134upvotesでギリ可。コメント8件と少なめだがクリエイター質問が技術的"
+    ],
+    "concerns": [
+      "完全OSS・無料公開済みでSaaS化や有料サブスクへのフックがない",
+      "競合OSS(Typst/Marp/Slidev/Pandoc/LaTeX)が成熟しており、日本語コミュニティもTypst側に既にある",
+      "MIT規模の超巨大OSSタイプセット領域は本家進出/フォークが容易",
+      "縦書き・jaconf相当の日本語テンプレ整備が無く、日本人ユーザーには即使えない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "Marp/Slidev/Typstには国内コミュニティ・記事多数だが、QuarkdownはZenn/Qiitaに紹介記事数件レベル。需要は潜在的にあるが顕在化は限定的で、Typstほどの盛り上がりは未確認。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "国内代替が極めて多い。Marp(国産・8500+stars)、Slidev、Typst+jaconf/jastylest(国内研究室で採用例)、Pandoc(日本Pandocユーザ会あり)、Re:VIEW、Sphinx等が機能を重複してカバーする飽和市場。"
+      },
+      "regulation": {
+        "score": 10,
+        "reason": "個人/法人がローカルで使うOSSドキュメントツールに該当する規制は基本的に存在しない。個情法・特商法等の対象外。配布のみで完結する。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UIテキストと数式・表組などは構造化なのでローカライズは比較的容易。一方で日本語フォント設定・縦書き・jaconf的論文テンプレ・JIS X 0213対応など、本家OSSにフォーク提案する形での貢献余地はあるが、深いUX調整が必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "個人開発者・研究者層との相性は中庸。日本企業のドキュメント文化はまだWord/PowerPoint中心で、Markdownタイプセットを採用する企業は限定的。商習慣の摩擦は中程度。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Marp",
+        "url": "https://marp.app/",
+        "note": "日本人開発者・服部雄輝氏によるMarkdownスライドOSS。GitHub 8500+stars、国内コミュニティ強固、VS Code連携でデファクト。"
+      },
+      {
+        "name": "Typst (日本語コミュニティ・jaconf/jastylest)",
+        "url": "https://typst.app/",
+        "note": "LaTeX代替として国内研究者層に急速浸透。jaconf/jastylest等の日本語論文テンプレ整備が進み、Quarkdownと真っ向競合。"
+      },
+      {
+        "name": "Slidev",
+        "url": "https://sli.dev/",
+        "note": "Vue.jsベースのMarkdownスライドOSS。Qiita/Zennで多数の日本語記事、エンジニア層の人気が高い。"
+      },
+      {
+        "name": "Pandoc (日本Pandocユーザ会)",
+        "url": "https://pandoc.org/",
+        "note": "ドキュメント変換のデファクト。日本Pandocユーザ会による日本語ドキュメントあり、論文Word変換等で広く利用。"
+      }
+    ],
+    "regulatory_findings": [],
+    "opportunity": "Quarkdown本体は本家がOSSで完成度高く、独自プロダクト化は無意味。日本独自の角度を出すなら、(1)日本語論文テンプレ集(jaconf相当)をQuarkdown用に整備しコミュニティ貢献、(2)QuarkdownをバックエンドにしたSaaS『日本語論文/Wikiオーサリングクラウド』(クラウド編集+共同編集+大学/研究機関向けSSO)を被せる戦略はあり得るが、Typst側に同種SaaS(typst.app)が既存。むしろ「LaTeX/Word/PPT→Quarkdown変換ツール」「企業Wiki向け管理画面」など周辺ユーティリティの隙間を狙うのが現実的。",
+    "rationale": "Quarkdown自体は技術的に魅力的だが、日本市場でビジネスとして成立する余地は薄い。需要層(研究者・エンジニア)はすでにMarp/Typst/Slidev/Pandoc/LaTeXのいずれかで満足しており、乗り換えコストを払ってまでQuarkdownを採用する強いドライバーが見えない。また本家がOSSで完全無料・機能完備のため、ラッパーSaaSや有料テーマ販売しか収益モデルが組めない。規制リスクはゼロだが、競合飽和と日本語ローカライズ未整備がボトルネック。verdictはskip(競合過多)。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "本体は完全OSS無料で代替品も無料が主流。日本では開発者向けツールへの直接課金抵抗が強い。テーマ販売・ホスティングSaaS・有料サポート等のラッパー収益しか組めず、ARPUは低位推定。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内のMarkdownタイプセット利用者は研究者・エンジニア層中心で、有料化に応じる層は数千〜数万人規模と推定(根拠未確認)。法人需要はWord/PPTが支配的で開拓困難。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "Qiita/Zenn/X発信でリーチは可能だが、競合発信(Marp/Typst)が先行しシェアオブボイス確保が難しい。PLG適合度は中。テンプレ販売型ならOSSコミュニティへのバンドル配布が現実的。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Marp/Slidev/Typstが先行し成熟。Quarkdown本家v2.0が出たばかりで本家自身が領域を埋めにくる。日本市場で隙間を取る時間窓は短く、6〜12ヶ月以内に動かないと埋もれる。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "OSSラッパー型・テンプレ販売型なら個人運用容易。SLA期待値も低い。ただしクラウドSaaS化すると共同編集サーバ運用負荷が跳ね上がり、個人継続は困難になる。"
+      }
+    },
+    "rationale": "事業として見ると、Quarkdown周辺で日本市場に勝つ筋は限定的。本家OSSが無料完備で参入余地が薄く、代替OSS(Marp/Typst/Slidev/Pandoc)が国内コミュニティを既に押さえている。個人開発者が取れる現実的なポジションは『日本語論文テンプレ販売』『Quarkdown→PDF変換クラウド』『企業向けWikiホスティング』等のニッチに限られ、ARPUも市場規模も小さい。Typst側の動きが速く時間窓も短い。solo_ops観点だけ高いが、収益化・市場規模・タイミングが弱く、business_viabilityスコアは3。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "OSS本体: 完全無料(MIT等のOSSライセンス前提)",
+        "日本語テンプレ集: 1テンプレあたり ¥500〜¥2,000 買い切り想定(根拠未確認)",
+        "企業向けWikiホスティングSaaS: ¥3,000/月〜(参入する場合の参考価格・根拠未確認)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内の研究者・大学院生・テックライター・OSS愛好家でMarkdownタイプセットに興味があり、Marp/Typstに不満を持つニッチ層。法人での採用は限定的と仮定。",
+      "target_count": 5000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Zenn/Qiitaで『LaTeX/Typst→Quarkdown比較』『日本語論文テンプレ』連載で技術発信",
+      "X(旧Twitter)で大学研究室・エンジニアコミュニティに向けて事例共有",
+      "GitHub OSSコミュニティへのテンプレ・プラグイン貢献(本家merge狙い)",
+      "技術カンファレンス登壇(builderscon/技術書典等)で実例デモ"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家OSSが無料完備で課金化フックが乏しく、ARPU 0前提でないと現実的でない",
+      "国内代替(Marp/Typst/Slidev)のコミュニティが先行し、シェア奪取コストが高い",
+      "Typst側にtypst.app等のSaaSが既存で、ラッパーSaaS参入の差別化が困難",
+      "Quarkdown本家v2.0が活発で領域を埋めにくるため、独自機能の優位性が短命",
+      "日本語縦書き・jaconf相当テンプレ未整備で、すぐ使える状態にするまでに開発負荷大"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

@@ -1,0 +1,236 @@
+{
+  "name": "PHBench",
+  "description": "Predict the next Series A from a ProductHunt launch",
+  "ph_url": "https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/PGPP6AKDU7CMY4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-15T07:01:00Z",
+  "upvotes": 388,
+  "comments": 49,
+  "topics": [
+    "Venture Capital",
+    "Artificial Intelligence",
+    "GitHub",
+    "Data",
+    "Vercel Day"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>@rajiv_ayyangar, thank you so much for hunting us!<br><br>Hey PH Community 👋<br><br>We're <a href=\"https://www.linkedin.com/in/yagizihlamur/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Yagiz</strong></a>, a Senior Technical Product Manager at Amazon and an independent researcher and <a href=\"https://www.linkedin.com/in/yihlamur/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Yigit</strong></a>, co-founder and GP of Vela Partners. Today, we're launching <a href=\"https://phbench.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>PHBench</strong></a> in collaboration with the University of Oxford (<a href=\"https://www.linkedin.com/in/bengriffin2/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Ben Griffin</strong></a> and <a href=\"https://www.linkedin.com/in/rick-chen-271a5037b/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Rick Chen</strong></a>) and <a href=\"https://vela.partners\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Vela Partners</strong></a>, the leading quant VC. <br><br>And yes, the irony of launching a Product Hunt benchmark on Product Hunt is completely intentional 🙂<br><br>Here's the origin story. We kept asking a question nobody had answered: Can you predict which Product Hunt launches will raise Series A funding, based solely on what you see on launch day (votes, rank, team size, category, timing)?<br><br>So we built PHBench. We collected 67,292 featured PH launches going back to 2019, matched them to Crunchbase funding records, and identified 528 verified Series A raises within 18 months. Seven years of data. Every featured launch.<br><br>Three findings I think this community will find interesting:<br><br>→ The signals work. Our model is 4.7x better than random. Statistically significant.<br><br>→ The strongest predictor isn't votes alone. It's team size × community engagement together. A large coordinated team achieving high traction is more predictive than either signal alone.<br><br>→ B2B categories convert at 3x the baseline rate. API, Payments, Fintech. If you launch a developer tool on a Tuesday with a big team and high engagement, that's a strong signal.<br><br>We also tested three frontier Gemini models on the same task. The most capable model performed the worst. Better reasoning doesn't help with pure numbers.<br><br>The dataset is available on <a href=\"https://huggingface.co/datasets/ihlamury/phbench\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>HuggingFace</strong></a>. The leaderboard is <a href=\"https://www.phbench.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>live</strong></a>. The <a href=\"https://github.com/ihlamury/phbench\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>code</strong></a> is public. Can you beat our baseline?<br><br>The paper is on <a href=\"https://arxiv.org/abs/2605.02974\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>arXiv</strong></a> and has been submitted to the NeurIPS 2026 Evaluations &amp; Datasets Track. <br><br>Would love your feedback — especially from anyone who's launched on PH and gone on to raise Series A. You're in our dataset :)</p>",
+      "votesCount": 23,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Been quietly working on this with Yagiz, Yigit and Rick for a while.</p><p><br>While I mostly focus on using founder profiles to predict raises, PHBench tries the same prediction but from the product side. A similar function but from the other side.</p><p><br>Have a go at the leaderboard if you fancy; the data's on HuggingFace.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Are you using only launch day signals, or do you include post launch traction like follows and comments over the first week?</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "PHBench: the first public benchmark predicting Series A funding from Product Hunt launch signals. We analyzed 67,292 featured launches over 7 years, linked to 528 verified Series A rounds via Crunchbase. Champion model: 4.7x lift over random. Team size × community engagement is the strongest signal; B2B (API, Payments, Fintech) converts at 3x baseline; Rank #1 raises at 2.2x unranked. Dataset, code, and baselines open. Submit at phbench.com and subscribe for weekly high-probability launches.",
+  "featured_at": "2026-05-15T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/c7ca5913-0678-4f98-bfd1-54a798eddfb7.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f9392d20-d8bd-46b6-8f1a-0f76fd157de2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c4725601-fdf8-4d32-9f03-327524a300a3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3c2bc063-f40a-4160-b2b3-ab076e3cc84f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/24de3e83-0a60-4563-8812-61f8599cf6e7.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/bf3461d6-1f09-499c-aedb-aefd33a054f4.gif"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:19",
+  "landing_meta": "PHBench — predict Series A from Product Hunt signals — A benchmark for predicting Series A funding from Product Hunt launch signals. 67,291 launches, 528 verified Series A events.",
+  "landing_text": "PHBench — predict Series A from Product Hunt signals",
+  "pricing_signals": [
+    "$1",
+    "$6",
+    "$10",
+    "$0"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:20",
+  "description_ja": "Product Huntのローンチ当日のシグナルから18ヶ月以内のシリーズA調達を予測する公開ベンチマーク。67,292件・528件のSeries A実績を学習。",
+  "summary_ja": "PHBenchは2019年以降の67,292件のProduct Hunt掲載ローンチをCrunchbaseの資金調達履歴と紐付け、528件のシリーズA案件を抽出して構築された予測ベンチマーク。投票数・チーム規模・カテゴリ・曜日などのローンチ日シグナルからシリーズA調達確率を推定し、ランダム比4.7倍のリフトを実現。データセット・コード・リーダーボードを公開し、Vela Partnersとオックスフォード大学の共同研究。VCのソーシング自動化や個人開発者のローンチ戦略最適化に利用可能。",
+  "tldr_ja": "PH掲載67k件→Series A 528件を学習し、ローンチ当日シグナルからシリーズA調達確率を予測する公開ベンチマーク。VCのDeal Sourcingと個人開発者の戦略立案を支援。",
+  "review_guide_ja": {
+    "what": "Product Huntに掲載された7年間67,292件のローンチデータをCrunchbaseのファンディング履歴と突合し、18ヶ月以内のシリーズA調達528件を正解ラベルとした予測ベンチマーク。投票数・順位・チーム規模・カテゴリ・曜日のみを特徴量とし、ランダム比4.7倍のリフトを達成。データセットはHuggingFaceで公開、コードはGitHub、リーダーボードはphbench.comに集約。論文はNeurIPS 2026 Evaluations & Datasets Trackに投稿済み。",
+    "for_who": "Data Driven VC・CVC・アクセラレーターのソーシング担当、個人開発者のローンチ戦略設計者、AI研究者（タブularデータのベンチマーク研究）。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "データセット・コード・ベースラインモデルすべてがHuggingFace/GitHubで公開済み。PH APIとCrunchbase APIで再現拡張も可能。"
+    },
+    "signals": [
+      "学術連携（オックスフォード大学）+ Vela Partners（quant VC）の共同研究で信頼性高い",
+      "PH ローンチ初日に388 upvotes・49 comments・トピック5件の高エンゲージメント",
+      "NeurIPS 2026投稿済みで学術的妥当性が担保",
+      "Crunchbaseとの実データ突合で528件の正解ラベルを保有"
+    ],
+    "concerns": [
+      "ベンチマーク自体は学術アセットで直接収益化が難しい（OSS的）",
+      "Series A調達確率のリフト4.7倍は統計的に有意でも実務的価値が不明確",
+      "Product Hunt経由Series Aは全Series Aの一部に限定（バイアス）",
+      "上位プレイヤー（Vela Partners）が自社プロダクトとして囲い込む可能性"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 3,
+        "reason": "日本のVCは年間Series A 約500件（INITIAL調べ）と母数が小さい上、Product Hunt経由でSeries Aに至る国内案件は極めて少数。国内VCの大半はインバウンド・人脈ソーシングが中心で、PH ベンチマークの直接需要は限定的。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "STARTUP DB、INITIAL（スピーダ）など国内特化のスタートアップDB寡占。Crunchbaseとも提携済みでデータ層は固い。PHシグナルに特化した同種プロダクトは国内不在だがニッチすぎる。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "公開データ（PH/Crunchbase）の集約・分析のため規制リスク極小。金融商品取引法上の投資助言該当性のみ注意（情報提供レベルなら問題なし）。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "Product Hunt自体が日本で認知度低く（ProductHuntJPなど一部コミュニティのみ）、PH掲載する日本スタートアップが少ない。データセットの大半が英語圏中心で日本VCの実務に直結しにくい。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本VCはリレーション・紹介ベースのソーシング文化が依然強く、データドリブン投資の浸透は欧米比で大幅遅れ。ベンチマーク/リーダーボード文化も日本のVC実務には根付いていない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "STARTUP DB (forStartups)",
+        "url": "https://startup-db.com/",
+        "note": "日本最大級のスタートアップDB、25,000社超を収録。ENTERPRISEプラン有料、Crunchbase連携済み。"
+      },
+      {
+        "name": "INITIAL (スピーダ)",
+        "url": "https://initial.inc/",
+        "note": "ユーザベース傘下のスタートアップ情報リサーチ。年次・半期レポートで国内VC動向を継続報告。"
+      },
+      {
+        "name": "ProductHuntJP",
+        "url": "https://twitter.com/producthuntja",
+        "note": "PH話題の日本語キュレーション。コミュニティ運営でマネタイズ未確立。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "金融商品取引法（投資助言業）",
+        "impact": "個別銘柄のSeries A予測スコアを継続的に提供し報酬を受ける場合、投資助言業登録の論点が生じうる。一般情報提供にとどめれば回避可能。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "公開データのみを使う場合は問題ないが、ファウンダーの個人プロファイルを横断統合する場合は要配慮。"
+      }
+    ],
+    "opportunity": "日本市場向けの直接的ローカライズはROIが低いが、英語版のままアジアのData Driven VC（シンガポール・東京の海外系VC）に売り込む二次需要は存在。または、PHベンチマーク手法を日本スタートアップDB（STARTUP DB/INITIAL）データに置き換えた『日本版予測スコア』は差別化余地あり。",
+    "rationale": "日本市場ではProduct Hunt自体の認知・利用が限定的で、年間Series A件数も米国比で1桁少ない。VCのデータドリブン投資文化も未成熟（人脈・紹介依存）であり、PHシグナルに特化した予測ベンチマークの国内需要は薄い。学術アセットとしての価値は高いが、日本でのSaaS化・有料化は厳しい。国内特化のSTARTUP DB/INITIALが既にデータ層を寡占しており、競合参入の余地も小さい。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "本体はOSS/公開ベンチマークで直接収益化は難しい。記載のpricing_signals（$1/$6/$10）はサブスク（週次High-Probability Launchesレポート）想定だが単価が低く、LTV積み上げに大規模なリスト構築が必要。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "グローバルではData Driven VCが拡大中（Gartner調査でVCの35%がデータツール活用）。ただしPH特化に狭めると顧客はearly-stage VC・アクセラレーターに限定され、グローバルでも数千社規模。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Vela Partners（quant VC）とOxford大の信頼性、NeurIPS投稿、PHローンチで初動の認知獲得は成功。週次ニュースレター・リーダーボード戦略で継続接点を作れる構造。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "LLM時代でData Driven VCへの関心は世界的に上昇中。一方PH自体の影響力はピーク後でやや成熟。AIエージェント時代のソーシング自動化文脈には乗れる。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "データ収集（PH API + Crunchbase）とモデル再学習に継続的工数が必要。Crunchbase有料APIのコストも重く、個人開発で継続するには負荷が高い。研究者+VC体制での運営前提。"
+      }
+    },
+    "rationale": "学術的・PR的価値は極めて高いが、SaaSとしての収益化シナリオが弱い。本質的にVela Partnersの自社ソーシング差別化を強化する『コンテンツマーケ兼ベンチマーク』として機能しており、独立した収益源としては小さい。週次レポートのサブスク収益は単価$10未満で大量の顧客獲得が必須。PH掲載というニッチに絞った時点でTAMが限定的で、個人開発者がこの形をそのまま日本で再現するのは非推奨。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 公開リーダーボード・データセット閲覧",
+        "Pro $10/月（約1,500円）: 週次High-Probabilityローンチレポート、APIアクセス",
+        "Team $99/月: 複数ユーザー・カスタムアラート・履歴データダウンロード",
+        "Enterprise (個別見積): VC向けカスタムスコアリング、Slack/CRM連携"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内のearly-stage VC・CVC・アクセラレーター・スタートアップスタジオでグローバルソーシングを行う組織、および海外向けPLG SaaSを開発する日本人個人開発者",
+      "target_count": 800,
+      "capture_pct_year3": 3,
+      "monthly_revenue_target_jpy": 36000
+    },
+    "recommended_gtm": [
+      "Vela Partners・Oxford連携を前面にした学術PR（NeurIPS掲載で権威付け）",
+      "週次無料ニュースレターで継続接点を作りPro転換",
+      "PH自体に毎週ローンチし続けてエンゲージメント維持",
+      "HuggingFace/GitHubのOSS露出でML研究者コミュニティから流入",
+      "Data Driven VC向けカンファレンス（Web Summit, SaaStr等）でデモ"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Crunchbase APIライセンス・利用規約変更でデータ供給が止まるリスク",
+      "Product Hunt自体のトラフィック・影響力低下によるシグナル価値減衰",
+      "OSS公開のためVela Partners以外のVCが自前で取り込み、課金顧客にならない",
+      "Series A確率4.7倍リフトが実務のヒット率向上に直結しない（過学習・サバイバーバイアス）",
+      "金融商品取引法上の投資助言業該当リスク（個別銘柄スコア提供時）"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_evaluated_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0"
+}

@@ -1,0 +1,183 @@
+{
+  "name": "Shadow 2.0",
+  "description": "The work your meetings create, done before they end",
+  "ph_url": "https://www.producthunt.com/products/shadow-6/launches/shadow-2-0-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/6DYONUBX4ZQVHY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-06T07:01:00Z",
+  "upvotes": 548,
+  "comments": 176,
+  "topics": [
+    "Productivity",
+    "Meetings",
+    "YC Application"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi Product Hunt 👋</p><p></p><p>Shadow is a real-time AI on the call that completes your post-call to-dos while you're still on the call</p><p></p><p><strong>The problem:</strong> A user told us something we couldn't ignore:</p><blockquote><p>\"I go into back-to-back calls. I miss my meals. Someone wants a proposal, someone wants metrics, someone wants a follow-up. I hang up, and there's a new to-do list every single time. I feel like a robot just running endlessly.\"</p></blockquote><p>We did the maths. 5 calls a day. 20 minutes of post-call admin. 5 days a week. That's 8+ hours — one full working day — lost to busywork, every week.</p><p></p><p><strong>The solution:</strong> Shadow was already on the call. It already had the context. So we asked: what if it just handled the to-dos before you hung up?</p><p>While you're still talking, Shadow detects action items in real time and executes them. Today, that means:</p><ul><li><p>📝 Notion doc creation: notes and summaries written as you speak</p></li><li><p>📅 Follow-up meeting scheduling: booked before you hang up</p></li><li><p>📧 Draft email: written automatically based on what was discussed</p></li></ul><p><strong>Coming soon:</strong> Slack, Salesforce, Jira, Google Sheets, PostHog, GitHub, LinkedIn, Twitter and more. This is just the start.</p><p></p><p><strong>What's new in Shadow 2.0:</strong> We've moved from a browser app to a native desktop app.</p><p>Shadow now:-</p><ul><li><p>Auto-detects your meetings the moment they start, no manual setup</p></li><li><p>No bot joins your call, invisible to everyone else. It just works.</p></li></ul><p><strong>Who is it for?</strong> If you live on calls, sales, consulting, recruiting, ops, Shadow was built for you. Anyone who goes over back to back calls.</p><p></p><p>One question, If you could automate one thing that happens after every call, what would it be?</p><p>Drop it below, it might be the next thing Shadow handles.</p><p></p><p>Shubham</p><p>Co-Founder, Shadow</p><p>shadowlabs.ai</p>",
+      "votesCount": 24,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>How is this different than the other AI meeting assistants? whats the differentiator? The innovation? The novelty? :D How does it stand out from the 1000s of live meeting HUD AI systems for meetings? Sorry for the roasty question. but you asked for it so here it is 😸</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p><br>We're excited to launch Shadow today.</p><p><br>We started building Shadow because we kept seeing the same problem again and again: <strong>meetings don't really end when the call ends.</strong></p><p><br>You finish the conversation, but the actual work is still waiting for you:</p><ul><li><p>writing follow-ups, </p></li><li><p>updating tools, </p></li><li><p>creating notes, </p></li><li><p>sharing docs, </p></li><li><p>assigning next steps, and </p></li><li><p>trying to remember everything that was promised.</p></li></ul><p>Most AI meeting tools help capture what happened. That's useful, but we felt <strong>the bigger opportunity was not just capturing action items, but helping complete them while the conversation is still happening.</strong></p><p><br>That's what Shadow is built for.</p><p><br><strong>Shadow listens during the call, understands the context, and helps complete meeting actions in real time</strong> - so by the time the call ends, the follow-ups, updates, and next steps are already moving.</p><p><br>We're still early, but we strongly believe meetings should lead to finished work, not more work after the meeting.</p><p><br>Would love to hear your thoughts, feedback, and questions.</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Every online call creates a to-do list. Shadow clears it live. It understands your conversation, tracks what needs to happen, and executes tasks in real time. PDF creation, slide generation, CRM updates, follow-ups, and scheduling before the call ends. Our goal is to have no post-call work. Just stay focused while Shadow handles everything in the background. Starting with core workflows and expanding to everything your calls create.",
+  "featured_at": "2026-05-06T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/169bd775-58a9-4e8c-a870-3343b2450b26.png",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/1d5af0b2-19d4-46e4-979d-8eabbd5b5478.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/b6546d62-5c79-4197-a25f-692d2a3f221e.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/9ff3fbd7-752b-4df8-8519-24013aa2d607.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/15aeb4b3-9cb9-4171-89b6-d71f8adf5ef6.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/90ad4c8f-63d1-439d-a3f4-3a9596c30a5f.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/c45d71f7-8620-4007-8da2-379f8f3a76ba.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/d3e85b7a-3de4-4fac-9e22-e3c859244a3f.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:05",
+  "landing_meta": "Shadow - Your Smart Assistant — Shadow - Your Smart Meeting Assistant",
+  "landing_text": "Shadow - Your Smart Assistant",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-24T20:33:06",
+  "description_ja": "通話中にAIがアクションアイテムを検知し、Notionメモ作成・フォローアップ調整・メール下書きまでをリアルタイムに実行する常駐型デスクトップアシスタント。",
+  "summary_ja": "Shadow 2.0は会議の文字起こしや要約に留まらず、ボットを参加させずネイティブデスクトップ常駐で会議を自動検知し、通話中に発生するタスク（Notion文書化、次回MTG調整、メール下書き等）をその場で実行する点が差別化軸。営業・コンサル・採用などback-to-back会議が多い職種を狙う。今後Slack/Salesforce/Jira等連携を拡張予定。",
+  "tldr_ja": "通話終了前に議事録・スケジュール・メール下書きまで終わらせるリアルタイムAIアシスタント。ボット非参加・デスクトップ常駐で営業や採用の連続商談を回す層が主ターゲット。",
+  "review_guide_ja": {
+    "what": "通話中の発言からアクションアイテムを抽出し、Notion文書作成・フォローアップ会議設定・メール下書きをその場で実行するmacOS常駐型のAIアシスタント。Shadow 2.0でブラウザ拡張からネイティブアプリ化し、会議自動検知とボット非参加を実現。今後Slack/Salesforce/Jira/Sheets等への連携拡張を予告。",
+    "for_who": "1日5件以上のオンライン商談・面談をこなすセールス、コンサル、リクルーター、CSなど『会議後の事務作業に1日1時間以上溶かす』職種。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "リアルタイム音声→意図抽出→外部SaaS実行までの低遅延パイプラインと、ボット非参加で音声を取得するOSレベル実装、複数SaaSのOAuth連携網が個人開発では重い。"
+    },
+    "signals": [
+      "PHで548 upvotes / 176コメントと高反応",
+      "YC Applicationトピックがついており資金調達意図が明確",
+      "競合比較質問が真っ先につく=既にカテゴリ過密の自覚",
+      "Plus $8/月という低価格で個人セールスを取りに来る価格設計"
+    ],
+    "concerns": [
+      "AI議事録カテゴリは国内外で既に過密で差別化は『実行まで』の一点",
+      "ボット非参加方式は録音同意取得フローを利用者側に委ねる必要がある",
+      "Salesforce/Slack等の連携が出揃うまでは『議事録+α』止まりで価値が薄い",
+      "macOS限定のためWindows比率が高い日本企業では即導入できない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内SaaS市場は2026年に1.6兆円規模、AI議事録カテゴリは需要拡大期。営業・採用の会議後タスク削減ニーズは強い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Notta/Rimo Voice/AI GIJIROKU/LINE WORKS AiNote等の純国産勢、amptalk/ailead/MiiTel等の商談解析、SuperInternなど『実行までやる』類似コンセプトも登場済み。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "片側同意で録音自体は合法だが、ボット非参加方式は相手側に録音告知が出ないため社内ガイドラインで弾かれる企業が多い見込み。個情法上の取得通知運用が課題。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "日本語音声認識精度・敬語/曖昧表現の意図抽出・Notion日本語ドキュメント整形・Google日本語IMEとの相性など、ローカライズは未着手の可能性が高い。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のB2B商談はメール文化・稟議・社内合議が強く、会議終了前にメール送信や日程確定するワークフローと噛み合いにくい。下書き止まりでも価値は出るが、深さは限定的。"
+      }
+    },
+    "existing_competitors_jp": [
+      {"name": "Notta", "url": "https://www.notta.ai/", "note": "日本語認識精度98%級、月額1,185〜2,200円。AI議事録カテゴリで国内シェア上位、無料プランも強力。"},
+      {"name": "Rimo Voice", "url": "https://rimo.app/about/voice", "note": "25万ユーザー・2000社導入の純国産。Proプラン月額4,950円。ToDo整理を柱に据える。"},
+      {"name": "LINE WORKS AiNote", "url": "https://line-works.com/ainote/", "note": "LINEヤフー提供の純国産。日本語文字正解率90.8%、エンタープライズの安心感が強い。"},
+      {"name": "amptalk", "url": "https://amptalk.co.jp/", "note": "商談解析+SFA自動連携。月額4,000〜5,900円。SalesforceへのCRM入力自動化はShadowの直接競合。"},
+      {"name": "ailead", "url": "https://ailead.app/", "note": "Zoom/Teams/Meet録画自動保存とWeb会議解析特化。商談ナレッジ共有ツールとして導入実績多数。"},
+      {"name": "SuperIntern (NanoHuman)", "url": "https://nanohuman.com/", "note": "会議内容を契機に外部ツール/AI Agentを自動実行する『Automation Skills』を開発中。Shadowに最も近い国産コンセプト。"}
+    ],
+    "regulatory_findings": [
+      {"law": "個人情報保護法", "impact": "会議音声・文字起こしは個人情報。第三者提供（外部AI/SaaS連携）には利用目的の通知が必要。ボット非参加方式は相手への告知が省略されがちで企業ポリシーで弾かれやすい。"},
+      {"law": "労働関連法令・社内コンプライアンス規程", "impact": "面接や1on1の録音はハラスメント・労務リスクと結び付き、企業ITは『参加者全員の録音同意』を厳格化する傾向。ボット非表示はかえって導入障壁となる。"}
+    ],
+    "opportunity": "日本市場では『議事録』はコモディティ化済み。差別化軸は (1)Salesforce/kintone/サイボウズへのCRM自動入力、(2)日本特有の稟議・社内回覧テンプレ自動起票、(3)Windows対応とTeams会議への深い統合。一方Shadowはグローバル汎用設計+macOS限定で日本企業のITボリュームゾーンと噛み合わない。",
+    "rationale": "需要は強いがカテゴリは既に過密。Notta/Rimo Voiceが安価帯、amptalk/aileadが商談解析で陣取り、SuperInternが『実行まで』をHorizonalに狙っており、Shadowは海外勢としてのブランド・連携網以外で勝つカードが薄い。個人開発者が同コンセプトを日本向けに『模倣』するなら、商談解析×Salesforce/kintone×Windows対応に絞ったniche展開が現実的だが、ARR1億超を狙うのは個人規模では困難。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "Plus $8/月はAI議事録カテゴリの定石。会議数連動の課金やSeat課金で拡張可能。一方ARPUは$8〜20と低単価で、規模ゲームになりやすい。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "日本の営業職人口340〜810万人、SaaS市場2026年1.6兆円。AI議事録だけでも国内潜在ユーザー数十万規模で大きい。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PLG＋PHローンチで初動は良いが、日本SMB/エンタープライズ獲得は商談・代理店・ITreview/BOXIL露出が必要で個人開発者には重い。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "AI会議ツールは『記録→分析・実行』フェーズへの移行期で機会窓は開いている。ただし国内外の競合参入が同時多発しており、勝負は12〜18ヶ月以内。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "リアルタイム音声処理、ネイティブmacOSアプリ、複数SaaSのOAuth連携保守、GPU推論コスト、SOC2/ISMS等のセキュリティ対応が必要で個人運用は厳しい。"
+      }
+    },
+    "rationale": "市場の追い風と需要の確かさはあるが、Shadowが取ろうとしている『会議中に実行まで』のポジションは技術ハードルが高くソロでは追従困難。低ARPU×規模ゲーム×ハイタッチGTMの組合せは個人開発者のビジネスモデルとして不適合。事業として成立するのは資金調達したチーム前提。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1800,
+      "plans": [
+        "Free: 月25会議までのリアルタイム実行（Notion/メール下書きのみ）",
+        "Pro 1,800円/月: 無制限会議＋Salesforce/kintone自動入力",
+        "Team 3,500円/席/月: チーム共有・商談分析ダッシュボード・SSO"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本のSaaS/IT企業のフィールド/インサイドセールスおよび採用担当で、ZoomまたはGoogle Meetを日次利用しmacOSが許可されている個人",
+      "target_count": 200000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 1080000
+    },
+    "recommended_gtm": [
+      "Product Hunt日本コミュニティ＋note/Zennでの開発者向け露出で初期100ユーザー",
+      "セールスイネーブルメント系インフルエンサー（営業ハック等）との連携レビュー",
+      "ITreview/BOXIL/SaaS比較サイトへの掲載とレビュー獲得",
+      "SalesforceまたはkintoneのAppExchange/プラグイン公開で既存SFA顧客を吸引",
+      "Windows対応リリース後に中堅企業向けトライアル無償提供で口コミ拡大"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "国内既存プレイヤー（Notta/Rimo/amptalk/SuperIntern）が同機能を即追加してきた場合、海外発の汎用ツールでは勝てない",
+      "ボット非参加方式が企業の録音ポリシーで禁止されるリスク（特に金融・医療・法務）",
+      "macOS限定のため日本企業の主力Windows環境を捕捉できない",
+      "リアルタイムLLM推論コストが低ARPUで持続せず、無料枠縮小やUX劣化を招く",
+      "個情法・労務観点で1on1や採用面接での利用がコンプラ部門にブロックされる"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0.0"
+}

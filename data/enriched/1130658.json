@@ -1,0 +1,244 @@
+{
+  "name": "UXPin Forge",
+  "description": "Generate UI from your design system, not around it",
+  "ph_url": "https://www.producthunt.com/products/uxpin/launches/uxpin-forge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/UD3ILY3WV6YAZH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-29T07:01:00Z",
+  "upvotes": 289,
+  "comments": 47,
+  "topics": [
+    "Design Tools",
+    "User Experience",
+    "Prototyping"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋<br><br>We've been building AI into UXPin for over a year now – AI Component Creator, AI Helper, and more. </p><p></p><p>These experiments taught us where AI works well, and where it breaks down.</p><p></p><p><strong>The pattern we kept seeing: </strong></p><p>AI can generate UI, but when you try to use it in your product, it doesn't match your components. You lose context. You rebuild everything.</p><p><br><strong>We unified everything under Forge</strong> – the AI engine powering UXPin.</p><p></p><p><strong>What Forge does:</strong><br><br>🎨 Works with your design system – MUI, shadcn/ui, Ant Design, or your own components via Merge</p><p>🌐 Start from prompts, images, URLs, or existing code<br>🔄 Keeps context so you can refine instead of restart<br>✏️ Switch between AI and manual editing anytime<br>⚡ Outputs clean JSX<br><br>If you've been burned by AI tools that ignore your system – this is built for exactly that gap.<br><br>👉 Try Forge: <a href=\"https://www.uxpin.com/forge\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.uxpin.com/forge</a><br><br>Curious what you think 👀</p>",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt 👋<br></p><p>I'm Andrew, CEO of UXPin.<br><br>We've been building design tools for over a decade and Forge is the result of a question we kept asking: 'why does every AI design tool ignore the thing enterprise teams care about most - their component library?'.</p><p>Claude Design reads your codebase and approximates. Lovable and Bolt generate their own conventions. v0 locks you into shadcn.<br><br>None of them use your actual production components.</p><p><br>Forge does.<br><br>Your React library syncs via Git, or you can used a native global library we've already integrated for you.<br><br>The AI generates exclusively with those components - real props, real variants, real states. Then you can switch to professional design tools for refinement on the same canvas. No tokens burned on edits.</p><p><br>The export is production-ready JSX referencing your actual imports. Developers copy it and ship it. Nothing to interpret. Nothing to rebuild.<br></p><p>For teams without a custom library, Forge works out of the box with MUI, shadcn/ui, Ant Design, and Bootstrap.</p><p><br>We named it Forge because a forge doesn't replace the blacksmith - it gives them heat and speed. The craft still requires you.</p><p><br>Would love your honest feedback. We're here all day.</p><p><br>Andrew</p>",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Really glad we finally got this out into the world!</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "AI that generates UI your design system would approve. Forge works inside UXPin with your real components—MUI, shadcn/ui, Ant Design, or your own—so you can iterate fast and ship clean JSX. No rebuilding, no workarounds.",
+  "featured_at": "2026-04-29T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d11c5f4b-9e2f-4c98-a545-38b456c5e191.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d12a9b34-94c2-4e01-8315-759190e3ed40.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/121c4e6f-f418-414c-9c40-9ba73ead7824.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f17ea2e4-0858-496c-a7ff-43ab01ecee5a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fe0635e4-b827-4be2-bbde-1067ef336845.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/ca33ad8e-f7b3-4e34-9fb1-b1ca2ec7cd95.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:46",
+  "landing_meta": "Forge — AI-Powered UI Design with Real React Components | UXPin — Generate UI with real production components — not pixels. Refine, customize, and export clean JSX. Try Forge for free.",
+  "landing_text": "Forge — AI-Powered UI Design with Real React Components | UXPin Log in Book a demo Try for free FORGE Your components. Your rules. AI that actually follows both. Forge designs with your real React components – not generic pixels. Refine it and export production-ready code. Start with a built-in library or connect your own. Shadcn/ui MUI Ant Design Bootstrap UXPin Classic Make it real Generating Start editing Continue in the app and bring your idea to life. Open UXPin Sign up free with your email and jump straight into the editor. Shadcn/ui Themeable UI framework See more MUI Google's Material Design system See more Ant Design Enterprise-class UI design language See more Bootstrap Popular CSS framework See more Custom Bring your own UI library Book a demo Figma's AI generates more vectors. UXPin's AI generates with our real code. That's a fundamental architectural difference and it's why we switched. Kenji Sano Review of UXPin Forge - Generate UI from your design system, not around it This is like the best of Figma and Lovable, but for companies. James Crennan Review of UXPin Forge - Generate UI from your design system, not around it I've worked with UXPin Classic and Merge for over a year now. Always amazed by the prototyping results I get with UXPin. Highly recommended! Matt Hallowes Review of UXPin Forge - Generate UI from your design system, not around it The image-to-UI feature is great for early-stage work. I upload a rough wireframe or screenshot and Forge interprets it using our real components. Saves me from starting every project from a blank canvas. Kari Brooks Review of UXPin Forge - Generate UI from your design system, not around it UXPin has become my go-to design tool because it bridges the gap between static design and real interaction. The ability to build prototypes with code components, logic, and states makes everything feel like the final product, eliminating the need for explanations with notes or workarounds. The design system support keeps pro",
+  "pricing_signals": [
+    "free trial",
+    "open-source",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:48",
+  "description_ja": "自社デザインシステムに沿ったUIをAIで生成するプロダクション向けデザインツール",
+  "summary_ja": "UXPin内蔵のAIエンジンForgeは、MUI/shadcn/ui/Ant Designや自社React部品ライブラリと連携し、プロンプト・画像・URLからデザインシステム準拠のUIを生成、本番利用可能なJSXとして出力する。",
+  "tldr_ja": "日本ではFigma/Figma Makeとv0が支配的で、UXPinブランド認知も弱く競争障壁が高い。エンタープライズ向け差別化はあるが個人開発者が攻める領域ではない。",
+  "review_guide_ja": {
+    "what": "Forgeは、UXPin内蔵のAIデザインアシスタント。プロンプト・画像・URL・既存コードを起点に、MUI/shadcn/ui/Ant Design/Bootstrapといった既製ライブラリや、UXPin Merge経由で同期した自社Reactコンポーネントを使ってUIを生成する。生成結果はpropsやvariants・stateを含む実コンポーネントで構成されており、AIと手動編集を行き来しながら反復改善が可能。最終的に本番Reactアプリにそのまま貼り付けられるクリーンなJSXコードをエクスポートできる。デザイナーが作る試作とエンジニアが書く実装の間にあった「再構築コスト」を最小化することが主目的で、AI Component Creator/AI Helper等を統合してForge一本に再編した位置づけ。",
+    "for_who": "自社React設計システムを持つ国内外のエンタープライズ・中堅SaaS企業のプロダクトデザイナーおよびフロントエンドリード。AI生成UIをそのまま本番投入したいが、Figma+v0/Lovable/Boltでは自社部品とズレるため二度手間が発生して困っているチーム。デザインオプス担当者やデザインエンジニアも主要ユーザー。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Merge方式によるGit同期、コンポーネント解析、AIによるvariants/propsまで含めたJSX生成、AIと手動編集が同一キャンバスで両立する設計など、デザインツール本体とAIスタック両方を作る必要があり個人/小規模では実装難度が高い。"
+    },
+    "signals": [
+      "PHで289 upvotes・47 comments、CEO自ら登場し具体的差別化(自社コンポーネント利用)を訴求",
+      "競合(v0はshadcn縛り、Lovable/Boltは独自規約)へのポジショニングが明確",
+      "UXPinは2021年から日本オフィスを構え日本語note/YouTubeを運営、日本市場へ既に投資済み",
+      "Forge日本リリースは2026年2月にPR TIMESで告知済みで国内露出あり",
+      "free trialと無料サインアップ導線が整備されており評価しやすい"
+    ],
+    "concerns": [
+      "Figmaがコア・Figma MakeでAI生成を内製化、Figma>UXPinの認知差が日本では特に大きい",
+      "v0/Lovable/Boltなど無料/低価格AI生成ツールが個人開発者層を既に押さえる",
+      "UXPinはエンタープライズ寄り価格でPLG拡大が遅い(Merge AIで$39/editor〜)",
+      "日本ではshadcn/uiよりMUIの記事が多くデザインシステム成熟度にばらつき",
+      "個人開発者が同等プロダクトを単独で再現するのは技術・資本面で非現実的"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "UIデザイナー求人倍率26.8倍とデザインシステム整備需要は強い(出典: 国勢調査/求人レポート)。一方で『自社Reactコンポーネント→AI生成→そのまま本番』というニーズを満たせる企業は、Reactで自社部品ライブラリを運用している中堅SaaS以上に限られる。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Figma+Figma Make、v0、Lovable、Boltが日本でも認知拡大中。Figmaは日本がトップ5市場でデファクト、AI生成も内製。同一価格帯/機能でUXPinを上回るアラートが多く、後発で価格高めのForgeは個人開発者が割って入る余地が小さい。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "デザインツール本体は個情法・特商法など一般SaaS規制のみで業法規制は基本不要。社内Reactソースを扱う際の機密管理(NDA・社内利用同意)は通常のB2B SaaSと同水準で、規制面の参入障壁は低い。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UXPin本体は日本オフィス・日本語noteありForge自体のUIが日本語化されているかは検索で根拠未確認。プロンプトは英語前提のAIモデルが多く、日本語プロンプト品質や日本固有UIパターン(縦書き・全角入力・年号など)対応の差別化余地はある。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "国内エンタープライズはセキュリティ審査・国内データレジデンシー・請求書/源泉徴収対応・代理店経由販売を要求しがちで、海外SaaSは個別契約のハードルが高い。UXPinはSB C&S経由の国内販売実績はあるが、Forge単体での個人開発者向け代替市場は薄い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Figma / Figma Make",
+        "url": "https://www.figma.com/make/",
+        "note": "日本トップ5市場のデファクト。Figma Makeでプロンプトから編集可能UI+React/TS生成。日本語記事多数、無料枠あり。"
+      },
+      {
+        "name": "v0 (Vercel)",
+        "url": "https://v0.dev/",
+        "note": "shadcn/ui+Next.js特化のUI生成。日本でも個人開発者note多数。画像to code・Vercel直デプロイが強み。"
+      },
+      {
+        "name": "Lovable",
+        "url": "https://lovable.dev/",
+        "note": "フルスタックMVP生成。Supabase内蔵・GitHub出力。日本語比較記事で常に上位、個人開発者層に浸透中。"
+      },
+      {
+        "name": "Bolt.new (StackBlitz)",
+        "url": "https://bolt.new/",
+        "note": "ブラウザ完結の高速プロトタイプ生成。日本でも比較記事多数。UXPinより圧倒的に安価で試行が早い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "デザイン稿やプロンプトに顧客個人情報を含めるユースケース(管理画面UI試作など)では、AI学習に使われない設定や越境移転同意が必要。エンタープライズ販売で必ず審査対象になる項目で、海外SaaSは別途確認書類を求められる。"
+      },
+      {
+        "law": "著作権法(AI生成物の権利帰属)",
+        "impact": "AI生成UI・JSXの著作権/利用範囲はサービス規約次第。社内コンポーネントを学習に使わない保証・出力物の商用利用可否を契約書で明示しないと国内法務通過が遅延する。Forgeの日本向け約款は検索で根拠未確認。"
+      }
+    ],
+    "opportunity": "日本では『デザインシステムを自社で持っているがメンテが手薄』な中堅SaaSが多く、Forge的なポジショニング自体には需要がある。ただし個人開発者の角度としては、Forgeを真っ向再現するより、日本特有の(1)管理画面UI(ガバメントクラウド/デジタル庁デザインシステム準拠)に特化したAI生成、(2)社内Storybook→自動コンポーネント抽出→AI生成のニッチプラグイン、(3)Figma+v0+社内Storybookを橋渡しするブリッジOSSなど、Forgeの本体と競合せずに『日本企業の既存ワークフローに刺さる隙間』を狙うのが現実的。",
+    "rationale": "市場ニーズ(デザインシステム×AI生成)自体は本物で、デジタル庁デザインシステム・カミナシ等のMUI/AntD/shadcn併用事例も増えており地合いは良い。一方、競合面ではFigma Makeが本丸を押さえv0/Lovable/Boltが個人開発者層を既に獲得済みで、UXPinブランドは日本での認知が薄く価格も高い。規制ハードルは低いがエンタープライズ商習慣のハードルは高く、海外発SaaSが個人/SMBを飛ばしてエンプラに刺さるには時間と販売パートナーが必要。総合的に『市場機会はあるがForge本体としては微妙、特に個人開発者が同領域に参入する角度ではない』と評価し、verdictはskip相当。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "デザインツールは月額/年額サブスクが定着しFigma$16/Full・UXPin Merge AI$39/editor〜とARPU水準は十分。ただし個人開発者がこの価格を取るにはエンプラ要件(SSO/監査ログ/SLA)を満たす必要があり、フリーミアム経由でクレカ課金まで持っていく難度は高い。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内デザイナー人口約20万人のうちIT系UI/UXは推定1万人規模。さらに『自社Reactコンポーネント運用』に絞ると数千社・数千人レベルまで縮む。ニッチに刺さればARPU高めだがTAMが小さく、個人開発者の生計を成立させるには複数アングルが必要。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "国内デザイナー/フロントエンドコミュニティはZenn/Qiita/note/X中心。OSS化やFigmaプラグイン提供で導入摩擦を下げない限り、海外SaaSと同じく国内エンプラ営業の壁に阻まれる。個人開発者は無償OSS+SaaSのコンボでファネル作りが必須で時間がかかる。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "AIによるUI生成は2025-26にエンプラ案件化が始まったタイミング。Figma Make/Forge/Visual Copilot等が一斉に出ており、市場形成期で参入余地はあるが、後発1年で勝負が決まる可能性が高く時間窓は短い。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "ツール本体を再現するには、デザインキャンバス・Git同期・AI推論・コードパーサ・出力検証の総合実装が必要で、個人の維持運用は非現実的。狭く絞ったプラグイン/ブリッジ系なら可能だがForge本体相当を1人で運営し続けるのは無理。"
+      }
+    },
+    "rationale": "課金モデル・タイミングは追い風だが、TAMの実効値は『自社Reactコンポーネントを持ち、かつ海外SaaSを購買できる中堅以上の企業』に限られ、国内では数千社程度。GTMはFigma/Vercel/Anthropic等の生態系内で完結する競合に対し、UXPin単体プロダクトとして勝つには日本法人の営業力・代理店網が前提となる。さらに個人開発者視点では、Forge本体の機能群を維持しながら開発を続けるのは事実上不可能で、ニッチプラグイン化しない限り事業として継続できない。結果として『海外SaaSとしては成立しうるが、個人開発でForge本体相当を狙う事業性は低い』と評価する。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 6000,
+      "plans": [
+        "Free: 月10生成まで・shadcn/MUIのみ・ウォーターマーク付き出力。コミュニティ獲得とSNS拡散の入口。",
+        "Pro 月額3,000円: 個人デザイナー/エンジニア向け。無制限生成・Figma/v0連携・私的リポジトリ接続。",
+        "Team 月額9,800円/編集者: 5名以上のチーム向け。自社Storybook同期・コードレビュー履歴・チーム共有ライブラリ。",
+        "Business 月額29,800円/編集者: SSO・監査ログ・社内データレジデンシー・国内インボイス対応。中堅SaaS向け。",
+        "Enterprise 個別見積: 国内代理店経由販売・セキュリティ審査対応・専任サポート・カスタム学習除外契約。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "従業員50-1000名規模で、React+自社デザインシステム(MUI/AntD/shadcn/独自Storybook)を運用しているSaaS/事業会社のプロダクトデザイン部門。デジタル庁デザインシステム準拠の行政向けSI案件を持つ受託開発会社も含む。",
+      "target_count": 3000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 180000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita/note技術記事+OSS Figmaプラグイン公開で日本のデザインエンジニア層に無料入口を作る",
+      "デジタル庁デザインシステム/MUIテーマ別テンプレ集を公開しSEO/GitHub Star獲得",
+      "X(旧Twitter)で『社内Storybook→AI生成→JSX』のビフォーアフター動画を週次投稿",
+      "DesignShipやFRONTEND CONFERENCE等の国内デザイン/フロントエンド系イベント登壇",
+      "Cybozu/freee/SmartHR等のデザインシステム公開企業に共同事例ブログを提案",
+      "SI/受託開発会社向けに『デジタル庁デザインシステム準拠AI生成パッケージ』を代理店経由で販売"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Figma MakeがFigma本体の圧倒的シェアと統合され『標準』になる。Forge的ポジションは別ツール起動コストの分だけ不利で、日本デザイナー層は乗り換えに保守的。",
+      "v0/Lovable/Boltが無料〜低価格で個人開発者・スタートアップ層を既に押さえており、PLGでの個人開発者収益化は事実上閉じている。",
+      "個人開発者がForge本体相当を維持するのは技術/資金面で不可能。狭くピボットしないと開発継続自体が破綻する。",
+      "海外SaaSと国内エンプラ商習慣(請求書/源泉/SSO/データレジデンシー)のミスマッチで、ARPU高めプランへのアップセル経路が国内では細い。",
+      "AIモデル原価の上昇・OpenAI/Anthropic等の料金改定で粗利が圧迫されるリスク。生成コスト>課金額となる無料枠設計を誤ると赤字運営になる。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

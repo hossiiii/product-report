@@ -1,0 +1,244 @@
+{
+  "name": "Lensmor",
+  "description": "Turn exhibitor data into pre-booked sales meetings",
+  "ph_url": "https://www.producthunt.com/products/lensmor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ELQB75ALVQWBLM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-15T07:01:00Z",
+  "upvotes": 293,
+  "comments": 60,
+  "topics": [
+    "Events",
+    "Artificial Intelligence",
+    "Vercel Day"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt, Claire here, founder of Lensmor.  <br><br>We built Lensmor because trade show prep is still weirdly manual. <br><br>A lot of B2B teams spend real money on booths, travel, sponsorships, and sales time, but still walk into the event with a messy spreadsheet, a generic exhibitor list, and no clear plan for who they should meet.  <br><br>Lensmor starts with exhibitor data.  <br><br>You can search 160,000+ global events, find exhibiting companies, identify decision-makers, reveal verified emails, export lists, and plan outreach before the show starts.  <br><br>The goal is simple: help teams walk into trade shows with the right target list and more meetings already booked.  <br><br>We’re also building an AI Agent that turns the workflow into a faster pre-show sprint: <br>find target exhibitors → generate intelligence briefs → draft outreach → help plan meeting booking and follow-up.  <br><br>We’re launching today as part of Vercel Day, and Lensmor is built on Vercel.  <br><br>I’d love feedback from anyone who has used trade shows for pipeline:  <br><br>Where does trade show prep usually break for your team? <br>- finding the right exhibitors <br>- figuring out who to contact <br>- writing pre-show outreach <br>- booking meetings before the event <br>- proving ROI after the show</p>",
+      "votesCount": 14,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><em>Congrats! If a team's biggest bottleneck is 'writing pre-show outreach,' does Lensmor offer A/B testing or open-rate tracking for different message versions? Or is that outside scope for now?</em></p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Proving ROI after a show is always the hardest part because the follow-ups are usually generic and late. If Lensmor helps us book meetings <em>before</em> the event starts, that’s already a win. Is there a way to track which booked meetings actually came from Lensmor lists?</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Unlike generic contact databases, Lensmor starts with exhibitor data, helping teams discover relevant events, find exhibiting companies, identify decision-makers, reveal verified emails, and book meetings before the show begins. Standout features include 160,000+ global events, exhibitor search, reverse company-to-event lookup, CSV export, and an AI agent for lead discovery and outreach planning.",
+  "featured_at": "2026-05-15T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/72f815fe-8212-4b87-83f2-3dcdb0592ee9.vnd.microsoft.icon",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/95f53ef8-6ebf-4338-9344-4befc31da3e8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d67309cf-aa56-4e5c-8a9c-943d8e05ebca.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/efce0e1b-0ffc-487b-b1d4-2de0ce19ce5f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2d35ae61-7090-484b-8b24-b60c5420e158.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/53d3c871-dfd3-41af-b3a1-4f3d259231f8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/87b6c490-7005-444d-b846-c18e34f4f509.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b16306e6-3f18-425f-aa1d-dd7cfefff393.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:28",
+  "landing_meta": "Event Intelligence Platform for B2B Trade Shows | Lensmor — Lensmor decodes the \"Who\", \"Where\", and \"Why\" behind event attendees, giving your B2B sales team verified emails and real-time budget signals to scan intent.",
+  "landing_text": "Event Intelligence Platform for B2B Trade Shows | Lensmor Login Start Free → AI Agent Online Turn Exhibitions Into Pipeline. Before the Doors Open. Know the right exhibitors. Walk in prepared. Your AI agent for trade shows. Find decision-makers, verify contacts, and launch outreach — before you arrive. Start free with 2,000 credits Claim 50 free contacts Covering CES, Hannover Messe, NAB Show, SEMICON, and 160,000+ events worldwide. 160K+ Events tracked 10M+ Data points 95% Email accuracy 24/7 Live monitoring THE DIFFERENCE Stop relying on Booth Traffic Without Lensmor Fly in with no meetings booked Scan badges and hope for leads Pipeline depends on luck Follow up after — too late With Lensmor Land with a full calendar Meet only decision-makers Pipeline before the event AI handles outreach & follow-ups WHO IT'S FOR Built for Teams that take Events seriously Sales Teams Search shows, unlock contacts, book meetings weeks before the event. Walk in with a full calendar. SDR · AE · VP Sales Founders & Execs Skip the booth. Find where your ICP is exhibiting, reach the right people, close deals without scanning a badge. CEO · CMO · Founder Agencies Pull verified exhibitor data for any show, run outreach for clients, prove ROI with pre-booked meetings. Event Agency · Growth Consultant What Lensmor does From Exhibitor List to Booked Meetings Live Find high-value events Search shows, unlock contacts, book meetings weeks before the event. Walk in with a full calendar. Filter by industry & region See exhibitor count before committing Track competitor event presence Live Access verified contacts Unlock enriched decision-maker data — name, title, verified email, LinkedIn. 95% accuracy, one credit per contact. Verified work emails Company size & industry enrichment Title & seniority filtering CSV / Excel export Live Lensmor Agent: Scout · Analyze · Execute Your autonomous AI Agent that searches exhibitor intelligence, analyzes the right targets, and executes outreach — end to end.",
+  "pricing_signals": [
+    "pricing",
+    "$30",
+    "$300"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:29",
+  "description_ja": "世界16万件超の展示会出展企業データから意思決定者の検証済みメールを抽出し、ショー開幕前に商談予約まで進めるBtoB営業AIエージェント。",
+  "summary_ja": "Lensmorは展示会の出展企業リストを起点に、意思決定者の特定・検証済みメール取得・CSVエクスポート・AIエージェントによるアウトリーチ自動化までを一気通貫で提供する。CES・Hannover Messe等160,000件超の世界イベントをカバー、95%のメール精度を謳い、SDR/AE/起業家/エージェンシーが対象。事前商談予約でパイプラインを開幕前に確定させる思想。",
+  "tldr_ja": "展示会出展企業の意思決定者メールを開幕前に取得し、AIエージェントが商談予約までドライブする海外B2B営業ツール。",
+  "review_guide_ja": {
+    "what": "世界16万件超の展示会データを基盤に、出展企業→意思決定者→検証済みメール→AI生成アウトリーチ→商談予約までを統合するセールスインテリジェンス。CSV/Excelエクスポートと逆引き（企業→出展イベント）にも対応し、AI Agentが探索・分析・実行を自律実行する設計。",
+    "for_who": "海外展示会を主要なパイプライン源とする日系メーカー・SaaS企業のSDR/AE、海外展開を狙うスタートアップ創業者、展示会代行を行うマーケエージェンシー。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "16万展示会×出展者×意思決定者のメール検証済みDB構築が中核資産で、データ収集と精度維持にスケールと法務体制が必要。AI生成部分は容易だがデータ層が参入障壁。"
+    },
+    "signals": [
+      "293 upvotes・60 comments と Vercel Day ローンチで初動シグナル良好",
+      "$30/$300 価格帯で個人〜SMB向け料金体系を確保",
+      "創業者がpain（展示会準備の手作業）を具体的に語っており課題定義が明確",
+      "海外メガイベント（CES/Hannover/NAB/SEMICON）を網羅と明言"
+    ],
+    "concerns": [
+      "メール精度95%の根拠と検証手法が不透明、日本企業データの網羅性は未確認",
+      "国内では特定電子メール法（オプトイン規制）と個人情報保護法でコールド配信が制約される",
+      "Sansan/uSonar/FORCAS/BIZMAPSなど展示会軸の国内競合が既に分厚い",
+      "出展者DBは時系列で陳腐化が早く、データ更新コストが継続的に発生"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内BtoB展示会は2019年で603件・出展77,041社、市場2.6兆円規模と需要は厚い。事前アポが商談の30〜50%を占めるとされ、ターゲット選定ニーズは明確に存在。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "BIZMAPS（月7千〜9,980円）/Musubu/FutureSearch等が展示会出展履歴タグで先行、Sansan・uSonar・FORCAS等のセールスインテリジェンスも厚く、価格・データ深度で差別化が難しい。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "特定電子メール法でコールドメールは原則オプトイン必須。公表メール例外はあるが、AIエージェントの自動アウトリーチは規制違反リスクが高く、ローカライズ必須。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UI英語・データ源も海外イベント中心。Japan IT Week/CEATEC等の国内展示会DB網羅、日本語UI、漢字氏名・敬称・所属表記対応が必要で初期投資が大きい。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本は事前メール→いきなり商談予約より、紹介・代理店経由・ブース立ち話起点が依然強い。AIアウトバウンドへの心理的抵抗も大きく、インバウンド/ナーチャリング型優位。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "BIZMAPS",
+        "url": "https://biz-maps.com/",
+        "note": "200万社以上のDBに展示会出展履歴タグ。月額9,980円で1,000件DL可能、展示会×出展企業の国内デファクト。"
+      },
+      {
+        "name": "Musubu (FutureSearch)",
+        "url": "https://www.future-search.jp/",
+        "note": "170万社超、展示会出展タグで絞込可。月額24,900円〜のフリープラン併用型。"
+      },
+      {
+        "name": "Sansan",
+        "url": "https://jp.sansan.com/",
+        "note": "名刺起点の法人DB王者。展示会名刺の取込フローと統合され国内大手の選好が強い。"
+      },
+      {
+        "name": "uSonar (ユーソナー)",
+        "url": "https://usonar.co.jp/",
+        "note": "国内最大820万件法人DB搭載のCDP。エンタープライズ向け、Salesforce連携プランは¥3,900,000〜。"
+      },
+      {
+        "name": "FORCAS",
+        "url": "https://www.forcas.com/",
+        "note": "ABM向け企業データ・シナリオ分析の老舗。展示会出展軸のスコアリングが可能。"
+      },
+      {
+        "name": "EventHub",
+        "url": "https://eventhub.jp/",
+        "note": "イベントマーケPF国内シェアNo.1を標榜。出展側の事前アポ予約フォーム運用に強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定電子メールの送信の適正化等に関する法律 (特電法)",
+        "impact": "広告宣伝メールは原則オプトイン必須。法人公表メールは例外だが、AIエージェントの大量自動配信はガイドライン違反・行政指導リスクが高い。違反法人は最大3,000万円罰金。"
+      },
+      {
+        "law": "個人情報保護法 (改正含む)",
+        "impact": "氏名×所属×メールは個人情報。第三者DBから取得・配信する場合は取得経緯の明示・利用目的通知が必要で、グローバルDB再販モデルは国内対応の整理が必須。"
+      }
+    ],
+    "opportunity": "海外展示会（CES/Hannover/SEMICON等）へ出展する日系メーカー・スタートアップ向けに、英語圏アウトリーチ代行特化のニッチ参入なら勝ち筋あり。国内展示会はBIZMAPS等で十分カバーされており、海外×日本企業のクロスボーダー領域に絞ると差別化可能。",
+    "rationale": "需要自体は厚いが、国内展示会データ＋セールスインテリジェンスは既存プレイヤーが分厚く、価格でも Sansan/uSonar 等の名刺・法人DB資産に勝てない。特電法によりAIアウトリーチ自動化の中核バリューが削がれ、商習慣も事前メール→商談予約フローと噛み合わない。一方、海外展示会出展支援は国内に専業プレイヤーが少なく、JETROパビリオン参加企業や海外展開フェーズの日系SaaSへ刺さる余地はある。総じて『国内汎用展開はskip、海外展示会×日本企業のクロスボーダーニッチはwatch』。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "クレジット制で$30〜$300の価格帯はSMB〜SDRチームに通じる。CSVエクスポート＋AIエージェントの抱合せでARPU引上げ余地はあるが、データ単価競争に巻き込まれやすい。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内BtoB展示会出展77,041社が一次ターゲット。海外展示会出展の日系企業はCESで70〜100社規模と限定的で、クロスボーダー特化なら数千社規模に縮小。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "国内代理店経由・展示会主催者との提携が王道だが、相手の業界ネットワークが必須。個人開発者単独のセールスサイクルは長く、エージェンシー連携かCo-Sellingが現実的。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "AI SDR市場が2025年43.9億→2030年175.8億ドル成長見込み、Apolloや11x.ai等が市場形成中。日本でもAI営業エージェントの認知が一気に進む2026年は追い風。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "16万展示会×出展者×検証済みメールDBの維持はソロでは現実的に不可能。データクローリング・検証パイプラインの運用コストが恒常的に重くのしかかる。"
+      }
+    },
+    "rationale": "AI SDR市場の追い風と価格帯の取りやすさはプラスだが、データ層の構築・更新コストが個人開発の最大の障壁。国内特化なら既存プレイヤーが強く、海外×日本のニッチに絞れば市場が小さく単価で稼ぐ必要が出る。ソロ運営ではデータ精度95%を維持できず、クレームやチャーンに直結するリスクが高い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 12000,
+      "plans": [
+        "Free: 月100クレジット・国内展示会出展DBのみ閲覧",
+        "Starter ¥4,980/月: 月500クレジット・CSVエクスポート・基本AIアウトリーチ下書き",
+        "Pro ¥12,000/月: 月2,000クレジット・海外展示会DB・AIエージェント自動アウトリーチ（オプトイン管理付き）",
+        "Agency ¥48,000/月: 複数クライアント切替・チームシート・API"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "海外展示会（CES/Hannover/SEMICON/NAB/MWC）に出展する日系メーカー・SaaSスタートアップ、および海外向け営業を行うエージェンシー。",
+      "target_count": 3000,
+      "capture_pct_year3": 2.0,
+      "monthly_revenue_target_jpy": 720000
+    },
+    "recommended_gtm": [
+      "JETRO Japanパビリオン出展企業リストへの直接アプローチ（CES/SEMICON経由）",
+      "海外展示会代行エージェンシー（博展・東京ビッグサイト系）とのレベニューシェア提携",
+      "AI SDR・インサイドセールス系コミュニティ（note/X）でケーススタディ発信",
+      "海外展示会出展前の日系企業向けウェビナー（事前アポ獲得術）でリード獲得",
+      "Sansan/HubSpot連携をフックにマーケットプレイス掲載"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "16万件展示会×出展者×メール検証DBの構築・更新コストがソロでは非現実的",
+      "特定電子メール法・個人情報保護法でAIアウトリーチ自動化の中核機能が制限される",
+      "BIZMAPS/Musubu/Sansan等の国内競合が価格・データ深度で先行",
+      "海外展示会出展の日系企業数が数千社規模と市場が小さく、ARPU引上げで補う必要",
+      "メール精度95%の維持失敗で大手顧客チャーン・SNS炎上リスク"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0"
+}

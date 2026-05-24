@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agentmemory (Week 2026-W20) — Micro-SaaS Trend Research</title>
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <a href="../index.html" class="site-title">Micro-SaaS Trend Research</a>
+    <p class="site-subtitle">Product Hunt の launch を週次調査・日本市場適合度で評価</p>
+  </div>
+</header>
+<main class="container">
+
+
+
+
+
+
+
+<nav class="breadcrumb">
+  <a href="index.html">← Week 2026-W20</a>
+</nav>
+
+<section class="product-header">
+  <img class="thumb-lg" src="https://ph-files.imgix.net/f3caac61-d28d-4df6-b03f-3db865008338.svg?w=320&h=320&fit=crop&auto=format" alt="">
+  <h1>Agentmemory</h1>
+  <p class="badges">
+    <span class="badge badge-overall" title="overall">⭐ 4/10</span>
+    <span class="badge badge-jf" title="japan_fit">🇯🇵 5/10</span>
+    <span class="badge badge-bv" title="business_viability">💼 4/10</span>
+    <span class="pill pill-consider">consider</span>
+  </p>
+  <p class="tldr-big">AIコーディングエージェントの「セッション間で忘れる」問題を解くOSS永続メモリ層。MCP対応で主要エージェントに横断接続、ローカル動作・無料。</p>
+  <p class="summary">AgentMemoryはAIコーディングエージェント向けの永続メモリ層。PreToolUse/PostToolUseなど12種類のフックでセッション中の行動を自動キャプチャし、BM25＋ベクトル＋知識グラフのハイブリッド検索で再注入する。LongMemEval-SでR@5=95.2%、コンテキスト使用量を約92%削減と謳う。Claude Code・Cursor・Codex・Gemini CLI・OpenCode等にMCPサーバとして接続し、ローカル動作・OSS・無料。</p>
+
+  <p class="links">
+    <a href="https://www.producthunt.com/r/AECRPSWTZWYZ24?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+product-report+%28ID%3A+284436%29" target="_blank" rel="noopener">公式サイト ↗</a>
+     / <a href="https://www.producthunt.com/products/agent-memory-dev?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+product-report+%28ID%3A+284436%29" target="_blank" rel="noopener">Product Hunt ↗</a>
+  </p>
+</section>
+
+
+<section class="media">
+  <img src="https://ph-files.imgix.net/76862eae-129c-45bb-92ee-e3f700cad0ce.jpeg?w=720&auto=format" alt="" loading="lazy"><img src="https://ph-files.imgix.net/c1fb2e70-ebee-4177-84f2-e0981ac5fe6c.gif?w=720&auto=format" alt="" loading="lazy"><img src="https://ph-files.imgix.net/a56e61ae-984a-46a5-b804-d7310b78a85b.png?w=720&auto=format" alt="" loading="lazy"><img src="https://ph-files.imgix.net/b4ceedad-76a2-4580-b98b-b2ea64423769.png?w=720&auto=format" alt="" loading="lazy"><img src="https://ph-files.imgix.net/a61338b5-12d7-4a00-8228-3b67f32281c0.png?w=720&auto=format" alt="" loading="lazy">
+</section>
+
+
+<section class="basics">
+  <h2>基本情報</h2>
+  <dl class="card-meta">
+    <dt>和訳</dt><dd>Claude CodeやCodexなどAIコーディングエージェントにセッション横断の永続メモリを与えるOSSツール。MCP/REST/フック経由で動作し外部DB不要。</dd>
+    <dt>原文</dt><dd>Persistent memory for Claude Code, Codex &amp; coding agents</dd>
+    <dt>トピック</dt><dd>Open Source, Developer Tools, Artificial Intelligence, GitHub</dd>
+    <dt>価格シグナル(PH)</dt><dd>open source, subscription, $1, $2</dd>
+    <dt>PH 指標</dt><dd>upvotes 323 / comments 40</dd>
+    <dt>launched</dt><dd>2026-05-16</dd>
+  </dl>
+</section>
+
+
+<section class="advisor-view">
+  <h2>アドバイザー所見 <span class="pill pill-consider">consider</span></h2>
+  <dl class="card-meta">
+    <dt>推奨課金モデル</dt><dd><code>freemium</code> / ARPU ¥1,500</dd>
+    <dt>プラン例</dt><dd><ul class="inline-list"><li>OSS Local: 無料(個人開発者向け、ローカル動作・基本MCP/REST)</li><li>Team Cloud: 月額1,500円/seat(共有メモリ・S3互換バックアップ・SSO)</li><li>Enterprise: 個別見積(セルフホスト・監査ログ・SLA・国内データレジデンシー)</li></ul></dd>
+    <dt>ターゲット</dt><dd>Claude Code・Cursor・Codex CLI等のAIコーディングエージェントを日常業務で使う国内エンジニア(個人開発者＋小規模AIネイティブチーム)</dd>
+    <dt>対象規模</dt><dd>30,000 × 3 年で 1.0% 獲得 → 月商 ¥450,000</dd>
+    <dt>推奨 GTM</dt><dd><ul class="inline-list"><li>Zenn/Qiitaで競合(claude-mem/Serena/Cipher)との比較記事を週次連載</li><li>Claude Code公式プラグインマーケットへの登録とOSS PR</li><li>X(Twitter)でAIネイティブ開発インフルエンサーへの早期アクセス配布</li><li>国内AIコーディング系勉強会(Findy/CADDi等)でのライブデモ</li><li>OSSコアは無料維持し、チーム共有メモリとガバナンス機能で有料転換</li></ul></dd>
+    <dt>時間窓</dt><dd>9 ヶ月</dd>
+    <dt>個人開発継続性</dt><dd><code>hard</code></dd>
+  </dl>
+  
+  <h3>クリティカルリスク</h3>
+  <ul><li>Anthropic/Cursor純正memory機能の急速な強化で上流に呑まれる</li><li>claude-mem/Serena/Cipher等の先発OSSとの差別化困難</li><li>リファクタ後のメモリ陳腐化と誤注入による信頼喪失</li><li>13種以上のエージェント仕様変動への追従工数が個人開発では持続困難</li><li>OSS無料前提のため有料転換率が低く収益化が遅延</li></ul>
+  
+</section>
+
+
+
+<section class="biz-viability">
+  <h2>事業成立性 💼 4/10</h2>
+  
+  <div class="axes">
+    
+      
+      <div class="axis-card">
+        <h4>収益化 <span class="axis-score">3/10</span></h4>
+        <p>100% OSS/ローカル無料を全面に出しており、有料転換の動機設計が不在。日本では寄付文化が弱くGitHub Sponsorsだけでは生計困難。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>市場規模 <span class="axis-score">5/10</span></h4>
+        <p>国内IT人材144万人(IPA)の中でAIコーディングエージェントヘビーユーザは数万〜十数万規模と推定。さらに有料転換可能層は数千〜1万程度と限定的。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>GTM <span class="axis-score">6/10</span></h4>
+        <p>Zenn/Qiita/X(Twitter)でのOSS発信と、Claude Code/Cursorプラグイン経由の自然流入は機能する。ただしOSS全般のマネタイズGTMは確立しづらい。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>タイミング <span class="axis-score">7/10</span></h4>
+        <p>AIエージェント永続記憶は2026年のホットトピックで参入タイミングは良い。ただし先発が多く、純正機能強化との時間勝負。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>個人運用 <span class="axis-score">3/10</span></h4>
+        <p>13種以上のエージェント連携維持・LSP相当の検索パイプライン保守・ベンチ更新は工数大。MCP仕様変動への追従コストも継続発生。</p>
+      </div>
+    
+  </div>
+  
+  <p class="rationale"><strong>事業性総評:</strong> 需給とタイミング(T=7)は良好だがマネタイズ(M=3)・運用負荷(S=3)が深刻。OSS全面のため有料転換シナリオが弱く、個人開発者が単独で13種のエージェント追従を続けるのは現実的でない。チーム共有/SaaS版/ガバナンス機能で有料転換を設計しない限り、score=4で事業性は限定的。</p>
+</section>
+
+
+
+<section class="japan-fit">
+  <h2>市場機会 🇯🇵 5/10</h2>
+  
+  <div class="axes">
+    
+      
+      <div class="axis-card">
+        <h4>需要 <span class="axis-score">7/10</span></h4>
+        <p>Claude Code/Cursorの国内浸透が進み、CLAUDE.md管理やセッション間記憶の悩みはZenn/Qiitaに多数記事あり。AIネイティブ開発の文脈で需要は明確だが、ヘビーユーザー層に偏る。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>競合 <span class="axis-score">3/10</span></h4>
+        <p>claude-mem・Serena・Cipher・Mem0・LangMem・Zep等のOSS/SaaSが先行し、AnthropicやCursor自身のネイティブmemory機能も拡張中。差別化余地が狭い。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>規制 <span class="axis-score">9/10</span></h4>
+        <p>ローカル動作・外部DB不要のためPPCや改正個情法・外的環境把握義務の影響は最小。SaaS化する場合のみ規約整備が必要。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>ローカライズ <span class="axis-score">5/10</span></h4>
+        <p>CLI/MCP系ツールのため英語UIでも国内開発者は受容するが、日本語ドキュメント・国産エージェント連携・Zenn/Qiita記事整備が必須。</p>
+      </div>
+    
+      
+      <div class="axis-card">
+        <h4>商習慣 <span class="axis-score">5/10</span></h4>
+        <p>国内エンジニア個人レイヤーは新ツール採用に積極的だが、有償化に対する抵抗が強く、企業内導入は情シス審査が壁。</p>
+      </div>
+    
+  </div>
+  
+
+  
+  <h3>国内既存プレイヤー</h3>
+  <ul class="competitors">
+    
+    <li><a href="https://github.com/thedotmack/claude-mem" target="_blank" rel="noopener">claude-mem</a> — セッション圧縮型の永続メモリOSS。Zennで日本語紹介記事多数、競合最右翼。</li>
+    
+    <li><strong>Serena</strong> — LSPベースでコード構造を記憶するMCPサーバ。コード理解レイヤで差別化。</li>
+    
+    <li><strong>Cipher</strong> — SQLite基盤のローカルメモリMCP。Claude Code向け国内記事多数。</li>
+    
+    <li><a href="https://mem0.ai/" target="_blank" rel="noopener">Mem0</a> — 汎用エージェントメモリ層のOSS最大手(48K stars)。コーディング特化ではないが流入競合。</li>
+    
+    <li><strong>Claude Code純正memory / CLAUDE.md</strong> — Anthropic公式の自動メモリ機能が拡張継続中。上流に呑まれるリスク。</li>
+    
+  </ul>
+  
+
+  
+  <h3>規制要点</h3>
+  <ul class="regs">
+    <li><strong>個人情報保護法(改正個情法)</strong>: ローカル動作のため個人データの第三者提供論点は発生しない。SaaS版を提供する場合のみ第27条委託/外的環境把握措置が必要。</li><li><strong>特定商取引法</strong>: サブスクリプション課金で日本展開する場合、特商法表示(事業者名・連絡先・解約手順)が必須。</li>
+  </ul>
+  
+
+  <p class="rationale"><strong>機会:</strong> Claude Code・Cursor利用層をターゲットに日本語ドキュメントとZenn/Qiita発信で立ち位置を取る余地はある。差別化点はリファクタ後の陳腐化メモリ自動失効・チーム共有・国内コンプライアンスフレンドリーなセルフホスト導入支援。</p>
+  <p class="rationale"><strong>市場機会総評:</strong> 需要シグナル(D=7)は強いが、claude-mem・Serena・Cipher・Mem0等の競合密度が極めて高く(C=3)、ネイティブ機能による上流統合リスクも大きい。規制(R=9)とローカライズ(L=5)は問題なし。商習慣(B=5)は個人開発者には受容性ありだが企業導入は壁。総合5でwatch判定。</p>
+</section>
+
+
+
+<section class="review-guide">
+  <h2>判断ガイド</h2>
+  <dl class="card-meta">
+    <dt>何をするか</dt><dd>Claude CodeやCursor等のAIコーディングエージェントに永続メモリを与えるOSSツール。12種のフックでツール呼び出しや会話を自動取得し、SQLite等のローカルストアにBM25＋ベクトル＋ナレッジグラフのハイブリッド索引で保存。次回セッション開始時にMCP/RESTでコンテキストとして再注入する。</dd>
+    <dt>誰に刺さるか</dt><dd>Claude Code・Cursor・Codex CLI等を日常的に使う個人開発者やAIネイティブ開発を行う小規模チーム。特に同じプロジェクトを長期間扱い、毎回CLAUDE.mdを書き直しているエンジニア。</dd>
+    <dt>再現可能性</dt><dd><code>medium</code> — MCP/フック実装と検索パイプライン(BM25＋ベクトル＋グラフ＋リランカ)は標準OSS部品で再現可能だが、LongMemEval-Sで95%R@5を出す調整と13種以上のエージェント対応工数は大きい。</dd>
+  </dl>
+  
+  <h3>注目シグナル</h3>
+  <ul><li>PH 323 upvotes / 40 comments と GitHub 5,000+ Stars でローンチ即トレンド</li><li>CLAUDE.md 肥大化(22,000 tokens)という具体的痛みを解消する数値が刺さっている</li><li>MCP/REST/フックの三層APIで主要13種以上のエージェントに横断対応</li><li>LongMemEval-S R@5=95.2%, R@10=98.6% という公開ベンチを提示</li><li>ローカル動作・外部DB不要・100% OSS で導入摩擦が低い</li></ul>
+  
+  
+  <h3>懸念点</h3>
+  <ul><li>claude-mem・Serena・Cipher・Mem0等の競合が既に成熟しており差別化が薄い</li><li>OSS無料を強調しているためマネタイズ経路が不透明</li><li>リファクタ後の陳腐化メモリ問題(TOPコメントでも指摘)が未解決</li><li>CLAUDE Code自身もネイティブmemory機能を強化しており上流に呑まれるリスク</li><li>ベンチ値はベンダー自己申告で第三者再現が不在</li></ul>
+  
+</section>
+
+
+
+<section class="ph-comments">
+  <h2>PH 上位コメント</h2>
+  
+  <blockquote>
+    <p>&lt;p&gt;Hey Product Hunt 👋&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;I built AgentMemory because coding agents still have one painful limitation: &lt;strong&gt;they forget&lt;/strong&gt; between sessions.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;You explain your architecture once.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;You debug a production issue once.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;You decide on a lib</p>
+    <footer>— [REDACTED] (9 votes)</footer>
+  </blockquote>
+  
+  <blockquote>
+    <p>&lt;p&gt;Persistent memory for coding agents is a harder problem than it sounds. You&#39;re not just storing conversation history, you&#39;re storing codebase context, decisions made, patterns established. The benchmark claim is what I&#39;d want to dig into. Memory that&#39;s fast to write is useless if retrieval is noi</p>
+    <footer>— [REDACTED] (3 votes)</footer>
+  </blockquote>
+  
+  <blockquote>
+    <p>&lt;p&gt;Congrats on the launch. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;Will this impact more usage on tokens? since the agent need looking around and search on newer chats?&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Will the memory be persistent only in CLI agents or also on their desktop application as Codex, Claude, Cursor &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</p>
+    <footer>— [REDACTED] (2 votes)</footer>
+  </blockquote>
+  
+</section>
+
+
+
+<section class="long-desc">
+  <h2>長文説明（PH）</h2>
+  <p>You can now give Hermes, Claude Code, and Codex infinite memory. Agentmemory is trending on GitHub with 5,000+ Stars. CLAUDE md dumps 22,000+ tokens into context at 240 observations agentmemory: 1,900 tokens. same observations. 92% less. At 1,000 observations, 80% of your built-in memories become invisible. agentmemory keeps 100% searchable. benchmarked on 240 real coding sessions → Up to 95% fewer tokens per session → 200x more tool calls before hitting context limits → 100% open source</p>
+</section>
+
+
+
+<section class="landing">
+  <h2>ランディングページから</h2>
+  <p>AGENTMEMORY — PERSISTENT MEMORY FOR AI CODING AGENTS — The memory layer your coding agent should have had from day one. 95.2% retrieval R@5. 92% fewer tokens. 0 external databases. Works with every agent.</p>
+</section>
+
+
+<nav class="breadcrumb">
+  <a href="index.html">← Week 2026-W20 に戻る</a>
+</nav>
+
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <p>Data source: <a href="https://www.producthunt.com">Product Hunt</a> via official API.</p>
+    <p>This research is for non-commercial personal use. Generated by an AI pipeline.</p>
+    <p>Generated: 2026-05-25 05:07</p>
+  </div>
+</footer>
+</body>
+</html>

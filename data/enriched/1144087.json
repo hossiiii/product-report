@@ -1,0 +1,203 @@
+{
+  "name": "Files SDK",
+  "description": "A unified storage SDK for object and blob backends",
+  "ph_url": "https://www.producthunt.com/products/files-sdk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/WCFEM6ZQGND5C5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-17T07:01:00Z",
+  "upvotes": 246,
+  "comments": 6,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "GitHub",
+    "SDK"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Useful abstraction, but the real test is where it leaks: provider-specific errors, multipart uploads, and list semantics. If those stay predictable across S3, R2, GCS, and Azure, the swap cost is much lower.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Nice! agree with the comments. You don't know how important it actually is until you have to fight with real storage. Glad to see you helping on this. All the best!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is exactly the kind of abstraction layer I've been waiting for. I've personally wasted hours setting up different adapters for S3 vs Blob storage across projects having one consistent API with web-standard I/O means I can finally stop copy-pasting storage boilerplate. The native client escape hatch is a smart touch too, shows the team thought about real-world edge cases. Congrats on the launch! </p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. An escape hatch when you need the native client.",
+  "featured_at": "2026-05-17T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/4daf6ed9-a271-4ca4-9214-5acc6344e89b.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c412f113-421d-46a8-9847-7fae69a5c1ed.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:30",
+  "landing_meta": "Files SDK - One API for S3, R2, GCS, Azure & blob storage — A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. An escape hatch when you need the native client.",
+  "landing_text": "Files SDK - One API for S3, R2, GCS, Azure & blob storage Latest update — v 1.5.0 released Write once. Store anywhere. A unified SDK for S3, R2, GCS, Azure, and every other object or blob store. One small API, web standards, and an escape hatch when you need the native client. $ npm install files-sdk Read the docs and 28 more — see every adapter → 40 + adapters Bring whatever storage you already have. Azure Blob Storage Box DigitalOcean Spaces Dropbox Google Cloud Storage Google Drive MinIO Netlify Blobs OneDrive Cloudflare R2 Amazon S3 Supabase Storage UploadThing Vercel Blob See all adapters Live snippet The exact same code. Any backend. Switch the adapter, keep every call site. Here's the same upload, download, head, list, and delete sequence across five providers. S3 R2 Vercel Blob Netlify Blobs MinIO import { Files } from \" files-sdk \" ; import { s3 } from \" files-sdk/s3 \" ; const files = new Files ({ adapter : s3 ({ bucket : \" uploads \" , region : \" us-east-1 \" }), }); await files . upload ( \" hello.txt \" , \" world \" ); const file = await files . download ( \" hello.txt \" ); const meta = await files . head ( \" hello.txt \" ); const items = await files . list (); await files . delete ( \" hello.txt \" ); import { Files } from \" files-sdk \" ; import { r2 } from \" files-sdk/r2 \" ; const files = new Files ({ adapter : r2 ({ bucket : \" uploads \" , accountId : \" ... \" }), }); await files . upload ( \" hello.txt \" , \" world \" ); const file = await files . download ( \" hello.txt \" ); const meta = await files . head ( \" hello.txt \" ); const items = await files . list (); await files . delete ( \" hello.txt \" ); import { Files } from \" files-sdk \" ; import { vercelBlob } from \" files-sdk/vercel-blob \" ; const files = new Files ({ adapter : vercelBlob (), }); await files . upload ( \" hello.txt \" , \" world \" ); const file = await files . download ( \" hello.txt \" ); const meta = await files . head ( \" hello.txt \" ); const items = await files . list (); await files . delete ( \" h",
+  "pricing_signals": [
+    "open source",
+    "$1",
+    "$11",
+    "$0",
+    "$34",
+    "$36",
+    "$37",
+    "$3",
+    "$29"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:30",
+  "description_ja": "S3 / R2 / GCS / Azure Blob など40以上のオブジェクト/ブロブストレージを一つの統一APIで扱える OSS の Node.js / TypeScript SDK。",
+  "summary_ja": "Files SDK は S3・R2・GCS・Azure Blob・Vercel Blob・Supabase Storage・MinIO など40以上のストレージバックエンドを共通APIで扱える OSS の TypeScript SDK。upload/download/head/list/delete/signed URL など Web 標準 I/O を提供し、必要時はネイティブクライアントへ抜け出せる「エスケープハッチ」も用意。プロバイダ切替コストを最小化する開発者向け抽象化レイヤ。",
+  "tldr_ja": "S3・R2・GCS・Azure Blob など40+ストレージを共通APIで扱える OSS の TypeScript SDK。ベンダロックイン回避と開発生産性が訴求点。",
+  "review_guide_ja": {
+    "what": "オブジェクト/ブロブストレージの差異を吸収する Node.js / TypeScript の OSS SDK。Web 標準の I/O（ReadableStream など）を用いた upload/download/head/exists/delete/copy/list/url/signedUploadUrl を提供。adapter を差し替えるだけで S3・R2・GCS・Azure・Vercel Blob・Netlify Blobs・MinIO・Supabase・Dropbox 等に切替可能。ネイティブクライアントへの escape hatch あり。",
+    "for_who": "マルチクラウド対応の SaaS / Web アプリを作る個人開発者・小規模チーム、Vercel / Cloudflare / AWS 等を行き来する受託開発、ストレージ移行を見据えるスタートアップの Node エンジニア。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "40+ adapter の API 差異・エラー・multipart・list セマンティクスを安定吸収する必要があり、保守工数が大きい。後発が同等網羅を達成するのは困難。"
+    },
+    "signals": [
+      "PH 246 upvotes と肯定的コメント",
+      "v1.5.0 までリリース継続",
+      "Vercel Blob / R2 / Netlify Blobs など新興プロバイダも網羅",
+      "Web 標準 I/O 採用で edge ランタイム互換を訴求",
+      "競合（unstorage, flydrive）の存在自体が需要シグナル"
+    ],
+    "concerns": [
+      "OSS で直接マネタイズが難しい",
+      "unstorage（UnJS / Nuxt 系で実質標準）と flydrive がすでに存在",
+      "抽象化のリーク（プロバイダ固有エラー・multipart・list）",
+      "日本市場では英語ドキュメントのみで採用障壁",
+      "クラウドベンダ純正 SDK との性能差・新機能追従の負担"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "国内マルチクラウド採用は6割超とニーズ自体は存在するが、ストレージ抽象化レイヤを能動的に探す日本の開発者は限定的。AWS 一辺倒の現場が多く、複数バックエンド切替の切実度は低め。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "unstorage（UnJS / Nuxt エコシステム）・flydrive・各クラウド純正 SDK が強い競合。後発が日本市場で割って入る訴求が弱い。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "SDK 自体は規制対象外。利用先で個人情報保護法・APPI のデータ所在地要件等を満たす必要はあるが、SDK が直接負う規制リスクはほぼない。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "ドキュメント・エラーメッセージは英語のみ。日本語コミュニティでの言及はほぼ未確認。Qiita / Zenn での解説記事や日本語READMEが必要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業は AWS 既定 + 純正 SDK 文化が強く、OSS の薄い抽象化を導入する稟議が通りにくい。個人開発者・スタートアップに用途が偏る。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "unstorage (UnJS)",
+        "url": "https://unstorage.unjs.io/",
+        "note": "Nuxt 公式エコシステムの key-value/blob 抽象化。日本の Nuxt 利用者に浸透しており実質的な競合。"
+      },
+      {
+        "name": "flydrive",
+        "url": "https://github.com/flydrive-js/core",
+        "note": "AdonisJS 系のファイルストレージ抽象化。Node.js のオブジェクトストレージ用途で先行。"
+      },
+      {
+        "name": "AWS SDK for JavaScript v3",
+        "url": "https://aws.amazon.com/jp/sdk-for-javascript/",
+        "note": "国内シェア最大の S3 用純正 SDK。ほとんどの日本企業はこちらを直接利用しており、抽象化の必要性が薄い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法 (APPI)",
+        "impact": "SDK 経由で海外リージョンへ越境保管する場合は越境移転規制の対応が必要。SDK 自身は規制対象外だが利用側に注意喚起が必要。"
+      }
+    ],
+    "opportunity": "国内では『日本語の解説 + Vercel/Cloudflare/Supabase 利用者向けの実装テンプレ集』として認知を取り、個人開発者・受託の Next.js / Nuxt 案件で標準化を狙う薄い余地はある。ただし SDK 単体でのマネタイズは現実的でなく、SDK を使った別 SaaS（マルチクラウド管理ダッシュボード等）の方が事業化向き。",
+    "rationale": "需要シグナルは存在するが、unstorage / flydrive / 純正 SDK という強い競合が国内開発者の選択肢を埋めている。日本語ドキュメント不在・OSS 単体での収益化困難・AWS 一極集中という3点が日本市場での伸び代を抑える。規制リスクは小さいが、それ以上に GTM の難しさが大きく、verdict は build ではなく watch が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 2,
+        "reason": "OSS ライブラリで直接課金は困難。GitHub Sponsors の中央値は月数千〜数万円、企業スポンサーや有償サポートに移行する必要がある。SDK そのものでの SaaS 化は難しい。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内 TypeScript エンジニア求人 4万件超と母数は大きいが、ストレージ抽象化を有償で買う層は数百〜数千人規模に留まる。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "Product Hunt + GitHub Trending が中心。日本では Zenn / Qiita 記事と Nuxt / Next.js コミュニティへの露出が必要だが、OSS の認知獲得は時間がかかる。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "R2 / Vercel Blob / Supabase 等の新興ストレージが乱立し、抽象化ニーズは追い風。ただし unstorage 等が先行しており timing 勝負はやや厳しい。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "40+ adapter の API 追従・互換テスト・破壊的変更対応で保守負荷が極めて高い。個人で長期維持は困難で、コミュニティ依存が必須。"
+      }
+    },
+    "rationale": "OSS としての技術的価値は明確だが、SaaS 事業として独立採算化する筋が弱い。直接課金モデルがなく、GitHub Sponsors / 企業契約 / 有償サポートに頼る前提では個人開発者の主要収益源にはなりにくい。保守工数が広い adapter 群で膨張するため solo 継続性も厳しい。SDK 単体ではなく、これを基盤にしたマルチクラウドストレージ管理ダッシュボード等の派生 SaaS を狙うべき。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "OSS 本体は MIT 等で無償提供",
+        "GitHub Sponsors / Open Collective による寄付（月 500〜5,000 円帯）",
+        "企業向け Priority Support: 月額 30,000〜50,000 円",
+        "派生 SaaS（マルチクラウド管理ダッシュボード）でのマネタイズ: 月額 3,000〜10,000 円帯"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本国内で Next.js / Nuxt / Hono / Remix を用いてマルチクラウドストレージを使う個人開発者・受託小規模チーム・スタートアップ Web エンジニア",
+      "target_count": 3000,
+      "capture_pct_year3": 2.0,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Zenn / Qiita で日本語の adapter 比較記事・移行記事を継続投稿",
+      "Nuxt / Next.js / Hono 系の日本コミュニティ Discord・勉強会で露出",
+      "GitHub Sponsors の日本円 tier 設定とスポンサー特典の明示",
+      "企業向け有償 Priority Support プランを別途用意",
+      "派生 SaaS（マルチクラウド管理ダッシュボード）として収益化軸を切る"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "unstorage / flydrive など先行 OSS との競争激化",
+      "40+ adapter の API 追従・破壊的変更対応の保守爆発",
+      "OSS 単体ではマネタイズ手段が限定的で生活費に届かない",
+      "AWS SDK 純正に対する性能・新機能追従の遅れ",
+      "日本市場ではドキュメント英語のみで認知が広がらない"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "research_completed_at": "2026-05-23T00:00:00Z"
+}

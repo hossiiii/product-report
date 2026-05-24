@@ -1,0 +1,246 @@
+{
+  "name": "OpenJobs AI",
+  "description": "End-to-End Autonomous AI Recruiter",
+  "ph_url": "https://www.producthunt.com/products/openjobs-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/DZIBWQICPJ7Z4E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-11T07:00:00Z",
+  "upvotes": 419,
+  "comments": 98,
+  "topics": [
+    "Hiring",
+    "Pitch Singapore"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>I've been having a version of the same conversation almost every week this year.</p><p></p><p>Sometimes it's with a founder. Sometimes a head of talent, sometimes an operator trying to grow a team while still shipping the product. The details change. An eng role that's been open four months. A sales hire that fell apart in week three. A senior PM who finally said yes and then went quiet. But the shape underneath is always the same. They have the budget. They have the role open. The person they need exists, is reachable, is probably already somewhere in the funnel. And they still can't get them in the door.</p><p></p><p>This isn't a recruiter's problem. It's a problem every team trying to grow has felt. And it's one of the very few places in modern business where you can have unlimited budget, urgent need, and the right person sitting one message away, and still fail.</p><p></p><p>Every recruiter, every hiring manager, every founder I know carries a private list. The senior engineer who replied three weeks late, after the team had moved on. The PM who would have been perfect, but went quiet around day 14 and nobody had the cycle to chase. The director who finally said yes to a phone screen, then no-showed, and you never found out why. The list lives in their head. They don't talk about it. They file it under \"cost of doing business.\"</p><p></p><p>I've spent more than a decade circling this same problem from different angles. First inside large hiring platforms, then working alongside more than 1,000 enterprise teams and recruiting agencies trying to make hiring actually work. The thing I can't stop thinking about is that quiet list. Because it isn't a cost. It's a system that's broken in a place no tool ever tried to fix.</p><p></p><p>Every wave of recruiting tech solved the front of the funnel. Find more people. Find them faster. Score them better. Then the brutal middle got handed back to one human, sitting at a desk, writing one email at a time. The half-finished conversations. The candidates going cold. The no-shows nobody recovers. That's where most of the work actually happens. That's also where most of it dies.</p><p></p><p>Nobody fixed it. Not because it didn't matter. Because until recently, the technology to fix it didn't exist.</p><p>Now it does. Agents, not a single model but a coordinated team of them, can hold a real conversation with a candidate over weeks. Pick up tone. Notice when someone's hesitating. Re-engage when they go cold. Not at the level of a great recruiter on their best day. At the level of a steady, attentive one. Working every conversation. Never tired. Never out of patience.</p><p></p><p><strong>MIRA is what came out of that.</strong> Four agents that share the load. One turns a fuzzy job description into a real search strategy. One finds the right people. One runs the conversations. One watches every candidate at once, and flags the ones about to slip.</p><p></p><p>The deliverable isn't a list. <strong>It's the person who didn't get away.</strong></p><p></p><p>The bigger picture underneath: hiring is the most important workflow in any company actually trying to grow. And the one most clearly designed for a world that no longer exists. A world where the bottleneck was <em>finding</em> people, not engaging with them. As agents start to work with other agents to get real work done, the layer that's missing isn't another database. It's a system that actually understands people. One that can find the right human, hold a real conversation, and bring them into the room.</p><p></p><p>That's the layer we're building.</p><p></p><p>If any of those private lists sound familiar, I'd love to hear your story. Whether you're a founder who's watched a quarter slip because the right hire didn't land, a hiring manager carrying the weight of an empty seat, or a recruiter staring at the names you wish you'd kept warm. Especially the ones you don't usually tell. Those are the ones I keep learning from.</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>How does Mira handle niche roles like quant or biotech? Or is it mostly noise?</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "How do the credits work? The FAQ didn’t seem to cover that detail.",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Tell us what role you’re hiring for. AI recruiter sources qualified candidates, screens them against your requirements, sends personalized outreach, tracks replies, and books interviews directly on your calendar.",
+  "featured_at": "2026-05-11T07:00:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/81b6950f-439d-4f05-b9dd-759cd0966605.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f54c4e55-9ff3-4c8c-bd03-97bcee836b42.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4f61b217-c3c4-44d8-afbe-6b37720dfc8f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7f5ecdd7-5bbd-41b2-8409-8fffef445a6b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0942dba0-c5a9-48d2-9404-b2ffab161e6f.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/93f27a3a-0ebe-470c-bb83-37d2f8ae8b4c.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:23",
+  "landing_meta": "OpenJobs AI - End-to-End Autonomous AI Recruiter — Deliver qualified interviews on autopilot. AI-powered recruitment automation for modern hiring teams.",
+  "landing_text": "OpenJobs AI - End-to-End Autonomous AI Recruiter",
+  "pricing_signals": [
+    "$1",
+    "$4",
+    "$7",
+    "$9",
+    "$13"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:25",
+  "description_ja": "完全自律型のAIリクルーター。4つのエージェントが求人定義から候補者発掘、パーソナライズされた連絡、面談調整までを一気通貫で実行する。",
+  "summary_ja": "OpenJobs AI（MIRA）は、求人内容を入力するだけでAIが候補者を発掘・スクリーニングし、個別最適化された連絡を送り、返信を追跡し、面接を自動的にカレンダーに入れる自律型リクルーターSaaS。採用ファネルの中間で起きる『連絡途絶え』と『候補者の冷却』を、複数エージェントが継続的な会話で補完する設計が特徴。",
+  "tldr_ja": "AIが候補者発掘から面接設定までを自律実行する次世代リクルーター。日本では候補者DBへのアクセス制約と職業安定法の壁が高い。",
+  "review_guide_ja": {
+    "what": "求人を投入するだけで候補者検索・スカウト文生成・返信追跡・面接設定までを4つのAIエージェントが分担して完結させるAIリクルーター。ファネル中間の取りこぼし（返信遅延・no-show・候補者の冷却）を埋めることに価値を置く。",
+    "for_who": "採用専任が不足するスタートアップ、創業者自身が採用を回す数十名規模の組織、複数ロールを並行で抱える成長企業の人事リーダー。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "候補者データベースへのアクセス、マルチエージェント協調、長期会話の状態管理、メール/カレンダー連携、コンプライアンス対応など実装面積が広い。"
+    },
+    "signals": [
+      "PHで419 upvotes・98コメントと反応良好",
+      "Pitch Singaporeにフィーチャー、シンガポール拠点で東南アジア展開志向",
+      "創業者が1,000以上の採用チームと協働した経験を強調する深いドメイン知識",
+      "ファネル中間（コンバージョン中の取りこぼし）という従来未着手領域を明示"
+    ],
+    "concerns": [
+      "候補者ソースの実態が不明確（LinkedInなどスクレイピング依存ならBAN/規約リスク）",
+      "FAQでクレジット制の説明が薄いとの指摘（価格設計の透明性に課題）",
+      "ニッチ領域（quant/biotechなど）でのマッチ精度が不透明",
+      "AIによる長期会話の品質維持と候補者体験へのバックラッシュリスク"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "日本のダイレクトリクルーティング市場は2024年で1,275億円、利用率も36.5%まで上昇。中途採用での人材獲得競争激化と採用担当者の慢性的工数不足は明確な追い風。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "ビズリーチ、Wantedly、LinkedInに加え、スカウタブル等のAIスカウト自動化や、HRMOS、リクルートダイレクトスカウトのAIマッチング搭載が既に進行。後発参入は厳しい。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "AI実行でも『職業紹介』該当性は変わらず、有料職業紹介事業の許可・職業紹介責任者が必要となる可能性。個人情報保護法の改正でプロファイリングの利用目的明示も必須。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "日本語のスカウト文化（敬語・冗長な丁寧表現・直接的勧誘の忌避）に合わせた文面生成と、Wantedly/ビズリーチ等の国内媒体との連携が前提。完全に作り直しに近い。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業は人材紹介エージェント経由・成功報酬型を好み、AI自動スカウトへの信頼形成に時間がかかる。候補者側も自動化された連絡を見抜くと返信率が落ちる傾向。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ビズリーチ（HRMOS含む）",
+        "url": "https://www.bizreach.jp/",
+        "note": "ハイクラス中心のスカウト型プラットフォーム。生成AIによるスカウト文自動生成を実装済み。基本料金85万円+成功報酬15%。"
+      },
+      {
+        "name": "Wantedly",
+        "url": "https://www.wantedly.com/",
+        "note": "ビジネスSNS。面談率55%超と高エンゲージメント。AIスカウト機能を順次追加。"
+      },
+      {
+        "name": "LinkedIn Japan",
+        "url": "https://jp.linkedin.com/",
+        "note": "グローバル人材・外資・テック領域に強い。スカウト返信率17%程度。LinkedIn Recruiter経由のAPIアクセス。"
+      },
+      {
+        "name": "スカウタブル（株式会社MAP）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000010.000032263.html",
+        "note": "ダイレクトリクルーティング業務自動化に特化したAIエージェント。新卒・中途のスカウト文面と候補者選定を自動化。"
+      },
+      {
+        "name": "リクルートダイレクトスカウト",
+        "url": "https://directscout.recruit.co.jp/",
+        "note": "AIが人材要件とレジュメを分析し自動推薦。リクルート系の巨大DBが武器。"
+      },
+      {
+        "name": "Tasonal等AIスカウト代行",
+        "url": "https://tasonal.com/",
+        "note": "月額2〜10万円、または1通10円の従量で大量送信。代行型サービスが乱立中。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "職業安定法（有料職業紹介事業）",
+        "impact": "AIが候補者を選別して特定企業に推薦する形態は『職業紹介』に該当する可能性があり、厚生労働大臣の許可・職業紹介責任者の選任が必要。SaaSベンダーが直接マッチングに踏み込むと許可が必要になるリスク。"
+      },
+      {
+        "law": "個人情報保護法（2022改正）",
+        "impact": "候補者の閲覧履歴や行動データを使ったプロファイリングは利用目的の特定と本人通知が必須。AIで自動分析する旨を明示しないと内定辞退率算定問題と同種の指摘を受ける可能性。"
+      },
+      {
+        "law": "労働施策総合推進法・職業安定法指針",
+        "impact": "募集情報の正確性確保、求人情報の更新義務、個人情報の適正管理など2022年施行の新ルールに準拠する必要がある。"
+      }
+    ],
+    "opportunity": "国内大手ATSとの連携が手薄なスタートアップ向けに、職業紹介許可不要の『募集情報等提供』に留まる形で、候補者のメッセージドラフト生成と返信フォロー自動化に絞れば差別化余地はある。特にエンジニア採用に苦戦する50〜500名規模のSaaS企業向けに、Wantedly/LinkedInの公開情報＋GitHub/Qiitaを横断する日本語特化AIアシスタントとしてのポジションは未充足。",
+    "rationale": "需要側は強い追い風だが、競合密度は極めて高く、ビズリーチやリクルートが資本・データ・規制対応で先行している。日本固有の職業安定法ハードルと個人情報保護法のプロファイリング規制が、海外そのままの『自律エージェント』モデルを直撃する。完全自律型ではなく『人事の隣に立つAIアシスタント』にスコープを狭めれば隙間はあるが、海外プロダクトのまま日本攻略は困難。watch判定とし、国内向けに大胆なスコープ再定義をしない限り個人開発者の参入は推奨しない。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "月額固定+クレジット従量のハイブリッドで採用コスト削減を訴求できる。SaaS化しやすいが、成功報酬型に慣れた日本企業の支払い意欲は読みにくい。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "DR市場1,275億円、エンジニア採用に絞っても十分なTAM。中堅企業の採用部門数千社が射程。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "採用領域は信頼ベースの導入決定が多く、人事HR Tech系メディア・展示会・代理店経由の地道なBtoB営業が必要。個人開発者の獲得チャネルは限定的。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "生成AIによるスカウト文自動生成が一般化し、AIエージェント文脈が市場に浸透中。今が立ち上げの好機ではあるが、競合の動きも速い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "候補者DB連携、メール/カレンダー統合、長期会話の状態管理、コンプライアンス対応、各媒体APIの追随など、運用負荷が極めて高く一人運営は厳しい。"
+      }
+    },
+    "rationale": "市場規模とタイミングは申し分なく、月額×クレジット型でマネタイズも組みやすい。ただしGTMが信頼依存で重く、ソロ運営での持続性に大きな疑問符。エンタープライズ営業のリソース不足が致命的になりやすい。代理店連携やHR Techメディア露出を組み込まないと売上化に至らない可能性が高い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 80000,
+      "plans": [
+        "Starter: 月額29,800円 / アクティブ求人1件・スカウト200通/月",
+        "Growth: 月額79,800円 / アクティブ求人5件・スカウト1,500通/月・カレンダー連携",
+        "Scale: 月額198,000円 / アクティブ求人20件・スカウト無制限・優先サポート",
+        "Enterprise: 個別見積（API/SSO/オンプレ候補者DB連携）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "従業員50〜500名のSaaS・IT企業の採用担当（エンジニア・PM枠を継続的に募集している組織）",
+      "target_count": 5000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 2000000
+    },
+    "recommended_gtm": [
+      "WantedlyやFindyの採用イベント・人事HR Tech系オフラインミートアップでの事例共有",
+      "中堅SaaS向けのPLG的トライアル（無料で求人1件・100通スカウトまで）",
+      "採用代行（RPO）会社との販売提携でホワイトラベル供給",
+      "BOXIL/アスピックなどSaaS比較メディアへの掲載と検索流入確保",
+      "人事責任者向けTwitter/Xでの『AIスカウト返信率A/B』コンテンツマーケ"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "職業安定法の『職業紹介』該当性で許可必要になるとソロ開発者には対応困難",
+      "Wantedly/ビズリーチ/LinkedInなど候補者プラットフォームの規約変更・API遮断",
+      "候補者からのAI連絡に対するバックラッシュ・SNS炎上リスク",
+      "ビズリーチ・リクルートら巨大プレイヤーが同等機能を標準搭載し差別化喪失",
+      "個人情報保護法プロファイリング規制への対応コスト（同意取得・利用目的明示）"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

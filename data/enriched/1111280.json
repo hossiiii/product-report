@@ -1,0 +1,251 @@
+{
+  "name": "Notion 3.4",
+  "description": "New dashboards, connectors, sidebar & smarter AI agents",
+  "ph_url": "https://www.producthunt.com/products/notion-3-4/launches/notion-3-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/EG2MLTEVHABTRD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-10T07:01:00Z",
+  "upvotes": 163,
+  "comments": 4,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Notion"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p><strong>Notion 3.4 </strong>feels like a major step toward the “all-in-one AI workspace” vision 👀</p><ul><li><p>New dashboard view turns scattered databases into clean KPI and metrics hubs without messy linked views</p></li><li><p>Redesigned sidebar helps reduce clutter and improve focus</p></li><li><p>Presentation mode lets you present directly from Notion docs</p></li><li><p>Tabs block makes organizing content cleaner and easier</p></li><li><p>AI can now generate charts, slides, diagrams, and visuals right inside your workspace</p></li><li><p>Archive pages improve search quality and AI responses</p></li></ul><p><strong>What makes this different</strong>: Everything stays connected inside one workflow instead of switching between multiple tools for docs, dashboards, presentations, and AI creation.</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a> </p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The dashboard view was the missing piece for Notion as a real ops tool. Curious how the AI chart generation handles ambiguous data — does it ask for clarification or just makes a call? That's usually the UX challenge with AI-generated visuals</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The AI generating charts and diagrams is interesting! How does Notion's AI handle data privacy — do the generated visuals stay local or get processed in the cloud?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Notion now generates images, builds dashboards, and presents your docs without leaving the workspace. 10+ features shipped for operators, PMs, and teams scaling on AI.",
+  "featured_at": "2026-05-10T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/0bf4f8ed-37ae-4367-87d0-a38948d9b16b.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/889a6078-4806-4483-af44-3d52c3f82f02.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3b16acd1-eebb-427b-949a-3bdca2828599.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/41bdcbc4-823d-49e3-8224-440e3285b390.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/47a36ff2-e04b-47b9-8ea6-ad799e4a2051.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/043233d0-61df-49ff-9972-9ce93327c7d9.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/48b9e41f-5d1c-4145-bba7-3ce3d379c9c8.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/38057e4f-66f5-43be-a19c-3482de8d2c42.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:49",
+  "landing_meta": "March 26, 2026 – Notion 3.4, part 1 — This month, we have a champagne problem: our engineers are shipping faster than ever, which means Notion 3.4 has too much to cover in a single email. So let’s start with the fundamentals, like a new dashboard view for your databases, a completely redesigned sidebar (opt-in to try it out!), presentation mode that turns any doc into a slideshow, and a lot more.",
+  "landing_text": "March 26, 2026 – Notion 3.4, part 1 Play Uh-oh! It looks like your ad blocker is preventing the video from playing. Please watch it on YouTube This month, we have a champagne problem: our engineers are shipping faster than ever, which means Notion 3.4 has too much to cover in a single email. So let’s start with the fundamentals, like a new dashboard view for your databases, a completely redesigned sidebar (opt-in to try it out!), presentation mode that turns any doc into a slideshow, and a lot more. Try our new sidebar → Dashboards give you a bird’s-eye view Bring together charts, KPIs, and metrics into one beautiful dashboard, so you can see what’s up and what’s changed. Much easier to create and maintain versus a workaround like a page of linked views. To get started, try describing the dashboard you want to your Notion Agent. It can build and update for you! Available on Business & Enterprise plans. Learn more → A new sidebar, built for focus The sidebar was getting far too crowded. So we organized it into four new tabs, with easy access to your pages, agent chats, meetings, and notifications. And it’s way more customizable: you decide which sections to toggle on and off. If you want a quick tour, take a look at Jon's walkthrough. Be among the first to try it by opting in, and let us know what you think! Finally, a proper presentation mode! Presentation mode started in a very Notion way: Randy and Cole on our design team woke up one day and decided, “presentation a Notion page should be easy… and fun.” So they built it. Now, you can present directly from a page without having to rebuild your work. Try it with the shortcut ⌘ + opt + p on Mac, or Ctrl + alt + p on Windows. It’s currently in beta for everyone on Plus, Business, and Enterprise. Check out Randy’s demo . Here at last: the fabled “tabs” block Notion HQ had an internal “tabs” block for years, but the secret finally got out. Time to set it free. Now you can organize content into clean, clickable sections, w",
+  "pricing_signals": [
+    "subscription",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:49",
+  "description_ja": "Notion 3.4はダッシュボードビュー、再設計サイドバー、プレゼンテーションモード、AIエージェントによるチャート/スライド自動生成を追加した大型アップデート。",
+  "summary_ja": "Notion本家による2026年3月リリースの3.4アップデート。データベースから自動でKPIダッシュボードを構築するビュー、四分割された新サイドバー、Notion文書をそのままスライド化できるプレゼンモード、タブブロック、AIによるチャート・スライド・図表生成などを一斉投入。Business/Enterpriseプランでの提供が中心で、AI機能はBusiness月額20ドル/人に集約済み。",
+  "tldr_ja": "Notion本家3.4。KPIダッシュボード、AIチャート生成、プレゼンモードを追加。Business以上のオールインワン化が一段加速。",
+  "review_guide_ja": {
+    "what": "Notion本社が出した自社アップデート（プロダクトではなくバージョン）。データベース上に自動でKPI/グラフを並べるダッシュボードビュー、サイドバー再設計、ページからそのまま発表できるプレゼンモード、タブブロック、AIエージェントによるチャート/スライド/ダイアグラム自動生成などをBusiness・Enterpriseプラン向けに搭載。Notion Agentに自然言語で指示するとダッシュボードを構築・更新する点が中核。",
+    "for_who": "Notionを情報ハブとして使うオペレーション/PM/スタートアップチーム、Business以上のプランを契約する中堅企業、テンプレ販売者やNotionコンサル/構築代行業者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "プラットフォーム本体の機能拡張で、独立SaaSとして再現するにはエディタ・DB・AIエージェントを丸ごと実装する必要があり、個人開発スケールでは不可能。"
+    },
+    "signals": [
+      "Notion 3.4でBusiness/Enterpriseに機能集中、ARPU上昇トレンド",
+      "日本でも法人導入が標準化しNRI/Northsand等のパートナー網が整備",
+      "テンプレ販売者個人で月数万円を稼ぐ事例が継続",
+      "Notion Agentがダッシュボードを自然言語で構築する新UX",
+      "AIアドオン廃止→Businessプラン強制の課金統合"
+    ],
+    "concerns": [
+      "本体機能の取り込みでサードパーティのダッシュボードテンプレ需要が逓減する可能性",
+      "Notionに依存するビジネスはAPI/規約変更リスクを常に抱える",
+      "日本語AI出力の精度はまだConfluence/Microsoftには劣る場面あり",
+      "ダッシュボード機能がBusiness限定で個人ユーザーには直接届かない",
+      "個人開発者がNotion本体と競合するのは現実的でない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本企業でのNotion法人導入が2025-2026年に標準化し、KPIダッシュボード・AIチャート需要は高い。ただしこれはNotion本体への需要であり、競合SaaSの需要ではない。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Notion本体に加えConfluence、ClickUp、Microsoft Loop、Coda、Airtableが既に存在。日本ではNRI/Northsand/Nextmodeが代理店として強い販路を持つ。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "汎用ワークスペースで業法規制は薄い。個人情報保護法とAI出力の取り扱い、Enterpriseでの監査ログ需要程度。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "Notion自体が公式日本語UI・日本円決済・国内代理店網を整備済み。後発が日本特化で差別化できる余地は社内wiki/稟議・申請ワークフロー領域に限定。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本の稟議・印影・申請フロー、社内Wiki文化はNotion単体ではカバーしきれず、構築代行ニーズが残るがSaaS化は困難。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Notion (本家)",
+        "url": "https://www.notion.com/ja",
+        "note": "対象アップデートの本体。Business 3,800円/人/月、AI込み。国内代理店経由で法人展開強い。"
+      },
+      {
+        "name": "Confluence (Atlassian)",
+        "url": "https://www.atlassian.com/ja/software/confluence",
+        "note": "大企業向けwiki/ナレッジ。Jira連携と監査機能で日本のエンタープライズに強い。"
+      },
+      {
+        "name": "ClickUp",
+        "url": "https://clickup.com/",
+        "note": "ダッシュボード+タスク+Docsオールインワン。日本語UIあり、Notion競合として上位。"
+      },
+      {
+        "name": "Stock",
+        "url": "https://www.stock-app.info/",
+        "note": "日本発の社内wiki/情報ストックSaaS。中小企業向けでシンプル路線。"
+      },
+      {
+        "name": "Kibela",
+        "url": "https://kibe.la/ja",
+        "note": "国産情報共有SaaS。エンジニア組織向けで日本語に最適化。"
+      },
+      {
+        "name": "NotePM",
+        "url": "https://notepm.jp/",
+        "note": "国産マニュアル/wikiツール。中小法人で導入実績多数。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法 (改正)",
+        "impact": "AIエージェントがワークスペースのデータを学習・処理する旨を利用規約に明記する必要。法人契約時のDPA要求が増加。"
+      },
+      {
+        "law": "電子帳簿保存法",
+        "impact": "Notionを業務文書保管に使う場合のタイムスタンプ要件は対象外だが、稟議・契約書連携で配慮が必要。"
+      }
+    ],
+    "opportunity": "Notion本体に直接競合するのは不可能だが、その周辺で個人開発者に現実的なポジションは存在する。具体的には、(1) 日本企業特化の稟議/申請テンプレートと構築代行、(2) Notion DBを使った業種特化（士業・治療院・教室）のダッシュボードSaaS化、(3) Notion APIを使った日本語SEO/会計連携アドオン、(4) AIエージェントが扱えない日本語業務オントロジー（社内用語辞書/申請ルール）の補完SaaS。",
+    "rationale": "需要は強いがそれはNotion本体への需要であり、Notion 3.4自体は個人開発者が参入する『プロダクト機会』ではない。日本市場ではNRI、Northsand、Nextmode等の代理店・構築代行が既にエコシステムを形成しており、テンプレ販売者は月2-5万円程度で頭打ち。Business以上に機能集中する課金戦略でNotion本体のARPUが上がる一方、エンドユーザーは『Notionに乗っかる』しかなくなり、独自SaaSで対抗する余地はほぼない。watch（観察）が妥当で、Notion APIエコシステム上のニッチアドオンとして再構成するなら検討対象。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "Notionテンプレ・構築代行は月2-5万円規模、Notionコンサルなら月数十万円の案件もあるが、サブスクSaaSとして個人が立ち上げるのはハード。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本のNotion法人導入企業は数万社規模に拡大中で周辺市場は存在。ただしホスト依存で天井あり。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "X/note/YouTubeでのテンプレ販売GTMは確立済みだが競合飽和。Notion公式マーケットプレイス開始で個人クリエイター間競争が激化。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "3.4でダッシュボード/AIが法人プラン中心になり、Business未契約のユーザー向けに『Plusでもダッシュボードを使う』テンプレ需要は短期的に増える可能性。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "Notionテンプレ販売・構築代行は1人で完結可能。サーバ運用不要。"
+      }
+    },
+    "rationale": "Notion 3.4そのものをマネする戦略は不可能で、収益化の現実解はNotion生態系の周辺（テンプレ販売、構築代行、業種特化コンサル）に限定される。個人開発者にとっての月収レンジは2-30万円規模で、SaaS事業として持続的成長させるのは難しい。テンプレ販売は競合飽和、構築代行は労働集約、Notion APIアドオンSaaSは細分化された市場で月10万円台が現実的ライン。事業性スコアは低めに評価。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "one_time",
+      "arpu_jpy": 3000,
+      "plans": [
+        "業種特化Notionテンプレートパック 2,980円〜9,800円(買い切り)",
+        "Notion構築代行プラン 月額3-10万円(スポット)",
+        "Notion API連携アドオンSaaS 月額980-2,980円/人",
+        "個別コンサル 1時間 1.5-3万円"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Notionを業務利用する日本の中小企業・士業・教室・治療院・個人事業主。およびNotion Business契約済みで業種テンプレを探す担当者。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 750000
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)・noteでのNotionテンプレ無料配布→有料版誘導",
+      "YouTube/Shortsでのダッシュボード構築チュートリアル",
+      "Notion公式マーケットプレイスへの出品",
+      "業種団体(士業会、教室経営者コミュニティ)へのアフィリエイト",
+      "Notion認定パートナー登録→法人案件流入"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "Notion本体の機能追加で自作テンプレ・アドオンが陳腐化",
+      "Notion API/規約変更による収益消失リスク",
+      "国内クリエイター間でのテンプレ価格競争(450円帯)",
+      "Business以上限定機能でPlusユーザー向けテンプレ需要が短命化",
+      "構築代行は労働集約でスケールしない"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0"
+}

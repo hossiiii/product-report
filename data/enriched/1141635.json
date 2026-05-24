@@ -1,0 +1,222 @@
+{
+  "name": "Ghost",
+  "description": "Open-source, self-hosted game servers",
+  "ph_url": "https://www.producthunt.com/products/ghost-8/launches/ghost-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/2P6JXG53QD4245?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-09T07:01:00Z",
+  "upvotes": 361,
+  "comments": 25,
+  "topics": [
+    "Open Source",
+    "GitHub",
+    "Games"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>another banger by the 🐐 <a href=\"https://www.producthunt.com/@haydenbleasel\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"haydenbleasel\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@haydenbleasel</a> - maker of <a href=\"https://www.producthunt.com/products/next-forge\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"next-forge\" target=\"_blank\" rel=\"noopener\">@next-forge</a> <a href=\"https://www.producthunt.com/products/kibo-ui\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"kibo-ui\" target=\"_blank\" rel=\"noopener\">@Kibo UI</a> <a href=\"https://www.producthunt.com/products/ultracite\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"ultracite\" target=\"_blank\" rel=\"noopener\">@Ultracite</a>. shout-out!</p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Interesting. I was wondering why you decided to open-source it?</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Running game servers on Hetzner is already a solid cost move compared to AWS/GCP. Curious how Ghost handles server restarts after crashes - does it auto-restart the game process, or do players need to manually trigger it? Thats usually the first thing that bites you in production.</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Open-source dedicated game server platform. Spin up Minecraft, Valheim, Rust, Palworld, Enshrouded and Terraria on your own Hetzner Cloud account in seconds.",
+  "featured_at": "2026-05-09T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f431ed24-8d0b-481b-900d-316ae71959d2.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/47018802-fdc4-4946-877d-e05242c51c01.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2e5c35b4-3edb-46e7-986e-825f9ee9bae6.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:14",
+  "landing_meta": "Ghost — Open-source, self-hosted game servers — Open-source dedicated game server platform. Spin up Minecraft, Valheim, Rust, Palworld, Enshrouded and Terraria on your own Hetzner Cloud account in seconds.",
+  "landing_text": "Ghost — Open-source, self-hosted game servers Supported games Pick a game. Pick a region. Press play. Every supported game lives behind the same one-click flow. Your VM, your token, your billing. Minecraft Minecraft is a sandbox game where you can build your own world. Valheim A Viking-themed action RPG where you explore, craft, build, and survive. Palworld Fight, farm, build and work alongside mysterious creatures called \"Pals\". Enshrouded A game of survival, crafting, and action on a sprawling voxel-based continent. V Rising Rise as a vampire lord — hunt, build a castle, and battle players in a gothic open world. Rust The only aim in Rust is to survive when everything on the island wants you to die. Terraria Dig, fight, explore, build! Nothing is impossible in this 2D adventure game. Satisfactory Construct factories, automate production, and explore an alien planet with friends. Counter-Strike 2 The legendary tactical FPS. Plant the bomb, defuse it, or just frag your friends. Don't Starve Together A multiplayer survival sandbox where you brave hunger, monsters, and madness with friends. Request a game Don't see yours? Open an issue on GitHub and we'll add it to the roadmap. What you get Everything you need, nothing you don't. A small list of opinionated defaults that take you from sign-up to a healthy game server in under a minute. 01 Open source, end to end The whole stack lives on GitHub. Read it, fork it, self-host it — there's no black box. 02 Up in seconds A dedicated server in under a minute. Docker, SSH, and firewalls — handled for you. 03 Beautiful by default A dashboard you'll actually want to look at. Sensible defaults instead of a hundred toggles. 04 Live console Stream stdout straight from the container and run commands without leaving the page. 05 Honest activity log Every start, stop, restart, and config change in a clean, filterable timeline. 06 Your infra, your rules Bring your own Hetzner key. Your infrastructure, your billing, your data — we just",
+  "pricing_signals": [
+    "free forever",
+    "open source",
+    "open-source",
+    "self-hosted",
+    "$1",
+    "$10",
+    "$0"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:16",
+  "description_ja": "オープンソースのセルフホスト型ゲームサーバー管理パネル。自分のHetzner Cloudアカウント上でMinecraft等を数秒で起動できる。",
+  "summary_ja": "Ghostは、ユーザー自身のHetzner Cloudアカウントに接続してMinecraft/Valheim/Rust/Palworld等のマルチプレイ用ゲームサーバーをワンクリックで構築・管理できるOSSのWebダッシュボード。Docker・SSH・FW設定をラップし、洗練されたUIとライブコンソール、操作ログを提供。インフラ・課金はユーザー側に残るBYOC型。",
+  "tldr_ja": "Hetznerアカウントを繋いでMinecraft等のゲームサーバーを一発構築できるOSSパネル。BYOC型でインフラ料金は自己負担。",
+  "review_guide_ja": {
+    "what": "Hetzner CloudをバックエンドとしたOSSのゲームサーバー管理パネル。Minecraft、Valheim、Palworld、Rust、Terraria、Enshrouded等の主要サバイバル系・サンドボックス系タイトルをワンクリックで立ち上げ、起動/停止/再起動/設定変更をきれいなダッシュボードから操作できる。ライブコンソール、アクティビティログを備え、Docker・SSH・FWの面倒は隠蔽される。Next.js + Bun製のエージェントで構成され、MITに近いOSSライセンス想定。",
+    "for_who": "友人とサバイバルゲームのマルチを遊びたい個人/小規模グループ、自前インフラ志向のホビー開発者、社内テック勉強会用にゲームサーバーを建てたいエンジニア。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "Next.js + Docker + Hetzner APIラッパーという構成で、Pterodactyl/Crafty/AMP等の類似OSSが既に存在。BYOC設計なら個人でも複製可能。"
+    },
+    "signals": [
+      "PH 361 upvotes / 25 comments で開発者層に強くヒット",
+      "作者haydenbleaselはnext-forge等で知名度高くフォロワー流入が見込める",
+      "Palworld/Valheim等の継続的サバイバルゲームブームで需要が高水準",
+      "Hetzner激安VPSをそのまま使えるコスト訴求",
+      "OSSフルスタックで信頼性とロックイン回避を両立"
+    ],
+    "concerns": [
+      "Hetznerは日本リージョン無くレイテンシ約200ms、国内ゲーマーには致命的",
+      "BYOC + OSSのため直接的な収益化が困難",
+      "ConoHa for GAME/Xserver for GameがGUI付き低価格で既に圧倒的シェア",
+      "クラッシュ自動復旧などプロダクション運用面の成熟度が未知数",
+      "国内ユーザーは日本語UI/サポートを強く要求、英語UIのまま勝負しづらい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Minecraft/Palworld/Valheimのマルチ需要は国内も大きく、月数十万人がレンタルサーバー記事を検索。ただし需要はGUI付き国内VPSに既に吸収済み。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "ConoHa for GAME(月394円~、ポケットペア公認)、Xserver for Game、ロリポップ for Gamersが20以上のテンプレ+日本語サポートで圧勝。Aternosの無料勢もいる。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "ゲーム鯖自体に固有規制は薄い。OSSなら特商法表記も限定的。ただし課金提供時は個人情報保護法・海外クラウドへのデータ移転同意が必要。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "Hetznerは独・米のみで日本リージョン無し。約200msのレイテンシは国内マルチには致命傷。UIも英語ベース。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本のホビーユーザーはGUIラクラク+日本語+国内決済を強く志向。BYOCで海外クレカ必須は心理ハードルが高い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ConoHa for GAME",
+        "url": "https://www.conoha.jp/game/",
+        "note": "GMO提供、ポケットペア公認。月394円~、20+ゲームテンプレ。国内シェア最大級。"
+      },
+      {
+        "name": "Xserver VPS for Game",
+        "url": "https://vps.xserver.ne.jp/",
+        "note": "高性能CPU・Pterodactylアプリイメージ標準搭載。国内ゲーマー向けに最適化。"
+      },
+      {
+        "name": "ロリポップ! for Gamers",
+        "url": "https://gamers.lolipop.jp/",
+        "note": "GMOペパボのゲーム特化VPS。低価格帯で初心者層を取り込み。"
+      },
+      {
+        "name": "Aternos",
+        "url": "https://aternos.org/",
+        "note": "無料Minecraftサーバー。国内でも100万人規模の利用、無料勢の本命。"
+      },
+      {
+        "name": "Pterodactyl Panel (OSS)",
+        "url": "https://pterodactyl.io/",
+        "note": "ゲームサーバー管理パネルOSSのデファクト。Ghostの直接競合かつ機能で先行。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（外国第三者への提供）",
+        "impact": "Hetzner(独)にユーザーデータを保管するため、利用者本人の同意取得とPP明記が必要。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "OSSのみで無償提供する限り影響は小さいが、有料SaaS化する場合は事業者情報の表記義務が発生。"
+      },
+      {
+        "law": "ゲームソフトウェアEULA",
+        "impact": "Minecraft/Palworld等の各社EULAに準拠した自前サーバー提供が前提。商用ホスティングは制限がある場合あり。"
+      }
+    ],
+    "opportunity": "国内VPS(ConoHa/Xserver)をバックエンドに据え、日本語UI・国内クレカ決済・低レイテンシで再パッケージするフォーク戦略。あるいはOSS版そのままを利用するDev/EnglobeなSRE層への布教に絞る。中堅ゲームコミュニティ向けに『複数サーバー横断ダッシュボード』としてニッチ化する余地はあるが規模は小さい。",
+    "rationale": "需要そのものは堅調だが、国内市場は既にConoHa for GAME等が低価格・日本語・公認テンプレで強固に押さえている。Ghostの差別化軸であるBYOC+Hetznerは、日本リージョン無し・約200msレイテンシ・海外クレカという3点で国内ホビーユーザーには逆風。OSSとして開発者層に刺さる魅力はあるが、有料化導線が見えにくく日本市場での事業化は厳しい。watchよりskipが妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "BYOC+OSSモデルは収益化が難しい。マネージドホスティング/Pro機能/サポートが定石だが、Hetznerをラップする以上の付加価値設計が必要。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "グローバルではゲームサーバーホスティング市場は数千億円規模あるが、Hetzner+英語UIで取れる国内SAMはきわめて小さい。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "作者ブランド(next-forge等)とPH/GitHubでのバイラル獲得は強い。ただし国内では別の獲得チャネル(Qiita/Zenn/YouTube)が必要で言語の壁あり。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "Palworld/Enshrouded等の継続ヒットでサバイバル系マルチ需要は高位安定。OSSパネル系も成熟期で参入余地は徐々に縮小中。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "OSS運用は個人継続可能だが、ゲームアップデート対応・各種クラウドAPI追従・ユーザーサポートが恒常負荷。マネタイズ無しだと燃え尽きリスク。"
+      }
+    },
+    "rationale": "プロダクトとして筋は良いがビジネスとしては弱い。BYOC+OSS路線は収益化が薄く、グローバル個人開発者の趣味プロジェクトとしては成立しても、日本市場で個人開発者がコピーして稼ぐ題材としては不向き。Pro版/マネージド提供に踏み込めるかが事業化の分水嶺だが、ConoHa等との真っ向勝負になるため難度が高い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "OSS無料(自分でHetzner/VPS鍵を設定)",
+        "将来Pro: 月980円でマルチクラウド・自動バックアップ・モニタリング(構想)",
+        "Teamサポート: 月3,980円で複数サーバー一括管理 + 優先サポート(構想)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Minecraft/Valheim/Palworldのマルチを継続運用する個人ホビーユーザー及び小規模ゲームコミュニティ運営者で、海外VPSを抵抗なく契約できる層",
+      "target_count": 30000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "GitHub Trending + PHでの一発露出を継続活用",
+      "Qiita/Zennで『Hetzner+Ghostで月500円Minecraft鯖』ハウツー記事",
+      "YouTube『マイクラ鯖立て』系チャネルへのコラボ依頼",
+      "国内VPS(Vultr東京/ConoHa)プロバイダ対応PRで国内取り込み",
+      "DiscordコミュニティでのOSSメンテナ流入"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Hetzner依存(日本リージョン無)で国内ユーザー取り込みが構造的に困難",
+      "ConoHa for GAME等の国内強豪が日本語+ポケットペア公認で優位",
+      "OSS+BYOCは収益化導線が不明確で開発継続インセンティブが弱い",
+      "ゲーム各社のEULA変更/商用ホスト規制リスク",
+      "Pterodactyl等先行OSSとの機能差別化を続けるメンテ負荷"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z",
+  "japan_fit_updated_at": "2026-05-23T00:00:00Z"
+}

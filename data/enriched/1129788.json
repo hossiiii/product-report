@@ -1,0 +1,232 @@
+{
+  "name": "Microsoft Copilot Health",
+  "description": "Dedicated space to bring your personal health data together",
+  "ph_url": "https://www.producthunt.com/products/copilot-health/launches/microsoft-copilot-health?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/RV27254646S3NQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-02T07:01:00Z",
+  "upvotes": 181,
+  "comments": 5,
+  "topics": [
+    "Health & Fitness",
+    "Analytics",
+    "Artificial Intelligence"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>Most people have more health data than ever. And less idea what to do with it.</p><p></p><p>Lab results in a hospital portal. Sleep data on your wrist. Medications scattered across three different systems. The data exists. It just never talks to each other.</p><p></p><p>Copilot Health changes that.</p><p></p><p><strong>What it does:</strong></p><ul><li><p>🏥 Connects EHRs from 50,000+ US hospitals, pulling visit summaries, meds, and test results</p></li><li><p>⌚ Syncs wearables from 50+ devices including Apple Health, Oura, and Fitbit</p></li><li><p>🧪 Ingests lab results via Function and reasons across the full picture</p></li><li><p>📚 Grounds answers in Harvard Health and verified sources from 50+ countries</p></li><li><p>🔍 Finds real doctors who take your insurance, filtered by specialty and language</p></li><li><p>🔒 Data isolated from general Copilot, never used for model training</p></li></ul><p></p><p>The outcome isn't just \"more insight.\" It's showing up to your doctor prepared, with the right questions and the right context, instead of trying to remember everything on the spot.</p><p></p><p>Excited to hunt this one. The EHR integration alone is a big unlock. 50,000 health systems is not a small number.</p><p></p><p>US-only and waitlist-gated for now, so set expectations accordingly.</p><p></p><p>What are you most curious to try first: the wearable synthesis, the EHR records side, or just having a single place to actually ask questions about your own health?</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a></p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>\"Grounded in sources like Harvard Health\" is doing a lot of work in that sentence. When the AI surfaces an insight, can you see exactly which source it's drawing from and the specific passage? Or is it more like a general confidence stamp that the output is medically reviewed? The difference matters a lot when you're trying to decide whether to actually act on something.</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Hello! How private is it? Or does Copilot save any of the data? Health data can be very sensitive.",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "You've got data from your Oura, your hospital, your blood panels. None of it talks to each other. None of it tells you what to do. Copilot Health fixes that. It's a secure space inside Copilot where your health records (50,000+ US health systems), wearables (50+ devices), and lab results (via Function) come together. Medical AI analyzes the full picture and surfaces insights you can act on, grounded in sources like Harvard Health.",
+  "featured_at": "2026-05-02T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/61df0af0-291e-45de-8cfe-fe912b9009b9.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5f1625e8-a685-4dd3-810b-b3ebafee4903.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5aae210d-9f40-40e9-a37c-8901f609d6d3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5657e4f5-f3fc-4f35-86df-03d117062fd5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2661fde0-d889-489a-93ec-ce6782ef0966.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5e2c6e3c-18cc-4090-b2ef-5a33b8202f2e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7d87e19e-2c4f-4084-86a4-48fdbfd9c9e9.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/465f69a3-1bf1-41bb-9516-e1b6fcd25243.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:54",
+  "landing_meta": "Introducing Copilot Health | Microsoft AI — We’re launching Copilot Health, a separate, secure space where medical intelligence makes sense of your information and delivers personalized health insights that you can act on.",
+  "landing_text": "Introducing Copilot Health | Microsoft AI Skip to main content Source Signal blog Official Microsoft Blog Microsoft On The Issues Asia Canada Europe, Middle East and Africa Latin America The Code of Us Conexiones What's new today AI Innovation Digital Transformation Sustainability Security Work & Life Diversity & Inclusion Unlocked Microsoft 365 Azure Copilot Windows Surface Xbox Deals Small Business Support Windows Apps Outlook OneDrive Microsoft Teams OneNote Microsoft Edge Moving from Skype to Teams Computers Shop Xbox Accessories VR & mixed reality Certified Refurbished Trade-in for cash Xbox Game Pass Ultimate PC Game Pass Xbox games PC games Microsoft AI Microsoft Security Dynamics 365 Microsoft 365 for business Microsoft Power Platform Windows 365 Small Business Digital Sovereignty Azure Microsoft Developer Microsoft Learn Support for AI marketplace apps Microsoft Tech Community Microsoft Marketplace Software companies Visual Studio Microsoft Rewards Free downloads & security Education Gift cards Licensing Unlocked stories View Sitemap Explore Off Accessibility Mode Intelligence Review Journal Latest MAI-Image-2-Efficient: Flagship Quality, 41% Lower Cost Health Introducing Copilot Health Introducing Copilot Health Bay Gross, Peter Hames, Chris Kelly, Dominic King, Harsha Nori March 12, 2026 Health Bay Gross, Peter Hames, Chris Kelly, Dominic King, Harsha Nori LI X FB At some point, we’ve all stared at a test result we didn’t understand. Worn a device that tracked everything but revealed little. Sat in a clinic waiting room with a list of questions we forgot the moment we sat down for a consultation. Felt that quiet, unsettling feeling that something is off – but had nowhere to take it. The truth is that most people don’t need more information. They need help to make sense of what they already have. That’s what Copilot Health is for. Today, we’re launching Copilot Health, a separate, secure space where medical intelligence makes sense of your i",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-24T20:35:54",
+  "description_ja": "個人の健康データを一元化し、医療AIがパーソナライズされた示唆を返す専用空間。",
+  "summary_ja": "病院の電子カルテ、ウェアラブル、検査結果を1つの安全な空間に集約し、Copilotの医療AIがHarvard Health等の信頼ソースを根拠に個人向けの健康インサイトを提示する。米国の5万を超える医療機関と50以上のデバイスに接続する。",
+  "tldr_ja": "国内はEHR連携基盤と医師法/薬機法の壁が厚く、個人開発でMSのスケールは再現困難。watch一択。",
+  "review_guide_ja": {
+    "what": "Microsoftが提供する個人健康データ統合AI。米国5万超の病院EHR、Apple Health/Oura/Fitbitなど50以上のウェアラブル、Function社経由の血液検査結果を1つの安全領域に集約。Harvard Health等の検証済みソースをグラウンディングして個人化された解釈・行動提案を返す。診療予約のために保険対応・専門・言語でフィルタした医師検索も提供。データはCopilot本体から隔離されモデル学習に使われない。現状は米国限定・ウェイトリスト制。典型用途は、検査結果の読み解き、ウェアラブル+検査+処方歴を横断した傾向把握、診察前の質問整理。",
+    "for_who": "慢性疾患の自己管理者、複数の医療機関を横断する患者、ウェアラブルや検査を多用するQuantified Self志向のユーザ。米国の医療保険・EHRアクセス構造が前提のため当面はUS居住者向け。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "国内EHR/PHR連携網（マイナポータル経由）の整備が前提、医師法17条・薬機法SaMD該当性・3省2ガイドラインへの準拠コストが個人開発には極めて重い。"
+    },
+    "signals": [
+      "EHR/ウェアラブル/検査の横断統合という明確なペインに対する大手の本格参入",
+      "国内でもマイナポータル経由の医療データ民間開放が進行中で同領域の追い風",
+      "Ubie 月1000万MAU等、AI×ヘルス相談の国内需要が顕在化",
+      "データはモデル学習に使わない明示で個人情報懸念を先回り設計"
+    ],
+    "concerns": [
+      "米国保険・EHRが前提のため日本ローカライズに大規模な追加実装が必要",
+      "医師法17条で診断行為に踏み込めない国内では機能を絞らざるを得ない",
+      "PHR基本指針・3省2ガイドラインに沿った同意/セキュリティ運用が個人には重い",
+      "本家MSが今後言語/地域展開する公算が高くウィンドウが短い可能性"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "Ubie月1000万MAU、健康診断/お薬手帳PHRアプリの普及、マイナポータルの民間API開放議論などPHR/医療AIへの需要シグナルは複数確認できる。一方でMS Copilot Healthのような統合体験への顕在需要は検索で根拠未確認のため7止め。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Welby、NOBORI（PSP）、SaluDi（沢井）、パシャっとカルテ、ヘルスケアパスポート（TIS）、マイME-BYOカルテ、Ubieなど国内PHR/医療AIプレイヤーが多数存在し競合は厚い。AI×統合という切り口はまだ少ないが空白とは言えない。"
+      },
+      "regulation": {
+        "score": 3,
+        "reason": "医師法17条によりAI単独診断は不可、薬機法SaMD該当性審査、PHR基本指針(2025改定)、3省2ガイドライン、改正個人情報保護法の要配慮個人情報など規制スタックが厚い。個人開発で完全準拠は極めて困難。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "EHR連携は米国50,000施設のFHIR APIエコシステム前提。日本は電子カルテ情報共有サービスがまだ立ち上げ段階、マイナポータル経由の取得は仕様/同意フローが複雑。Harvard Healthに相当する日本語信頼ソースの整備も必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "保険制度（国民皆保険）、紙のお薬手帳・健診結果の文化、医師主導の意思決定文化など商習慣ギャップは中程度。一方でマイナンバー/マイナ保険証の浸透で構造的にはPHR受容素地は整いつつある。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Ubie（症状検索エンジン/医療AIパートナー）",
+        "url": "https://ubie.life/",
+        "note": "月間1000万MAU、月額500円で医師相談機能。AI問診の国内最有力。Google出資。"
+      },
+      {
+        "name": "Welby",
+        "url": "https://welby.jp/",
+        "note": "2011年創業の国内PHR最古参、東証マザーズ上場。マイナポータル/Health Connect連携済の生活習慣病PHR基盤。"
+      },
+      {
+        "name": "NOBORI（PSP）",
+        "url": "https://nobori.me/",
+        "note": "国内PHRシェア首位を標榜、ユーザ約20万。有料プラン月額100円で医療情報無制限保持。病院連携が強み。"
+      },
+      {
+        "name": "SaluDi（沢井製薬）",
+        "url": "https://www.sawai.co.jp/saludi/",
+        "note": "ダウンロード/利用無料のPHRアプリ。製薬会社が無料で出す体力勝負の市場であることを示唆。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "医師法第17条（無資格医業の禁止）",
+        "impact": "AIが個別の状態に基づき診断・治療指示を行うと医業に該当し違法のリスク。Copilot Healthの『行動可能な示唆』機能を日本でそのまま出すのは困難で、Ubie同様『一般情報の提供』『受診支援』に機能を絞る必要がある。"
+      },
+      {
+        "law": "薬機法（医療機器プログラムSaMD該当性）",
+        "impact": "利用者個別の状態に基づく判定や疾患管理機能はSaMD該当の可能性。PMDA相談・承認が必要で個人開発には負担過大。記録・表示・転送のみの設計に留めれば非該当だがCopilot Healthの中核体験は薄まる。"
+      },
+      {
+        "law": "改正個人情報保護法（要配慮個人情報）",
+        "impact": "健康・診療情報は要配慮個人情報で取得時に明示同意が必須。第三者提供も原則オプトイン。利用目的の明示、撤回容易化、漏えい時72時間通知などの実装が必須。"
+      },
+      {
+        "law": "PHRサービス提供者による健診等情報の取扱いに関する基本的指針（2025年4月改定）",
+        "impact": "総務省/厚労省/経産省の3省指針。丁寧な同意取得、情報セキュリティ対策、消去対応、自己点検と結果公表などが要求される。任意指針だが事実上の参入要件。"
+      },
+      {
+        "law": "医療情報システムの安全管理に関するガイドライン（3省2ガイドライン）",
+        "impact": "クラウドで医療情報を扱う場合の安全管理要件。ISMAP相当のクラウド利用、暗号化、アクセス制御、監査ログ等の実装と内部統制が必要となり個人運用ハードルが高い。"
+      }
+    ],
+    "opportunity": "本家の機能をそのまま再現するのではなく、(1)マイナポータル経由のレセプト・健診・薬剤情報取得 + (2)Apple Health/Health Connectのウェアラブル取り込み + (3)『一般情報提供』に留めた要約・受診準備支援、という規制内収まり型の日本版に絞る角度に勝機がある。SaMD非該当のラインを守りつつ、Ubieが弱い『定量データの時系列ナラティブ化』に特化すれば棲み分け可能。また、慢性疾患患者向けの『診察前の質問メモ自動生成』など医師補助型の領域なら医師法17条の壁を回避できる。",
+    "rationale": "需要面ではUbieの伸長やマイナポータル民間開放の動きが追い風で、PHR×AIテーマは2026年の本流。一方、競争面はWelby/NOBORI/SaluDi/Ubie等が層厚く、製薬会社が無料アプリを出す体力勝負の側面もある。規制面は医師法・薬機法・PHR基本指針・3省2GLが多層に積み重なり個人開発の致命的な障壁。ローカライズはEHR連携の前提が米国と全く異なるため作り直しに近い。総合すると、本家コンセプトの直接移植は不可だが、機能を『情報整理・受診準備』に削いだ規制内収まり型なら入る余地はある。verdictはwatchが妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "国内PHRは無料が標準（SaluDi無料、NOBORI有料でも月100円）、Ubieの医師相談で月500円が一つの参照点。健康データだけで月額1000円超を取るのは難しく、ARPUが薄い構造。法人(企業の健康経営/保険者)向けに振らないと収益化は厳しい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内PHRアプリ利用者は厚労省調査で『お薬手帳』『フィットネス』等カテゴリ別に数百万規模。慢性疾患患者だけで糖尿病1000万人、高血圧4000万人と母集団は大きい。ただし課金転換率は低くTAM × 課金率では市場規模は中程度に留まる。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "ヘルスケアは医療機関・保険者・自治体経由のB2B2C導線が主流で、個人開発のPLG単独では到達しにくい。Ubieも医療機関導入が裏でドライブしている。Qiita/Zenn等の技術発信は患者層に届きにくく、X/Instagram運用が現実的だが医療系広告規制も重い。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "Microsoft Copilot Healthは現在米国限定・英語のみだが、Microsoftの日本進出スピード（Copilot for M365は数ヶ月～1年で日本提供開始の実績）からして2-3年以内に日本展開する可能性が高い。同時にGoogle Health/Geminiも参入予告でビッグテックの圧力は強まる。窓は短い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "医療情報を扱う以上、3省2GL準拠のセキュリティ運用、インシデント対応、要配慮個人情報の漏えい時72時間通知、PHR基本指針の自己点検公表など24/7体制に近い義務が発生。サポート窓口も健康相談まがいの問い合わせが来やすく個人運用は重い。"
+      }
+    },
+    "rationale": "課金面: 国内PHRは無料が標準で、月100円～500円程度のレンジ。健康データ統合という機能だけで個人ARPU 1000円超を取るのは現実的でなく、freemium + 健康経営/保険者B2B2Cへのピボットが必要。市場規模: 母集団は十分大きいが課金転換率が低く実効TAMは中程度。GTM: PLG単独では届きにくく医療機関連携が事実上のキードライバー、個人開発には不利。タイミング: MS本家の日本展開とGoogle Health参入で2-3年以内に窓が閉じる公算。個人運用: 医療情報の規制遵守コストとサポート負荷で24/7に近い体制が必要、個人継続は明確に困難。総合して事業成立性は低めの4。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 300,
+      "plans": [
+        "Free: マイナポータル/Apple Health連携、過去6ヶ月分の記録",
+        "Plus ¥500/月: 無制限保存、検査結果AI要約、診察前メモ生成",
+        "Family ¥1,200/月: 家族3名分管理、共有リンク",
+        "Pro ¥30,000/年: 健康経営担当者向け、匿名化集計ダッシュボード（B2B2C）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "複数の慢性疾患を抱え定期的に検査結果と処方歴を管理したい30-60代の患者層、およびOura/Apple Watch等のウェアラブルを使うQuantified Self志向ユーザ。さらにB2B2Cで健康経営に取り組む中小企業の担当者。",
+      "target_count": 300000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 270000
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)で慢性疾患患者コミュニティ（#1型糖尿病 #高血圧 等）への発信",
+      "noteで『検査結果の読み方』等のSEO/コンテンツ起点でフリーミアム誘導",
+      "Apple Health/Health Connect連携アプリとしてストア内検索流入を狙う",
+      "Welby/NOBORIが手薄なウェアラブル時系列可視化に絞った差別化",
+      "中小企業健康経営担当者向けにB2B2C（産業医経由）販路を中期で開拓",
+      "Qiita/Zennで『マイナポータル医療データAPI実装記』等の技術発信で開発者→患者導線"
+    ],
+    "time_window_months": 24,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "医師法17条抵触: AIが個別状態に応じて『行動可能な示唆』を返す中核機能は無資格医業のリスクがあり、機能を一般情報提供に削ぐと差別化が消える。",
+      "薬機法SaMD該当判定: 検査値の解釈や疾患管理機能がSaMDと判断されればPMDA承認が必要で個人開発のスケジュールでは現実的でない。",
+      "セキュリティ運用負荷: 要配慮個人情報の漏えい時72時間通知、3省2GL準拠の監査ログ・暗号化・ISMAP相当クラウド利用を個人で運用継続するのは困難。",
+      "本家進出: Microsoft Copilot Healthの日本語/日本展開、Google Health/Geminiの参入で2-3年以内に窓が閉じる可能性が高い。",
+      "課金壁: 国内PHRは無料が標準で、ARPU 300円程度しか取れない構造のため、ユーザ獲得コストを回収するLTVを確保するのが難しい。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

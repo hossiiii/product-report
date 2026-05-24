@@ -1,0 +1,189 @@
+{
+  "name": "Vivago Video Agent",
+  "description": "Skip the prompting. Produce consistently compelling videos. ",
+  "ph_url": "https://www.producthunt.com/products/viva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/4UYKCH63ZLBZY7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-17T07:01:00Z",
+  "upvotes": 506,
+  "comments": 74,
+  "topics": [
+    "Productivity",
+    "Marketing",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi Product Hunt community! 👋<br><br>I’m Zijian, a Senior Product Manager at Vivago. It’s a huge honor to be back here! <br><br><a href=\"https://www.producthunt.com/products/viva\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"viva\" target=\"_blank\" rel=\"noopener\">@Vivago</a> reached the <strong>Top 3 Product of the Day</strong> 2 years ago thanks to your incredible support. We've pushed even further, and today, I’m thrilled to announce the <strong>Vivago Video Agent</strong>.<br><br>Vivago Video Agent lets you generate consistently compelling narrative videos with natural language. No more annoying prompting!<br><br>We used only 2 ingredients to tell the very compelling story: one PH Kitty image + one sentence.<br><br>Our video agent ensures every scene stays on-brand and internally coherent by guiding you through a structured creative process.</p><p><br>1. Share your assets and describe your story.<br>2. A swarm of AI directors invents characters and writes a compelling story for you.<br>3. See the keyframes before the video is rendered.<br>4. Your 1-min 1080P story video will be ready in 40 minutes.<br><br>To celebrate our return to the community, we have a special gift for the first 500 PH members! </p><p>Use code “<strong>1MPRO4PH</strong>” at checkout to claim <strong>1 Month of Plus Membership for FREE </strong>(valid thru May 31). We’d love to hear your feedback on our new \"AI Director\" workflow. <br><br>I’ll be here all day to answer your questions!<br><br>Keep creating,<br><br>Zijian</p>",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><a href=\"https://www.producthunt.com/@bsy0221\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"bsy0221\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@bsy0221</a> kicked off our first call by demoing the <strong>Vivago Video Agent</strong> <em>on me</em> — fed it my profile pic and a one-line prompt (something like \"superhero story, heavy dialogue, multiple twists, ~1 minute, live action\").</p><p>Out came a narrative video where I'm the hero squaring off against a villain named Evelyn:</p><p></p><p><a href=\"https://www.youtube.com/watch?v=T_PGW9w2cYg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.youtube.com/watch?v=T_PGW9w2cYg</a></p><p></p><p>It also decided my name was <em>Arthur</em>. My Future Camelot alter ego, apparently.</p><p></p><p>Consider this was produced with a single still and low effort prompt, I was impressed given all my failed attempts to get <a href=\"https://www.producthunt.com/products/sora-by-openai\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"sora-by-openai\" target=\"_blank\" rel=\"noopener\">@Sora by OpenAI</a>  (RIP) to do my bidding!</p><p></p><p><strong><em>Think Claude Code, but for video. </em></strong></p><p></p><p>A swarm of AI directors (picture assistant, creative assistant, director, art assistant, etc) handle the conversational back-and-forth so you skip the prompt-wrestling and <em>just describe the story you want to tell</em>. </p><p></p><p>Their proprietary <a href=\"https://huggingface.co/HiDream-ai/HiDream-O1-Image\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Hi-Dream-01 model</a> is ranked #1 on the <a href=\"https://artificialanalysis.ai/image/models\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">ArtificialAnalysis leaderboard</a>, and the agent can reach for <a href=\"https://www.producthunt.com/products/seedance-1-0-pro\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"seedance-1-0-pro\" target=\"_blank\" rel=\"noopener\">@Seedance AI Video Generator</a>, <a href=\"https://www.producthunt.com/products/google-nano-banana-pro\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"google-nano-banana-pro\" target=\"_blank\" rel=\"noopener\">@Google Nano Banana Pro</a>, or <a href=\"https://www.producthunt.com/products/gemini-6\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"gemini-6\" target=\"_blank\" rel=\"noopener\">@Gemini</a> when those fit the goal.</p><p></p><p>If you've been burned by stitching together 4-second clips that don't cohere, Vivago is built for narrative — 15s to 60s today, with 3 minutes on the roadmap.</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch!</p><p></p><p>I've been tracking the AA leaderboard and noticed HiDream-O1-Image at No. 1 for a while. Seeing it used as the backbone here explains why the visual coherence is so strong, the characters actually look like themselves from frame 1 to 50. Impressive engineering!</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Vivago Video Agent lets you generate consistently compelling narrative videos with natural language. No more annoying prompting! Our video agent ensures every scene stays on-brand and internally coherent by guiding you through a structured creative process. Just share your assets and describe your story — a swarm of AI directors will invent characters and write a compelling story for you. See the keyframes before rendering. Your 1-min 1080P story video will be ready in 40 mins.",
+  "featured_at": "2026-05-17T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/0c55e594-45dc-4ccc-bfe4-c29b5b45e3b6.png",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/4dcfd370-3aa9-4b64-ac9f-9eb88ea18639.jpeg"},
+    {"type": "image", "url": "https://ph-files.imgix.net/89c1e12c-f745-4bbe-9737-b8402b8f109b.jpeg"},
+    {"type": "image", "url": "https://ph-files.imgix.net/26912601-53c5-4a7d-9279-97b2c5dc4db0.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/5e2f6209-c8e1-4c70-871f-615bf524c50c.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/cee44db2-47e5-4ea4-8af0-de6c196e96e0.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/58d4c69d-887e-4fb7-bdbc-683bcbf072bf.jpeg"},
+    {"type": "image", "url": "https://ph-files.imgix.net/282feba6-066d-41b3-a442-7eda60a431bf.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/e8f6ad4c-8214-4c66-bb61-535e3f9a858d.jpeg"},
+    {"type": "video", "url": "https://ph-files.imgix.net/629cc90d-7126-44d5-9e69-2f420e688c2c.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:05",
+  "landing_meta": "Home — Home",
+  "landing_text": "Home",
+  "pricing_signals": ["$1", "$6", "$0", "$7", "$10"],
+  "landing_fetched_at": "2026-05-24T20:19:05",
+  "description_ja": "1枚の画像と1文の指示から、AIディレクター群が脚本・キーフレーム・1080P動画を自動生成するナラティブ動画エージェント。",
+  "summary_ja": "Vivago Video Agentは、HiDream-O1画像モデルを基盤に複数のAIディレクター（脚本・美術・撮影等）が協調し、ユーザーが素材1点と一文プロンプトを与えるだけで1分・1080Pのストーリー動画を約40分で生成する。キーフレームを事前確認でき、4秒クリップの継ぎ接ぎでは難しい登場人物・世界観の一貫性を担保する点が特徴。Basic $6 / Plus $20 / Pro $60 のクレジット課金。",
+  "tldr_ja": "1枚の画像と一文から、AIディレクター群が1分の一貫したストーリー動画を約40分で自動生成するエージェント型サービス。",
+  "review_guide_ja": {
+    "what": "Vivago Video Agentは、ナラティブ動画生成に特化したエージェント型UI。脚本AI・美術AI・監督AIなどが対話しながらキャラ・世界観・カット割を保持し、HiDream-O1画像モデルを核に、必要に応じてSeedance / Nano Banana / Geminiなど外部モデルも呼び分けて1分1080P動画を出力する。出力前にキーフレームをレビューできる点が、4秒クリップを継ぎ接ぎする従来UXとの差別化。",
+    "for_who": "SNS広告・ショート動画・教育コンテンツを内製したい個人クリエイター、マーケター、中小企業の販促担当。プロンプト職人芸を避けたいライト層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "コア競争力は自社の HiDream-O1 画像基盤モデルと複数モデルをオーケストレーションする AI ディレクター群で、個人開発者がゼロから再現するのは計算資源・モデル品質両面で困難。"
+    },
+    "signals": [
+      "PH 506 upvotes / 74 commentsで好反応",
+      "HiDream-O1 が ArtificialAnalysis 画像モデル LB 上位の実績",
+      "Runway が日本市場に約60億円規模で正式上陸するなど国内需要は明確に拡大",
+      "国内動画制作市場は2026年度 4,970億円規模、Web/SNS向け動画が牽引",
+      "TikTok/YouTube ショート向け個人クリエイター層が AI 動画ツールに課金する事例多数"
+    ],
+    "concerns": [
+      "Sora2 / Veo3.1 / Kling / Runway など強力な競合が群雄割拠",
+      "1分動画に40分かかるレイテンシーは即時性を求める SNS 用途で不利",
+      "日本語プロンプト精度・日本人顔・日本固有の世界観表現は中国系基盤モデルでは要検証",
+      "肖像権・著作権・商用利用条件など国内法・倫理対応の整備負荷",
+      "GPU コストが高く粗利が薄い、価格競争に巻き込まれやすい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内動画制作市場は2026年度4,970億円規模に拡大、SNS向け短尺動画需要は中小企業・個人クリエイター双方で旺盛。ナラティブ一貫性は既存ツールの不満点でニーズあり。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Sora2/Veo3.1/Kling/Runway/Seedanceに加え、国内ではVideo BRAIN、HeyGen日本展開、Vrew、Canvaなど既に飽和。Runwayは日本に60億円規模で正式参入し競争激化。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "文化庁ガイドラインで学習段階は柔軟だが、生成物の依拠性・類似性で著作権侵害リスクあり。肖像権・パブリシティ権、商用利用可否のツール側保証も必須で運用コストは中程度。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "日本語プロンプト対応は各社進展中だが英語より精度が落ちる傾向。日本人顔・和風世界観・日本語テロップ・字幕の自然さは中国系HiDreamベースで要検証。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "個人・SMBはセルフサーブで導入しやすいが、大企業案件は外注前提・コンプラ審査・捺印商習慣に阻まれ AI 単独 SaaS は浸透しにくい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {"name": "Runway (日本法人)", "url": "https://runwayml.com", "note": "2026年に60億円規模で日本正式上陸、世界3位市場として注力。"},
+      {"name": "Sora 2 / OpenAI Japan", "url": "https://openai.com/sora", "note": "高ナラティブ・物理整合性で長尺向け最有力。日本語プロンプト対応も比較的良好。"},
+      {"name": "Kling AI", "url": "https://klingai.com", "note": "アジア人顔表現に強く、マルチショット・ナラティブ生成で人気上昇中。"},
+      {"name": "Video BRAIN (オープンエイト)", "url": "https://video-b.com", "note": "国内シェア No.1 クラスの企業向け AI 動画編集 SaaS。"},
+      {"name": "HeyGen", "url": "https://www.heygen.com", "note": "AIアバター動画で日本でも企業研修・販促に普及。"},
+      {"name": "Vrew (Voyagerx)", "url": "https://vrew.voyagerx.com/ja", "note": "国内クリエイターに広く普及、字幕・編集・AI動画を低価格で提供。"}
+    ],
+    "regulatory_findings": [
+      {"law": "著作権法（文化庁ガイドライン）", "impact": "生成物が既存著作物に類似し依拠が認められれば侵害成立。商用利用可否はツール利用規約で明確化する必要あり。"},
+      {"law": "肖像権・パブリシティ権（民法・不正競争防止法）", "impact": "実在人物の写真をシード入力した動画は本人同意なしの広告利用で侵害となるリスク。"},
+      {"law": "景品表示法・薬機法", "impact": "AI生成のリアル広告動画で商品効果を過大表現すると規制対象。テンプレ側でガードレールが必要。"}
+    ],
+    "opportunity": "国内未対応領域として、日本人顔・日本語ナラティブ・縦型ショート（TikTok/Reels/YouTubeショート）特化のローカルラッパー、地方中小企業向けの『商品写真1枚→販促動画30秒』テンプレ運用代行、研修・社内教育動画の社内アセット連携（人物許諾管理＋ブランドガイド遵守）など、生成基盤を Vivago / Runway 等に委ねつつ商習慣・コンプラ層で差別化する余地は十分ある。",
+    "rationale": "国内需要は確かに拡大局面だが、グローバルプレイヤーがそのまま日本語対応・日本進出してきており、汎用ナラティブ生成だけで個人開発者が直接戦うのは厳しい。一方、ローカライズ（日本人顔・縦型・日本語テロップ）、コンプラ（肖像許諾・商用ライセンス管理）、業種特化（不動産・飲食・地方EC）といったレイヤーは Vivago 本体が手当てしにくく、Vivago/Runway を裏で叩く薄いラッパー＋運用代行で月数十万〜百万の売上は十分狙える。本体プロダクトのクローンは skip、上位レイヤーは watch〜buildで臨むべき。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "クレジット課金 $6〜$60 のフリーミアム＋従量で実績ある型。ARPU $20相当（約3,000円）は SMB の許容圏内だが、GPU 原価で粗利は薄め。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内動画制作市場 4,970億円、AI動画ツール世界市場は 2032年に 25億ドル超予測。SNS 内製化需要を含めれば TAM は十分。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発者が Vivago 本体クローンで Runway / Sora と PMF・広告投下で戦うのは非現実的。差別化レイヤー＋コミュニティ／代理店 GTM 必須。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "Sora2/Veo3.1 で『実用段階』入り、Runway 日本上陸など機運は最高潮。一方で 12〜18 カ月で勝者が固まるリスクも高い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "基盤モデル開発は不可能。APIラッパー戦略なら可能だが、GPU従量原価・サポート・著作権クレーム対応で個人運営は重い。"
+      }
+    },
+    "rationale": "本体プロダクトと正面衝突する事業は個人開発者には不向き。市場規模・タイミングは良好だが、競合の資本力と原価構造で個人 SaaS は粗利を出しにくい。Vivago/Runway/Klingを呼び分けて『日本のSMBに月3,000〜5,000円で SNS 動画を月8本納品』型の運用代行＋セルフサーブハイブリッドなら、5軸全体で平均6点台まで上振れる余地はある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free：720P・透かしあり・月3本まで",
+        "Lite 月額1,480円：1080P・月10本・縦型テンプレ",
+        "Pro 月額3,980円：商用利用OK・月40本・ブランドキット・肖像許諾管理",
+        "Business 月額12,800円：チーム5名・SSO・運用代行オプション"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "SNS販促を内製したい国内SMB（飲食・小売・不動産・スクール等）と、TikTok/YouTubeショートを継続運用する個人クリエイター。",
+      "target_count": 300000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 2700000
+    },
+    "recommended_gtm": [
+      "TikTok/YouTubeでビフォーアフター実例とテンプレ配布で SEO+UGC流入",
+      "X(Twitter)で日本人顔・縦型・日本語ナレーション特化の作例を毎日投稿",
+      "地方の SNS 運用代行・撮影業者と提携し OEM/レベニューシェア",
+      "商工会議所・地方銀行のDX支援パッケージへバンドル組込み",
+      "noteやZennで日本語プロンプト集・ブランドガイド設計のナレッジを発信"
+    ],
+    "time_window_months": 15,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Runway/Sora/Klingが日本語＋日本人顔＋縦型対応を本格化すれば差別化レイヤーが消失",
+      "基盤API価格改定・利用規約変更でラッパー事業が一夜で不採算化",
+      "生成物の著作権・肖像権クレームでブランド毀損や訴訟リスク",
+      "GPU従量原価でフリーユーザーが膨らみ粗利が出ない",
+      "AI生成動画への一般消費者の忌避感（広告効果低下）"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 4,
+  "research_japan_fit_at": "2026-05-23T00:00:00Z"
+}

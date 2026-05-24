@@ -1,0 +1,265 @@
+{
+  "name": "Scholé",
+  "description": "Turn everyday work into personalized AI learning",
+  "ph_url": "https://www.producthunt.com/products/schole-2/launches/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/VRA3VMKGQGHMOC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-02T07:01:00Z",
+  "upvotes": 328,
+  "comments": 49,
+  "topics": [
+    "Artificial Intelligence",
+    "Online Learning"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi Product Hunt! I'm Vinitra, co-founder of <a href=\"https://schole.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Scholé AI</a>.</p><p></p><p>Our team goes by a lot of descriptors: educators, engineers, researchers, scientists, designers. But mostly we're a group of lifelong learners that get <em>way too excited</em> about good edtech.</p><p></p><p><strong>The problem: </strong>We’ve been researching AI for education for more than 10 years, and we keep seeing the same gap. One-size-fits-all learning from MOOCs means half the content isn’t relevant to you, and nothing adapts based on how you’re actually progressing. Dropout rates are substantial, now 90% (we're guilty of it too!)</p><p></p><p>Newer AI learning tools go the other way, lots of open-ended prompting towards socratic-style discussions. Helpful for the quick answer, but where’s the skill progression? Where’s the grounding in real materials? Where’s the curriculum?</p><p></p><p><strong>The approach: </strong>Bring back what works from learning science. Scaffolding, mastery learning, knowledge tracing, zone of proximal development, scenario-based learning, self-regulation, reflection, and so much more, but build it in a way that feels native to AI.</p><p></p><p><strong>Enter </strong><a href=\"https://app.schole.ai/signup\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Scholé</a><strong>: agentic personalized learning for the AI era.</strong></p><p></p><p>We’re currently focused on adult learning, and we personalize every part of the experience across:</p><ol><li><p>your context (job, daily tasks, tools)</p></li><li><p>your modality (videos, podcasts, interactive tasks, more or less explanation)</p></li><li><p>your pace and difficulty (your strengths, your misconceptions)</p></li></ol><p>You can ask Scholé “what is this MCP thing I keep hearing about” and it doesn’t generate something generic. It constructs the lesson on demand, <em>remixing</em> trusted materials into explanations, examples, podcasts, video excerpts, visuals and interactive tasks that are all relevant to your role and tools.</p><p></p><p>Under the hood, it’s a multi-agent system, with different pedagogical agents to teach, illustrate, question, and challenge, coordinating in real time to adapt the lesson to what you understand and what you need next.</p><p></p><p>We’re using GenUIs, orchestrators, conversational lesson delivery, knowledge tracing, hierarchical memory, multimodal learning, and more. <strong>Our first use case is helping people understand how AI is actually useful for them</strong>, &nbsp;because that's what we know how to teach. :) But you'll soon see us here teaching anything and everything else.</p><p></p><p><strong>Who is Scholé for?</strong></p><p>✅ The first-timer who’s curious about AI<br>✅ The enthusiast keeping up with new tools<br>✅ The expert who wants a 5 minute deep dive</p><p>✅ The team who wants to learn from their wiki / slides / pdfs / videos</p><p></p><p><strong>What does Scholé have?</strong></p><p>🧠 <strong>Multi-agent lessons</strong> (explanations, analogies, tasks, feedback, illustration, reflection working together)<br>🔄 <strong>Adaptive progression</strong> based on your performance and misconceptions<br>🧭 <strong>Personalized learning journey</strong> tailored to your role, tools, and goals<br>📚 <strong>Grounding</strong> in high-quality knowledge graph of data science learning materials from our favorite profs at Harvard, UC Berkeley, EPFL, UCSD, UW, and more<br>📊 <strong>Learning analytics</strong> you can query, based on your evolving knowledge<br>🎧 <strong>Lesson DJ</strong> to remix your lessons the way you want</p><p></p><p>We’re beyond excited to put this in front of you as an early public beta and our first ever launch. Feedback is the thing we treasure most, so please drop us a line at <a href=\"mailto:team@schole.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">hello@schole.ai</a>.</p><p></p><p>We’re also partnering with teams who want to turn their internal PDFs, slides, and videos into personalized learning experiences (we're already in the hands of 100s of companies!). If that sounds like you, please reach out to <a href=\"mailto:enterprise@schole.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">enterprise@schole.ai</a>.</p><p></p><p>Start learning (for free!) with Scholé today: <a href=\"https://app.schole.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://app.schole.ai</a> 🎉</p>",
+      "votesCount": 23,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "It’s refreshing to see a focus on grounding lessons in trusted academic materials rather than just open‑ended prompting. The “Lesson DJ” idea made me smile. How do you envision teams using Scholé to transform their internal PDFs and slides into something that feels truly engaging rather than just repackaged content? Congratulations!",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hi Product Hunt! I'm Paola, co-founder and CTO of Scholé. Super happy to answer any questions (especially on how it works!)</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Most AI learning is disconnected from the work people actually need to do. Scholé changes that by giving professionals and teams personalized, task-based learning in real time, right in the flow of work. Grounded in learning science and powered by adaptive AI, Scholé helps learners practice, improve, and apply AI skills as they work so learning is more relevant, more effective, and immediately useful.",
+  "featured_at": "2026-05-02T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/e69331ce-e853-48ca-9671-9ce028bfeb01.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c5947e13-df9a-48eb-90e8-42c89f59f153.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/58960404-210d-4aeb-8b86-5e3f2e0948d5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ca165652-5a2f-4ec6-bd73-6a6e6d8c4ff5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1e8b18db-e25e-4203-93d4-4981437352f6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/83fde180-ed43-4c23-8359-30a03b328e9c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3e61e1b1-345b-4277-a8ff-aa09b35495d0.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/582db3c3-b928-4e7c-8698-1cf6eddc647f.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:37",
+  "landing_meta": "Scholé | AI Training Platform for Enterprise Teams — Scholé delivers personalized AI upskilling for every role in your organization. Role-specific lessons, real adoption metrics, and EU AI Act compliance. Built on 10+ years of learning science research.",
+  "landing_text": "Scholé | AI Training Platform for Enterprise Teams Faster competency. Higher engagement. Learn the new way with Scholé. Faster competency. Higher engagement. Learn the new way with Scholé. Scholé shows each employee how AI fits into their daily work. It’s targeted, practical, and built on 10+ years of learning science research from EPFL and UC Berkeley. Scholé shows each employee how AI fits into their daily work. It’s targeted, practical, and built on 10+ years of learning science research from EPFL and UC Berkeley. Book a demo Book a demo 20 minutes. Live session with a founder. 20 minutes. Live session with a founder. Co-Designed and Trusted by leaders in tech, retail, and operations Sam, your HR partner Ask Olé Sam, your HR partner Ask Olé Sam, your HR partner Ask Olé Co-Designed and Trusted by leaders in tech, retail, and operations Loved by learners at and 100s more The adoption gap is real. Scholé closes it. The adoption gap is real. Scholé closes it. Scholé helps every employee apply AI in their role, improving speed, quality, and impact at scale. Scholé helps every employee apply AI in their role, improving speed, quality, and impact at scale. Learning that adapts to each person Every employee follows a path built around their tools, skills, and pace. The platform adjusts in real time as they progress. Grounded in 10+ years of research from EPFL and UC Berkeley. Learning that adapts to each person Every employee follows a path built around their tools, skills, and pace. The platform adjusts in real time as they progress. Grounded in 10+ years of research from EPFL and UC Berkeley. Learning that adapts to each person Every employee follows a path built around their tools, skills, and pace. The platform adjusts in real time as they progress. Grounded in 10+ years of research from EPFL and UC Berkeley. Learning that adapts to each person Every employee follows a path built around their tools, skills, and pace. The platform adjusts in real time as they progress",
+  "pricing_signals": [
+    "pricing",
+    "$3"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:38",
+  "description_ja": "日々の業務を、役割と進捗に合わせてパーソナライズされたAI学習に変える法人向けプラットフォーム",
+  "summary_ja": "業務文脈・スキル・ペースに合わせ複数AIエージェントがレッスンを生成・出題・解説するアダプティブ学習SaaS。社内PDF/動画も教材化でき、企業のAI活用定着を狙う。",
+  "tldr_ja": "国内AI研修需要は強いが、Aidemy・SIGNATE・グロービス等の既存大手が法人を押さえており個人開発でのB2B参入は困難。watch止まり。",
+  "review_guide_ja": {
+    "what": "Scholéは「業務に直結したAIスキルの個別最適学習」を提供するSaaS。役割・使用ツール・現在の理解度を踏まえ、教える/例示/問う/挑戦するなど役割の異なる複数の教育エージェントが連携し、ハーバード、UCバークレー、EPFL等のオープン教材や社内PDF/スライド/動画をリミックスして、説明・例題・ポッドキャスト・動画抜粋・インタラクティブ課題を都度生成する。知識トレース・習熟度学習・足場かけといった学習科学の方法論を組み込み、誤解の検出と再教育まで自動化。学習分析ダッシュボードでマネージャーが定着度を計測可能で、EU AI Actコンプライアンス対応を訴求。当面は「AIの業務活用」を主要トピックとし、エンタープライズの社内ドキュメント教材化（既に100社超で利用と主張）が中核ユースケース。",
+    "for_who": "AI活用を全社で定着させたい中堅～大企業の人事・L&D部門、各部門のAIチャンピオン、新卒・中途のリスキリング担当。個人プランも併設するが、主軸はEnterprise（営業/小売/オペ部門の現場社員）。日本では大企業のDX推進部・人事部・HRBP、IT/SIerの内製化研修担当が想定読者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "マルチエージェント協調、知識グラフ、知識トレース、生成UI、社内文書RAG、学習科学に基づく教育設計を統合する必要があり、10年の研究蓄積を背景とする実装難度は高い。"
+    },
+    "signals": [
+      "PH 328 upvote / 49 comments と教育系では強い反応",
+      "既に100社超のエンタープライズ採用を主張",
+      "EPFL・UCバークレー出身の学習科学研究者による創業",
+      "EU AI Act対応をフロントで明示しコンプライアンス訴求",
+      "ローンチ価格に$3シグナル（個人フリーミアム/低価格ティアの可能性）"
+    ],
+    "concerns": [
+      "コンテンツの大部分が英語・米欧大学発で日本語ローカライズ品質が未知",
+      "競合がAidemy/SIGNATE/グロービス/Schoo/atama+等で国内法人市場は既に過密",
+      "エンタープライズ販売は個人開発者のリーチ範囲外（人事決裁・SI調達）",
+      "社内文書の取り込みはセキュリティ審査が長期化（半年単位の調達）",
+      "$3シグナルはランディング上の参考情報で実際の法人価格は不明"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "矢野経済研究所によると2025年度国内eラーニング市場は3,849億円、BtoBは1,232億円規模で成長中。生成AI研修導入は新卒で5割超に達し、リスキリング助成金も追い風。AI業務活用研修需要は顕在化している。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Aidemy、SIGNATE、AVILEN、グロービス学び放題、Schoo、atama+、Knewton日本版等の有力プレイヤーが既に法人市場に常駐。AI研修比較サイトでも20社以上が並ぶ過密市場で、Scholéの差別化要素（マルチエージェント＋学習科学）はまだ国内認知が低い。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "個人情報保護法の対象。社内文書を学習データに用いる場合は委託先管理・越境移転対応が必須。EU AI Actは越境企業向けのリスクで、日本国内提供時の規制ハードルは中程度。教育/評価系AIの高リスク分類には注意が必要。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UIの日本語化は容易だが、教材本体は米欧大学教材（英語）が中核で、日本語コンテンツの厚みは未知。社内文書RAGは多言語対応で比較的容易だが、敬語・職位文化に合わせたチューニングが必要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の法人研修は集合研修・カスタマイズ提案・人材開発支援助成金活用が前提で、SaaS単発購入の文化は弱い。SI/代理店経由の調達、年度予算サイクル、PoC→稟議の長い意思決定プロセスに合わせる必要があり、海外PLG型のフローと噛み合わない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Aidemy Premium / Aidemy Business",
+        "url": "https://aidemy.net/",
+        "note": "AI/データサイエンス特化の老舗。法人向けはAidemy Businessでカスタム研修も提供。Premiumは528,000円〜と高額帯を押さえている。"
+      },
+      {
+        "name": "SIGNATE Cloud",
+        "url": "https://signate.jp/",
+        "note": "AI実践型法人研修の有力プレイヤー。コンペ運営知見を活かしたデータサイエンティスト育成パスが強み。"
+      },
+      {
+        "name": "AVILEN",
+        "url": "https://avilen.co.jp/",
+        "note": "生成AI法人研修に特化し、大手企業導入実績豊富。集合型＋eラーニングのハイブリッド提供。"
+      },
+      {
+        "name": "グロービス学び放題",
+        "url": "https://hodai.globis.co.jp/",
+        "note": "ビジネス全般×AIで法人IDあたり6ヶ月11,550円〜の定額モデル。AI領域コンテンツも拡充中で価格訴求力が高い。"
+      },
+      {
+        "name": "Schoo for Business",
+        "url": "https://schoo.jp/biz",
+        "note": "ライブ配信＋オンデマンドで生成AI領域コンテンツが厚い。月額型で人事HR層への浸透が深い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "従業員の学習履歴・誤答ログ・職務情報は個人データに該当。委託先（LLMプロバイダ）管理、越境移転（米国OpenAI等利用時の本人同意）、安全管理措置が必須。"
+      },
+      {
+        "law": "EU AI Act（域外適用）",
+        "impact": "教育・職務評価用途のAIは高リスク分類対象になりうる。日本企業のEU拠点従業員に提供する場合、透明性義務・記録保管義務が発生。Scholé自身は対応を訴求しているが導入企業側にも遵守責任が及ぶ。"
+      },
+      {
+        "law": "著作権法（学習教材の利用）",
+        "impact": "社内PDF/スライドのRAG利用は社内利用なら問題少だが、外部公開教材のリミックス・再配信は著作権30条の4（情報解析）の適用範囲外となる可能性があり、契約・許諾の整理が必要。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては、(1) 部署別・職種別の日本語業務テンプレ（経理/営業/SI/製造保全）を最初から内蔵する、(2) 人材開発支援助成金（事業展開等リスキリング支援コース）の申請フォーマット出力機能、(3) 社内Wikiやkintone、Notion JP、Confluence日本語ドキュメントのコネクタ、(4) SIer向けに「内製化研修パッケージ」として再販可能なホワイトラベル提供、が現実的。Scholé本体ではなく「日本企業向けに業務テンプレ＋助成金導線＋日本語教材で薄くラップする」位置取りなら、個人開発でもニッチ機会あり。",
+    "rationale": "AI業務活用研修の国内需要は強く、矢野経済の調査でもBtoBが市場成長を牽引している。一方で国内競合はAidemy、SIGNATE、AVILEN、グロービス、Schoo等が既に大企業の法人IDを獲得済みで新規参入余地は薄い。Scholéのマルチエージェント×学習科学×社内文書RAGという技術的差別化は確かに新しいが、日本市場では「先生・講師の権威」「集合研修」「助成金フロー」「SI調達」という商習慣バリアが厚く、海外PLG型の自己サインアップだけで法人成約まで到達するのは困難。規制面はEU AI Actより国内の個情法・委託先管理が実務的負荷の中心。総合的には需要は高いが競合過密・商習慣ミスマッチで参入難度が高く、verdictは「watch」。本家Scholéが日本進出する場合は、SI/HRTechとの提携が主戦略になると予想され、個人開発で同じ土俵に立つのは現実的ではない。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "法人研修はeラーニング月額1〜5万円/ID、集合研修30〜80万円/日、カスタム研修50〜300万円が相場で課金単価自体は確保しやすい。ただし個人プランは月額数千円ゾーンの価格競争（Udemy 2,292円、グロービス1,925円相当）に巻き込まれARPU維持は難しい。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内eラーニング市場3,849億円、BtoB 1,232億円。生成AI研修市場は急成長中で、AI研修比較記事に並ぶサービス数（20社以上）は市場の厚みを示す。TAMは十分。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "ターゲット顧客が大企業の人事・L&D部門で、調達はSI/代理店経由・稟議型。個人開発者がPLG単独で到達できるチャネルがほぼ無く、人脈と営業組織がほぼ必須。Qiita/X発信ではエンタープライズ決裁者に届かない。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Scholé本体が既に「100社導入」を主張しており、日本進出までの猶予は12〜24ヶ月程度と短い。さらに国内競合がAI研修領域に集中投資中で、ニッチを掘る時間窓が狭い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "エンタープライズ顧客はSLA、セキュリティ審査、SSO、監査ログ、年次契約更新交渉、カスタマーサクセス専任を要求。個人運用では応えきれず、解約リスクが高い。社内文書RAGのインシデント対応も24/7体制を求められる。"
+      }
+    },
+    "rationale": "市場規模・需要は十分にあるが、ターゲット顧客（大企業人事・L&D）への到達手段が個人開発者にとって致命的に弱い。日本のエンタープライズ調達は稟議・年度予算・SI経由・PoC期間半年が常識で、PLGだけで到達するのは困難。価格帯は確保しやすいものの、その分カスタマーサクセス・セキュリティ審査・SLA対応が必要で、個人運用での継続は厳しい。時間窓も既に競合が密集している上、Scholé本体の日本進出が早期に来る可能性が高く、ニッチを開拓して定着させる前にすり潰されるリスクが大きい。個人開発でB2B SaaSとして本格参入するのは推奨しがたい。代替案として、(1) Scholé本体や類似海外サービスへの日本語コネクタ販売、(2) 国内SIerへの内製化支援OSS、(3) 個人向け（B2C）に絞った日本語AI学習サブスク、のいずれかへピボットする方が現実的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2000,
+      "plans": [
+        "Free: 月5レッスンまで、基本機能のみ。獲得用",
+        "Personal Pro: ¥1,980/月、無制限レッスン＋学習分析（B2C個人向け）",
+        "Team: ¥3,000/月/ID、5〜50名チーム向け（社内ドキュメント取込上限あり）",
+        "Business: 個別見積もり（要問い合わせ）、SSO・監査ログ・カスタムコネクタ",
+        "Enterprise: 個別見積もり、専任CS・オンプレ/専用テナント対応"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内中堅企業（従業員100〜1,000名）のDX推進担当・L&D担当を主、副でAI学習意欲の高い個人プロフェッショナル（エンジニア・コンサル・企画職）。個人開発者として現実的に到達できる範囲を控えめに見積もる。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.1,
+      "monthly_revenue_target_jpy": 60000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn技術連載（マルチエージェント学習システム実装ノウハウで読者獲得）",
+      "X（旧Twitter）でのAI×教育発信＋無料体験キャンペーン",
+      "note/SubstackでEdTech×学習科学コンテンツマーケ",
+      "PLG無料枠経由でのプロダクト体験→個人課金（B2C寄せ）",
+      "HR Tech系メディア（HRzine等）への寄稿・登壇でブランド構築",
+      "個人開発者は法人営業より、海外Scholéの日本語化ヘルパー/コネクタOSS化の方が現実的"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "国内競合（Aidemy/SIGNATE/AVILEN/グロービス/Schoo）が法人IDを既に押さえており、新規参入は実質ゼロから営業組織が必要。個人開発では時間と資金が持たない。",
+      "エンタープライズ調達のセキュリティ審査・SSO・SLA要件に個人運用では対応不可。1件目の契約締結まで6〜12ヶ月、その間の収益はゼロのリスク。",
+      "本家Scholéが既に100社導入を主張、日本進出は12〜24ヶ月以内に発生する可能性が高い。後発のラッパーは即時に陳腐化。",
+      "学習履歴データは個人情報保護法上の個人データに該当。インシデント時の損害賠償リスクが個人事業主の規模に対して過大。",
+      "コンテンツ著作権処理（教材のリミックス）について、日本では情報解析例外（著作権法30条の4）の適用範囲が論争中で、法務コストが重い。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

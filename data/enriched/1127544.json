@@ -1,0 +1,241 @@
+{
+  "name": "GitHired",
+  "description": "Find 100x engineers by proof of work, not resume keywords",
+  "ph_url": "https://www.producthunt.com/products/githired-2/launches/githired-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/WYPKITACC4AEM6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-08T07:01:00Z",
+  "upvotes": 255,
+  "comments": 26,
+  "topics": [
+    "Hiring",
+    "GitHub",
+    "YC Application"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey everyone 👋<br>I’m Raghav, the Founder of GitHired.<br><br>Hiring devs is broken- you can’t tell if someone is a 100x engineer just by looking at a resume.</p><p>Some candidates look perfect on paper but can’t ship real features.<br>Others who can build get filtered out because of a missing keyword.<br><br>So we built something better. We analyze what a developer has actually built, not what they say they can build.<br>We break down their real tech stack, project depth and complexity, commit authenticity (no more fake green charts). Just describe what you're looking for, and get a ranked list of the most cracked devs with the skills relevant for the role.</p><p></p><p>Stop guessing who can code. Start seeing who does.</p><p></p><p>We’re early, shipping fast, and would love your feedback. Tear it apart, ask questions, or tell us what would make this a no-brainer for your team. The first search is free!</p>",
+      "votesCount": 13,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "If a team already uses LinkedIn Recruiter/SeekOut/hireEZ for sourcing and HackerRank/Codility/CodeSignal for evaluation, where does GitHired replace vs complement—and what’s the end-to-end workflow you see working best for a founder or in-house recruiter?",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Loved the idea and execution Raghav. <br><br>At the last you mentioned. You have access to private repos as well. Curious, how are you having that?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Find 100x engineers on autopilot: Describe what you're building/looking for, and instantly get a ranked list of the most cracked engineers who meet your requirements. Search from our pool of 10k+ profiles that have been evaluated based on actual code complexity, project depth, and relevant experience- including access to private repos for maximum accuracy. And if that pool falls short, use our inbuilt GitHub + LinkedIn scraper to source cracked open source devs.",
+  "featured_at": "2026-05-08T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/2dc201d5-0c3f-4fbb-a8ea-9f445986c910.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8b002031-8787-4061-a038-57238908cae0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f87c1f4c-d1dd-4303-9534-f1f1551e328d.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/be307ddd-b295-48ef-819b-af98aea68c41.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/82a0132f-d89f-49a6-8796-a635ff787a3d.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d8df687c-fb24-489e-ac5c-82fbeaf8fdd5.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/d4a47738-a33f-48a5-a5c7-ae30bf3f53cd.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:22",
+  "landing_meta": "GitHired | Find your next 100x engineer — Create autonomous hiring forms that instantly rank your applicants and show you what they've actually built, not what they say they can build.",
+  "landing_text": "GitHired | Find your next 100x engineer Stop guessing. Start seeing. Stop guessing who can code. Start seeing who does. The fastest safest way to hire 100x engineers. Find cracked developers based on what they've actually built, not what they say they can. Get Started I'm a developer How It Works The only hiring platform you'll ever need End-to-End Hiring Public Hiring Paste your job description and instantly get a ranked list of the most cracked profiles that match your requirements. 01 SOURCE 02 ANALYZE 03 ENGAGE app.githired.tech SOURCE Search by real skills Describe the engineer you need. We search real GitHub activity, not keywords. What We Do Resumes Lie, GitHub Doesn't. Find your next 100x engineer by proof of work, not keywords. 01 EVALUATE Identify 100x devs Scored on code complexity, project depth, and shipping capabilities. code-analysis 02 Private Repo Access Beyond Open Source 10k+ applicants have given us secure access to their private projects. private-repos 03 SIGNALS And Open Source Can't find the right candidate from our pool that have given us secure access to their private projects. private-repos 03 SIGNALS And Open Source Can't find the right candidate from our pool? Our GitHub + LinkedIn scraper surfaces cracked devs across the web hireable-status Pricing Pricing based on your success Self-Serve Use the platform yourself — whether you're a founder, in-house recruiter, or staffing agency. $ 250 /seat / month Unlimited search across our 10k+ vetted developer pool Proof-of-work scoring with private repo access Open source scraper if our pool falls short Bring your own candidate database — resumes get outdated, GitHub & LinkedIn don't Invite teammates — share one credit pool across the team Get started Done-For-You Most popular Our recruiters use the platform to find your hire. You only pay when you hire. Custom Dedicated talent partner sources, screens, and schedules — using our platform Ranked shortlist of pre-vetted cracked devs in days $0 upfront — pay only on a successful hire Replacement guarantee Book a call FAQ Frequently Asked Questions. How do you evaluate and score? What if my pro",
+  "pricing_signals": [
+    "open source",
+    "pricing",
+    "$0",
+    "$7",
+    "$14"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:25",
+  "description_ja": "GitHubの実コード分析でエンジニアの真の実力をランク付けし、レジュメではなくProof of Workで100倍エンジニアを発掘するスカウト型採用SaaS。",
+  "summary_ja": "GitHiredはGitHubの公開・プライベートリポジトリを解析し、コードの複雑度・プロジェクト深度・コミット信頼性を評価して候補者を自動ランキングするエンジニア採用プラットフォーム。$250/seat/月のセルフサービスと成功報酬型のDone-For-Youを提供し、レジュメのキーワードに頼らない採用を実現する。",
+  "tldr_ja": "GitHubの実作物でエンジニアを採点し、レジュメに頼らないスカウト採用を可能にするSaaS。$250/seat/月。",
+  "review_guide_ja": {
+    "what": "GitHubの公開アクティビティとプライベートリポジトリ（候補者同意ベース）をAIで解析し、コード品質・プロジェクト深度・コミット信頼性を基に開発者を自動スコアリングするスカウト採用プラットフォーム。10k+の事前評価済みプール検索とGitHub+LinkedInスクレイパーを内包し、求人説明文から自然言語で最適候補をランキング表示する。料金はセルフサービス$250/seat/月またはhire成功時のみ支払うDFYモデル。",
+    "for_who": "技術スタートアップの創業者、社内リクルーター、開発エージェンシーで、迅速にハイレベル開発者を発掘したい組織。特に英語圏のリモート採用ニーズが強い企業。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "GitHub APIとLLMで基本機能は再現可能だが、プライベートリポ同意取得・10k+プール構築・スコアリング精度の検証には相応の時間とデータが必要。"
+    },
+    "signals": [
+      "PH 255 upvotes / 26 comments と一定の関心",
+      "$250/seat/月のSaaSプラン明示で課金意思を確認済み",
+      "10k+登録プール構築済みでcold startをある程度突破",
+      "YC Application タグ付きで資金調達意欲",
+      "AI×採用というメガトレンドに位置"
+    ],
+    "concerns": [
+      "GitHub Acceptable Use Policyでrecruiter目的のスクレイピングは明確に禁止",
+      "GitHubが網羅していない人材（フロント系・モバイル・非OSS文化圏）を見逃す",
+      "コミット信頼性判定のフォールスポジティブ／ネガティブによる候補者からの不信",
+      "LinkedIn Recruiter / HackerRank / hireEZ など既存ツールとのworkflow分担が不明確",
+      "プライベートリポ閲覧の同意とセキュリティに関する企業側のコンプラ懸念"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "IT人材有効求人倍率10.4倍、2030年に40-80万人不足見通しで採用需要は強い。ただしGitHubベースの評価が刺さるのは技術志向のスタートアップ中心で母集団は限定的。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Findyが既にGitHub連携でスキル偏差値を算出、LAPRASがOSSアクティビティを自動収集、Forkwellがイベント参加履歴で評価とジャパンローカル競合が既に強い陣地を構築済み。"
+      },
+      "regulation": {
+        "score": 3,
+        "reason": "GitHub規約はrecruiter目的のスクレイピング明確に禁止。日本の個人情報保護法ではプロフィール大量収集に利用目的明示・第三者提供同意が必要で、現行モデルのリスクは高い。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "日本語UI・日本語求人理解・日本人エンジニア比率の少ないGitHub（世界6位）への依存などローカライズ負荷大。スコアリングの母集団も英語コミットに偏りがち。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本はメンバーシップ型雇用が主流でジェネラリスト評価が中心、スペシャリスト即戦力評価のジョブ型はまだ移行途中。GitHubのProof of Work重視は大手企業の採用慣行にフィットしない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Findy",
+        "url": "https://findy-code.io/",
+        "note": "GitHub連携でスキル偏差値を算出するエンジニア特化スカウト。月額36万円〜＋成果報酬30-35%。日本市場で最有力競合。"
+      },
+      {
+        "name": "LAPRAS",
+        "url": "https://lapras.com/",
+        "note": "GitHub・Qiita・Connpass等のオープンデータを自動収集し転職潜在層をAIでスコア。月額・成果報酬の複数プランを提供。"
+      },
+      {
+        "name": "Forkwell",
+        "url": "https://jobs.forkwell.com/",
+        "note": "エンジニア勉強会×スカウト。約4.7万人の即戦力エンジニアDBを持ち、スキル別検索が強み。"
+      },
+      {
+        "name": "Wantedly",
+        "url": "https://www.wantedly.com/",
+        "note": "ミッション共感型のダイレクト採用。エンジニア採用での利用も多くスタートアップに浸透。"
+      },
+      {
+        "name": "Track Test",
+        "url": "https://tracks.run/",
+        "note": "コーディングテストによる実務スキル評価。GitHub解析ではないが代替的な実力評価ソリューション。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "GitHub Acceptable Use Policy",
+        "impact": "Service情報をrecruiter・headhunter・job board向けに販売または利用する目的でのスクレイピング／API取得は明確に禁止。アカウントBANのリスク。"
+      },
+      {
+        "law": "個人情報保護法（日本）",
+        "impact": "GitHub/LinkedInプロフィールの大量取得・第三者提供には利用目的の通知・公表が必要。本人同意なしの提供は原則違法で、PPCの監督対象。"
+      },
+      {
+        "law": "GitHub一般プライバシーステートメント",
+        "impact": "ユーザー個人情報を本人の利用目的承認なしに収集・利用することを禁止。プライベートリポ閲覧には明示同意必須。"
+      }
+    ],
+    "opportunity": "日本特化版を作るなら、Findy/LAPRAS未開拓のニッチ（例：ゲーム/組み込み/特定言語コミュニティ）×日本語ドキュメント解析×企業のジョブディスクリプション自動生成にピボットする道はあるが、本家のままでは厳しい。",
+    "rationale": "需要自体は2030年問題で旺盛だが、Findy・LAPRAS・Forkwellという3強がGitHub連携型スカウトのポジションを既に押さえており、英語ベースのまま参入してもブランド・DBの両面で勝てない。さらに、現状のスクレイピングモデルはGitHub規約と日本の個人情報保護法の双方でリスクが高く、エンタープライズに売り込む際の障害となる。日本の採用文化（メンバーシップ型・新卒一括）ともフィットが悪く、ジョブ型移行の波に乗れるテック寄り企業のみが限定的なターゲット。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "$250/seat/月＋成功報酬DFYの二段構えで明確な課金導線。エンジニア採用市場のARPUは高く、ダイレクトリクルーティング相場（月額10-20万円）との比較でも価格は妥当〜やや安い水準。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "グローバルでは技術採用市場は数兆円規模。ただし日本に限ると技術志向の中小ITスタートアップ約4万社の上澄み数千社が現実的TAMで、Findy等の既存プレイヤーが先行。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PHでの一発launch以外に明確なdistribution戦略が見えない。日本市場ではFindyの『勉強会×コミュニティ』『カンファレンススポンサー』のような重い投資なしには認知獲得困難。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "AI採用ツールへの注目は高く、生成AI×HR Techは旬。ただしGitHub解析×AI評価のコンセプト自体は既に普及しており、後発感は否めない。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "GitHub/LinkedInスクレイパー運用、プライベートリポ同意フロー、AI評価モデルの精度維持、エンタープライズ営業まで個人開発者には負荷が重い。少なくとも2-3人の体制が必要。"
+      }
+    },
+    "rationale": "課金導線とARPUは魅力的だがGTMとsolo_opsが弱い。日本市場限定で見ると、既存3強の壁とGitHubの規約リスクが事業継続性を毀損する。グローバルではYC的なfast-shippingで一定の成長余地はあるが、日本特化型でPMFを取るには相当のローカライズ投資が必須。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 38000,
+      "plans": [
+        "Starter: 月額3.8万円/シート、検索100回/月、公開リポのみ",
+        "Pro: 月額8万円/シート、検索無制限、プライベートリポ同意プール、JD自動生成",
+        "Enterprise: 個別見積、API/ATS連携、専任CSM、成果報酬オプション"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "エンジニア5-50名規模の国内ITスタートアップ・SaaS企業で、ジョブ型採用に移行済みかつ英語圏リモート採用にも開けたテック寄り組織",
+      "target_count": 3000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 1710000
+    },
+    "recommended_gtm": [
+      "技術カンファレンス（builderscon, RubyKaigi等）スポンサーで認知獲得",
+      "エンジニア向けポッドキャスト・YouTubeでの『採用のリアル』コンテンツ",
+      "Findyを使い切ったテックスタートアップへの追い玉提案として営業",
+      "PLGのfree tier（月3検索無料）で個人創業者にバイラル",
+      "YC/Z Venture/ANRIなどのVCポートフォリオへのバンドル提案"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "GitHub規約違反でAPI/サービスBAN、事業継続不能",
+      "個人情報保護法違反でPPCから行政指導・課徴金リスク",
+      "Findy/LAPRASの追随機能リリースで差別化喪失",
+      "プライベートリポ閲覧の心理的抵抗で同意プールが伸びない",
+      "AI評価の偽陽性で候補者から訴訟・SNS炎上"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

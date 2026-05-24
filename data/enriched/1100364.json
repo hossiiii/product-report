@@ -1,0 +1,256 @@
+{
+  "name": "VideoOS by Jupitrr AI",
+  "description": "Your all-in-one video workflow",
+  "ph_url": "https://www.producthunt.com/products/jupitrr/launches/videoos-by-jupitrr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/3NTEC76ZWZD3U7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-30T07:01:00Z",
+  "upvotes": 405,
+  "comments": 44,
+  "topics": [
+    "Social Media",
+    "Marketing",
+    "Video"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>hey PH! 👋 Lee here with Harris and Jerome — co-founders of Jupitrr AI. Pumped to launch again in this new AI coding era.</p><p></p><p>We've been building video tools for 2 years, and if you're a founder or consultant, you already know the pain:</p><p></p><p>You know <strong><em>you should be posting</em></strong> on LinkedIn, Instagram, YouTube, TikTok. Every VC, every founder you admire is doing it. But between shipping product, talking to customers, and closing deals, the idea of making a video always slips. </p><p></p><p>So we rebuilt everything into one workflow. </p><p></p><blockquote><p><strong><em>VideoOS takes you from idea to published video in minutes.</em></strong></p></blockquote><p></p><p>Here's the loop:</p><p></p><p>→ Find trending videos in your niche (so you're not guessing what works)</p><p>→ Remix them into your own briefs (fully collaborative with your team)</p><p>→ AI writes your script in your voice (we studies all your previous transcript)</p><p>→ Record with our Teleprompter App — line-by-line, auto-trimmed (we're the first to do this)</p><p>→ Auto-edit with subtitles, B-roll, and music</p><p>→ Publish directly to LinkedIn, YouTube, TikTok, IG<br>→ Cross-platform analytics (so you know what to improve on next)</p><p></p><p>We want to make making videos less overwhelming — no jumping in and out of Notion, Canva, CapCut, Buffer just to get one video out. </p><p></p><p>We want you to be consistent, because your builder story deserves more attention.</p><p></p><p><strong>Built for solo founders, consultants, and small marketing teams</strong> who want to show up on video without it eating their week. (Not the AI slop kind.)</p><p></p><p>Do try it out. Would love any feedback! ✌️</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hi PH folks!👋🏻 Harris here, one of the co-founders of Jupitrr AI!<br><br>We started as an AI video editor that helps businesses create videos.<br>As time goes by, we realized editing was never the real problem.<br>I mean, there are loads of video editors out there, but business creators still struggle.<br></p><p>The real problem is that most people can't stay consistent with video — not because they lack talent, but because they don't have a system. <br><br>We're seeing users are on 6–8 different tools: research here, scripting there, recording somewhere else, editing in another app, publishing manually to each platform. It's exhausting so most give up too early.</p><p><br>So we rebuilt the whole product.</p><p><br>VideoOS is a video engine. <br><br>It learns your tone of voice, helps you research topics worth making, writes scripts that actually sound like you, guides you through filming, edits, and publishes to every channel — all in one place.<br></p><p>We've been building Jupitrr for 3 years and have ~200k users, and we're always listening, always shipping🚢</p><p></p><p>Would love your feedback — especially if you're a marketing team or small business owner who wish to gain exposure and trust through videos!</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>the line by line teleprompter is the actual unlock here. one bad take in the middle of a 2 min recording means redoing the whole thing, which is why most founders quit after take 4 and never post. cutting that loop changes the math on shipping consistently.</p><p></p><p>does the voice indexing work with a small corpus, or does it need a decent backlog of transcripts before it stops sounding generic? curious where the floor is for someone just starting out</p><p>congrats on the launch ✌️</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "VideoOS is the all-in-one video marketing platform for businesses. Find trending topics in your niche, write scripts with AI, record with our Auto Jump Cut teleprompter, auto-edit with subtitles and B-roll, and publish directly to your socials. One app instead of five. Go from idea to posted video faster.",
+  "featured_at": "2026-04-30T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/b41a7a47-2cd5-4fbb-953d-42614e481738.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b879e4d0-b7d0-47d1-a6c3-44bf08db7fdc.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2f72666d-9ce8-442d-aa91-cfc10bcded34.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/22f30b70-0b08-4244-b2f1-65ee551b56df.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4b1d0183-537a-444d-a76c-06b3f5590ec9.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/82236918-f0dc-4232-bd8a-82f0b3c459d2.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/9bb3f657-8eda-4342-9107-c4fe5230db3d.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:35",
+  "landing_meta": "Jupitrr VideoOS — Plan, Script, Edit & Publish Videos in One Place — Jupitrr VideoOS is the all-in-one video operating system for businesses. Research, script, edit, and publish videos daily — powered by Jupitrr Agent, Jupitrr Cut, and Jupitrr AI Video Editor.",
+  "landing_text": "Jupitrr VideoOS — Plan, Script, Edit & Publish Videos in One Place",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-24T20:35:35",
+  "description_ja": "ソロ起業家・小規模マーケチーム向けの動画一気通貫SaaS。トレンド調査、台本生成、テレプロンプター撮影、自動編集、各SNS投稿、分析までを1つのワークフローで完結させる。",
+  "summary_ja": "Jupitrr AIが提供するVideoOSは、起業家・コンサル・小規模マーケチーム向けに「ネタ探し→台本→撮影→編集→配信→分析」の動画ワークフローを1本化するSaaS。トレンド動画リサーチ、声色を学習する台本AI、行単位で再撮できるテレプロンプター、自動字幕・B-roll、LinkedIn/YouTube/TikTok/IGへの直接投稿、横断分析を備える。約20万ユーザーの既存基盤を持ち、複数ツール(Notion/Canva/CapCut/Buffer)併用の煩雑さを解消する点を訴求している。",
+  "tldr_ja": "動画ネタ探しから台本・撮影・編集・SNS投稿まで一気通貫。複数ツール往復をなくし継続発信を支援する起業家向けSaaS。",
+  "review_guide_ja": {
+    "what": "動画マーケティング業務(リサーチ/スクリプト/撮影/編集/投稿/分析)を1つに統合するAI搭載のオールインワン動画SaaS。特に行単位で撮り直せるテレプロンプターと、ユーザー過去発信を学習する台本AIが差別化ポイント。SNS横断投稿と分析も内蔵し、Canva・CapCut・Buffer等を置き換える設計。",
+    "for_who": "LinkedIn/YouTube/TikTok/IGで継続発信したいが時間がないソロ起業家、コンサルタント、SaaS創業者、3〜5名の小規模マーケチーム。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "テレプロンプターアプリ、声色学習LLM、自動B-roll、多SNS投稿API、トレンド検出、分析の全機能統合は工数大。3年200kユーザーの蓄積資産も大きい。"
+    },
+    "signals": [
+      "PH upvote 405・コメント44とソーシャル発信領域では強めの反応",
+      "既存Jupitrr時代から3年/約20万ユーザー基盤を保有",
+      "行単位テレプロンプター撮り直しは未充足の具体ペイン",
+      "ショート動画市場が日本で年間1163億円規模に拡大",
+      "LinkedIn日本ユーザー500万人、動画利用が拡大"
+    ],
+    "concerns": [
+      "CapCut・Vrew・SocialDog等の単機能強豪が圧倒的に安価/普及",
+      "日本語の音声認識精度・声色学習品質は要検証",
+      "LinkedInは日本で限定的・TikTok企業活用は規模感が限定",
+      "投稿APIの仕様変更(X/TikTok)で機能維持コストが高い",
+      "薬機法/景表法/ステマ規制下では自動生成台本の確認が必須"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内ショート動画広告市場は1163億円、企業SNS活用率は40%超、中小企業の動画発信ニーズは旺盛。継続発信できない課題も共通する。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Vrew(月1290〜4490円)、CapCut(無料)、SocialDog、Filmora等の単機能勝者が乱立。一気通貫の優位を価格訴求で覆すのは厳しい。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "AI生成台本は薬機法/景表法/2023年ステマ規制の対象。直接違法ではないが、自動公開ワークフローはユーザー側で内容確認が必須となる。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "日本語音声認識・トレンド検出・LinkedIn/TikTok日本側分析の精度は未検証。Vrew/CapCutが既に高精度な日本語処理を持つ点が壁。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本では動画制作は外注/代理店依存が根強く、経営者自身のSNS出演は欧米ほど一般化していない。LinkedIn利用も発展途上。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Vrew",
+        "url": "https://vrew.ai/ja/",
+        "note": "韓国製AI動画編集。日本語字幕精度が高く月額1290〜4490円。動画制作部分の強豪。"
+      },
+      {
+        "name": "CapCut",
+        "url": "https://www.capcut.com/",
+        "note": "無料で自動字幕/B-roll/BGM/AI機能を網羅。日本のクリエイター大量採用済み。"
+      },
+      {
+        "name": "SocialDog",
+        "url": "https://social-dog.net/",
+        "note": "国産SNS管理シェア1位、100万アカウント。投稿/分析の主力代替。"
+      },
+      {
+        "name": "Statusbrew",
+        "url": "https://statusbrew.co.jp/",
+        "note": "日本語対応の多SNS管理。法人/代理店導入実績あり。"
+      },
+      {
+        "name": "Filmora (Wondershare)",
+        "url": "https://filmora.wondershare.jp/",
+        "note": "買い切り9980円〜。AI字幕/テキスト編集を内蔵し小規模制作者の定番。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法(ステマ規制 2023年10月施行)",
+        "impact": "自動投稿された動画でPR表示漏れがあれば事業者が措置命令対象。VideoOS側もデフォルトでPR表示テンプレ対応が必要。"
+      },
+      {
+        "law": "薬機法",
+        "impact": "美容/医療/サプリ系創業者が利用する際、AI生成台本の効能表現が違反となるリスク。チェック機能なしで使うと事業者が課徴金対象に。"
+      },
+      {
+        "law": "景品表示法(優良誤認/有利誤認)",
+        "impact": "トレンド動画リミックス機能で他社訴求文をそのまま使うと不当表示認定の可能性。著作権との二重リスク。"
+      }
+    ],
+    "opportunity": "ソロ経営者・コンサル・士業の『LinkedIn・YouTube継続発信』を、薬機法/景表法/ステマ表記の自動チェックと日本語声色学習に特化して支援するJP特化版。CapCut+SocialDogの組合せに勝つには『日本のBtoB専門職向け+規制チェック内蔵』のニッチに振る必要がある。",
+    "rationale": "需要シグナルは強いが、単機能のCapCut(無料)とVrew(月千円台)、SocialDog(国産)が日本市場をすでに広く押さえており、一気通貫の価値だけでは価格差を正当化できない。LinkedIn500万人やTikTok企業活用は伸びているが、日本では経営者自身のカメラ出演文化はまだ薄く、テレプロンプター差別化が刺さる層は限定的。規制対応・日本語精度・代理店経由商流の壁も高く、海外プロダクトのまま参入は不利。日本向けに『規制チェック+士業/コンサル特化』へ絞り込んで再構築すれば余地はあるが、本体そのままでは『skip』が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "サブスク+使用量で月3000〜8000円帯が見込める。一気通貫の付加価値で他社単機能より高単価を取りやすいが、CapCut無料の引力が強い。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本の小規模事業者285万、フリーランス1303万、企業SNS活用4割。動画継続発信に課題を持つ層は十分大きいが、実購買に至る母数はその数%。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "ソロ向けプロダクトの個別獲得はCAC高い。日本ではTwitter/YouTubeでの著名創業者経由バイラルが主導線で、海外発の英語UIでは難しい。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "縦型動画市場1163億円・LinkedIn日本500万人へ拡大中。AI台本/声色学習が普及期に入る2026は追い風。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "テレプロンプターアプリ、声色学習、自動編集、多SNS投稿API、分析の維持は個人開発では困難。SNS API変更対応が継続発生。"
+      }
+    },
+    "rationale": "市場の方向性とタイミングは好材料だが、競合が無料/低価格で広く展開しており、一気通貫の価値だけで月数千円のARPUを安定取得するハードルは高い。日本市場固有のGTM難易度(英語SaaSの個別獲得難)とソロ運用の困難さ(SNS API・編集処理の複雑度)が足を引っ張る。すでに20万ユーザー基盤がある本家は別だが、PoCで日本市場再現を狙うなら参入コスト>収益期待。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 4000,
+      "plans": [
+        "Free: 月3本まで・字幕/B-rollあり・透かしあり",
+        "Solo: 月3000円・無制限編集・1SNS連携",
+        "Pro: 月6000円・全SNS連携・声色学習・分析",
+        "Team: 月12000円/3席・共同編集・ブランドキット",
+        "Business: 個別見積・薬機/景表チェック・代理店向け"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "LinkedIn/YouTubeで継続発信したいソロ起業家・コンサル・士業・SaaS創業者(年商1000万〜数億規模)。動画外注予算は出せないが月数千円のSaaS課金は許容する層。",
+      "target_count": 200000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 4000000
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)で著名起業家にギフトアカウント提供しBefore/Afterを露出",
+      "LinkedInの日本ユーザー500万人セグメントに直接広告+ケーススタディ",
+      "薬機法/景表法の自動チェック機能を独自訴求しPR TIMES/Note記事流通",
+      "士業・コンサル向けコミュニティ(BNI/中小企業診断士会等)へパートナー販売",
+      "YouTube動画編集スクール(動画幹事系)とアフィリエイト提携"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "CapCut/Vrewが一気通貫機能を実装し価格優位で市場を奪う",
+      "X/TikTok/LinkedInのAPI仕様変更で投稿機能が止まる",
+      "ステマ規制違反でユーザーが処分された場合に責任論",
+      "AI生成台本の声色再現が日本語で品質低下し継続課金が落ちる",
+      "代理店経由の動画制作市場が強く個別SaaS課金に流れない"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_analyzed_at": "2026-05-23T00:00:00Z",
+  "research_completed_at": "2026-05-23T00:00:00Z"
+}

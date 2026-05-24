@@ -1,0 +1,225 @@
+{
+  "name": "Latitude for Claude Code",
+  "description": "See where Claude Code burns tokens. Hit your limits less.",
+  "ph_url": "https://www.producthunt.com/products/latitude-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/SQUMMFO54D7IZ2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-13T07:01:00Z",
+  "upvotes": 375,
+  "comments": 25,
+  "topics": [
+    "Developer Tools"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey everyone,<br>It's Cesar, founder of Latitude.<br><br>If you keep hitting your Claude Code limits faster than you'd expect, this shows you why. Full session trace: system prompt, every tool call, subagent spawns, per-turn token cost. You see where your context actually went and which actions burn the most.<br><br>Same thing works if you're using Claude Code as a harness for your own agent: track cost and latency per session, and get recurring failures auto-flagged across runs.<br><br>Install is one command:</p><pre><code>npx -y @latitude-data/claude-code-telemetry install</code></pre><p><br>It's free, traces stay in your Latitude account.<br><br>Happy to answer technical questions in the thread.</p>",
+      "votesCount": 12,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>this is genuinely what we need, especially being able to spot which sessions burn way more tokens than others lol. </p><p>Does this support the Claude Team plan, or API-only for now?</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Oh man! Needed it. Claude is making me crazy, cause I never know where my tokens go. Thanks for helping on this and wish you all the best here!</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Trace every Claude Code session. See the full system prompt, every tool call, every subagent, and token cost per turn. One command to install, free, your traces stay in your account. Receive a weekly report with your stats.",
+  "featured_at": "2026-05-13T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/71179fd5-3785-47a6-a8b9-37d82e92dcb0.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6f45a115-68aa-40b4-9bd4-35efdcbfc20b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/141bab09-105b-44a9-abee-8da7727c29a4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0fd04f6e-296c-401d-8cd1-8ce94d6596a8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dcb790f0-bbad-4b21-9730-8de1304e6a42.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/b97b7457-c77c-4ee1-8ee5-1bfde880c266.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:21",
+  "landing_meta": "AI Agent Observability & Monitoring - Latitude — Open-source AI agent monitoring platform. Full observability into what's failing in production. Discover underlying issues, get alerts when something breaks and verify your fix worked.",
+  "landing_text": "AI Agent Observability & Monitoring - Latitude Observability Platform for The complete LLM control plane for scaling AI products Claude The complete LLM control plane for scaling AI products Monitor every step made by Claude Code A clear path to reliable AI Full session traces, the real system prompt, every tool schema Claude Code sees, captured locally npx -y @latitude-data/claude-code-telemetry install Copied Copy Once installed works in terminal , Claude Desktop & IDE Set up in no time Install the Latitude telemetry for your agent globally on your machine with just 1 command Create a free account Sign up to Latitude to monitor your agent's behaviours across all projects and detect possible issues Sign up Run the installer command One npx command sets up the hook, the preload and the launchctl .plist Copy command Copy command Observability Failure detection Issue monitoring Observability See every turn Claude Code runs. The prompts, the tool calls, the Bash output, the files it touched. Including the system prompt and tool schemas Claude Code composes at runtime. View docs Full traces Every turn becomes a trace. Cost per session See what each task actually cost. Per prompt, per session, per workspace. Observability Human feedback Failure discovery Playground Evals Observability Capture real inputs, outputs, and context from live traffic. Understand what your system is actually doing, not what you expect it to do. Full traces Observe your AI’s behaviour in the most comprehensive way Usage statistics Keep track of the token usage and regulate expenses Get started for free Start monitoring your Claude Code's behaviour at no cost with Latitude Get started for free Start monitoring your Claude Code's behaviour at no cost with Latitude Sign up View docs Ship reliable AI agents Latitude S.L. 2026 Home Pricing Log in Blog Docs Telemetry OpenTelemetry Community Support Terms Privacy We're GDPR compliant Ship reliable AI agents Latitude S.L. 2026 Home Pricing Log in Blog Do",
+  "pricing_signals": [
+    "open-source",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:22",
+  "description_ja": "Claude Code のセッションを完全トレースし、システムプロンプト・ツール呼び出し・サブエージェント・ターン毎のトークンコストを可視化する OSS 観測ツール。",
+  "summary_ja": "Latitude for Claude Code は、npx ワンコマンドで導入できる Claude Code 専用のテレメトリ／観測プラットフォーム。各セッションの完全トレース、ツール呼び出し、サブエージェント生成、ターン毎のトークン消費を Latitude アカウントに記録し、どの操作がトークンを浪費しているか・どこで失敗しているかを発見できる。本体は OSS で無料、上位機能は SaaS 課金モデル。",
+  "tldr_ja": "Claude Code のトークン浪費箇所を可視化する OSS 観測ツール。ワンコマンド導入で全セッションをトレースし、コストと失敗を発見できる。",
+  "review_guide_ja": {
+    "what": "Claude Code 利用時のセッションを OpenTelemetry ベースでトレースし、システムプロンプト・ツール呼び出し・サブエージェント・ターン毎のトークン使用量とコストを Latitude のダッシュボードに集約する観測 SaaS。Claude Code 個別機能の単体提供だが、本体は AI エージェント全般の本格的な観測プラットフォーム Latitude のエントリーポイント。",
+    "for_who": "Claude Code を Pro/Max プランで日常的に使い、トークン枠の消費理由を把握したい個人開発者・小規模チーム。さらに Claude Code をハーネスとして自前エージェントを動かす開発者。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "テレメトリ収集自体は OpenTelemetry + Claude Code フックで実装可能だが、ダッシュボード UI・課題集約・評価機能まで作り込むには相応の工数が必要。"
+    },
+    "signals": [
+      "PH 375 upvotes / 25 comments と開発者層からの強い関心",
+      "Claude Code の枠制限・トークン浪費は公式コミュニティでも頻出の不満",
+      "本体 Latitude は GitHub で OSS 公開済みで実績あり",
+      "日本でも ccusage(★14k+) など類似 OSS が標準化",
+      "Anthropic が日本で経営者層 17% に Claude Code 導入される普及速度"
+    ],
+    "concerns": [
+      "ccusage / claude-monitor 等の無料 OSS が既に強固に普及",
+      "Claude Code 単体機能は無料、本体 Latitude の有料化導線が不明瞭",
+      "観測 SaaS は LangSmith / Langfuse / Arize / Datadog 等で競合過密",
+      "Anthropic 公式のコスト確認画面が随時拡充されコモディティ化リスク",
+      "個人開発者は無料 OSS で満足しがちで有料転換が難しい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Claude Code のトークン枠浪費は日本でも Qiita・Zenn 等で頻出話題。経営者の 17% / 開発者層で急速普及しており、可視化ニーズは明確。ただし課題感はあっても支払い意思は弱い層が中心。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "日本人開発者の ccusage(★14k超) が事実上の標準。claude-monitor 等の無料 OSS も多数。観測 SaaS では Langfuse / LangSmith が既に日本語記事豊富で先行。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "セッション内容(プロンプト・コード)を外部 SaaS に送るため個人情報・営業秘密保護の懸念はあるが、セルフホスト OSS 版があるため大半は回避可能。特段の業法規制はなし。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UI・ドキュメントとも英語のみ。日本語 UI / 日本円課金 / 日本語ブログでの普及は未着手。日本市場向けには明確なローカライズ投資が必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "個人開発者は無料 OSS を選好し、SaaS 課金への抵抗が強い。法人は Datadog / New Relic 系既存ベンダーへの統合を好む傾向。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ccusage",
+        "url": "https://github.com/ryoppippi/ccusage",
+        "note": "日本人開発者 ryoppippi 氏製の OSS CLI。GitHub ★14,100超で Claude Code ユーザーの事実上の標準ツール。ローカル JSONL 解析で外部送信なし。"
+      },
+      {
+        "name": "Claude Code Usage Monitor",
+        "note": "ターミナル上で残量・リセット時刻を％表示するリアルタイム監視 OSS。日本語化記事も Zenn 等で多数公開。"
+      },
+      {
+        "name": "Langfuse",
+        "url": "https://langfuse.com/",
+        "note": "OSS LLM 観測の本命。Core $29/月、無料 5万トレース。日本語記事多数で先行普及。Claude Code 特化ではないが汎用観測で広く使われる。"
+      },
+      {
+        "name": "LangSmith",
+        "url": "https://smith.langchain.com/",
+        "note": "LangChain 公式の観測 SaaS。Plus $39/シート月。LangChain 利用組織で標準的に採用。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法 / 改正個情法",
+        "impact": "セッショントレースに顧客データやコードが含まれる場合、SaaS 送信時に第三者提供・越境移転(EU 法人)の問題が発生しうる。法人導入時は契約条項とセルフホスト選択が重要。"
+      },
+      {
+        "law": "営業秘密保護(不正競争防止法)",
+        "impact": "コード本体や設計書をトレースに含めると営業秘密が外部 SaaS に蓄積される。法人ユースではセルフホストか厳格な DLP 設定が事実上必須。"
+      }
+    ],
+    "opportunity": "日本向けの差別化余地は (1) 日本語ローカライズと国内決済 (2) ccusage のような軽量 OSS と連携する補助ダッシュボード (3) Claude Code を業務利用する SI / 受託開発企業向けの社内テナント監査・コスト按分機能。個人より法人ライセンス管理層を狙うと収益化しやすい。",
+    "rationale": "ニーズ自体は確かに存在し、Claude Code の日本での急速な浸透も追い風。しかし可視化レイヤーは ccusage が無料 OSS かつ日本人開発者主導で確固たる地位を築いており、新規参入で個人開発者層を奪うのは困難。法人向け監査・按分用途であれば余地はあるが、その層は既に Datadog/Langfuse へ流れる傾向。総合では Watch ステータスが妥当で、自前複製してビジネスにするより、観測トレンドの動向を見ながら別ニッチを探す方が賢明。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "Claude Code 専用機能は無料、本体 Latitude の有料転換に依存。観測 SaaS の利用量課金は導入企業規模に強く依存し、個人開発者からの直接収益化は難しい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内 Claude Code 利用者は数万人規模、観測ツール需要層はさらにその数%。グローバルでは AI 観測市場は急成長中だが、日本単独では中規模に留まる。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "個人開発者は SNS / GitHub Trending / Zenn 経由で獲得可能だが、無料 OSS との競合で有料転換率は低い。法人ルートは Datadog 等が既に強い。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "Claude Code の枠制限強化(2026 Q2)・コスト関心の高まりで需要は今ピーク。ただし観測 SaaS 自体の波はすでに 2年目で、淘汰局面に入りつつある。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "本格的な観測 SaaS はトレースストレージ・課題集約・評価機能まで作り込みが必要で、個人運用にはインフラ/SLA 負担が重い。本家 Latitude も会社運営。"
+      }
+    },
+    "rationale": "観測 SaaS は AI 開発において確実に伸びるが、日本における Claude Code 専用観測という限定スコープでは ccusage 等の無料 OSS が既に最適解を提供しており、新規個人開発で収益化するのは極めて困難。Claude Code 専用機能はフロントエンドであり、本体 Latitude のグローバル観測 SaaS としての価値が本命だが、これは個人開発者が再現できる規模ではない。日本市場に閉じた事業として見ると、法人向けコスト按分・ガバナンス特化に絞れば余地はあるが、そこも DataDog / Langfuse セルフホストが代替可能。総合 4 点で、見送りか別アングル(例: コードベース静的解析でトークン削減提案など)へのピボットを推奨。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 個人開発者向け、月10万トレースまで、ローカル保存のみ",
+        "Pro: 月額 1,500円、月100万トレース、週次レポート、Slack 通知",
+        "Team: 月額 4,800円/シート、共有ワークスペース、コスト按分、SSO",
+        "Enterprise: 要相談、セルフホスト、DPA、SOC2 対応"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Claude Code を業務で日常使用する日本の個人開発者・小規模 SI チーム。特にトークンコストを経費精算・按分する必要がある法人所属開発者。",
+      "target_count": 30000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 675000
+    },
+    "recommended_gtm": [
+      "Zenn / Qiita で『Claude Code トークン削減』実践記事を継続発信",
+      "ccusage 等既存 OSS と棲み分け or 連携プラグイン提供",
+      "日本人 AI インフルエンサー (生成AI界隈) と協業しデモ拡散",
+      "Claude Code 解説 YouTuber へのスポンサー / 提供",
+      "法人向けには Claude Code Team プランを使う受託 / SI 企業に直接営業",
+      "Product Hunt 日本コミュニティ・スタートアップ Slack でローンチ"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "ccusage 等の無料 OSS との差別化が困難で有料転換率が極端に低い",
+      "Anthropic 公式が同種の可視化機能を実装するとコモディティ化",
+      "観測 SaaS の競争激化で広告費・営業費が膨らみ個人開発の体力を超える",
+      "セッショントレース送信に対する日本企業の情報セキュリティ懸念",
+      "Claude Code 自体の料金体系変更でニーズが消失する可能性"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0"
+}

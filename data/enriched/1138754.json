@@ -1,0 +1,241 @@
+{
+  "name": "Alumni Founder",
+  "description": "The tool that maps founder networks for any company",
+  "ph_url": "https://www.producthunt.com/products/alumni-founder/launches/alumni-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ND23TL2JPB5YK4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-06T07:01:00Z",
+  "upvotes": 204,
+  "comments": 23,
+  "topics": [
+    "Venture Capital",
+    "SaaS",
+    "Tech"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey PH! 👋<br><br>Mapping founder networks is one of those things that sounds simple but is actually a massive pain. You're bouncing between LinkedIn, Crunchbase, and Google trying to piece together who came out of a company, what they built, and how they're connected and you still end up with an incomplete picture.<br><br>Alumni Finder does it in one shot. Enter any company and it instantly maps the entire founder alumni network as a visual graph.<br><br>Here's what that looks like in practice:<br><br>Type in Stripe and you'll see Daniela Amodei (Anthropic), Anurag Goel (Render), Jenn Knight (AgentSync) - all former Stripe employees who went on to raise hundreds of millions. You can see who overlapped with who, which teams they came from, and whether their connection is strong (same team, same time) or partial (same company, different era).<br><br>The graph shows:<br><br>🌐 Full founder alumni network - every founder that spun out of a company or university<br>🔗 Connection strength - strong overlap (same team, same tenure) vs. partial overlap (same company, different time)<br>💰 Funding raised - so you know who built something real<br>🏆 Cross-company benchmarks - compare which orgs produce the strongest founder networks side by side<br><br>A few ways people are using it:<br><br>VCs use it to source deals from specific talent pipelines - type in Palantir or Stripe and see every founder that came out, how much they've raised, and whether they overlap with your existing portfolio.<br><br>Sales teams use it to map warm intro paths into target accounts - find a former colleague who now works at the company you're trying to get into.<br><br>Founders use it to find co-founders - see who from your old company has already made the leap into startups.<br><br>Angels and scouts use it to get ahead of deal flow - spot emerging founders from strong talent pipelines before they're on everyone's radar.<br><br>Corp dev teams use it to track where talent from acquired companies landed and what they built next.<br><br>And a lot of people just use it for fun too by finding who in their alma mater have become founders!<br><br>Check it out here: <a href=\"https://tools.crustdata.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://tools.crustdata.com</a><br>Let us know if you have any feedback!</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Tried it on the mobile. Not good. Desktop version is better. \n\nPricing is a bit confusing.\n\nGood idea though. Good luck.",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Seeing spin outs visually mapped is powerful. That's how a lot of great companies actually emerge.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Enter any company or university and see the complete founder network it produced. Who spun out, how they're connected, how strong those connections are, and how much they've raised - mapped as a live visual graph. Used by VCs for deal sourcing, sales teams for warm intros, and founders looking for co-founders.",
+  "featured_at": "2026-05-06T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/aa71e5d1-4398-49b8-b156-5be4552a658c.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0dae3969-4305-4c4d-9371-23787144f8b4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6bd87eb7-3ff6-46ef-bfc9-a7a6e0a8386f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b02a12a1-758d-4f7c-a83d-1ad62bdc9459.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a0e27400-2393-4f8f-b4ad-2f1cc892eec3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/320943a1-f64a-463b-9006-4fed69b9e7b4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/606e5b93-419d-4a5d-a5b6-f011f1b8d0bb.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:50",
+  "landing_meta": "CrustTools | The Home of Experiments at Crustdata — CrustTools is the home for experiments built on the Crustdata API.",
+  "landing_text": "CrustTools | The Home of Experiments at Crustdata Crust Tools The Home of Experiments at Crustdata FounderTrace Trace YC startup genealogy and see which companies spawn the next generation of founders. Competitor Wrapped Analyze any company's growth like a playlist using hiring, traffic, and company signal data. InsideOrg Jump into a live company view and inspect how an organization is structured from the inside. Alumni Founder Map alumni overlap and surface warm paths into target companies. Investor Finder Find the right investors for your stage, sector, and check size in seconds. Find A Gift Generate a thoughtful gift idea for anyone from a single LinkedIn URL. WarmIntro Find your warmest path into any company from a LinkedIn URL and a target. Guess The Company A guessing game — can you tell where someone works just from their profile picture? CV Maker Drop your LinkedIn URL, get a clean black-and-white one-page CV.",
+  "pricing_signals": [
+    "$1"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:51",
+  "description_ja": "任意の企業・大学を入力すると、その出身者が起業した創業者ネットワークを資金調達額・つながりの強さ付きで視覚的なグラフにマッピングするツール。",
+  "summary_ja": "Crustdata が提供する Alumni Founder は、Stripe や Palantir など特定企業・大学の卒業生で起業した人物を一括抽出し、所属時期の重なりや調達額をグラフ表示する。VC のディールソーシング、営業の暖かい紹介経路探索、共同創業者探しなど複数用途を想定。Crustdata API 上の実験プロジェクト群の一つで、本体は B2B データブローカー事業。",
+  "tldr_ja": "企業・大学の出身者起業家ネットワークをグラフ可視化し、VC ソーシングや暖かい紹介経路探しに使う、Crustdata API ベースの可視化ツール。",
+  "review_guide_ja": {
+    "what": "入力した企業や大学から派生した創業者の系譜と相互関係を、所属時期の重なり度合いと累計調達額付きで可視化するグラフツール。VC のディールソーシング、営業の温かい紹介経路特定、共同創業者探索を主な用途として想定。Crustdata の B2B データ API を裏側で利用した実験プロダクト群の一つ。",
+    "for_who": "VC・エンジェル投資家・スカウト、スタートアップ営業の ABM 担当、共同創業者を探す起業家、コーポレート開発担当",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "LinkedIn 級の職歴データと Crunchbase 級の調達データの結合が前提で、データ整備・スクレイピング合法性・スケールの三重ハードルがある"
+    },
+    "signals": [
+      "PH 204 upvotes と 23 コメントで関心は中規模",
+      "Crustdata 本体は API ARR ベースで $1k〜$3k/月の中堅 SaaS 帯",
+      "VC・営業・採用の三正面で需要訴求できている",
+      "コメントでも可視化の有用性は評価されている",
+      "LinkedIn は日本ユーザー約500万人と母集団が限定的"
+    ],
+    "concerns": [
+      "価格表示が曖昧でコメントでも指摘されている",
+      "モバイル UX が貧弱との指摘",
+      "日本では LinkedIn のカバレッジが低く同手法が機能しにくい",
+      "個人情報保護法・利用規約両面でスクレイピング/再配布リスク",
+      "VC・営業共に既に確立されたツールが多数存在"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 3,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "JVCA 会員 303社・関連支援込みで約400社規模、スタートアップ営業 ABM 需要も存在するが、出身者起業家マッピングという特定機能に絞ると国内ニーズは薄い"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "STARTUP DB、INITIAL、SalesNow、Musubu、FORCAS など国内系企業 DB が網羅しており、創業者卒業生ネットワーク機能こそ無いが代替可能"
+      },
+      "regulation": {
+        "score": 3,
+        "reason": "個人情報保護法上、公開職歴データでも目的外利用・第三者提供は同意必須。LinkedIn 規約違反リスク（hiQ 訴訟も和解で終結）も残り、商用転用は法務コスト高"
+      },
+      "localization": {
+        "score": 2,
+        "reason": "日本 LinkedIn 利用者は約500万人で全人口比 4%、職歴公開率が低くデータ網羅性が致命的に不足。Wantedly や日本独自 SNS との統合が必要"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本 VC は紹介・会食ベースのリレーション文化が強く、ツール導入より既存ネットワーク優先。営業も決裁プロセスが長く ROI 立証が難しい"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "STARTUP DB",
+        "url": "https://startup-db.com/",
+        "note": "for Startups 運営。25,000社超のスタートアップ情報・キーパーソン・資金調達網羅。創業者ネットワーク可視化は無いが基本データを提供"
+      },
+      {
+        "name": "INITIAL (SPEEDA Startup)",
+        "url": "https://initial.inc/",
+        "note": "ユーザベース運営。スタートアップ・投資家データを VC が標準利用。創業者卒業生ネットワークの直接機能は無いが企業情報は最も網羅的"
+      },
+      {
+        "name": "SalesNow",
+        "note": "AI 搭載企業 DB クラウド。500万社超の法人データ。営業リスト用途で導入実績多く、月額4.1万円〜の価格帯"
+      },
+      {
+        "name": "Musubu",
+        "url": "https://musubu.in/",
+        "note": "Baseconnect 運営。非上場含む法人 DB で B2B 営業のターゲティング用途。創業者個人粒度ではなく企業粒度"
+      },
+      {
+        "name": "FORCAS",
+        "note": "ユーザベース運営。140万社超の構造化企業 DB で ABM 営業に強み。Salesforce 連携で大手導入"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "公開職歴データでも識別可能であれば個人情報。利用目的の事前公表と、第三者提供時の同意またはオプトアウト届出が必要。創業者プロフィール販売は同意要件が壁"
+      },
+      {
+        "law": "LinkedIn 利用規約・hiQ 判例",
+        "impact": "米国 hiQ vs LinkedIn は和解で hiQ が $500k 支払い。スクレイピング自体は合法判断もあるが利用規約違反訴訟リスクは継続。日本でも商用転用は規約違反に問われやすい"
+      },
+      {
+        "law": "不正アクセス禁止法",
+        "impact": "ログイン後ページのスクレイピングは識別子の不正利用と判断される可能性。LinkedIn 認証越え機能を持たせる設計は不可"
+      }
+    ],
+    "opportunity": "国内向けに作るなら、STARTUP DB・INITIAL の API か EDINET・法人番号公表サイトを軸に、上場・スタートアップ役員交代情報と組み合わせた創業者系譜可視化が候補。Wantedly・Forkwell の公開職歴データを補完すれば LinkedIn 依存を回避できるが、データ量とリレーション粒度が薄く商用価値は限定的",
+    "rationale": "需要は薄く、データソース面で日本市場特有の致命的弱点（LinkedIn 普及率の低さ、職歴公開文化の欠如）がある。国内 VC は紹介ベースで動くため、ネットワーク可視化ツールへの支払い意欲も低い。既存の STARTUP DB / INITIAL が個人粒度に踏み込めば一瞬で代替される領域で、個人開発者が独自データを揃えるのは現実的でなく、規制リスクも高い"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "Crustdata API バンドルで $200〜$5k/月の幅広い課金は可能だが、日本単独だと VC・営業向け SaaS は ARPU 3〜10万円帯が壁。スタンドアロン課金は難しい"
+      },
+      "market_size": {
+        "score": 2,
+        "reason": "国内 VC/CVC 約303社、Crustdata 級 ARPU で計算しても月額売上の天井が低い。営業 ABM 用途を含めても数千社規模"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "VC は紹介経由が主流で広告 CPA 高い。営業向け SaaS は決裁が長く PMF 確認に時間。展示会・コミュニティ経由の地道な営業が前提"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "国内 VC ファンドレイズは 2024 年に半減、スタートアップ調達も鈍化。VC 向け追加投資の優先度は低下傾向"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "データ収集・整合・更新の運用が極めて重く、個人開発の継続は困難。法務・規約対応も継続コスト"
+      }
+    },
+    "rationale": "商機の天井が低く、データ整備運用負荷が高い領域。Crustdata 本体は B2B データ事業として成立しているが、それは API 提供の基盤資産あってのもので、Alumni Founder 機能単体は実験プロダクトの位置付け。日本市場固有では LinkedIn データに頼れず、独自にデータを揃える ROI が成立しない。国内 VC の絶対数とリレーション文化を鑑みると、ARPU 5万円 × 30社程度で月商150万円が現実的天井で、個人開発の事業継続には不足"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 50000,
+      "plans": [
+        "Starter 月3万円: 検索100件/月、スタートアップ DB 連携、CSV エクスポート",
+        "Pro 月8万円: 検索無制限、企業比較、Slack 通知、API",
+        "Enterprise 要問合せ: SSO、専任 CS、データ取込カスタム"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内アクティブ VC/CVC、シード〜シリーズ B スタートアップの BizDev/Sales、創業前後のシリアルアントレプレナー支援機関",
+      "target_count": 1500,
+      "capture_pct_year3": 2.0,
+      "monthly_revenue_target_jpy": 1500000
+    },
+    "recommended_gtm": [
+      "JVCA イベント・スタートアップ Weekend 等のコミュニティスポンサー",
+      "INITIAL/STARTUP DB との連携または OEM 模索",
+      "VC キャピタリスト・スカウト向け Twitter/X インフルエンサー経由のリファラル",
+      "テンプレートクエリ（YC 卒業生・メルカリ卒業生など）公開によるオーガニック流入",
+      "Salesforce/HubSpot 連携で営業 ABM 用途に拡張"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "LinkedIn 規約・個人情報保護法によるデータ調達の継続的法務リスク",
+      "国内データソース不足で創業者卒業生グラフが疎になりプロダクト価値が損なわれる",
+      "VC 向け SaaS は決裁プロセスが長く CAC 回収まで時間がかかる",
+      "STARTUP DB / INITIAL が同機能を追加すれば一瞬で代替される",
+      "個人開発ではデータ更新・品質保証の継続運用が困難"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "research_japan_fit_at": "2026-05-23T00:00:00Z"
+}

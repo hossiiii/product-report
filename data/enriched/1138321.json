@@ -1,0 +1,230 @@
+{
+  "name": "Aaavatar",
+  "description": "Branded team headshots in one drop",
+  "ph_url": "https://www.producthunt.com/products/aaavatar/launches/aaavatar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/JUKURYVT34QCC5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-04T07:01:00Z",
+  "upvotes": 306,
+  "comments": 16,
+  "topics": [
+    "Design Tools",
+    "Productivity",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>12 years ago, during a summer break from college, I worked at a Dutch design agency called Today. For two weeks straight I sat in Photoshop, cutting out 100+ Shutterstock photos with the pen tool for a brand concept that combined two images at a time. Simple shapes were fine. Hair was the patience test. When Photoshop later shipped the smart brush and refine-selection with onion mask, I thought it was magic.<br><br>Fast forward to today and that whole problem is solved a hundred times over. Figma has background removal built in. There are countless one-click tools. So why build another one?<br><br>Because at Online Payment Platform, where I work with now, the team is growing fast and every new hire needs a branded headshot. Same backdrop for everyone, color-balanced, exported in the right formats, named carefully so HR can find them later. Lily from HR was doing all of that in Figma, at €80/month per seat. Other tools existed, but none of them matched her workflow end-to-end. So I built one that did.<br><br><strong>What Aaavatar does:</strong><br>- Drop one or more colleagues into the app<br>- Backgrounds removed automatically<br>- Refine colors and restore missing pieces in one click<br>- Everyone aligned at roughly the same height<br>- Exported to every format you need<br><br><strong>Pricing:</strong><br>- Free: 3 cutouts on the main AI model + 3 on a lighter model<br>- Pro: unlimited<br><br>It's MacOS only for now. Would love to hear what you think, especially if you've ever wrangled team photos yourself.</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This solves a surprisingly annoying problem. When we were growing our engineering team fast, keeping consistent team photos was one of those tasks nobody owned but everybody noticed when it looked messy. The fact that you built this specifically for HR and design teams shows you understand who actually deals with this pain day-to-day. Nice execution.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is one of those tools that solves a problem nobody talks about but everyone has. Every time we onboard someone new, the \"team page headshot\" task turns into a whole thing - someone sends a photo with a messy background, another person sends one that's completely different lighting, and our designer spends an hour making them all look like they belong on the same page. Quick question: can you lock in brand settings (specific background color, crop ratio, padding) so that every new photo you run through automatically matches the rest of the gallery?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Drop one or more profile photos into Aaavatar. Backgrounds is removed, colors balanced, missing pieces restored in one click, everyone aligned, and exported in every format you need. Built for HR and design teams maintaining a branded team gallery.",
+  "featured_at": "2026-05-04T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/30c3bb70-f99a-43c8-9e96-b024aab81e32.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7518e406-41cc-403a-b377-5f3de12a2aaf.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a57a28a4-10a7-40b4-b711-23fdd25fcd07.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/974afeea-abc4-45dc-824f-9a27773e1e9d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3c5b5d68-5db1-469b-9d75-2b67818785ef.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2f9beba5-d6a1-4d26-a146-0f20f4bf1926.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/21df0d73-0437-4098-bf54-12ce8a744973.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:32",
+  "landing_meta": "Aaavatar — One look for every team portrait",
+  "landing_text": "Aaavatar aaavatar One look for every team portrait Remove backgrounds in a single drop. Download for Mac Drop photos of your team members Backgrounds are removed automatically. Pick a background Choose a preset, match your brand color, or upload your own. Retouch in one click Fill in missing shoulders, auto-align faces, and polish every shot, then export to LinkedIn, Slack, email, and more. aaavatar Download for Mac Privacy policy Terms A tool from Square One",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-24T20:33:33",
+  "description_ja": "チーム集合写真を一括処理し、背景除去・色補正・整列・各種フォーマット出力までを一発でこなすMac向けデスクトップアプリ",
+  "summary_ja": "HRやデザインチーム向けに、新入社員のプロフィール写真をブランド統一された見栄えで揃えるためのMacアプリ。複数の写真をドロップすると背景自動除去、ブランド色背景の適用、肩部分の補完、顔の整列、LinkedIn/Slack/メール向けフォーマット書き出しまでワンクリックで完了する。無料は計6カットまで、Proは無制限。",
+  "tldr_ja": "新人入社のたびに発生する『チームページ用ヘッドショット統一』作業を、Macアプリ1つで自動化。背景除去から書き出しまで一気通貫。",
+  "review_guide_ja": {
+    "what": "macOS専用デスクトップアプリ。社員のプロフィール写真を複数枚ドロップすると、AIで背景を除去し、ブランドカラー背景に差し替え、肩や髪の欠損を補完、顔の高さを揃え、複数のフォーマット（LinkedIn/Slack/メール等）に一括書き出しする。背景除去機能自体はコモディティ化しているが、HR向けのend-to-endワークフロー（ブランド設定の保存・整列・複数フォーマット出力）にフォーカスしている点が差別化要素。",
+    "for_who": "急成長中のスタートアップや中堅企業のHR・採用広報担当、社員紹介ページを運用するデザインチーム、月に数名以上の新規入社がある組織。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "背景除去AIはAPI（remove.bg/u2net等）で容易だが、ブランド設定保持・整列・一括書き出しのUX作り込みとMacネイティブ実装はそれなりに工数が必要。"
+    },
+    "signals": [
+      "PH 306 upvotes と HR/エンジニア当事者からの『あるある』共感コメント",
+      "メーカー自身が社内HRの実需からスピンアウトした明確なPMF初期シグナル",
+      "Figmaを月€80/seatで使っていた既存ワークフローを置換したという具体的なコスト比較",
+      "ブランド設定ロックの要望コメントが寄せられ機能拡張余地あり"
+    ],
+    "concerns": [
+      "背景除去はPhotoroom/Canva/Adobe/Figmaに既に内包されコモディティ化",
+      "macOS限定は日本のHR部門（Windows比率が高い）と相性が悪い",
+      "1社あたりの利用頻度が月数回程度に限定され継続課金の動機が弱い",
+      "顔写真は個人情報保護法上の個人情報。クラウド処理時の同意取得・保管が論点",
+      "撮影代行（実カメラマン外注）需要が日本では根強く、ソフトのみで完結しないケースがある"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "採用サイト・社員紹介ページの写真統一ニーズは日本でも実在するが、撮影代行サービス（10万〜80万円）が主流で、ソフト単体での自動化需要は限定的。SaaSとして継続課金まで持っていく強い必然性に欠ける。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Photoroom（¥825〜¥2,083/月）、remove.bg、Canva、Adobe Express、Figma、MyEdit、Fotor等が背景除去や法人プロフィール写真生成を提供済み。差別化はワークフロー統合のみで、Canva/Adobeに追随されやすい。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "顔写真は個人情報保護法上の個人情報・個人識別符号に該当しうるため、クラウドAI処理での利用目的通知・同意取得・委託先管理が必要。ローカル処理（Mac）であれば論点はやや軽減。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UI/ヘルプの日本語化は必須。LinkedInより日本企業はコーポレートサイト・Wantedlyを重視するため出力先プリセットも調整が必要。Mac限定は日本企業HR部門に致命的。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のHRは『ちゃんとした写真館・カメラマンに頼む』志向が強く、AI処理に対する社内承認や肖像権同意フローが重い。コーポレート用ヘッドショットは外注で済ませるカルチャー。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Photoroom",
+        "url": "https://www.photoroom.com/ja",
+        "note": "日本語UI対応。背景除去・差し替え・バッチ処理。Pro ¥825/月、Max ¥2,083/月、Enterpriseあり。"
+      },
+      {
+        "name": "remove.bg",
+        "url": "https://www.remove.bg/ja",
+        "note": "背景除去のデファクト。API/Web/アプリ全方位対応で日本ユーザー多数。"
+      },
+      {
+        "name": "Canva（背景リムーバ／プロフィール写真メーカー）",
+        "url": "https://www.canva.com/ja_jp/",
+        "note": "Canva Proに背景除去内蔵。法人テンプレート豊富で日本のスタートアップHRが既に多用。"
+      },
+      {
+        "name": "Adobe Express",
+        "url": "https://www.adobe.com/jp/express/",
+        "note": "大企業向けに浸透中。AI画像生成・背景除去・ブランドキット機能あり。"
+      },
+      {
+        "name": "MyEdit / Fotor / PhotoDirector",
+        "url": "https://myedit.online/jp/photo-editor/ai-headshot-generator",
+        "note": "AIビジネスプロフィール写真生成。スーツ着せ替え等で日本市場向け訴求が進む。"
+      },
+      {
+        "name": "OrderPhotoStudio / Luzz Studio 等 撮影代行",
+        "url": "https://order-photo.com/",
+        "note": "リアル撮影代行。日本のコーポレートヘッドショットの本命競合（数万〜数十万円/案件）。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（個人情報・個人識別符号）",
+        "impact": "顔写真および顔特徴量データは個人情報に該当。利用目的の特定・通知、第三者提供（クラウドAI委託）時の管理、本人同意の取得が必要。社内利用でも本人同意を取るのが安全。"
+      },
+      {
+        "law": "肖像権・パブリシティ権（民法上の人格権）",
+        "impact": "退職者の写真や採用サイト掲載写真の利用範囲について、退職後の削除義務・同意書の運用が必要。法人向けプロダクトとして対応する場合は契約テンプレ整備が論点。"
+      }
+    ],
+    "opportunity": "日本独自に勝ち筋を作るとすれば、(1)Windows版を出して中堅企業HRに食い込む、(2)Wantedly/コーポレートサイト/名刺管理（Sansan/Eight）等とのインテグレーションでHR業務に組み込む、(3)撮影代行業者向けの一括処理ツール（OEM/プロ向け）として日本のフォトスタジオに販売する、の3方向。単独消費者ツールとしては既存に埋もれる。",
+    "rationale": "日本市場でも『採用ページの写真統一』は実在するが、撮影代行カルチャーが根強く、ソフト単体で月額課金させるには需要が薄い。Photoroom/Canva/Adobeなど既存大手が背景除去と法人プランを既に提供しており、Aaavatarの『ワークフロー統合』差別化は容易に追随される。さらにmacOS限定は日本企業HR部門のWindows優位環境と致命的にミスマッチ。日本に本気で参入するには最低でもWindows対応とHR-Tech統合が必須。現状のままだと厳しい。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "Free/Proの単純なフリーミアム構造で、Pro月額は妥当だがARPUは$10前後想定。チーム継続利用の必然性が弱く（処理は月数回でストックが効く）、解約率が高くなりやすい。ワンタイム購入の方が筋が良い可能性。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "グローバルでHR×ブランドデザインのニッチ。日本市場に限れば、急成長スタートアップ＋採用広報重視の中堅企業で実質1〜2万社程度。捕捉率3年で1%でも200社、ARPU¥2,000/月で月商¥40万規模に留まる。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "PHやTwitterで初動は取れるが、日本ではHR-Tech系メディア（HRzine、日本の人事部）への露出、Wantedly/Sansanとの連携が肝。個人開発者単独での法人GTMはハードルが高い。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "AI画像処理コモディティ化のタイミングで、HR向けに特化する切り口自体は時宜にかなう。ただし大手SaaSが同領域に動いており、独自ポジション維持の窓は12〜18か月程度。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "macOSデスクトップ単独配布なら個人開発で運用可能。AIモデル推論はローカル/外部APIで対応可。サポート負荷は低めだが、Windows対応や法人プラン要求が来ると一気に重くなる。"
+      }
+    },
+    "rationale": "プロダクト品質と着想は良いが、(1)背景除去のコモディティ化、(2)ストック型ニーズ（年間数回処理）でサブスク化が難しい、(3)市場ニッチ＋macOS限定で日本のTAMが非常に小さい、という3点で事業性は弱い。ワンタイムまたはチーム年額¥30,000程度の買い切り＋アップグレード型に振った方が現実的。個人開発者が片手間で運用するには適しているが、メインの飯のタネにするには市場が薄い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "one_time",
+      "arpu_jpy": 4800,
+      "plans": [
+        "Free: 計6カット（メイン3＋ライト3）でお試し",
+        "Pro 個人買い切り: ¥4,800（macOS版・無制限カット・1ライセンス）",
+        "Team 年額: ¥24,000/3シート（ブランド設定共有・優先サポート）",
+        "Studio（撮影代行業者向け）: ¥120,000/年 OEM・無制限商用利用"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "従業員30〜300名規模で採用広報に注力する日本のスタートアップ・中堅企業のHR/デザイン担当（Mac利用が比較的多いIT/クリエイティブ系）",
+      "target_count": 15000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 720000
+    },
+    "recommended_gtm": [
+      "Product Hunt JP/Twitter技術界隈で初動獲得（Mac利用者にリーチ）",
+      "Wantedly/Findyなど採用広報メディアの編集タイアップで『新人入社の写真統一』文脈で紹介",
+      "デザイナー向けニュースレター（MdN/Cocoda等）にレビュー記事",
+      "撮影代行スタジオ向け営業（OEM/業務効率化ツールとして）",
+      "Notion/Slack/Sansan等の社内ツール連携テンプレ公開でHRに浸透"
+    ],
+    "time_window_months": 15,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "Photoroom/Canva/Adobeが同等のチーム向けワークフローを内包し、ARPU¥1,000〜¥2,000帯で潰しに来るリスク",
+      "macOS限定のままだと日本企業HR部門（Windows優位）に届かず、市場が一段と狭まる",
+      "顔写真の個人情報保護法対応をプロダクトとして用意しないと法人導入で躓く（同意書テンプレ・処理委託契約）",
+      "ストック型利用（年数回）でサブスク継続率が低く、CAC回収が困難",
+      "Aaavatarというブランド名の日本語検索性が低く、SEO/口コミ伝播でハンデ"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

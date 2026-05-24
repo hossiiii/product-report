@@ -1,0 +1,247 @@
+{
+  "name": "Kanwas",
+  "description": "An open-source brain for your team",
+  "ph_url": "https://www.producthunt.com/products/kanwas/launches/kanwas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/B4UPX2JVYGVZFJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-06T07:01:00Z",
+  "upvotes": 511,
+  "comments": 228,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Heyy builders! 👋👋👋 \n\nMeet Kanwas. Your teams brain. For you, your agent, your coworker and their agent.\n\nIt holds your team's critical know-how, research, decisions and data. But it's not a dead storage. \n\nIt's a real-time collaborative workspace that makes the context workable for humans as well as agents.\n\nWe love to run Kanwas for product discovery, positioning, competitors research as well as for GTM. To think things through. To do high-stakes decisions and have it all accessible by agents. \n\nKanwas brain is self-evolving, so every input, insight, iteration and agent run makes the next one smarter.\n\nIt's made to be iterative, visible, fully editable so it fits your workflow. \n\nHope you like it!!! ❤️",
+      "votesCount": 33,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><a href=\"https://www.producthunt.com/@predrag_ristic1\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"predrag_ristic1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@predrag_ristic1</a> Really like that you’re not trying to force everything into chat bubbles. The industry somehow decided every AI product needs to look like another messaging app and it gets exhausting fast.</p><p></p><p>One thing I’m curious about though is onboarding for non-technical teams. Engineers usually tolerate messy flexible systems because they understand the power behind them, but operations/marketing/sales teams often need stronger structure.</p><p></p><p>Have you noticed users naturally understanding how to organize work inside Kanwas, or do people initially create chaos everywhere before finding a workflow? Feels like this kind of product can become insanely powerful or completely overwhelming depending on first-time experience.</p>",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>as a solo founder, my 'team' is mostly just me and a handful of agents. keeping the context consistent across all of them is a full-time job. kanwas feels like it could save me hours of 're-explaining' the product vision to my dev and marketing agents. awesome <a href=\"https://www.producthunt.com/@johancutych\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"johancutych\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@johancutych</a> </p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "For you, your agent, your coworker and their agent. It holds the team's critical know-how, research, decisions and data. But it's not a dead storage. It's a workspace that makes the context workable for humans as well as agents.",
+  "featured_at": "2026-05-06T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/e4a685d6-1b32-49fb-810f-ec28ddd4674c.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8cb54eb6-549b-4e46-a9b6-e221c6f3d341.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b3dad9a6-2764-4782-ae79-055198aad5a5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f457d062-b69b-4e1d-9045-2a4c3f76c21c.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/45fac04d-5d18-4d6e-a619-6cad44a39847.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:06",
+  "landing_meta": "Shared context board for teams and agents — Kanwas gives product teams one workspace where strategy docs, market signals, and agent workflows stay connected so AI can execute with your real context.",
+  "landing_text": "Shared context board for teams and agents Thank you - we were #1 on Product Hunt! Kanwas Log in Your team's context brain Kanwas gives teams & agents one place to create, edit, share and compound product context. Stop juggling Claude chats, local folders, Obsidian, VS Code, Git, and docs. Get started GitHub TRUSTED BY PRODUCT TEAMS IN and more... “We brought our user calls, investor conversations, and positioning into Kanwas. Built the pitch deck, shared it, got feedback, iterated - and a week later closed our €4.6M pre-seed . It felt like magic.” - Samuel Beek, Founder, Schematik Not just answers. Not just outputs. Not starting from scratch. A place to think, collaborate & get sharp deliverables. Kanwas builds shared context By learning about you, your business and your decisions. Building a transparent shared context. Canvas + shared context = alignment Work with your team and agents over the same context. Evidence, ideas and trade-offs, transparent to everyone. Sharp deliverables in minutes Generate structured, execution-ready deliverables for every stage of implementation. Compounding knowledge base Every decision and outcome makes the next thinking and deliverable better than the last. How we love to use Kanwas Why teams switch? Sharing docs is so 2025. Sharing context is the future. ❌ Whiteboards are good for sessions. They are bad at staying alive. ✅ Kanwas turns sessions into living shared context . ❌ Chat is good for answers. It is bad for shared reasoning. ✅ Kanwas turns stored context into living board teams can think in . The more you use Kanwas, the more powerful it becomes... Start in seconds No download, no terminal, just out-of-box agentic thinking partner + canvas Kanwas turns sessions into living shared context . ❌ Chat is good for answers. It is bad for shared reasoning. ✅ Kanwas gives teams a place to work the question through together . ❌ Knowledge layers store context. But they are not thinking spaces. ✅ Kanwas turns stored context into living board teams can think in . The more you use Kanwas, the more powerful it becomes... Start in seconds No download, no terminal, just out-of-box agentic thinking partner + canvas Kanwas builds team's brain Building a shared context layer so agents knows your work. Make 10x better decisions Your taste and judgment, amplified by AI ",
+  "pricing_signals": [
+    "open-source",
+    "pricing",
+    "$1",
+    "$2",
+    "$7",
+    "$8",
+    "$15"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:06",
+  "description_ja": "チームとAIエージェントが同じコンテキストを共有して思考・意思決定・成果物作成できるオープンソースのキャンバス型ワークスペース。",
+  "summary_ja": "Kanwasはプロダクトチーム向けの共有コンテキストボード。ドキュメント、議論、エージェントのツール実行を一つのタイムラインに集約し、CRDTでリアルタイム共同編集を実現。Claudeなどのエージェントが同じ文脈を読み書きでき、戦略・調査・意思決定を蓄積する「チームの脳」として機能する。OSSとSaaSのデュアルモデルで、価格帯は$1〜$15レンジ。",
+  "tldr_ja": "人とAIエージェントが同じ文脈を編集し合うキャンバス型OSSワークスペース。Notionに思考プロセスとエージェント実行を足したような立ち位置。",
+  "review_guide_ja": {
+    "what": "リアルタイム共同編集可能なキャンバス上に、ドキュメント・調査・意思決定・エージェントのツール呼び出しを並べて、人とAIエージェントが同じ文脈で作業できるOSSワークスペース。CRDTベースで、ローカルFSとも同期可能。プロダクト戦略・GTM・調査などの「考える作業」を蓄積する用途を想定。",
+    "for_who": "AIエージェントを多用するプロダクトチーム、ソロ起業家、スタートアップのファウンダー。コーディングエージェントやリサーチエージェントを並列運用する人。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "CRDT同期、エージェントFS隔離、リアルタイムキャンバスUIなど技術スタックが厚い。OSS公開済みだが運用・スケール・エージェント連携設計の難度が高い。"
+    },
+    "signals": [
+      "PH #1獲得・upvote 511・コメント228の高エンゲージメント",
+      "Pre-seed €4.6M調達顧客の成功談がLP掲載",
+      "OSS公開済み(GitHub kanwas-ai/kanwas)で開発者層の関心が高い",
+      "MCP/エージェント時代の『共有コンテキスト』需要を捉えている"
+    ],
+    "concerns": [
+      "Notion AI・Coda・Tana等の汎用ワークスペースと正面衝突",
+      "『思考の共有』という抽象的価値提案で非エンジニア層の理解が難しい",
+      "OSSモデルでの収益化経路が不明瞭(価格シグナルも$1〜$15と弱い)",
+      "日本市場ではNotion/Kibela/Helpfeel Cosenseが既に根付いている",
+      "エージェント連携が前提のため、AIネイティブな組織以外は価値を実感しづらい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "日本の生成AI企業導入率は33.9%(JUAS 2026)、AI市場1.3兆円。AIエージェント文脈共有のニーズは増えているが、まずNotion AI等の既存基盤で代替されており、純粋な『共有コンテキスト』専用ツールへの予算枠は限定的。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Notion AI(月¥1,650〜)、Kibela、Helpfeel Cosense、NotePM、esa.io、DocBase等が高密度に存在。メルカリ等大手もNotion全社導入。汎用領域は飽和。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "個人情報保護法・APPI上は通常SaaS同等。ただし業務知見の集約となるため機微情報・営業秘密の取扱い、海外SaaSのデータ越境(EU/US)が懸念される。エンプラはISMS/Pマーク要求。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UI/ドキュメント完全英語。日本語IME・縦書き・全角混在編集の動作未検証。日本企業の『議事録文化』『稟議承認フロー』に合わせた構造ガイドが必要。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本企業は構造化されたWiki/承認フロー型を好み、自由度の高いキャンバスは『使いこなせない』『誰も整理しない』問題が起きやすい。コメント欄でも非技術職のオンボーディング懸念が指摘されている。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Notion / Notion AI",
+        "url": "https://www.notion.com/ja-jp",
+        "note": "日本法人ありUI完全日本語化。月¥1,650〜、ビジネス¥3,150。メルカリ等大手導入。AI標準搭載で最大の正面競合。"
+      },
+      {
+        "name": "Kibela",
+        "url": "https://kibe.la/",
+        "note": "ビットジャーニー社の日本製ナレッジ共有ツール。Kibela AI搭載済。日本企業の組織構造に最適化。"
+      },
+      {
+        "name": "Helpfeel Cosense (旧Scrapbox)",
+        "url": "https://scrapbox.io/",
+        "note": "Nota社のリンクベース思考ツール。リアルタイム共同編集、思考の連鎖を得意としKanwasと思想が近い。"
+      },
+      {
+        "name": "NotePM",
+        "url": "https://notepm.jp/",
+        "note": "国内社内Wikiの定番。検索強くエンプラ採用多数。Kanwasの『蓄積』機能と重複。"
+      },
+      {
+        "name": "esa.io / DocBase",
+        "url": "https://esa.io/",
+        "note": "エンジニア・チーム向け軽量ドキュメント。日本のスタートアップで普及。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法(APPI)",
+        "impact": "ユーザー入力に個人情報が含まれる場合、第三者提供・越境移転規制の対象。海外SaaS版を法人で使う場合は委託契約と保管国の開示が必要。"
+      },
+      {
+        "law": "不正競争防止法(営業秘密保護)",
+        "impact": "戦略・調査・意思決定を集約する性質上、営業秘密扱いの情報集積となり、アクセス制御・監査ログ・退職時削除フロー設計が必須。OSSセルフホストが日本ではむしろ選好されやすい要因。"
+      },
+      {
+        "law": "AI事業者ガイドライン(経産省/総務省)",
+        "impact": "エージェントが自動でツール実行を行う設計のため、人間の最終承認・ログ保存・誤動作時の責任分界点の明示が推奨される。"
+      }
+    ],
+    "opportunity": "汎用Notion対抗ではなく『AIエージェント運用を前提とする日本のスタートアップ・受託開発・コンサル』に絞り、MCP連携・営業秘密保護を強みにしたセルフホスト版日本語ローカライズSaaSとして展開する余地はある。特にClaude/Cursorを業務利用するエンジニアリング組織向けの『エージェント文脈共有レイヤー』に特化すれば、Notion未カバーの隙間を取れる。",
+    "rationale": "需要トレンドは追い風だが、日本市場では『コンテキストを共有する』というメッセージが抽象的すぎて伝わらず、Notion AI・Kibela・Helpfeel Cosenseに価格と機能で正面から競合する構図になる。OSSである点と『AIエージェントとの共有』という尖りは差別化要素になるが、それを理解できる顧客層は日本では極めて薄い(エンジニア起業家・先進的SaaS企業の一部)。エンプラ進出には日本語UI・SAML・監査ログ・データ国内保管の整備が前提となり、個人開発者がそのまま参入するには競争コストが高い。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "OSSモデル+クラウド有料($1〜$15シグナル)。価格帯が低めで個人開発スケールには合うが、エンプラARPUが取りづらい。Notion AI(¥3,150)と比較され買い切り感のある『無料OSS』に流れる懸念。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内SaaS市場1兆円超・AI市場1.3兆円。ターゲットPMは数万人規模、AIエージェント運用組織は更に少なく顕在化層は1万〜3万人程度。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PH #1の海外露出は強いが、日本ではプロダクト系コミュニティ(PM Career, ProductZine, Findy Tools)とX/note発信が必要。OSS+ハンズオン記事のSEOで個人開発者を獲得する戦略が現実的。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "MCP普及・コーディングエージェント常用化のタイミングと完全一致。2026年は『AIエージェントに渡すコンテキスト管理』が論点化しており、立ち位置はトレンドに乗っている。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "CRDTサーバ運用、エージェントFS隔離、リアルタイム同期は単独運用負荷が高い。OSS Issue対応・SLA要求にも継続対応が必要で個人開発スケールでは厳しい。"
+      }
+    },
+    "rationale": "タイミングとプロダクトコンセプトは秀逸だがマネタイズ単価が低く、運用負荷が高い構成。OSS版で開発者ファンを増やし、企業向けにセルフホスト+サポート契約で稼ぐ古典的OSSビジネスモデルが必要で、ソロ開発者が同じ土俵で勝つのは難しい。日本では既存ナレッジツールとの併用提案(Notionと統合する補助レイヤー)に絞れば、ニッチ単価でも採算が立つ可能性がある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2500,
+      "plans": [
+        "OSSセルフホスト: 無料(MIT/Apache)",
+        "Cloud Starter: 個人 月¥0(3ボード/5MB)",
+        "Cloud Team: 月¥2,500/ユーザー(無制限ボード+エージェント実行枠)",
+        "Cloud Business: 月¥4,800/ユーザー(SAML/監査ログ/データ国内保管)",
+        "Enterprise: 別途見積(オンプレ+SLA)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AIエージェント(Claude/Cursor/Devin等)を日常業務で運用する日本のスタートアップ・受託開発企業のPM/エンジニア(個人開発者含む)",
+      "target_count": 15000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 562500
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)で『Claude Codeのコンテキスト共有問題』をテーマに開発者向け発信",
+      "Zenn/Qiitaでセルフホスト導入記事とMCP連携ハンズオンを公開",
+      "Findy Tools/Product Hunt Japan経由で個人開発者・PMコミュニティに浸透",
+      "AIエージェント運用が進む先進スタートアップ20社へダイレクト導入支援",
+      "Notion+Kanwas併用パターンの提案(置換ではなく補助レイヤー)"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Notion AI/Linearなど大手がエージェント文脈共有機能を統合し市場を消滅させるリスク",
+      "OSS無料利用で顧客が満足し有料転換率が極端に低くなるリスク",
+      "営業秘密集約となるため日本エンプラはセルフホスト前提となり、SaaS収益が伸びにくい",
+      "CRDT/エージェント連携の運用負荷がソロ開発で持続困難",
+      "日本語ローカライズと組織文化適応に追加コスト発生"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 4,
+  "research_japan_fit_enriched_at": "2026-05-23T00:00:00Z"
+}

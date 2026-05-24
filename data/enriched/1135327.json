@@ -1,0 +1,250 @@
+{
+  "name": "PandaProbe",
+  "description": "open source agent engineering platform",
+  "ph_url": "https://www.producthunt.com/products/pandaprobe/launches/pandaprobe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/BLAIC7M7XUPFXD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-03T07:01:00Z",
+  "upvotes": 403,
+  "comments": 34,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "Artificial Intelligence",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>👋 Hey Product Hunt!<br><br>I’m Sina, founder of PandaProbe.</p><p></p><p>Building AI agents is getting easier, but understanding and trusting them in production is still hard.</p><p>Once agents start calling LLMs, tools, APIs, MCPs, and sub-agents, logs aren’t enough anymore. You need to see what happened, why it failed, whether quality regressed, and how reliable the system is across full sessions.</p><p></p><p>PandaProbe is my attempt to solve this: an<strong> open-source agent engineering platform</strong> for tracing, evaluation, monitoring, and debugging AI agent applications.</p><p></p><p>The goal is simple: help developers move from “it works on my laptop” to “I understand production behavior, can measure quality, and continuously improve it.”<br><br><strong>What PandaProbe provides</strong></p><p>🔎 Trace — capture full agent executions as sessions, traces, and spans across LLMs, tools, agents, and custom logic.<br>📊 Evaluate — score traces and sessions using mission-critical, agent-specific metrics.<br>⏱️ Monitor — schedule recurring evaluations to automatically validate new traces and sessions in production.<br>📈 Analytics — track performance, cost, latency, errors, and quality trends over time.<br>🛠️ Open source + cloud — use the open-source core on GitHub or run PandaProbe in the cloud.<br><br><strong>Who it’s for</strong></p><p>🧑‍💻 AI engineers — debug agent behavior across LLMs, tools, and workflows.<br>🏗️ Platform teams — monitor quality, regressions, and reliability in production.<br>🔬 Builders experimenting with agents — understand failures and iterate faster.<br>🚀 Startups — add observability and evaluation before things become unmanageable.reason about.<br><br><strong>Quick links</strong></p><p>GitHub: <a href=\"https://github.com/chirpz-ai/pandaprobe\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://github.com/chirpz-ai/pandaprobe</a></p><p>Docs: <a href=\"https://docs.pandaprobe.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://docs.pandaprobe.com</a></p><p>Cloud: <a href=\"https://www.pandaprobe.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.pandaprobe.com/</a></p><p></p><p>I’ll be here all day answering questions and collecting feedback.</p><p>If you’re building agents today, what’s the hardest part to debug or evaluate?</p><p></p><p>Thanks for checking it out 🙏<br>— Sina</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Handling state and debugging for long-running autonomous agents is usually a nightmare, so having an open-source platform to standardize that workflow is huge. I can definitely see myself using PandaProbe to self-host my agent evaluation pipeline to keep sensitive client data entirely local. I am really curious to hear if you currently support custom tracing for raw API calls instead of just the standard frameworks.</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations on the launch <a href=\"https://www.producthunt.com/@sina_tayebati\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"sina_tayebati\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@sina_tayebati</a> <br>BTW, how well does PandaProbe handle tracking regressions across different agent versions over time?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "PandaProbe is an open-source agent engineering platform that gives you deep observability into AI agent applications. Use it to trace, evaluate, monitor and debug your AI agents in development and production.",
+  "featured_at": "2026-05-03T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/5d6af190-c10c-4ba4-a273-9fc79c409836.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a7151496-8ff7-4e8f-9e5a-1e11ea5358c6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9ba9f12c-7188-41c4-9339-80fc7a884661.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/35799d25-c7fb-4095-8ac1-3acb8c1857a2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a01c889d-706e-41fa-a036-70cf48d98e9a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a9efe1a9-48eb-434b-b7ea-41eeab94aa0d.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/c3af2ede-6970-44e8-a0b8-70b2072dc49a.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:30",
+  "landing_meta": "PandaProbe | Open Source Agent Engineering Platform — Traces, evals, and metrics to debug and improve your AI agents. Open source, self-hostable, and architected for scale.",
+  "landing_text": "PandaProbe | Open Source Agent Engineering Platform Open Source · Apache 2.0 open source agent engineering platform traces, evals, metrics, and live monitoring to debug and improve your AI agents. Start Building Talk to Founder Self-hostable · No vendor lock-in · Built for scale Trusted by the community Features Everything your agents need to reach production. A unified platform for the full agent development lifecycle — from first run to continuous improvement. 01 Tracing Capture every step. One instrument() call traces your full agent run automatically. Plug-and-play with every top agent framework Works seamlessly with any LLM provider Instantly see every span: chains, agents, LLMs, tools, and more Track model types, params, token usage, and key metadata Go to Docs Integrations agent.py python 1 from pandaprobe.integrations.google_adk import GoogleADKAdapter 2 3 # Call once at startup — before creating any agents 4 adapter = GoogleADKAdapter ( 5 session_id = \"session-abc\" , 6 user_id = \"user-123\" , 7 tags = [ \"production\" ], 8 ) 9 adapter . instrument () 10 11 # All ADK runners are now fully traced 12 # — tool calls, LLM hops, token usage, TTFT 02 Evals & Metrics 03 Monitoring Capture every step. One instrument() call traces your full agent run automatically. Plug-and-play with every top agent framework Works seamlessly with any LLM provider Instantly see every span: chains, agents, LLMs, tools, and more Track model types, params, token usage, and key metadata Go to Docs Integrations agent.py python 1 from pandaprobe.integrations.google_adk import GoogleADKAdapter 2 3 # Call once at startup — before creating any agents 4 adapter = GoogleADKAdapter ( 5 session_id = \"session-abc\" , 6 user_id = \"user-123\" , 7 tags = [ \"production\" ], 8 ) 9 adapter . instrument () 10 11 # All ADK runners are now fully traced 12 # — tool calls, LLM hops, token usage, TTFT Integrations Works with any stack. Python SDK featuring seamless integrations with leading agent frameworks and LLM",
+  "pricing_signals": [
+    "open source",
+    "self-hosted",
+    "pricing",
+    "$0",
+    "$29",
+    "$299",
+    "$1",
+    "$9",
+    "$3"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:31",
+  "description_ja": "AIエージェントのトレース・評価・監視・デバッグを一括で行えるオープンソースの観測基盤",
+  "summary_ja": "PandaProbeはLLM・ツール・サブエージェント呼び出しを横断的に記録し、本番のセッション品質や回帰を計測するOSS基盤。Apache 2.0で自己ホスト可能、クラウド版も提供。Python SDKと主要エージェントフレームワーク連携を備える。",
+  "tldr_ja": "AIエージェントの可観測性をOSSで提供。トレース・評価・監視・分析を統合し、自己ホストとクラウドの両対応。",
+  "review_guide_ja": {
+    "what": "PandaProbeはAIエージェントの開発・運用に必要な可観測性（オブザーバビリティ）機能を提供するオープンソース基盤。LLM呼び出し、ツール実行、MCP、サブエージェントなど複層的な実行をセッション・トレース・スパン構造で記録し、エージェント固有メトリクスでスコア化、定期的な自動評価で回帰検知、コスト・レイテンシ・品質トレンドを時系列で分析する。Apache 2.0でGitHub公開、Docker等で自己ホスト可能なほか、マネージドクラウド版も提供。Python SDKはGoogle ADK、LangGraph、CrewAIなど主要エージェントフレームワークおよび任意LLMプロバイダとプラグアンドプレイで統合し、`instrument()` 1行で全実行を自動トレース可能。競合はLangSmith・Langfuse・Helicone・Arize Phoenix・Latitudeなど。差別化は「エージェント特化メトリクス」「OSS + 自己ホスト前提」の組み合わせ。",
+    "for_who": "本番でAIエージェントを運用しデバッグや品質計測に苦しむAIエンジニア、複数エージェントの信頼性・回帰を監視する必要があるプラットフォームチーム、観測基盤を早期導入したい生成AIスタートアップ、データ主権の都合でセルフホストが必要な日本企業や受託開発者向け。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "トレース／評価／監視を統合したマルチテナント基盤と、複数フレームワーク統合SDK、自動評価ジョブの実装が必要で、個人開発で短期に同等品を作るのは困難。"
+    },
+    "signals": [
+      "Apache 2.0で自己ホスト可能、データ主権を重視する日本企業の要件と合致",
+      "Langfuseは日本クラウドリージョンと国内代理店GAOを既に展開しており市場ニーズが裏付けられている",
+      "Product Hunt 403 upvote / 34 commentで開発者層の関心が高い",
+      "Google ADK・LangGraph・CrewAIなど主要フレームワーク統合が初期から揃う",
+      "国内AIエージェント導入率29.7%と急成長中の市場で観測ニーズが顕在化"
+    ],
+    "concerns": [
+      "LangSmith・Langfuse・Arize Phoenix・Heliconeなど資金潤沢な競合が先行",
+      "Langfuseが既に日本リージョンと日本語サポート体制を確立しブランド優位",
+      "観測ログに個人データが混入する場合の個情法・外部送信規律対応が課題",
+      "OSSが主軸で課金転換率が低く、個人運用ではARPU確保が難しい",
+      "メーカーは1名・Twitter情報なしと体制が薄く、信頼性アピールが弱い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本企業の生成AI導入率64.4%、AIエージェント導入率29.7%と急拡大中で、本番運用するエンタープライズが観測・評価基盤を求める段階に入っている。NTTドコモビジネス×W&Bのガードレール事例など、LLMOps導入実例も増えており需要は明確。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "LangSmith・Langfuse・Helicone・Arize Phoenix・Latitudeなど競合が密集。特にLangfuseは日本クラウドリージョンを開設しGAOを国内代理店化、Qiita/Zennの比較記事でも第一想起。後発のPandaProbeが日本市場で勝つ余地は限定的。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "観測ログにユーザ入出力（個人データ含む可能性）が含まれるため、個情法・外部送信規律・委託先管理の論点が発生。自己ホストOSSである点はクラウド例外や越境移転回避の観点で有利だが、SaaS版を国内提供する場合はデータ保管リージョンと利用目的の整理が必須。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI・ドキュメント・サポートはすべて英語のみ。日本語Evaluator（敬語・社内用語）への対応や日本語ドキュメント、日本リージョンSaaSが未整備で、Langfuseとの差が大きい。エンタープライズ受注には現地パートナー必須。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本のエンタープライズはOSSでも有償サポート契約・SLA・印鑑/紙の稟議を求める。個人開発者がエンタープライズ営業を担うのは負荷が高く、間に代理店やSIerを挟む必要がある。一方でPoC段階のスタートアップ層は比較的軽量に導入可能。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Langfuse",
+        "url": "https://langfuse.com/jp-cloud",
+        "note": "日本クラウドリージョンとGAO株式会社の代理店体制を持ち、Qiita/Zennでも第一想起。OSS + 自己ホスト + マネージドで競合領域がほぼ完全に重なる。"
+      },
+      {
+        "name": "LangSmith",
+        "url": "https://smith.langchain.com/",
+        "note": "LangChain純正で日本でもLangChain系記事から流入。エンタープライズ向け機能と本番運用実績で先行。"
+      },
+      {
+        "name": "Helicone",
+        "url": "https://www.helicone.ai/",
+        "note": "プロキシ型で1行導入の手軽さが武器。日本のスタートアップでも採用事例あり。"
+      },
+      {
+        "name": "Arize Phoenix",
+        "url": "https://phoenix.arize.com/",
+        "note": "OSSでMLグレードの評価機能。ML出身の日本データサイエンティスト層に親和性。"
+      },
+      {
+        "name": "Weights & Biases (Weave)",
+        "url": "https://wandb.ai/",
+        "note": "NTTドコモビジネス事例ありで国内エンタープライズ実績。Weaveを通じてLLM観測も提供。"
+      },
+      {
+        "name": "MLflow 3",
+        "url": "https://mlflow.org/",
+        "note": "Databricks経由で大企業に浸透。トレース・評価・Prompt Registryを統合しOSS LLMOpsの選択肢。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "LLMの入出力をトレースとして保存する性質上、個人データを取り扱う可能性が高い。SaaS版を日本提供する場合は委託契約・安全管理措置・利用目的特定が必要。自己ホスト版は顧客が管理者となるため事業者リスクは低減する。"
+      },
+      {
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "自社Webサービスに組み込んだLLMの呼び出しログを国外の観測SaaSに送る構成では、外部送信規律の通知・公表義務の対象になりうる。日本リージョン提供かオンプレ展開が訴求ポイントになる。"
+      },
+      {
+        "law": "改正個人情報保護法（3年見直し）",
+        "impact": "AI利用に関するログ管理・利用目的・本人関与強化が議論されており、観測基盤側にも長期ログの保管期間・削除機能・監査ログ要件が求められる方向。"
+      }
+    ],
+    "opportunity": "日本企業の生成AI導入率64.4%・AIエージェント29.7%と急成長する中、LLMOps観測基盤への需要は確実に立ち上がっている。とくにOSS + 自己ホストはデータ主権・外部送信規律・委託先管理の観点で日本のエンプラ要件と相性が良い。Langfuseが既に日本クラウドリージョンと代理店体制で先行しているため、PandaProbeが真っ向勝負するのは難しいが、(1)日本語Evaluator（敬語・社内用語・カスタマーサポート品質）、(2)金融・医療など特定業種向けテンプレ、(3)国内SIer/受託会社向けマルチテナント運用機能、といったニッチに絞れば隙間は存在する。",
+    "rationale": "需要面は強いが、観測領域は既にLangSmith・Langfuseの2強体制で、Langfuseは日本リージョン・国内代理店・Qiita/Zenn上の認知すべてで先行している。後発のPandaProbeがプロダクト品質だけで巻き返すのは困難。一方でOSS + 自己ホスト構成は日本のエンプラ要件（個情法・外部送信規律・委託先管理）と非常に相性が良く、特定セグメント（日本語Evaluator・業種特化テンプレ・SIer向けマルチテナント）に絞れば余地はある。個人開発者視点では、PandaProbe本体ではなく『Langfuse/LangSmithの日本語Evaluator拡張』や『社内エージェント観測導入支援』に商機を見出すほうが現実的。スコア集計は demand7×0.3 + competition4×0.25 + regulation6×0.2 + localization5×0.15 + business_custom5×0.1 = 5.55 → 6 で watch 判定。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "OSS + クラウド + エンタープライズの3層モデルは王道だが、観測基盤はOSSセルフホストへ流れやすく課金転換率が低い。月額$29〜$299のSaaS課金は妥当だが、日本市場ではLangfuse日本リージョンや代理店経由の方が先に握られている。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本のLLM観測市場は2026年で約0.24Bドル規模、生成AI市場全体は2034年57.9Bドル予測。AIエージェント市場はCAGR40%超で急成長。観測領域はGartnerが2028年に50%のGenAI案件に投資されると予測しており、絶対値としては小さくない。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "日本では既にLangfuseがGAO代理店経由・日本クラウドリージョン・Zenn/Qiita記事で第一想起を獲得。LangSmithもLangChainブランドで強い。海外スタートアップが個人主導で日本市場に切り込むには、現地SIerやAIコンサルとの提携が必須で、個人開発のGTMコストは極めて高い。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "AIエージェント観測領域は『立ち上がり後期〜成長前期』で参入余地はまだあるが、競合の資金量・先行年数を考慮すると、純粋なホリゾンタル観測基盤の参入タイミングはやや遅い。一方で日本市場特化や業種特化なら余地あり。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "観測基盤はマルチテナントSaaS+大規模ログ基盤(ClickHouse等)の運用が必要で、SLA・データ保全・PII対応・24/7サポートが求められる。個人運用は非現実的。OSSコミュニティ運営とエンプラ営業の同時進行は1人では不可能に近い。"
+      }
+    },
+    "rationale": "市場としての成長性とタイミングは悪くないが、観測基盤領域は資金潤沢な競合が先行し、特に日本ではLangfuseが既に日本リージョン+代理店体制を確立。後発の個人プロダクトが正面突破するのは困難。SaaS価格帯（$29〜$299）は妥当だが、課金転換率の低さとエンタープライズ営業の重さで、個人運用での収益化は非常に厳しい。市場全体は伸びるがプレイヤー単位での勝率が低い構造。score集計: monetization5×0.25 + market_size6×0.2 + gtm3×0.25 + timing7×0.1 + solo_ops3×0.2 = 4.5 → 4。個人開発者にとっては、本体クローンではなく『日本語Evaluator/業種特化評価テンプレ』『Langfuse/LangSmith導入支援』『AIエージェント観測の受託SIサポート』など周辺ビジネスへの展開を検討するほうが現実的な収益化経路。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 18000,
+      "plans": [
+        "OSS Free: Apache 2.0で全機能セルフホスト可能。コミュニティSlack/Discordサポート。個人開発者・PoC・受託案件のローカル運用向け。",
+        "Cloud Starter: 月額3,000円〜5,000円、月100万スパンまで。個人開発者・小規模スタートアップ向け。Langfuse Cloud Hobbyの価格帯に合わせる。",
+        "Cloud Pro: 月額29,000円〜49,000円、本番運用向けに自動評価・チームRBAC・データ保持90日。スタートアップ〜中小規模企業向け、ARPU想定の中心レンジ。",
+        "Enterprise: 年額300万円〜1,500万円、SSO/監査ログ/SLA/専任サポート/日本リージョン。SIer・大企業向けで代理店経由販売を前提とする。",
+        "日本語Evaluator Add-on: 月額10,000円〜30,000円、敬語・CS品質・社内用語などの評価テンプレ。Langfuse/LangSmith競合との差別化アドオン。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本国内でAIエージェント／LLMアプリを本番運用しPoCを超えた段階の中小スタートアップおよび受託開発会社のAIチーム。エンプラ層はLangfuse/LangSmith先行のため、まずデータ主権と日本語評価を重視するPMF前のスタートアップを狙う。年商10〜100億円規模、エンジニア5〜30名、生成AIプロダクト1〜3本を本番運用しているレイヤーが中核。",
+      "target_count": 3000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 810000
+    },
+    "recommended_gtm": [
+      "Zenn・Qiitaで『LangSmith/Langfuse/PandaProbe比較』『日本語Evaluator実装』など技術記事を月2本以上発信し、SEOで第一想起の壁を切り崩す。",
+      "国内AI受託会社・SIer（PKSHA、ヘッドウォータース、ギブリー等）と協業し、観測基盤の導入支援サービスをパッケージ化して紹介手数料モデルで展開。",
+      "AWS Marketplace JP / Google Cloud Marketplace JPに上場し、企業の調達フロー（請求書払い・JPY決済）に対応。",
+      "日本語Evaluator（敬語、CS品質、社内用語、ハルシネーション検出）のテンプレライブラリをOSS公開し、Langfuse/LangSmithユーザーをPandaProbeに引き寄せる。",
+      "Google ADKコミュニティ・東京AIエージェントMeetup等での登壇・LTで開発者層へ直接リーチ。"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Langfuseが日本クラウドリージョン+GAO代理店で先行しており、エンプラ第一想起の座を奪取するのは極めて困難。差別化軸の継続的再定義が必要。",
+      "観測ログに個人データが混入した場合の個情法・外部送信規律対応で事故が起これば即座にエンプラ受注が停止する。法務・セキュリティ体制の構築コストが重い。",
+      "観測基盤はマルチテナントSaaS運用とエンプラ営業の両輪が必要で、創業者1人運営では品質・サポート・SLAが破綻する。最低でも3〜5名のチームが必要。",
+      "OSSコミュニティ運営とコード品質維持に時間を取られ、課金プロダクト改善・顧客サポート・営業活動が後手に回る『OSSのジレンマ』に陥りやすい。",
+      "AIエージェント領域は標準化（OpenTelemetry GenAI Semantic Conventions等）が進めば差別化が消滅し、価格競争か垂直統合かの2択になる可能性が高い。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

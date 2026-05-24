@@ -1,0 +1,292 @@
+{
+  "name": "CraftBot with Living UI",
+  "description": "Grow your own software that is alive.",
+  "ph_url": "https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/KD55BIO53WF7SJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-13T07:01:00Z",
+  "upvotes": 280,
+  "comments": 31,
+  "topics": [
+    "SaaS",
+    "Artificial Intelligence",
+    "GitHub",
+    "Vibe coding"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p><em>For context, CraftBot is a self-hosted, proactive AI agent that can control a PC and take actions for you.</em><br><br>Today, most software, dashboards, apps, and subscription tools are static. When you need a new feature, you email the developer. If you are lucky, it ships six months later. If not, you may never hear back.<br><br>Therefore, we are introducing a new concept: 🌱<strong>Living UI</strong>🌱.<br><br>Living UI lets CraftBot build, import, and evolve custom software, apps, and dashboards directly inside the agent. The best part is that CraftBot stays context-aware of the Living UI’s state. It can read, write, update, and act on the interface directly.<br><br>Need a Kanban board with a general AI agent built in?<br>A CRM tailored exactly to your workflow?<br>A company dashboard your agent can actually operate?<br><br>You can spin all of these up as a Living UI. There are three ways to create one.<br><br>1. Build from scratch. Just describe what you want, and CraftBot generates the backend, API, and UI, then iterates with you.<br>2. Install from the marketplace. Use ready-to-use apps built by the community.<br>3. Import your existing project or GitHub repo. CraftBot converts it into a Living UI and integrates itself into it.<br><br>A Living UI is never finished. You can always modify it by telling CraftBot as your needs evolve. So instead of static tools, you get software that grows with you.<br><br>Try CraftBot and Living UI today. Build and customize your own Living UI, and stop relying on subscription tools that were never built to fit your needs perfectly. 🟠🌱</p>",
+      "votesCount": 13,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The agent era is <a href=\"https://x.com/trq212/status/2052809885763747935\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">reshaping the interface</a>.<br></p><p>TUI is one direction, and it makes more sense for devs. But I don’t think agents remove the need for UI. Visual interfaces are still one of the best ways to compress state, context, and actions into something humans can understand quickly.<br></p><p><a href=\"https://www.producthunt.com/products/craftbot\" target=\"_blank\" rel=\"noopener\">@CraftBot</a>’s Living UI pushes this in a useful direction. The interface is no longer a fixed app you buy and adapt to. It becomes something the agent can build, read, modify, and operate based on the current task.<br></p><p>This points to a different software shape: not one-size-fits-all dashboards, but interfaces generated around the immediate job, the user, and even the current moment.<br></p><p>For agents, UI may become less of a destination and more of a live surface for action.</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Wishing good luck with today's launch :) </p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Living UI is a brand-new system that lets CraftBot (general AI agent) build, import, or evolve custom apps/dashboards that live inside CraftBot itself. The agent stays context-aware of the Living UI's state and can read, write, and act on its Living UI directly. A Living UI is never \"finished\". Ask CraftBot to add features or redesign a view as your needs grow. Living UI turns software from something users buy and adapt to into something CraftBot creates and adapts around them.",
+  "featured_at": "2026-05-13T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d22d3526-9e7f-41b7-a6ff-25d3e6ea13cd.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/903cc58d-9a2e-4172-a529-75f68e665f28.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0bb41e17-ac57-4352-803a-c139c9dd4678.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f25e5f9d-d5d8-49ac-901b-310bd8ffc06a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1c983f3b-d729-4e03-b35c-2fa6fbdc7cf6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/31a6f160-0cc9-4887-8c12-209d0c8b95d4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1dce827e-f1f2-4893-8384-5fffa2f8fbba.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/006c14aa-9629-4687-8496-f65480587014.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3c44519d-b3be-47a6-a8b5-b4fb2abd8907.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/9e8d1d78-420a-4105-940a-6be91fb6ddae.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:34",
+  "landing_meta": "GitHub - CraftOS-dev/CraftBot at producthunt · GitHub — A Personal AI Assistant that creates and operates its own SaaS tools - GitHub - CraftOS-dev/CraftBot at producthunt",
+  "landing_text": "GitHub - CraftOS-dev/CraftBot at producthunt · GitHub Skip to content You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert CraftOS-dev / CraftBot Public Notifications You must be signed in to change notification settings Fork 32 Star 278 main Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 924 Commits 924 Commits .github/ workflows .github/ workflows agent_core agent_core agent_file_system agent_file_system agents agents app app assets assets craftos_integrations craftos_integrations decorators decorators diagnostic diagnostic docker/ omniparser docker/ omniparser hooks hooks installer installer mkdocs mkdocs packaging packaging rthooks rthooks scripts scripts skills skills tests tests .dockerignore .dockerignore .env.example .env.example .gitignore .gitignore CONTRIBUTING.md CONTRIBUTING.md Dockerfile Dockerfile LICENSE LICENSE README.cn.md README.cn.md README.de.md README.de.md README.es.md README.es.md README.fr.md README.fr.md README.ja.md README.ja.md README.ko.md README.ko.md README.md README.md README.pt-BR.md README.pt-BR.md README.zh-TW.md README.zh-TW.md craftbot.py craftbot.py craftbot_logo_1.ico craftbot_logo_1.ico craftbot_logo_1.png craftbot_logo_1.png docker-compose.gpu.yml docker-compose.gpu.yml docker-compose.yml docker-compose.yml environment.yml environment.yml install.py install.py main.py main.py pytest.ini pytest.ini requirements.txt requirements.txt run.py run.py View all files Repository files navigation 日本語 | 简体中文 | 繁體中文 | 한국어 | Español | Português | Français | Deutsch 🚀 Overview CraftBot is your Personal AI Assistant that lives inside your machine and works 24/7 for you. It autonomously interprets tasks, plans actions, and executes them to achieve your goals. It lea",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "self-hosted",
+    "subscription",
+    "pricing",
+    "premium"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:35",
+  "description_ja": "セルフホスト型AIエージェントCraftBotが、自分専用の業務アプリやダッシュボード(Living UI)を内部で生成・改変し、エージェント自身が読み書き操作できる新システム。",
+  "summary_ja": "CraftBotはローカル常駐型のプロアクティブAIエージェント(OSS、PC操作可能)。新機能Living UIは、自然言語指示・マーケットプレース・GitHubインポートの3経路でCRM/カンバン/ダッシュボード等を生成し、エージェントが状態認識して直接操作する。静的なSaaS購読を脱し、利用に応じて成長するソフトウェアを目指す。OpenAI/Claude/Gemini/Ollama等のLLMをBYOK可。",
+  "tldr_ja": "セルフホストAIエージェントが自分専用アプリを動的生成し操作する『成長するSaaS』。OSS+BYOKでLLM選択可。",
+  "review_guide_ja": {
+    "what": "CraftBotはローカルPCに常駐する自己ホスト型AIエージェントで、新機能Living UIによりエージェントが自前で業務アプリ(CRM・カンバン・ダッシュボード等)のバックエンド/API/UIを生成・改修し、生成したUIの状態をエージェントが認識して読み書き操作できる。マーケットプレースからの導入や既存GitHubリポジトリのインポートにも対応。LLMはOpenAI/Anthropic/Gemini/Ollama等から選択可能。",
+    "for_who": "ローカル環境でAIに作業を任せたい技術リテラシー高めの個人開発者・パワーユーザー、自社環境にセルフホストでAIエージェントを置きたい中小情シス、SaaS購読を減らしたいプロシューマー。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "PC操作・コード生成・動的UI生成・状態同期・MCP連携を統合する複合システムでスコープが広く、OmniParserやインストーラ含む配布も負荷が高い。"
+    },
+    "signals": [
+      "PH 280 upvotes / 31 comments と健闘",
+      "GitHub 278 stars / 32 forks の初期トラクション",
+      "Vibe coding/AIエージェントのバズワード親和性",
+      "BYOKでLLM選択可・ローカルOllamaにも対応",
+      "OSS(セルフホスト)路線でデータ秘匿訴求"
+    ],
+    "concerns": [
+      "OSS単体ではマネタイズ困難、有料化への移行は要設計",
+      "PC操作系はOS権限/セキュリティ事故リスクが大きい",
+      "Anthropic Computer Use・OpenAI Agent Builder等の大手と機能重複",
+      "Living UIの完成度・安定性は未検証(初期段階)",
+      "日本語UI/サポート/事例が不十分でローカル普及には弱い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "AIエージェント関心は高く2026年エンタープライズ40%搭載予測。ただし日本の個人/SMBは『PC操作を任せる』ことへの心理的抵抗が大きく、自然言語アプリ生成需要はkintoneやノーコード勢に吸収されがち。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Dify/n8n/Genspark/Manus/OpenAI Agent Builder/Claude Computer Use/kintone+AIなどが日本でも認知拡大中。Living UIに該当する『エージェントが生成する動的アプリ』も大手の射程内で差別化が薄い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "AI推進法・AI事業者ガイドライン改訂でエージェントAIの安全要件追加検討中。個情法・業務委託先監督との整合が必要。セルフホスト/ローカルLLMは情報漏洩面で有利だがPC操作のログ/最小権限実装が必須。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "READMEに日本語版あるがUI/ドキュメント/サポート/Living UIテンプレートはほぼ英語。日本固有の業務ルール(承認印・帳票・SmartHR/freee連携)に未対応で、和製ノーコードに比べ導入摩擦が大きい。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の企業は『業者にお任せ＝SIer文化』が根強く、自分で育てるソフトという思想は刺さりにくい。情シス審査・社内規程・監査対応で自律PC操作系は警戒され、稟議が通りにくい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "kintone",
+        "url": "https://kintone.cybozu.co.jp/",
+        "note": "国内ノーコード業務アプリの最大手30,000社導入。2026年6月にkintone AIが正式リリース予定でアプリ自動生成も視野。"
+      },
+      {
+        "name": "Dify",
+        "url": "https://dify.ai/",
+        "note": "OSSのAIアプリ基盤。セルフホスト可、日本でも個人開発者・SIerの採用が増加。"
+      },
+      {
+        "name": "n8n",
+        "url": "https://n8n.io/",
+        "note": "OSSワークフロー自動化。2025年Series Cで$180M調達、日本でも法人/個人ユーザーが急増。"
+      },
+      {
+        "name": "Manus",
+        "url": "https://manus.im/",
+        "note": "自律型AIエージェント。日本語対応あり、CRM等外部連携と完全自律ワークフロー実行が強み。"
+      },
+      {
+        "name": "Genspark",
+        "url": "https://www.genspark.ai/",
+        "note": "コンテンツ生成・リサーチ特化のAIエージェント。日本でも個人有料ユーザー多数。"
+      },
+      {
+        "name": "Anthropic Claude Computer Use",
+        "url": "https://www.anthropic.com/",
+        "note": "画面視認・カーソル/キーボード自律操作。日本でも法人POC増。CraftBotのコア機能と重複。"
+      },
+      {
+        "name": "OpenAI Agent Builder",
+        "url": "https://openai.com/",
+        "note": "2025年10月リリース。エージェント構築の事実上の標準化が進行中。"
+      },
+      {
+        "name": "サスケWorks / Platio",
+        "url": "https://works.saaske.com/",
+        "note": "国内ノーコード業務アプリ。月2万円～でSMB向け事例が豊富。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法(2026年改正検討)",
+        "impact": "PC操作で個人データに触れる場合は委託先監督義務・利用目的制限に注意。ローカル/セルフホストは漏洩リスク低減に有利だがログ保管が必要。"
+      },
+      {
+        "law": "AI推進法・AI事業者ガイドライン",
+        "impact": "2026年改訂でエージェントAI/Human-in-the-Loop要件追加が検討中。自律PC操作の責任主体明確化と監査ログが事実上必須に。"
+      },
+      {
+        "law": "電子帳簿保存法・インボイス制度",
+        "impact": "業務アプリで請求書/帳票を扱う場合は要件適合が必要。Living UI生成物が要件を満たすかは検証必須。"
+      },
+      {
+        "law": "OSSライセンス(本体ライセンス次第)",
+        "impact": "再頒布・SaaS化時のライセンス遵守と、生成物の著作権帰属の整理が必要。"
+      }
+    ],
+    "opportunity": "日本では『業務アプリを自分で育てる』文化はまだ薄いが、kintone後継需要として『AIに依頼すると社内ツールが自動で進化する』体験は刺さる可能性がある。狙い目は(1)情シス非専任の20-100名規模SMBで、既存kintone/スプレッドシート運用を半自動でリファクタする補助、(2)個人開発者/フリーランスの内製ツール置き換え、(3)士業・コンサル等の属人ワークフロー自動化。差別化はOSSによる完全ローカル動作と『PC操作+UI生成+状態同期』の統合体験だが、海外大手とのコモディティ化競争を避けるため日本固有(freee/マネフォ/SmartHR/Slack/印影フロー)テンプレートの厚みが勝負どころ。",
+    "rationale": "需要面ではAIエージェント関心は高い一方、日本の個人/SMBは『自律PC操作』への心理的抵抗が強く、自分で業務アプリを育てる文化も浸透していない(D=6)。競合は和製ノーコード(kintone・サスケ・Platio)に加え海外勢(Dify/n8n/Manus/Genspark/Claude Computer Use/OpenAI Agent Builder)が日本市場でも認知を拡大しており差別化余地は狭い(C=4)。規制面はセルフホスト/ローカルLLM志向と相性が良く2026年改訂AIガイドラインの方向性とも整合するが、PC操作の監査ログ・最小権限実装は事実上必須でハードルあり(R=6)。ローカライズは日本語READMEのみで業務固有要件(帳票・印影・国産SaaS連携)が未対応(L=4)。商習慣はSIer依存の『業者にお任せ』が根強く、自律エージェント+動的UI生成は稟議が通りにくい(B=4)。総合 6×0.30+4×0.25+6×0.20+4×0.15+4×0.10=4.4→5。verdictはskip相当だが、日本固有テンプレ整備+SMB向け運用代行をセットにすれば局所的にwatchへ昇格余地あり。",
+    "japan_fit_at": "2026-05-24T20:30:00Z"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "OSS+BYOK構成のためコア機能を有料化しにくい。マーケットプレース手数料・クラウド版・サポートSLAなどEnterprise Open Source型に寄せる必要があるが、個人開発者単独では実装/運用負荷が高い。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "日本のAIエージェント基盤市場は2024年度1.6億→2025年度約13億円と急拡大中だが基盤層で、エンドユーザ向け自律PC操作+UI生成のニッチは更に小さい。ICP次第ではTAM限定的。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "OSS GitHub起点のグローバル流通には強いが、日本SMBへのGTMは展示会・SIer経由・kintoneエコシステム侵食が主戦場で個人開発者には届きにくい。コミュニティ翻訳/note発信に頼る形。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "Vibe coding/Agent Builder元年で関心は最高潮。一方Anthropic/OpenAI/Microsoft の参入で機能のコモディティ化が急速進行中。ウィンドウは12-18ヶ月程度。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "PC操作・コード生成・UI生成・状態同期・MCP・インストーラ・マルチOS対応と守備範囲が広大。個人開発の継続は極めて困難で、現に4人makers体制。"
+      }
+    },
+    "rationale": "マネタイズはOSSライセンス選定とエンタープライズ機能/サポートの切り分け次第だが、現状の提示情報からはBYOK前提でユーザー側コスト負担が大きく月額課金の心理障壁が高い(M=4)。市場規模はAIエージェント基盤全体としては伸長中だが、CraftBotのポジショニング(個人/プロシューマー向けセルフホスト×UI生成)はニッチで日本では数千～1万社程度のリーチが現実線(MS=5)。GTMはGitHub/PH起点のグローバル戦が主で、日本固有チャネル(kintoneパートナー網、SIer、士業ネット)を抑える具体策が不明(G=4)。タイミングは絶好だが大手参入で寿命短し(T=6)。プロダクトの守備範囲が広く個人開発の継続は困難(S=3)。総合 4×0.25+5×0.20+4×0.25+6×0.10+3×0.20=4.2→4。海外OSSプロジェクトを日本市場に持ち込んでの代理運営/SI化の方が現実的で、フォロワー戦略(類似OSSの和製ラッパー)も含めて検討すべき。日本単独のフォーカスでは投資効率が低い。",
+    "business_viability_at": "2026-05-24T20:30:00Z"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 2500,
+      "plans": [
+        "OSS Community: 無料(セルフホスト、BYOK)",
+        "Pro個人: 月2,500円(マーケットプレース有料テンプレ・優先サポート・自動アップデート)",
+        "Team: 月9,800円/5席(共有Living UI・SSO・監査ログ)",
+        "Business: 月39,800円/組織(オンプレ運用支援・SLA・freee/マネフォ/SmartHRテンプレ)",
+        "Enterprise: 個別見積(プライベートMCP/ローカルLLM導入支援)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "ITリテラシー高めの個人開発者/フリーランス、20-100名規模で情シス非専任のSMB(士業・コンサル・受託開発・小売EC)。kintoneやスプレッドシート運用に不満を持つ層。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 375000
+    },
+    "recommended_gtm": [
+      "GitHub READMEの日本語完全版+note/Zenn連載で個人開発者リーチ",
+      "Living UI日本テンプレ(請求書/勤怠/SmartHR連携/カンバン)を10種公開",
+      "kintone不満ユーザーへの移行ガイド/比較記事をSEO狙い撃ち",
+      "X(旧Twitter)でのVibe coding/AIエージェント界隈インフルエンサーへのデモ配布",
+      "中小情シス向けセルフホスト勉強会(オンライン)を月1開催",
+      "freee/マネフォ/Slack 公式パートナー枠を狙うMCPコネクタ提供"
+    ],
+    "time_window_months": 15,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Anthropic/OpenAI/Microsoftの公式エージェントに機能吸収され差別化消滅",
+      "PC操作の事故(誤クリック・データ削除・送金等)による信頼失墜と法的責任",
+      "OSS本体のメンテ負荷が個人/小チームの限界を超える",
+      "日本のSMBはSIer経由の購買が主流でD2Cマネタイズが困難",
+      "BYOKモデルではユーザがLLM費用を直接負担し、心理的TCOが高い"
+    ],
+    "go_no_go": "no_go",
+    "advisor_view_at": "2026-05-24T20:30:00Z"
+  },
+  "overall_score": 4,
+  "review_guide_at": "2026-05-24T20:30:00Z"
+}

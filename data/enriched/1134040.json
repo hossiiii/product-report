@@ -1,0 +1,257 @@
+{
+  "name": "Gro v2",
+  "description": "Spot signals, trigger outreach - turn posts into pipeline",
+  "ph_url": "https://www.producthunt.com/products/gro-2/launches/gro-v2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/GC55BQLLOYP36O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-29T07:01:00Z",
+  "upvotes": 268,
+  "comments": 53,
+  "topics": [
+    "Sales",
+    "Artificial Intelligence",
+    "CRM"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi everyone! Alexis here. We’re excited to share Gro’s new feature: Content Search + Social Signal Monitoring. <br><br>The idea is simple: instead of guessing who’s in-market, we help you find real conversations your buyers are already having on LinkedIn, turn those posts into leads, and then keep an eye on future posts so you can engage at the right moment. <br><br>With Gro, you can search LinkedIn content by topic/timeframe, identify the right authors, save them to your Social CRM, and then monitor for new posts that match your ICP + signal. When a match happens, Gro can notify you and trigger actions like commenting, connecting, and drafting/sending an dm, email or inMail. <br><br>We’re here all day—ask anything. Also curious: what tools/workflows are you using today to catch “high-intent” signals (Sales Nav alerts, manual feed scanning, communities, newsletters, etc.)?</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Automation sometimes kills personalization, is there a structure or template that keeps messages and comments created by Gro from sounding automated?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Is there a Zapier or Make integration so I can wire signal triggers into my existing stack?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Gro’s new Content Search + Social Signal Monitoring helps you find what your buyers are already talking about, identify the authors worth engaging, and then automatically monitor for new high-intent posts so you can respond the moment intent shows up (you see the post). When a matching post appears, Gro can trigger your playbook instantly: alert you, comment, send a connection request, and draft/send email/message — all from one workflow. From content → to leads → to monitoring → to action.",
+  "featured_at": "2026-04-29T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/7f2f1834-b9ef-4aad-8824-42a35c226840.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a4435faa-5f3d-4ebd-a4ae-e9573a8d72aa.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9daf7df8-942b-4b13-b79b-51b4b5db5ff6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4f427f15-50d5-4093-b2c1-1d8e09198d28.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cba88607-1332-45fc-b093-41f1394e5794.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2a417cf8-63ea-484b-81ca-3608aed93c53.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/ffc4ce85-5521-47e6-bb74-4fd24b319655.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:48",
+  "landing_meta": "Gro — AI Sales Agent for B2B Lead Generation | Gro — Automate LinkedIn outreach with Gro's AI Sales Agent. Find verified leads, personalize campaigns at scale, and close more deals with Social CRM and intent scoring.",
+  "landing_text": "Gro — AI Sales Agent for B2B Lead Generation | Gro #2 Product of the Day View on Product Hunt AI Sales Co-Pilot AI Sales Agent for B2B Lead Generation . Automate outreach with our AI Sales Agent and convert leads intelligently. A sales copilot built to amplify every salesperson's performance. Start Free Trial Trusted by Leading Teams The Problem with Traditional Outbound Low connect rates. Low reply rates. Low conversion rates. Traditional outbound is broken. 3 % Connect Rates Are Holding You Back Cold email and call campaigns in 2024 average just 3% connect rates, leaving most outreach ignored. 30 % Grow Your Connect Rates Gro's built-in Social Proof drives 30%+ connect rates and opens real conversations. 1 % Reply Rates Are Killing Your Outbound Email campaigns today average just 1% positive replies — spray-and-pray is broken. 10 % Grow Your Reply Rates Gro delivers 10%+ reply rates with hyper-personalisation and smart automation. 0.1 % Conversion: Quantity ≠ Quality Most prospect lists don't convert. You don't need more leads — just better ones. 2 % Grow Your Conversion Rates Gro's Social CRM and Intent Analyzer deliver only high-quality leads each month. Each one worth thousands. The Product Meet Gro . Stop wasting time on manual outreach. Our AI-powered platform helps you automate and personalize your LinkedIn campaigns at scale. app.thegro.ai AI Outreach Social CRM Intent Scoring The Complete AI Outbound System for B2B Sales One platform to find, reach, and close the right buyers. Powered by AI that learns what works. Gro Search Fuel your pipeline with verified emails and phone numbers from a 650M+ contact database. Search by job title, industry, or company size — and get results in seconds. Start finding leads free Gro Outreach Build multichannel campaigns that send connection requests, follow-ups, emails, and InMails — on autopilot. Every message feels 1-to-1. See outreach in action Gro Social CRM Every lead, conversation, and touchpoint — in one place. Tag ",
+  "pricing_signals": [
+    "free trial",
+    "freemium",
+    "pricing",
+    "$0/mo",
+    "$1",
+    "$14"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:49",
+  "description_ja": "LinkedIn投稿からシグナルを検知し、自動でアプローチを発火するAI営業エージェント",
+  "summary_ja": "LinkedIn上のコンテンツを話題・期間で検索し、見込み顧客の発信を継続監視。ICPと一致する投稿が出た瞬間にコメント、コネクション申請、DM/メール送信を自動実行するAI営業ワークフロー。Social CRMとインテントスコアリングを内包し、ポストからパイプライン創出までを一気通貫で支援する。",
+  "tldr_ja": "LinkedIn投稿の意図シグナルを監視し、ICP一致時にコメント・DM・メールを自動発火。投稿からパイプラインを生み出すB2B営業AIエージェント。",
+  "review_guide_ja": {
+    "what": "Gro v2は、LinkedIn上の投稿コンテンツをトピックや時間軸で検索し、有望な発信者をSocial CRMに登録した上で、その後の投稿を継続監視するAI営業エージェントである。ICP（理想顧客像）とシグナル条件に合致する新規投稿が現れた瞬間に、コメント、コネクション申請、InMail、DM、メールの下書き・送信を自動実行できる。Search（650M+コンタクトDBによる見込み客検索）、Outreach（マルチチャネル自動配信）、Social CRM（接点履歴の一元管理）、Intent Scoring（インテントスコア化）を1プラットフォームに統合。Product Huntでは「コネクト率3%→30%、返信率1%→10%」を打ち出し、ポスト・キャンペーン設計→監視→アクションまでをコパイロット型ワークフローで提供する。",
+    "for_who": "LinkedInを商談獲得チャネルとして本格運用しているB2B SaaS/サービス企業のSDR・インサイドセールス、グロース担当、ファウンダーセールス。海外（北米・EU）リードを取りたい日本のスタートアップ、英語圏のソーシャルセリングを実践するエージェンシー。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "650M+コンタクトDB、LinkedIn検索のスケーリング、安全なオートメーション基盤、LLMによる文面生成、CRM/シーケンサーの統合と複数の構成要素を要し、個人で揃えるのは難度が高い。"
+    },
+    "signals": [
+      "Product Hunt #2 Product of the Day、268upvotes/53コメント",
+      "freemium($0/mo)＋$1〜$14の段階課金で低い導入障壁",
+      "投稿シグナル監視という新しい切り口で既存outboundツールと差別化",
+      "ZapierやMake連携への需要コメントあり（拡張余地）",
+      "LinkedIn利用者数は世界13億人で、B2B意思決定者リーチ手段として確立"
+    ],
+    "concerns": [
+      "LinkedInは自動化ツールを利用規約で明確に禁止しており、アカウント凍結リスクが高い",
+      "週100-200件のコネクション制限など、レートリミットを超えると即制限",
+      "メッセージ自動化はパーソナライズ感を損ない返信率が逆に低下する懸念",
+      "650M+のコンタクトDB自体が個情法・GDPR・スクレイピング規制と緊張関係",
+      "日本のLinkedInユーザーは約400-500万人と限定的でドメイン依存"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "国内BtoBのインテントセールス需要は急成長（Sales Marker等）。ただしLinkedInを起点とする営業は普及率が低く、ユーザー数も世界比0.3-0.4%にとどまる。海外向け営業をする一部スタートアップ・グローバル企業のニーズに限られ、母集団が薄い。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "国内ではSales Marker、FORCAS、Speeda、SalesNow等のインテント／ABM系が確立し、Web検索シグナルベースの代替が強い。LinkedIn特化は競合少だが、それは市場が薄い裏返しでもある。Apollo・Lemlist・Clay等の海外勢も日本ユーザーに直販可能。"
+      },
+      "regulation": {
+        "score": 3,
+        "reason": "LinkedIn利用規約が自動アクセス・自動メッセージを明確に禁止しアカウント永久凍結リスクが恒常的。特定電子メール法のオプトイン規制、改正個情法の第三者提供・スクレイピングデータの取扱い、電気通信事業法の通信の秘密も論点。コア機能が法的グレー。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UIの日本語化に加え、日本語LLMによる自然な文面生成、敬語/丁寧度の制御、日本のLinkedIn利用者ペルソナへの最適化、Wantedly/Eight/X等の代替プラットフォーム対応が必須。母艦であるLinkedInのDB自体に日本語データが薄い。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のBtoB営業はメール・電話・展示会・代理店経由が主流で、SNSのDMによるコールドアプローチは無礼と受け取られやすい。意思決定が稟議制で長く、自動DMで商談化する文化的素地が弱い。決裁者がLinkedInに常駐していない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Sales Marker",
+        "url": "https://sales-marker.jp/",
+        "note": "Web検索行動データを用いた国内インテントセールスの代表格。LinkedInではなく企業のWeb行動を主シグナルにする。"
+      },
+      {
+        "name": "FORCAS",
+        "url": "https://www.forcas.com/",
+        "note": "企業データベース＋ABM特化。ITreviewのレビューシグナルを連携し購買意向の高い企業を抽出。"
+      },
+      {
+        "name": "SalesNow",
+        "note": "650万件超の国内法人DBと閲覧履歴・募集情報からシグナル抽出。日本企業の網羅性が強み。"
+      },
+      {
+        "name": "Speeda（ユーソナー）",
+        "note": "企業データベース・ABM・インテントを統合提供。エンタープライズ向けで国内シェアあり。"
+      },
+      {
+        "name": "Apollo / Lemlist / Clay（海外勢）",
+        "note": "LinkedIn＋マルチチャネルoutboundのデファクト。日本人ユーザーも直接利用しており直接競合となる。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "LinkedIn利用規約",
+        "impact": "自動化された手段による情報取得・操作・メッセージ送信を明示的に禁止。違反時はアカウント永久制限の処分対象で、サービスの根幹機能と衝突する。ユーザー側の事業継続性にも直撃する。"
+      },
+      {
+        "law": "個人情報保護法（改正個情法）",
+        "impact": "650M+コンタクトDBの構築・第三者提供・国境移転に関し本人同意・委託契約・越境移転措置が必要。スクレイピング由来データを国内顧客へ販売・提供する形態は法的論点が大きい。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "営業メール送信に原則オプトイン同意が必要。LinkedIn上に公開された個人アドレスへの自動送信は同意推定が成立しないケースが多く、違反時は法人で最大3,000万円の罰金。"
+      },
+      {
+        "law": "電気通信事業法（通信の秘密／改正法）",
+        "impact": "DMやメッセージの自動収集・解析は通信の秘密に抵触するおそれ。SaaSが該当事業者となれば外部送信規律（cookie等）への対応も必要。"
+      }
+    ],
+    "opportunity": "日本のLinkedIn利用者は2025年に約500万人へ拡大し、米国市場・グローバルアカウントを狙う日本のスタートアップ・SaaSベンダー・人材エージェンシーにとって、英語圏インテントを捉える海外向け営業ツールとして一定の需要がある。インテントセールス概念自体はSales Markerが市場を教育済みで「シグナル起点で動く」発想は受け入れられやすい。LinkedInに依存しない設計（X、Wantedly、Eight、IR資料、求人票、技術ブログ等を含む日本版インテント源）に再設計し、文面はLLMで日本語の敬語・婉曲表現に最適化、人手承認をフローに必ず挟む形にすれば、海外向け営業の補助ツールとして年商数千万円〜数億円規模のニッチを取る余地はある。",
+    "rationale": "結論として「日本国内市場の本流」としてはskipが妥当。理由は3点。第一に、LinkedInの母集団が国内では薄く（世界の0.3-0.4%）、決裁者の常駐率も低いため、ICPとなる日本企業の発信を継続監視するという機能が物理的に成立しにくい。第二に、自動コメント・自動DM・自動コネクション申請という機能はLinkedInの利用規約上明確に禁止行為で、アカウント凍結リスクをユーザーに転嫁する商品設計となり、日本のエンタープライズや上場企業の法務審査を通すのは現実的でない。第三に、コールドDM・自動メッセージは日本のBtoB営業慣習・特定電子メール法・個情法とも齟齬が大きく、ローカル競合（Sales Marker、SalesNow、FORCAS）が「Web検索シグナル＋国内法人DB＋商談化アシスタント」というよりコンプライアントな代替を既に提供している。海外向け営業をする一部の日本企業向けに英語UIのまま使われるニッチは存在するが、自社プロダクトとして日本市場を狙うのは合理性が低い。",
+    "japan_fit_score_calc_note": "demand5*0.30+competition5*0.25+regulation3*0.20+localization4*0.15+business_custom4*0.10=1.5+1.25+0.6+0.6+0.4=4.35→4"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "freemium＋月額の王道モデルでLTVは取りやすいが、Gro本家がfree〜$14と価格を下げて顧客獲得を急ぐ構造。LinkedIn凍結リスクで解約率が高まる構造を持つ。日本ARPUは1ユーザー5,000-10,000円が現実線で、エンタープライズ単価は伸ばしにくい。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内のLinkedIn本格運用法人は1万社未満と推定（500万MAU/社内意思決定者比率/法人比率から逆算）。海外営業をする日本企業に絞ると数千社規模。インテント・ABM全体は1兆円市場だが、本プロダクトのリーチャブルは狭い。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "国内顧客に響くチャネルが限定的。LinkedIn上のソーシャルセリング訴求は対象母集団が小さく、X/Wantedly/勉強会経由が必要。コンプラ懸念で広告審査も通りにくい。海外向け営業を狙う日本企業を捕まえるには英語コンテンツ＋日本語サポートの両輪が要る。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "国内インテントセールスのバズと、日本のLinkedIn登録者500万人突破というタイミングは追い風。一方でLinkedInのプラットフォーム規制強化、生成AI自動発信に対する規約厳格化も進行中で、3年以内に自動化系ツールが軒並み制限される下振れもある。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "コンタクトDB保守、LinkedIn APIや非公式取得経路の維持、文面LLMコスト、CSサポート、法務対応、アカウント凍結のリカバリ運用と、個人開発ではほぼ運用不可能。最低限フロント＋データ基盤＋法務の3人体制が必要。"
+      }
+    },
+    "rationale": "総合business_viability_scoreは4で、個人開発・小規模チーム視点では推奨度低。第一にプロダクトの粗利は出るが、LinkedIn依存度100%のためプラットフォームリスクが事業の存立を左右し、ARRが積み上がるほど凍結時の解約ドミノが事業を直撃する。第二に、リーチャブル市場は国内では数千〜1万社程度と狭く、ARPU月8,000円と仮定しても市場上限は数十億円規模に留まる。第三に、GTMで広告審査・パートナー連携が通りにくく、コミュニティドリブンで地道に積み上げる必要があるが、個人開発者には時間と専門性のリソースが不足する。第四に、ソロ運用適性が極めて低く、データパイプライン、AI推論コスト、規約リスクハンドリング、CSが常時必要で個人開発者の継続性を脅かす。総じて、本家Groが米国を本拠地としてベンチャーキャピタル調達でスケールするモデルであるのは合理的で、日本ローカル版を個人開発でやる経済合理性は乏しい。代替アプローチとして「LinkedInに依存しない国内シグナル源（X、IR、求人、技術ブログ）＋人手承認フロー」のミクロ特化なら個人でも勝負余地が残るが、本プロダクトのコピーは推奨できない。",
+    "business_viability_score_calc_note": "monetization5*0.25+market_size4*0.20+gtm4*0.25+timing6*0.10+solo_ops3*0.20=1.25+0.80+1.00+0.60+0.60=4.25→4"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 8000,
+      "plans": [
+        "Free: 検索クエリ月20件、監視リスト10件、手動アクションのみ。LinkedInアカウント凍結リスクを明示し、自動送信は無効。アクセシビリティを担保し製品教育の入口に位置付ける。",
+        "Starter 月3,000円: 監視リスト50件、AIによる文面ドラフト生成は無制限、送信は手動承認のみ。個人セラーやスタートアップのファウンダーセールス向け。",
+        "Pro 月8,000円: 監視500件、シグナル定義カスタム、CRM連携（HubSpot/Salesforce）、Slack通知。SDR1名分のワークフローを置換える設定。本ティアがARPU想定。",
+        "Team 月25,000円〜（3席パック）: チーム共有CRM、承認フロー、SLA、専任オンボーディング。営業組織5-20名のスタートアップ向け。",
+        "Enterprise 要見積（月10万円〜）: SSO、監査ログ、データレジデンシー、ベンダーリスク評価対応。法務通過しやすい構成にするのが鍵。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "海外（北米・EU・APAC）顧客を獲得したい日本本社のB2B SaaS、開発受託、人材エージェンシー、グローバル人材スカウト事業者。社員30-300名規模で、LinkedInを正規ライセンス（Sales Navigator等）で運用済みのチーム。",
+      "target_count": 4000,
+      "capture_pct_year3": 2.5,
+      "monthly_revenue_target_jpy": 800000
+    },
+    "recommended_gtm": [
+      "海外向け営業を実践する国内スタートアップが集まるコミュニティ（FoundX、海外進出系勉強会、JETROイベント）でケーススタディを共有しリード獲得",
+      "Sales NavigatorやWantedly、Eightと共存する「シグナル監視＋人手承認」ポジションでブログ・noteを月8本配信し検索流入を取りに行く",
+      "海外向けBPO・営業代行事業者とのレベニューシェア型パートナーシップで顧客導入実績を作る",
+      "X（旧Twitter）の海外営業クラスタに対し、LinkedInベストプラクティス系の英語/日本語ハイブリッドコンテンツでファネル化",
+      "AI Sales Agent特集系のメディア・ポッドキャストに登壇し、コンプラ重視の差別化メッセージで信頼獲得",
+      "ITreview・BOXIL等のレビューサイトに登録し評価記事を蓄積、検討顧客の比較段階で接触機会を増やす"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "LinkedIn利用規約違反による自社アカウント・顧客アカウントの永久凍結。プラットフォーム1社の方針転換でサービス継続不能になるシングルポイント障害で、事業継続性に致命的。",
+      "改正個情法・特定電子メール法・電気通信事業法の運用厳格化。スクレイピング由来のコンタクトDBや自動DMが摘発対象になれば、法人最大3,000万円の罰金や行政指導でブランド毀損。",
+      "ローカル競合（Sales Marker、SalesNow、FORCAS）が国内法人DB＋AIエージェントで「コンプラ安全＋日本語ネイティブ」の優位を確立済み。Web行動シグナルへ流れる顧客を奪い返すのは困難。",
+      "生成AIによる自動文面が「いかにも自動化」と見抜かれ返信率が悪化、顧客が解約。LLMコストも比例増加し、ARPUを上回り粗利が消える。LinkedInの返信率は飽和でジリ貧。",
+      "個人開発体制ではDB更新、規約変更追随、CS、法務、データセキュリティ監査を回せず、エンタープライズ契約が一切取れないまま小規模スタートアップ依存になり、ARRが頭打ちになるリスク。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

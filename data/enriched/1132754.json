@@ -1,0 +1,239 @@
+{
+  "name": "Postiz",
+  "description": "Agentic social media scheduler for agents like OpenClaw",
+  "ph_url": "https://www.producthunt.com/products/postiz/launches/postiz-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/DTE56DREXBP3M6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-01T07:01:00Z",
+  "upvotes": 560,
+  "comments": 57,
+  "topics": [
+    "Social Media",
+    "Marketing automation",
+    "Social media marketing"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi People!</p><p>Happy to launch Postiz again for the 4th time 🤯</p><p>Since our last launch, Postiz has changed A LOT.</p><p>We are no longer a social media scheduling tool - we are now an agentic scheduler.</p><p>That means you can bring your personal assistant and schedule a post for 30+ social networks in one go.</p><p>You can literally build a full calendar of content in one go.</p><p>The fun part is Postiz CLI, because you can connect it with your personal tools.</p><ul><li><p>Use a tool for research</p></li><li><p>Use a tool to generate slideshows</p></li><li><p>Schedule thousands of posts to TikTok / Instagram / LinkedIn etc in one go</p></li></ul><p>Give Postiz a try! it's free for 7 days!</p>",
+      "votesCount": 24,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Been using postiz since before the agentic days and I have to say it’s one hell of a tool. </p><p></p><p>But aside from that, the founder is super supportive and available and the team he’s onboarded (not sure if human or agents or a mix) are amazing and active and give great relevant and timely answers </p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Setting up social presence right now for a SaaS launch and realizing how much of \"scheduling\" is actually decisions about what NOT to post. Curious what your default cadence suggestion looks like for solo founders with no audience yet?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Connect Postiz to your personal AI Agent, such as OpenClaw / Claude / nanoclaw / PaperClip, and schedule thousands of social media posts to 30+ Social media networks in one go. You can either install the Postiz SKILL and use the Postiz CLI, or use the Postiz MCP and connect it to a remote server; any connection use case is supported.",
+  "featured_at": "2026-05-01T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/ca5dbb32-5827-4432-bbbd-6d539429940d.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4d3b4503-753e-46a4-a8a3-0dfe228def9d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/56c45fd2-1a5a-4b09-b7aa-e20e1a6ccce9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0979f7b7-6859-48c9-a0aa-81340510bbfd.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/aa7a5add-ce5e-4830-8998-dd1137aca688.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/8c2a0fd1-c047-48ae-ae96-a190362da33a.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:26",
+  "landing_meta": "Postiz: The All-in-One agentic social media scheduling tool — Streamline your social media with Postiz. Schedule posts, analyze performance, and manage all accounts in one place.",
+  "landing_text": "Postiz: The All-in-One agentic social media scheduling tool NEW: Generate UGC video with your OpenClaw 🦞, Check agent-media AI Agents CLI (OpenClaw) Dev Docs Channels Facebook Instagram Threads Linkedin Bluesky X TikTok YouTube Google My Business Reddit Telegram Discord Slack Pinterest Dribbble Mastodon Whop Twitch Skool Kick Warpcast Vk Lemmy MeWe Nostr Listmonk WordPress Medium Hashnode Dev.to Facebook Instagram Threads Linkedin Bluesky X TikTok YouTube Google My Business Reddit Telegram Discord Slack Pinterest Dribbble Mastodon Whop Twitch Skool Kick Warpcast Vk Lemmy MeWe Nostr Listmonk WordPress Medium Hashnode Dev.to Back News Blog Pricing Log In Start for $0 Run your social media on autopilot with AI agents Plan, generate, and schedule posts automatically to 30+ social media networks — then review and edit everything in a visual calendar. Bring your OpenClaw / Hermes / Claude Start a 7-day trial for $0 I need agentic scheduling I need normal scheduling Discord Support Trusted by customers all over the world Who is Postiz for? Agentic Prompt Postiz from Claude, ChatGPT, Codex, or OpenClaw — they drive Postiz through our CLI and MCP server to draft and schedule your posts. Developers Build your own posting app on top of Postiz — OAuth2, SDK, and public API let your users connect once and publish everywhere. Automation Teams Wire social media automation into n8n or Make.com and let your workflows draft, approve, and publish across every channel. See Postiz in Action Watch how Postiz can transform your social media workflow Power Your Content with AI and Automation Via ChatGPT Generate and refine social media posts using ChatGPT with simple prompts. Via OpenClaw Automate content creation and scheduling through Telegram with simple workflows. Via Claude Code Create and schedule posts directly from your terminal using Claude Code. Automate everything Postiz helps you automate your social media marketing using a Public API, n8n, Make.com or Zapier. All the tools req",
+  "pricing_signals": [
+    "open-source",
+    "self-hosted",
+    "pricing",
+    "$0",
+    "$29/mo",
+    "$39/mo",
+    "$49/mo",
+    "$99/mo"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:27",
+  "description_ja": "AIエージェント連携で30以上のSNSへ一括予約投稿できるオープンソース型管理ツール",
+  "summary_ja": "PostizはClaudeやOpenClawなどAIエージェントからCLI/MCP経由で操作できるエージェント型SNSスケジューラ。30以上のチャネルにまとめて予約投稿し、ビジュアルカレンダーで編集できる。OSS版は無償セルフホスト、SaaS版は$29-$99/月。",
+  "tldr_ja": "AIエージェントから30+SNSへ一括投稿。OSSセルフホストとSaaSの両建てで開発者向け自動化基盤を狙う製品。",
+  "review_guide_ja": {
+    "what": "Postizは「エージェント型ソーシャルメディアスケジューラ」を標榜するOSS兼SaaS。X、Instagram、TikTok、YouTube、LinkedIn、Threads、Bluesky、Reddit、TelegramなどFB系・Web3系含む30以上のチャネルへ予約投稿でき、ビジュアルカレンダーで一覧編集が可能。差別化は2つあり、(1)Postiz CLIとMCPサーバを公開しており、Claude Code/ChatGPT/Codex/OpenClawといったエージェントから自然言語で投稿生成・スケジュールを駆動できる、(2)AGPL-3.0のOSSとしてセルフホスト可能で、Docker/Kubernetes/PM2デプロイに対応。SaaSは$29/$39/$49/$99の4階層、n8n・Make・Zapier連携、OAuth2/SDK/Public APIで自社アプリへの組込みも可能。Product Hunt 4度目のローンチで560 upvote、過去ローンチからエージェント主体への大幅ピボットを実施。",
+    "for_who": "(1)Claude CodeやOpenClawを日常使うAIネイティブな個人開発者・SaaS創業者で、SNS運用をエージェント任せにしたい層、(2)複数クライアントを抱え多チャネル投稿を自動化したいSNS代理店・automation teams、(3)OSSを自社サーバで運用しデータ主権を確保したい中堅企業や受託開発者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "30+SNSのOAuth/API実装と長期メンテ、AIエージェント連携(CLI/MCP)、n8n/Make/Zapier統合まで含めると単独実装は重い。プラットフォーム規約追従コストも継続発生する。"
+    },
+    "signals": [
+      "Product Hunt 4回目ローンチで560 upvote/57コメントと再ピボット後も支持を維持",
+      "OSS(AGPL-3.0)とSaaS両建てで開発者コミュニティが既に存在",
+      "Claude Code/ChatGPT/MCPなどエージェント側のエコシステム拡大と同調",
+      "30+対応チャネルにBluesky/Nostr/Warpcast等Web3系も含み広範",
+      "n8n/Make/Zapier/OAuth2 SDK公開で自動化チームの組込み需要を取り込み"
+    ],
+    "concerns": [
+      "X/TikTokは自動投稿・スパム検知が厳格化しており、エージェント大量生成投稿はBANリスク",
+      "競合(Buffer/Hootsuite/Statusbrew/SocialDog/コムニコ)が成熟",
+      "LINE公式・Ameba等日本特化チャネル非対応で国内toB訴求が弱い",
+      "AGPL-3.0なのでクラウド転売SaaSが乱立し価格圧力が掛かりやすい",
+      "AIエージェント文化が浸透していない国内非IT層には学習コストが高い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内SNSマーケ市場は2024年で1.2兆円、2029年に2.1兆円見込みと拡大基調。SocialDogが100万アカウント突破するなど予約投稿需要は確実。ただし『AIエージェントから操作』という訴求軸はまだ国内では先進ユーザー層に限定的。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国産SocialDog(国内No.1、LINE/X/IG/TikTok対応)、Statusbrew日本語版(LINE対応)、コムニコマーケティングスイート(3500アカウント実績)、Buffer等が成熟。日本語UI・LINE・国産サポートの3点で先行勢が強固。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "国内独自の法令制約は薄いが、X/TikTokのプラットフォーム規約でbot・大量自動投稿が禁止され、エージェント主導の量産投稿はアカウント凍結リスク。景表法・薬機法等のコンテンツ規制も日本特有の運用配慮が必要。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "公式に日本語UI・日本語サポート未提供。日本市場の主力チャネルであるLINE公式アカウント・アメブロ等への対応もなく、国内中小・toB層への訴求面で実装ギャップが大きい。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "国内toBは日本語請求書・国内銀行振込・電話サポート・代理店ルートを求める傾向が強い。OSS+海外SaaSモデルでは中堅以上の企業導入が難しく、リテラシー高いスタートアップ・個人開発者層に限定される。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "SocialDog",
+        "url": "https://social-dog.net/ja/",
+        "note": "国産SNS管理No.1、登録100万アカウント、X/IG/Threads/FB/YT/TikTok/LINE対応、無料プランあり"
+      },
+      {
+        "name": "Statusbrew(日本語版)",
+        "url": "https://statusbrew.co.jp/",
+        "note": "月額¥12,800〜、LINE/WhatsApp含む12種SNS対応、完全日本語UI・日本語サポート"
+      },
+      {
+        "name": "コムニコ マーケティングスイート",
+        "url": "https://www.comnico.jp/we-love-social/sns-kanritool",
+        "note": "国産toB、累計3500アカウント導入、AI投稿アシスタント搭載、初期10万・月5-8万円"
+      },
+      {
+        "name": "Buffer(日本利用)",
+        "url": "https://buffer.com/",
+        "note": "$6/プロフィール〜、無料3チャネル、日本でも個人・小規模に普及"
+      },
+      {
+        "name": "Hootsuite",
+        "url": "https://www.hootsuite.com/",
+        "note": "エンタープライズ年額$16k-$18k、大手中心、日本語サポート限定"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "X(Twitter)プラットフォームルール",
+        "impact": "自動化・bot・スパム的大量投稿は凍結対象。エージェント経由の量産投稿は要レート制御。"
+      },
+      {
+        "law": "TikTokコミュニティガイドライン(2025改定)",
+        "impact": "AI生成コンテンツ・商業投稿表示義務、bot/スクリプトでの大量自動操作は禁止"
+      },
+      {
+        "law": "景品表示法・薬機法",
+        "impact": "ステマ規制(2023施行)で広告表示義務、健康・美容投稿は薬機法該当性チェック必要"
+      }
+    ],
+    "opportunity": "国内では『Claude CodeやChatGPTから直接SNS投稿を組み立てる』ワークフローを使いこなす個人開発者・1人SaaS創業者・AIネイティブな代理店という極めて細いセグメントに勝機がある。特にBluesky/Threads/Mastodon/X横断で技術系発信を行うインディーハッカー層、note/Zenn記事と連動した自動配信を求めるテック発信者は数千〜数万規模存在し、月額3-5千円の中位プランで親和性が高い。さらにn8n/Make経由でクライアントSNS運用を自動化したい小規模代理店もLTV高い候補。OSS版を入口にClaude Code Skillとして配布することで日本のAI開発者コミュニティへの浸透余地はある。",
+    "rationale": "demand=6: 国内SNSマーケ市場1.2兆円・SocialDog 100万アカウントと予約投稿需要は確実だがエージェント連携訴求は先進層限定。competition=4: SocialDog/Statusbrew日本語版/コムニコ等が日本語UI・LINE・国内決済で強固に守備。regulation=5: 法令面の独自規制は薄いがX/TikTok規約でエージェント量産投稿が制裁対象になりやすい。localization=3: 日本語UIなし・LINE/Ameba等国内主力SNS非対応で国内訴求の中核を欠く。business_custom=4: 国産請求書・電話サポート・代理店流通が標準の日本toBに海外OSS+SaaSは適合度低。加重合計は6×0.30+4×0.25+5×0.20+3×0.15+4×0.10=4.65で四捨五入5=skip。日本市場全体としては既存プレイヤーに対する競争力に乏しく、参入よりはAIエージェント連携機能だけを抜き出した派生プロダクトを国内競合に組み込む方が現実的。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "$29-$99/月の階層SaaSにOSS無料版を併設するモデルで上澄み収益化は可能。ただしAGPL-3.0でセルフホスト勢を作りやすく、CLI/MCP連携部分にプロプライエタリ価値を積み上げないと価格防衛が弱い。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内SNSマーケ市場1.2兆円は大きいが、日本語UI/LINE非対応のためリーチ可能な国内開発者・代理店は数千〜数万単位。グローバル含めば桁が変わるが日本単独では中規模。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "国内では既存ツール(SocialDog/コムニコ)が代理店・SEO・展示会で先行。Postizの強みは英語圏OSSコミュニティ・PH発信であり、日本語SEO/比較サイト/法人営業ルートが弱く国内獲得効率が低い。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "Claude Code/MCP/AIエージェントの普及波が立ち上がり、CLIから操作するSaaSが受け入れられ始めた時期。2026年は『エージェントからSaaSを動かす』UXの黎明期で先行優位を取りやすい。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "30+SNSのAPI追従・OAuth更新・規約変更対応、AIエージェント連携の継続メンテは個人開発では極めて重い。サポート・課金・インフラ運用も含め1名運用は困難でチーム化必須。"
+      }
+    },
+    "rationale": "monetization=6: SaaS階層は王道だがOSS転売で価格防衛弱、CLI/MCP連携の独自価値が必要。market_size=5: 国内のみだと中規模、グローバル前提で初めて成立。gtm=4: 日本語SEO/代理店ネットワーク不足で国内獲得難。timing=7: AIエージェント×SNS自動化はまさに離陸期で参入タイミングは良い。solo_ops=3: 多SNS API追従+規約対応+AIエコシステム追従は単独運用不可能なレベル。加重合計は6×0.25+5×0.20+4×0.25+7×0.10+3×0.20=1.5+1.0+1.0+0.7+0.6=4.8で四捨五入5。本家Postizをそのまま日本展開するより、日本の個人開発者は『Claude Code Skill経由で操作できる国産軽量スケジューラ』をニッチに作る方が継続可能。多SNS全面対応は捨て、X+Bluesky+Threads+LinkedInなど技術発信者向け5チャネルに絞り、Notion/Obsidianからの連携をフックにする戦略が現実的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2800,
+      "plans": [
+        "Free: 3チャネル/月20件まで、CLI連携1ツール、Claude Code Skill同梱。試用フックとし開発者コミュニティで配布する。",
+        "Hacker ¥1,480/月: 5チャネル/月100件、MCPサーバ連携、Bluesky/Threads/X/LinkedIn/note対応、個人インディーハッカー向け中心プラン。",
+        "Pro ¥3,800/月: 10チャネル/月500件、AIエージェント無制限、n8n/Make連携、画像生成枠付与、SaaS発信者・小規模代理店ターゲット。",
+        "Agency ¥9,800/月: 30チャネル/無制限投稿、複数ワークスペース、クライアント招待、月次レポート、SNS運用代行業向け。",
+        "Self-host: OSS無料(AGPL-3.0)+商用サポート¥30,000/月オプション。データ主権求める中堅向け収益化補助。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Claude Code/ChatGPT/CursorなどAIエージェント常用の国内個人開発者・1人SaaS創業者・小規模SNS代理店・テック発信者(Zenn/note執筆者)・Bluesky/Threadsを併用するクリエイター。年間SNS運用に¥3万〜¥10万を割ける層。",
+      "target_count": 50000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 2100000
+    },
+    "recommended_gtm": [
+      "Claude Code Skill/MCPサーバとしてOSS配布し、日本のAI開発者コミュニティ(Zenn/Qiita/Twitter)で技術発信ハブを獲得する。",
+      "Bluesky/Threads/X向けクロスポストツールとして個人開発者・テックインフルエンサーにアンバサダー配布、事例記事を量産。",
+      "n8n/Make/Zapierの日本コミュニティに統合テンプレを提供し、自動化案件の現場から逆引き流入を作る。",
+      "noteクリエイター・Zenn執筆者向けに『記事公開→SNS自動投稿』テンプレを配布、コンテンツ起点で導線を作る。",
+      "小規模SNS代理店向けにホワイトラベル相当のワークスペース機能を訴求、月額1万円台で代行業務効率化を提案。"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "X/TikTok等プラットフォーム側の自動投稿規制強化やAPI料金変更で根幹機能が停止/コスト爆発するリスク。常時2-3チャネルがAPI仕様変更を実施し追従工数が消えない。",
+      "国産SocialDog(100万アカウント)/Statusbrew/コムニコが日本語UI・LINE対応・国内サポートで既に深く浸透しており、後発が日本語/LINE非対応のまま参入しても獲得CPAが高止まりする。",
+      "AGPL-3.0のため海外でセルフホストSaaSを安価転売する事業者が出現しやすく、ARPU下落圧力。CLI/MCP・カレンダー編集等の独自UI価値で差別化し続ける必要。",
+      "AIエージェント大量投稿でアカウント凍結が連鎖した場合、ブランド毀損と返金対応が一気に発生する。レート制限・違反検知ロジックを早期に実装しないと事業継続が困難。",
+      "30+SNSの長期API/OAuthメンテ・規約追従・ステマ規制等のコンテンツ規制対応は1人運用では破綻する。早期にチーム化資金確保かスコープ縮小判断が必要。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

@@ -1,0 +1,226 @@
+{
+  "name": "Minions",
+  "description": "Open source mission control for Hermes agent",
+  "ph_url": "https://www.producthunt.com/products/minions/launches/minions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/AW7QWKE3MQG5QD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-08T07:01:00Z",
+  "upvotes": 339,
+  "comments": 23,
+  "topics": [
+    "Open Source",
+    "GitHub",
+    "YC Application"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt, I’m Vishnu, maker of Minions.</p><p></p><p>I built this after watching Hermes/OpenClaw power users hit the same wall: one agent task works great, but 10–50 long-running tasks become operations work.</p><p></p><p>The core idea is <strong>heartbeat supervision</strong>: every in-progress task gets periodic check-ins where the agent is asked to make progress, retry with a different approach if stuck, and only escalate to you when it has genuinely exhausted alternatives. Blocked tasks surface automatically. Completed work moves to your review queue. </p><p></p><p>Minions is an open-source mission control layer for agentic harnesses starting with Hermes Agent.</p><p></p><p>What it does today:</p><p>&nbsp; - Create and manage Hermes tasks from one board</p><p>&nbsp; - Track work across in progress, needs help, ready for review, and done</p><p>&nbsp; - Run heartbeat check-ins so stuck work surfaces automatically</p><p>&nbsp; - Stream agent work live while it runs</p><p>&nbsp; - Keep humans in the loop before anything is marked done</p><p>&nbsp; - See scheduled job history and output</p><p>&nbsp; - Run locally with SQLite, no account required</p><p></p><p>This is the local/open-source version of the agent management layer we’re building at Agent37. Hosted access opensMay 10, but Minions is usable locally today.</p><p></p><p>I’d especially love feedback from people running Hermes or OpenClaw agents. Where does your agent work break once you have more than one task running?</p>",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch! It’s always refreshing to see makers ship something practical with a polished first impression. Interested to see how the community uses it.</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "If someone is currently managing Hermes/OpenClaw work with a mix of terminal tabs + scripts + chat (Slack/Telegram), what’s the specific breaking point where switching to Minions becomes a no-brainer—and what does the first week of migration typically look like?",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Your Hermes Agent works great for one task. Try managing 20 in parallel? It's chaos. Cron jobs fail silently, tasks are blocked and you're spending more time fixing your agent than getting results. Minions gives you a single task board to view it all. Every running task gets periodic check-ins, retry if stuck, and escalate only when it's genuinely exhausted alternatives Works with Hermes Agent today, more runtimes coming.",
+  "featured_at": "2026-05-08T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/b8a5b01b-75e3-487b-807f-c3dff615cad4.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a38598ec-1cf3-4024-960a-fa36608f4d13.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/28f55b4c-8c53-4ac6-8d1a-8c481a0f2352.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/772342d0-8497-45b2-8f23-cd7b9e29b2e9.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/406c8e48-e357-4154-93e2-b0cb40d4b6f7.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bdbc9483-89e1-4f68-9707-3f6aebd664b7.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/c32b0a60-a228-4624-9faa-717c7e82ae9b.gif"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:33:16",
+  "landing_meta": "GitHub - Agent-3-7/minions at producthunt · GitHub — Mission Control for your OpenClaw/Hermes agents. Contribute to Agent-3-7/minions development by creating an account on GitHub.",
+  "landing_text": "GitHub - Agent-3-7/minions at producthunt · GitHub Skip to content You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert Agent-3-7 / minions Public Notifications You must be signed in to change notification settings Fork 55 Star 583 main Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 100 Commits 100 Commits bin bin client client demo demo screenshots screenshots server server shared shared .env.example .env.example .gitignore .gitignore CLAUDE.md CLAUDE.md Development.md Development.md LICENSE LICENSE README.md README.md package-lock.json package-lock.json package.json package.json View all files Repository files navigation Minions Mission Control for Hermes Agent Hermes Agent is powerful, but running real work on it means juggling terminal sessions, losing track of which job finished, and manually checking on long-running tasks. The more you delegate, the harder it gets to manage. Minions gives you one screen to create, supervise, and review autonomous Hermes Agent work. Hosted access option on Agent37 . Screenshots Quick Start Prerequisites: Node.js 18+ and Hermes Agent npx minionsai Open http://localhost:6969 . Local sqllite db is created on first run and state lives in ~/.minions/ Check the installed version: minions --version npm view minionsai version The Settings page also shows the version of the running Minions server. Features Kanban board : see every task at a glance: in progress, in review, done Autonomous execution : describe what you want in chat, walk away; the agent decides how to get it done Automatic review queue : successful agent runs move cards to ready for review Live streaming : watch tool calls, reasoning, and responses in real time Human-in-the-loop : agents propose ",
+  "pricing_signals": [
+    "open source",
+    "subscription",
+    "pricing",
+    "premium"
+  ],
+  "landing_fetched_at": "2026-05-24T20:33:17",
+  "description_ja": "Hermes Agent向けのOSSミッションコントロール。複数の長時間稼働タスクをカンバンで一元管理し、ハートビート監視で詰まりを自動検知する。",
+  "summary_ja": "Hermes Agentを20件並列で動かすと運用負荷で破綻する課題に対し、Minionsはカンバン型タスクボード+ハートビートチェックイン+人間レビューキューを提供。SQLiteベースでローカル実行可能、Agent37のホスト版も並行展開。OpenClaw対応がロードマップ次の優先項目。Hermes/OpenClawヘビーユーザー向けエージェント運用層という明確な立ち位置。",
+  "tldr_ja": "Hermes Agentを並列大量運用する開発者向けに、ハートビート監視付きカンバン型タスクボードをOSSで提供する運用レイヤー",
+  "review_guide_ja": {
+    "what": "Hermes AgentやOpenClawなど自律型コーディングエージェントを多数並列で走らせる際の運用層。カンバン(in progress/needs help/ready for review/done)とハートビート定期チェックイン、ライブストリーム、ヒューマンインザループ承認、スケジュール実行履歴を持つ。Node.js 18+とSQLiteで`npx minionsai`から起動でき、~/.minions/に状態を保持する完全ローカルOSS。Agent37というホスト版SaaSが本体ビジネス。",
+    "for_who": "Hermes Agent/OpenClawを業務で常時稼働させる個人開発者および小規模AI受託・スタートアップのCTO、特に5-50タスク同時実行で運用破綻している層",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "Node+SQLiteのカンバンUI+定期ポーリングという構成は技術難度が低く、Vibe Kanban等の先行類似OSSも複数存在し模倣容易"
+    },
+    "signals": [
+      "PH上で初日23コメント339upvoteと小ロンチながらコメント密度が高い",
+      "GitHub Star 583/Fork 55(ローンチ直後としては健全)",
+      "競合のVibe Kanbanは日本でnote記事・Udemy講座が複数出るほど注目",
+      "Hermes Agent自体が95k★/7週というハイペースで普及中",
+      "YC Applicationトピック付き=本気の事業化志向"
+    ],
+    "concerns": [
+      "Hermes/OpenClaw両方のAPI破壊的変更にロックインされる脆さ",
+      "OSSはローカル無料、収益はAgent37ホスト版頼みで二重開発負荷",
+      "Claude Code/Codex CLI/Gemini CLIに広くハマるVibe Kanban等に対し対象runtimeが狭い",
+      "ハートビート監視はLLM呼び出しコスト増(ユーザー側の財布)",
+      "ClawHubで341件の悪性Skillが出たエコシステムを束ねる責任"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "日本でもAIコーディングエージェント採用率は78%、Vibe Kanban関連の日本語記事・Udemy講座も増加中で並列管理ニーズはある。ただしHermes Agent/OpenClawの国内利用は限定的で、主流はClaude Code/Cursor/Cline"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Vibe Kanban、Cline CLI(カンバンモード)、agent-kanban、parallel-code、builderz-labs/mission-controlなどOSS競合が乱立。Claude Code対応の方が日本では刺さるためrunner選択で差別化困難"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "ローカル実行+SQLiteで個人情報保護法上のリスクは低い。ホスト版に進むと監査ログ・データ越境の懸念が出るが個人開発者向けOSS範疇では問題薄い"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UIは英語想定、Hermes Agentの日本語ドキュメント自体が限られる。日本市場で広げるにはClaude Code対応とUI日本語化、note/Zenn等の日本語コンテンツ整備が必要"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のチーム開発はSlack+GitHub+Jira/Backlogが標準。SQLiteローカル限定は社内利用で承認取りづらく、SSO/監査ログがないとエンタープライズ展開不可"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Vibe Kanban",
+        "url": "https://vibekanban.com/",
+        "note": "日本語note記事・Udemy講座あり。Claude Code/Codex/Gemini CLI対応で日本では本命扱い"
+      },
+      {
+        "name": "Cline CLI (Kanban mode)",
+        "url": "https://cline.bot/cli",
+        "note": "git worktreeで並列分離、Claude Code連携。日本コミュニティで人気"
+      },
+      {
+        "name": "agent-kanban (saltbo)",
+        "url": "https://github.com/saltbo/agent-kanban",
+        "note": "leader-worker型、Claude Code/Codex/Gemini CLI対応OSS"
+      },
+      {
+        "name": "GitHub Agent HQ",
+        "note": "2026早期にCopilot加入者へロールアウト、日本でもCopilotユーザーが標準採用見込み"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "ローカルSQLite運用なら影響軽微。Agent37ホスト版で日本顧客のソース・対話を国外保管する場合は越境移転同意・利用目的明示が必要"
+      },
+      {
+        "law": "下請法・労働者派遣法(受託開発文脈)",
+        "impact": "受託開発企業が顧客コードをエージェントに渡す場合の秘密保持義務に抵触しうるため監査ログが事実上必須"
+      }
+    ],
+    "opportunity": "Claude Code/Cursor主流の日本市場向けに、Hermes/OpenClawではなくClaude Code+Cline+Codex CLI対応のカンバン管理ツールを、note/Zenn上で日本語コンテンツ厚めに展開する派生形ならチャンス。SSO・監査ログを最初から備え、Backlog/Slack通知連携を入れて受託開発SIerと小規模SaaS企業に売る方向が現実的",
+    "rationale": "本家MinionsをそのままJP展開するのは(1)Hermes/OpenClawの国内ユーザーが薄い(2)Vibe Kanban等の先行OSSが既に日本コミュニティを獲得(3)UI/ドキュメントが英語のみ、という三重苦で勝ち目薄い。ただし並列エージェント運用の課題自体は日本でも実在し、Claude Code軸での派生実装と日本特有のSSO/監査要件対応をすれば差別化余地は残る。OSS本体ではなくAgent37型ホスト課金SaaSが現実的なマネタイズ"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "OSSは無料、収益はAgent37ホスト版頼み。個人開発者は自分でホストしがちでホスト版ARPUは月$15-30(2,250-4,500円)程度が天井。並列実行のLLMコスト負担も加わり財布の取り合いが厳しい"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "日本のITエンジニア144万人のうちAIコーディングエージェントを5タスク以上並列運用する層は1-2%(1.4-2.8万人)に絞られ、Hermes/OpenClaw限定だと数千人規模まで縮小"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "OSS+PHでの開発者直販モデル。Hermes Agent本体ユーザー基盤に乗れる反面、日本ではHermes自体の認知が薄くnote/Zenn/X発信から地道に積む必要"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "AIエージェント並列運用がまさに現場の痛点になる時期、GitHub Agent HQも2026早期展開で市場意識が高まる絶妙なタイミング。ただし窓は12-18ヶ月で大手プラットフォームに飲まれるリスク"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "Node+SQLiteのシンプル構成は個人継続可能だが、Hermes/OpenClaw両方のAPI追従+ホスト版運用+OSSコミュニティ対応で実質フルタイム必要。完全ソロは厳しい"
+      }
+    },
+    "rationale": "並列エージェント運用の痛点は本物で、タイミングも良いが、(1)対象runtimeをHermes/OpenClawに絞ったことで日本ではTAMが極小(2)Vibe Kanban等の競合が既に先行(3)OSS無料モデルとホスト版SaaSの二段構えで開発負荷が高い(4)LLMコストが顧客財布を圧迫し月額の天井が低い。本家の海外展開は成立しても、日本でのコピー事業は時間窓内に十分なARPU×顧客数を取れない可能性が高い"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2500,
+      "plans": [
+        "OSS Local: 無料(SQLite/単一ユーザー)",
+        "Cloud Solo: 月額1,980円(ホスト+10並列+履歴30日)",
+        "Cloud Team: 月額4,980円/シート(SSO+監査ログ+Backlog/Slack連携)",
+        "Enterprise: 月額29,800円〜(オンプレ/専有環境+SLA)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Claude Code/Cline/Codex CLIを業務で並列運用する個人開発者・小規模AI受託・SaaSスタートアップのエンジニア",
+      "target_count": 20000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 750000
+    },
+    "recommended_gtm": [
+      "note/Zenn/Qiitaで『Claude Code並列運用カンバン』系の日本語記事を週次連載",
+      "X(旧Twitter)で個人開発者インフルエンサーへ早期アクセス配布",
+      "Vibe Kanbanからの乗り換えガイド+移行スクリプトを公開",
+      "Backlog/Slack/Notion通知連携を最初に実装しSIer受託層に訴求",
+      "技術書典・AI Agent Meetupでデモ+ハンズオン"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "GitHub Agent HQ/Cursor純正カンバンが標準機能化し無料化される",
+      "Hermes/OpenClaw双方のAPI破壊的変更で工数の半分が追従に消える",
+      "Vibe Kanbanが先にClaude Code日本市場を固めシェア取れない",
+      "並列実行でLLMコストが膨らみ顧客の月額予算がLLM側に流れる",
+      "OSSコミュニティ運用とホスト版SaaS開発の二重負荷で個人継続困難"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 4,
+  "japan_fit_evaluated_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0"
+}

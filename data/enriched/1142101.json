@@ -1,0 +1,228 @@
+{
+  "name": "Jotform Claude App",
+  "description": "Build, edit, and analyze forms directly in Claude",
+  "ph_url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/DJ3HA5PIVDFYRP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-12T07:01:00Z",
+  "upvotes": 259,
+  "comments": 12,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "No-Code"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋\n\nI’m happy to announce the Jotform Claude App! \n\nWe built this to simplify how forms are created and managed.\n\nUsually, you have to build forms step by step, then switch to other views or tools to test them and understand the responses.\n\nWith this, you can do all of that in one place by just describing what you need: create forms, edit them, run test submissions, and look at results.\n\nWould be great to hear how you end up using it.",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The \"copy any design\" angle is bold how does it handle dynamic or interaction-heavy sites? Curious if it captures animations and hover states or mostly static layout. </p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>while the idea is nice, and jotform itself is great, I don't realize how you come up with this need. <br>Were users asking for working directly in claude or is just a new distribution channel?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Build, edit, and analyze forms directly inside Claude using simple conversations. Create forms, edit fields, add logic, search submissions, and get insights, all by describing what you want. No manual setup or switching tools.",
+  "featured_at": "2026-05-12T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/05750b4e-0690-45c4-8068-8f032452a745.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ba85d9be-bcef-433a-b620-5ee0149b3dfd.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/57b71aeb-618c-4a30-8fd1-8f660e0c8675.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/93130f2a-597e-4b36-9b78-7d9a9e18129b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3ba5364e-3f64-4392-9303-33822b6affc7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/413df41b-1dff-43c3-9bee-8641988a9aed.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1f120eec-b785-4808-ab16-f970268ab30a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a3bbc0d6-8f53-4fbb-9687-1a2ca317093f.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/3c42d484-e16c-44b8-ba8f-c0aa87691613.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:43",
+  "landing_meta": "Jotform Claude App: AI Form Builder Connector — Use Jotform with Claude Connector (MCP integration) to create forms from prompts, edit fields, and manage submissions in one place.",
+  "landing_text": "Jotform Claude App: AI Form Builder Connector Jotform Claude App Build Jotform forms directly in Claude using simple prompts. This integration connects your forms to Claude, allowing you to generate, edit, and manage them conversationally. With support for Jotform MCP, you can also use a more visual interface while retaining full control over your forms and submissions. Connect Now How to use Jotform with Claude Connect Jotform to Claude Log in to Claude and connect your account by activating Jotform in the “Connect your Tools” settings. Create and refine your form in chat Start with a prompt, then refine your form conversationally— modifying fields, updating questions, and adjusting settings, layout, and styling directly in Claude. Analyze submissions and optimize results Use Jotform Claude App to view forms, filter submissions by date, status, or specific fields, and generate insights to improve performance. What you can do with Jotform Claude App Generate forms from prompts Create complete forms by describing what you need. Create clear and relevant questions Update questions, settings, and structure with a single ask, without rebuilding your form. Design forms visually Change themes, layouts, and styling directly in Claude as you build your form. Add, remove, and reorder fields Add, remove, and reorder fields at any time. Refine your form structure as your needs change without starting over. List and manage your forms View all your forms and select one to update or continue working on instantly. View and filter submissions Pull response data and filter by date, status, keywords, or field values. Analyze form responses with AI Analyze form responses with AI to understand your data. Summarize submissions, identify trends, and get recommendations based on real responses. Do more with the Jotform Claude App See how the Jotform Claude integration works in real scenarios. Each example starts with a simple prompt and continues through creation, refinement, and analysis",
+  "pricing_signals": [
+    "pricing",
+    "$1",
+    "$2"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:44",
+  "description_ja": "Jotform Claude App は Claude 上で会話しながら Jotform のフォーム作成・編集・回答分析までを一気通貫で行える公式 MCP コネクタ。",
+  "summary_ja": "Jotform が提供する Claude 公式コネクタ。Claude のチャット内でプロンプトからフォーム生成、フィールド編集、デザイン調整、回答データのフィルタや AI 集計までを完結できる。Jotform MCP に対応し、視覚的編集と会話操作を併用可能。既存 Jotform 顧客の生産性向上と Claude エコシステムへの露出拡大の両方を狙った大手プレイヤーの公式統合。",
+  "tldr_ja": "Claude のチャットからプロンプトで Jotform のフォーム作成・編集・回答分析まで完結できる Jotform 公式 MCP コネクタ。",
+  "review_guide_ja": {
+    "what": "Claude Desktop/Web の Connector 経由で Jotform アカウントを接続し、自然言語でフォーム生成・編集・テスト送信・回答分析までを行える Jotform 公式アプリ。Jotform MCP サーバが裏側にあり、44 程度のアクション (create_form, list_submissions など) を Claude が tool として呼び出す形。視覚的なフォームエディタも併用でき、Claude を使うかブラウザで開くかをユーザーが選べる。",
+    "for_who": "既に Jotform を使っている中小事業者・マーケター・カスタマーサポート担当で、Claude を業務で日常的に使い始めている層。フォーム作成と回答分析を一つのチャットで済ませたい。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "技術的には MCP サーバを立てれば真似できるが、Jotform 側のフォーム配信基盤・テンプレ・SLA・ブランドを個人で再現するのはほぼ不可能。"
+    },
+    "signals": [
+      "Anthropic 公式 Connector マーケットへの掲載 = 公式お墨付き",
+      "Jotform は全世界 4 億ユーザー規模で既存顧客の裾野が広い",
+      "PH で 259 upvotes と AI×No-Code 領域の通常値",
+      "MCP のエコシステムが 1 万サーバ超に拡大しており追い風"
+    ],
+    "concerns": [
+      "本体 (Jotform) の代替・横展開ではなく既存サービスへのアドオン的位置付け",
+      "Claude を業務契約で導入している層は日本ではまだ限定的",
+      "似た構造の Google Forms/Typeform/formrun も MCP/AI 連携を出してくる可能性"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "日本のフォーム作成需要は formrun 55 万ユーザー、Google Forms 普及で十分大きいが、Claude 経由で作りたい層は現状ニッチ。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Jotform 本体に加え formrun・Google Forms・Typeform・Microsoft Forms など強豪が日本市場で既に競合。個人開発でこの隙間に入る余地は薄い。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "個人情報を収集するフォームは改正個人情報保護法・越境データ移転規制の影響を受け、米国サーバ前提の Jotform は法務懸念がついて回る。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "Jotform は日本語 UI/テンプレを提供済みだが、Claude 上の生成プロンプト品質や日本独自の項目 (郵便番号自動入力、ふりがな、半角全角) の精度は未検証。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の BtoB は捺印・FAX・問い合わせ管理込みの formrun 型を選ぶ傾向。Claude 会話で作るスタイルは法人購買の決裁プロセスに馴染まない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "formrun",
+        "url": "https://form.run/",
+        "note": "国内累計 55 万ユーザー。問い合わせ管理機能で BtoB に強くフォーム作成 SaaS の事実上の標準。"
+      },
+      {
+        "name": "Google Forms",
+        "url": "https://workspace.google.com/products/forms/",
+        "note": "無料で十分。教育・社内利用で圧倒的シェア、Workspace 契約者は追加コストなし。"
+      },
+      {
+        "name": "Typeform",
+        "url": "https://www.typeform.com/",
+        "note": "対話型 UI でリード獲得用途。AI 機能も搭載済みで Claude 統合とポジションが近い。"
+      },
+      {
+        "name": "Jotform 本体 (日本展開)",
+        "url": "https://www.jotform.com/ja/",
+        "note": "FLUED 社が国内代理販売を開始済み。今回の Claude アプリは同じ Jotform エコシステムの拡張。"
+      },
+      {
+        "name": "Microsoft Forms",
+        "url": "https://forms.microsoft.com/",
+        "note": "Microsoft 365 契約者に標準同梱、Copilot 連携も進行中で AI 経由フォーム生成は本家でも進む。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "改正個人情報保護法 (2022 施行・2025 改正準備)",
+        "impact": "回答データに個人情報が含まれる場合、米国 Jotform への越境移転の同意取得・委託先管理が必要。BtoB 案件では論点化しやすい。"
+      },
+      {
+        "law": "電気通信事業法 外部送信規律 (2023 改正)",
+        "impact": "フォーム埋め込み Web サイトに第三者 Cookie が乗ると外部送信通知義務が発生し得る。"
+      }
+    ],
+    "opportunity": "Claude 経由で作る形ではなく、日本のフォーム要件 (ふりがな・郵便番号 API・捺印 PDF 出力・チームでの回答ステータス管理) に特化した MCP サーバを formrun 等の上に被せ、Claude/ChatGPT 双方からアクセスできる『日本向け AI フォーム執事』のような薄い差別化レイヤーが個人開発の余地。ただし本案件そのもの (Jotform Claude App) を真似しに行く価値は低い。",
+    "rationale": "需要そのものはあるが、フォーム作成 SaaS は formrun・Google Forms・Typeform・Microsoft Forms が既に飽和的に押さえている。Jotform Claude App は Jotform という既存大手のチャネル拡張であって、個人開発者が同じ場所に挑むと差別化が極めて難しい。法規制 (個情法・外部送信規律) も米国系フォームには逆風。日本市場で似たプロダクトをゼロから作るより、formrun の対 AI 連携が出てくるのを待つか、AI 連携の薄レイヤーで小さく当てる方が現実的。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "Jotform 本体の月額課金 ($34〜) に乗るアドオン構造。個人開発で同じものを作っても課金導線が描きづらく ARPU が形式化しにくい。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "日本のフォーム作成 SaaS の有償ユーザーは 10 万社オーダー。Claude 業務利用層と二重に絞ると実効市場は数千社規模に収束。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "Anthropic 公式 Connector マーケットは強力だが、個人開発者にはこの掲載枠が事実上開かれていない。SEO や PH 単体では BtoB に届きにくい。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "MCP が事実上の業界標準となり日本でも 2026 年に Claude エンタープライズが 40% シェアという調査もある。早すぎず遅すぎずだが、その分大手が一気に占有しに来る局面。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "フォーム SaaS は本体のフォーム配信・スパム対策・SLA 運用が重く個人で継続するのは現実的でない。Jotform の上に被せる薄い MCP なら可能。"
+      }
+    },
+    "rationale": "本案件は Jotform という年商規模の大きい SaaS 企業が自社の延命と Claude エコ取り込みのために出したアドオンであり、ビジネスとしては Jotform 側にとっては合理的だが個人開発者の事業対象とは構造が異なる。日本でも同じ位置を取りに行くと『大手フォーム SaaS のチャネル拡張に個人で挑む』形になり、市場規模・GTM・運用負荷の三重苦。代替として『個人開発で Jotform/formrun を呼び出す薄い MCP コネクタ + 日本特化のテンプレ集』のような周辺商品ならありうるが、本体評価は低くせざるを得ない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 月 100 件まで・基本テンプレのみ",
+        "Pro 月額 1500 円: 無制限フォーム+回答 AI 分析+ふりがな/郵便番号 API",
+        "Team 月額 4800 円: 5 ユーザー+回答ワークフロー+Slack 連携",
+        "Business 月額 14800 円: SLA・委託先契約書・ログ監査"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Claude もしくは ChatGPT を日常業務で使い、Jotform/formrun/Google Forms を使っている中小事業者・マーケ担当・コンサル",
+      "target_count": 30000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 450000
+    },
+    "recommended_gtm": [
+      "本案件をそのまま追わず、Jotform/formrun の AI 連携不足を埋める『日本特化 MCP コネクタ』として note・X で個人開発系コミュニティに訴求",
+      "Claude Connector マーケット非掲載でも MCP サーバ URL を直接配布し Power user に届ける",
+      "ふりがな・郵便番号・全角半角自動補正など日本固有の前処理機能をリードマグネットに",
+      "formrun ユーザー向けの『AI 集計テンプレ集』を販売しコミュニティを温める"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Jotform/formrun 自身が同等機能を公式リリースし市場が消滅するリスクが極めて高い",
+      "Anthropic 公式 Connector マーケットに掲載できないと露出が決定的に不足する",
+      "個人情報・改正個情法に絡む案件で個人開発者が SLA や委託契約を結びにくい",
+      "Claude の業務利用が日本企業で本格普及するまで時間がかかる",
+      "課金 ARPU が低く運用負荷を回収しにくい"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "japan_fit_enriched_at": "2026-05-23T00:00:00Z",
+  "japan_fit_updated_at": "2026-05-23T00:00:00Z"
+}

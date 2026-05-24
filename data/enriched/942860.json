@@ -1,0 +1,250 @@
+{
+  "name": "SUN-to-Spotify ",
+  "description": "Generate audio with SUN and send it to your Spotify library",
+  "ph_url": "https://www.producthunt.com/products/sun-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ANMWQJRL3VEODH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-17T07:01:00Z",
+  "upvotes": 354,
+  "comments": 31,
+  "topics": [
+    "Education",
+    "Artificial Intelligence",
+    "Audio"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi Product Hunt community! 👋<br></p><p>Excited to share SUN to Spotify today.<br></p><p>A few days ago I saw Spotify talking about the future of AI generated personalized podcasts flowing directly into Spotify. We thought: why not actually build it?<br></p><p>So we created an open source Claude Code skill that lets anyone generate AI podcasts, audiobooks, and audio courses with SUN, then send them directly into Spotify.<br></p><p>You can prompt things like:<br>“Create a 15 minute podcast about raising a startup”<br>“Generate an audiobook about Stoicism”<br>“Make a daily AI news podcast”<br></p><p>The goal is simple: audio should become as personalized and generative as text.<br></p><p>Would genuinely love your feedback, ideas, and thoughts on where AI native audio is heading.<br></p><p>And if you enjoy the project, a GitHub star would mean a lot ❤️<br></p><p>Thank you everyone!</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><a href=\"https://www.producthunt.com/@amy_wenyan_hua\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"amy_wenyan_hua\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@amy_wenyan_hua</a> How accurate are the audio courses, especially when they’re generated from a single prompt or local files?</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Download Sun-to-Spotify skill here 👉 <a href=\"https://github.com/sunapp-ai/sun-to-spotify\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://github.com/sunapp-ai/sun-to-spotify</a></p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Download 👉 https://github.com/sunapp-ai/sun-to-spotify SUN-to-Spotify is a skill that lets you generate AI podcasts, audiobooks, and then publish them directly to your Spotify library for streaming or offline listening. Just describe what you want to hear: startup advice, history deep dives, philosophy, news, or custom learning content, and SUN creates a personalized audio experience in minutes. Built for creators, developers, and curious minds exploring the future of AI native audio.",
+  "featured_at": "2026-05-17T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/30200cdb-d608-494f-bb9f-b38002818e65.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1f4acbb1-f7a2-44cc-b3c4-71242144e815.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/88248d21-4fdb-4543-9638-fb866cc03e72.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/91bda861-d3f8-4254-9a73-e6aeb68ffdc5.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1621b9c4-8ace-489b-b735-93e9c57e9c19.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/6e4a712a-de86-4e2d-8239-8c163b88754c.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:19:15",
+  "landing_meta": "GitHub - sunapp-ai/sun-to-spotify at producthunt · GitHub — Contribute to sunapp-ai/sun-to-spotify development by creating an account on GitHub.",
+  "landing_text": "GitHub - sunapp-ai/sun-to-spotify at producthunt · GitHub Skip to content You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert sunapp-ai / sun-to-spotify Public Notifications You must be signed in to change notification settings Fork 4 Star 63 main Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 29 Commits 29 Commits hermes-hub hermes-hub references references .nojekyll .nojekyll LICENSE LICENSE README.md README.md SKILL.md SKILL.md install.sh install.sh View all files Repository files navigation Sun to Spotify Turn any topic, question, or feed into a dialogue podcast — and listen to it in Spotify or your favorite podcast app. Just say: What's the latest in voice and audio AI? Give me a 10-minute roundup. What's happening in the stock market this morning? Make it a 5-minute brief. Give me my daily brief based on my calendar for the next 30 minutes. Summarize The Hard Thing About Hard Things as a 20-minute podcast. How should I think about marketing my B2B startup? Give me a 15-minute deep dive. Sun handles everything: research, script writing, multi-speaker dialogue, audio mixing, and publishing. The result lands in your Spotify library, ready to play from any device. Quick Start 1. Install the CLI Prompt your agent to install the CLI: Install the Sun CLI by running https://sunapp-ai.github.io/sun-to-spotify/install.sh Or install manually: curl -fsSL https://sunapp-ai.github.io/sun-to-spotify/install.sh | bash The installer picks the first available Python package manager — uv (preferred), then pipx , then pip --user — and installs sun-cli from PyPI. Python 3.10+ required. uv tool install ' sun-cli>=0.2.1 ' # manual: places sun at ~/.local/bin/sun pipx install ' sun-cli>=0.2.1 ' # isolated v",
+  "pricing_signals": [
+    "open source",
+    "subscription",
+    "pricing",
+    "premium"
+  ],
+  "landing_fetched_at": "2026-05-24T20:19:16",
+  "description_ja": "SUNでAI生成したポッドキャストやオーディオブックをSpotifyライブラリに直接配信できるClaude Code Skill（OSS）。",
+  "summary_ja": "プロンプトから対話形式のポッドキャストやオーディオブック、音声講座をAI生成し、自分のSpotifyライブラリに送り込むOSSのClaude Code Skill。リサーチ・台本作成・複数話者音声合成・ミックス・配信まで自動化し、通勤中などに自分専用の音声コンテンツを聴ける体験を目指している。",
+  "tldr_ja": "プロンプトでAI生成した自分専用ポッドキャストをSpotifyに直接配信するOSSのClaude Code Skill。",
+  "review_guide_ja": {
+    "what": "Claude CodeのSkillとして動作するCLIで、トピックや質問、RSSやカレンダー情報を入力すると、AIがリサーチ・台本作成・複数話者の音声合成・ミックスまで行い、生成した音声を自分のSpotifyライブラリ（個人配信）にアップロードする。NotebookLMのAudio Overviewに近い体験を、SpotifyというリスニングUXに統合した点が特徴。",
+    "for_who": "AIネイティブ音声に関心がある開発者、Claude Codeを既に使うパワーユーザー、自分専用ニュース/学習ポッドキャストを通勤時間に聴きたい個人。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "TTS APIとSpotify配信ワークフローの組み合わせで、技術的再現は容易だが、声質と多話者対話の自然さで差別化するには相応のチューニングが必要。"
+    },
+    "signals": [
+      "PH 354 upvotes / 31 comments と比較的好反応",
+      "GitHub Star 63、Fork 4 と立ち上がり初期",
+      "NotebookLM Audio Overviewが2025年4月に日本語対応し市場が顕在化",
+      "日本のポッドキャスト利用率は2025年18.2%、15-19歳は40.5%と若年層で伸びている",
+      "Spotify日本では個人ポッドキャスト配信が無料で可能"
+    ],
+    "concerns": [
+      "Spotifyは厳密にはRSS経由のポッドキャスト配信であり、任意の音声を私的ライブラリに直接置く機能ではない",
+      "NotebookLM・MixerBox AI GenPodなど無料の競合が日本語で先行",
+      "声優・実在人物の声まね生成は実演家団体の声明で規制リスクあり",
+      "ARPU課金の接点が薄くOSS+TTS API代の構造で個人収益化が困難",
+      "Claude Code Skillという配布形態に依存し、ユーザー母数が技術者層に偏る"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "通勤音声学習やニュースブリーフィングの需要はあるが、ポッドキャスト利用率は18.2%でTikTokなどに比べ限定的。日本語AI音声コンテンツへの関心は確実に伸長中。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "NotebookLM日本語版、MixerBox AI GenPod、Voicy、audiobook.jp、Monica AI Podcastなど無料/低価格の代替が既に存在し、配信先もApple/Spotify無料配信が一般化。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "現状のAI音声生成自体は合法だが、声優団体3社が無断声まね生成を禁ずる声明を出しており、声質クローン領域では許諾要件が今後課題。文化庁ガイドラインも要遵守。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "OpenAI TTSやElevenLabs日本語は実用域だが、自然な多話者対話・日本語の間の取りはNotebookLM日本語版や国産勢に劣る可能性。SpotifyのUIは日本語対応済。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "個人開発者・コンシューマー利用が主で稟議や法人商習慣の壁は低い。一方、Claude Code Skillという配布形態は日本のIT現場では認知が浅い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Google NotebookLM (Audio Overviews 日本語版)",
+        "url": "https://notebooklm.google.com/",
+        "note": "2025年4月に日本語含む50言語対応。男女2人の対話でソースを音声化、無料で広く利用されている直接の代替。"
+      },
+      {
+        "name": "MixerBox AI GenPod",
+        "url": "https://jp.mixerbox.com/blog/notebooklm-ai-podcast-mixerbox-ai-genpod",
+        "note": "日本語ニュアンス重視の日本語AI Podcastジェネレーター。会員登録不要・無料で2分生成。"
+      },
+      {
+        "name": "audiobook.jp",
+        "url": "https://audiobook.jp/",
+        "note": "国内最大級のオーディオブック配信。月額833円〜聴き放題、AI本人音声によるオーディオブックも開始。"
+      },
+      {
+        "name": "Voicy",
+        "url": "https://voicy.jp/",
+        "note": "国内音声プラットフォーム。AIによる発見強化を推進、有名パーソナリティ起用で個人化AI音声と異なる強み。"
+      },
+      {
+        "name": "Spotify for Creators (旧Anchor)",
+        "url": "https://podcasters.spotify.com/",
+        "note": "無料の個人ポッドキャスト配信ツール。RSS生成・Apple/Spotify同時配信、ハードルは低い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法（実演家の権利、AI生成物の著作物性）",
+        "impact": "声優・著名人の声を学習・模倣する場合は無断録音や送信可能化に該当する恐れ。日本俳優連合等3団体が本人許諾を必須とする声明を発表しており、声質クローン機能を加える場合は配慮が必要。"
+      },
+      {
+        "law": "Spotify Platform Rules / コンテンツ規約",
+        "impact": "AI生成と明示しないなりすましや誤情報配信はSpotify側でBANリスク。日本居住者は2026年現在Spotifyポッドキャスト収益化対象外。"
+      },
+      {
+        "law": "プロバイダ責任制限法・薬機法等の表現規制",
+        "impact": "AI生成スクリプトに医療・投資助言・誹謗中傷が含まれる場合の責任所在が運営側に及ぶ可能性。ファクトチェック工程が要件。"
+      }
+    ],
+    "opportunity": "日本語に最適化した『毎朝のパーソナル音声ブリーフィング』として、ニュース/カレンダー/メール/Slack要約を5〜15分音声で配信するニッチに絞れば、NotebookLMのワンショット生成と差別化可能。BtoBの社内ナレッジ音声化（議事録→音声）など非Spotify経路の方が事業性は高い。",
+    "rationale": "需要シグナルは存在するが、競合（NotebookLM日本語版・MixerBox・Voicy・audiobook.jp）が無料〜低価格で先行し、ポッドキャスト利用率も若年層中心で限定的。Spotifyへの『私的ライブラリ送信』は技術的にはRSS+個人ポッドキャスト配信に帰結し、独自性が薄い。法的にはAI生成自体は許容範囲だが、声まね領域は要注意。日本市場では『静観（watch）』が妥当で、参入するなら日本語自然対話と日次パーソナルブリーフィングの体験で差別化する必要がある。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "本体がOSSのClaude Code SkillでTTS API代もユーザー持ちのため、課金接点が極めて薄い。ホスト型SaaSやプレミアム音声に転換しないとARPUを取りづらい。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "日本のClaude Codeパワーユーザーは推定数万人規模、AIポッドキャスト需要層と重ねるとさらに絞られる。コンシューマー転換すれば拡張余地はあるが競合過密。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "GitHub/Product Hunt/技術者コミュニティ経由のオーガニック拡散に依存。日本では英語OSSスキルの認知が浅く、Zenn/note等での日本語解説と国内インフルエンサーの巻き込みが不可欠。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "NotebookLM日本語対応・AI本人音声オーディオブック開始など、AI音声コンテンツ需要が立ち上がる『今が旬』のタイミング。一方で大手参入で陳腐化リスクも併存。"
+      },
+      "solo_ops": {
+        "score": 6,
+        "reason": "OSS+CLI主体で運用負荷は低いが、ホスト型に展開する場合はTTSコスト管理・Spotifyの規約変更・コンテンツモデレーションで負荷増。"
+      }
+    },
+    "rationale": "事業性は限定的。OSSのClaude Code Skillという形態自体は配布コストは低いが、課金接点を持たないため収益化導線を作らない限り個人収益事業として成立しにくい。日本の対象顧客はClaude Code利用層に絞られ規模が小さい。タイミングは良好だが、収益化するならホスト型SaaS化・日本語自然音声・日次パーソナルブリーフィングへの絞り込みなどピボットが前提となる。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 980,
+      "plans": [
+        "Free: 月10分まで生成、英語のみ、Spotify個人ポッドキャスト配信",
+        "Personal 980円/月: 月120分生成、日本語自然対話TTS、RSS配信、カレンダー/メール連携",
+        "Pro 2,980円/月: 月600分、複数声色、Slack/Notion要約→音声、家族共有",
+        "Team 9,800円/月（5席）: 社内議事録/ドキュメントの音声化、Notion/Slack統合"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本のClaude Codeパワーユーザー＋AI音声コンテンツに関心のある個人開発者・知的好奇心層",
+      "target_count": 30000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 147000
+    },
+    "recommended_gtm": [
+      "Zenn/note/Qiitaで『Claude Code Skillで自分専用ポッドキャストを作る』日本語解説記事を継続発信",
+      "技術系Podcast（fukabori.fm, Rebuild等）への露出とゲスト出演でドッグフード提示",
+      "X（旧Twitter）のAI/開発者インフルエンサー経由でデモ動画拡散",
+      "audiobook.jp/Voicyと組まず、Apple Podcast+Spotify同時RSS配信に絞ったハウツーで差別化",
+      "BtoB横展開：議事録→音声ダイジェストの社内Slackbotとしてパイロット販売"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "NotebookLM日本語版・MixerBox等の無料サービスに価値提案が飲み込まれる",
+      "Spotifyのポッドキャスト規約変更でAI生成コンテンツが制限される可能性",
+      "TTS API（ElevenLabs/OpenAI）のコスト変動と日本語品質のばらつき",
+      "声優団体声明に象徴される声質クローンの法的・社会的反発",
+      "Claude Code Skill配布に依存しすぎることでAnthropic施策変更の影響を直接受ける"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 4,
+  "japan_fit_analyzed_at": "2026-05-23T00:00:00Z",
+  "japan_fit_schema_version": "1.0"
+}

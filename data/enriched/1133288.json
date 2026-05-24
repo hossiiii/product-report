@@ -1,0 +1,239 @@
+{
+  "name": "Hera Launch",
+  "description": "Create studio-quality launch videos with AI",
+  "ph_url": "https://www.producthunt.com/products/hera-6/launches/hera-launch-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/QG2MGKMYCHQGUQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-30T07:01:00Z",
+  "upvotes": 490,
+  "comments": 55,
+  "topics": [
+    "Design Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey PH 👋 Peter here, one of the co-founders of Hera.\n\nWe started Hera because making a good launch video is unreasonably hard. Hiring a motion design studio costs thousands and takes weeks. Doing it yourself in After Effects takes weeks of learning. Most AI video tools sit in between: technically capable, but the output looks like AI made it, because they have no taste of their own. The user has to bring the taste through the prompt, and that's a lot to ask.\n\nSo we made a different bet with Hera Launch, our new extension of Hera: the AI should have the taste, not the user. We baked in opinions about pacing, typography, motion curves, and easing, the way a good motion design studio would. The user describes what they want to show. Hera handles how it looks.\n\nThe surprising part is what this unlocks. Once a launch video takes 10 minutes instead of 2 weeks, you stop saving them for the big quarterly moments. You start making one for every feature, every release, every announcement.\n\nWe built this for product teams that ship fast and want to launch often. If that's you, try it at [launch.hera.video](<a href=\"http://launch.hera.video\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">http://launch.hera.video</a>). And if you're launching something soon and want a hand getting your first video right, DM me. Happy to give you free access and walk you through it personally.\n\nWould love your feedback.",
+      "votesCount": 18,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats <a href=\"https://www.producthunt.com/@peter_tribelhorn\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"peter_tribelhorn\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@peter_tribelhorn</a> </p><p>I’ve seen a lot of startups struggling with demo videos so definitely much needed tool! How does this compare to screen studio for product demos?</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hera sounds a bit funny as read by a Ukrainian..:) Congrats on the launch!</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Product launch videos used to take weeks. Hera Launch makes them in seconds, from a single prompt. This works because Hera is opinionated. It works like a motion design studio and decides pacing, typography, motion curves, and easing for you. We built it for product teams that want to launch fast and often: 10 minutes from idea to finished video, on a monthly subscription.",
+  "featured_at": "2026-04-30T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/3755c965-4852-47ba-8523-671f0b3c5057.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c4ca6eef-d962-41b5-937f-c62b466735f7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a7a24f59-34b1-4d81-9bab-0b1e1e41fc0b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bf517591-4cc0-4bc7-9bde-16027e313f6c.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/ba9e0798-4139-490c-b94c-df908a45e79e.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:33",
+  "landing_meta": "Hera",
+  "landing_text": "Hera",
+  "pricing_signals": [
+    "$1",
+    "$4",
+    "$10",
+    "$0"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:34",
+  "description_ja": "AIがスタジオ品質のプロダクトローンチ動画を10分で生成するモーションデザイン特化型ツール",
+  "summary_ja": "Hera Launchはモーションデザイナー視点のセンス（タイポグラフィ・イージング・ペーシング）をAIに内蔵し、プロンプトから新機能告知用ローンチ動画を10分で生成。SaaSの頻繁なリリースに合わせ、月額サブスクで動画を量産できる仕組みを提供する。",
+  "tldr_ja": "プロダクト紹介動画を「センス込み」で10分生成。SaaSの毎リリース・毎機能告知をモーション動画で量産する月額サブスク",
+  "review_guide_ja": {
+    "what": "Hera Launchは既存のHera（AIモーションデザイナー）の拡張機能で、SaaSや新機能のローンチ告知向けに特化したAI動画生成ツール。ユーザーは「何を見せたいか」をテキストで記述するだけで、AIが「どう見せるか」（ペーシング、タイポグラフィ、モーションカーブ、イージング）まで含めて完成度の高いモーショングラフィックス動画を生成する。従来のAI動画ツールはユーザーがプロンプトでセンスを補う必要があったが、Hera Launchは「AIにセンスを内蔵する」設計を採った点が差別化。出力は10分程度で完成し、月額サブスクで使い放題。これにより、四半期ローンチだけでなく機能リリース・アナウンスごとに動画を作る運用が可能になる。Figmaプラグインや100種以上のテンプレートも備え、コード制御型アニメで微調整可能。",
+    "for_who": "シード〜シリーズAの海外SaaSスタートアップのファウンダー／プロダクトチームで、ローンチを高頻度（毎月〜毎週）で行いたい層。日本ではSaaSベンチャーのPMM、プロダクトマーケティング担当、個人開発者で頻繁にX/LinkedIn告知をする層が想定対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "AIモーションデザインのモデル開発に加え、タイポ・イージングなど『美的判断』をAI側に内蔵する設計知見・トレーニングデータ構築が必須。個人開発での再現は困難。"
+    },
+    "signals": [
+      "PH 490 upvotes / 55 comments と高い反応",
+      "YC出資・既存Hera本体が2週間で20万生成という実績",
+      "$12/月〜の手頃な価格設定で粘着性が出やすい",
+      "ローンチ頻度が高まる構造変化（CIシップ文化）への需要",
+      "創業者自らDMで初動サポートする丁寧なGTM"
+    ],
+    "concerns": [
+      "テンプレ依存ゆえに『どれも似て見える』飽和リスク",
+      "日本語フォント・縦書き・改行ルールへの対応が不明瞭",
+      "AI動画生成の競合（Runway/Synthesia/Canva）が日本本格参入中",
+      "$12/月のARPUは個人開発でも収益化に大量ユーザーが必要",
+      "ローンチ動画は『年数回』ニーズの層が大半で頻度想定にズレあり"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本国内SaaSスタートアップは530社超存在し、サービス紹介動画ニーズは確実にある。ただし日本のSaaSは『大型ローンチ年1〜2回』が主流で、Hera Launchが想定する『毎機能・毎週』のリリース動画文化はまだ薄い。需要はあるが頻度想定が日本市場とズレる。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内ではRICHKA（リチカ・月15-20万円・No.1シェア）、VIDEO BRAIN、NoLang、Videomaker等が定着。Canva・Runway（2026年5月日本進出$40M投資）・Synthesia等のグローバル勢も日本語UI整備中。動画SaaS市場は競合密度が高く、特定ニッチで差別化しないと埋没。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "AI生成物の商用利用は学習段階は緩いが生成物の既存著作物類似性チェックが必要（文化庁見解）。動画素材・フォント・BGMの権利関係がリスク。景表法による誇大表現規制も告知動画では注意点。重大規制ではないが運用配慮要。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "モーションデザインは英語フォント・横書き前提でデザインされており、日本語の縦書き・行間・明朝/ゴシック使い分け、句読点処理、漢字仮名比率に最適化されていない。日本企業の信頼感を演出するトーンも欧米と異なる。深いローカライズ投資なしでは違和感が残る。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本SaaS購買は稟議・年契約・請求書払い・カスタマーサクセスへの期待が強く、$12/月のセルフサーブ即決は個人開発者・スタートアップに限定。大手向けには代理店・制作会社（RICHKA等）の方が商習慣に合う。中間ターゲット層に届きづらい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "RICHKA（リチカクラウドスタジオ）",
+        "url": "https://richka.co/",
+        "note": "国内導入数No.1のSaaS型動画自動生成。月15-20万円＋初期20万円、最低1年契約。広告代理店・大手企業中心。"
+      },
+      {
+        "name": "VIDEO BRAIN",
+        "url": "https://video-b.com/",
+        "note": "Open8運営の法人向け動画SaaS。月15万円〜。編集自由度高く社内動画用途で導入実績多数。"
+      },
+      {
+        "name": "NoLang",
+        "url": "https://no-lang.com/",
+        "note": "テキスト・資料アップロードから動画生成。AIアバター・ボイスクローン搭載。日本語ネイティブ対応。"
+      },
+      {
+        "name": "Canva (動画生成AI)",
+        "url": "https://www.canva.com/ja_jp/",
+        "note": "日本語UI完備・テンプレート豊富。個人〜法人まで広い。Hera Launchの直接競合となる手軽さ。"
+      },
+      {
+        "name": "Runway",
+        "url": "https://runwayml.com/",
+        "note": "2026年5月に東京拠点開設・$40M日本投資。Gen-4.5搭載で動画生成のグローバル代表格。法人営業強化中。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法（生成AI）",
+        "impact": "AI生成動画素材が既存著作物に類似した場合の侵害リスク。商用利用前に類似性チェック工程が必要（文化庁見解）。"
+      },
+      {
+        "law": "景品表示法",
+        "impact": "プロダクト紹介動画は『誇大表現』『優良誤認』に該当しないよう演出を制御する必要。AI生成テンプレでは過大演出が起きやすい。"
+      }
+    ],
+    "opportunity": "日本のSaaS業界はリリースサイクル短期化が進行中で、PMM・PR担当が動画化に追いつけていないボトルネックは存在する。特にシード〜シリーズAの日本SaaS（年商1-10億円・PMM不在）で、海外向けピッチ・X告知用ショート動画を月数本量産したい層には潜在ニーズあり。Hera Launchをそのまま売るより、日本語フォント・縦長フォーマット・SNS最適化（X/LinkedIn日本向け）を加味した『日本版モーションSaaS』として国内開発するか、Heraの日本リセラー化が現実的な切り口。",
+    "rationale": "Hera Launchの本質的価値（センスをAIが持つ）は世界共通で魅力だが、日本市場には3つの逆風がある。第一に、動画自動生成SaaSはRICHKA・VIDEO BRAIN・Canva・NoLang等で既に飽和し、グローバル勢（Runway/Synthesia）も2026年に日本本格参入中。第二に、日本SaaSの『毎リリース動画』文化はまだ薄く、年1-2回の大型ローンチに数十万円〜数百万円かける制作会社依存モデルが主流。第三に、日本語タイポグラフィ・縦書き・SNS最適化（X・LinkedInの日本向け運用）への対応が弱く、ローカライズ深度が浅いと違和感が残る。$12/月の手軽さは個人開発・小規模チームに刺さるが、その層は国内ARPU・LTVとも厳しい。verdict=skip。Heraそのものより、日本SaaS向けに『センス内蔵×日本語ファースト×SNS縦長』の派生プロダクトを開発する余地はある。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "月額$12-50（約1,800-7,500円）レンジは個人開発・小規模SaaSの財布感に合うが、ARPUが低く規模化に大量MAUが必要。日本市場で5,000円/月×500社=月250万円に到達するには競合勝率がシビア。アップセル余地は限定的。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "日本のSaaSスタートアップ約530社＋中堅IT企業数千社が動画ローンチ潜在層。ただし全社が月額契約するわけではなく、頻繁にローンチ動画を作る層は数百社規模に絞られる。市場小〜中。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "海外はYC・PH・X経由のセルフサーブで伸びるがJP市場は法人営業・代理店経由が主流。SNSバズだけで日本SaaSのPMMにリーチするのは難しい。コミュニティ（Indie Hackers JP等）経由の細い導線になりがち。"
+      },
+      "timing": {
+        "score": 7,
+        "reason": "AI動画生成は2024-2026で急成長フェーズ。日本でもRunway日本進出・Canva動画AI拡張など追い風。ただし競合参入も同時多発でレッドオーシャン化が早い。今すぐ動かないと窓は閉じる。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "AIモーションデザインエンジンは個人開発不可能なレベルの技術投資（モデル・トレーニング・GPU・タイポ理論）が必要。本家Heraはチーム5名・YC出資。再現は不可能で、リセラー／ローカライズ層を担うのが現実的。"
+      }
+    },
+    "rationale": "Hera Launchを日本市場で個人開発者・小規模チームが事業化する道は厳しい。技術的にはAIモーションデザイン基盤の構築自体が個人スコープ外（YC出資チーム5名でも本格投資領域）。仮にHeraをリセラーとして日本展開しても、競合（RICHKA・VIDEO BRAIN・Canva・Runway・Synthesia）が既に法人営業網と日本語UIで先行。価格帯$12/月では収益化に大量ユーザーが必要だが、日本SaaS数530社規模では到達難。日本SaaS購買慣習（稟議・年契約・代理店経由）にも合わず、セルフサーブPLG単独では刺さりにくい。逆に、日本語タイポ・縦書き・X日本/LinkedIn最適化に特化した派生プロダクトをニッチに作る道はあるが、その場合は『Heraの真似』ではなくニッチ深堀型の別事業として設計が必要。総合的にbusiness_viability=4。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 4900,
+      "plans": [
+        "Free: 720p・透かしあり・月3本まで。SNSお試し勢に開放してファネル上部を広げる入口プラン。",
+        "Starter（月1,980円）: 1080p・透かしなし・月10本・日本語フォント基本セット。個人開発者・副業SaaS向け。",
+        "Pro（月4,900円）: 月50本・日本語フォント拡張・縦長X/LinkedIn最適化テンプレ・Figma連携。シード期SaaS向け。",
+        "Team（月14,800円）: 5名・ブランドキット・チームライブラリ・月200本。PMMチーム導入向け。",
+        "Business（月39,800円）: 10名・カスタムテンプレ・代理店向けホワイトラベル・優先サポート。法人本格利用向け。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内シード〜シリーズAのSaaSスタートアップ（年商1-10億円）でPMM／PR担当が不足し、X/LinkedIn告知用ローンチ動画を月数本作りたい層。加えて、個人開発者・副業SaaS運営者で頻繁な機能告知をする層。約3,000社・個人開発者数千名規模。",
+      "target_count": 3000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 294000
+    },
+    "recommended_gtm": [
+      "Product Hunt Japan・Indie Hackers JPで作例動画を公開し、テンプレ無料配布→セルフサーブ登録の導線を作る。SaaS創業者コミュニティに直販。",
+      "国内SaaSスタートアップのPMM・PR担当に向けたXアカウント運用＋『SaaSローンチ動画10選』のような事例コンテンツでSEO/SNSオーガニック獲得。",
+      "国内SaaSデータベース（STARTUP DB/Next SaaS Media Primary）から500社抽出し、無料動画3本サンプル提供のアウトバウンド営業。CSはサクセスコール込み。",
+      "VC（ANRI・ALL STAR SAAS FUND等）と提携し、ポートフォリオ企業へのローンチ動画支援パッケージとして提供。1社あたり年契約獲得が見込める。",
+      "LinkedIn日本市場で経営者・PMMにターゲティング広告。海外向けピッチ動画を作るユースケースで月3-5本のニーズ層を捕まえる。",
+      "デザイン制作会社・PRエージェンシーと組み、代理店プランで卸す。月数十本ニーズの法人案件を間接導線で巻き取る。"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "AI動画生成技術の本体開発は個人スコープ外。Heraリセラーやニッチ派生路線でも、モーション品質維持にチームと資金が必要で、個人継続は困難。",
+      "競合密度が極めて高い。RICHKA・Canva・Runway・Synthesia・NoLangが日本語UIと法人営業で先行。差別化軸（縦長・日本語タイポ・SNS最適化）が陳腐化する速度も早い。",
+      "ARPU 5,000円×500社=月250万円ラインまで到達するには3,000社中16%獲得が必要。実態は2%前後が現実的で、月収30万円に届かない可能性大。",
+      "日本SaaS購買は稟議・年契約・請求書払いが主流。セルフサーブ月額モデルはターゲットの中堅以上に届かず、個人開発・小規模SaaSのみに限定される。",
+      "AI動画生成物の著作権・素材ライセンス問題で炎上リスク。フォント・BGM・テンプレ素材のクリア管理を怠ると訴訟・サービス停止に直結する。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

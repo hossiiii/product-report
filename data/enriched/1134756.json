@@ -1,0 +1,215 @@
+{
+  "name": "YouTube TV Custom Multiview",
+  "description": "Mix and match up to 4 live streams at once",
+  "ph_url": "https://www.producthunt.com/products/google/launches/youtube-tv-custom-multiview?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/MPC7PMAGNUTKGP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-02T07:01:00Z",
+  "upvotes": 159,
+  "comments": 1,
+  "topics": [
+    "Video Streaming",
+    "Sports",
+    "TV"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>Hi everyone!<br><br>YouTube TV’s multiview finally gives users full control.<br><br>Instead of choosing from <a href=\"https://blog.youtube/news-and-events/multiview-on-youtube-tv/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">prebuilt combinations</a>, you can now build your own view with up to four live streams, including channels from your main plan and add-ons like <a href=\"https://tv.youtube.com/learn/nflsundayticket/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">NFL Sunday Ticket</a>. The new builder also makes it easier to filter by sports, news, shows, movies, and other live content.<br><br>Simple feature, very useful for live TV. Sports is the obvious use case, but I can also see people using this for news, big events, or just keeping multiple live streams open at once📺</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "YouTube TV now lets subscribers build fully customizable multiviews with up to four live streams on one screen. Mix and match live channels across your plan and add-ons like NFL Sunday Ticket, using a new builder with filters for sports, news, shows, movies, and more.",
+  "featured_at": "2026-05-02T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/c07c954e-5882-434e-aeb3-4cb3312b4716.png",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/970a7955-1ded-4b99-877a-6a0697cbd764.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/24093f72-8e60-4871-b738-e2569618341c.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e7c1631d-3b4f-4033-9784-4c02aa9b3a8e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5f43338a-c520-4bbd-8b5e-db231e984df8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6b06a258-cb7c-4f04-8c76-0bf9931675d6.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:36:00",
+  "landing_meta": "New on YouTube TV: Build Your Own Custom Multiview - YouTube TV Community",
+  "landing_text": "New on YouTube TV: Build Your Own Custom Multiview - YouTube TV Community Skip to main content false Search Clear search Close search Google apps Main menu 12685691315647231481 true Search Help Center false true true true true true 1025958 false false",
+  "pricing_signals": [
+    "subscription",
+    "premium",
+    "$1",
+    "$2",
+    "$4",
+    "$5",
+    "$6",
+    "$7",
+    "$8",
+    "$0",
+    "$9"
+  ],
+  "landing_fetched_at": "2026-05-24T20:36:01",
+  "description_ja": "YouTube TVで最大4つのライブ番組を1画面に自由に組み合わせられる新機能。",
+  "summary_ja": "YouTube TVが提供する新機能。視聴者は最大4チャンネルのライブ配信を1画面に自由に組み合わせ可能。NFL Sunday Ticketを含むアドオンにも対応し、スポーツ・ニュース等のフィルタで選べる。",
+  "tldr_ja": "Google提供のYouTube TVに、最大4ライブ番組を自由配置できるカスタムマルチビュー機能を追加。米国限定の機能拡張。",
+  "review_guide_ja": {
+    "what": "YouTube TVは米国限定の月額制ライブTVストリーミング(100以上のチャンネル)で、本ローンチは既存マルチビュー機能の拡張版。従来は事前定義された組み合わせのみだったが、新Multiview Builderにより視聴者自身が最大4つのライブストリームを自由に選択・配置できるようになった。プラン本体のチャンネルに加え、NFL Sunday Ticket等のアドオンチャンネルも混在可能。スポーツ・ニュース・番組・映画・その他ライブの5カテゴリーフィルタで選択UIを改善。ストリームの合成はクライアント側ではなくYouTubeのサーバ側で行われるため、視聴端末に特殊なハードウェアを必要としない。一部の旧型デバイスではフル機能が使えず、主要イベント限定のサポートとなる。2026年4月23日から段階的にロールアウト開始。",
+    "for_who": "米国在住のYouTube TV契約者で、NFL Sunday Ticket等を購読しスポーツの複数試合を並行視聴したいユーザー、ニュース複数局やライブイベントを同時に追いかけたいヘビーTV視聴層。事業者ではなくB2Cエンドユーザー向けの機能拡張。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Google YouTube TVの中核機能改良で、サーバ側ストリーム合成・大規模なライブ放映権・有料チャンネル契約基盤を要する。個人開発で同等のものを再現することは事実上不可能。"
+    },
+    "signals": [
+      "ライブTV視聴の体験改善ニーズ(スポーツ並行視聴)",
+      "サーバサイド・ストリーム合成によるクライアント負荷軽減",
+      "ライブカテゴリのフィルタUI設計の需要",
+      "アドオン課金チャンネルを跨いだUX統合"
+    ],
+    "concerns": [
+      "サービス自体が日本未提供で、日本市場との接点が極めて薄い",
+      "Google自身による既存大型サービスの機能追加で個人開発の余地がほぼない",
+      "放映権・帯域コストが個人開発では到底吸収不可能",
+      "日本では類似ニーズはDAZNが既に標準でカバー済み"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 2,
+    "verdict": "no_fit",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "日本でもスポーツ複数試合の並行視聴ニーズは一定存在するが、地上波文化が強く、NFLのような複数試合同時開催型コンテンツの需要は限定的。野球・サッカー同時放映を見たい層は薄く、TV配信の機能改善ニーズとしては中位以下。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "DAZNが既に2025年11月にマルチビュー機能(PCで最大4試合・モバイル2試合)を実装済み。Hulu・ABEMA・SPOTV NOW・J SPORTS等もライブ配信で競合。個人開発者がこの領域に新規参入する余地はほぼない。"
+      },
+      "regulation": {
+        "score": 3,
+        "reason": "動画配信サービスは電気通信事業法の適用を受け届出が必要となるケースが多い。放送番組の再送信は放送法・著作権法・放映権契約上ほぼ不可能。スポーツ放映権コストは数十億円規模で個人開発の射程外。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "そもそもYouTube TVが日本でサービス提供されておらず、ローカライズ以前にプロダクト自体がアクセス不能。日本の地上波・BS/CSコンテンツとの連携も期待できない。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本のTV視聴文化はリアルタイム1番組視聴が主流で、米国スポーツのような複数試合並行視聴文化が薄い。ABEMA等のながら見はあるが4分割同時視聴の習慣は浸透していない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "DAZN",
+        "url": "https://www.dazn.com/ja-JP/",
+        "note": "2025年11月にマルチビュー機能を実装。PCで最大4試合、モバイルで2試合同時視聴可。Standard・BASEBALLユーザー対象。"
+      },
+      {
+        "name": "ABEMA",
+        "url": "https://abema.tv/",
+        "note": "ライブ無料配信・複数同時視聴の体験を提供。MLBやサッカー等のスポーツも配信。"
+      },
+      {
+        "name": "SPOTV NOW",
+        "url": "https://spotvnow.jp/",
+        "note": "MLB・欧州サッカー等の海外スポーツ専門ライブ配信。"
+      },
+      {
+        "name": "J SPORTS",
+        "url": "https://www.jsports.co.jp/",
+        "note": "プロ野球・ラグビー・モータースポーツ等を扱うスポーツ専門有料CHのオンデマンド配信。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "放送法",
+        "impact": "TV放送番組をネット経由で再配信する場合は再送信同意・許可が必要。個人による商業的な放送配信は実質不可能。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "動画配信サービスは電気通信事業に該当するため届出義務がある可能性。外部送信規律(2023年改正)で利用者情報送信時の通知義務も発生。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "放送コンテンツ・スポーツ映像の再配信は著作隣接権(放送事業者の権利)を侵害。放映権契約とは別に著作権処理が必須。"
+      }
+    ],
+    "opportunity": "プロダクト自体の模倣余地は無いが、周辺領域として『個人が複数のライブ配信を1画面で並べる視聴クライアント』なら可能性は残る。例: 複数のYouTube Live/Twitch/Niconico Liveストリームを1画面合成するブラウザ拡張・デスクトップアプリ(MultiTwitch.tv日本版)、推し活向け同時視聴アプリ等。ただし収益化は広告またはサブスク微課金に限定され、スケールしにくい。本ローンチの直接的事業機会は事実上ゼロ。",
+    "rationale": "対象プロダクトは米国限定で日本未提供のGoogle YouTube TVの機能拡張であり、そもそも日本市場接点が無い。同種ニーズ(複数試合同時視聴)は既にDAZNが2025年に標準実装済みで競合密度は非常に高い。放映権・帯域コスト・放送法・電気通信事業法・著作権法といった参入障壁が高く、個人開発の射程外。日本のTV視聴文化も4画面同時視聴に親和的とは言えず、需要・競争・規制・ローカライズ・商習慣のすべての軸で低評価。verdict=no_fit。なお、放映権を必要としないUGCライブ(YouTube/Twitch等)を統合する小型クライアント領域には残余機会があるものの、これは本ローンチの単純模倣ではない別軸の発想となる。"
+  },
+  "business_viability": {
+    "business_viability_score": 2,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "サブスク課金モデル自体は実証済みだが、放映権コストを個人で賄うのは不可能。広告モデルもライブTV領域では大手プラットフォームに勝てない。UGCライブ視聴ツール程度なら月額数百円が上限。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "日本のスポーツ動画配信市場は数百億円規模だがDAZN・Hulu等の寡占。個人開発で取りうるニッチ(UGCライブ並行視聴等)は数千〜数万人規模で、ARPUを掛けても月数十万円が上限。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "B2Cで認知獲得には広告投資が必要。スポーツファン層は既存サブスクに固定化されており、乗り換え動機を作りにくい。SNS発信のみでは規模感が出ない。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "DAZNが2025年に同種機能を実装済みのためタイミングとしては『遅れている』。Vチューバー同時視聴等の周辺領域では一定の機運はある。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "本来のYouTube TV型プロダクトは個人運用不可。仮にUGCライブ統合視聴ツールを作っても、各配信プラットフォームのToS・API変更に振り回されメンテ負荷が高い。"
+      }
+    },
+    "rationale": "本プロダクトは『大手プラットフォームによる既存サービスの一機能改善』であり、個人開発が事業として再現・代替できる構造ではない。日本市場ではDAZNが既に同種機能を実装済みで、放映権・帯域コスト・各種規制(放送法/電気通信事業法/著作権法)を考えると、ライブTV領域への新規参入は個人開発で成立しない。視野を周辺領域(UGCライブのマルチビュー視聴ツール、Vチューバー同時視聴等)に広げても、市場規模・収益化・運用負荷のいずれも厳しく、事業として継続可能なARRに到達するのは難しい。business_viability_score=2、go_no_go=no_go。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 300,
+      "plans": [
+        "Free: 2画面まで同時視聴、広告表示、基本機能のみ。Twitch/YouTube Live等の主要UGCライブを1画面に並べる機能を無料開放しユーザー獲得を狙う。",
+        "Pro 月額500円: 最大4画面、広告非表示、画面レイアウト保存、音声切替UIなど。推し活・eスポーツファン層をターゲットにした有料化。",
+        "Team 月額1500円: 配信者・コミュニティ運営向け。視聴会のシェアURL生成、コメント統合表示などコラボ向け機能を提供。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Vチューバー・eスポーツ・スポーツのUGCライブ配信をTwitch/YouTube Live/Niconico Live等で複数同時視聴したいヘビーファン層。一人で複数推しを追う、配信イベントで複数枠を同時視聴する層が中心。",
+      "target_count": 200000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 600000
+    },
+    "recommended_gtm": [
+      "Vチューバー・eスポーツコミュニティでの口コミ獲得。配信者公式や切り抜きチャンネルとのコラボでデモ動画を拡散しSEO/SNSで一次認知を取る。",
+      "Twitch/YouTube Live OAuth連携で導入摩擦を最小化、無料体験までの導線を10秒以内に圧縮しランディング直帰率を抑える。",
+      "Chrome拡張・PWAとして配布し、ストア検索流入とブラウザ既存ユーザーへのリーチを確保。広告コストを抑えつつ自然流入を狙う。",
+      "推し活カレンダー連携・通知機能で日常使いを促進、習慣化によるLTV向上を狙う。"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "YouTube/Twitch等のToS・API変更で機能停止リスク。各社が同時視聴を独自実装すれば差別化価値が消失する可能性が高い。",
+      "ライブ配信の埋め込みに関する権利関係(著作権法上の公衆送信権・複製権)が個別配信者ごとに異なり、グレーゾーンを抱えた運用になりやすい。",
+      "競合(MultiTwitch.tv等)が既に海外で類似機能を無料提供しており、有料化のハードルが高い。",
+      "ターゲット規模が数十万人とニッチで、ARPU×ユーザー数を掛けても月数十万円規模に留まり事業として成立しない可能性。",
+      "本ローンチの直接模倣ではなく類似発想の派生プロダクトとなるため、参照元の市場検証が薄くPMF確証を得にくい。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 2,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

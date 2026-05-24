@@ -1,0 +1,260 @@
+{
+  "name": "Huddle01 VMs",
+  "description": "Virtual Machines for Your Agents",
+  "ph_url": "https://www.producthunt.com/products/huddle01-cloud-2/launches/huddle01-vms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/UYBGFPMMHGEL7A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-03T07:01:00Z",
+  "upvotes": 447,
+  "comments": 60,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence",
+    "Development"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt!</p><p></p><p>I am Ayush, founder of Huddle01 Cloud. Virtual Machines are an essential when it comes to taking your website or applications online. In last few months, developers and non-devs have been building their applications using AI assistants. Anyone who is not familiar with tech has to spend a lot of time reading through docs to setup their Virtual Machines to get the website published.&nbsp;</p><p>So we decided to fix that.&nbsp;</p><p>Huddle01’s MCP server allows you to access the Virtual Machines from your AI Assistants like Claude Code, Cursor, Antigravity and any tools that support MCPs. You just need to install the server with one line of code and then your chat can handle everything else.&nbsp;</p><p>With this:</p><ul><li><p>Beginners and non-developers can setup Virtual Machine instances from their AI assistant chats.</p></li><li><p>Developers and Builders can setup their agents to auto-deploy instances for the apps that agents create.</p></li><li><p>Check the already running instances and info about VMs without visiting the dashboard.</p></li></ul><p>Huddle01 Virtual Machines come with dedicated AMD EPYC vCPUs, NVME storage and unlimited egress across global regions.&nbsp;</p><p>Why Huddle01 VMs for your agents?</p><ul><li><p>MCP native: We’re the first VM provider that allow you or the agents to just write in the chat and get the infra live.&nbsp;</p></li><li><p>You don’t pay any brand tax. Just pay for what you use with no egress markup. This makes Huddle01 almost 70% cheaper than other hyper scalers.&nbsp;</p></li><li><p>Only three steps setup an then you can get VMs by chatting anytime.&nbsp;</p></li></ul><p>How to use:&nbsp;</p><ul><li><p>Just go to <a href=\"http://get.huddle01.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">get.huddle01.com</a> and copy the code</p></li><li><p>Paste it in your Claude Code terminal, Cursor, Antigravity or any tool.&nbsp;</p></li><li><p>Run it and you’re ready to get deploying from the chat&nbsp;</p></li></ul><p>If you’re building your first python project and don’t want to configure everything manually or you have a multi-agent system working that self deploys everything, Huddle01 has got you covered.&nbsp;</p><p>You can leave feedback or ask questions to us in our Discord too.&nbsp;</p><p>It’s time to get deploying with Huddle01 (<a href=\"http://huddle01.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">huddle01.com</a>).&nbsp;</p><p>We’re here the whole day to answer all your questions!</p>",
+      "votesCount": 20,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on shipping!! Always exciting to see infra innovation happening.</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>let's go. we finally live</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Huddle01 Cloud allows you to spin up a Virtual Machine (VM) from your favourite AI assistant now! The MCP server lets you control your infrastructure setup on Huddle01 just by chatting. Works with Claude, Cursor, Antigravity, or anywhere you can set up MCPs. Your virtual machines come with Unlimited Ingress, Per-second billing, and Unthrottled NVMe Storage.",
+  "featured_at": "2026-05-03T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/b3cfc82c-1ead-4c1f-8d8e-c541953cefa9.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/34e696e4-58ee-4f36-9ef4-a14f2fddad70.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5d01d491-fc20-4821-a6fc-56878b0614b4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/849df79b-b12c-436d-8806-f094b1ab23ac.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/9dd39380-9baf-4970-9a7e-b2f0c8ef69c7.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-24T20:35:30",
+  "landing_meta": "Huddle01 VMs — Virtual Machines for Agents — Chat with Claude, Cursor or Antigravity to spin up a VM. MCP-native infra: AMD EPYC, NVMe, unlimited egress, per-second billing.",
+  "landing_text": "Huddle01 VMs — Virtual Machines for Agents We just launched on Product Hunt → Virtual Machines for Agents Just ask Claude, ChatGPT, or Cursor. Get a VM. Try it on Claude Open the Console → AMD EPYC Dedicated vCPU NVMe Unthrottled storage Unlimited Egress, no markup Per second Billing Speaks MCP → Claude Code Claude Desktop Cursor Antigravity Windsurf Zed Skip the docs. Skip the dashboard. First-timers Publish what your AI built \"host my python script on a VM\" Builders Let your agents self-deploy \"deploy each generated app to its own box\" Try it on Claude Open the Console → Three steps. One terminal. 01 Copy the install line 02 Paste it into your terminal 03 Chat to deploy Claude Code Cursor Antigravity Manual $ claude mcp add huddle01 -- npx -y @huddle01/mcp Copy $ npx -y @huddle01/mcp --install cursor Copy $ npx -y @huddle01/mcp --install antigravity Copy $ npx -y @huddle01/mcp Copy Try it on Claude Open the Console → Faster. 1/3 the price. No Manual Configuration. 30+ min sustained · Ubuntu 24.04 LTS (Kernel 6.8) · ffmpeg, Go, make, fio · Open-source · AP-South-1 Web Server — Go, 50 concurrent image requests Huddle01 anton-2 84.26 RPS AWS c7i.large 46.18 RPS 3× the cost AWS t3.medium 28.44 RPS CRASHED Video Transcoding — 4K → 1080p (lower is better) Huddle01 anton-2 13 mins AWS c7i.large 19 mins AWS t3.medium 32 mins Throttled CI/CD Build — Redis compilation from source (lower is better) Huddle01 anton-2 67 sec AWS c7i.large 84 sec AWS t3.medium 128 sec Disk I/O — PostgreSQL-style random read/write (IOPS — higher is better) Huddle01 anton-2 13,380 AWS c7i.large 2,286 AWS t3.medium 2,266 5× the IOPS. 7× lower latency. At 1/3 the price. Try it on Claude Open the Console → Just type it. Watch it happen. 01 first-timer \"set up a VM for my python script\" 02 builder \"deploy this Next.js repo to a fresh box\" 03 either \"how much have my VMs cost this week?\" Try it on Claude Open the Console → No brand tax. No egress markup. ~70% more affordable than hyperscalers Class Com",
+  "pricing_signals": [
+    "open-source",
+    "pricing",
+    "$0.018",
+    "$0.072",
+    "$0.144",
+    "$0.260"
+  ],
+  "landing_fetched_at": "2026-05-24T20:35:30",
+  "description_ja": "Claude CodeやCursorのチャットからMCP経由でVMを立ち上げ・運用できるエージェント向けクラウド",
+  "summary_ja": "Huddle01 VMsはMCPサーバ経由でAIアシスタント（Claude Code/Cursor/Antigravity等）からVMを操作できるクラウド。AMD EPYC・NVMe・無料egress・秒課金で、ハイパースケーラより最大約70%安いと謳う。",
+  "tldr_ja": "AIチャットから一行で仮想マシンを立てて運用できるMCPネイティブの格安クラウドVM",
+  "review_guide_ja": {
+    "what": "Huddle01 VMsは「AIアシスタントから直接VMを操作できる」MCPネイティブなクラウド仮想マシンサービス。`npx -y @huddle01/mcp`等のワンライナーでClaude Code/Cursor/Antigravity/Windsurf/Zedに統合され、自然言語でインスタンス作成、デプロイ、ステータス確認、コスト確認まで実行できる。インフラはAMD EPYCの専有vCPU・NVMe SSD・無料egress・秒単位課金。ベンチマーク上はAWS c7i.large比でRPS約1.8倍、IOPS約5.8倍、CI/CDビルド約20%短縮を主張し、価格は最低$0.018/時間〜$0.260/時間で「ハイパースケーラ比70%安」と謳う。リージョンはAsia/Europe/North Americaを順次展開中で、現状はAP-South-1（インド）が中心。dashboard不要で「初心者がAIが作ったコードを公開する」「エージェントが自動デプロイする」両ユースケースを想定する。",
+    "for_who": "AI駆動開発（Vibe Coding）でClaude Code/Cursorを常用し、自然言語のままVMを立てたい個人開発者や、エージェントが生成したアプリをそのまま自動デプロイしたい先端ビルダー。レイテンシよりコストと操作の手軽さを重視する層、PoCやサイドプロジェクトを大量に立ち上げて捨てる開発者に刺さる。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "MCPサーバはOSSでVM＋IaCの組み合わせ自体は再現容易だが、独自のグローバル分散インフラ・秒課金・低価格を成立させる規模の調達と運用は個人では困難。"
+    },
+    "signals": [
+      "PH 447 upvotes / 60 comments と高エンゲージメント",
+      "Claude Code/Cursor/Antigravity/Windsurf/Zed等主要AI IDEを横断対応",
+      "AWS比1/3価格・5倍IOPSなど具体ベンチを明示",
+      "MCP一行インストールで非開発者にも届く設計",
+      "親会社Huddle01 CloudはWeb3通信レイヤとして既に実績"
+    ],
+    "concerns": [
+      "現状リージョンがAP-South-1中心で東京/大阪リージョン未提供",
+      "egress無料・70%安は新規参入時の出血マーケに見え長期持続性が不透明",
+      "「AIが勝手にVMを立てる」モデルは暴走時の課金事故リスク",
+      "VPS/IaaSは既存大手（AWS/GCP/さくら/ConoHa）が圧倒的シェア",
+      "Web3企業発でブランド認知が日本のエンジニア層に薄い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本でもClaude Code/Cursorによるバイブコーディングは急速に普及しており、デプロイ手間の自動化ニーズは存在。一方VMを直接触る層は限定的で、Vercel/Cloudflare等サーバレスへの移行潮流が強く、生粋のVM需要は中位。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "VPS/IaaS市場はさくら・ConoHa・Xserver VPS・AWS Lightsail・Vultr東京等が確立、東京リージョン提供で価格・レイテンシ・日本語サポートで既に十分競争力がある。MCP対応もAWS/GCP/Azureが公式MCP群を投入済み。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "個人情報保護法23条の越境移転規制があり、データを海外リージョンに置く場合は所在国の法制理解と外的環境把握の開示が必要。インフラ単体なら個人開発PoCでは大問題化しにくいが、本格商用では阻害要因になり得る。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "日本語UI・日本円課金・日本リージョン・国内法人/インボイス対応・日本語ドキュメントいずれも未確認。Web3発のグローバルプロダクトで、現時点で日本市場向けローカライズの兆候は乏しい。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業はクラウド選定で実績・SLA・国内データセンタ・日本円請求書/インボイス・電話/日本語サポートを重視。新興海外プロバイダがいきなり業務利用に入るのは困難で、まずは個人開発者の趣味用途に限定される。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "さくらのVPS / さくらのクラウド",
+        "url": "https://vps.sakura.ad.jp/",
+        "note": "国内最大級VPS、日本円請求・東京/石狩リージョン・電話サポート有。個人開発で長年定番。"
+      },
+      {
+        "name": "ConoHa VPS",
+        "url": "https://vps.conoha.jp/",
+        "note": "GMO提供の格安VPS。WordPressやマイクラ等テンプレ豊富、個人開発の入口として人気。"
+      },
+      {
+        "name": "Xserver VPS",
+        "url": "https://vps.xserver.ne.jp/",
+        "note": "NVMe SSD・高CPU性能を打ち出す国内シェア上位。個人開発に十分。"
+      },
+      {
+        "name": "AWS Lightsail / Vultr Tokyo",
+        "url": "https://aws.amazon.com/lightsail/",
+        "note": "東京リージョンで低レイテンシ提供。VultrはAPIも整備、海外勢の現実的代替先。"
+      },
+      {
+        "name": "Cloudflare Workers / Vercel / Fly.io",
+        "url": "https://workers.cloudflare.com/",
+        "note": "サーバレス・エッジが日本の個人開発で急速にデフォルト化。VMを必要としない用途を奪う最大の競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（第23条 外的環境の把握・越境移転）",
+        "impact": "個人データを海外リージョンVMに保存する場合、サーバ所在国の法制理解と必要な安全管理措置の実施・本人への情報提供義務が発生し、商用導入時のチェックリストを増やす。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "通信機能を含むサービスを国内提供する場合の届出義務が論点になる可能性はあるが、IaaS単体提供では直接の規制対象になりにくい。"
+      }
+    ],
+    "opportunity": "日本の個人開発者にとって最大の追い風は「Claude Code/CursorからVMをチャットで触りたい」というUX需要そのものであり、これは既存大手が即時に追いつきにくい差別化軸。バイブコーディング普及で非エンジニアが自分のアプリを公開したい場面が増えており、ダッシュボード不要・MCP一行設定はリテラシ低い層への明確な価値となる。さらに70%安・無料egressという価格訴求は、PoCを大量に立ち上げる個人/小規模チームの「とりあえず置く先」ニーズと相性が良い。逆に言えば日本人開発者が直接Huddle01 VMsを選ぶ機会は限定的で、「AIエージェント自動デプロイ」「PoC量産用の使い捨てVM」のニッチを狙うなら勝機がある。",
+    "rationale": "需要側はAIエージェント駆動開発の普及で潜在的にあるが、日本での「VMを直接触る」需要そのものはサーバレス潮流に押されて中位に留まる。競合面はさくら/ConoHa/Xserver/AWS Lightsail/Vultr東京などが東京リージョン・日本円・日本語サポート・インボイス対応で既に強固。Huddle01はAP-South-1中心でレイテンシ的に不利、日本語/JPY/国内データセンタが揃わない限り、業務利用は伸びにくい。MCPネイティブの体験価値は新しいが、AWS/GCP/Azureも公式MCPサーバを揃え始めており差別化の窓は短い。規制面は越境移転規制が商用導入時の追加摩擦になる。総じて、個人開発の趣味/PoC利用は刺さる余地があるものの、本格的な日本市場攻略には未対応点が多く、現時点では「watch」というより「skip」寄り（5点）。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "$0.018〜$0.260/時の従量課金は明快で売上化しやすい。ただし個人開発のPoC用途は1人当たり月数百円〜数千円規模、ARPUは低く、ハイパースケーラ並みのスケール無しでは粗利が薄い。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内IaaS/VPS市場は数千億円規模だが大半が法人・大手クラウド。個人/AIネイティブVM需要に絞ると年商10〜30億規模の限定セグメントで、新興1社が国内で取れる枠は数億円程度。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発者は日本語ブログ・Zenn・Qiita・Xでの口コミで選ぶ傾向が強く、英語のみ・JPY未対応・東京リージョン無しでは導線が細い。日本進出には現地マーケ/法人/データセンタ投資が必要で、海外スタートアップにはハードル高。"
+      },
+      "timing": {
+        "score": 8,
+        "reason": "Claude Code/CursorとMCPの普及がまさに今で、「AIが自動デプロイ」のキャズム直前。タイミング自体は良好で、半年〜1年でMCPデプロイ体験が当然視される可能性が高い。"
+      },
+      "solo_ops": {
+        "score": 1,
+        "reason": "グローバル分散の物理データセンタ運営は個人/小規模チームでは絶対に不可能。常時オンコール・SLA・キャパシティ計画・抽出規制対応など、規模インフラとしての要件が桁違いに重い。"
+      }
+    },
+    "rationale": "本プロダクトは個人開発者がそのまま真似するには絶対に不可能な領域（グローバル分散物理インフラ）であり、solo_opsは事実上1点。ARPUは秒課金で小さく、勝つには圧倒的なユーザー規模が必要で、収益化のレバレッジは「ハイパースケーラの値下げ追随に耐えられるか」に依存する。タイミングはMCP普及期と一致しており評価は高いが、市場規模は日本単体で限定的、GTMも日本市場では英語ドキュメント/海外リージョン中心で個人開発者層への浸透速度は遅い。総じてビジネスとしては成立し得るが、これは資金調達のあるインフラスタートアップ向けの賭けであり、個人開発者の参考案件としては「やめておくべき」事業形態。むしろ示唆として有用なのは「MCPネイティブで操作するDevTool/IaC補助」というレイヤであり、ここなら個人開発でもアプリ層で参入余地が残る。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 1500,
+      "plans": [
+        "従量プラン: 秒課金 $0.018/h〜$0.260/h相当。クレジット前払いで日本円決済対応すれば個人ユーザーの心理的ハードルが下がる。Stripe JPY+インボイス対応必須。",
+        "Builder月額: 月¥1,500前後で小型VM 1〜2台分のクレジット込み。Claude Code/CursorのIDE経由でデフォルト推奨される導線を組み込みLTVを伸ばす。",
+        "Team月額: 月¥9,800で複数開発者がチームVMを共有、エージェントの自動デプロイ枠と監査ログ付与。サイドプロジェクト多発のスタートアップ層に。",
+        "Enterprise個別: SLA・国内データセンタ希望・インボイス・日本円請求書発行が必要な企業向け。最低¥100,000/月から商談。",
+        "OSS/学生クーポン: GitHub Studentパック/ハッカソン提供で年間¥10,000相当を配布、Vibe Coding学習層を青田買いし将来の有料化に繋げる。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Claude Code / Cursor / Antigravityを日常的に使う日本の個人開発者・副業エンジニア・小規模スタートアップで、PoCやサイドプロジェクトを高頻度で立ち上げ、低レイテンシより低コスト・操作の手軽さを優先する層。特にWeb系・AIラッパー系プロダクトを量産するインディハッカー。",
+      "target_count": 50000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 750000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita/Xで「Claude CodeからMCPで一発デプロイ」の日本語ハンズオン記事を量産し、検索流入と口コミを獲得する。",
+      "国内のVibe Coding系インフルエンサー（Inkdrop作者、TAKUYA等）にAffiliateクレジットを配布しユーザーレビュー動画/記事を誘発。",
+      "GitHub Student Pack/ハッカソン協賛で学生・新人開発者に無料クレジット配布し、習慣化させてから卒業後に課金へ転換。",
+      "Cursor/Claude Codeの公式MCPカタログに登録され、IDE標準の選択肢として露出を最大化。",
+      "東京リージョン提供と日本円Stripe決済・適格請求書（インボイス）対応を最優先で実装し、商用導入の摩擦を一段下げる。",
+      "Cloudflare/Vercel migrationガイドの形で「VM視点の安さ」を訴求し、サーバレスから戻したい開発者を取り込む。"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "物理データセンタ運営は個人不可。インフラ事業は資本集約型で、個人開発者が本案件をそのまま再現することは不可能。模倣するならアプリ層（MCP対応IaCツール等）に限定するべき。",
+      "ハイパースケーラ（AWS/GCP/Azure）が公式MCPサーバ群を投入済みで、「MCP対応」だけの差別化は1年で陳腐化する可能性が高い。価格70%安の優位性も値下げ追随で削られる。",
+      "「AIが勝手にVMを立てる」UXは課金事故/暴走デプロイのリスクを孕み、初心者ユーザーで請求トラブルが頻発すると評判が崩壊する。Spending capやレート制限の設計が必須。",
+      "東京リージョン無し・日本語/JPY未対応のままだと、商用導入での個人情報保護法（外的環境把握）対応・インボイス制度対応がボトルネックになり、日本では趣味用途以上に伸ばせない。",
+      "Web3企業発のブランドは日本のエンタープライズ層に警戒感を持たれやすく、AIインフラとしての信頼性をゼロから構築する必要がある。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}
