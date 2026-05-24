@@ -123,7 +123,7 @@ uv run prr verify-published --week "$WEEK" --candidates "$CANDIDATES" --limit 20
 過去週も同じテンプレで上書きされ、フォーマットが統一される。
 `verify-published` で `docs/<week>/index.html` と 20 個の product HTML、共通 CSS の存在を確認。
 
-### Step 9 — commit & push
+### Step 9 — commit & push（自動デプロイ）
 
 ```bash
 git add data/ reports/ docs/
@@ -131,27 +131,45 @@ if git diff --cached --quiet; then
   echo "no changes to commit"
 else
   git commit -m "research($WEEK): top20 japan-fit ranking"
-  git push
+  # 初回のみ upstream 設定が必要なケースがある
+  if git rev-parse --abbrev-ref --symbolic-full-name @{u} >/dev/null 2>&1; then
+    git push
+  else
+    git push -u origin "$(git rev-parse --abbrev-ref HEAD)"
+  fi
 fi
 ```
 
+push が成功すると、GitHub Pages（main の `/docs` を配信）が **数分以内に自動更新** される。
+追加の GitHub Actions などは不要。
+
 push で失敗した場合は中断してユーザーに報告。`--no-verify` や `--force` は禁止。
+
+リモート URL から GitHub Pages の URL を組み立てるには:
+
+```bash
+REMOTE_URL=$(git config --get remote.origin.url)
+# 例: https://github.com/<user>/<repo>.git → https://<user>.github.io/<repo>/
+PAGES_URL=$(echo "$REMOTE_URL" | sed -E 's#.*[:/]([^/]+)/([^/]+)(\.git)?$#https://\1.github.io/\2/#')
+```
 
 ### Step 10 — ユーザーへの結果報告（1 メッセージ）
 
 以下を 1 メッセージにまとめて返答：
 
-1. 生成された report のパス（`reports/<week>/top20.md`）
-2. 公開 HTML の URL（push 成功時のみ）
-   `https://<user>.github.io/<repo>/<week>/`
+1. **公開 URL**（push 成功時、最優先で表示）
+   - トップ: `<PAGES_URL>`
+   - 当週: `<PAGES_URL><week>/`
+   - GH Pages のビルドは push 後 1〜3 分かかる旨を併記
+2. 生成された MD レポートのパス（`reports/<week>/top20.md`）
 3. TOP10 を表形式で:
    ```
    #1  ⭐X/10  🇯🇵 X  💼 X  verdict   ProductName
    #2  ⭐X/10  🇯🇵 X  💼 X  verdict   ProductName
    ...
    ```
-4. overall_score の分布
-5. push した場合は最新 commit の hash（`git rev-parse --short HEAD`）
+4. overall_score / go_no_go の分布
+5. 最新 commit の hash（`git rev-parse --short HEAD`）
 
 長い解説は不要。簡潔に。
 
