@@ -2,7 +2,7 @@
 {% block content %}
 <section class="hero">
   {% if weeks %}
-  <p class="hero-meta">📅 最新レポート: <strong>{{ weeks[0].week }}</strong>（生成 {{ weeks[0].generated_at }}）</p>
+  <p class="hero-meta">最新レポート: <strong>{{ weeks[0].week }}</strong>（生成 {{ weeks[0].generated_at }}）</p>
   <p class="hero-stats">
     {% for label, count in weeks[0].verdict_stats %}<span class="pill pill-{{ label }}">{{ label }} {{ count }}</span>{% endfor %}
   </p>
@@ -21,7 +21,7 @@
     {% if w.top3 %}
     <p class="week-top3">
       TOP3:
-      {% for t in w.top3 %}<strong>{{ t.name }}</strong> <span class="badge badge-overall">⭐{{ t.overall_score }}</span>{% if not loop.last %} / {% endif %}{% endfor %}
+      {% for t in w.top3 %}<strong>{{ t.name }}</strong> <span class="badge">総合 <span class="metric-num">{{ t.overall_score }}</span></span>{% if not loop.last %} / {% endif %}{% endfor %}
     </p>
     {% endif %}
     <p class="week-distribution">

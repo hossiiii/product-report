@@ -32,9 +32,9 @@
       <div class="card-title">
         <h3><a href="{{ r.ph_id }}.html">{{ r.name or r.ph_id }}</a></h3>
         <p class="badges">
-          <span class="badge badge-overall" title="overall">⭐{{ r.overall_score or "—" }}</span>
-          <span class="badge badge-jf" title="japan_fit">🇯🇵{{ jf.japan_fit_score or "—" }}</span>
-          <span class="badge badge-bv" title="business_viability">💼{{ bv.business_viability_score or "—" }}</span>
+          <span class="badge" title="overall">総合 <span class="metric-num">{{ r.overall_score or "—" }}</span></span>
+          <span class="badge" title="japan_fit">日本 <span class="metric-num">{{ jf.japan_fit_score or "—" }}</span></span>
+          <span class="badge" title="business_viability">事業 <span class="metric-num">{{ bv.business_viability_score or "—" }}</span></span>
           <span class="pill pill-{{ av.go_no_go or 'unknown' }}">{{ av.go_no_go or "—" }}</span>
         </p>
       </div>
