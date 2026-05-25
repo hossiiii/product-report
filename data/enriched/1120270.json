@@ -1,0 +1,218 @@
+{
+  "name": "Drift",
+  "description": "Minimalist journal app that fades over time",
+  "ph_url": "https://www.producthunt.com/products/drift-journal-that-lets-go/launches/drift-a7eecd58-2a1d-4550-8750-d37c3edb2791?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/77I2D7OKQILF7O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-10T07:01:00Z",
+  "upvotes": 232,
+  "comments": 40,
+  "topics": [
+    "Productivity",
+    "Writing",
+    "Meditation"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hi everyone,\nI built Drift because every journal app I tried wanted me to do more. I just wanted to write something short and move on.\nSo I made a journal where entries slowly fade over time. 120 characters, a drawing, a photo. No AI, no ads, no account needed.\nWould love to hear what you think.",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>\"For people who want less\" is such a bold tagline in a space where every product promises to help you do more. I respect that. There's something broken about the default assumption that productivity means throughput. Curious what the hardest design decision was, I'd guess it's knowing what to leave out, because every feature you cut means someone emails you asking for it.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Really like how theres no extra distracting features like ads an AI so you can entirely focus and not get distracted</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Drift is a journal app for people who want less. 120 characters. A drawing and a photo. That's it. No streaks, no AI, no ads. Everything you write naturally softens over time. Text loses clarity. Drawings dissolve. Photos grow faint. Touch and hold to bring any entry back. Nothing is deleted — just quieter. Anchors is an anonymous shared space. A prompt appears periodically. Strangers respond side by side. No profiles, no followers.",
+  "featured_at": "2026-04-10T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/56c805fe-938b-404b-a8fd-999bcec27808.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a78dc1c3-f4ca-453a-ac23-210966ff481c.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cee33146-7329-4d1d-ba1e-2a1389ec3d3a.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/04758b5e-dc77-4bb0-9e04-2faac8b04b43.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/31a8ee4e-ff62-42f1-a91d-737f3b1c14c8.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/a97ecb9f-76ea-46b4-ae75-6df448b44d45.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:40",
+  "landing_meta": null,
+  "landing_text": null,
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T06:04:40",
+  "description_ja": "時間とともに記録が薄れていくミニマル日記アプリ。120字+絵+写真だけ。",
+  "summary_ja": "120文字のテキスト、手描き、写真の3要素だけで投稿でき、書いた内容が時間経過で自然に薄れていく日記アプリ。AI・広告・アカウント・連続記録すべて排除し、長押しで再表示可能。Anchorsで匿名共有も。",
+  "tldr_ja": "国産muute/Awarefy等が日記市場を寡占、ミニマル路線も既出。差別化弱く日本での個人開発は厳しい。",
+  "review_guide_ja": {
+    "what": "シンプルな日記アプリ。投稿フォーマットは120文字テキスト+手描き1枚+写真1枚のみで、入力後は時間経過とともにテキストはぼやけ、絵は溶けるように消え、写真は薄くなる視覚演出が施される。長押しで元の鮮明な状態に戻せるが、自動削除はされず「静かになる」だけ。AI・広告・ストリーク（連続記録）・アカウント登録なし。Anchorsという匿名スペースでは定期的にプロンプトが表示され、知らない人同士が並んで回答できる（プロフィール/フォロー機能なし）。書くこと自体への没入と忘却を肯定するアンチ生産性思想が中核。",
+    "for_who": "毎日の記録に疲れた・続かない人、ストリークやAI提案を強要する既存日記アプリに違和感を持つ層、瞑想や引き算思想を好むミニマリスト、SNS疲れから匿名で軽く吐き出せる場所を求める20-30代女性層。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "Flutter/SwiftUI等で1〜2か月で実装可能。フェード演出はシェーダ/CoreAnimation、Anchorsは小規模Firebase/Supabaseで構築できる。AIなし・サーバ依存軽。"
+    },
+    "signals": [
+      "Product Hunt 232 upvote/40コメントで初日好反応",
+      "「For people who want less」のアンチ生産性ポジショニングがコメントで高評価",
+      "国内ではmuute累計150万DL等ジャーナリング市場自体は成長中",
+      "ストリーク/AI不使用がSNS疲れ層に刺さる可能性"
+    ],
+    "concerns": [
+      "差別化が思想/UXに集中し、機能優位で守れない（後発の模倣容易）",
+      "「データが薄れる」演出は保存を期待するユーザーに違和感を与えうる",
+      "Anchorsは匿名投稿でモデレーション必須、個人運用は炎上リスク高",
+      "課金フックが弱く、無料アプリで終わる可能性",
+      "国内既存大手（muute, Awarefy, Daylio日本語版）と機能重複"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日記アプリ市場は国内2025年で約3.13億ドル規模、年平均8.6%成長。muute150万DL/Awarefy80万DLが示すようジャーナリング需要は顕在。ただし「フェード」という独自切り口の需要は未検証で根拠未確認。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "muute・Awarefy・シンプル日記・地味に便利な日記帳・引き出し日記・Daylio日本語版など国産/ローカライズ済競合多数。ミニマル路線も既に飽和。後発が割って入る余地は限定的。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "個人情報保護法上、クラウド暗号化と適切なアクセス制御を行えば委託扱いを回避可能。プライバシーポリシーへの個人事業者情報記載は必須だが負担は軽。Anchors匿名共有部分は特定電子メール法/不正競争防止法より、青少年保護やコンテンツ違法性に注意。"
+      },
+      "localization": {
+        "score": 9,
+        "reason": "テキスト120字制約は日本語との相性が良い（短文文化）。UI翻訳のみで実装でき、深いUX改修不要。手描き・写真主体で言語依存が薄い。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "日本人は「もったいない」「記録を残す」志向と引き算ミニマリズム志向が混在。フェード演出は前者に違和感、後者に共感を得る二極化の可能性。匿名空間文化（5ch/note）との親和性は良。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "muute",
+        "url": "https://muute.jp/",
+        "note": "AIジャーナリングアプリ。累計150万DL（2025年6月時点）。シンプルな書き出し+AI分析。日本最大級の国産ジャーナリングアプリ。"
+      },
+      {
+        "name": "Awarefy",
+        "url": "https://www.awarefy.com/",
+        "note": "早稲田大学と共同研究のAIメンタルケア。約80万DL。認知行動療法ベース。NHK等メディア露出多。"
+      },
+      {
+        "name": "シンプル日記",
+        "url": "https://my-best.com/2119",
+        "note": "App Store/Google Playで定番のミニマル日記アプリ。写真添付・タグ検索・テーマカラー変更等を備える。"
+      },
+      {
+        "name": "地味に便利な日記帳",
+        "url": "https://app-liv.jp/lifestyle/all/0633/",
+        "note": "紙の日記帳のシンプルさを追求、短文記録特化でオフライン動作。ミニマリスト向けに人気。Driftと最も近いコンセプト。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "日記内容は機微情報を含み得る。個人開発者はプライバシーポリシーに氏名・住所記載必須。クラウド保存時は暗号化+アクセス制御で「委託」扱いを回避できれば負担軽。Anchors共有時は本人同意が必要。"
+      },
+      {
+        "law": "特定電子メール法・青少年保護関連条例",
+        "impact": "Anchors匿名共有スペースを実装する場合、未成年保護・違法コンテンツ対策が必要。モデレーション体制の構築コストが個人運用には重い。"
+      }
+    ],
+    "opportunity": "「ストリーク・AI・SNS的承認を排した忘却を許す日記」という思想ポジショニングは国内muute/Awarefyとは異なる軸。Bold Minimalismトレンドや断捨離・SNS疲れ文脈と接続できる。Anchorsを切り離し「個人の静かな記録」に絞れば、note/Zenn等の文章カルチャー層に小さく刺さる可能性はある。ただし機能優位ではなく思想と体験のみで戦うため、ブランド構築力が決定打。",
+    "rationale": "市場自体は成長中で需要は確かにあるが、国産muute（150万DL）・Awarefy（80万DL）・シンプル日記・地味に便利な日記帳など競合が層厚く、特に「ミニマル日記」の枠は既に複数の国産が占めている。差別化要素である「フェード演出」は感情的訴求力はあるが機能的優位性に欠け、模倣容易。ローカライズは容易で規制リスクも低いものの、競合の壁を越える戦略は思想/ブランディング頼みになり、個人開発者がボイスを届ける難易度は高い。Anchors実装を含めるとモデレーション負荷が個人運用範囲を超える。総合的にスコアは中庸〜低めとなり、日本市場での新規参入はskip推奨。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "日記アプリのサブスク相場は月280-700円/年2,800-7,000円程度（Day One/Daylio参考）。ただしDriftは機能が極端に少なくPremium枠を作りにくい。テーマ追加・バックアップ・追加文字数程度しか売れる要素なく、ARPUは限定的。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内デジタル日記アプリ市場は2025年で約3.13億ドル、2035年7.11億ドル予測。スマホユーザーの一部に届けば数千〜数万ユーザー規模は可能だが、個人開発で取れる現実シェアは0.1%以下。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "X/note/Instagram経由のPLGは可能だが、ジャーナリング/メンタル領域は信頼形成に時間がかかる。広告予算なしの個人ではmuute/Awarefyの認知差を覆すのは困難。インフルエンサー紹介に頼ると不確実。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "ミニマル日記カテゴリは既に成熟、本家Drift自身が日本App Storeへ展開する可能性も高い。一方でBold Minimalism/SNS疲れ文脈は今が旬で、参入猶予は12-24か月程度と推定（根拠未確認）。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "コア日記機能のみなら個人運用可能だがAnchors匿名共有を含めるとモデレーション・通報対応が24/7必要となり個人運用は厳しい。さらにメンタル関連投稿の自傷示唆等に対応する責任も発生しうる。"
+      }
+    },
+    "rationale": "事業性の壁は3点。(1) マネタイズ設計が困難：機能を引き算したコンセプトのため、追加機能で課金フックを作るとブランド毀損。テーマ/装飾/クラウド同期程度ではARPU月200-400円が上限。(2) GTMで国産大手に勝てない：muute/Awarefyは予算とメディア露出で先行しており、個人開発者がオーガニックで認知差を埋めるのは現実的でない。(3) Anchors実装による運用負荷：匿名共有スペースは個人運用範囲を超えるモデレーション要件があり、特にメンタル関連投稿への対応リスクが大きい。コア日記機能のみに絞ってもLTVが低く、3年で月商10万円台が現実的天井。事業として成立させるには法人化や共同創業者が必要で、個人開発のスケールにフィットしない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 200,
+      "plans": [
+        "Free: 全コア機能（120字+絵+写真、フェード演出、ローカル保存）",
+        "Plus: ¥300/月 もしくは ¥2,400/年（クラウドバックアップ、テーマ追加、フェード速度カスタム）",
+        "買い切り: ¥2,400 一括（Plus相当の永続利用、Daylioライフタイム参考）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "20-30代の女性・SNS疲れ層・ミニマリスト志向の個人ユーザー。記録を残すよりも書く行為そのもの・忘却を肯定するユーザー。note/Zenn/Instagram利用者のうちジャーナリング関心層。",
+      "target_count": 500000,
+      "capture_pct_year3": 0.2,
+      "monthly_revenue_target_jpy": 200000
+    },
+    "recommended_gtm": [
+      "X個人発信（プロダクトの思想を毎日短文で）",
+      "noteで「忘れることを許す日記」を週次連載しSEO/共感獲得",
+      "Instagram Reels/TikTokでフェード演出を見せる短尺動画",
+      "App Store内SEO（ミニマル日記/シンプル日記/瞑想 キーワード）",
+      "ミニマリスト系YouTuber/インフルエンサーへの直接送付"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "国産muute・Awarefyとの認知差を個人広報で埋められず、ストアで埋もれる。両社は累計DL150万・80万でメディア露出も先行している。",
+      "Anchors匿名共有を実装するとモデレーション負荷（違法投稿/自傷投稿/誹謗中傷対応）が個人運用範囲を超え、コア機能リリース後すぐ運用が破綻する。",
+      "フェード演出が「データが消える不安」を生み、保存志向の日本ユーザーの一部に拒否反応を起こす。レビュー★1で初動失敗。",
+      "本家Driftが日本App Storeに展開（時間軸18-24か月）した時点で先行者利益が消滅。差別化は思想のみのため再現性が低い。",
+      "課金フックが薄く、Plus登録率1%未満となり3年経過しても月商5万円台で生活費に届かない可能性。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-26T06:30:00Z",
+  "review_guide_at": "2026-05-26T06:30:00Z",
+  "business_viability_at": "2026-05-26T06:30:00Z",
+  "advisor_view_at": "2026-05-26T06:30:00Z"
+}

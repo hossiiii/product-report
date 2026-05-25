@@ -1,0 +1,261 @@
+{
+  "name": "Claude Design by Anthropic Labs",
+  "description": "Make prototypes, slides & one-pagers by talking to Claude",
+  "ph_url": "https://www.producthunt.com/products/claude/launches/claude-design-by-anthropic-labs-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/SZZJSUNKYCUDEH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-18T07:01:00Z",
+  "upvotes": 550,
+  "comments": 21,
+  "topics": [
+    "Design Tools",
+    "Artificial Intelligence",
+    "Design"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>I've tried this and found that I can create a marketing video from reading my codebase in 10 minutes. 🤔 But just to do this, it costs me 46% of my weekly limit. 😂</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><a href=\"https://claude.ai/design\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Claude Design by Anthropic Labs</strong></a><strong> is a big step toward AI-powered creative workflows 👇</strong></p><p></p><p><strong>What it is: </strong>A collaborative AI design tool to create polished visuals like prototypes, decks, landing pages, and more</p><p></p><p><strong>Problem → Solution:</strong></p><ul><li><p>Design is time-consuming and requires expertise</p></li><li><p>Claude lets you describe ideas and iteratively refine them through conversation</p></li></ul><p><strong>What’s different:</strong></p><ul><li><p>Conversational design workflow</p></li><li><p>Real-time editing with inline feedback</p></li><li><p>Automatic application of your team’s design system for consistent outputs</p></li></ul><p><strong>Key features:</strong></p><ul><li><p>Prompt-to-design generation</p></li><li><p>Inline comments and direct edits</p></li><li><p>Adjustable controls (spacing, color, layout)</p></li><li><p>Import from docs, images, or codebases</p></li><li><p>Team collaboration and shared workspaces</p></li><li><p>Export to PPTX, HTML, Canva</p></li></ul><p><strong>Benefits:</strong></p><ul><li><p>Faster iteration and experimentation</p></li><li><p>No design expertise required</p></li><li><p>Consistent, on-brand outputs</p></li><li><p>Smooth handoff from design to development</p></li></ul><p><strong>Who it’s for &amp; use cases: </strong>Designers, PMs, founders, and marketers for wireframes, pitch decks, landing pages, marketing assets, and interactive prototypes.</p><p></p><p>Feels like a strong bridge between <strong>idea → design → execution</strong>.</p><p></p><p>I and <a href=\"https://www.producthunt.com/@rohanrecommends\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a> co-hunt today.</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Tried this already and prototyping really does feel much faster here – I was able to put together a pretty complete app concept, including animations, and it felt surprisingly smooth. There are still a few rough edges to polish. For example, I couldn’t figure out an easy drag-and-drop flow for moving objects around in the design, though I may just have missed it. But those feel more like fixable product details than core limitations. Overall, this makes the jump from idea to prototype feel much smaller.",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Claude Design by Anthropic is an AI-powered design tool that turns ideas into polished visuals through simple prompts. Create prototypes, decks, and marketing assets, refine them via conversation, and export anywhere. It speeds up design workflows, ensures brand consistency, and enables designers, founders, and marketers to go from concept to execution faster.",
+  "featured_at": "2026-04-18T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/ae49ce7d-30a4-457b-823a-2e1ee8d44dbb.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ac3fc854-888e-439b-9fd9-1cdb8029c32e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/50468a03-fc45-4990-acbf-a8346cfa747b.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/70ac784b-7126-43b2-be02-441bbaafb5ed.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ade87729-20ea-4e31-9d3f-3ae52409e406.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f1e73198-3bbb-4846-acaa-de80b3fd6cf2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e23a74b9-dbb7-4d22-9166-27da31611f79.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/db40c9d3-ced8-4165-b87a-4a10d66d5ca3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1d76c66a-d6b3-47ce-bb40-26b8f86ef320.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9701897d-5cb8-486c-b3dd-1a198d89283a.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/0812b61a-1a16-4eeb-bbab-ca3c0c0f1baa.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:33:47",
+  "landing_meta": "The AI for Problem Solvers | Claude by Anthropic — Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+  "landing_text": "The AI for Problem Solvers | Claude by Anthropic Explore here Latest news Next Next Claude Opus 4.7 Introducing Claude Opus 4.7, our most capable Opus model yet. Learn more Learn more Learn more Meet your thinking partner Tackle any big, bold, bewildering challenge with Claude. Ask Claude Ask Claude Ask Claude Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Write Button Text Button Text Learn Button Text Button Text Code Button Text Button Text Write Help me develop a unique voice for an audience Hi Claude! Could you help me develop a unique voice for an audience? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to— like Google Drive, web search, etc.—if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. Please execute the task as soon as you can—an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help! Improve my writing style Hi Claude! Could you improve my writing style? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to— like Google Drive, web search, etc.—if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. Please execute the task as soon as you can—an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help! Brainstorm creative ideas Hi Claude! Co",
+  "pricing_signals": [
+    "pricing",
+    "premium",
+    "$1",
+    "$40",
+    "$8.9",
+    "$4",
+    "$5",
+    "$120",
+    "$200"
+  ],
+  "landing_fetched_at": "2026-05-26T04:33:48",
+  "description_ja": "Claudeとの会話だけでプロトタイプ・スライド・1ページ資料を生成するAIデザインツール",
+  "summary_ja": "Anthropic公式のAIデザイン環境。プロンプトでプロトタイプ・スライド・LP・マーケ素材を生成し、対話で反復編集、PPTX/HTML/Canvaに書き出せる。Claude Opus 4.7基盤でデザインシステム取り込みやコードベース連携も可能。",
+  "tldr_ja": "Anthropic本家が日本語含むスライド/LP生成を席巻、個人開発者の参入余地は皆無で no_fit。",
+  "review_guide_ja": {
+    "what": "Claude.ai/design上で動くAIデザインエージェント。自然言語のプロンプトからスライドデッキ、LP、ワンページャー、インタラクティブプロトタイプ、マーケ素材を生成し、対話で寸法・色・レイアウトを微調整できる。ドキュメント/画像/コードベースを読み込んでデザイン化、チームのデザインシステムを自動適用、PPTX・HTML・Canvaにエクスポート、共同編集とインラインコメントに対応。Claude Opus 4.7のビジョン能力を活かし、コードベースから10分でマーケ動画を生成できた事例もある（ただし週次利用枠の約46%を消費）。",
+    "for_who": "PM・スタートアップ創業者・マーケター・デザイナー。デザインの専門知識がなくても提案書・ピッチデッキ・LP・プロトタイプを高速生成したい層。既にClaude Pro/Maxに課金しているナレッジワーカーが中心ターゲット。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Claude Opus 4.7級のマルチモーダルLLM＋デザインシステム自動適用＋PPTX/HTML/Canva書き出しを一体化する必要があり、モデル学習・運用コスト共に個人開発の範疇を超える。"
+    },
+    "signals": [
+      "発表当日Figma株が約7%下落するなど市場インパクトが大きい",
+      "Claude Pro($20/月)以上で即時利用可、日本語UI・出力対応",
+      "Anthropicは2025年秋に東京オフィス開設し日本語フル展開中",
+      "Gamma・イルシル等の既存AIスライド勢が既に20万人規模ユーザーを獲得",
+      "コードベース読み込み→マーケ素材生成というデザイン外領域への侵食"
+    ],
+    "concerns": [
+      "Claude本体に内包された機能で独立SaaSとしての参入余地が極小",
+      "週次利用枠の46%を1動画で消費するなどコスト面で重い",
+      "イルシル・Gamma等の和文特化テンプレ勢に対しテンプレ品質で劣る可能性",
+      "Anthropic Japan LLC設立で本家がエンタープライズ営業を直接展開",
+      "デザインシステム取り込みなど企業向け機能が個人開発で再現不可"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 3,
+    "verdict": "no_fit",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "日本国内のAIスライド・資料作成需要は明確に顕在化しており、Gammaやイルシル等のレビュー記事が多数。イルシルはユーザー数20万人、上場企業1,300社が利用と急成長。MM総研調査で従業員100名以下のSaaS利用率は48%に達し、AI搭載ツール採用が加速。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "本体Anthropicに加え、Gamma（月額1,200円〜）、イルシル（日本語特化・テンプレ3,000種）、Canva、Adobe Express、Microsoft Copilot、Google Gemini in Slides等が乱立。さらにFigma本体もAI機能で対抗中。個人開発が割り込む隙はほぼ無い。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "デザイン生成SaaSは特殊な業法に抵触しない。個情法・著作権法（学習データ）への一般的配慮は必要だが、特殊規制リスクは低い。検索で根拠は確認済み。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "Claude Designは既に日本語プロンプト・日本語出力に対応。和文フォント・縦書き・敬語表現は本家側の対応次第。個人開発が独自に日本語特化版を作るにはテンプレ・フォント資産が必要で、イルシルが既に先行。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の提案書・営業資料は装飾・図解の密度が高く、欧米のミニマルデッキ文化と乖離。本家Claude Designは欧米的UI出力寄り。和文ビジネス文書の慣習（縦長スライド・複雑表組）対応はイルシル等が優位。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "イルシル",
+        "url": "https://irusiru.jp/",
+        "note": "日本発AIスライド生成。ユーザー20万人、上場企業1,300社導入、テンプレ3,000種。日本語ビジネス文書特化で先行優位。"
+      },
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/",
+        "note": "海外発だが日本語UI完備。Plusプラン月額1,200円で低価格。クレジット制でAI生成回数を管理する仕組み。"
+      },
+      {
+        "name": "Canva（Magic Design）",
+        "url": "https://www.canva.com/ja_jp/",
+        "note": "国内シェア最大級のデザインプラットフォーム。AI機能・テンプレ豊富で個人〜中小企業に深く浸透。"
+      },
+      {
+        "name": "Figma（AI機能）",
+        "url": "https://www.figma.com/ja-jp/",
+        "note": "日経225採用企業の60%以上が導入。日本がMAU上位5カ国の重要市場。AI機能拡充中で本格的競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法",
+        "impact": "AI生成画像・テンプレ流用時の権利処理。学習データの透明性要求が増す可能性あり。事業者は出力物の権利帰属をToSで明示する必要。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "ユーザーがアップロードした文書・コードベースに個人情報が含まれる場合の取扱い義務。海外サーバ送信時は越境移転の同意取得が必要。"
+      }
+    ],
+    "opportunity": "本家Claude Designに対する独自開発の余地は極めて狭い。理論上の角度は(1)日本語官公庁・金融機関向け縦長スライド・複雑表組・脚注の自動レイアウト、(2)エクセル方眼紙資料の自動生成、(3)業界別テンプレ（医療学会・建設提案書・自治体パブコメ等）に絞り込む等。ただしいずれもイルシルが先行しており、勝ち筋は薄い。むしろClaude DesignのAPIや連携プラグインを使い、業種特化のラッパー/フィルタを薄く提供する戦略のほうが現実的。",
+    "rationale": "需要は強いが、本家Anthropicが日本語・東京オフィス・大企業導入まで全方位で先行し、さらに国内ではイルシル・Gamma・Canva・Figma AIが既に20万人〜数百万人規模のユーザー基盤を持つ完全な飽和市場。Claude Pro/Max契約者は追加課金なくClaude Designを使えるため、独立SaaSへ移行する動機が薄い。個人開発がジェネリックなAIスライドSaaSを出すのは無理筋で、競争軸は『日本特有の文書形式』だが、それすらイルシルがテンプレ3,000種で先取り済み。日本市場における新規参入の魅力度は低く、no_fit判定が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "AIスライドSaaS市場では月額1,200〜3,000円が国内相場（Gamma Plus 1,200円、Claude Pro約3,000円、イルシルはビジネスプラン）。課金嗜好は『資料作成効率化』として明確だが、本家Claudeが$20で同等機能を提供するため、上乗せ価格を取れる余地は限定的。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内SaaS利用率は中小企業で48%に上昇、提案書・営業資料・社内資料を作る職種は全産業の数百万人規模。TAMは十分広いが、Anthropic/Microsoft/Google/Adobe/Canvaが既に大半を取り合っている。個人開発が獲得できるニッチに絞ると数千〜数万社程度。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PLG可能だがレッドオーシャン。Qiita/Zenn/X発信、note記事SEO、YouTube解説等が基本だが、検索インテント上位は既存大手が占有。個人開発の差別化チャネルが弱い。"
+      },
+      "timing": {
+        "score": 1,
+        "reason": "海外本家（Anthropic Claude Design）が既に日本語対応で2026年4月にローンチ済み。Anthropic Japan LLCも設立済み。時間窓はゼロに近く、後追いの余地なし。"
+      },
+      "solo_ops": {
+        "score": 6,
+        "reason": "デザイン生成SaaSはトラフィック量次第でGPU/LLM API代が嵩む。Claude/OpenAI API従量課金、CDN、画像ストレージ等の運用は個人でも可能だが、24/7監視と障害対応が必要。SLA期待値はBtoB導入では高い。"
+      }
+    },
+    "rationale": "市場規模・課金嗜好は良好だが、本家が同一価格帯・同等品質・日本語対応で先行している以上、独立SaaSの事業性は極めて低い。Claude Pro契約者は追加コストなしでClaude Designを使えるため、別途SaaSに月額1,000〜3,000円払う動機が薄い。GTMも既存大手が検索/SNSを占有し、個人開発が獲得できるシェアは1%未満。timing軸が決定的に不利で、参入猶予はゼロ。事業として成立させるには『日本の特定業種の文書テンプレ＋Claude Design APIラッパー』のような縦に深いニッチに絞る必要があり、それでもイルシルとの直接競合は避けられない。総合的に business_viability_score=3 で no_go 推奨。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 月3スライドまで生成",
+        "Pro: ¥1,500/月（業種テンプレ・無制限生成）",
+        "Team: ¥4,500/月/人（共同編集・ブランド管理）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本特有の文書形式（官公庁向け提案書、医療学会スライド、建設積算書、士業の縦長報告書）を必要とする中小企業・士業・個人事業主。イルシルでは満たせない極めて特殊な業界テンプレ需要に絞り込む。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.2,
+      "monthly_revenue_target_jpy": 150000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn/note技術記事連載でClaude Design比較レビュー",
+      "X個人発信＋業種別Discordコミュニティ運営",
+      "YouTube『業種別AIスライド作成』チュートリアル",
+      "業種団体（医療学会・建設業会）への直接営業",
+      "Claude Design API/Plugin連携の薄いラッパー戦略"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家Anthropicが既にClaude Designを日本語対応・日本オフィス開設で全面展開中。独立SaaSの存在意義がほぼ無い。",
+      "イルシル・Gamma・Canva・Figma AIが日本市場で既に20万〜数百万ユーザー規模を確保。個人開発が獲得できるシェアは1%未満。",
+      "Claude Pro/Max契約者はゼロ追加コストでClaude Designを使えるため、別SaaSへの課金動機が極端に弱い。",
+      "AI生成画像・テンプレの著作権処理、学習データ透明性が今後法規制で厳しくなる可能性。",
+      "デザイン生成のLLM API代がARPUを超過し採算割れするリスク。トラフィック増加時のGPUコスト管理が困難。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "japan_fit_at": "2026-05-26T05:00:00Z",
+  "review_guide_at": "2026-05-26T05:00:00Z",
+  "business_viability_at": "2026-05-26T05:00:00Z",
+  "advisor_view_at": "2026-05-26T05:00:00Z"
+}

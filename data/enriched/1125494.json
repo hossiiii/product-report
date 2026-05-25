@@ -1,0 +1,233 @@
+{
+  "name": "Gemini Personal Intelligence",
+  "description": "Gemini answers with context from your Google apps",
+  "ph_url": "https://www.producthunt.com/products/gemini-personal-intelligence/launches/gemini-personal-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/WO2KDTNTGZHBNU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-25T07:01:00Z",
+  "upvotes": 287,
+  "comments": 2,
+  "topics": [
+    "Artificial Intelligence",
+    "Search",
+    "Photo editing"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Gemini now reads your Gmail, Photos, and YouTube before answering.</p><p></p><p><strong>What it is</strong>: Personal Intelligence is a personalization feature inside Gemini that connects to your Google apps to generate responses grounded in your actual history.</p><p></p><p><strong>The problem it solves</strong>: AI assistants are generic by default. They know everything about the world and nothing about you. Every session starts cold. Personal Intelligence changes that by making your Google activity available as context for every response.</p><p></p><p><strong>Key features</strong>:</p><ul><li><p>Connects to Gmail, Photos, Search, YouTube</p></li><li><p>Uses past Gemini chats for continuity across sessions</p></li><li><p>Custom standing instructions for goals and preferences</p></li><li><p>Per-app controls you can adjust or revoke at any time</p></li></ul><p><strong>Benefits</strong>:</p><ul><li><p>Ask for recommendations and get answers filtered by your real preferences</p></li><li><p>Reference your own emails or photos without pasting them in manually</p></li><li><p>Pick up previous conversations without summarizing them yourself</p></li></ul><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a></p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Awesome </p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "A personalisation layer for Gemini that reads your Google apps and past chats. Built for personal Google account holders who want context-aware responses without re-explaining themselves.",
+  "featured_at": "2026-04-25T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/fa3a84c7-1e64-45a6-b19c-97a1e44b85c2.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d5629a26-9099-4bb2-8427-c32e16cea479.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b6fff67a-dad0-4b8c-b771-d094ca77c420.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ff0a6b6e-5889-4f51-881b-8ffe8fe1e3ae.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8b523b1e-eefc-431f-9234-cb9dc6388e63.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/db141da6-a3a7-46c0-af69-37a7a44fb93e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a8496a15-9d7a-436b-95c0-a869011a5eaf.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/539b6807-f770-433b-88f8-c42104359ae7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/679cf9fd-2521-4caf-8208-7c05ea34f768.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/71c1d671-d1fa-40af-9c30-9a745ba88505.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fc13dd3d-4775-4f96-aa91-599a4824c1f1.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/22e66087-052e-4833-bd49-6938c75092ed.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/c85d87e8-b781-413e-9409-fd235362458c.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:19",
+  "landing_meta": "Gemini のパーソナル インテリジェンス - あなただけの AI アシスタント — あなただけの AI アシスタントを利用しましょう。Gemini は Gmail やフォトなどの Google アプリと連携して、旅行やプロジェクトなどの提案を行います。",
+  "landing_text": "Gemini のパーソナル インテリジェンス - あなただけの AI アシスタント Skip to main content Gemini を試す パーソナル インテリジェンス あなただけのアシスタント 休暇の過ごし方やプロジェクト計画など、あらゆることについて高度にパーソナライズされたサポートを利用できます。Gemini は、Gmail、Google フォト、Google 検索、YouTube などの Google アプリと、チャット履歴に基づく好みを結び付けて、あなたの意図に沿った提案を行います。 パーソナル インテリジェンスを試す あなたの流儀を完全に理解 カスタマイズされたサポート Gemini を Gmail、Google フォト、Google 検索、YouTube などの Google アプリと連携させ、Gemini をあなただけの便利なツールにしましょう。設定はご自身で管理できます。連携するアプリをご自身で選択してください。パーソナライズ設定はいつでも管理できます。 現在、対象ユーザー向けにリリースされています。 選択肢を絞り込む 高額な買い物に迷っている場合、Gemini はさまざまな商品を調査し、特定のニーズに合った選択肢を提示できます。 好みを共有して、さらに絞り込む 仕事、趣味、人生の目標など、あなたの興味や好みに関する情報を Gemini に記憶させることで、より役立つ関連性の高い回答を手に入れられます。 新しいお気に入りを見つける Gemini に相談して、読書履歴や好みに合わせておすすめの本を探してもらいましょう。きっと夢中になれる一冊が見つかります。 いつでもシームレスに会話する 過去のチャットを考慮して回答を作成するよう Gemini にリクエストすることで、中断したところから簡単に再開したり、前のトピックを要約してもらったりできます。Gemini との会話はいつでも確認、削除できます。 隠れた名所や名店を見つける 自分にぴったりの旅行を計画しましょう。Gemini は、あなたの好みや過去の選択に基づいてスポットをおすすめします。地元の飲食店から探索したい新しい街まで、お気に入りの場所を見つけるのに役立ちます。 自分のプライバシーを自分で管理 Google は、透明性の向上とユーザーによる管理を重視しています。 必要に応じてオプトイン、オプトアウト パーソナル インテリジェンス 機能はオプションです。連携する Google アプリを選択したり、過去のチャットの利用方法を管理したり、カスタム指示を設定したりできます。 データを管理 Google アクティビティ を確認したり、Gemini の設定で パーソナル インテリジェンス にアクセスしたり、 過去の Gemini とのチャット履歴 を確認したりできます。 透明性を最優先 Gemini は、ユーザーが検証できるようにするために、連携したソースの中からどの情報を使用したのか、言及または説明するよう努めます。説明がない場合は、詳細情報を要求できます。 よくある質問 Gemini のパーソナル インテリジェンスの概要と、その仕組みについて教えてください。 パーソナル インテリジェンス により、Gemini はプロンプトとコンテキストを分析して、より関連性の高いパーソナライズされた回答を提供します。その際、カスタム指示、過去のチャット、または連携した Google アプリからの情報が回答の作成に役立つかどうかを判断します。この追加のコンテキストにより、ユーザーが受け取る情報は、ユーザーの特定の関心やニーズに合わせて調整されます。 パーソナル インテリジェンスを利用できるユーザーと地域を教えてください。 パーソナル インテリジェンス は現在、欧州経済領域、スイス、英国、ナイジェリアを除く世界中の対象ユーザー向けにベータ版としてリリースされています。 要件: 18 歳以上でなければなりません。このベータ版機能は、個人の Google アカウントで利用できます。Google Workspace Business、Enterprise、Education のユーザー アカウントでは利用できません。 プラットフォーム: 有効にすると、ウェブ、Android、iOS で機能します。 モデル: Gemini モデル選択ツールで現在利用できるすべてのモデルで機能します。 パーソナル インテリジェンスと連携できる Google アプリを教えてください。 パーソナル インテリジェンス は現在、Gmail、Google フォト、Google 検索、YouTube などの Google アプリと連携しています。今後数か月以内に、Gemini はユーザーの許可を得たうえで、さら",
+  "pricing_signals": [
+    "subscription"
+  ],
+  "landing_fetched_at": "2026-05-26T04:00:20",
+  "description_ja": "Gemini が Gmail やフォトなど Google アプリの文脈を読み取り、あなた専用の回答を返す機能",
+  "summary_ja": "Google が提供する Gemini 内蔵のパーソナライズ層。Gmail / Google フォト / 検索 / YouTube / 過去チャットを許可制で参照し、毎回背景を説明しなくても文脈に沿った回答を生成する。2026 年 4 月から日本でも提供開始。",
+  "tldr_ja": "Google 自社の Gemini 内蔵機能。OS/プラットフォーム層の話で、個人開発者がコピーする余地はなく学習対象として観察すべき。",
+  "review_guide_ja": {
+    "what": "Gemini の上にかぶさるパーソナライズ層。ユーザーが許可した Google アプリ（Gmail、Google フォト、Google 検索、YouTube）と過去の Gemini チャットを文脈ソースとして取り込み、回答を個人最適化する。デフォルトはオフでアプリ単位のオプトイン、カスタム指示（standing instructions）も設定可能。ユースケースは、過去のメール/写真を引用した質問応答、好み・読書履歴に基づくレコメンド、前回チャットの続き、旅行計画やショッピング比較など。Web / Android / iOS で動作し、利用可能なすべての Gemini モデルに適用される。EEA・スイス・英国・ナイジェリアを除く対象ユーザー向け（個人 Google アカウントのみ、Workspace 不可）。",
+    "for_who": "個人の Google アカウントを日常使いしている一般ユーザー、特に Gmail・Google フォト・YouTube を中心的に使う Android / Chrome ユーザー。Google AI Plus / Pro / Ultra プラン契約者が先行対象で、追って無料層にも展開予定。Workspace（Business / Enterprise / Education）アカウントは対象外なので法人 SaaS 用途ではない。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Google 自社アカウントの内部権限なしには Gmail / フォト / 検索 / YouTube を横断するシームレスな参照は不可能。OAuth ベースでは UX とレイテンシ・規約面で本家に勝てない。"
+    },
+    "signals": [
+      "Google が個人向け AI のパーソナライズ層を OS レベルで提供開始（ChatGPT メモリ、Apple Intelligence と並ぶプラットフォーム競争）",
+      "日本も初期対象国に含まれ、2026 年 4 月から有料プラン先行で展開",
+      "デフォルトオフ・アプリ単位オプトイン・モデル学習に使用しない明示でプライバシー懸念に先回り",
+      "Workspace 除外のため B2B SaaS パーソナルアシスタント領域は別途空き地として残る"
+    ],
+    "concerns": [
+      "個人開発者がコピーできない領域（プラットフォーム企業の自社統合）",
+      "OAuth 経由の同等品を作ってもデータ鮮度・UX・信頼性で本家に常時劣後",
+      "ChatGPT / Copilot / Apple Intelligence も同方向に動いており、サードパーティの存在余地は急速に縮小",
+      "個情法・GDPR 等プライバシー規制対応の負担が個人開発者には重い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "Gemini の日本ユーザーは Android / Chrome 経由で多く、Gmail・YouTube も浸透している。パーソナル AI への関心は高く、日本語メディアの解説記事も多数。需要自体は顕在。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Google 自社の Gemini 内蔵機能で、ChatGPT メモリ・Copilot・Apple Intelligence と並ぶプラットフォーム競争。個人開発者から見れば事実上「飽和市場かつ巨人の直接領域」で勝ち目がない。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "Gmail やフォトなど個人データを扱うため個人情報保護法（PPC が 2026 年改正方針公表中）の同意取得・利用目的明示が必須。Google 自身は OEM 級のプライバシー設計で対応可能だが、同等品を個人が作る場合の負荷は重い。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "Gemini 全体が既に日本語完全対応で、ローカライズ追加コストは限定的。Google ドキュメントも `gemini.google/jp` で完備。日本語化自体のハードルは低い。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "個人向け C2C 機能のため日本独特の商習慣（はんこ・FAX・SI 商流など）の影響を受けない。ただし日本ユーザーのプライバシー慎重姿勢は強く、オプトイン文化との相性は普通。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ChatGPT（メモリ機能）",
+        "url": "https://chatgpt.com/pricing/",
+        "note": "Plus 月額 20 ドル～。メモリ機能でユーザー嗜好を保持。日本でも普及しており Gemini Personal Intelligence と直接競合する個人 AI アシスタント。"
+      },
+      {
+        "name": "Microsoft Copilot",
+        "url": "https://www.microsoft.com/ja-jp/microsoft-copilot",
+        "note": "Windows / Edge / Office に統合され、パーソナライズ機能や Recall を提供。法人寄りだが個人版も無料・Pro あり。"
+      },
+      {
+        "name": "Apple Intelligence",
+        "url": "https://www.apple.com/jp/apple-intelligence/",
+        "note": "iPhone / Mac の OS 統合パーソナル AI。デバイス内のメール・写真・位置を文脈に使う。Gemini と棲み分けつつ直接競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（APPI）",
+        "impact": "Gmail やフォトなど個人データを AI で扱うため、利用目的の特定・本人同意・第三者提供制限が必要。Google は EEA / UK / スイス除外で展開しており、日本は同意ベースで提供可能と判断。2026 年改正方針で AI 用途の同意要件緩和が議論中。"
+      },
+      {
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "ブラウザ拡張・Web サービスで個人データを外部送信する場合、2023 年改正の外部送信規律に基づく通知・公表義務が発生し得る。本家 Google は対応済みだが模倣品開発者は実装負荷あり。"
+      }
+    ],
+    "opportunity": "個人開発者にとって本機能の直接模倣はほぼ無意味。学べるのは「OAuth スコープを最小化しつつアプリ単位オプトインで信頼を得る UX」と「カスタム指示 + 過去ログ参照 + アプリ連携の 3 層構成」の設計パターン。日本固有の余白を探すなら、Gemini Personal Intelligence が対応しない領域 — Workspace 法人アカウント向け（明示的に除外されている）、または日本独自サービス（Yahoo!メール / freee / マネーフォワード / Slack 日本企業利用 / Notion 日本語）への連携。これらは API 連携を地道に作れば個人でも到達可能で、規模は小さいが空き地として存在する。",
+    "rationale": "需要・ローカライズは高水準だが、これは Google 直営の OS / プラットフォーム機能であり、個人開発者の事業機会としては「skip」が妥当。Gemini 日本提供開始は 2026 年 4 月（macotakara / blog.google）、ChatGPT メモリ・Copilot・Apple Intelligence も同方向に進化中で、汎用パーソナル AI アシスタント市場はプラットフォーム企業の自社統合により急速にコモディティ化している。個人開発者が同領域で勝負しても、データ鮮度・UX 統合・信頼性で本家に常時劣後する。本プロダクトはコピー対象ではなく観察対象。学ぶべきは UX 設計（オプトイン粒度、透明性、データ管理）と、本家がカバーしない垂直領域（特定業務 SaaS との連携、法人 Workspace 向け、日本固有サービス）の空き地特定。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "個人向け AI アシスタントの ARPU 相場は月額 2,000～3,000 円（ChatGPT Plus 20 ドル、Google AI Pro 2,900 円）。だが個人開発者がこの土俵で同等品を売っても本家とのバンドル価格に勝てず、課金率は極めて低い見込み。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本の Gemini / ChatGPT 利用者は数百万人規模で TAM は広い。ただし個人開発者が取れる部分（ニッチ垂直）は実質数千～数万社レベルに限定される。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "PLG 自体は可能だが、本家プラットフォーム機能と機能ベンチマークで戦うことになり、X / Qiita 発信だけでは離脱率を抑えられない。SI / 法人営業のチャネルも個人にはハードル高い。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "Google が既に本機能を日本展開済（2026 年 4 月）。ChatGPT メモリ・Copilot も同方向。汎用パーソナル AI 領域のタイムウインドウはほぼ閉じている。垂直特化での余白のみ残る。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "OAuth トークン管理、データ更新、複数 SaaS の API 仕様変更追従、プライバシー問い合わせ対応が必要で、個人運用負荷は高め。SLA も信頼性要求が厳しい個人データ領域では避けにくい。"
+      }
+    },
+    "rationale": "汎用パーソナル AI アシスタント領域では事業として成立しない。Google / OpenAI / Microsoft / Apple の 4 強がプラットフォーム統合で覆い尽くしており、個人開発者が同じ土俵で価格・機能・データ鮮度・信頼性のすべてで勝つ手段はない。ARPU 相場（月 2,000～3,000 円）は確立しているが、本家のバンドル価格（Google One / Apple One / Microsoft 365）に対して有料ラッパーを売るのは至難。市場規模は名目大きいが、個人開発者が捕捉できる部分は実質ゼロに近い。GTM チャネルも本家の OS / ブラウザ統合に対して劣後。タイミングも完全に遅い。唯一の活路は「Gemini Personal Intelligence が公式にカバーしない領域」（Workspace 法人版、Yahoo!メール、freee / マネーフォワード / Notion 日本語 / 国内 Slack コミュニティなど日本固有 SaaS との連携）に絞った垂直 SaaS。これも事業性は中程度。総合的に本プロダクト自体の模倣ビジネスは no_go。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 0,
+      "plans": [
+        "模倣する場合のみ参考: Free（月 50 回連携クエリ）",
+        "Pro: ¥1,500/月（特定 SaaS 連携・無制限）",
+        "ただし本プロダクトは事業対象として推奨しないため、課金前提を置かない（arpu_jpy=0）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "本プロダクトを直接模倣する事業は推奨しない。仮に垂直特化版（例: freee / マネーフォワード / Notion 日本語ワークスペース連携の個人秘書）を作る場合の対象は、国内のクラウド会計・ノートツール課金個人事業主層。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.1,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "（推奨せず）模倣する場合は Qiita / Zenn / X で技術記事連載、垂直 SaaS との API 連携を売りに",
+      "実務的には本プロダクトを観察し、UX 設計（オプトイン粒度・透明性・データ管理）の学びを自分の別領域プロダクトに適用するのが最善"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Google / OpenAI / Microsoft / Apple のプラットフォーム統合機能と直接競合する領域のため、個人開発者の参入余地が事実上ゼロ",
+      "Gmail / フォト等の個人データを扱うため個情法・電気通信事業法（外部送信規律）対応負荷が大きく、個人運用では監査・問い合わせ対応が継続困難",
+      "本家がカバー範囲を拡大するペースが速く（数ヶ月単位）、垂直特化版を作っても本家が同領域を取り込むタイムウインドウは極めて短い",
+      "ARPU 月 2,000～3,000 円の市場で本家のバンドル価格（Google One 含む）に対抗できず、課金率が壊滅的に低い見込み"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

@@ -1,0 +1,229 @@
+{
+  "name": "Claude Connectors",
+  "description": "New connectors in Claude for everyday life",
+  "ph_url": "https://www.producthunt.com/products/claude-connectors/launches/claude-connectors-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ZSH4AZJ5NGQ6HT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-26T07:01:00Z",
+  "upvotes": 455,
+  "comments": 9,
+  "topics": [
+    "Productivity",
+    "Travel",
+    "Artificial Intelligence"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>AI assistants have gotten good at work tasks. The gap has always been everything else: booking dinner, ordering groceries, finding a trail, filing taxes.</p><p></p><p><strong>What it is</strong>: Claude Connectors expands Claude's app directory to 200+ services, now including everyday tools like Instacart, Spotify, AllTrails, Resy, TurboTax, Uber, and TripAdvisor.</p><p></p><p>Most AI tools stop at the edge of your work. The rest of your day still happens across a dozen separate apps, with no shared context between them. Claude now acts inside these apps from within a single conversation. It surfaces the right connector for what you are doing, lets you refine across multiple services in the same thread, and carries your context throughout.</p><p></p><p><strong>What makes it different</strong>: When two connectors could help, you see both and choose. Your data from connected apps is not used to train Anthropic's models. Before Claude books or purchases anything on your behalf, it confirms with you first.</p><p></p><p><strong>Key features</strong>:</p><ul><li><p>200+ connectors spanning work and everyday life</p></li><li><p>Dynamic suggestions: Claude surfaces the relevant app inside the conversation</p></li><li><p>Multi-connector threads: pull from several services without switching context</p></li></ul><p><strong>Benefits</strong>:</p><ul><li><p>Plan a trip, build a grocery list, and book a table in one conversation</p></li><li><p>Context carries across connectors so you are not re-explaining yourself each time</p></li><li><p>Available on all plans, web and desktop now, mobile in beta</p></li></ul><p><strong>Who it's for</strong>: Claude users who want one assistant across their whole week, not just their working hours. The consumer connector expansion is the obvious missing piece for Claude becoming a general-purpose personal layer.</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a> </p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The idea is interesting, but half of the connectors (Instacart, Resy, TaskRabbit, Uber Eats) don't work outside the US. I'd like to see something for the rest of the world – Booking and Spotify are good, but not enough.</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I can see some for travelling –&nbsp;just in time when I want to conduct a family trip! :D</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Claude now connects with 200+ apps like Spotify, Instacart, Uber, and TripAdvisor, letting you book, order, and plan without leaving a single conversation. Designed for both work and daily life, it brings travel, food, and entertainment together intelligently suggesting and executing tasks in real time.",
+  "featured_at": "2026-04-26T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/375ff92d-28ec-4506-b260-a429c4e64de1.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0874910d-9dcc-4ac4-9aac-e8a3b30756b3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/06a3dfcd-ca62-43ab-9bea-79774c75c20d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/145f8872-628e-4b32-b0cc-ce5ff1aa0682.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d7fe8c93-c2b1-4d8b-8ce0-d94bb11836f2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2dce473b-3963-47c4-85ff-417653098b0e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cd2c5de3-078d-40a8-941a-e217abbb5307.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/343b34de-4cbf-4f74-9607-7e31ec5ca676.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/72c63395-612b-408e-a1b8-3f08b57e7efe.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T03:46:25",
+  "landing_meta": "New connectors in Claude for everyday life | Claude — Claude now connects to the apps you use every week, including AllTrails, Instacart, Audible, Booking.com, and TripAdvisor. Ask, and Claude brings in the right app.",
+  "landing_text": "New connectors in Claude for everyday life | Claude Explore here New connectors in Claude for everyday life Category Product announcements Product Claude apps Date April 23, 2026 Reading time 5 min Share Copy link https://claude.com/blog/connectors-for-everyday-life Today we’re expanding what you can connect to Claude. Alongside the work tools you already use, you can now connect the apps you use throughout your week, including AllTrails, Instacart, Audible, Tripadvisor, Intuit TurboTax, and more. How people have been using connectors Since launching in July 2025, the Claude directory has grown to over 200 connectors, spanning popular apps for design, finance, productivity, and health used by millions of people every day. We’ve found that people often connect multiple apps and use them together in a single conversation with Claude. For example, a product manager will pull a query from Amplitude, turn it into a Canva deck, and drop the link into Asana for the team, all without leaving the conversation. This expansion extends that functionality to more of the tools you use outside of work. Starting today, Claude connects to AllTrails, Audible, Booking.com, Instacart, Intuit Credit Karma, Intuit TurboTax, Resy, Spotify, StubHub, Taskrabbit, Thumbtack, Tripadvisor, Uber, Uber Eats, and Viator, with more on the way. Connectors dynamically show up in conversations We’ve also changed how connectors show up in conversations. Claude now suggests the right app for what you’re doing, like finding a reservation, adding to a grocery cart, or identifying a flight. It’s working from what you’ve told it: your preferences, your context, your conversation. This all happens inside your conversation. Ask Claude to recommend a weekend hike, and AllTrails will surface trails nearby that match your preferences. You can then refine the recommendations by asking for something shorter, more scenic, or dog-friendly without leaving the thread. When more than one connected app could help answer",
+  "pricing_signals": [
+    "self-hosted",
+    "subscription",
+    "pricing",
+    "$1"
+  ],
+  "landing_fetched_at": "2026-05-26T03:46:26",
+  "description_ja": "Claudeに日常生活アプリ15種を含む200超のコネクタを追加、会話内で予約・注文・計画が可能に",
+  "summary_ja": "Claudeの公式アプリ連携機能を拡張するアップデート。Instacart・Uber・Spotify・Booking.com・TripAdvisorなど200超のサービスをMCP経由で接続し、会話の文脈に応じて適切なアプリを自動提案、ユーザー確認を経て予約・購入まで実行する。",
+  "tldr_ja": "Anthropic本家機能で日本サービスは未対応、個人開発の余地はMCPサーバー作成・公開側にしかない",
+  "review_guide_ja": {
+    "what": "Claudeの公式コネクタ（旧Integrations）機能の拡張で、AllTrails・Audible・Booking.com・Instacart・Credit Karma・TurboTax・Resy・Spotify・StubHub・Taskrabbit・Thumbtack・Tripadvisor・Uber・Uber Eats・Viatorの15サービスを追加し、計200超のアプリにMCP経由で接続できる。会話の文脈に応じて適切なコネクタを動的に提案し、複数アプリを単一スレッドで横断利用可能。購入・予約前に必ずユーザー確認を挟む設計。Free/Pro/Max全プランで利用可、Web/デスクトップで即利用、モバイルはベータ。学習データへの不使用を明言。典型ユースケースは『週末ハイキング相談→AllTrailsでコース推薦→Resyで近隣レストラン予約→Spotifyで運転中BGMリスト作成』のようなマルチアプリ横断オペレーション。",
+    "for_who": "Claude Pro/Maxの個人ユーザーで、業務外の生活オペレーション（食事・移動・旅行・娯楽・税務）もAIに任せたい層。米国在住者が主要受益者。日本ユーザーはBooking.com・Spotify・Tripadvisor・Audibleなどグローバル展開サービスのみ恩恵を享受可。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Anthropic本家のプラットフォーム機能であり、個人開発者が同等の体験を再現するには（1）独自AIチャット基盤、（2）200超のサービス公式パートナーシップ、（3）OAuth/MCP実装の3点が必要で事実上不可能。"
+    },
+    "signals": [
+      "MCPを基盤としたコネクタ標準が200超のサービスに広がり、エコシステムが成熟",
+      "Anthropicの法人LLM APIシェア32%でOpenAI(25%)超え、Claudeユーザー基盤が急拡大",
+      "freee-mcpが個人開発からOSS公式昇格した実例があり、日本SaaSもMCP対応が進行中",
+      "コメント欄でも『Instacart・Resy・TaskRabbit・Uber Eatsは米国外で動かない』と非米国地域の不満が顕在化",
+      "日常生活領域への進出はAIエージェント市場の主戦場が業務→生活へ拡張する流れを示唆"
+    ],
+    "concerns": [
+      "Anthropic自身の本家機能であり、ユーザー側プロダクトとしての参入余地は皆無",
+      "コネクタ提供は事実上Anthropicの審査・パートナー契約が前提（公式ディレクトリ掲載）",
+      "日本主要サービス（楽天・Yahoo・LINE・食べログ・出前館）は公式コネクタとして未掲載",
+      "個人開発者がMCPサーバー単体を作っても、Anthropic公式ディレクトリ非掲載なら集客が極めて困難",
+      "プラットフォーマー（Anthropic）側の方針変更（手数料・契約条件）に収益が完全依存する構造"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本のClaude利用経験率は4.3%（ICT総研2026/2）と高くはないが、エンタープライズLLM APIシェアではAnthropicが32%でOpenAI超え。AIエージェントによる生活オペレーション自動化への関心はZenn/Qiita等で増加中。ただし対象コネクタの大半が米国限定サービスで、日本ユーザーが実利を得られるのはBooking.com・Spotify・Tripadvisor等に限定。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "本プロダクト自体はAnthropicの本家機能で、個人が直接競合するのは不可能。仮にコネクタ提供側で参入する場合、freee-mcpを筆頭にfreee・サイボウズ等の大手SaaSが既にMCP対応に動いており、Smithery等のマーケットプレイスも形成済み。個人開発者が後発でゼロから日本SaaSのMCPサーバーを公開してもポジション取りは可能だが、本家プロダクトへの『競合』にはならない。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "OAuth経由でユーザー個人データを扱うため個人情報保護法の遵守必須。AIエージェントが代理で購入・予約を行う場合、特定商取引法や決済関連の規制（資金決済法）に抵触する可能性あり。AI事業者ガイドライン（2025年改訂）も影響範囲。本家Anthropicは法務体制を持つが、個人開発者がコネクタ提供側で参入する場合は法務負荷が大きい。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "Claude本体は既に日本語UIに対応済み。コネクタ仕組みはAPI/構造化データ中心で日本語化負荷は低い。ただし日本ユーザー向けに実用化するには日本主要サービス（楽天・Yahoo・LINE・食べログ・出前館・SUICA等）のコネクタが必要で、これらは検索で根拠未確認だが現状未対応の公算が高い。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の決済嗜好（コンビニ払い・代引き・キャリア決済）や、レストラン予約（食べログ・ぐるなび・ホットペッパー）・配車（GO・S.RIDE）・フード配達（出前館・Wolt）等のローカルサービス未対応により、日本人ユーザーの日常オペレーション置換には極めて不適。米国型生活インフラ前提の設計。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ChatGPT (OpenAI) + 食べログプラグイン",
+        "url": "https://active.nikkeibp.co.jp/atcl/act/19/00508/080900003/",
+        "note": "カカクコムが食べログのChatGPTプラグインを2023年提供開始。日本サービスの公式AI連携先行事例。"
+      },
+      {
+        "name": "freee-mcp",
+        "url": "https://corp.freee.co.jp/news/20260302freee_mcp.html",
+        "note": "freeeが2026/3にMCPサーバーをOSS公開。元は個人開発者作で公式昇格、Claude Desktop/Code/Cursor対応。日本SaaSのMCP事例代表。"
+      },
+      {
+        "name": "Sansan MCPサーバー",
+        "url": "https://buildersbox.corp-sansan.com/entry/2025/12/24/170000",
+        "note": "名刺データをAIから操作するMCPサーバーのPoC公開。日本エンタープライズSaaSのAIエージェント連携先行例。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "OAuth経由で外部サービスから取得するユーザーデータ（連絡先・購買履歴・位置情報等）の取扱に同意取得とプライバシーポリシー整備が必要。AnthropicはClaudeのコネクタデータをモデル学習に使用しない方針を明示。"
+      },
+      {
+        "law": "特定商取引法・資金決済法",
+        "impact": "AIエージェントが代理で予約・購入を行う場合、媒介・取次にあたる可能性。決済代行・与信判断を絡めると資金決済法上のライセンスが必要となるリスク。本家は購入前にユーザー確認を必ず挟む実装でリスク低減。"
+      },
+      {
+        "law": "AI事業者ガイドライン（総務省・経産省 第1.1版 2025/3）",
+        "impact": "プライバシー保護・説明責任・透明性が要求事項。コネクタ提供事業者・AIエージェント提供事業者の双方に責任分界点の明示が推奨される。法的拘束力はないが業界デファクトの遵守基準。"
+      }
+    ],
+    "opportunity": "本家プロダクト自体への参入は不可能。個人開発者の現実的な角度は『Anthropicの公式コネクタ未掲載の日本サービス向けMCPサーバーを先回りで公開する』こと。具体的には食べログ・ぐるなび・ホットペッパー（予約）、GO・S.RIDE（配車）、メルカリ・ヤフオク（出品/購入）、SBI証券・楽天証券（口座照会）、JR各社（経路・予約）等が候補。Smithery等のマーケットプレイスやAnthropic公式ディレクトリ申請を通じて、日本市場でのデファクト供給者ポジションを確保する戦略は成立し得る。",
+    "rationale": "Claude Connectors自体はAnthropicが200超パートナーと統合した本家プラットフォーム機能であり、個人開発者・小規模チームが対抗するプロダクトではない。日本市場視点で見ると、対象15新コネクタの大半がInstacart・Resy・TaskRabbit・Uber等の米国限定サービスで、Booking.com・Spotify・Tripadvisor・Audible以外は日本ユーザーの実利が薄い。日本主要生活サービス（楽天・Yahoo・LINE・食べログ・出前館等）は公式コネクタ未対応の公算が高く、本機能の日本市場フィットは限定的。市場機会としては本プロダクト自体を評価対象にすべきではなく、『日本SaaS向けMCPサーバー個人開発』という派生領域でのみ余地がある。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "本家プロダクトはAnthropic Pro($20/月)に内包されるため個人開発者が直接課金する道はない。派生領域（MCPサーバー単体提供）でも、Smitheryのマーケットプレイス手数料15-30%、BYOK/Per-call/フリーミアム等のモデルは存在するがARPUは小額で、note記事の『月収10万円』レベルが上限事例。プラットフォーマー依存度が極めて高い。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "Claude日本利用経験者は約4.3%（ICT総研2026/2）。Pro/Max有料ユーザーは更にその一部。AIエージェント連携を能動的に設定する層は更に絞られ、日本でMCPサーバー単体に課金する潜在母集団は控えめ見積もりで数千〜数万ユーザー規模（根拠未確認）。本家機能としての市場は巨大だがAnthropicが総取りする。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "本家プロダクトは個人開発者の参入余地なし。派生領域（MCPサーバー提供）の場合、Smithery等のマーケットプレイスやAnthropic公式ディレクトリ掲載が主チャネル。後者は審査がありパートナー契約前提。X/Zenn/Qiitaで個人発信は可能だが、有料化までの導線が薄い。PLGとして成立しづらい。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Anthropic本家が既に200超のコネクタを揃え、エコシステムは本家主導で急拡大中。freee-mcp等の日本SaaS公式参入も既に始まっており、後発個人開発者の時間窓は狭い。先回りで日本サービスのMCPサーバーを作っても、各サービス側が公式提供を開始すると一気に上書きされるリスク。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "コネクタ／MCPサーバー提供は外部API変更追従・OAuth更新・セキュリティ対応が常時必要。ユーザー個人データを扱う性質上、SLA・インシデント対応の期待値が高い。本家機能としては個人運用ではなくAnthropicの組織運用。派生領域でも個人運用は重荷で、片手間継続は困難。"
+      }
+    },
+    "rationale": "Claude Connectors自体は個人開発者にとって『運用対象』ではなく『プラットフォーム』として捉えるべきプロダクト。直接競合や代替を作る道はない。事業として考え得るのはAnthropic公式または非公式マーケットプレイスへのMCPサーバー出品のみで、その経済性は限定的。日本のMCPサーバー個人開発事例（peaceflat.comの『月収10万円』記事、Toru Takagi氏のTogello向け実装等）が示すように、現状は趣味〜副収入規模が上限。プラットフォーマー（Anthropic）の方針変更で一夜にして条件が変わるリスクも構造的に高く、本ビジネスモデルでフルタイム個人開発者として継続するのは非現実的。事業性スコアは低く据え置く。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 0,
+      "plans": [
+        "本家プロダクトはAnthropic Pro($20/月)に内包され個人開発者の直接課金不可",
+        "派生のMCPサーバー個人開発を行う場合: Free(基本機能・無料)",
+        "Pro: ¥980/月（高速API・高頻度コール対応・BYOKオプション）",
+        "もしくはSmithery経由のPer-call課金（1コール¥1〜10、手数料15-30%差引）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "本プロダクト自体は対象外。仮に派生領域（日本SaaS向けMCPサーバー個人開発）で参入するなら、ターゲットはClaude Pro/Max日本有料ユーザーのうちAIエージェント設定を能動的に行う技術者層（エンジニア・パワーユーザー）。",
+      "target_count": 5000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "本家プロダクトとしては個人開発者の参入余地なし、本案件はskip推奨",
+      "派生でMCPサーバー提供する場合: Smitheryマーケットプレイス出品",
+      "派生: Anthropic公式コネクタディレクトリへの申請（要審査）",
+      "派生: Zenn/Qiita/X(@dev界隈)での技術発信による被リンク獲得",
+      "派生: 対象SaaS側コミュニティ（freee開発者・kintone界隈等）への横展開"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "本家プロダクトであり個人開発者の参入余地が構造的にゼロ。検討対象として誤って取り上げると意思決定資源の浪費",
+      "派生でMCPサーバーを作っても、対象SaaS（freee・サイボウズ等）が公式版を出した瞬間に存在意義消滅。先行者利益は最長6カ月程度",
+      "Anthropic公式コネクタ未掲載のままだと集客チャネルがSmitheryのみで手数料15-30%差引後の収益は雀の涙",
+      "OAuth経由の個人データ取扱で個人情報保護法・特定商取引法・資金決済法のリスク領域に踏み込む可能性あり、個人運用の法務負荷大",
+      "プラットフォーマー（Anthropic）の方針変更（手数料・契約条件・公式コネクタ拡充）で収益が一夜にして消える"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

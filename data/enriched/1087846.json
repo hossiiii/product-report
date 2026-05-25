@@ -1,0 +1,229 @@
+{
+  "name": "R0Y",
+  "description": "Natural language to Investing dashboards in seconds.",
+  "ph_url": "https://www.producthunt.com/products/r0y-ai-financial-studio/launches/r0y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/DSEDKDA63PJNEZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-12T07:01:00Z",
+  "upvotes": 214,
+  "comments": 10,
+  "topics": [
+    "Fintech",
+    "Investing",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p><strong><em>We built R0Y because serious investing and economic analysis is still broken.</em></strong><br></p><p>The tools are powerful—but fragmented, expensive, and slow. You’re bouncing between platforms, stitching together data, or writing code just to answer a simple question.<br></p><p>There’s no real workspace. No fluid way to think, test, and build.</p><p><strong>R0Y fixes that.</strong><br></p><p>You just describe what you want. A <strong>strategy, a model, a dashboard</strong>—it builds it <strong>instantly</strong>. Live market + macro data, projections, visuals, all in one place.<br></p><p>It’s a <strong>sandbox</strong> for finance. You can experiment, break things, refine ideas, and collaborate with your team in real time. Share it, clone it, evolve it.<br></p><p>We wanted it to feel like thinking freely—but with institutional-grade data and execution behind it.<br></p><p><strong><em>Would love your takes, espcially onwhat would make this 10x more powerful for you? Along with any questions you may have.  </em></strong></p>",
+      "votesCount": 22,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Pretty cool! If two users ask the same query, will roy generate identical dashboards or personalized ones based on context or history??</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Honest question: when a financial model is wrong, how does a team trace what R0Y built and why? Provenance at scale matters for anything touching real money.</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "R0Y is a natural language financial studio that builds full investing dashboards in seconds. Ask for projections, macro analysis, backtests, or strategy models — it connects hundreds of millions of data points and generates live, interactive financial systems instantly. Collaborate with your team, share dashboards, and tailor everything to you or your organization. No code. No templates. Just intelligence on demand.",
+  "featured_at": "2026-04-12T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/1761783e-b537-4f1f-89a6-574dfd8e4f17.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2994c239-f0a9-4842-b505-5823a0ad0e33.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/62603d53-c897-4ab1-9b38-090a3de73bae.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/afd17cf1-f2c4-42f6-a0bd-955246ff3e15.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ea6330cb-fff2-495f-95c7-46ae7b945521.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a2898a88-cd4a-4e86-99a6-cd3fcd8e8beb.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/e07ff959-723c-4618-a9e0-4241e993d730.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:38",
+  "landing_meta": "R0Y Financial Dashboard",
+  "landing_text": "R0Y Financial Dashboard",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T06:04:38",
+  "description_ja": "自然言語で投資ダッシュボード・戦略モデル・バックテストを数秒で生成するAI金融スタジオ。",
+  "summary_ja": "「来期EPSと金利を比較するダッシュボードを作って」のように話しかけるだけで、ライブ市場データとマクロ指標を組み合わせた投資用ダッシュボードや戦略モデル、バックテストを即時生成する自然言語ファイナンススタジオ。Bloomberg端末や自作スクリプトの代替を狙う。",
+  "tldr_ja": "個人向け投資助言は金商法登録必須で個人開発は実質不可、データ提供型に絞っても株探・J-Quants等先行で勝ち目薄、no_go判定。",
+  "review_guide_ja": {
+    "what": "自然言語プロンプトから投資用ダッシュボード、財務モデル、バックテスト、マクロ分析を自動生成するWebアプリ。数億規模のマーケット/マクロデータに接続し、テンプレートやコード不要でインタラクティブな可視化、プロジェクション、戦略シナリオを構築できる。チームでの共有・クローン・編集に対応し、Bloomberg端末や自作Python+pandas+matplotlibワークフローを置き換える「ファイナンス用Cursor/Notion」的ポジションを志向する。ヘッジファンドアナリスト、独立系PM、エコノミスト、上級個人投資家による意思決定ワークスペースを想定。",
+    "for_who": "プロップトレーダー、買いサイド/売りサイドのアナリスト、独立系運用者、財務戦略コンサル、上級個人投資家など、Excel+Bloomberg+Pythonを跨ぐ作業を日常的に行う層。データの正確性と再現性に責任を持つ業務ユーザーが中心で、初心者向け資産管理アプリではない。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "金融データのライセンス契約（実取引所・データベンダー）と、LLMによる金融計算の精度保証、プロベナンス可視化が必要で、個人開発のMVPでは到達困難。"
+    },
+    "signals": [
+      "Bloomberg ASKBやBloombergGPT等、機関投資家側でも『自然言語×金融データ』へ大手が本格参入しておりカテゴリ自体は確立",
+      "PHコメントで再現性・プロベナンス（モデルの追跡可能性）への鋭い質問があり、課題が明確",
+      "Live market+macroデータを統合した『ファイナンスのCursor』というポジショニングは差別化されている",
+      "投資・Fintech・AIという話題性の高い3タグでPH 214 upvoteを獲得"
+    ],
+    "concerns": [
+      "金融モデルが誤った時のトレース手段（プロベナンス）が未提示で、実運用導入のハードルが高い",
+      "ランディングテキストが極小でプロダクト詳細・料金が不明、評価難",
+      "Bloomberg ASKB等の本家AI機能と直接競合し、データライセンスで原価が劣後する可能性",
+      "個人向け投資助言領域に踏み込むと金商法・投資助言業登録が必要で個人開発不可"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "NISA口座2696万（2025年6月末、金融庁）と個人投資家裾野は拡大、SBI証券・楽天証券・SMBC日興もAI株価見守りや生成AI情報サービスを投入済で『AI×投資』需要は顕在。ただし自然言語でダッシュボードを構築するレベルの上級層は限定的。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "株探プレミアム（月2780円）、銘柄スカウター、J-Quants API（無料〜16500円）、TradingView日本連携、SBIラップ/ROBOPRO、SMBC日興AI株価見守り、IZANAVI（月5850円）など各レイヤーで国内プレイヤー多数。完全な自然言語ダッシュボードは未だ少ないが、隣接代替は飽和気味。"
+      },
+      "regulation": {
+        "score": 2,
+        "reason": "個別銘柄推奨や売買タイミング助言を含めば金融商品取引法上の投資助言・代理業登録が必須。財務局審査では3年以上の金融実務経験者の確保が事実上必要で、無登録運営は緊急差止対象。個人開発者にとって最大の参入障壁（牛島総合法律事務所、サポート行政書士法人解説）。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UIは英語→日本語化可能で言語面は中程度の改修で済む。一方、日本株データはJPX/J-Quantsライセンスや東証ティック契約が必要で、企業財務はTDnet・XBRL連携、決算短信の日本語パースが追加必要。データ層のローカライズコストが大きい。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のリテール投資家は証券会社内蔵ツールで完結する習慣が強く、独立系SaaSへの月額課金心理は弱め。法人側は導入決裁フローが長く個人開発者には不向き。プロップ・ヘッジファンド層は薄く、Bloomberg/QUICKに既に依存。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "株探プレミアム（ミンカブ）",
+        "url": "https://info.kabutan.jp/lp/",
+        "note": "国内最大規模の独立系株式情報サイト。日本株プラン月2780円、米国株プラン月2780円。決算・銘柄発掘特化で自然言語生成はないが情報サブスクの代表格。"
+      },
+      {
+        "name": "J-Quants API（JPX）",
+        "url": "https://jpx-jquants.com/",
+        "note": "日本取引所グループ公式の個人投資家向け株価・財務API。無料/1650円/3300円/16500円の4プラン。クオンツ系個人開発者の標準データ供給源。"
+      },
+      {
+        "name": "マネックス銘柄スカウター",
+        "url": "https://info.monex.co.jp/market-information/tool/expectation.html",
+        "note": "マネックス証券口座保有者は無料で利用可能な日本株分析ツール。最長10期以上の業績可視化が特徴で、個人投資家の支持厚い。SaaS有料モデルの強力な無料代替。"
+      },
+      {
+        "name": "SMBC日興AI株価見守り / SBIラップAI",
+        "url": "https://www.smbcnikko.co.jp/products/stock/aimonitoring/",
+        "note": "HEROZと共同開発のAI株価トレンド予測（SMBC日興）、SBI証券のAI投資コース（年率0.66%）。証券会社内製AIサービスは口座連動で無料〜低コスト提供が中心。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "金融商品取引法（投資助言・代理業登録）",
+        "impact": "個別銘柄の推奨・売買タイミング助言を提供する場合は内閣総理大臣の登録が必要。財務局審査では金融商品取引業3年以上の実務経験者の確保が必須で、関東財務局では実質2名以上体制が必要との見解。個人開発者単独での登録は事実上困難。"
+      },
+      {
+        "law": "金融商品取引法（投資運用業）",
+        "impact": "自動売買やラップ運用に踏み込む場合はさらにハードルの高い投資運用業登録が必要で、最低資本金等の人的・財産的要件が課される。個人開発者の現実的選択肢から外れる。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "保有資産・投資履歴は機微情報に準じて扱う必要があり、AI解析時の取得・利用目的明示、第三者提供制限が必須。LLMプロンプト経由でデータが海外サーバに送られる場合は越境移転規制も該当。"
+      },
+      {
+        "law": "金融庁AIディスカッションペーパー（2026年3月版1.1）",
+        "impact": "金融分野での生成AI利用に関する初期論点整理。70%以上の金融機関が生成AI導入済とされ、説明可能性・モデルガバナンスへの監督が今後強化される方向。法令ではないが運用上の前提として影響大。"
+      }
+    ],
+    "opportunity": "金商法登録不要な領域（推奨・売買助言を含まないデータ可視化、教育、バックテスト基盤、個人向けポートフォリオレポート自動生成、IR/開示資料の自然言語要約）に限定し、J-Quants APIとTDnet/XBRLを組合せた『日本株特化のAIアナリストノートブック』として再構築する余地はある。法人向け（コーポレートIR、地銀の運用調査部、独立系FA）にBYOデータでのSaaS提供であれば助言業を避けられる。ただし個人開発者単独での実装は再現性・データライセンス両面で非現実的。",
+    "rationale": "日本のリテール投資家層はNISA拡大で裾野が広がっているものの、本プロダクトのコア機能（個別銘柄ダッシュボード、戦略モデル、バックテスト）は投資助言業に該当しうる領域で、金商法上の登録ハードルが個人開発者には事実上クリア不能。回避するにはデータ可視化・教育に機能を絞る必要があり、その場合は株探プレミアム・銘柄スカウター・J-Quants・SBI/楽天証券内製ツール等の強力な無料〜低価格代替と直接競合する。プロ向けにはBloomberg/QUICK/Refinitivが盤石で、価格・データ網羅性で太刀打ちできない。需要は存在するが規制と競合の挟撃で個人開発の事業機会としては魅力に乏しく、skip判定が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "株探プレミアム月2780円、IZANAVI月5850円、J-Quantsプレミアム月16500円と上級層は月数千円のサブスクに支払う前例あり。ただし日本リテールは証券会社内蔵ツールで満足する傾向が強く、独立系AIダッシュボードへの月額3000〜10000円課金は壁あり。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "NISA口座2696万（2025年6月末、金融庁）、新NISA開設者の82%、年金資産形成層の拡大で個人投資家母数は十分。ただし『自然言語でモデルを組む』レベルの上級・準プロ層は数万〜十数万人規模と推定され、TAMは中程度（根拠未確認、控えめ推計）。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人向けは証券会社チャネルが圧倒的で、独立SaaSがリーチするにはX・note・YouTube投資系インフルエンサー連携、Qiita/Zenn技術記事しか手段がない。法人向けはエンプラ営業必須で個人開発の手が届かない。PLG単独でのスケールは困難。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Bloomberg ASKBが2026年beta公開済、BloombergGPTも稼働中で本家のAI化が加速。SBI証券・楽天証券・SMBC日興も生成AIサービスを2024〜2026年に投入済。本家・国内大手の進出は『寸前』ではなく『既に進行中』のフェーズで時間窓は狭い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "金融データのライセンス契約更新、データ品質モニタリング、LLM計算の誤り対応、市場時間中のSLA期待値、税制改正対応、コンプラ問合せ等が常時発生。個人運用は実務的に厳しく、24/7監視に近い負荷が想定される。"
+      }
+    },
+    "rationale": "monetization・market_sizeは平均、gtm・timing・solo_opsで大きく失点。日本の投資情報サブスク市場は前例があるため理論上の課金余地はあるが、(1)証券会社の無料ツールが事実上の標準として君臨し独立系SaaSのリテンションが取りにくい、(2)Bloomberg ASKB等の本家AI機能が既にカテゴリ占有を開始し時間窓が狭まっている、(3)金融データのライセンス費・コンプラ運用・SLA要求で個人開発者の運用負荷が極めて高い、という三重苦。法人BYOデータの限定SaaSなら成立余地が残るが、その場合は個人運用継続性が失われ事業モデルが崩れる。総合的に事業成立性は低。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: 月20プロンプト・公開データのみ・ウォーターマーク付きエクスポート",
+        "Pro: 月3000円・J-Quantsライト相当データ・無制限プロンプト・PDF/Notion出力",
+        "Team: 月15000円/3席・共有ワークスペース・監査ログ・BYOデータ接続"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本株を能動的に分析する上級個人投資家・独立系FA・中小資産運用会社のリサーチ担当者・経済系ライター/YouTuberなど、PythonやExcelで日常的に金融データを扱う層（投資助言には踏み込まないデータ可視化ユーザーに限定）",
+      "target_count": 50000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 1500000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『J-Quants × LLMで日本株アナリストノートブックを作る』連載",
+      "X（旧Twitter）で投資系インフルエンサー（@xxxxxxxx系）にレビュー協賛、note記事化",
+      "YouTube投資系チャンネルにバックテスト機能の実演動画を提供しアフィリ流入",
+      "新NISA特化の比較サイト（価格.com、ZAi等）への有料記事/比較表掲載",
+      "決算シーズンに『XBRL自動要約』バイラル機能をXで無料配布しリード獲得"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "個別銘柄推奨や売買タイミング助言を含むと金融商品取引法上の投資助言・代理業登録が必要で、個人開発者単独では金融実務経験者の確保ができず登録不可。無登録運営は金融庁の緊急差止対象となる。",
+      "Bloomberg ASKB（2026 beta）やBloombergGPT、ChatGPT/Claudeネイティブの金融プラグインが急速にカテゴリを占有しつつあり、個人開発SaaSのコア差別化が短期間で陳腐化するリスクが高い。",
+      "金融データライセンス（東証ティック、JPX、TDnet、外国市場データ）のコストと契約義務が個人事業者には重く、データの再配信制限で機能制約も大きい。SaaSの単価がコスト割れする恐れ。",
+      "日本リテール投資家の多くは証券会社内蔵の無料ツール（マネックス銘柄スカウター、SBI HYPER SBI、楽天マーケットスピード）で満足しており、独立系の月額3000円課金へのスイッチ動機が弱くLTVが伸びない。",
+      "金融計算の誤りや市場時間中の障害が即顧客損失クレームに直結し、個人運用者では24/7 SLA・損害賠償リスクへの対応が物理的に不可能。コンプラ事故が事業終焉トリガになる。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

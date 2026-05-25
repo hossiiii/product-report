@@ -1,0 +1,218 @@
+{
+  "name": "Verdent 2.0",
+  "description": "Your AI Technical Cofounder",
+  "ph_url": "https://www.producthunt.com/products/verdent-deck/launches/verdent-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/BBQ3OP2SS35GG5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-19T07:01:00Z",
+  "upvotes": 243,
+  "comments": 24,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Vibe coding"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi Product Hunt 👋 I’m Adrian, cofounder of Verdent. <br><br>With most AI coding tools, you are still acting as the PM, engineer, QA, and ops. You keep switching contexts, checking every step, and re explaining things every time. Instead of building a business, you end up managing the process. Most tools help you prototype. Verdent is built to help you actually ship. <br><br>Stop wearing every hat</p><p>Say “I need a booking page with time slots and payments.” Manager handles the planning, implementation, and testing. You just decide what to build next.</p><p></p><p>Stop managing every step</p><p>Give it a goal and come back to something that works.</p><p></p><p>Stop repeating yourself</p><p>Manager keeps track of your project, your standards, and how you like things done. It gets better the more you use it.</p><p></p><p>Stop being tied to your desk</p><p>Send it a message from your phone. It keeps working while you are away.</p><p></p><p>Our most active users are solo founders shipping features daily without writing code.</p><p><br>Last launch was about coding with AI.</p><p>This one is about helping builders actually run and ship their business.</p><p>Try it free 🙌</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Coolest launch of the day but \"AI technical cofounder” is a strong claim. What responsibilities do you think should never be delegated to Verdent?</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey all, we have integrated Anthropic's latest model Claude Opus 4.7 already! Excited for everyone to try it in Verdent：）</p><img src=\"https://ph-files.imgix.net/739211c5-bf4b-48ff-96f1-90a11f7f3243.png?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p></p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Verdent is your AI technical cofounder for turning ideas into running businesses. Tell it what you want to build in plain words, and it plans the work, drives execution, and delivers real product progress using your project context. Unlike most code generation tools, Verdent moves the entire product forward end to end, remembers your project, improves over time, and keeps working even when you're offline.",
+  "featured_at": "2026-04-19T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/9f002820-95c0-4e21-9365-392cd0cbf7a3.png",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/56b89756-1aad-4144-af01-e3b8cc43725e.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/6c22227a-28f2-4a87-a65d-5c90532b4459.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/3c4c4d72-dca3-4c43-9d63-750b6881de42.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/cb3f3d64-e99d-4d80-8ef4-e7ab05ab4563.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/f4fc937e-d237-471f-a17e-501d1478c779.jpeg"}
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:13",
+  "landing_meta": "Verdent AI｜Agentic Coding with Multiple Parallel Agents — Verdent AI is an agentic coding suite with parallel agents, Plan Mode, BYOK, and Eco Mode — AI code review plus agent orchestration for VS Code, JetBrains, Mac, and Windows.",
+  "landing_text": "Verdent AI｜Agentic Coding with Multiple Parallel Agents Skip to main content Features Pricing Resources Research Latest research updates Blog Product news and stories Guides Guides, comparisons, and best practices Changelog Release notes and updates Docs Product documentation Community Discord Join our community X Follow us on X Reddit Join us on Reddit LIMITED-TIME FREE TRIAL Get Started Download Download for Mac (Apple Silicon) Download for Mac (Intel) Verdent for VS Code & JetBrains Sign In Build Your Product With Plain Words In Minutes Just tell Verdent what you want. Verdent runs the work. You run the business. Limited-time FREE Trial Get Started Download for Mac (Apple Silicon) Download for Mac (Apple Silicon) Download for Mac (Intel) Built to Launch Not just a polished front end. Verdent helps you build a login system, data storage, payments, and admin tools so you can launch a complete product. Launch is Day One Add subscription billing this week. Build the admin dashboard next month. Verdent keeps the whole project in context , so every new task starts with the full picture. No Rebuild Required What you get isn't a throwaway prototype. It's built on a solid foundation, ready to launch. Add subscription billing this week. Build the admin dashboard next month. Verdent keeps the whole project in context , so every new task starts with the full picture. Knows You Better Over Time Verdent remembers all your preferences . The longer you work together, the more it feels like a partner who actually gets you. Built on The Best Models Verdent is powered by today's most capable AI models , so what you build is stronger from the start and ready for real use. Stop Wearing Every Hat Give Verdent the goal. It breaks it down, builds it, tests it, and comes back when it's done. Say What, not How Verdent breaks it into tasks, sets priorities, and pushes them forward. You don't need to project-manage your AI . You Step In for Key Decisions Only Verdent pushes the work forward",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing",
+    "$1",
+    "$6",
+    "$0.059",
+    "$13"
+  ],
+  "landing_fetched_at": "2026-05-26T04:34:14",
+  "description_ja": "あなたのAI技術共同創業者。自然言語で指示するだけでプロダクトを企画・実装・テストまで自走させる。",
+  "summary_ja": "Verdent 2.0は複数並列エージェントで企画から実装・テスト・運用までを引き受ける自律型AIコーディングスイート。VS Code/JetBrains/Mac/Windowsに対応し、プロジェクト文脈を保持してオフラインでも作業を継続する点が特徴。",
+  "tldr_ja": "日本でも自律AIコーディング需要は顕在だがCursor/Claude Code/Devinが先行。差別化乏しく個人開発は厳しい。",
+  "review_guide_ja": {
+    "what": "Verdent 2.0は「AI技術共同創業者」を掲げる自律型コーディングエージェント。自然言語の目標を渡すとManagerエージェントがタスクを分解し、複数の実装エージェントを並列に走らせ、計画・実装・テスト・レビューを自走させる。VS Code/JetBrainsプラグインに加えMac/Windowsのデスクトップアプリを提供し、Plan Mode・BYOK・Eco Mode・モバイルからの指示送信に対応。プロジェクト文脈と利用者の好みを記憶し、ログイン・データ保存・決済・管理画面まで含む「ローンチ可能な完成形」を一気通貫で出力する点を訴求。ソロファウンダーがコードを書かずに日次でフィーチャーをshipする用途を想定。",
+    "for_who": "ソロファウンダーや副業の個人開発者でMVPを最短でローンチしたい層、エンジニアを雇う予算はないがSaaSやWebサービスを立ち上げたい非エンジニア寄りビルダー、既存IDE（VS Code/JetBrains）で並列エージェント運用を試したい開発者が主要ターゲット。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "マルチエージェントのオーケストレーション、長期記憶、複数IDE/OSへのネイティブ配布、複数フロンティアモデル統合（Claude Opus 4.7等）の実装負荷が大きく、個人開発で同等品を作るのは現実的でない。"
+    },
+    "signals": [
+      "Claude Opus 4.7を即日統合するモデル追従の速さ",
+      "SWE-bench Verified 76.1%という公称ベンチマーク",
+      "日本のAI Beedia『AI Beat』が単独レビュー記事を出すなど日本側の関心が早期に発生",
+      "ソロファウンダー向け『AI技術共同創業者』というポジショニングがバズ要素",
+      "BYOK・Eco Mode・モバイル指示など個人運用に効くオプションを揃える"
+    ],
+    "concerns": [
+      "Cursor/Claude Code/Devin/Cline等の先行プレイヤーが日本でも圧倒的に認知され、後発の差別化が薄い",
+      "『AI技術共同創業者』は誇大気味で、実運用ではコードレビューや要件詰めの人手が依然必要",
+      "クレジット課金体系で『使いすぎるとすぐ高くつく』可能性、価格透明性に懸念",
+      "Devinが$500/月から$20/月に値下げするなど価格競争が激化、薄利化リスク",
+      "Verdent単体での日本語UI最適化や日本商習慣（請求書・銀行振込）対応の情報が乏しい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "日本でもAIコーディング需要は顕在化。Cursorはカカクコム・いえらぶ等が全エンジニア導入、Claude CodeとCursorの比較記事が多数。個人開発者の月額AI支出は中央値約6,500円まで上昇しており、自律型エージェントへの関心は強い。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Cursor（ARR 20億ドル/Fortune500の64%）、Claude Code、Devin、Cline、GitHub Copilot、Windsurfが日本でも記事・書籍多数で完全に飽和。Verdentは後発で、日本語の単独レビューはあるが認知は限定的。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "BtoB開発者ツールで個情法・特商法以外の特殊規制は基本的に該当しない。BYOK経由のモデルAPI利用に伴う個人情報・機密コードの取扱い同意設計のみ必要で、参入障壁は低い。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "AI Beat検証で日本語指示のみで動作物を生成可能と確認済み。LLM依存部分の日本語対応は良好。一方UI/ドキュメント/サポートの日本語化や請求書発行など商習慣面は情報未確認、深いローカライズ余地あり。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "個人開発者・ソロファウンダー向けのクレカ月額課金は受容されているが、法人導入になると請求書払い・適格請求書(インボイス)対応・SOC2/ISMS等が必要。海外SaaS共通の課題で、現状情報は未確認。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Cursor",
+        "url": "https://cursor.com/",
+        "note": "AI-first IDE。日本でカカクコム・いえらぶ・YOUTRUST・Ubie等が全社導入、書籍も発売され実質的なデファクト。"
+      },
+      {
+        "name": "Claude Code",
+        "url": "https://www.anthropic.com/claude-code",
+        "note": "CLI型自律エージェント。Cursorと組み合わせる『連携記事』が日本のZenn/Qiita/note/classmethodで多数。"
+      },
+      {
+        "name": "Devin (Cognition)",
+        "url": "https://devin.ai/",
+        "note": "自律型エージェントの代表格。月$500→$20に値下げし参入障壁が下がるが価格競争が激化中。"
+      },
+      {
+        "name": "Cline",
+        "url": "https://github.com/cline/cline",
+        "note": "OSSのBYOK型VS Code/JetBrainsエージェント。無料で複数プロバイダ対応、個人開発者層と完全に競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "ユーザーのコードやプロジェクト情報をクラウド経由でLLMに送る性質上、利用者の機密・個人情報の取扱い同意とプライバシーポリシー整備が必須。日本法人提供時は越境移転規定への対応も必要。"
+      },
+      {
+        "law": "特定商取引法/インボイス制度",
+        "impact": "日本で個人/事業者向けにサブスク販売する場合、特商法表示と適格請求書発行事業者番号の表示が必要。海外発SaaSは未対応のことが多く、法人顧客獲得時の障壁。"
+      }
+    ],
+    "opportunity": "Verdent本体の輸入勝負は不利だが、日本独自の角度として①日本企業の請求書・インボイス・銀行振込決済に対応した『日本法人向け自律エージェント窓口』、②Cursor/Claude Codeでは弱い『日本語の要件定義→タスク分解→Notion/Backlog連携』ワークフロー、③日本の中小企業のレガシーシステム（PHP/CSV/Excel連携）に特化した自律エージェント、④ローコード/ノーコード（kintone・Bubble・Glide）と連携してコード非エンジニアでも回せる『日本語コーディングAIエージェント』、などのニッチを取りに行く形が現実的。",
+    "rationale": "日本でも自律AIコーディング需要は確実に顕在化しており、企業導入も急速に拡大している。しかしCursor・Claude Code・Devin・Cline・Copilotが日本市場でも先行し、書籍・記事・カンファレンス・企業導入事例が積み上がっており、Verdent単体での後発参入は極めて厳しい。日本語指示でMVPが作れる強みも他ツールで代替可能。規制面の障壁は低く、ローカライズも軽量で済むが、Cursorのように『英語UIのまま日本企業が全社導入する』フェーズに既に到達しているため、Verdentが独自に日本市場で勝つには『商習慣対応＋ニッチ業務統合』のような明確な差別化が必須。総じて『build』ではなく『watch』が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "個人開発者の月額AI支出は中央値6,500円・平均64,000円まで成長しており、月19ドル(約2,800円)〜のサブスクは受容範囲。ただしBYOK型OSS（Cline）や本家サブスク（Cursor Pro $20）と価格帯が重なり、ARPU引き上げ余地は限定的。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内エンジニア人口は約120万人、副業フリーランス約248万人、ローコード/ノーコード市場は2026年に1,330億円規模。AIコーディングツール総需要は十分にあるが、その中でVerdentが個人開発者として奪える日本シェアはニッチ。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発者がVerdent本体と同等プロダクトを売るのは現実的でない。仮にニッチ派生を作る場合でも、Cursor/Claude Codeの広告・ブログ・コミュニティ網が日本でも厚く、Qiita/Zenn/X発信だけで個人がリーチを取るのは難易度高。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "海外本家(Verdent本体・Cursor・Devin・Claude Code)は既に日本市場に到達済み。Cursorは2026年に2B ARR・Devinは$20/月に値下げと競争が激化フェーズ。後発で参入する時間窓は既に閉じかけている。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "自律コーディングエージェントはモデルAPIの障害・コスト・脱獄、ユーザーコードの実行サンドボックス、CSなど運用負荷が極めて高い。SLA期待値も上がりやすく、個人での24/7運用は厳しい。"
+      }
+    },
+    "rationale": "需要と価格受容性は十分あるが、競合過密・タイミング劣化・運用負荷の3点が決定的に厳しい。Cursorが$20/月でデファクト化、Devinが$20/月まで降りてきて、ClineというOSS無料代替もある状況で、Verdentの直接フォロワーを個人開発者が作っても価格・機能・配布チャネルのいずれでも勝てない。仮に勝負するなら『本家が手を出さない日本商習慣統合』『kintone/Backlog/freee等の国内SaaS連携自律エージェント』のような明確なニッチに絞る必要がある。それでも個人運用での障害対応・モデルコスト変動リスクは大きく、業務委託のような小規模案件を取りつつ自社プロダクト化していく堅実路線が現実的。総合的に『個人開発で本筋を取りに行く案件』としては不適合。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2500,
+      "plans": [
+        "Free: 月50タスクまで、BYOK必須、コミュニティサポート",
+        "Indie: ¥2,500/月、月500タスク、優先キュー、Notion/Backlog/freee連携",
+        "Team: ¥9,800/月/3シート、SSO、適格請求書発行、銀行振込対応",
+        "Enterprise: 個別見積、オンプレ実行・ログ保管、SOC2準拠ロードマップ"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本の個人開発者・副業エンジニア・ノーコード系ソロファウンダー、特にkintone/Notion/Backlog/freeeなど国内SaaSを業務に組み込みたい層。AIコーディングに月5,000〜30,000円課金している中央値〜上位の個人開発者。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 625000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『Cursor/Claude Code/Devin/Verdent比較』『日本商習慣連携』の連載で検索流入を取る",
+      "Xで日本人ソロファウンダー（Tably/yoshiko等の界隈）と接点を作り、UseCase動画を流す",
+      "kintone/freee/Backlog/Notionの公式ストア/連携カタログに掲載し、既存ユーザーの導線を借りる",
+      "個人開発系Podcast(しがないラジオ/fukabori等)・LT登壇でPLG入り口を作る",
+      "Product Hunt JapanやTechCrunch Japanへの寄稿で初動を作る"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Cursor/Claude Code/Devin/Clineが既に日本でデファクト化しており、後発で正面突破するのは現実的に不可能。差別化を絞り込まないと埋没する。",
+      "モデルAPI（Anthropic/OpenAI）の価格・利用規約変更で原価率が大きくブレ、薄利になりやすい。BYOK中心にしないと個人運用は破綻リスク。",
+      "自律実行エージェントはユーザーのコード・データを扱うためインシデント時の責任・SLA期待値が高く、個人運用ではカスタマーサクセス工数が膨らむ。",
+      "Verdent本体やCursorが日本法人化・ローカライズを進めた瞬間、ニッチも刈り取られる可能性。時間窓は6〜12ヶ月程度しかない。",
+      "『AI技術共同創業者』という訴求は規制・契約面（共同事業性・著作権・成果物責任）でグレーになりやすく、法人顧客から避けられる可能性。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

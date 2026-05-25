@@ -1,0 +1,243 @@
+{
+  "name": "Vantage in Google Labs",
+  "description": "Practice & assess future-ready skills with AI-simulated team",
+  "ph_url": "https://www.producthunt.com/products/google/launches/vantage-in-google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/H37MDVAN5OB4LU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-19T07:01:00Z",
+  "upvotes": 292,
+  "comments": 7,
+  "topics": [
+    "Hiring",
+    "Productivity",
+    "Artificial Intelligence"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>Google Research just made the hardest skills to measure, actually measurable.</p><p></p><p>Vantage is a Google Research experiment that uses GenAI to assess future-ready skills like collaboration, critical thinking, and creativity. AI avatars simulate real scenarios, score your performance, and deliver a personal Skill Map.</p><p></p><p><strong>The problem</strong>: Critical thinking, collaboration, and creativity matter most but are nearly impossible to assess at scale.</p><p></p><p><strong>The solution</strong>: Vantage uses an Executive LLM to simulate real team scenarios, surface skill evidence, and score performance at human-expert level.</p><p></p><p><strong>What stands out</strong>:<br>🧠 <strong>AI simulated team</strong>: Work through missions like debates, pitches, and experiments with AI avatars.<br>🎯<strong> Executive LLM</strong>: Introduces dynamic challenges like conflict and constraints mid-conversation.<br>📊 <strong>AI Evaluator</strong>: Scores using expert-level rubrics with human-like agreement.<br>🗺️ <strong>Personal Skill Map</strong>: Visual scores with precise qualitative feedback.<br>🔬 <strong>Validated by New York University</strong>: AI scoring matches human experts across 188 testers.<br>📐 <strong>Aligned with OECD and World Economic Forum frameworks</strong>.<br>🎓 <strong>Built for classrooms</strong>: Designed as a skills layer alongside existing curricula.</p><p><br><strong>Skills assessed</strong>:<br>- Collaboration: Conflict resolution and project management.<br>- Creative Thinking: Generating, building, and evaluating ideas.<br>- Critical Thinking: Interpreting, analyzing, and judging information.</p><p></p><p>Different because it’s not a test, but an adaptive conversation that reveals real capability.</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a></p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Interesting idea! How do you ensure the AI-simulated scenarios stay relevant as tech stacks and best practices evolve? I remember one painful incident where outdated training led to a junior engineer deploying a container with root privileges to production.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This would be a great brainstorming partner! </p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Vantage is a Google Research experiment that uses GenAI to assess future-ready skills like collaboration, critical thinking, and creativity. AI avatars simulate real scenarios, score your performance, and deliver a personal Skill Map. Now on Google Labs.",
+  "featured_at": "2026-04-19T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f27f20c5-816f-4210-bbfa-8bdf797ffa3b.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fbe0f411-6ee7-4ba0-84ab-1bc324bd04b8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/eaa6e0e3-3737-4339-b6d7-058e037e350b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cb330331-f772-4ab9-94ae-f2332a6c71ea.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c8042e6b-cd34-4284-b71b-98b106825c4b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4b2f2baf-a41f-403e-944f-c219c2b5c8db.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f5fd60b4-3cc9-4fdc-af2a-04546e0401c1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e5298a30-52d3-4da4-8359-9c9248a3955c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/32eee2d1-3dcc-4668-a29e-b35ddce4a83f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7cec7cb7-50ca-4bb2-bef6-1c9d8f09e066.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7fa44197-f09a-42fa-8e1d-617ecf34a3e2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/16a75d30-ecec-49e5-979d-da5b45ac23a2.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/dfae0ed5-36b1-4ed5-bd7c-95adb91835ea.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:33:55",
+  "landing_meta": "Towards developing future-ready skills with generative AI",
+  "landing_text": "Towards developing future-ready skills with generative AI Skip to main content play silent looping video pause silent looping video unmute video mute video Towards developing future-ready skills with generative AI April 13, 2026 Gal Elidan, Research Scientist, and Yael Haramaty, Senior Product Manager, Google Research Our new research demonstrates a novel approach to assess “future-ready” skills using GenAI. The results of our study with New York University found the AI scoring to be on par with human experts. This research experiment, Vantage, is now available on Google Labs. Quick links Vantage on Google Labs Vantage video Tech report Share Copy link × As AI evolves at an unprecedented pace, there is a renewed focus on \"future-ready\" skills — the durable human competencies that will remain valuable regardless of technological shifts or automation. International frameworks, such as the OECD Learning Compass 2030 and the WEF’s Future of jobs report , have identified a set of priority skills, both highlighting the same core competencies, including critical thinking, collaboration, and creative thinking. While these skills have been considered essential long before the rise of AI, they are now becoming more critical than ever. Today we are sharing Vantage , a research experiment for assessing future-ready skills by leveraging generative AI to create conversations in simulated environments. Developed in partnership with pedagogy experts and researchers from New York University, Vantage is designed to offer high school and college students a sandbox environment for practice and validated assessment, built with the same systematic methodology traditionally used for core academic subjects, such as math or science. Vantage is now available in English for sign up on Google Labs . play looping video pause looping video unmute video mute video Measuring what's difficult to measure At the heart of any effective learning process is feedback and assessment, both essential for in",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-26T04:33:56",
+  "description_ja": "AIシミュレーションでコラボ・批判的思考・創造性などの未来スキルを練習・評価",
+  "summary_ja": "Google Researchの実験プロダクト。AIアバターと議論・ピッチ・実験などのシナリオを行い、LLM評価者がOECD/WEFのフレームに沿って思考力・協働力・創造性を採点、可視化されたスキルマップを返す。高校・大学生向け。",
+  "tldr_ja": "Google本家が英語版を既にLabs公開、日本の高校大学はBtoG販路必須で個人開発は困難。建てる余地は薄い。",
+  "review_guide_ja": {
+    "what": "高校生・大学生がAIアバターと議論・ピッチ・実験などの模擬チーム活動を行い、Executive LLMが途中でコンフリクトや制約を投入。やり取りをAI評価者がOECD Learning Compass 2030やWEF Future of Jobsの枠組みに沿ったルーブリックで採点し、コラボレーション（葛藤解決・プロジェクト管理）、批判的思考（解釈・分析・判断）、創造的思考（生成・構築・評価）の3領域を視覚的なスキルマップで返す。NYUとの188名検証で人間評価者と一致するスコア精度を確認したとされ、既存カリキュラムへの『スキル層』として位置付け。Google Labsから英語で無料サインアップ可能。",
+    "for_who": "高校・大学の学生本人（個人練習）と教員（カリキュラム補助）。中長期的には選抜・採用評価への応用も視野。OECD/WEFフレーム整合という公式性のあるブランディングで教育機関向けが主戦場。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "GPT/Claude等のLLMでロールプレイ+ルーブリック採点を組むだけなら個人でも実装可能。ただし188名規模の人間評価との一致検証など『科学的妥当性』の担保は単独では困難。"
+    },
+    "signals": [
+      "OECD Learning Compass 2030・WEF Future of Jobsという国際的フレーム整合を訴求",
+      "NYUとの共同研究で人間評価者と一致するAI採点を実証",
+      "Google Labsから無料公開で英語圏の高校・大学に直接配布",
+      "対話型シミュレーションを『評価』のレイヤーに転用するアプローチ"
+    ],
+    "concerns": [
+      "Google本家プロダクトで日本語版が出れば個人開発の差別化は消える",
+      "教育機関への販路はBtoG的で個人開発者にリーチ困難",
+      "AI採点の妥当性は科学的検証コストが高い",
+      "学習評価は文化・言語・カリキュラム依存度が高くローカライズが重い",
+      "Google Labs実験段階で正式プロダクト化・商用化条件が未確定"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "非認知能力・社会情動的スキル評価は文科省/イー・ラーニング研究所調査でも教育現場注目トピック1位。OECDのSSESや非認知能力検定などが日本でも展開。需要は顕在化しているが学校向け予算が中心で個人需要は限定的。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "EdvPath（非認知能力可視化）、SEL Japan（社会情動スキルアセスメント）、AI-m（マイナビ・高校向け面接練習）、ユーザーローカル就活面接AI、mugendAIのアオマル（総合型選抜AI模擬面接）等が既に存在。AI採点+対話型は競合複数。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "文科省『初等中等教育段階における生成AI利活用ガイドラインVer.2.0』（2024/12改訂）に準拠必要。未成年データを扱うため個人情報保護法・学校設置者との契約・保護者同意設計が必要だが、規制自体は禁止ではなく適切利用を求める内容。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "対話シミュレーションのため日本語の自然性・文化的議論文脈・日本の高大カリキュラムに沿ったシナリオが必要で、UI翻訳では済まない深い改修が要る。ルーブリックも日本の探究学習・観点別評価との整合が必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "学校・自治体は前例・実績重視で稟議厳格、個人情報や生徒安全領域では慎重。教員1人の判断では導入されず教育委員会経由が一般的。一方で非認知能力育成の文部行政推進という追い風はある。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "EdvPath",
+        "url": "https://lp.edvpath.jp/",
+        "note": "ヘックマンの非認知能力研究をベースに学校向けに非認知能力をデータで可視化・育成。学校導入実績あり。"
+      },
+      {
+        "name": "SEL Japan（社会・情動・行動的スキルアセスメント SEBA-J）",
+        "url": "https://seljapan.org/seba-j/",
+        "note": "BESSI 32 Skill Assessmentの日本ローカライズ版。協調性・創造性等を含むSELアセスメント。"
+      },
+      {
+        "name": "AI-m（マイナビ）",
+        "url": "https://ai-m.mynavi.jp/",
+        "note": "高校生向けAI動画面接練習サービス。総合型選抜・推薦入試対策で教員負荷軽減を訴求。"
+      },
+      {
+        "name": "アオマル（mugendAI）",
+        "url": "https://edu.watch.impress.co.jp/docs/news/2050183.html",
+        "note": "東大発スタートアップによる総合型選抜AI模擬面接・小論文添削アプリ。受験生の弱点把握。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "未成年学生の対話ログ・スキル評価という機微情報を扱う。学校設置者との委託契約、保護者同意、保管・第三者提供制限の整備が必須。"
+      },
+      {
+        "law": "文部科学省 生成AI利活用ガイドラインVer.2.0",
+        "impact": "プロンプトへの個人情報入力制限、教育委員会判断での利用範囲設定、著作権制度遵守などを順守する必要。学校導入時に各校が遵守状況を確認するため証跡提示が要る。"
+      }
+    ],
+    "opportunity": "あえて角度を作るなら（1）日本の探究学習（高校総合的な探究の時間・大学のPBL）に特化し『観点別評価』のルーブリックとAI採点をセット提供、（2）総合型選抜・学校推薦型選抜の面接・グループディスカッション対策に絞った受験生向けBtoCサブスク、（3）大学のキャリアセンター/学習支援部署向けに非認知能力可視化レポート、の3方向。ただしGoogleが日本語Vantageを公開すれば（1）と（3）は即競合に潰され、（2）はAI-m/アオマル等の既存プレイヤーが先行。",
+    "rationale": "需要・規制は中立〜やや追い風だが、競合密度とローカライズ重量で建てる魅力が薄い。非認知能力評価・面接練習・探究学習評価という3市場でいずれもマイナビ・東大発・SEL関連の専業プレイヤーが先行しており、個人開発者が後発で割って入る角度が見えない。Google本家が日本語Vantageを公開する時期も読みづらく（Gemini・NotebookLM・AI Modeは1〜2年内に日本語対応した実績あり）、英語版を翻訳しただけの先行サービスは即陳腐化リスクが高い。教育機関の販路もBtoG的で個人開発者には不向き。verdict=skipが妥当で、参入するならBtoC受験対策の狭い領域に限る。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "個人向け教育サブスクは日本で課金壁が厚く、保護者経由の決済もフリクション高。BtoB（学校・大学）は年間ライセンスで単価は確保できるが、稟議・年度予算サイクルに合わせる必要があり個人開発者の与信不足で失注しやすい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "EdTech市場は2021年2674億円→2027年3625億円の予測（矢野経済等）。学校数は高校約4800、大学796校（2024）と上限はあるが、生徒数で見れば数百万人規模。ニッチではないが爆発的でもない。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "学校・自治体・大学への営業はBtoG的で中長期の信頼構築、稟議、教育委員会経由が必須。個人開発者がPLGで攻めるルートはほぼなく、SaaS自社直販で学校に売るには代理店・教材会社経由が現実的。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "Google本家がLabs公開済みで日本語化は時間の問題（Gemini・NotebookLM・AI Modeは1〜2年で日本語対応した実績）。並行してAI-m・アオマル等の国内プレイヤーが既に伸びており、後発で勝つ窓は狭い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "学校・教育機関相手はSLA期待値が高く、評価結果に対する保護者・教員からの問い合わせ対応も重い。AI採点の精度不一致でクレーム化しやすく、24/7サポート的な対応負荷が大きい。"
+      }
+    },
+    "rationale": "事業性は厳しい。市場規模は中程度あるが、個人開発者が獲りに行ける販路がほぼ無いのが致命的。学校・大学・教育委員会というBtoG的セグメントは個人事業主の与信・実績で突破困難で、代理店経由でも教材会社の販売シェアを取りに行く必要がある。BtoC受験生向けに振っても課金力が弱く、AI-m/アオマル等の先行者がブランド・実績で優位。Googleが日本語Vantageを公開すれば自治体・学校は『Google公式・無料』を選び、有償の後発SaaSは選ばれにくい。monetization×gtm×timingの3軸が同時に弱く、business_viability_score=4にとどまる。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 0,
+      "plans": [
+        "Free: 受験生向け模擬面接・スキル評価 月3回まで",
+        "Pro: ¥1,480/月 個人受験生向け 無制限練習+詳細レポート",
+        "School: 年間 ¥200,000〜/校 教員管理画面+学校全体スキルマップ（個別見積）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "総合型選抜・学校推薦型選抜を受ける高校3年生（年間約15万人規模の総合型受験者）、または探究学習のルーブリック評価を負担に感じる進学校の教員。法人化なしの個人開発はBtoCの受験生サブスクに限定推奨。",
+      "target_count": 150000,
+      "capture_pct_year3": 0.1,
+      "monthly_revenue_target_jpy": 222000
+    },
+    "recommended_gtm": [
+      "X/Instagramで現役受験生向けに『AI模擬面接練習』として個人発信",
+      "noteで総合型選抜対策ノウハウ連載＋無料枠誘導",
+      "予備校・塾講師インフルエンサーへのアフィリエイト",
+      "TikTokショート動画でAIアバターとの会話デモを継続投稿",
+      "学校向けは諦め、BtoC受験生に絞り個人決済（保護者カード前提）のPLG"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Google本家が日本語Vantageを公開すると差別化が消失。Gemini/NotebookLM/AI Modeは1〜2年内に日本語化した実績があり時間窓は12ヶ月程度",
+      "AI-m（マイナビ）・アオマル（mugendAI）・ユーザーローカル等の既存プレイヤーがブランドと配信網で圧倒、後発で価格以外の差別化が困難",
+      "未成年データの取扱で個人事業主では学校・保護者の信頼を獲得できず、インシデント発生時の賠償リスクも個人で吸収不能",
+      "AI採点の妥当性検証コスト（NYU相当の188名規模検証）が個人開発者には実施困難で『精度保証』が打ち出せない",
+      "受験生BtoCに絞っても課金率が低く、月数十万円規模に到達するには大規模流入が必要でマーケコストが赤字化"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T19:48:56Z",
+  "review_guide_at": "2026-05-25T19:48:56Z",
+  "business_viability_at": "2026-05-25T19:48:56Z",
+  "advisor_view_at": "2026-05-25T19:48:56Z"
+}

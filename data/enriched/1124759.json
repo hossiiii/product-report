@@ -1,0 +1,243 @@
+{
+  "name": "Resend CLI 2.0",
+  "description": "Built for humans, AI agents, and CI/CD pipelines",
+  "ph_url": "https://www.producthunt.com/products/resend/launches/resend-cli-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/VRGLFFJVSN3G53?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-16T07:01:00Z",
+  "upvotes": 360,
+  "comments": 20,
+  "topics": [
+    "Email",
+    "Developer Tools",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>It's launch week at <a href=\"https://www.producthunt.com/products/resend\" target=\"_blank\" rel=\"noopener\">@Resend</a> - a week of announcing new features every day.</p><p></p><p>So far, the team announced <a href=\"https://resend.com/blog/introducing-automations\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Automations</a>, launched an <a href=\"https://resend.com/blog/ai-email-editor\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">AI Email Editor</a>, and just released <a href=\"https://resend.com/blog/resend-cli-2\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">their new CLI</a>.</p><p></p><p>S/O to <a href=\"https://www.producthunt.com/@zenorocha\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@zenorocha</a> and team - Looking forward to what's next!</p><p></p><p><strong>Update</strong>: The team just announced <a href=\"https://www.producthunt.com/products/react-email-6-0\" target=\"_blank\" rel=\"noopener\">@React Email 6.0</a> - keep launching!</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I love resend and have been a user for quite a while now! Btw could resend eventually auto optimize or improve emails based on open rates or spam signals using ai???</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "When someone is already using a competitor’s ecosystem (e.g., SendGrid/Mailgun/Postmark) plus a few custom scripts, what’s the breaking point that makes them switch to Resend CLI-driven workflows—what’s the moment where the old setup becomes unmaintainable?",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Skills for AI agents, React Email support, Automations, and Webhook listening. All from the terminal.",
+  "featured_at": "2026-04-16T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/3b8d849e-6bd0-45b5-9bd5-899c7e802277.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9dec9067-cdda-45e7-870c-b3f2949f3e55.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c5a4fc42-3984-467b-a7e3-c9ef81a45eea.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/26e20bf4-ad02-479d-a324-768c18edff0b.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:33:57",
+  "landing_meta": "Resend CLI 2.0 · Resend — Skills for AI agents, React Email support, Automations, and Webhook listening. All from the terminal.",
+  "landing_text": "Resend CLI 2.0 · Resend All posts April 15th, 2026 Resend CLI 2.0 Skills for AI agents, React Email support, Automations, and Webhook listening. All from the terminal. The Resend CLI gives you access to the full Resend API without leaving your terminal. Today, we're shipping version 2.0 , including four new powerful features : Send emails using local React files Automations and events Webhook listening Skills for AI agents Get started Install the CLI and log in to get started: cURL curl - fsSL https : / / resend . com / install . sh | bash Node.js npm install - g resend - cli Homebrew (macOS / Linux) brew install resend / cli / resend Or download the .exe for Windows directly from the GitHub releases page . Send emails using local React files Since version 1.0, you could use local .html files to send emails from your local machine. Now, you can use local React Email files ( .tsx or .jsx ) to send emails as well. Automations and events You can now manage Automations directly from the CLI. Create events, trigger automation runs, and inspect results, all in one place. resend automations list resend event-schemas create Build and debug multi-step workflows against your own data, without leaving your terminal. Webhook listening Setting up a local webhook listener used to require a tunneling tool and manual configuration. Now it's a single command. resend webhooks listen The CLI handles the tunnel and forwards incoming events to your local server. Every webhook event type is supported, making it straightforward to develop and test event-driven features locally. Skills for AI agents The CLI now ships with Agent Skills. Skills give your agents an opinionated, well-defined interface for interacting with the Resend API. Skills help your agents follow best practices, avoid unnecessary API calls, and stay on task. With the CLI, an agent can have its own inbox. It can sign up for accounts, receive confirmation emails, process attachments, and respond to users without your manual",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "pricing",
+    "$1",
+    "$2",
+    "$34",
+    "$3",
+    "$35"
+  ],
+  "landing_fetched_at": "2026-05-26T04:33:59",
+  "description_ja": "人間・AIエージェント・CI/CD パイプラインのために作られた Resend のメール送信 CLI。",
+  "summary_ja": "Resend の公式 CLI v2。ターミナルから React Email ファイルでの送信、Automations 管理、Webhook 受信のトンネル、AI エージェント向け Agent Skills を一括提供する。OSS で配布される Resend エコシステムの拡張。",
+  "tldr_ja": "Resend 本体は東京リージョン対応で日本でも人気上昇中、ただし CLI 自体は OSS のため個人開発者が直接マネタイズする余地は乏しい。",
+  "review_guide_ja": {
+    "what": "Resend のメール送信 SaaS をターミナルから操作する公式 CLI の v2。主要機能は (1) ローカルの React Email (.tsx/.jsx) ファイルを直接送信、(2) Automations と event-schemas の CLI 管理（resend automations list / event-schemas create）、(3) `resend webhooks listen` 一発でトンネル+ローカル転送する Webhook 受信、(4) AI エージェント向けの Agent Skills 同梱（エージェントに専用 inbox を持たせサインアップ/添付/返信まで自律実行可能）。curl/npm/Homebrew/Windows exe で配布。ユースケースは個人開発者の通知メール実装、CI/CD でのテンプレ送信検証、Claude Code/Cursor からの自動メール処理など。",
+    "for_who": "Resend を既に使っている、または検討している React/Next.js 系の Web アプリ開発者、ターミナル中心の開発体験を好む個人開発者、Claude Code 等のエージェントから自動でメール送受信させたい AI エージェント実装者。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "Resend API の公開ラッパーで、Node/Go で CLI ラップは数日で書ける。ただし本家が OSS・無料で配布しているため意味のある模倣にはならない。"
+    },
+    "signals": [
+      "Resend 東京リージョン追加で日本利用の最大ネックだったレイテンシ/到達率が改善（Zenn/Qiita で「日本でもまともに使える」記事増加）",
+      "Agent Skills 同梱で AI エージェント時代の開発ツール標準仕様化を狙うポジショニング",
+      "Product Hunt 360 upvote と Launch Week の連発で開発者コミュニティの関心高い",
+      "React Email との一体化で Next.js/Vercel 系開発者のデフォルト選択肢化が進む",
+      "Webhook listen の一行コマンド化は ngrok 代替として実用価値あり"
+    ],
+    "concerns": [
+      "CLI 自体は OSS・無料で個人開発者が直接マネタイズ不可",
+      "本家 Resend が SendGrid/Mailgun/Postmark/SES と価格・機能で正面競合、参入難度高",
+      "日本国内では blastengine/ベアメール/構造計画 SendGrid などキャリアドメイン到達率特化の国産勢が法人需要を握る",
+      "AI エージェント inbox は CSV 流出/迷惑メール送信/なりすまし等の悪用リスクと運用負荷が高い",
+      "個人開発でメール配信業をやると到達率・苦情処理・SPF/DKIM/DMARC 対応で 24/7 監視が必須化"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Zenn/Qiita/note に Resend 紹介記事が継続的に投稿され、特に Tokyo region 追加以降は「日本でもまともに使える」「人生変わった」等の体験記事が増加。React/Next.js 系個人開発者の間でデファクト候補化しつつあり需要は顕在。ただし CLI 単体への需要は API 利用層の一部に限られる。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "メール送信 SaaS は SendGrid（構造計画）、blastengine、ベアメール、Amazon SES、Mailgun、Postmark、Brevo、Mailtrap など飽和市場。CLI/開発者体験軸では Resend 本家が既にトップを取っており、個人開発でこれを上回るのは極めて困難。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "トランザクション/通知メールは特定電子メール法のオプトイン規制の例外で、主たる目的が広告宣伝でなければ規制対象外。電気通信事業法上の届出義務も SaaS 提供形態に応じ要確認だが、開発者向け API/CLI の範疇では実装阻害要因にはなりにくい。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "CLI は英語コマンドベースで、日本語化は主にエラーメッセージ/ドキュメント/Skill 定義文の翻訳に限定される。React Email テンプレートも日本語表示に技術的障壁なし。本家が日本語 UI/ドキュメントを揃えれば優位性はさらに失われる。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業のメール業務は「キャリアドメイン到達率」「日本語サポート」「請求書払い」「SLA 文書」を重視。Resend は USD クレカ決済中心で法人購買と相性が悪く、CLI ベースの開発体験は SI/業務系日本企業には刺さりにくい。スタートアップ/個人層では問題なく受容される。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "SendGrid (構造計画研究所)",
+        "url": "https://sendgrid.kke.co.jp/",
+        "note": "日本総代理店経由で月額3,000円〜、法人限定で個人不可。日本語サポート/請求書払いに対応する国内法人デファクト。CLI ではなく Web UI 中心。"
+      },
+      {
+        "name": "blastengine",
+        "url": "https://blastengine.jp/",
+        "note": "ラクス系の国産メール配信 API/SMTP リレー、月額3,000円〜。国内キャリアドメイン到達率99%を訴求。SDK は提供するが React Email/CLI 軸の体験はない。"
+      },
+      {
+        "name": "ベアメール",
+        "url": "https://baremail.jp/",
+        "note": "リンク社のメールリレー SaaS。スパム判定スコア検出に強み。API 連携対応だが CLI/AI エージェント連携領域は未開拓。"
+      },
+      {
+        "name": "Amazon SES (東京リージョン)",
+        "url": "https://aws.amazon.com/jp/ses/",
+        "note": "従量課金1,000通$0.10と最安級。AWS CLI 経由で操作可能だが UX は Resend CLI に劣る。コスト最優先層の主力選択肢。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定電子メール法",
+        "impact": "広告宣伝目的のメール送信にオプトイン同意・送信者表示・配信停止導線が必須。Resend CLI で送るメールがマーケ用途の場合は実装側で同意取得 UI とログ保存が必要。通知/取引メールは例外扱いで影響軽微。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "メール配信 SaaS を国内で再販する形態を取ると電気通信事業者の届出/登録が必要となる可能性。Resend CLI 自体はクライアント側ツールのため直接対象外だが、ラッパー SaaS を日本で立ち上げる場合は要確認。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "メール本文/宛先/トラッキングログは個人情報として安全管理措置が必要。AI エージェント inbox 機能で受信メール全文を LLM に渡す設計は越境移転規制（API 経由で米国 LLM プロバイダ送信時）の同意取得が論点。"
+      }
+    ],
+    "opportunity": "個人開発者目線では「Resend を直接競合する」のは不可能。代わりに (1) Resend を国内法人へリセラー的に導入支援（請求書払い/日本語サポート代行）、(2) Resend × AI エージェント inbox を活かした業務特化テンプレ（例: 採用面接調整 bot、EC 問い合わせ自動応答）、(3) React Email テンプレ販売（日本語縦書き/帳票風レイアウト）、(4) blastengine 等の国産メール API を Resend CLI 互換インターフェースでラップする OSS、などのニッチが現実的。本家を超えるのではなく本家の上に乗る発想で勝負する。",
+    "rationale": "Resend 本体は東京リージョン追加と React Email エコシステムで日本の個人開発者・スタートアップ層に着実に浸透中で、その上に乗る CLI 拡張は需要顕在。一方、CLI 自体は OSS で配布される本家公式ツールであり、日本市場で個人開発者が同じものを再実装する意味は薄い。法人領域では SendGrid/blastengine/ベアメール/SES がキャリア到達率と日本語サポートで強固で、Resend が法人ホットスポットを奪う構図は中期的にはまだ難しい。総合的には「市場機会はあるが Resend 本家を直接競合してはいけない」watch ポジション。"
+  },
+  "business_viability": {
+    "business_viability_score": 6,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "メール送信 API そのものは従量課金で価格圧力が強く、Resend 自身が無料枠3,000通/月を出しているため個人開発者が同等プロダクトで ARPU を確保するのは困難。ラップ系/補完テンプレ販売であれば月¥1,000〜¥3,000帯の SaaS は成立余地あり。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内メール配信市場は法人需要中心で blastengine が27,000社導入規模を持つなど TAM は十分。ただし個人開発者がリーチ可能な「Resend 系開発者層」のセグメントは数万人規模で、Resend CLI 周辺の補完ニッチは数千〜1万人レンジ。"
+      },
+      "gtm": {
+        "score": 7,
+        "reason": "Zenn/Qiita/note/X で Resend 系の発信は既に定着、PLG 経由で開発者にリーチ可能。GitHub OSS 公開 + Resend 公式 Skills マーケットプレイス掲載という導線も存在。個人開発者の標準的な販売チャネルが揃っている。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Resend 本家が東京リージョン対応・CLI/Skills 同梱と高速で機能拡張中で、補完ツールの寿命窓は短い。AI エージェント inbox は Resend 自身が公式で出した直後で、後追いプロダクトの差別化余地は限定的。検索で根拠未確認の部分あり。"
+      },
+      "solo_ops": {
+        "score": 6,
+        "reason": "ラッパー CLI/テンプレ販売型なら個人運用継続可能。一方、自前のメール配信インフラを立てると到達率管理/苦情処理/24h 監視/SPF/DKIM/DMARC 運用で破綻するため、Resend/SES の上に薄く乗る設計に限る必要あり。"
+      }
+    },
+    "rationale": "メール配信本体での競合は資本・到達率・運用面で個人開発者には事実上不可能。一方、Resend エコシステムに乗る形（テンプレ販売、業務特化エージェント、国産メール API のラッパー、リセラー支援）であれば PLG で月¥1,000〜¥3,000帯のニッチ SaaS は成立し得る。ただし本家機能拡張速度が極めて速く時間窓は12〜24ヶ月程度。月商目標は控えめに見積もり、target_count×capture×ARPU の整合性を維持しながら段階的に積み上げる戦略が現実的。検索で個人開発者向け課金嗜好の詳細統計は根拠未確認のため中庸スコアとした。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: React Email テンプレ5種・月100通までのテスト送信ラッパー機能",
+        "Pro: ¥1,500/月 — 日本語ビジネスメールテンプレ集（請求書/見積/採用通知）・無制限送信（Resend キーは利用者持ち込み）",
+        "Team: ¥4,800/月 — 複数プロジェクト管理・Webhook ダッシュボード・Slack 通知連携"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内で Resend / React Email を採用している（または採用検討中の）Next.js/Remix/SvelteKit 系個人開発者・小規模スタートアップエンジニア。Zenn/Qiita で Resend 関連記事を読む層をコアとし、二次的に Claude Code/Cursor で AI エージェントを組む層。",
+      "target_count": 20000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 450000
+    },
+    "recommended_gtm": [
+      "Zenn 連載「Resend × React Email 日本語実装ガイド」",
+      "X (旧Twitter) で Resend 系個人発信者と相互エンゲージメント、ハッシュタグ #Resend #ReactEmail",
+      "GitHub で OSS テンプレ集を MIT 公開 + Pro テンプレを Gumroad/Stripe 直販",
+      "Resend 公式 Agent Skills マーケットプレイス（resend/resend-skills リポジトリ）への PR 投稿",
+      "Claude Code/Cursor 向け Skills 配布で AI エージェント開発者層に露出",
+      "Qiita Advent Calendar / Resend Launch Week 連動で月1の発信リズム維持"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "Resend 本家が日本語テンプレ集や日本ビジネス向け Skills を公式に追加した瞬間に差別化消失",
+      "メール配信本体は到達率/苦情/法務リスクが個人開発者の処理能力を超えるため、自前インフラ路線は絶対に取らない判断が必要",
+      "AI エージェント inbox 機能を悪用したスパム送信/フィッシングへの加担リスク。SPF/DKIM/DMARC 整備とレート制限を最初から設計に組み込む必要",
+      "Resend が他社（特に Vercel/AWS）に買収されるとエコシステム全体の方向性が変わり依存リスク顕在化",
+      "日本法人需要は SendGrid 構造計画・blastengine が既に握っており、法人セグメントへの拡張は SI チャネルを持たない個人開発者には事実上不可"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 6,
+  "japan_fit_at": "2026-05-25T20:55:08Z",
+  "review_guide_at": "2026-05-25T20:55:08Z",
+  "business_viability_at": "2026-05-25T20:55:08Z",
+  "advisor_view_at": "2026-05-25T20:55:08Z"
+}

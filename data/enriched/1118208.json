@@ -1,0 +1,221 @@
+{
+  "name": "Build Check",
+  "description": "Is your app idea actually worth building?",
+  "ph_url": "https://www.producthunt.com/products/build-check-for-outsiders/launches/build-check?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/PAAYARPATBOR7T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-17T07:01:00Z",
+  "upvotes": 505,
+  "comments": 53,
+  "topics": [
+    "No-Code",
+    "Vibe coding",
+    "Vercel Day"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>👋 Hey Product Hunt!<br><br>I’m German. I build a lot, I learn a lot, and I’ve noticed a massive shift.<br><br><strong>The \"Outsiders\" are coming</strong>. Managers, lawyers, and even employees who see real problems but don’t know if their solution makes sense as a product. I’ve answered the \"Should I build this?\" question 100+ times this year.<br><br>So, I vibecoded a 'solution'.<br><br><strong>Build Check</strong> is a &lt;2min filter designed to help you stop overthinking and start shipping. It’s not a complex business consultant; it’s a gut-check for your idea.<br><br><strong>Why I built this:</strong><br><br>- The Idea Maze: Most people quit because they don't know where to start.<br>- Personal Utility: I use it myself to filter the \"magic\" ideas from the profitable ones.</p><p>- Launch lessons: I'm sharing all the process so everybody can know about it.<br><br><strong>Who it’s for:</strong><br><br>The domain experts. The people in sales, law, accounting or whatever who found a \"pain\" but need a tech-roadmap to solve it. Now they can make it real through AI but sometimes it's nonsense. <br><br><strong>What's next:</strong><br><br>- Matchmaking: Connecting ideas with the right coaches or devs.</p><p>- Benchmarking: Researching competitors and industry leaders.</p><p>- ICP Snapshot: one paragraph describing the ideal first user</p><p>- Domain selling: After some suggestion, linking with platforms like Godaddy, Cloudlfare.<br>- Actionable Guides: Tailored playbooks based on your specific industry.<br>- Validation experiment: a single 48-hour experiment to run before writing a line of code.<br>- Gurus' validation: Tech influencers giving feedback to beginners.<br><br>I built this for saving my time, but I’m realizing the impact it has for those outside the \"bubble.\"<br><br><strong>It's 100% FREE - not looking for profit.</strong><br><br>Would love your feedback—what’s your <em>buildability</em> score? 🚀</p>",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Nice launch! Which model scores the idea, and on what criteria across the 6 dimensions?</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Great idea but how do you score each dimension? Did you build own algorithm or rely on AI? From business point though, are you planning to monetise this app (because for me it's hard to understand how you can build recurring revenue here)? Congrats for launch and good luck!</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "A free quiz for outsiders and vibe coders. Score your app idea across 6 dimensions and find out if it's worth building — before you spend weeks on it.",
+  "featured_at": "2026-04-17T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/befdc559-f978-47c1-bc72-40d445779b24.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c61cad10-f37d-4adc-a731-6c98a6752a84.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5ae1e914-2ddf-4c00-8c34-88cd00455ca0.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/93ee3692-e7f1-4d0d-8f5a-eb27f1ceeb1e.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0f5032a4-88f1-492a-acf1-c1a97012fc5b.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6b46a8f4-f2a5-4244-9e0d-f962e0202550.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/e674e508-d76b-442d-a023-d5df29994e65.jpeg"
+    },
+    {
+      "type": "interactive_demo",
+      "url": "https://ph-files.imgix.net/8152c251-c508-45a6-8e4b-e51e09e76812.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:33:51",
+  "landing_meta": "Build Check — Is Your App Idea Worth Building? — A free quiz for outsiders and vibe coders. Score your app idea across 6 dimensions and find out if it's worth building — before you spend weeks on it.",
+  "landing_text": "Build Check — Is Your App Idea Worth Building? Share 🎯 Access my report For outsiders & vibe coders Is your app idea actually worth building? Most people learning to vibe code jump straight into building something nobody needs. Take 2 minutes and find out if your idea has legs — before you spend weeks on it. 12 Questions 6 Dimensions <2min To complete Test my idea → Embed this quiz on your site ↓ DIY version Prefer to do it in your favourite AI? Copy this prompt and paste it into Claude, ChatGPT, or Gemini. It runs the same 6-dimension framework. You are an app idea validator. I'll tell you my idea, then you score it across 6 dimensions — ask me 2 targeted questions per dimension before scoring each one out of 10. Dimensions: 1. Real Problem — Is this a hair-on-fire problem or a \"nice to have\"? 2. Frequency & Pain — How often does it happen and how bad is it? 3. Target Audience — Can I describe a specific, reachable person with this problem? 4. Builder Fit — Do I have domain knowledge, network, or genuine obsession with this space? 5. Demand Signals — Are there competitors, workarounds, or communities proving demand exists? 6. My Drive — Will I still care about this in 6 months? After all 6 dimensions: - Total score out of 60 + grade: A (50-60), B (40-49), C (30-39), D (20-29), F (<20) - 2-sentence verdict on the idea - 3 specific things to do THIS WEEK based on my weakest dimensions - One 48-hour validation experiment to run before writing a single line of code Start by asking me to describe my idea in one sentence. Copy prompt Open in: Claude ChatGPT Gemini FAQ Common questions Who is Build Check for? Domain experts who found a pain in their industry and want to know if it's worth building a product around it — managers, lawyers, teachers, salespeople. You don't need to be technical. How does the scoring work? Your idea is scored across 6 dimensions: Real Problem, Frequency & Pain, Target Audience, Builder Fit, Demand Signals, and Your Drive. Each is worth 10 poin",
+  "pricing_signals": [
+    "freemium",
+    "$6"
+  ],
+  "landing_fetched_at": "2026-05-26T04:33:52",
+  "description_ja": "あなたのアプリのアイデアは本当に作る価値があるか？2分で6軸スコア診断する無料クイズ。",
+  "summary_ja": "ドメイン専門家やVibe Coder向けに、アプリアイデアを「課題の深さ」「頻度」「ターゲット」「ビルダー適性」「需要シグナル」「熱量」の6軸×12問で2分以内に採点し、A〜F評価と週次アクションを提示する無料診断ツール。",
+  "tldr_ja": "アイデア検証は無料AI/プロンプトで代替容易、日本人の課金壁も厚く個人開発の収益化は困難。",
+  "review_guide_ja": {
+    "what": "12問のクイズに答えると、アプリアイデアを6次元（Real Problem／Frequency & Pain／Target Audience／Builder Fit／Demand Signals／My Drive）×各10点満点で採点し、合計60点満点のスコアとA〜Fグレード、2文の総評、今週やるべき3つのアクション、48時間で実行できる検証実験を提示する無料Webクイズ。Vibe Coder（自然言語AIで作る非エンジニア層）やドメイン専門家が、コードを書く前にアイデアの筋を判断するゲートとして使う想定。サイト埋め込み機能、同じフレームワークをClaude/ChatGPT/GeminiにコピペできるDIYプロンプトも公開しており、コミュニティ拡散を狙う設計。",
+    "for_who": "プログラミング未経験のドメイン専門家（営業・法務・経理・教師など業界の痛みを知る人）と、AI/ノーコードで「とりあえず作る」傾向のあるVibe Coder。アイデアが浮かんだが筋が良いか判断できない／時間を使う前に篩にかけたい層。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "12問のフォーム＋LLM呼び出し＋6軸スコア計算で構成可能。プロンプトも本人が公開済みでフレームワーク自体は秘匿性なし。Next.js＋OpenAI/Claude APIで週末実装レベル。"
+    },
+    "signals": [
+      "Vercel Day掲載＋No-Code/Vibe codingトピックでProduct Hunt 505 upvote",
+      "DIYプロンプトを公開し『自分でやれ』導線も用意、コミュニティ親和性が高い",
+      "ドメイン専門家×AIで作る『Outsiders』という明確なペルソナ定義",
+      "12問<2分のUX、診断系コンテンツとして拡散しやすい設計",
+      "メーカー自身が『100% FREE - not looking for profit』と明言"
+    ],
+    "concerns": [
+      "本人が非収益化を明言しており持続性が不透明",
+      "ChatGPT/Claudeに同じプロンプトを貼れば代替できる（DIY版を公開済み）",
+      "スコアの妥当性根拠が不明（『AIに採点させているだけ』批判がコメント欄にあり）",
+      "リテンション設計が薄く、一度診断したら戻る理由が乏しい",
+      "海外類似（IdeaProof, ValidatorAI, ProductGapHunt, FounderPal AI Idea Validator等）が既に多数存在"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Vibe Coding/個人開発関連のZenn・Qiita記事が大量にあり、『アイデアが無い／検証できない』というテーマも一定の関心はある（zenn.dev/naruhiroの『アイデアが無いから個人開発やらない』を無くしたい等）。ただし『診断クイズ』というUI形態への需要は顕在化していない。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "ChatGPT・Gemini無料版、NEC『企画書AI診断』、リーンキャンバス系コンサル、note/Zennの大量のプロンプト記事が事実上の代替。Build Check自身がDIYプロンプトを公開しており差別化困難。海外勢（IdeaProof, ValidatorAI等）も日本語UIで参入容易。"
+      },
+      "regulation": {
+        "score": 10,
+        "reason": "単なる質問応答型の評価サービス。個情法（メアド取得時の通知程度）以外に該当する規制なし。金融・医療等の規制業種ではない。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "12問のテキスト＋LLMプロンプトのみ。日本語化はi18n対応とプロンプト翻訳で完了。日本市場特有のUX調整はほぼ不要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のドメイン専門家（営業・法務）が個人で『アプリを作る』カルチャーは米国ほど成熟しておらず、Build Checkが想定する『Outsider』層自体が薄い。意思決定が稟議型で、診断結果を即実装に結びつけるユースケースが弱い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "NEC 企画書AI診断サービス",
+        "url": "https://jpn.nec.com/press/202603/20260330_01.html",
+        "note": "新規事業企画書を11評価軸×300項目でAI診断。法人向けで個人開発者対象ではないが、『アイデアを定量採点する』というメッセージは大企業発で既に存在。"
+      },
+      {
+        "name": "ChatGPT / Gemini Deep Research 無料版",
+        "url": "https://business-ai.jp/parsonal/research/",
+        "note": "Build Check公開のDIYプロンプトをそのまま貼って同等機能が出る。個人開発者の事実上の標準。"
+      },
+      {
+        "name": "リーンキャンバス（創業手帳/モンスターラボ等の無料テンプレ）",
+        "url": "https://sogyotecho.jp/lean-canvas/",
+        "note": "アイデア検証フレームワークとして日本で広く普及。紙1枚で課題・顧客・指標を整理する代替。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "ユーザーが入力したアイデア内容や連絡先を保存する場合、利用目的の通知・第三者提供同意・安全管理措置が必要。匿名診断・即時破棄ならリスク極小。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては、(1)国内特化の競合DB（楽天・メルカリ・Yahoo・各業界SaaS等）と連携した『日本市場での既存サービス検出』、(2)経産省/中小企業庁の補助金・助成金の適合度診断との接続、(3)法人新規事業部の稟議書フォーマット（経営会議向けPDF出力）への変換、の3点。海外ジェネリック診断との差別化は『日本市場での実行可能性』の重ね合わせに尽きる。",
+    "rationale": "テーマ自体（個人開発でアイデアを篩にかける）は日本でもZenn・Qiitaで継続的に話題化しており、需要は中程度ある。しかし『AIに採点させる無料診断』はChatGPT/Gemini無料版の普及で代替コストがほぼゼロで、Build Check自身がDIYプロンプトを公開していることから差別化の根拠が弱い。NEC・大手SIerが法人向け同等サービスを出しており、上下から挟まれている状態。さらに日本のドメイン専門家層は米国比で『個人でアプリを作る』前提が弱く、ターゲット母集団が薄い。規制リスクとローカライズ容易性は高いが、需要×競合の弱さが致命的で『見送り』。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 2,
+        "reason": "メーカー自身が『100% FREE - not looking for profit』と明言。診断系プロダクトは『一度使えば終わり』でリテンション設計が極めて困難、日本人は無料AI代替がある領域での月額課金に抵抗が強い。フリーミアム転換率の業界平均1.5〜5%以下が現実的。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "日本のVibe Coder/個人開発者人口は数万人規模（Zenn個人開発タグの活動者ベース）、ドメイン専門家で実際に作る層はさらに細い。法人新規事業部に振っても1万社程度、有償化までいくのは数百社以下と推定（根拠未確認、控えめ見積もり）。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Zenn/Qiita/note/X発信、ProductHunt、ノーコードコミュニティといったPLGチャネルは確立しており、個人開発者がリーチ可能。ただし無料前提だと『一度バズって終わり』になりやすい。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "海外で同種ツール（IdeaProof, ValidatorAI, FounderPal, Inodash, ProductGapHunt, NicheProwler等）が既に多数稼働。本家が日本語化するハードルも低く、時間窓は短い。LLM自体の進化で『アプリではなくChatGPTそのもの』に吸収されつつある。"
+      },
+      "solo_ops": {
+        "score": 8,
+        "reason": "LLM API＋静的フォームで24/7監視不要。CSもほぼ発生しない。API利用料が無料ユーザーに対してコスト要因となる点だけ注意（無料運営はAPI課金が直撃）。"
+      }
+    },
+    "rationale": "事業性は厳しい。最大の問題は『無料AIで完全代替可能』な領域である点で、Build Check自身がDIYプロンプトを公開していることが差別化の不在を象徴している。日本人の課金嗜好は同カテゴリで弱く（無料AI代替がある領域では¥980/月でも壁になる）、市場規模も個人開発者×ドメイン専門家の交差で数千人レベル。一方で個人運用の負荷は低く、PLGチャネルは整備されているため『無料でバズらせて広告/アフィリエイト』なら継続可能だが、recurring revenueモデルとしては成立しにくい。米国の類似ツールも有料転換に苦戦しており、本家ですら持続性が証明されていない領域に日本市場で参入する積極理由は乏しい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 0,
+      "plans": [
+        "Free: 6軸スコア＋総評＋48時間検証実験（無料、無制限）",
+        "Pro: 国内競合DB照合＋補助金マッチング＋PDF稟議書出力 ¥1,480/月（仮）",
+        "Team: 法人新規事業部向け 5アカウント＋管理画面 ¥9,800/月（仮）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本のVibe Coder／ノーコード個人開発者（Zenn・Qiita活動者）と、法人新規事業部の企画担当者。一次ターゲットは前者で、Pro課金は『国内市場検証』『稟議書出力』のニーズがある層に限定（根拠未確認）。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Zenn個人開発タグでの連載（『アイデア検証してから作る個人開発』）",
+      "X（旧Twitter）で個人開発者コミュニティに無料診断を投下、結果スクショ拡散誘導",
+      "noteで『起業/副業アイデア診断』として非エンジニア層にリーチ",
+      "ProductHunt JP系コミュニティ・ノーコードコミュニティのMeetup登壇",
+      "Qiitaで『AI採点ロジックの作り方』技術記事から逆流入"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "ChatGPT/Geminiの無料版が同等以上の診断を即座に返せるため、独自価値が立たない。本家のDIYプロンプト公開がそれを自認している。",
+      "リテンション設計が困難。一度診断したユーザーが戻る理由が乏しく、MAUが伸びずARPU 0が常態化する。",
+      "日本のドメイン専門家層は米国比で『個人で作る』カルチャーが薄く、想定ペルソナの母集団が小さい。",
+      "海外類似サービス（IdeaProof, ValidatorAI, FounderPal等）が日本語UIで参入する時間窓が6ヶ月程度しかない。",
+      "メーカー本人が非収益化方針を明言しており、有料化転換時のブランド毀損リスクがある（フォロワー期待と乖離）。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

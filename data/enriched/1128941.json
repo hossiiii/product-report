@@ -1,0 +1,254 @@
+{
+  "name": "Clawdi",
+  "description": "Best home for all AI agents",
+  "ph_url": "https://www.producthunt.com/products/clawdi/launches/clawdi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/EVCLQTSYAK2DEE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-25T07:01:00Z",
+  "upvotes": 327,
+  "comments": 35,
+  "topics": [
+    "Chrome Extensions",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>I’ve known the team for a few years. They’ve always been one of the scrappiest teams building in this space. When they told me they built Clawdi on top of OpenClaw, my first question was simple: What can it actually do?<br><br>I actually tried OpenClaw briefly when it came out because I heard a lot of AI savvy people had already been using agents to build their \"team.” But I gave up after 30 minutes. Well, it was because I didn’t want to spend my time setting things up, not because it wasn’t powerful. Hermes is powerful too, but setup is still the hard part. <br><br>Clawdi is where it clicked for me. It took me about 2 minutes to get started, and now I use it for running parts of my Instagram workflow and a bunch of other things. Nothing fancy, just small things that save time every day.<br><br>And before anyone asks, yes, your data stays yours. API keys are encrypted and only accessible by you.<br><br>These days I’d go to Clawdi just to see what new agents or integrations they’ve shipped, and what else I can offload to my little lobster assistant.<br><br>Would love to see how others are using it and what workflows you try on Clawdi.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt 👋 — Marvin here, co-founder of Clawdi.</p><p></p><p>The honest origin story: <strong>I spent three weeks configuring an OpenClaw agent. Skills, cron jobs, 20+ app connections, memory, the whole thing.</strong> It was finally working exactly how I wanted. Then a new agent framework dropped that looked genuinely better. I switched.</p><p></p><img src=\"https://ph-files.imgix.net/9c1650da-c065-4ae8-8d4b-78addc40ef15.png?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p></p><p></p><p>Everything was gone. Three weeks of work, starting from scratch.</p><p></p><p>That's the problem we built Clawdi to solve. Every time you switch agent frameworks — and you <em>will</em> switch, because this space is moving insanely fast — you lose everything. Your API keys, your skills, your cron schedules, your agent's memory of how you work. It's not just annoying. It's the reason most people give up on personal agents after a few weeks.</p><p></p><p>We realized the issue is that your <em>environment</em> — your connections, memory, and config — is trapped inside the framework. So we decoupled them. <strong>Clawdi is the environment layer that lives <em>above</em> the framework. Your Gmail, Slack, GitHub, cron jobs, and agent memory live in Clawdi. The agent framework is just the engine you swap in and out.</strong></p><p></p><p>Switch from OpenClaw to Hermes? Your entire setup carries over. When the next great framework ships next month, you won't start over again.</p><p>We also run every workspace inside an Intel TDX hardware-encrypted VM — because a personal AI agent has the keys to your entire digital life, and that deserved real security, not just a promise.</p><p>We built this because we needed it. <strong>5,000+ people have tried it since February. </strong>Would love to hear what you think — especially if you've felt this pain yourself.</p><p></p><p>Try it free: <a href=\"https://clawdi.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://clawdi.ai</a></p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>My name is Maggie. I’m the marketing manager at Phala, the TEE infrastructure that Clawdi runs on. So I’ve been close to this project from the start.</p><p></p><p>My job involves running GTM, social, lifecycle campaigns, content, and a bunch of other things at once. So it's fair to say I am constantly bouncing between tabs, juggling multiple workflows, trying to pulling info from different sources and keep things moving. Also I’m not a developer. I don't have a technical background, so when OpenClaw blew up and because I was actively looking for something to automate my workflows, I tried setting it up locally twice, got lost in the Docker setup both times, and eventually gave up.</p><p></p><p>Being at Phala meant I knew early on what the team was building with Clawdi. I also knew what it was supposed to solve. But I didn’t actually use it until it was ready enough to just work. I logged in with Google, connected Gmail and Telegram, hit deploy. All under three minutes. My agent said hi to me on Telegram.</p><p></p><p>First thing I asked Clawdi to do: wiped my Promotions folder. I'd been receiving alerts that my inbox storage is running low but I’d been putting that off for months. 25,500 emails gone in two minutes. Then I set Clawdi up for work. I asked it to pull KPIs from Analytics, the CRM, and our social dashboards every Monday morning and drop a summary in Notion. That used to take me at least 1 hour and a half. With Clawdi all I need to do is to connect it to my work apps with literally just one click and a 1-line prompt “Drop me a clean weekly KPI summary from Analytics, CRM, and socials every Monday morning at 10:00AM EST.”</p><p></p><p>The part that shaped how we positioned the product: I kept telling the team that the setup was the wall. Not the concept, not the price but the setup. Every non-technical person I showed OpenClaw to bounced at the same point. Clawdi is the answer to that. The 3-minute deployment is NOT a marketing line, it’s the actual fix. With Clawdi integration, the deployment of Hermes agent got even sweeter: Now it doesn’t just do tasks across apps, it learns from every run and gets better over time.</p><p></p><p>If you work in marketing, ops, or anything that involves a lot of tabs and repetitive tasks, and you’ve already tried OpenClaw and given up, Clawdi is worth another look.</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Clawdi lets you run AI agents like OpenClaw and Hermes in cloud without setup, stop losing your agent setup every time you switch frameworks. The open-source environment that decouples your memory, API keys, and skills from the agent engine.",
+  "featured_at": "2026-04-25T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/0cbd3bda-c011-4ff2-bdca-a8c3cec0ac34.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a93f183b-2e37-439f-9821-9777a5021f04.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6b978b51-39c8-413f-a8ac-a8df56cd4739.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/96d03ee0-8676-4342-a4b7-c6b4486b0f37.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f213be7c-61cc-48e3-a8fb-29664d94103a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d0382b4c-05b5-4a39-8048-6b40075d657b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/aa9185fe-d01a-4f1b-a2ad-38ce06339125.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/093172b5-303c-44b8-a56d-722566a61350.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/cb507741-3a2a-4e95-9821-f94f8f7032a7.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T03:46:42",
+  "landing_meta": "Clawdi — The best home for all your AI agents, environments, sessions, memory, skills, cron jobs, and app connections — The best home for all your AI agents, environments, sessions, memory, skills, cron jobs, and app connections.",
+  "landing_text": "Clawdi — The best home for all your AI agents, environments, sessions, memory, skills, cron jobs, and app connections",
+  "pricing_signals": [
+    "open-source",
+    "$1",
+    "$15",
+    "$18"
+  ],
+  "landing_fetched_at": "2026-05-26T03:46:43",
+  "description_ja": "OpenClaw や Hermes など複数 AI エージェントの環境・記憶・APIキーを一元管理するクラウドホーム",
+  "summary_ja": "OpenClaw/Hermes など各種 AI エージェントフレームワークの「環境層」を切り出してクラウド管理するプラットフォーム。Intel TDX の TEE 上で API キー・スキル・cron・メモリを保持し、フレームワークを乗り換えても設定が失われない。Docker 不要で約3分で起動。",
+  "tldr_ja": "国内ロリポップが月1,200円で OpenClaw+Hermes を1クリック提供済み。TEE 級インフラは個人開発不可、参入余地ほぼ無し。",
+  "review_guide_ja": {
+    "what": "Clawdi は OpenClaw・Hermes Agent・Claude Code・Codex など複数の AI エージェントフレームワークの「環境層」を提供するマネージド SaaS。Phala Network が運営する Intel TDX ベースの TEE（Trusted Execution Environment）上に各ユーザー専用のワークスペースを立ち上げ、API キー・OAuth トークン・スキル定義・cron スケジュール・会話メモリを暗号化して保持する。ユーザーは Google ログインから Gmail・Slack・GitHub・Telegram・Notion などを 1 クリック接続し、フレームワークを OpenClaw → Hermes と乗り換えても環境設定が引き継がれる。典型用途は Gmail 自動整理、毎週月曜の KPI ダッシュボード生成、Instagram 投稿ワークフロー自動化など。料金は無料枠（2vCPU/4GB/5,000 credits）+ $29/月の Pro プラン。",
+    "for_who": "OpenClaw / Hermes をローカル Docker でセルフホストして挫折した、もしくはセキュリティ・運用負荷を理由に避けてきた非エンジニア寄りのプロフェッショナル、マーケ・オペレーション担当者、副業や個人ワークフローを自動化したい個人。エンタープライズ向けには SSO/監査ログ/SLA 付き Enterprise プランも存在。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Intel TDX 対応の TEE インフラ（Phala Network）と複数フレームワーク統合・OAuth コネクタ群が必要。個人開発で同等品を作るのはほぼ不可能。"
+    },
+    "signals": [
+      "PH 327 upvotes、35 コメント。共同創業者がコメント欄で 5,000+ ユーザーと公表",
+      "OpenClaw が 2026 年 4 月時点で 345k stars、Hermes 22k stars と背景市場が急成長",
+      "OpenClaw は 2026 年 3 月に 4 日で 9 CVE、Sandbox 13 万台が公開状態というセキュリティ事故が話題化し『マネージド/TEE 需要』が顕在化",
+      "Phala（TEE インフラ）と垂直統合で差別化",
+      "コメ欄に技術系インフルエンサーと Phala の中の人による proof of usage が並ぶ"
+    ],
+    "concerns": [
+      "国内では既に GMO ペパボの『ロリポップ！AIエージェントクラウド』が月 1,200 円で OpenClaw + Hermes を 1 クリック提供しており直接競合",
+      "TEE インフラ（Phala/Intel TDX）が前提で個人開発の参入障壁が極端に高い",
+      "AI エージェント = 個人の Gmail/GitHub の鍵を預ける性質上、海外ベンチャーへの信頼ハードルが日本では高い",
+      "プロダクト価値の中核が『フレームワーク横断』であり、エンドユーザーの大半は 1 フレームワークしか使わない可能性",
+      "本家 OpenClaw 自体が hosted 版を出せばクライアントは即流出するリスク"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "OpenClaw の Docker セットアップ解説記事が Zenn/Qiita に複数あり、設定で挫折する層は確かに国内に存在。ただし AI エージェント利用中の国内法人は 3.3%、関心ありを含めても 6 割で需要は『顕在化途中』レベル。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "GMO ペパボ『ロリポップ！AIエージェントクラウド』が 2026/4 から OpenClaw+Hermes を月 1,200 円・日本語 UI・1 クリックで提供開始済み。Dify、JAPAN AI AGENT、Microsoft Foundry なども近接。完全に飽和に近い。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "電気通信事業法上のクラウドサービスとして届出が必要となる可能性が高い（チャット機能・メッセージ仲介あり）。個情法上は API キー・OAuth トークン保管で安全管理措置が必須。海外運営のままだと国内顧客に対し越境移転の説明義務。検索で根拠未確認だが論点として無視できない。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "Web UI とエージェントのプロンプトをローカライズすれば本体は API/構造化中心で動作。ただしコネクタ群（Slack/Gmail/Notion）の国内代替（Chatwork、サイボウズ、Backlog 等）対応が未整備で、ローカルワークフロー価値を出すには相応の改修必要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本商習慣では API キーや業務メールへの自動アクセス権を海外 SaaS（しかも分散インフラ Phala）に預けるハードルが高い。中小・自治体は『国内事業者・国内データセンター』要件で選別する傾向が強く、Clawdi 本体の海外運営は不利。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ロリポップ！AIエージェントクラウド (GMOペパボ)",
+        "url": "https://lolipop.jp/ai/agent-cloud/",
+        "note": "2026/4/22 OpenClaw、4/28 Hermes Agent 国内初対応。月 1,200 円税込、ブラウザのみで動作、ユーザー毎に独立サーバー。Clawdi のコアバリュー（設定不要・複数フレームワーク）を国内価格・日本語で先取り済み。"
+      },
+      {
+        "name": "Dify (LangGenius / 日本語UI)",
+        "url": "https://dify.ai/jp",
+        "note": "ノーコード生成 AI アプリ/エージェント開発基盤。サイバーエージェント 1,800 人・東京都 37 自治体導入の実績あり。Clawdi より上位の汎用エージェント基盤として既に日本で浸透。"
+      },
+      {
+        "name": "JAPAN AI AGENT",
+        "url": "https://japan-ai.co.jp/agent/",
+        "note": "国産・日本企業の業務環境/法制度/商習慣に最適化を訴求する法人向け AI エージェント。Clawdi の海外感を嫌う層を吸収する受け皿。"
+      },
+      {
+        "name": "Amazon Bedrock AgentCore / Microsoft Foundry",
+        "url": "https://aws.amazon.com/jp/bedrock/agentcore/",
+        "note": "国内 AWS/Azure リージョン+企業契約で導入可能なエンタープライズ AI エージェント基盤。SI 経由で大企業を押さえる。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "電気通信事業法",
+        "impact": "チャット UI・エージェント間メッセージ仲介・cron での通知配信を提供する場合、第 3 号事業として『届出電気通信事業者』登録が必要となる可能性が高い。海外法人でも国内ユーザー向けサービスは国内代表者選任義務あり（2023 改正以降）。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "Gmail/Slack 等の OAuth トークンや会話履歴は要配慮個人情報に近い扱い。第三国（米国・分散ノード）への越境移転に該当するため、本人同意取得と移転先の体制説明が必要。Phala のような分散 TEE インフラは説明資料の整備が難しい。"
+      },
+      {
+        "law": "資金決済法（前払式支払手段）",
+        "impact": "Clawdi の credit/usage モデルが前払式チャージとして運用される場合、未使用残高 1,000 万円超で第三者型前払式支払手段の届出が必要になる論点あり。検索で根拠未確認。"
+      }
+    ],
+    "opportunity": "国内独自開発として狙えるのは『ロリポップ非対応のセグメント』に限定される。具体的には (1) 日本国内 IaaS（さくらクラウド/IIJ GIO/AWS 東京）に閉じた SOC2/ISMS 準拠の AI エージェントホスティング、(2) Chatwork/サイボウズ/freee/マネーフォワード/Backlog など国内 SaaS への深いコネクタを束ねた『国内業務特化』アダプタ層、(3) 弁護士・税理士・社労士など士業向けの監査ログ完備かつ秘匿計算な業務エージェント実行基盤。Clawdi の真似ではなく『国内コネクタ + 国内データ保管』の縦穴を掘る方が現実的。",
+    "rationale": "Clawdi 自体は良いプロダクトだが、日本市場には既に GMO ペパボが OpenClaw+Hermes を月 1,200 円・日本語で先行投入しており、市場機会はほぼ閉じている。需要シグナル（Docker 挫折記事の多さ、AI エージェント関心 49%）は確かに存在するが、それを刈り取るのは既に国内大手レンタルサーバ事業者・Dify・JAPAN AI といった日本語 UI・国内決済対応プレイヤーである。Clawdi のコア技術差別化（Intel TDX 上の TEE 隔離）は個人開発で再現不可能で、なおかつ国内顧客の多くは『国内事業者・国内 DC・日本語サポート』を選好するため海外 Clawdi の指名買いも限定的。日本市場では skip 判定が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "AI サブスクは国内個人で月 2 万円程度まで許容される土壌があり、$29/月 (約 4,500 円) は無理筋ではない。ただしロリポップが税込 1,200 円という強烈な価格基準を作ったため、個人開発者が新規参入する際は値下げ圧力が強く ARPU は伸びにくい。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "中小機構調査で中小企業 AI 導入率 20.4%、矢野経済で AI エージェント利用中 3.3% + 関心あり 49.3%。母集団は中小企業 357 万社のうち AI 関心層 ≒ 100 万社、AI エージェント前向き ≒ 20 万社規模。市場は『将来は大きい』が現時点では限定的。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発者がリーチするには Qiita/Zenn/X の発信が王道だが、AI エージェントホスティングという領域は『国内 GMO ペパボ』『海外 Clawdi』『大手クラウド』のブランド勝負になりやすく、無名個人がオーガニックに獲得するのは難しい。SI/コミュニティ経由も必要。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "ロリポップが 2026/4 に対応済、Clawdi 本家も日本語化すれば即進出可能。OpenClaw 自身がマネージド版を出す動きも噂され、12 ヶ月以内に市場が固まる公算が高い。後発の個人開発者には窓がほぼ無い。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "TEE / Intel TDX / マルチテナント分離 / OAuth コネクタ群 / 24/7 サポートが本質的に必要。AI エージェントは利用者の業務を任せるため SLA・障害対応要求が高く、個人 1 人運用は事実上不可能。"
+      }
+    },
+    "rationale": "事業成立性の観点では極めて厳しい。マネタイズだけは『AI サブスク文化が育ちつつある』ため一定可能だが、(1) ロリポップが月 1,200 円という底値を引いた直後、(2) GMO・サイバーエージェント・JAPAN AI など資本のあるプレイヤーが国内市場をすでに獲得し始めており、(3) 製品のコアである TEE 隔離・複数フレームワーク統合・OAuth コネクタ整備が個人開発の射程外、(4) AI エージェントは『鍵を預ける』性質のためサポート・SLA 期待値が SaaS の中でも特に高い、という 4 要素が重なる。日本で『Clawdi クローン』を個人 1 人で立ち上げて成立させるのは非現実的で、業界特化（士業・医療・自治体）に振った別物に作り替えるしか活路がない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 5,000 credits/月、コネクタ 3 つまで、cron 不可",
+        "Personal: ¥1,500/月、コネクタ無制限、cron 10 個、メモリ無制限",
+        "Pro: ¥4,800/月、複数ワークスペース、優先実行、SLA なし",
+        "Team: ¥12,000/月/5人、監査ログ・SSO・国内 DC オプション",
+        "Enterprise: 個別見積、ISMS/SOC2/専用 VPC"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "OpenClaw/Hermes/Claude Code を業務で日常使いする国内の個人事業主・副業エンジニア・小規模スタートアップのオペレーション担当者、および国内 SaaS（freee/マネーフォワード/Chatwork/Backlog）との連携を求める士業・コンサルなど。ロリポップが取り切れない『国内 SaaS 深連携 + 監査要件』層がコアターゲット。",
+      "target_count": 30000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 450000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn で『OpenClaw を国内 SaaS と連携する』連載（freee/マネーフォワード/Chatwork 等の OAuth 実装記事）",
+      "X (旧 Twitter) で個人開発者・AI エンジニアコミュニティに freemium 無料枠を訴求",
+      "士業・コンサル向けの『監査ログ完備 AI エージェント』としてニッチ専門メディア (税理士新聞・士業 Watch) で訴求",
+      "OpenClaw / Hermes の日本コミュニティ（Discord・もくもく会）でスポンサー兼デモ枠",
+      "国内 IaaS（さくら/IIJ GIO）との共同マーケで『国内データ保管』を看板に SI 経由販売"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "ロリポップ AIエージェントクラウド (月 1,200 円) が既に同等機能を国内価格で提供しており、後発個人開発者は価格・ブランドどちらでも勝てない",
+      "TEE/Intel TDX のような秘匿計算インフラが本質要件で、個人で再現すれば即セキュリティ事故になる。OpenClaw 自身が 2026/3 に 9 CVE/4 日を出した実績がある業界",
+      "OpenClaw 公式や Anthropic 本家がマネージド版を投入すれば顧客は瞬時に流出。time window は実質 6〜12 ヶ月",
+      "Gmail/GitHub の OAuth トークンを預かるため個情法・電気通信事業法・越境移転の説明義務が複合的に発生し、個人事業主では到底対応できない",
+      "AI エージェントは『失敗時の損失』が SaaS の中でも特に大きく、24/7 サポートと SLA が事実上必須。個人運用では SLA 違反で訴訟リスク"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

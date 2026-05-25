@@ -1,0 +1,228 @@
+{
+  "name": "Morsel",
+  "description": "Strava for cooking",
+  "ph_url": "https://www.producthunt.com/products/morsel-3/launches/morsel-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/5E2UAB7NUZ7YGC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-09T07:01:00Z",
+  "upvotes": 254,
+  "comments": 40,
+  "topics": [
+    "Cooking",
+    "Social Networking",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey folks, thanks so much for checking this out. Jack and I made Morsel over this past holiday season while we were with our families cooking meals. I was using Letterboxd to find a movie for my family to watch, and I thought that we should have a similar app to see what recipes my friends were making. It's just been some close friends using it for a while as we worked on our main business, but we decided to post it out to the world today. \n\nWe'd love for you to try it out and we'd welcome any feedback for what you'd like to see in an app like this. Our hope is that this app might inspire all of us to cook more!",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Interesting, I love to cook and I'm always sharing recipes with friends and family. <br><br>I see some people sharing their recipes on Instagram, but good to see an app that just focuses on this.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The Letterboxd comparison immediately makes this make sense. Does the feed show the recipe itself or just that a friend made something? Curious whether it's more of a \"what are people cooking\" discovery layer or closer to a shared cookbook. Nice job !</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Morsel is the social networking app for cooking. Follow your friends, see what they are making, get inspired!",
+  "featured_at": "2026-04-09T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/4f307710-e1c3-43bb-b313-050e8fbf2f4b.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d7056558-91ca-4bc9-ad49-253507ed41e5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ba65d17a-d265-41a7-b90a-a91c6e133522.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1fa4b5fd-e36e-40ae-88af-0cae195559e7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cc0187df-77f0-4a7a-98d9-d1ba6218bd8e.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:39",
+  "landing_meta": "‎Morsel: cook, share, eat App - App Store — Download Morsel: cook, share, eat by Saldor, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Morsel: cook, share, eat…",
+  "landing_text": "‎Morsel: cook, share, eat App - App Store Morsel: cook, share, eat Food & Drink Only for iPhone Free · Designed for iPhone. Not verified for macOS. Share 7 Ratings 5.0 Age Rating 13+ Years Category Food & Drink Developer Saldor, Inc. Size 23.5 MB iPhone See what your friends are making. Record and share what you're making. more Ratings & Reviews 5.0 out of 5 7 Ratings Surprisingly fun! Jan 13 andresg535 Can see it getting big but enjoying the feel of being early Surprisingly fun! Jan 13 andresg535 Can see it getting big but enjoying the feel of being early Best app ever Jan 24 App Store guy 1 Morsel is my new favorite way to connect with my friends in 2026! Best app ever Jan 24 App Store guy 1 Morsel is my new favorite way to connect with my friends in 2026! Fun to use Jan 20 nota bilis Good for posting my food Fun to use Jan 20 nota bilis Good for posting my food such a great idea! Feb 6 Imma Critic love the leaderboard such a great idea! Feb 6 Imma Critic love the leaderboard What’s New Version History cook mode - walk through the steps of a recipe with a timer built in 1.2.8 May 4 UI updates 1.2.7 Apr 21 bug fixes 1.2.6 Apr 13 Cleaner UI 1.2.5 Apr 8 New recipes page 1.2.4 Apr 3 You can now add collaborators on meals and share posts outside of the app. 1.2.3 Mar 12 Added a share extension, so you can open Morsel when viewing a recipe online or in another app. 1.2.2 Feb 5 Bug fixes 1.2.1 Jan 22 You can now get notified when folks like or comment on your posts. Share your profile more easily with friends. 1.2.0 Jan 20 Bug fixes 1.1.10 Jan 17 Bug fixes 1.1.9 Jan 9 Bug fixes 1.1.8 Jan 7 Bug fixes 1.1.7 Jan 7 Bug fixes 1.1.6 Jan 7 Bug fixes 1.1.5 Jan 6 Bug fixes 1.1.4 Jan 3 Bug fixes 1.1.3 12/28/2025 Now upload recipes from photos. Tag your friends in dishes you made or shared together. 1.1.2 12/21/2025 You can now share and find recipes. 1.1.0 12/17/2025 1.0 12/05/2025 cook mode - walk through the steps of a recipe with a timer built in more Version 1.2.8 May 4 App Pr",
+  "pricing_signals": [
+    "subscription",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:39",
+  "description_ja": "料理版Strava。友達の作った料理が見られる、共有型の料理SNS",
+  "summary_ja": "友達同士で「今日何作った？」を写真・レシピで投稿しあう、Letterboxd風の料理ソーシャルアプリ。クックモードやリーダーボードを備え、自炊習慣化と発見を促す",
+  "tldr_ja": "料理SNSは国内ミイル/SnapDishが2900万投稿で先行、課金嗜好も薄く個人開発で月商化は困難",
+  "review_guide_ja": {
+    "what": "「Strava for cooking」を標榜する料理SNSアプリ。友達をフォローし、作った料理の写真・レシピを投稿してフィードで共有する。Letterboxdの料理版として設計されており、誰かの投稿を見て「今度作ろう」と発見・刺激を得る発見レイヤーと、自分の作った料理を蓄積する個人クックブックを兼ねる。クックモード（タイマー付き手順表示）、料理に共同投稿者を付けるコラボ機能、写真からレシピを自動抽出するOCR、シェアエクステンション、リーダーボード等を備える。iOS限定・無料（2026年5月時点）。典型ユースケースは『友達と料理を見せ合って自炊習慣を続ける』『家族でレシピを共有する』『仲間内のホームパーティーで作った料理を記録する』。",
+    "for_who": "自炊を趣味化しているミレニアル・Z世代、料理好きの友達コミュニティ、家族間でレシピを共有したい層、LetterboxdやStravaのような『記録×友達フィード』の体験を好むSNSヘビーユーザー。Instagramでは写真が綺麗すぎて続かない人、BeReal的な気軽さで料理だけを共有したい層も含む。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "写真投稿+フォロー+フィード+OCRレシピ抽出という構成は個人開発レベルで実装可能。React Native+Firebase+Vision系APIで2〜3ヶ月で最小構成は作れる。"
+    },
+    "signals": [
+      "App Storeレビュー5.0/7件・PH 254 upvotesと初動は良好",
+      "Letterboxd類比が直感的でPHコメントで強く共感されている",
+      "12月リリース後5ヶ月で22リビジョン、開発速度が早い",
+      "BeReal/Letterboxdなど『友達限定+記録型SNS』のZ世代トレンドに乗る"
+    ],
+    "concerns": [
+      "iOS限定でAndroid未対応のため日本のティーン層には届きにくい",
+      "Saldor, Inc.の本業（メインビジネス）の副プロダクト位置づけで継続コミットが不透明",
+      "ネットワーク効果依存で、友達がいないと価値ゼロのコールドスタート問題",
+      "国内ミイル(2900万投稿)・SnapDish(月間400万MAU)が同コンセプトで先行",
+      "Instagramストーリーズ・BeReal等の汎用SNSで代替可能"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "自炊率は20〜30代独身で94%、社会人一人暮らしの31%が毎日自炊と需要は厚い。Instagram #おうちごはん #自炊もメガタグ。ただし『友達限定で料理を共有』のニーズはInstagram/BeRealで満たされ、料理単独SNSへの強い渇望シグナルは未確認。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "ミイル（料理写真投稿2900万枚、2024年西原商会傘下入り、2025年7月プレミアム無料化）、SnapDish（月間MAU400万級・累計2900万投稿）、クックパッド、Nadia等が国内料理SNS/レシピSNSとして強固に定着。新規参入は同質競合の渦中。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "ユーザー投稿型のため景表法・著作権法（他者レシピ転載）・特定電子メール法（通知）の一般的注意は要るが、SNSとして特殊な業法規制はなし。個情法は通常対応で足りる。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UIテキスト・OCRの日本語対応・絵文字/フォント最適化は必要。レシピOCRは漢字・縦書きレシピ本対応で工数増。料理カテゴリ（和食・お弁当）も独自分類が望まれる。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "日本では『手作り料理を友達に見せる』文化は#おうちごはんでInstagramに移行済み。料理SNS単独で囲い込むのは商習慣的にやや弱いが、家族内・お弁当文化との親和性はある。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ミイル(miil)",
+        "url": "https://miil.me/",
+        "note": "国内最大級の料理写真SNS、累計2900万投稿。2024年西原商会の完全子会社化、2025年7月プレミアム機能完全無料化と運営は維持されているが投資縮小傾向。"
+      },
+      {
+        "name": "SnapDish",
+        "url": "https://snapdish.jp/",
+        "note": "ヴァズ→スナップディッシュ株式会社運営のAI料理カメラ＆SNS、月間MAU400万級・献立2900万皿、食品メーカーとのファンマーケティング収益で脱広告モデル。"
+      },
+      {
+        "name": "クックパッド",
+        "url": "https://cookpad.com/",
+        "note": "レシピ投稿の巨人だが、SNS要素は弱い。プレミアム400円/月、25年12月期売上53.3億円で前年比9.2%減と縮小傾向。"
+      },
+      {
+        "name": "Nadia",
+        "url": "https://oceans-nadia.com/",
+        "note": "プロ・有名料理家中心のレシピ投稿サイト、月間2000万ユーザー、プレミアム450円/月。友達型ではなくクリエイター発信型。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法",
+        "impact": "他者レシピ本・SNS投稿の無断転載リスク。OCRで料理本を撮影→アプリ内レシピ化する機能は著作権侵害の温床になる可能性があり、UGCのフィルタリングとDMCA的窓口の整備が必要。"
+      },
+      {
+        "law": "景品表示法",
+        "impact": "リーダーボードや投稿ランキングで企業タイアップを実施する際、PR表記・ステマ規制(2023年10月施行)に対応必須。インフルエンサー料理投稿の表示義務に注意。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "位置情報・友達リスト・食事画像（嗜好情報）を扱うため通常のプライバシーポリシー・同意取得対応が必要。特殊リスクは低。"
+      }
+    ],
+    "opportunity": "国内では『家族・親しい友人の範囲で気軽に料理を共有』するBeReal的体験はまだ専用アプリ化されていない。Instagramは公開性が強すぎ、ミイル/SnapDishは不特定多数向けマス型SNS。Z世代の界隈系SNS需要、自炊ブーム、お弁当・キャラ弁文化との結合点はある。ニッチ角度としては『カップル/夫婦専用の料理日記』『キャンプ料理コミュニティ』『部活/サークル内お弁当共有』のような閉域コミュニティ特化なら隙間がある。",
+    "rationale": "国内料理SNSはミイル・SnapDish・クックパッドが既存のポジションを長年占拠し、SnapDishは脱広告モデルで黒字運営、ミイルは商社傘下化で安定運営、クックパッドは縮小中。料理単独SNSとしての需要レイヤー自体は飽和に近い。一方で『友達限定×記録×発見』の三位一体型UXはBeReal的世界観で2024年以降の若年層に共鳴しうるが、料理という頻度の高い行為をベースに毎日アプリを開かせる習慣化は難しい。日本市場特化で勝つには、既存マス型SNSと差別化された閉域コミュニティ向け+独自の体験（お弁当バトル・夫婦の食卓記録など）が必要で、Morselの汎用設計のままでは『日本に来ても勝てない海外UX』のリスクが高い。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "国内レシピアプリの有料会員相場は200〜450円/月と極めて低く、しかも上位プレイヤー(クックパッド)の有料会員数は減少傾向。料理SNSは収益化が一段難しく、SnapDishですら脱広告のファンマーケで生計を立てている。個人開発で安定ARPUを得るのは厳しい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "自炊人口は20代独身で94%が自炊する厚い母集団あり。だが料理SNSアプリの有料化可能セグメントに絞ると数万〜数十万人規模に過ぎず、TAM縮退。Instagram代替の難しさで実効的市場はさらに狭い。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "ソーシャルアプリは口コミ拡散依存でPLG適性はあるが、ネットワーク効果のコールドスタートをX/Instagram経由で突破できる個人開発例は稀。料理系インフルエンサーへの巻き込みコストが高く、個人開発単独でのバイラル設計は困難。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "BeRealの日本ユーザー数も伸びている界隈系SNSトレンドの中で、料理特化版が来る余地はあるが、本家Morselが日本進出するなら12〜18ヶ月以内、SnapDish/ミイルが類似機能を実装する余地もあり時間窓は狭い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "SNS運営は通報対応・コンテンツモデレーション（食品衛生関連の誤情報、未成年保護、嫌がらせ）・24/7のサーバー安定運用が必須で個人運用の負担が極大。料理画像の不適切判定・スパム対策も人手介入が必要。"
+      }
+    },
+    "rationale": "事業性の3軸（収益化・GTM・個人運用）がいずれも低く、構造的に個人開発で月商化させるのが極めて困難な領域。料理SNSは『SnapDish型の食品メーカータイアップで脱広告化』するか『クックパッド型の有料会員モデル』に進むしか道がなく、前者は大手食品メーカーとのBizDev営業力(個人開発不可能)、後者は数百万MAU以上の規模(個人開発不可能)が必要。Z世代向けの閉域コミュニティSNSとしては魅力的だが、収益化に至るスケール獲得のハードルが個人開発の射程外。本家Morselも『メイン事業の副プロダクト』で開発しており本人らも非ビジネス位置づけなのが示唆的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 100,
+      "plans": [
+        "Free: 投稿無制限、友達フィード、クックモード",
+        "Pro: ¥300/月 — 統計分析(自炊カレンダー)、AIレシピ提案、広告非表示",
+        "Family: ¥600/月 — 最大6人の家族グループ、月次フォトブック自動生成"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "自炊習慣を持つ20〜30代の都市部Z世代/ミレニアル、特に料理を友達と共有したいがInstagramでは公開しすぎになる層、夫婦・カップル・家族で食事記録を共有したい層。検索で根拠未確認のため控えめに見積もる。",
+      "target_count": 200000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 100000
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)で自炊垢インフルエンサーへの招待制クローズドβ",
+      "Threads/BeReal的な友達限定SNS文脈でnote発信",
+      "夫婦・カップル特化角度でゼクシィ系メディアタイアップ",
+      "App Store Today/Food特集枠を狙ったローカライズUI",
+      "TikTok #自炊記録 タグ連動キャンペーン",
+      "Qiita/Zennで個人開発の技術記事として開発過程発信"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "コールドスタート問題：SNSはユーザー密度がないと無価値、招待制で初期コミュニティを作れるか不明で個人開発ではバイラル設計が難しい",
+      "既存プレイヤー(ミイル/SnapDish)が同機能をローンチすれば即時敗北、特にSnapDishは月間400万MAU基盤で友達フィード機能の追加は容易",
+      "モデレーション負荷：未成年保護・スパム・不適切画像対応で個人運用が破綻、SLA期待値も上がる",
+      "本家Morselが日本進出した場合、開発体力差で短期で押し戻される可能性、時間窓は12ヶ月程度しかない",
+      "収益化困難：料理SNSは課金嗜好が薄く、広告も食品メーカータイアップに限られ個人開発のBizDev力では到達不可"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

@@ -1,0 +1,238 @@
+{
+  "name": "Fathom 3.0",
+  "description": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
+  "ph_url": "https://www.producthunt.com/products/fathom/launches/fathom-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/CS4BN7LVLISWRQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-15T07:01:00Z",
+  "upvotes": 801,
+  "comments": 234,
+  "topics": [
+    "Productivity",
+    "Meetings",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p><br>We've been here before. In 2021, you made Fathom #1 Product of the Day. In 2023, Fathom 2.0. Today we're back with something that feels genuinely different and we think you'll feel it too.</p><p><br>Two years ago, a great AI notetaker meant one solid summary when the call ended. That was the bar. We cleared it, and kept building.</p><p><br><strong>Here's what's new:</strong></p><p><br><strong>🎙️ Bot-free capture - your call, your way</strong> The #1 feedback we've heard for years: \"the bot joining my call is awkward.\" We heard you.</p><ul><li><p>Choose meeting by meeting: bot-free transcript-only or audio capture (my personal favorite), or full video with the bot</p></li><li><p>All three deliver the same high-quality summaries, action items, and full speaker attribution</p></li><li><p>Mute-detection built in - we respect your privacy</p></li><li><p>Works in Slack Huddles too, so your quick syncs are as well-documented as your scheduled calls</p></li></ul><p><br><strong>🤖 Claude + ChatGPT integrations</strong> Via our public API and MCP integrations, your meeting intelligence now lives inside the tools you already use.</p><ul><li><p>Connect Fathom to Claude or ChatGPT</p></li><li><p>Turn any meeting into a draft email, QBR, brief, or plan - no copy-pasting</p></li><li><p>Available on all plans, Free through Business</p></li></ul><p><br><strong>🔍 Ask Fathom - now across your entire meeting history</strong> Ask Fathom used to answer questions about one meeting at a time. Now it answers questions about all of them.</p><ul><li><p>Ask \"What are customers saying about our pricing?\" or \"What action items came out of my meetings last week?\"</p></li><li><p>Get AI-generated answers with citations linked to the exact transcript moment</p></li><li><p>Your meeting history is now a searchable knowledge base</p></li></ul><p><br><strong>🖥️ Completely redesigned desktop experience</strong></p><ul><li><p>Live summaries appear <em>during</em> your meetings, not just after</p></li><li><p>Built-in scratchpad folds your personal notes directly into your post-meeting summary</p></li><li><p>Less tab-switching. More focus.</p></li></ul><p><br><strong>📱 iOS app - coming very soon</strong> Not every important conversation happens on Zoom.</p><ul><li><p>Capture in-person conversations on the go</p></li><li><p>Review meetings and access your full history anywhere</p></li><li><p>Pre-download on the App Store shortly</p></li></ul><p><strong>Why this matters:</strong></p><p><br>\"The real value of meetings isn't the notes, it's the knowledge inside them.\" That's been our north star since day one.</p><p><br>We've always had two customers: the person in the meeting who wants to be fully present, and the leader who needs visibility across their team. This update serves both in genuinely new ways.</p><p><br>And all of this is available for free - because it's your call data, and you should make the most of it.</p><p>Drop a question below. We'll be in the comments all day. 🚀</p><p><br>- Rich &amp; the Fathom team</p>",
+      "votesCount": 54,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Really thrilled to support the launch of <a href=\"https://fathom.partnerlinks.io/lmpsvnfcwcug\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Fathom 3.0</strong></a>. </p><p></p><p>As I'm sure many of your know, I'm a big fan of <a href=\"https://www.producthunt.com/products/granola\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"granola\" target=\"_blank\" rel=\"noopener\">@Granola</a> but continue to rely on Fathom for capturing replays of <a href=\"https://book.chrismessina.me\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">my calls</a> — especially as most rely on screensharing and other visual content. </p><p></p><p>I'm especially excited to see the addition of Fathom MCP, as it's something that I'll probably work into my various workflows across my different products. I'll use that to generate summaries and notes for all the founders who I help launch on Product Hunt!</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Fathom, you beautiful beautiful people.<br></p><p>I started using Fathom two years ago and it completely transformed how I coach.<br></p><p>I'm a Career Coach with ADHD. Taking notes on client calls was always a struggle. Things got dropped. It pulled me out of the conversation. Fathom fixed that. I could stay fully present while my clients got notes, action items, and full call recordings they could actually revisit instead of relying on memory.<br></p><p>I also use AI to help clients quantify their career achievements. The transcriptions are everything for that. I can stay in the moment, stay engaged, and still capture every detail I need later.</p><p>But the gap was always timing.<br></p><p>I couldn't access any of that until after the call ended. So I ended up running Otter alongside Fathom just to get real-time transcription I could feed into AI mid-call. Two tools doing one job. Not ideal, but it was the only way to surface insights while the conversation was still happening.<br></p><p>And phone calls? In-person meetings? Those weren't part of the workflow at all.</p><p>Now all of that is solved.<br></p><p>Live transcription during the call. Phone and in-person conversations captured. Everything I was stitching together with workarounds, built right in.<br></p><p>Congrats team. This is exactly what I needed! <br><br>Question: It looks like the iPhone App is a separate paid app. Is there a way to access it as an annual Fathom Subscriber already?</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "The Fathom you know, leveled up. The best AI notetaking, now with bot-free capture, account-wide AI search & insights, Claude + ChatGPT integrations, live summaries & in-meeting scratchpads, and a redesigned desktop experience. And we’re not stopping there. It’s the most flexible meeting AI ever built.",
+  "featured_at": "2026-04-15T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/fac29de4-dc17-44af-8996-a93a8180305d.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7c3b8916-9613-427f-b8a2-571c926844c6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b889d06e-8e66-4132-adf7-dc575ff2f2b2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5c923a4c-6383-432f-9af8-a33283e20551.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/898c7fbf-8843-4842-af74-89d209802516.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f05cf000-8950-4d4b-891a-6de15fefad18.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/54964c93-d819-4672-ad80-6d085dbb88c1.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/cbd168e7-56fd-47bd-871e-c33871254b56.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:33:44",
+  "landing_meta": "Fathom AI Notetaker - Never Take Notes Again",
+  "landing_text": "Fathom AI Notetaker - Never Take Notes Again IT'S A WHOLE NEW ORBIT. ANNOUCING BOT-FREE CAPTURE, A NEW DESKTOP APP, CHATGPT & CLAUDE INTEGRATIONS & MORE SEE WHAT'S NEW Book a Demo Log In Sign Up SIGN UP FREE AI notetaking that is out of this world Fathom summarizes your meetings so you can focus on the conversation. Now available bot-free. Get started - free forever SOC 2 Type II | GDPR | HIPAA Compliant | SSO / SCIM Used at 300K+ companies Capture notes your way – bot or no bot – so you can stay focused on the meeting AI summaries instantly available after your call Your meeting data, now inside ChatGPT, Claude, and more Automatically monitor key topics so you never miss critical moments Move work forward faster Move work forward faster Move work forward faster Whether you’re a team of 1 or 1,000, Fathom’s got your back Fathom for teams Fathom for individuals Shared visibility. Smarter execution. Fathom gives teams a shared source of truth across every customer conversation, internal sync, and strategy call – so decisions are visible, follow-through is consistent, and nothing gets lost between meetings. Search conversations, spot patterns, and keep work moving without the manual work. See our pricing Automatic notes, summaries, and updates reduce follow-ups and admin across the team. Turn conversations into clear next steps that move deals and projects forward. Keep decisions, commitments, and customer signals visible across meetings and teams. Spot patterns, risks, and opportunities across conversations before they become problems. Fully present. Always prepared. Fathom captures every detail of your meetings so you can stay present, ask better questions, and never worry about missing something important. Get clear summaries, searchable transcripts, and instant follow-ups without scrambling to take notes or recap the call. See our pricing Automatic notes, summaries, and updates reduce follow-ups and admin across the team. Turn conversations into clear next steps that move deals and projects forward. Keep decisions, commitments, and customer signals visible across meetings and teams. Spot patterns, risks, and opportunities across conversations before they become problems. Fully present. Always prepared. Fathom captures every detail of your meetings so you can stay present, ask better questions, and never worry about missing something important. Get clear summaries, searchable transcripts, and instant follow-ups without scrambling to take notes or recap the call. See our pricing Automatic notes and summaries eliminate manual follow-ups and admin saving 38-minutes per meeting on average. Stay engaged, ask ",
+  "pricing_signals": [
+    "free forever",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-26T04:33:47",
+  "description_ja": "AI議事録Fathom 3.0：ボット不要のキャプチャ、ChatGPT・Claude連携で会議知識を活用",
+  "summary_ja": "Zoom/Meet/Teams会議をボット参加なしで録音・文字起こし・要約するAI議事録ツール。MCPでClaude/ChatGPTから過去会議全体を検索・参照可能。デスクトップ常駐型でライブ要約・スクラッチパッドも提供。",
+  "tldr_ja": "AI議事録は国内競合飽和（Notta/Rimo/tl;dv等）でUI英語のFathomは個人開発参入余地なし、no_go判定。",
+  "review_guide_ja": {
+    "what": "ZoomやGoogle Meet、Teams、Slack Huddleなどの会議をAIで自動記録・文字起こし・要約するnotetakerサービスのv3。最大の差別化はbot-free capture（会議参加者一覧にbotが出ない方式で、ローカルマイク/スピーカー音声を直接拾う）と、Claude/ChatGPTのMCP連携によって過去会議全履歴を横断検索できるAsk Fathom機能。さらにライブ要約（会議中に要約が更新）、in-meeting scratchpad（個人メモが要約に統合）、再設計されたデスクトップアプリ、近日提供のiOSアプリで対面会議もキャプチャ可能になる。SOC2 Type II/GDPR/HIPAA準拠。Free Foreverプランで録音・文字起こし無制限、Premium $19/月、Team $19/人月、上位プランでカスタムサマリーやAPI拡張機能。",
+    "for_who": "営業・カスタマーサクセス・コーチ・コンサルタントなど対顧客の打ち合わせが多い職種、SaaSスタートアップのPM/エンジニア、リモートワーク中心のチーム、ADHDなど会議中のメモが負担となる個人。MCP統合に魅力を感じるClaude/ChatGPTヘビーユーザー、海外SaaSに抵抗のない英語UI許容層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "音声認識・要約・MCPサーバー実装は技術的に再現可能だが、SOC2/HIPAA取得、Zoom/Meet/Teams各社との安定統合、bot-free capture実装、スケーラブルなインフラ運用が個人開発者には極めて重い。"
+    },
+    "signals": [
+      "2021年・2023年に続きPH3度目のメジャーリリースで800+upvotes、234コメントの強い反応",
+      "Bot-free captureはユーザーから長年要望されていた#1課題への直接的応答",
+      "Claude/ChatGPTのMCP統合という生成AI最新トレンドへの即応",
+      "Free Foreverを維持しつつPremium $15→$19値上げ済み（収益化進行中）",
+      "300K+企業導入実績、SOC2/GDPR/HIPAA準拠でエンタープライズ対応完了"
+    ],
+    "concerns": [
+      "AI議事録は日本でも国内外プレイヤーが乱立する超レッドオーシャン",
+      "Fathom自体は日本語UI未対応で日本市場での直接競争力は限定的",
+      "個人開発者がスケール/SOC2/通話プラットフォーム連携で同等品質を作るのは事実上不可能",
+      "個人情報保護法・秘密保持契約上、AI議事録の音声送信は法的論点が多くエンタープライズは慎重",
+      "Zoom/Google/Microsoftが自社ネイティブ機能で取り込み中（Copilot/Gemini/AI Companion）"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 9,
+        "reason": "国内AI議事録カテゴリは需要顕在。Notta累計1000万ユーザー超・4000社導入、RimoVoice 25万ユーザー2000社、tl;dv/Otter/Fireflies/スマート書記/ACES Meet等も活発。市場規模は世界で278億ドル（2034年予測272億ドル、CAGR25%）と巨大。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "国内では純国産Rimo Voice、Notta、スマート書記、ACES Meet、AI議事録取れる君、tl;dv日本語版、海外ではFathom/Otter/Fireflies/Granola等が乱立する超飽和市場。Zoom AI Companion/Google Gemini/MS Copilotもネイティブ実装。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "個人情報保護法上、会議録音と第三者提供（AIベンダーへの音声送信）の論点あり。NDA上の秘密情報を生成AIに取り込むのは契約違反となる可能性も。録音時の事前同意が必須で、医療・金融・人事系では運用制限。法規制が即時禁止する性質ではないが配慮必須。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "日本語音声認識（Notta 98.86%精度）は技術的に達成可能。文字起こし＋要約という構造化中心のためコア機能ローカライズは比較的容易。ただし日本語UIや業界別議事録テンプレート（取締役会議事録等）、業界用語辞書のローカル化には継続投資が必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業は議事録文化が根強く需要は強いが、押印・回覧承認・社外提出用の体裁・敬語表現など独自要件あり。RimoやスマートShokiが議事録テンプレ機能で勝負しているのはこのため。海外プロダクトの直輸入では商習慣ギャップが残る。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Notta",
+        "url": "https://www.notta.ai/",
+        "note": "累計1000万ユーザー超、4000社導入。98.86%日本語認識精度。Premium ¥1,980/月、Business ¥2,508/月。9.9億円調達済み。"
+      },
+      {
+        "name": "Rimo Voice",
+        "url": "https://rimo.app/about/voice",
+        "note": "純国産。25万ユーザー2000社導入。日本語精度と議事録テンプレに強み。会議終了5分で議事録生成。2026年5月にiOS/Androidアプリリリース。"
+      },
+      {
+        "name": "スマート書記 (Otolio)",
+        "url": "https://www.smartshoki.com/",
+        "note": "国内エンタープライズ向け議事録SaaSの定番。会議体別テンプレートと校閲機能で官公庁/大企業導入が多い。"
+      },
+      {
+        "name": "ACES Meet",
+        "url": "https://www.acesmeet.com/",
+        "note": "商談特化のAI議事録。営業解析・ネクストアクション抽出を売り。ChatGPT活用し主要会議ツール連携。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "会議音声に含まれる個人情報をAIベンダーへ送信する行為は第三者提供の論点になり得る。録音時の事前同意取得、AI学習への利用可否の透明性確保、データ保管国の明示が必須。Fathomは米国データ保管、日本での利用時はDPA締結が前提。"
+      },
+      {
+        "law": "秘密保持契約（NDA）/不正競争防止法",
+        "impact": "取引先との会議で生成AIに秘密情報を取り込むことが契約違反と評価される可能性。NDAに生成AI利用条項が無いケースが多く、運用上は事前承諾またはツール利用禁止リスクが残る。M&A・人事評価・未公開財務情報を含む会議は禁止運用が一般的。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "Web会議の音声を取得・解析する事業者は電気通信事業者の届出要否を検討する必要あり（外部送信規律2023年改正で利用者情報の外部送信の通知・公表義務化）。海外SaaSは届出未対応のものも多く、企業導入時の法務確認が必須。"
+      }
+    ],
+    "opportunity": "日本独自の角度を出すなら（1）議事録テンプレ特化（取締役会・株主総会・組合協議など日本固有の体裁）、（2）完全オンプレ/ローカルLLMで第三者提供問題を回避する超機密領域向け、（3）特定職種（士業・医療・建設の現場打ち合わせ）特化、（4）AI議事録の出力を電子契約や承認ワークフローに繋ぐ統合プレイ。ただし汎用議事録はNotta/Rimoが先行し勝ち目薄。",
+    "rationale": "国内AI議事録市場は需要×9と巨大だが、競合×2の超飽和。Notta（10M ユーザー）・Rimo（25万ユーザー、純国産で日本語1位精度）・スマート書記・ACES Meet等が既に強固なポジション。さらにZoom AI Companion/Google Gemini/MS Copilotがプラットフォーム側でネイティブ実装を進めており、独立SaaSは挟まれる構造。Fathom自体は日本語UI未対応・US基盤で、現状の日本シェアは小さい。個人開発者が同領域に新規参入する余地は汎用議事録ではゼロに近く、ニッチ特化（業界別テンプレ／オンプレ／士業）でも先行勝者と機能/信頼性で勝負しづらい。総合的にskip推奨。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "日本の議事録SaaS相場は個人¥1,180〜1,980/月、法人¥2,508/月〜（Notta実例）。課金は成立する市場だがFree Forever文化（Fathom自身、ユーザーローカルAI議事録ツール等）で価格圧力が強い。新規参入で十分なARPUを確保するのは困難。"
+      },
+      "market_size": {
+        "score": 8,
+        "reason": "国内ホワイトカラー約3000万人＋会議実施企業数百万社のTAMは巨大。世界市場278億ドル（2024）→272.9億ドル（2034、CAGR25.6%）。日本でも音声認識市場の中心セグメントで成長基調。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発者がPLGでリーチできるか疑問。既存プレイヤーがSEO/比較メディア（ITreview、BOXIL、ITトレンド、ASPIC、ITmedia等）を制覇しており、新興は埋没。エンタープライズ販売は人脈・SOC2取得・SaaS営業組織が必須でソロ開発者には不向き。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "海外本家（Fathom/Otter/Fireflies/Granola）は既に日本ユーザーを獲得中。Zoom/Google/MSのネイティブAIが2024-2025年で標準実装済。時間窓はほぼ閉じており、汎用議事録での参入猶予はゼロ〜数ヶ月。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "音声処理インフラの24/7監視、会議プラットフォーム仕様変更追従、データ保管・セキュリティ問い合わせ対応、SLA期待値が高くソロ運用は厳しい。録音失敗時のCS負荷も大。一人で継続運営は現実的でない。"
+      }
+    },
+    "rationale": "事業性は3（低）。市場規模8は魅力的だが、GTM 3・タイミング2・ソロ運用3が致命的に低い。Notta/Rimoが先行し、Zoom/Google/MSがネイティブ実装で市場を上から押さえる構造で、個人開発者が新規ブランドを立てて獲得できるシェアは1%未満。ARPU確保もFree Forever文化で困難。仮にニッチ特化（士業・建設・医療の対面会議）に絞っても、SOC2/HIPAA相当の信頼確立にソロでは数年要し、その間に大手が侵食する。Fathomが行ったような『MCP統合』機能を差別化点に新規プロダクトを作る場合でも、既存議事録SaaSが追従するスピードが速く優位性は短命。AIメモ系の周辺ユーティリティ（特定業界の議事録テンプレジェネレータ、Notion/Slack議事録整形プラグイン等）に絞ればソロでも余地ありだがコアサービス化は推奨しない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 0,
+      "plans": [
+        "参入非推奨のためプラン設計は省略（参考: Notta Premium ¥1,980/月、Business ¥2,508/月、tl;dv Pro ¥2,400/月）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内SaaS営業/CS、コンサルタント、コーチ、士業、リモートワーク中心のスタートアップPM。汎用議事録は既存プレイヤーが押さえているため、参入する場合は『士業・建設現場・医療など対面会議特化』『日本固有議事録テンプレ特化』『オンプレ/ローカルLLM志向の機密領域』のいずれかにニッチ絞り込みが必須。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "参入非推奨。仮にニッチ特化で挑む場合: Qiita/Zenn技術記事連載でMCP連携系チュートリアルを発信し開発者リーチ",
+      "X（旧Twitter）個人発信で士業/建設等ターゲット業界の困りごとに直接リプライ営業",
+      "Notion/Slackマーケットプレイス経由でPLG（議事録整形プラグインなどの周辺ユーティリティとして）",
+      "ITreview/BOXIL/比較メディア掲載は新規でSEO上勝てないため後回し、まず実ユーザー20社の声を蓄積",
+      "業界団体・士業会向けセミナー登壇でドメイン信頼を獲得（建設業界DX、医療DX、自治体DX）"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "国内競合飽和：Notta(10M users)/Rimo(25万)/スマート書記/ACES Meet等が先行し、新規ブランドが認知獲得する余地が極小。マーケティング予算ゼロの個人開発では到達不能。",
+      "プラットフォーム取り込みリスク：Zoom AI Companion/Google Gemini/Microsoft CopilotがWeb会議ツールにネイティブ統合済み。サードパーティ議事録の市場が縮小傾向。",
+      "個人情報保護法/NDA論点：エンタープライズ顧客はAI議事録のデータ送信を懸念。SOC2/ISMS取得・DPA整備が事実上必須でソロ開発者には負荷が重い。",
+      "ソロ運用負荷：音声処理パイプラインの安定運用、会議プラットフォームの仕様変更追従、CS対応、SLA期待値が高い。24/7監視が必要で個人継続は実質不可能。",
+      "海外本家進出スピード：Fathom/Otter/Granola等が日本市場へのローカライズ投資を増やしており、汎用機能で勝負する個人開発の参入猶予は実質ゼロ。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

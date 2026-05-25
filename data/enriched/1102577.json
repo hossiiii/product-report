@@ -1,0 +1,227 @@
+{
+  "name": "Music Marketplace by Eleven Labs",
+  "description": "Create a track. Publish it. Earn when it is used.",
+  "ph_url": "https://www.producthunt.com/products/music-marketplace-by-eleven-labs/launches/music-marketplace-by-eleven-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/FG6HGARL7HKFLR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-12T07:01:00Z",
+  "upvotes": 281,
+  "comments": 7,
+  "topics": [
+    "Design Tools",
+    "Music",
+    "Developer Tools"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Super interesting launch 👀 ElevenLabs is now bringing its proven marketplace model (already $11M+ paid to voice creators) into music with the Music Marketplace. </p><p></p><p><strong>Problem: </strong>Music licensing is broken; sync fees, clearance delays, legal back-and-forth. Built for studios, not indie creators, marketers, or builders shipping at midnight.</p><p><br><strong>Solution: </strong>Prompt → refine → publish → earn. A full-stack, in-platform flow where creators can generate tracks, edit them, list them, and monetize instantly, no intermediaries. </p><p></p><p><strong>What’s different:</strong></p><ul><li><p>Pre-negotiated licensing deals (Merlin, Kobalt) → legal clarity baked in</p></li><li><p>No sync fees or per-use negotiations for buyers</p></li><li><p>Proven creator payout model, not an experiment</p></li></ul><p><strong>Key features:</strong></p><ul><li><p>AI music generation (Eleven Music)</p></li><li><p>In-browser editing</p></li><li><p>Direct marketplace publishing</p></li><li><p>Revenue from downloads + remixes</p></li><li><p>Simple license tiers for buyers</p></li></ul><p><strong>Benefits:</strong></p><ul><li><p>Creators: direct path from generation → earnings</p></li><li><p>Marketers/brands: royalty-free music without friction</p></li><li><p>Developers: commercially safe audio for products</p></li></ul><p><strong>Use cases: </strong>Product demos, ads, content creation, apps, and more, without the licensing headache.</p><p><br>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a> </p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is awesome<br>But who truly owns a viral AI generated track in this system?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>tried something similar with a royalty-free music service last year — the problem wasnt the music itself but tracking where it actually got used. curious how you handle that here. like if someone downloads a track and uses it in 5 different videos, does the creator get paid per use or per download?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Music licensing is broken. Sync fees, clearance delays, per-use negotiations. ElevenCreative's Music Marketplace flips it: generate a track, publish it, earn every time it's downloaded or remixed. $11M paid to voice creators. Now music gets the same engine.",
+  "featured_at": "2026-04-12T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/0eb249ea-a4ea-492c-babf-5aa6817db9b2.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4f4c7f24-a747-4bd0-b10c-cb2fb299743b.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/068d07eb-77f6-41bb-852b-56e7ae64a807.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:28",
+  "landing_meta": "AI Voice Generator & Text to Speech | ElevenLabs — Rated the best text to speech (TTS) software online. Create premium AI voices for free and generate text to speech voiceovers in minutes with our character AI voice generator. Use free text to speech AI to convert text to mp3 in 29 languages with 100+ voices.",
+  "landing_text": "AI Voice Generator & Text to Speech | ElevenLabs",
+  "pricing_signals": [
+    "premium",
+    "$1",
+    "$34",
+    "$3",
+    "$30",
+    "$43",
+    "$64"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:29",
+  "description_ja": "曲を作って公開、使われるたびに収益化できるAI音楽マーケットプレイス",
+  "summary_ja": "ElevenLabsのAI音楽モデル(Eleven Music)で生成した楽曲をマーケットプレイスに公開し、SNS/広告/オフライン用途でライセンス販売、ダウンロードやリミックスごとに作成者へ収益を還元する仕組み。Merlin/Kobaltと提携し権利処理を内製化、作成者取り分は25%から開始。",
+  "tldr_ja": "ElevenLabs本家が権利処理を含めて垂直統合、JP法人も設立済みで個人開発の参入余地はほぼ無い",
+  "review_guide_ja": {
+    "what": "ElevenLabsのAI音楽生成モデル「Eleven Music」で作ったトラックを、ElevenCreative内のマーケットプレイスに直接公開できる機能。買い手はSocial Media/Paid Marketing/Offlineの3ライセンス階層から用途を選んで購入・リミックス・ダウンロード可。作成者には購入金額の25%以上が分配され、権利処理はMerlin/Kobalt等との事前ライセンスで内製化されている。ボイスマーケットプレイスで累計1,100万ドル超のクリエイター報酬実績(2026年4月時点)を音楽に横展開した、垂直統合型のAI音楽プラットフォームの一機能。",
+    "for_who": "個人クリエイター(AI音楽でストック収益を狙う作曲家)、コンテンツマーケター/ブランド(ロイヤリティフリー楽曲を権利クリアな形で調達したい)、開発者(アプリやゲームに商用利用可能なAI生成BGMを組み込みたい)。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "高品質AI音楽モデルの自社開発、Merlin/Kobalt級の権利処理パートナー獲得、双方向のマーケットプレイス基盤、決済・分配・税務インフラが全て必要。個人や小規模チームには物理的に不可能。"
+    },
+    "signals": [
+      "ElevenLabsはボイスマーケットプレイスで実証済みの分配モデル(累計$11M+)を持つ",
+      "Eleven Musicは日本語歌詞生成にも対応、JP法人も2025年4月設立済み",
+      "Merlin/Kobaltとの事前ライセンスで権利クリアランスを内製化",
+      "国内BGM需要層(動画編集者・YouTuber・企業マーケ)は厚い"
+    ],
+    "concerns": [
+      "AI生成楽曲のJASRAC登録条件(人間の創作的寄与)を満たすか不明確",
+      "Suno/Udio/SOUNDRAW等の既存音楽生成AIと真正面から競合",
+      "本家がJP法人を通じて直接展開中で、追随する個人サービスの余地が極小",
+      "クリエイター取り分25%は国内ストック音楽サイト(50%超が多い)より低水準"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内動画編集者・YouTuber・企業マーケ向けロイヤリティフリーBGM需要は厚く、Audiostockは音源100万点超・クリエイター3.6万組超(2024年12月)、SOUNDRAWも日本発で利用層あり。AI生成楽曲の関心も高い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "国内: Audiostock(100万音源)、SOUNDRAW(日本発AI作曲、年12,864円)。海外でJP対応強: Suno(日本語歌詞対応・JP有料ユーザー多数)、Udio、Artlist。マーケットプレイス型もストック型も飽和気味で隙間が小さい。"
+      },
+      "regulation": {
+        "score": 2,
+        "reason": "AI生成楽曲の著作権はJASRACが「人間の創作的寄与」を厳格審査(著作権法改正後)。著作隣接権・原盤権処理、Merlin/Kobalt級の権利機関との提携、特商法・資金決済法(クリエイター送金)対応も必要。個人運営にはハードル高すぎ。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "AI歌唱の日本語対応は徐々に改善中だが、Eleven Musicの日本語歌詞は英語より不安定との利用者報告。和風BGM、邦楽ジャンル(J-POP/アニソン/演歌)プロンプト最適化、JPランディングや日本語サポートの整備が必要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のBGM購入慣習はAudiostock型の単品買い切り or 年間サブスクが主流。マーケットプレイスでの作家分配型は前例少なく、消費税インボイス・源泉徴収・確定申告対応など個人クリエイター向け事務負担への配慮が必要。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "SOUNDRAW",
+        "url": "https://soundraw.io/ja",
+        "note": "日本発AI作曲ロイヤリティフリー。自社プロデューサー音源のみ学習、月額¥1,293〜年額¥12,864。商用利用可。"
+      },
+      {
+        "name": "Audiostock",
+        "url": "https://audiostock.jp/",
+        "note": "国内最大の音源ストック。100万音源超、クリエイター3.6万組超、累計分配10億円超(2024年12月)。BGM/効果音中心。"
+      },
+      {
+        "name": "Suno AI",
+        "url": "https://suno.com/",
+        "note": "テキスト→楽曲生成の本命。Pro/Premierで商用利用権付与、日本語歌詞対応、JPでの個人ユーザー数も多い。"
+      },
+      {
+        "name": "Eleven Music (本家)",
+        "url": "https://elevenlabs.io/ja/music",
+        "note": "ElevenLabs Japan G.K.が2025年4月設立済み、TBS・NTTドコモと提携。本案件は本家自身のマーケットプレイス機能で参入余地は本家拡張のみ。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法(AI生成物の著作物性)",
+        "impact": "AI生成楽曲は人間の創作的寄与がない場合、著作物に該当せず保護対象外。JASRACはメロディ・歌詞・アレンジへの人的関与を厳格審査する方針。マーケットプレイスはクリエイター毎の関与度を担保する仕組みが必要。"
+      },
+      {
+        "law": "著作権法第30条の4(機械学習例外)",
+        "impact": "AI学習データの利用は許容されるが、生成物が既存楽曲に類似すると侵害リスク。クリアランス機構(類似検出・既存楽曲データベース照合)を持たないと販売物に侵害物が混入する恐れ。"
+      },
+      {
+        "law": "著作隣接権・原盤権",
+        "impact": "原盤権は通常レコード会社に帰属し、AI生成でも実演・録音の概念がある。Merlin/Kobalt級と提携できない個人運営は、買い手企業のリーガルチェックを通過しにくい。"
+      },
+      {
+        "law": "資金決済法・特商法",
+        "impact": "クリエイターへの収益分配は資金移動業に該当しうる(銀行振込代行ではエスクロー扱い)。マーケットプレイス事業者表示・返金規定・特定商取引法表記が必須。"
+      },
+      {
+        "law": "消費税法(インボイス制度)",
+        "impact": "2023年10月以降、適格請求書発行事業者でないクリエイターに対する仕入税額控除が制限。プラットフォーム側で適格請求書発行事業者番号管理と税額計算が必要。"
+      }
+    ],
+    "opportunity": "本家マーケットプレイスをコピーするのではなく、日本特化のニッチを狙う角度なら可能性は残る。例: (1)和楽器・邦楽ジャンル(J-POP/アニソン/和風BGM)に特化したAI音楽プロンプトテンプレ集、(2)国内動画編集者向けにEleven Music/Sunoの楽曲をAudiostock型UIで再販する代理店モデル、(3)JASRAC登録可能な「人的関与レコード(編集履歴)」を自動記録するクリエイター向けツール。ただしいずれも本家マーケットプレイス機能とは別物で、本案件自体の代替にはならない。",
+    "rationale": "本案件はElevenLabsという潤沢な資金とAI技術を持つ企業が、Merlin/Kobaltとの提携で権利クリアランスまで内製化した垂直統合型のマーケットプレイス機能。これを個人開発者が日本で再現するのは、AIモデル開発・権利機関提携・マーケットプレイス基盤・決済分配インフラのいずれも不可能。需要は厚いが競合(SOUNDRAW/Audiostock/Suno/Udio)も飽和、規制(JASRAC・著作隣接権・インボイス・資金移動)も重く、ElevenLabs Japan G.K.が2025年4月に既設立済みで本家自身が日本展開中。市場機会としては個人開発レイヤーでは「skip」が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "国内ストック音源市場は買い切り(数百〜数千円/曲)とサブスク(月¥1,000〜2,000台)が定着。AI音楽サブスクへの抵抗は比較的低いが、マーケットプレイス型(個別購入)で個人運営が決済・分配を回すのはARPU確保前に事務コスト負け。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内BGM/SE需要は動画編集副業(1本3,000-5,000円/編集者数十万人規模)、企業マーケ動画、ゲーム/アプリ開発を含めて広い。Audiostockの累計分配10億円超が一つの目安。ニッチ過ぎではないがグローバル本家が刈り取ると残量は限定的。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "権利処理が必須なため個人開発者のPLG(無料枠で口コミ拡散)は困難。クリエイター獲得・買い手獲得の双方向SaaSはネットワーク効果が必要で立ち上げが極めて重い。X/Qiita発信だけでは初期流動性を作れない。"
+      },
+      "timing": {
+        "score": 1,
+        "reason": "ElevenLabs Japan G.K.が2025年4月既設立、TBS/NTTドコモとPoC実施中。Eleven Musicも日本語対応済み。本家マーケットプレイス自体が今後数ヶ月でJPローカライズされる可能性極大。猶予は事実上ゼロ。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "クリエイター審査(類似楽曲検出)、ライセンス販売対応、買い手企業の法務対応、源泉徴収/インボイス処理、楽曲のContent ID対応、24/7ストリーミング配信負荷、決済紛争処理など個人運用には不可能なオペレーション量。"
+      }
+    },
+    "rationale": "事業成立性は5軸全方向で厳しい。マネタイズはAudiostock/Sunoが既に占有、市場規模はあるが本家が刈り取る、GTMは権利処理ハードルで個人PLG不可、タイミングはElevenLabs Japan既設立で猶予ゼロ、運用は権利/決済/CSが個人不可能。総合スコア3は「個人開発者として再現を狙う対象ではない」を意味する。仮にやるなら本案件全体の模倣ではなく、和風/邦楽特化のプロンプト集販売(¥3,000-5,000の一回購入)や、Suno/Eleven Musicの楽曲を国内向けに整理するキュレーション系の小規模事業に振るのが現実的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 0,
+      "plans": [
+        "本案件のコピーは推奨しない(arpu_jpy=0)。仮に隣接ニッチで攻めるなら以下を参考に。",
+        "Free: 和風AI音楽プロンプトテンプレ10種閲覧/月",
+        "Pro: ¥1,500/月 - 全プロンプトテンプレ+Eleven Music/Suno推奨設定+JASRAC登録ガイド",
+        "Pack: ¥4,800買い切り - 邦楽ジャンル別プロンプト50種+商用利用Q&A集",
+        "Agency: ¥12,000/月 - 代理店向けクリエイター管理ダッシュボード(将来オプション)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "本案件自体の再現は対象外と判定。仮にAI音楽の周辺ツール(和風プロンプト集等)で攻める場合は、Suno/Eleven Musicを業務で使う国内動画編集副業者・個人VTuber・小規模ゲーム/アプリ開発者・中小企業マーケ担当者。arpu_jpy=0なので月商目標も0。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "本案件のマーケットプレイス自体は個人開発で再現非推奨",
+      "仮に周辺ツールで攻めるなら: X(旧Twitter)でAI音楽の和風プロンプト実演動画を発信",
+      "Qiita/noteでSuno/Eleven Music+JASRAC登録の実践記事連載",
+      "YouTube動画編集者コミュニティ(Discordサーバー等)でテンプレ集を直販",
+      "音楽生成AI解説ブログ(ai-souken/aismiley等)へのアフィリエイト相互送客"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "ElevenLabs Japan G.K.が2025年4月既設立済みで、本家マーケットプレイスの日本ローカライズが数ヶ月内に進行する公算大。追随する個人サービスは即時陳腐化。",
+      "Merlin/Kobalt/JASRACとの権利機関提携なしには商用買い手企業の法務審査を通過できず、マーケットプレイスとしての信用が確立できない。",
+      "クリエイター送金の資金移動業該当判定、インボイス制度対応、源泉徴収など税務・規制負担が個人運営の限界を超える。",
+      "Suno(日本語歌詞対応・既に有料ユーザー多数)、SOUNDRAW(日本発)、Audiostock(100万音源)が先行占有しており、後発の差別化軸が見当たらない。",
+      "AI生成楽曲が既存楽曲に類似した場合の侵害責任(プラットフォーム責任)を個人事業者が負うのは現実的でない。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "japan_fit_at": "2026-05-25T12:00:00+09:00",
+  "review_guide_at": "2026-05-25T12:00:00+09:00",
+  "business_viability_at": "2026-05-25T12:00:00+09:00",
+  "advisor_view_at": "2026-05-25T12:00:00+09:00"
+}

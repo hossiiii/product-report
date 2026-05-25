@@ -1,0 +1,234 @@
+{
+  "name": "The New Waydev",
+  "description": "Measure the full AI SDLC. From token to production.",
+  "ph_url": "https://www.producthunt.com/products/waydev/launches/the-new-waydev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/PAI6YKNZIR2IRI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-20T07:01:00Z",
+  "upvotes": 372,
+  "comments": 46,
+  "topics": [
+    "Productivity",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p></p><p>I am Alex, founder of <a href=\"https://www.producthunt.com/products/waydev\" target=\"_blank\" rel=\"noopener\">@Waydev</a> Nine years of building engineering intelligence. I have never seen a shift like this one.</p><p></p><p>AI agents are writing your code. Nobody audits the output.</p><p></p><p>4% of public GitHub commits are already authored by Claude Code. Companies are spending up to $195 per developer per month on AI coding tools. Almost none of them can prove the spend is working.</p><p></p><p>That is the gap we rebuilt Waydev to close. The new platform measures the full AI SDLC:</p><ul><li><p><strong>AI Adoption</strong> — which tools your teams use, what you spend per vendor, per team, per repo</p></li><li><p><strong>AI Impact</strong> — follow AI code from IDE to production. See where it ships and where it dies</p></li><li><p><strong>AI ROI</strong> — cost per PR, cost per shipped line, tokens consumed vs code shipped</p></li><li><p><strong>AI Checkpoints</strong> — commit-level attribution. Which agent, how many tokens, what percentage was AI</p></li><li><p><strong>Waydev Agent</strong> — ask anything. Closes the loop by feeding insights back to your AI through MCP</p></li></ul><p>AI adoption was the easy part. Proving what AI actually changed in production is the hard part. That is what we built.</p><p></p><p>In the comments all day. Ask me anything.</p><p></p><p>— Alex</p>",
+      "votesCount": 25,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Most team track usage , but not what actually makes it to production. This kind of visibility could really help cut wasted spend . Curious if it also highlights why some AI generated PRs don't get shipped?</p>",
+      "votesCount": 30,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This feels super relevant right now.  A lot of teams are thinking about this problem. Will give it a shot.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "AI agents write code. Most teams cannot tell you what percentage actually ships. Waydev tracks agent-generated code from IDE to production with AI Checkpoints: which agent, tokens consumed, cost per PR, acceptance rate, deployment status. Per team, per repo, per vendor. Compare Copilot, Cursor, and Claude Code on what reaches your customers. Measure cost per shipped PR and AI ROI. Ask the Waydev Agent anything.",
+  "featured_at": "2026-04-20T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/8f4d69b3-0f9d-4a2a-b8cf-dd3a9d250ade.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cb77338d-c261-4f30-ac2d-ec1e15f086a6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7b73d03d-3d42-4856-8dfc-0e251841f368.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/91c256a4-f303-4f2a-903d-a2dfd37e3302.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/77ba8b10-1a46-483e-bf7c-cbbcc7853c6e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/72405acb-3c9c-47d1-9168-3a4bbb6b0c4a.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/befd8cf4-0670-4309-8cf7-8beef99869d3.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:25",
+  "landing_meta": "Productivity Insights: SPACE Framework, DX and DORA metrics - Waydev — ✅ Waydev’s developer productivity insights deliver unparalleled insights into engineering productivity using AI Agents, DORA Metrics, Developer Experience (DX) analysis, and the SPACE Framework. Our Developer Productivity Insight platform helps you optimize SDLC, streamline development processes, and align engineering efforts with strategic business objectives.",
+  "landing_text": "Productivity Insights: SPACE Framework, DX and DORA metrics - Waydev Backed by Y Combinator experience featured in TechCrunch Learn more Market Leader in Software Engineering Intelligence (G2 Crowd’s Winter, Summer & Spring 2025) Learn more TechCrunch: How engineering leaders can use AI to optimize performance￼ Read here Backed by Y Combinator experience featured in TechCrunch Learn more Waydev Enterprise Security SOC 3 experience featured in TechCrunch Learn more The AI engineering intelligence for measuring agents adoption Request a Demo or I’d like to learn… access a demo instance (sandbox) how to measure the AI Agents Impact how to measure the AI Agents ROI why engineering leaders choose Waydev Using AI to Optimize Performance – Alex Circei in TechCrunch Backed by Y Combinator AI ADOPTION, AI IMPACT, AI ROI + SPACE Framework , DORA Metrics , DX : Leverage Developer Productivity insights from your engineering stack to accelerate SDLC and align engineering work to business priorities. Trusted by FORTUNE 500 enterprise companies Read Story Read Story Read Story Read Story Read Story Read Story “By 2027, the use of developer productivity insight platforms by software engineering organizations to increase developer productivity will rise to 50%.” – Market Guide to Software Engineering Intelligence Platforms Talk to a consultant Small team 10 – 50 Engineers Medium Team 50 – 500 Engineers Demo with an expert 500 – 5000 Engineers our recent awards SEE LIVE DEMO Modules Automation Delivery Health Planning Studio AI Adoption AI Impact AI ROI Waydev Agent Bird's Eye View Cost Capitalization Resource Allocation DORA Metrics Team Insights Resource Planning Targets Cycle Time Pull Request Insights Merge Quality Sprints Commitment Velocity Report Contributor Insights Benchmark Hygiene Developer Experience Project Costs Notifications Custom Dashboards Custom Metrics AI Predictibility AI Coach AI Agent AI Adoption Custom Reports Executives Turn data into valuable business insigh",
+  "pricing_signals": [
+    "free trial",
+    "pricing",
+    "premium"
+  ],
+  "landing_fetched_at": "2026-05-26T04:00:25",
+  "description_ja": "AI SDLC全体を計測。トークンから本番デプロイまで可視化するエンジニアリング・インテリジェンス基盤。",
+  "summary_ja": "Copilot/Cursor/Claude Code等のAIエージェントが書いたコードを、IDEから本番出荷まで追跡。コミット単位でAI寄与率・トークン消費・PR単価・ROIを可視化し、ベンダー・チーム・リポジトリ別に比較できるエンタープライズSEIプラットフォーム。",
+  "tldr_ja": "AI SDKL計測の需要は国内も顕在化中だが、Findy Team+独走+エンプラセールス必須で個人開発者には不適合、no_go。",
+  "review_guide_ja": {
+    "what": "AIコーディングエージェント（Copilot/Cursor/Claude Code等）が生成したコードをIDEから本番デプロイまで一気通貫で計測するエンジニアリング・インテリジェンス・プラットフォーム。AI Adoption（誰がどのツールに月いくら使っているか）、AI Impact（生成コードが本番に届く比率）、AI ROI（PR単価/出荷行単価/トークン対コード比）、AI Checkpoints（コミット単位でエージェント名・トークン量・AI寄与率を記録）の4モジュールに加え、MCP経由でAIに学習をフィードバックするWaydev Agentを提供。DORA/SPACE/DXの旧来指標もカバーし、Fortune500やYC経験を訴求するエンタープライズ向けセールス主体のSaaS。",
+    "for_who": "従業員50〜5000名規模のエンジニアリング組織を持つエンタープライズおよびスケールアップ企業。CTO/VPoE/EM層が顧客で、AIツールへの投資ROIを取締役会や経営層に証明する必要がある層。個人開発者・小規模スタートアップ向けではない。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "GitHub/GitLab連携、各AIツール（Copilot/Cursor/Claude Code）の使用量API/SSO、SOC 2/3相当のセキュリティ、エンプラ商談・カスタマーサクセス体制が必要で個人ではほぼ不可能。"
+    },
+    "signals": [
+      "Gartner: 2025年7月国内開発組織でAIコード生成49%/コードレビュー40%が利用中、前年比2倍以上",
+      "AI agentによるGitHub公開コミットの4%がClaude Code作と自社主張、AIツール月額が開発者あたり最大$195に到達",
+      "本家にFortune500・YC・SOC3・TechCrunch露出など信用シグナルが揃っている",
+      "AI ROI証明という新しい切り口で旧来DORA系SEIから差別化",
+      "MCPフックでAIエージェントに学習をフィードバックするループ"
+    ],
+    "concerns": [
+      "顧客は10〜5000名のエンジニア組織と明示、PLG型ではなくデモ予約・商談ベース",
+      "GitHub/各AIツールの利用データ取得は連携と権限管理が重く、保守負荷大",
+      "DX/Jellyfish/LinearB/Swarmia/Code Climateなど海外競合が既に乱立",
+      "国内ではFindy Team+(約850社導入)とOffers MGRが先行ポジションを確立済み",
+      "AI寄与率の計測精度は各IDE/エージェント側の協力に依存、ベンダー変更で陳腐化リスク"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "Gartner調査で国内ソフト開発のAIコード生成利用が2024年12.8〜21.2%→2025年31.8〜49.0%へ急増。マネーフォワードがCursor事例で初選出されるなどエンプラ採用が顕在化。AI ROI証明ニーズは確実に立ち上がっている。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内SEIはFindy Team+が約850社導入で先行、Offers MGRが2番手。両者ともFour Keys中心だがAI Adoption計測領域に拡張中。海外勢ではLinearB/Jellyfish/DX/Swarmia/Code Climateも日本企業に直販可能で、ホワイトスペースは限定的。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "リポジトリのメタデータ・コミット情報を扱うのみで個人情報・決済・金融規制は基本無関係。ただし大企業導入では個情法のIT統制要件、ソースコードの秘密保持、SOC2/ISO27001相当の要求が厳しい。それ自体は技術投資で解決可能。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UI/レポート・契約書面の日本語化が必須。Backlog連携(Findyは対応済)や日本独自のJIRA運用、稟議向けレポート出力など細かい対応が必要。技術的にはAPI/構造化中心だが営業資料・カスタマーサクセスの日本語化負荷は重い。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "国内エンプラはPoC→稟議→年契約のサイクルで時間がかかり、開発者単位課金モデルは決裁が通りにくい。情シス/法務のセキュリティ審査、SES混在組織での『誰の生産性か』論争など日本特有の壁あり。Findyは賞・コミュニティで突破した。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Findy Team+",
+        "url": "https://findy-team.io/",
+        "note": "国内シェア最大手。Four Keys/開発生産性可視化で約850社導入、エンプラ向けエージェント方式も提供。AI時代の開発資本プラットフォームを標榜しAI領域へ拡張中。"
+      },
+      {
+        "name": "Offers MGR",
+        "url": "https://offers-mgr.com/",
+        "note": "overflow社提供。Four Keys分析機能、コミュニケーション/ドキュメントデータの計測も可能。国内2番手ポジション。"
+      },
+      {
+        "name": "LinearB / Jellyfish / DX (海外)",
+        "url": "https://linearb.io/",
+        "note": "日本法人や正式日本語化は限定的だが、グローバル日本支社や英語OKエンプラには直接導入可能。Waydevと同領域の直接競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "開発者個人の生産性データ（コミット数・稼働時間相当）を扱うため、日本では『従業員監視ツール』と捉えられやすい。利用目的の明示、労働組合説明、人事評価への直接利用の制限など運用ガイドラインが必要。導入時に法務・人事の関門が増える。"
+      },
+      {
+        "law": "下請代金支払遅延等防止法・労働者派遣法",
+        "impact": "国内では委託・SES・派遣エンジニアが混在する組織が多く、外部要員のコミットを社内KPIに混ぜると下請法・偽装請負リスクの議論を呼ぶ。レポート設計で発注先別の切り分けが必須となり、海外設計のままでは商談が止まる。"
+      }
+    ],
+    "opportunity": "日本独自の角度は3つ。(1) SES・業務委託混在組織向けに『外部要員のコミットを除外/別集計』する日本ローカル機能。(2) 経産省/Gartnerの国内AI利用統計と連動した経営層向け『AI投資効果レポート』テンプレ。(3) Backlog/Redmine/Cybozu Garoonなど国内固有ツールとの連携。ただし個人開発者がエンプラ向けに直接食い込むのは困難で、Findy Team+のOEM/補完機能やコンサル経由販売の方が現実的。",
+    "rationale": "需要は急速に立ち上がりつつあり、Gartner調査でAIコード生成49%・コードレビュー40%という数値、Cursor活用のマネーフォワード事例など、AI SDKL計測の必要性は国内CTO/VPoEに確実に届いている。一方で国内ではFindy Team+が約850社で実質的にカテゴリリーダーとなっており、AI Adoption領域も明確に強化中。Waydevが新規参入するには日本法人・パートナー・日本語SOC審査対応が必要で、個人開発者が同じ角度で再現するのは現実的ではない。需要は強いが供給側競争も激しいためwatch評価。隙間があるとすればSES文化・委託混在組織向けの日本ローカル機能、または特定業界（金融SI/ゲーム業界）に絞った計測テンプレなど。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "エンプラ年契約・開発者数課金モデルは国内でもFindy Team+が成立させており、ARPU月数十万〜数百万円規模は到達可能。一方でPLG・freemium路線は決裁構造に合わず、個人開発者が取れるのは小規模SaaS企業の月数万円ティアに限られる。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "50名以上のエンジニア組織を持つ日本企業は数千社規模（METI/JISA統計）、AI ROI計測まで本気で投資する層はさらに絞られる。個人開発者がリーチ可能なTAMは限定的。SES混在中小は計測ニーズが弱い。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "Findy Team+はイベント・賞・コミュニティ・直販体制で勝ち取っており、PLGだけで突破するのは困難。本カテゴリは『誰のエンジニア生産性か』という政治的論点が絡むため、コンテンツマーケのみで個人開発者が販売するのは現実的でない。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Findy Team+はAI領域を明示し拡張中、Waydevが本ローンチ済み、LinearB/Jellyfish/DXも日本企業へ展開。AI SDKL計測のラベル自体は2026年に各社が同時参入しており、後発の個人開発者が時間窓を取るのは難しい。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "GitHub/各AIツールAPI連携・社内SSO対応・データ取得エージェント保守・セキュリティ監査対応・カスタマーサクセスが必要。SaaS企業のSLA期待値も高く、24/7監視が前提。個人運用での継続は事実上困難。"
+      }
+    },
+    "rationale": "需要・収益単価の高さは魅力だが、本カテゴリは『個人開発者が刺さりにくいエンタープライズSEI』の典型例。日本市場にはFindy Team+が約850社の地盤を築き、AI領域への拡張も既に進んでいる。海外勢の参入リスクは高く、時間窓は短い。Solo Dev視点ではセキュリティ審査・SSO・カスタマーサクセス負荷が重く、運用継続は現実的でない。隙間があるとすればFindy未対応のニッチ（SES混在組織向けレポート、特定業界別テンプレ、AI使用量モニタリング特化の補完ツール）に絞り、Findyやコンサル経由でOEM/Add-on販売する戦略のみ。本アイデアをそのままコピーして個人開発するのは合理的でない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "annual",
+      "arpu_jpy": 0,
+      "plans": [
+        "個人開発者として直接競合する道は非推奨のためARPU 0",
+        "もし参入する場合: 開発者あたり ¥3,000〜¥5,000/月 × 50〜500名規模 = 年契約 ¥180万〜¥3000万/社が現実線",
+        "ニッチ補完ツール路線なら ¥30,000〜¥100,000/月の単一プランで小規模SaaS企業10〜30社狙い"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "50〜500名のエンジニア組織を持つ国内SaaS/事業会社のCTO・VPoE・EM層で、AIコーディングツール導入済みかつROI証明を求める層。SES比率の低い自社開発組織に限定される。個人開発者が直接アプローチできる対象は極めて少ない。",
+      "target_count": 800,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "個人開発者には非推奨。直接参入するならFindy/Offers MGRのOEM/補完機能としての提案",
+      "業界別ニッチ特化(ゲーム/金融SI/受託)のAI使用量ダッシュボード単機能として差別化",
+      "Zenn/Qiitaで『AI ROI計測の社内事例』連載→個別問い合わせ獲得(根拠未確認、控えめ)",
+      "TechBlog/CTO interview記事でFindy未対応のSES混在組織向け切り口を発信",
+      "X/Findy主催イベントでの登壇経由でCTOコミュニティに食い込む"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Findy Team+(約850社)が日本での実質カテゴリリーダーで、AI Adoption領域も明示的に強化中。後発で個人開発者が同じ角度を取るのは現実的でない。",
+      "エンプラセールス・SOC2/3相当のセキュリティ審査・SSO/SAML対応・24/7 SLAが個人運用では維持困難。CSなしで離脱率が高い。",
+      "AI寄与率の計測はIDE/エージェント側API変更に依存。Cursor/Claude Code等の仕様変更で計測ロジックが頻繁に陳腐化、保守地獄。",
+      "従業員監視ツールと捉えられた場合、個情法・労組対応・人事評価制限など日本特有の運用論争に巻き込まれる。",
+      "LinearB/Jellyfish/DX/Swarmiaなど海外SEIが日本法人や英語可エンプラ向けに同時参入、時間窓が極めて短い。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

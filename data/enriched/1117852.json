@@ -1,0 +1,246 @@
+{
+  "name": "Grass",
+  "description": "Gives your coding agent a dedicated VM that's ready 24/7",
+  "ph_url": "https://www.producthunt.com/products/grass-claude-code-from-your-phone/launches/grass-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/KJ5P7ZUD7POM4A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-09T07:01:00Z",
+  "upvotes": 288,
+  "comments": 39,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey PH! <br><br>We built Grass because we noticed something weird. We message our teammates from anywhere, on the train, at lunch, from the couch. But the moment we want to talk to our coding agent, we need a laptop and a terminal open.<br></p><p>That felt broken. Coding agents aren't tools you operate anymore. They're colleagues you work with. Grass is how you stay in touch with them.<br></p><p><strong>What Grass does today:</strong></p><p><br><strong>→Thread continuity </strong>across your phone and laptop. Start a task on Claude Code or OpenCode on your machine, pick up the same conversation on your phone. Same context, nothing lost.<br><strong>→ Free pre-configured VM. </strong>We sponsor 10 hours of Daytona compute. No credit card, no DevOps setup. Your agent has somewhere to work in under a minute.</p><p><strong>→Bring your own API key.</strong> We never see it, never store it. Your keys stay on your device.</p><p><strong>→Agent agnostic. </strong>Works with Claude Code and OpenCode today. More agents coming.<br></p><p><strong>On security:</strong> Grass runs a BYOK architecture. Your API key never touches our servers. We're building for developers who care about this, because we're developers who care about this.<br></p><p><strong>Why we made it free to start:</strong> Every developer running coding agents should be able to try cloud compute without a credit card form in the way. 10 hours is enough to have your first \"my agent finished while I was away\" moment. After that, you'll know if Grass is for you.<br></p><p><strong>A bit about us:</strong> Raunaq previously built Elemential (enterprise infra, shipped to NSE) and has trained 3,000+ developers on AI agent infrastructure. Anil built the core architecture, real time sync, SSE-based event buffering for mobile reliability, and Daytona VM orchestration. I lead design and creative, everything around how Grass shows up in the world.<br></p><p>We'd love your feedback, especially on what agents you want us to support next and what your ideal mobile coding workflow looks like. We're in the comments all day.</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>One of the coolest launch today for sure! Do you see Grass evolving into something like Slack for AI agents or more of an execution layer behind the scenes?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Very cool, does this mean I can finally touch grass? 😄</p><p>Jokes aside, how are you thinking about session continuity and memory when there’s a disconnect or the user switches devices?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Grass gives your coding agent a dedicated VM that's always ready. No setup, no config, no burning your laptop. Point Claude Code or OpenCode at it and run. Monitor progress from your phone, steer mid-session, push changes, all without touching your machine. Every new account gets 10 hours free. No credit card needed.",
+  "featured_at": "2026-04-09T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/6e7fc183-5bd9-4ab2-9afa-27a55b1c2249.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e5b63081-f057-41d4-adfe-6fa0daf67957.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3cc08c84-ecfa-4112-bc7a-93b42bcbf3e2.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/184ae410-f8e5-4935-bd5e-2eed13505441.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fab87f55-b2b3-47ad-adf3-c9be2e50eab9.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/afee0576-4780-4794-bf84-57878039d189.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bc624451-9efc-493d-908d-0ecc9ba537ae.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:34",
+  "landing_meta": "Grass — Always-On VM for AI Coding Agents — Grass gives developers a persistent, always-on virtual machine on iPhone to run AI coding agents like Claude Code — write and ship code from anywhere.",
+  "landing_text": "Grass — Always-On VM for AI Coding Agents Your agent doesn't stop when you do. Run Claude Code from your iPhone. Free, 10 hours a month. No card needed. Get on iPhone Permission prompts shouldn't require a desk. Every time your agent needs approval, Grass sends it to your phone. See the diff. Tap yes or no. The agent keeps going. You stay in control without being in the room. Long-running sessions Fire the task. Put your phone down. When the agent needs you, you get a notification. When it's done, you get a notification. Everything in between is just the work getting done. Dispatch Mid-session and need to leave? Tell your agent \"move to Grass.\" The entire session — context, history, progress — transfers to a cloud VM. Your laptop is free. The work continues. All Your Machines. One Tap. GrassVM, your Mac, your server. All in one place. Switch between them without leaving the app. GrassVM — 10 free hours a month. No credit card. Your own machine Already have a server? Point Grass at it with one command. Claude Code + Opencode Works with the harness you're already in. Push notifications Permission queues, task completions, session updates. Parallel threads Run multiple agents. Manage all of them from one tab. npx @grass-ai/ide start That's the whole setup. Your best work happens when the agent outlasts your attention span. Get it on iPhone",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T06:04:35",
+  "description_ja": "コーディングエージェント専用の24/7常駐VMをスマホから操作できるサービス",
+  "summary_ja": "Claude Code / OpenCode 向けに常時稼働の Daytona ベース VM を提供し、iPhone アプリから許可応答・進捗確認・並列スレッド管理ができる。BYOK で API キーは端末保管、初回 10 時間無料。",
+  "tldr_ja": "Anthropic 公式 Remote Control / Claude Code on Web と完全競合、本家進出済みで個人開発者は参入猶予ほぼなし。",
+  "review_guide_ja": {
+    "what": "Claude Code や OpenCode といったコーディングエージェントを動かすための専用 VM（Daytona 上の隔離 Docker コンテナ）を提供し、iPhone アプリから許可プロンプト応答・差分確認・並列セッション管理・通知受信を行えるサービス。`npx @grass-ai/ide start` でセットアップ完結。BYOK アーキテクチャで Anthropic 等の API キーは Grass サーバーには送らず端末側で保持する。GrassVM だけでなく自前サーバーや Mac もアプリから一元管理可能。典型ユースケースは外出中の長時間ビルド監視、通勤中の許可応答、ノート PC を閉じても継続するエージェント作業。",
+    "for_who": "Claude Code / OpenCode を日常的に使う個人開発者・小規模チームで、外出先や移動中にもエージェント進捗を確認・操作したい層。BYOK を歓迎するセキュリティ意識の高い開発者が中心。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "VM オーケストレーション・SSE による低レイテンシ同期・iOS ネイティブアプリ・Daytona/独自インフラ契約・API キー BYOK 設計など複数領域を統合する必要があり、個人開発で完全再現は困難。"
+    },
+    "signals": [
+      "Daytona と提携した sub-90ms スピンアップ VM を 10 時間無料で配布する強い freemium 設計",
+      "BYOK で API キーをサーバー保管しないというセキュリティ意識の高い開発者向けポジショニング",
+      "Claude Code と OpenCode の二大エージェント対応で agent-agnostic を打ち出す戦略",
+      "iPhone ネイティブアプリで通知・差分・許可応答までモバイル UX を作り込み",
+      "npx ワンコマンドでセットアップが完結する DX 重視の導入体験"
+    ],
+    "concerns": [
+      "Anthropic 公式 Remote Control が既に提供されており差別化が難しい（claude rc コマンドで Mac→iPhone 操作可能）",
+      "Claude Code on the Web（ブラウザ版）が同様のスマホ完結開発を公式提供",
+      "Daytona の従量課金が無料 10h を超えた後の収益構造を圧迫しうる",
+      "API キーは BYOK でも VM 上でのコード実行リスク・サンドボックス境界は要監査",
+      "iOS 限定で Android ユーザーを取り込めていない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Qiita/Zenn/note で「Claude Code スマホ」「Claude Code Remote Control」記事多数、通勤中・カフェからエージェント操作したい需要は顕在。ただし対象層は Claude Code 課金者の中でも一部に限られる。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Anthropic 公式 Remote Control（claude rc）、Claude Code on the Web、GitHub Codespaces、Mobile for Claude Code（App Store 既存）、Daytona 直接利用が競合。本家かつ無料機能が既にあり、個人サービスの優位性は薄い。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "BYOK で API キーをサーバー保管しないため個情法・電気通信事業法の影響は軽微。コード本体は VM 上に置かれるが、開発者本人のデータが中心で特別規制なし。"
+      },
+      "localization": {
+        "score": 9,
+        "reason": "対象が英語に慣れた開発者で UI ローカライズ需要は低く、CLI/モバイルアプリの構造もシンプル。プロンプト・許可応答はエージェント側の表示に依存するため日本語化負荷ほぼなし。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "個人開発者・カジュアル課金が主なので商習慣の影響は小さい。ただし請求書払い・年間契約・法人決裁を求める層には届きにくく、B2B 拡張には日本固有調整が必要。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Anthropic Claude Code Remote Control",
+        "url": "https://code.claude.com/docs/ja/remote-control",
+        "note": "公式機能。Mac で起動中の Claude Code セッションをスマホブラウザから操作可能、claude rc コマンドで起動。日本語ドキュメントも整備済みで最大の直接競合。"
+      },
+      {
+        "name": "Claude Code on the Web (Anthropic)",
+        "url": "https://code.claude.com/docs/ja/web-quickstart",
+        "note": "Anthropic 公式のクラウド実行型 Claude Code。PC を閉じても処理継続、GitHub 連携・PR 作成までスマホで完結。Pro 以上に含まれ追加課金不要。"
+      },
+      {
+        "name": "Mobile for Claude Code",
+        "url": "https://apps.apple.com/jp/app/mobile-for-claude-code/id6763599135",
+        "note": "App Store で既に提供されている個人開発の iOS クライアント。Grass と同じ「スマホから Claude Code」コンセプトで国内でも一定の認知。"
+      },
+      {
+        "name": "GitHub Codespaces",
+        "url": "https://github.co.jp/features/codespaces",
+        "note": "クラウド開発環境の本命。月60時間無料枠、超過後1時間26円。VS Code Web でスマホ操作可、Claude Code を立てればモバイル開発環境として競合する。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "BYOK でユーザー API キー・コードを Grass サーバーに送らない設計なら個情法上の取得・委託の論点は限定的。ただし VM 上で扱うコードに第三者個人情報が含まれる場合は委託元の管理責任が及ぶ可能性があり、利用規約で明確化が必要。"
+      },
+      {
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "アプリ・Web から外部送信される情報（解析・通知）について Cookie 等規律の対象になりうる。BYOK でも通知・テレメトリのオプトアウトと公表事項対応は必要。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "通知メール・マーケメール送信時に同意取得・配信停止導線が必要。プッシュ通知中心なら影響は小さいが、アカウント関連メールは適用対象。"
+      }
+    ],
+    "opportunity": "Claude Code の日本ユーザーが急増しており、外出先・移動中のエージェント監視ニーズは顕在。隙間として「日本人開発者向けの軽量プッシュ + 日本語通知 + Slack/Discord 連携」「自宅マシン経由のセルフホスト VM をリレーするだけのモバイルアプリ（Daytona 課金ゼロ）」が考えられる。ただし Anthropic 公式 Remote Control + Claude Code on the Web の二段構えに対し、独自 VM 提供で差別化するのは個人開発では困難で、むしろ Anthropic 公式の上に乗る “通知・キュー・チーム共有” レイヤーに振った方が筋が良い。",
+    "rationale": "需要は確かに存在し日本語コンテンツも増えているが、Anthropic 公式の Remote Control と Claude Code on the Web が同じ問題を無料で解決しており、個人サービスの存在余地は急速に圧迫されている。BYOK・規制・ローカライズ面のハードルは低く参入そのものは容易だが、競合密度が決定的に高い。「watch」レベル：自分で同種プロダクトを立ち上げるよりも、Claude Code/OpenCode 周辺の補助レイヤー（通知集約、Slack 連携、許可ポリシー管理など）に絞った形なら国内ニッチに刺さる可能性。VM プロビジョニング自体は Daytona/Codespaces に任せる方向が現実的。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "Claude Code Pro 月3,100円・Cursor $20・Copilot $10 と既に複数の月額が積み上がっており、追加で VM/モバイルにもう一本課金させるハードルは高い。日本人開発者は無料枠と買い切りを好む傾向が強く ARPU 期待値は低め。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "日本の IT エンジニア数は 100 万人規模だが、Claude Code を日常使い & スマホでも操作したい層はその数%。さらに月額課金可能層に絞ると数千〜1万人台のニッチ TAM。根拠未確認だが Claude Code 国内有料層は数万人規模との推定が複数記事に散見。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Qiita・Zenn・note・X 個人発信・Product Hunt 経由のリーチが既に確立しており PLG は可能。BYOK・freemium の構造はオーガニック獲得と相性が良い。ただし対象層が技術メディアの先端層に偏り規模が頭打ち。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "Anthropic 公式 Remote Control が既にリリース済み、Claude Code on the Web も提供開始済み。本家進出は「将来」ではなく「すでに完了」しており時間窓はほぼゼロ。Apple Xcode への Anthropic/OpenAI エージェント統合も 2026/02 に発表。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "VM プロビジョニング・Daytona 課金・SSE 同期・iOS アプリ審査・通知配信・支払い処理など個人運用には重い。24/7 稼働の VM をホストする以上、SLA 期待値も高くカスタマーサクセス負荷大。"
+      }
+    },
+    "rationale": "事業性は厳しい。最大の問題は timing で、Anthropic 公式が同じ機能を Pro プラン内で提供している以上、独立プロダクトとしての価格付けが成立しにくい。日本市場では複数の AI ツール課金が既に発生しており、上乗せ ARPU を取りにくい。市場規模も Claude Code 課金者のさらに一部に限られ、TAM は数千人規模が現実的。GTM 自体は PLG が機能する領域だが、それで集めた顧客の LTV が低いと VM コストで赤字化するリスクがある。個人運用継続も難しく、Daytona 依存の SLA リスクと iOS 審査オーバーヘッドが恒常的に効く。総合的に「個人開発者が自前で同種を作るのは推奨できない」レベル。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2000,
+      "plans": [
+        "Free: GrassVM 月10時間まで、BYOK 必須、並列1スレッド",
+        "Pro: ¥1,980/月 — VM 月50時間、並列5スレッド、通知無制限",
+        "Self-host: ¥980/月 — 自前 Mac/サーバー接続のみ、VM 提供なし（Daytona コスト回避）",
+        "Team: ¥4,800/ユーザー/月 — チーム共有、Slack 連携、監査ログ"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内で Claude Code / OpenCode を月額課金して日常使いし、かつ通勤・移動時間にも開発フローを継続したい個人開発者・副業開発者・小規模スタートアップ CTO。BYOK・セキュリティ意識が高く、Anthropic 公式 Remote Control の機能差分に課金できる先端層。",
+      "target_count": 5000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 200000
+    },
+    "recommended_gtm": [
+      "Qiita / Zenn での Claude Code 周辺記事連載（リモコン比較・通知設計）",
+      "X 個人発信（日本人 Claude Code インフルエンサーへのスポンサー）",
+      "Product Hunt の日本フォロワー経由オーガニック",
+      "OSS としてコア（CLI 部分）を公開し GitHub Trending 狙い",
+      "Claude Code 公式 Discord / コミュニティでの軽い言及"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Anthropic 公式 Remote Control と Claude Code on the Web が既に同領域を無料カバーしており、追加課金の正当化が極めて困難。新機能を入れても公式が後追いすると消える。",
+      "Daytona 等の従量 VM コストが無料枠ユーザー比率次第で赤字化。10h/月配布は CAC 視点では魅力的だが LTV が伴わないと持続不可能。",
+      "iOS ネイティブアプリ運用は審査・通知・課金（IAP 30%）のオーバーヘッドが個人運用には重く、Android 未対応で TAM 半減。",
+      "BYOK は安心材料だが、VM 上で実行されるコード経由のセキュリティ事故（マルウェア注入、データ抜き出し）が発生した場合の責任範囲が不明確で個人運用ではリスクが高い。",
+      "Claude Code / OpenCode の仕様変更（CLI 引数・SSE プロトコル）に追従し続けるメンテ負荷が恒常的に発生する。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T21:24:26Z",
+  "review_guide_at": "2026-05-25T21:24:26Z",
+  "business_viability_at": "2026-05-25T21:24:26Z",
+  "advisor_view_at": "2026-05-25T21:24:26Z"
+}

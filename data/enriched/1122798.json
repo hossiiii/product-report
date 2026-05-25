@@ -1,0 +1,247 @@
+{
+  "name": "Avina",
+  "description": "GTM Agents to Find and Reach Your Next Customer",
+  "ph_url": "https://www.producthunt.com/products/avina-2/launches/avina-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/7P5YI2HVI7WADA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-19T07:01:00Z",
+  "upvotes": 221,
+  "comments": 27,
+  "topics": [
+    "Sales",
+    "Marketing",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p><br>We’re Vivek and Mike, co-founders of Avina.<br><br>We built Avina because the bar in go-to-market keeps rising, but tools haven't kept up. Buyers ignore generic emails and poorly targeted ads, yet most prospecting and automation platforms still hand you broad lead lists and noisy \"signals.\" Running GTM intelligently means duct-taping tools and complex workflows together yourself.</p><p></p><p>Avina does it for you. The best GTM starts when buyers actually have a reason to care, so Avina finds the right people at the right moment and helps you get in front of them wherever they are.</p><p></p><p><strong>How it works:</strong></p><ol><li><p>Describe the kinds of leads that need your product and the triggers that suggest they're ready to buy, all in plain English.</p></li><li><p>Avina finds those leads, enriches them with verified contacts, scores them against your ICP, and refreshes your audience daily.</p></li><li><p>Then it gets you in front of them across personalized AI emails, hyper-targeted ad audiences, and ABM campaigns.</p></li><li><p>Everything syncs back to your CRM and Slack.</p></li></ol><p><strong>A few examples you can try:</strong></p><ul><li><p>\"Healthcare companies that had a data breach in the last 6 months\"</p></li><li><p>\"Prospects who spent 30+ seconds on our pricing page in the last 2 weeks\"</p></li><li><p>\"Insurance carriers that acquired a competitor in the last 90 days\"</p></li><li><p>\"Companies whose filings mention efficiency initiatives and are hiring ops roles\"</p></li></ul><p>Website de-anonymization (RB2B, Vector, Clearbit, and more) is included out of the box, so you can act on first-party intent too.</p><p><br><strong>The goal:</strong></p><p>Go from signal to warm lead to relevant outreach across every channel your buyers live on, without duct-taping ten tools together.</p><p></p><p><strong>PH-exclusive deal:</strong><br>15% off for six months<br><br>We’ll be in the comments all day and are excited to hear what you think!</p>",
+      "votesCount": 30,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch! Awesome team!!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats Vivek and Mike! I’ve used Avina at both of my last two companies and it provides such fantastic intelligence and customer buying signals.</p><p></p><p>Keep it up team!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Find and reach the leads who need your product. Define your ICP and buying triggers, and Avina tracks signals across the web, LinkedIn, job posts, site visitors (RB2B, Vector, and Clearbit built in), and more. Every lead gets enriched with target contacts and scored against your ICP, then rolled into live audiences that refresh daily. Then Avina automatically runs personalized AI email and ABM campaigns, integrated with your existing tools, to reach them wherever they are.",
+  "featured_at": "2026-04-19T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/bfc819b7-7681-4681-9e71-84f424b31fb0.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a9ceb23e-ccdf-47f3-ab3d-0d235c6fbdf6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a690ead6-838d-49b0-a2f4-c6b7a17ab33c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/77e4e6f3-97af-40b6-be08-ad63dde0aed2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/003d80ef-5e3d-4459-9b79-46b81ea4c7c1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ff62064a-93cf-485a-a94f-9feceb40a422.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/f6a99843-724b-42bb-831f-b189b8956dbb.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:16",
+  "landing_meta": "AI Sales Intelligence for GTM Teams | Avina — Avina is an AI-powered go-to-market platform that helps B2B sales teams find, prioritize, and engage high-intent prospects using real-time buying signals.",
+  "landing_text": "AI Sales Intelligence for GTM Teams | Avina GTM Agents to Find and Reach Your Next Customer Avina is an AI agent platform that uses buying signals to help B2B sales teams find, prioritize and automate outreach to prospects that are actually in-market. FIND LEADS THAT NEED YOUR PRODUCT Describe the buying signal you want to create... Find Prospects Need inspiration? Browse our signals library Trusted by hundreds of B2B sales teams Stop chasing cold leads. Start closing warm ones. Avina monitors your entire TAM for buying intent, scores every signal with AI, and triggers the right action so your reps only spend time on accounts ready to buy. Find leads that need you. Avina tracks signals across the web, LinkedIn, job posts, and your site visitors, with RB2B, Vector, and Clearbit built in. Live audiences refresh daily as new signals fire. R Ramp Sarah Kim · CRO — Score and enrich them. Avina scores every account for ICP fit, then finds target contacts at those companies and enriches them with verified contact details. No juggling multiple data providers. AI sequences Ad audiences ABM segments Traditional sequences Reach them on every channel. Avina drafts and sends AI sequences, builds hyper-targeted ad audiences, syncs ABM segments, and feeds traditional sequences in your existing tools. Synced to CRM Sync back to your stack. Push enriched contacts, live signals, and account scores into your CRM and Slack in real time, or trigger webhooks to any tool that supports them. “ Avina delivers real-time signals on key accounts: activity, context, and insights our reps can turn into action. Right persona. Right time. Right message. Game-changer. ” Axel Billaud Revenue Operations HOW IT WORKS Find. Prioritize. Automate. Track key buying signals, enrich the right contacts, score accounts with AI, and trigger outreach automatically. Find Prioritize Automate Integrate Find every in-market lead. Avina’s AI Signals Agent continuously scans first-party, third-party, and web data to ",
+  "pricing_signals": [
+    "free trial",
+    "pricing",
+    "$1",
+    "$6",
+    "$12",
+    "$16",
+    "$4"
+  ],
+  "landing_fetched_at": "2026-05-26T04:34:18",
+  "description_ja": "B2B営業向けAIエージェント。買い手の購買シグナルを検知し、リード抽出からAIメール・広告配信まで自動化する。",
+  "summary_ja": "Avinaは自然言語でICPと購買トリガーを定義すると、Web・LinkedIn・求人・自社訪問者などからシグナルを集めてリードを抽出し、ICPスコアリング後にAIメール・ABM広告・CRM同期まで自動実行するGTM AIエージェントSaaS。",
+  "tldr_ja": "国内はSales Marker/FORCAS等が既に飽和、Cookie規制・LinkedIn普及4%・人脈商習慣もあり、個人開発での日本市場参入は非現実的。",
+  "review_guide_ja": {
+    "what": "AIシグナルエージェントがWeb・LinkedIn・求人投稿・SEC開示・サイト訪問者(RB2B/Vector/Clearbit内蔵)など第一者/第三者データを継続スキャンし、自然言語で定義したICPと購買トリガー(例:データ侵害発生、求人増、競合買収)に合致する企業/担当者を抽出。連絡先を補強しICPスコア化、日次更新オーディエンスを生成。AIメール配信、超ターゲティング広告オーディエンス構築、ABMセグメント同期、既存配信ツール連携、CRM/Slack書き戻し、Webhook出力までを一気通貫で行う。複数のセールステック(エンリッチ・シーケンス・広告・SDR)を1製品で代替する位置付け。",
+    "for_who": "中堅以上のB2B SaaS RevOps/グロース/SDRチーム。CRM(Salesforce/HubSpot)導入済みで、複数のエンリッチ・配信・広告ツールを統合運用したい組織。個人開発者や小規模チームは想定顧客外。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "シグナル収集(LinkedIn・求人・10-K等)、複数エンリッチ波状連携、Web訪問者特定、ABM広告同期、CRM双方向同期と、要素技術もデータライセンスも極めて重い。データ仕入だけで月数万ドル規模。"
+    },
+    "signals": [
+      "Ramp等の有名顧客ロゴ表示で信頼性訴求",
+      "RB2B/Vector/Clearbitを内蔵=Webサイト訪問者特定をネイティブ提供",
+      "創業者は2社で実利用した既存顧客の推薦コメント",
+      "自然言語ICP定義というUX上の差別化",
+      "Product Hunt 221 upvotes(2026/04/19)で米国RevOps層の関心は確認"
+    ],
+    "concerns": [
+      "AIシグナル/メール領域はClay,Apollo,11x,Regie,Outreach,Salesloftで激戦",
+      "RB2B型de-anonymizationは日本の改正電気通信事業法外部送信規律に抵触リスク",
+      "LinkedInシグナルはLinkedIn ToS違反スクレイピングの可能性が常に懸念",
+      "日本市場ではSales Marker/FORCAS/SalesNow/LeadPool等が同じバリュープロップで先行",
+      "個人開発で再現するのは事実上不可能(データ・人員・SLAの規模感)"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内では「インテントセールス」というワードがSales Markerにより市場化済みで、購買シグナル起点のB2B営業ニーズ自体は顕在。MA市場は2026年予測210億円、SaaS市場1.6兆円規模で営業効率化需要は強い。ただし新規プレイヤー需要というより既存ツール置換需要。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Sales Marker・FORCAS(Speeda)・SalesNow(法人560万社網羅)・LeadPool(500万社+700万人決裁者)・BowNow(MAシェア22.8%)等が同領域に密集。HubSpot/Pardot/Marketoも普及済み。AI営業エージェント(アポドリ等)も登場済み。完全な飽和市場。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "RB2B/Clearbit型のWeb訪問者特定機能は2023年6月施行の改正電気通信事業法「外部送信規律」で事前通知義務、個情法でCookie/個人関連情報の第三者提供制限あり。特定電子メール法のオプトイン規制で大量コールドメール送信は罰則対象(法人3000万円以下)。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "国内企業データベース(法人番号、業種コード、決裁者DB)、日本語AIメールトーン、日本のCRM/SFA連携(Sansan,kintone,Salesforce JP),日本語LinkedIn(普及率4.2%しかなく代替シグナル必要),求人サイト(Indeed,リクナビ)対応など、深いローカライズが多領域で必要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本B2Bは紹介・人脈・展示会経由の比率が依然高く、コールドメール/広告アウトバウンドへの嫌悪感が強い。LinkedIn普及率4.2%でLinkedInシグナルが弱い。エンタープライズ営業は対面/紹介中心の商習慣で、AI自動アウトリーチのROIが米国ほど出にくい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Sales Marker",
+        "url": "https://sales-marker.jp/",
+        "note": "国内初の「インテントセールス」プラットフォーム。520万社DB+検索行動インテント+自律型AI。最低月額40万円規模のエンタープライズ価格帯。Avinaと最も直接的に競合。"
+      },
+      {
+        "name": "FORCAS (Speeda)",
+        "url": "https://forcas-sales.com/",
+        "note": "ユーザベース傘下、コンテンツインテント型の国内代表。企業データベース+ABM分析。大手B2B SaaSが多数導入。Avinaのスコアリング/ABM領域と直接競合。"
+      },
+      {
+        "name": "SalesNow",
+        "url": "https://salesnow.jp/",
+        "note": "AI搭載企業DBクラウド。法人560万社・1400万件、国内法人網羅率100%。Salesforce連携。Avinaのリスト/エンリッチ機能と競合。"
+      },
+      {
+        "name": "LeadPool",
+        "url": "https://leadpool.jp/",
+        "note": "株式会社Mer提供。500万社+700万人決裁者DBを組み合わせた次世代AIリードDB。Avinaのコンタクト発見機能と競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "改正電気通信事業法(外部送信規律)",
+        "impact": "2023年6月施行。Webサイト訪問者特定(RB2B/Vector/Clearbit的機能)で第三者送信タグを用いる場合、利用者への事前通知/同意取得が必須。Avinaの「Website de-anonymization内蔵」機能は国内サイトに導入する顧客側で外部送信規律対応が必要となり、導入摩擦になる。"
+      },
+      {
+        "law": "個人情報保護法(改正)",
+        "impact": "Cookie等の個人関連情報を第三者に提供して個人データと突合する場合、本人同意確認が必要。RB2B的なpersonレベル特定は実質的に個人データ取扱いとなり、利用目的公表・第三者提供記録義務が発生。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "営業目的メールはオプトイン原則。名刺交換・取引関係・自社サイト公表のみ例外。Avinaが想定する大量AIメール配信は、リードリストの取得経路により違法となる可能性。違反は1年以下の懲役/100万円以下罰金、法人最大3000万円。"
+      }
+    ],
+    "opportunity": "日本市場でやるなら、Avina全機能の劣化コピーではなく、(a) 日本企業データ(EDINET, 法人番号, 求人媒体, ものづくりニュース等)に特化した日本専用シグナルカタログ、(b) コールドアウトリーチではなく既存顧客アップセル/クロスセル向けのインテント検知に振る、(c) 中小企業の手作業リスト作成を自動化する低価格Tier(月3-5万円)に絞る、のいずれかの角度。ただし既にSales Marker/SalesNow/LeadPoolが領域を覆っているため、明確な差別化が必要。",
+    "rationale": "Avinaが解く課題(購買シグナル起点の効率的GTM)自体は日本でも需要顕在で、Sales Markerが市場教育を済ませている。しかし日本市場には同じバリュープロップで先行する国産プレイヤーが既に4-5社存在し、価格レンジ(エンタープライズ月数十万円)も近く、企業データカバレッジでは国内勢が圧倒的優位。さらにRB2B型ウェブ特定は改正電通法で導入摩擦、LinkedInシグナルは普及率4.2%で機能せず、コールドメールは特電法/商習慣の両面で逆風。Avinaをそのまま日本展開しても勝ち目は薄く、日本進出するなら大規模ローカライズと国内DB連携が必須。個人開発者視点では、エンタープライズGTMツールという領域自体が再現困難。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "B2B営業領域のSaaSはARPUが高く、Sales Markerは最低月40万円、HubSpot Pro月10万円、Marketo数十万円と課金実績豊富。日本企業も営業効率化には支払う。ただし個人開発者が同じARPU帯で売るには信頼性・データ品質・サポート体制が必須で、参入障壁は高い。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内MA市場2026年予測210億円、B2B SaaS市場1.6兆円、対象法人400万社超とTAMは存在。しかし上位3-5社で過半を占める寡占構造で、新規参入の獲得可能シェアは小さい。中小企業向け低価格セグメントなら拡張余地はある。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "エンタープライズB2B営業ツールはPLGが効きにくく、コンサル+カスタマーサクセス+CRM導入支援が必須。Sales Markerでさえ「3か月のプロ伴走」を売り。個人開発者が単独で営業・導入・教育を回すのは事実上不可能。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "国内インテントセールス領域はSales Markerが2023年頃から市場教育、2026年現在は導入企業が拡大フェーズで競合密集。AI営業エージェント(アポドリ等)も多数登場済み。Clay/Apolloの日本進出やSales Markerの機能拡張で時間窓は急速に閉じている。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "シグナルパイプライン(LinkedIn/求人/Webクローラ)の24/7監視、エンリッチAPI(複数社waterfall)のコスト管理、CRM双方向同期の障害対応、エンタープライズSLA(99.9%+)、データ品質クレーム対応など、個人運用には致命的に重い。OPEXもデータ仕入で月数百万円規模。"
+      }
+    },
+    "rationale": "Avinaが取り組む領域はARPUが取れる事業領域だが、日本での事業成立性は個人開発者視点では極めて低い。市場は寡占で時間窓も既に閉じ、エンタープライズ営業GTMが必須、データ仕入と運用コストが個人レベルを大きく超える。仮に日本進出するならVC調達済みのチームによる正面突破か、ニッチ特化(例: 製造業向け展示会連動インテント、士業向けRFP検知など)に絞らないと勝ち目はない。個人開発者が同領域に挑むこと自体を非推奨。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 50000,
+      "plans": [
+        "Starter: ¥50,000/月 - 月500リード抽出+AIメール100通",
+        "Growth: ¥150,000/月 - 月5000リード+広告オーディエンス+CRM連携",
+        "Enterprise: ¥400,000+/月 - 無制限+ABM+専任CS"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本のB2B SaaS・IT受託・人材紹介の中堅企業RevOps/インサイドセールス部門(従業員50-500名、Salesforce/HubSpot導入済み)。Sales Marker等を高額で諦めた層を狙う中価格帯ポジション。個人開発で挑む場合は領域自体を再考すべき。",
+      "target_count": 3000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 450000
+    },
+    "recommended_gtm": [
+      "個人開発では非推奨。仮に挑むなら、Qiita/Zenn技術記事(プロンプト・API活用)経由のRevOps層獲得",
+      "X(旧Twitter)でSales Marker/FORCAS導入企業のRevOps担当へリプライ営業",
+      "セールスイネーブルメント領域のコミュニティ(SalesZineイベント等)登壇",
+      "国内SaaSベンダーとのアフィリエイト/レベニューシェア提携",
+      "中小企業向け補助金(2026デジタル化AI導入補助金)経由の販路"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "国内競合(Sales Marker/FORCAS/SalesNow/LeadPool)が既に飽和。同じバリュープロップで後発参入する勝ち筋がない。",
+      "改正電気通信事業法外部送信規律でWeb訪問者de-anonymization機能が国内導入時に重い対応コスト。法務リスク常時付随。",
+      "エンタープライズ営業ツールはCS/SLA/データ品質保証が必須で、個人運用では信頼性が確保できず解約が頻発する。",
+      "データ仕入(Apollo/ZoomInfo/LinkedInライセンス等)のCOGSだけで月数十万円以上、個人開発の損益分岐に到達不可能。",
+      "LinkedIn普及率4.2%で主要シグナルが日本では機能せず、Avinaの根幹バリューが日本では大幅に減衰する。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T19:43:49Z",
+  "review_guide_at": "2026-05-25T19:43:49Z",
+  "business_viability_at": "2026-05-25T19:43:49Z",
+  "advisor_view_at": "2026-05-25T19:43:49Z"
+}

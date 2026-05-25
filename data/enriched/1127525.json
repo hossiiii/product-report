@@ -1,0 +1,239 @@
+{
+  "name": "Magic Patterns Agent 2.0",
+  "description": "The best AI design agent to go from idea to production",
+  "ph_url": "https://www.producthunt.com/products/magicpatterns/launches/magic-patterns-agent-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/I7BSFMORY72OEB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-23T07:01:00Z",
+  "upvotes": 348,
+  "comments": 31,
+  "topics": [
+    "Design Tools",
+    "Prototyping",
+    "Vibe coding"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt! We're back with our 5th launch ever!</p><p></p><p>Today, we're launching <strong>Magic Patterns Agent 2.0</strong>, the culmination of 3 years of observing real customer workflows and AI design use cases.<br><br>Every day, a new AI design tool comes out, but Magic Patterns is battle-tested. Our first launch ever was 3 years ago on this website, and today 1,500+ product teams at companies like Granola, Vanta, and Freedom Mortgage use Magic Patterns to go from idea to production.</p><p></p><p>With Magic Patterns, designers, PMs, and founders use their company's <em>real</em> design system to create interactive mockups and hand off to engineering.<br><br>Today, on Magic Patterns, we're announcing:</p><ul><li><p><strong>Skills</strong>: drop in any SKILL file to give our AI agent specialized instructions on demand</p></li><li><p><strong>Connectors</strong>: pull in context from your favorite tools</p></li><li><p><strong>MCP 2.0:</strong> export production-ready code to your coding agents with our MCP.</p></li></ul><p>We've also made several improvements to our Agent. In our eval harness, we're seeing it use 15% fewer credits, 10% faster time-to-first-token, and an 8% performance improvement (measured by error rate). Agent 2.0 gives you faster, more reliable outputs at lower cost.</p><p><br>We can't wait to see what you'll build with Magic Patterns. Happy prompting!<br><br>P.S. It feels so good to be back on Product Hunt!</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Daily user of MagicPatterns here. It has (NEARLY) completely replaced my need for Figma. I'm ALSO a heavy user of Claude Code - but there's nothing like going from one single prompt to a visual working prototype. And no tool does it as well as MagicPatterns - for the product designers workflow(IMO). I'm also a Lovable user - but for different use cases. When I'm in Design Mode -&gt; I choose MagicPatterns. When I'm in - hack on this backend/scripting problem -&gt; Claude Code. When I want to whip up a full stack app fast that I think I'll take to market -&gt; probably Lovable. But again - besides <strong><em>MAYBE</em></strong> v0 - no one has been at this AS long - and with AS much of a customer obsession as Alex and Teddy at MagicPatterns. Big big fan.</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Absolutely recommend magic patterns from the bottom of my wallet ❤️</p><p></p><p>The ROI of having a tool like this in the teams' pocket is immense. Your imagination is the limit. It's not only prototypes, but videos,</p><p><a href=\"https://www.linkedin.com/posts/jorgeakairos_product-context-gets-fragmented-fast-calls-ugcPost-7453103110559989760-RLi1?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAA3wf1oBsjKvFE7YMZDQsQwLLZx-AYoUh6o\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.linkedin.com/posts/jorgeakairos_product-context-gets-fragmented-fast-calls-ugcPost-7453103110559989760-RLi1</a><br></p><p>local tools,</p><p><a href=\"https://www.magicpatterns.com/c/5yywrafwujevlik1ljzqp7/preview\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.magicpatterns.com/c/5yywrafwujevlik1ljzqp7/preview</a></p><p></p><p>and even games...<br><a href=\"https://project-anarchy-cookbook.magicpatterns.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://project-anarchy-cookbook.magicpatterns.app/</a></p><p><br>This team ships 🚀<br><br>And they're also great people. Los máximos!</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "AI design tool to create prototypes using your existing styles and design system, handoff to engineering, and build software faster.",
+  "featured_at": "2026-04-23T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/e6157141-4247-4114-86df-9983dc775157.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7e832d5e-c32c-4eed-8edc-35ebaad97adc.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/09e5d611-a462-4afa-8651-d3190580c840.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2d6d6c70-b27d-49fe-aeb6-df612ee29c6e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a5efef9b-4bab-479c-a838-9d4fea3d58c0.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/d116e7a2-aaa1-47da-ac6a-60cc149dfae3.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:15",
+  "landing_meta": "AI Prototype Generator for Product Teams | Magic Patterns — AI prototyping tool to turn prompts into production-ready UI. Use your design system, generate prototypes fast, and collaborate.",
+  "landing_text": "AI Prototype Generator for Product Teams | Magic Patterns Discover your next feature Discover your next breakout feature Go from idea to production, get user feedback, and build prototypes. The AI design tool for product teams. Recreate a screenshot Clone LinkedIn Landing page Redesign this Create a slide deck Trusted by product teams at Read the case study Read the case study Read the case study Read the case study Read the case study Read the case study Read the case study Read the case study 00:00 Iterate Faster Prototype new features with AI Magic Patterns generates UI that matches your existing product and allows you to explore new ideas in minutes. Design System Match your existing designs Copy your existing app and match your exact styling perfectly. Import your design system for consistent enterprise prototyping. Button Rapid Prototyping Build an experimentation culture Experiment more Prototype new features and test directly with your customers. Team Collaboration Collaborate with design & engineering Real-time multiplayer Edit, share, and iterate live on designs with your team. Secure & Compliant Enterprise ready for your business Enterprise ready Keep your prototypes secure and compliant. See what others are building. 1,000,000+ designs created by our community. View more ↗ Pixel Art Platformer 8 Interior Design Landing Page 5 Animated Lamp from Aceternity UI 4 COSMOS 5 Dock-like Button Component 1.7k Mindfulness Cards 1 Transaction Details on Map 1 Dynamic Restaurant Landing Page 8 Kumo Izakaya Landing Page 10 Interactive Profile Card with Tilt Effect 8 Photorealistic Chessboard with Animated Pieces 9 Kanban Board with Draggable Cards 1.1k See what others are saying. Join 100,000+ others building their ideas. Read more about our customers ↗ Frequently Asked Questions What is Magic Patterns? Magic Patterns is an AI prototype generator and AI prototyping tool that helps product teams go from idea to production, get user feedback, and build prototypes faste",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "premium",
+    "$20",
+    "$100",
+    "$1",
+    "$16",
+    "$21",
+    "$22",
+    "$31",
+    "$49",
+    "$4"
+  ],
+  "landing_fetched_at": "2026-05-26T04:00:17",
+  "description_ja": "アイデアから本番実装まで運べるAIデザインエージェント。プロトタイプ生成の決定版",
+  "summary_ja": "自社のデザインシステムを読み込ませ、テキスト/画像/Figmaから対話的にUIプロトタイプを生成、Reactコードで書き出してエンジニアに引き渡せるAIデザインエージェント。Skills/Connectors/MCPで外部ツール連携も拡張",
+  "tldr_ja": "v0/Lovable/Bolt等と真っ向競合する強カテゴリ。日本市場に独自開発の余地は薄く、個人開発では追随困難",
+  "review_guide_ja": {
+    "what": "テキスト・スクリーンショット・Figmaファイルから対話的にUIプロトタイプを生成するAIデザインエージェント。自社の既存デザインシステムを取り込ませて一貫したスタイルでコンポーネントを量産でき、Reactコードとして書き出してエンジニアに引き渡せる。Agent 2.0でSkills（タスク特化指示ファイルの読み込み）、Connectors（外部ツールからのコンテキスト取得）、MCP 2.0（コーディングエージェントへの本番品質コード出力）に対応。主用途はPM/デザイナー/創業者による新機能のラピッドプロトタイピング、A/Bテスト用UIの量産、エンジニアリングへのハンドオフ、社内向け簡易ツール作成、スライド/ランディング生成など。",
+    "for_who": "1,500+の製品チーム（Granola, Vanta, Freedom Mortgage等）が利用。デザインシステムを持つ中規模以上のSaaS企業のプロダクトチーム（PM/デザイナー/エンジニア）、社内ツールを高速で試作したいスタートアップ創業者、Figma中心ワークフローから脱却したいプロダクトデザイナーが主ターゲット。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "コア機能はLLM+デザインシステム解析+Reactコード生成。技術的にはClaude/GPTで実装可能だが、品質・速度・既存デザインシステム取り込みの精度を3年磨いた本家との競合は個人開発では極めて困難。"
+    },
+    "signals": [
+      "5回目のローンチ、3年継続して顧客と共に磨き込んだ実績",
+      "Granola・Vanta等の知名度ある製品チーム1,500+が採用",
+      "Agent 2.0でクレジット消費15%減・性能8%改善という具体的指標を公表",
+      "Skills/Connectors/MCPで2026年のエージェント潮流に対応",
+      "Product Hunt上位（348 upvotes / 31 comments）かつ熱量の高い擁護コメント複数"
+    ],
+    "concerns": [
+      "v0(Vercel)・Lovable・Boltという潤沢な資金とブランドを持つ直接競合が同カテゴリで群雄割拠",
+      "Figma自体がAI機能（Figma Make等）を強化中で、ワークフローが本家側に吸収されるリスク",
+      "デザインシステム取り込みという差別化点はB2Bエンタープライズ要件で、個人開発の射程外",
+      "コード生成品質はベースLLMに依存し、上位モデル更新時に競争優位が一気に失われやすい",
+      "credit制+月額$20-$100の二段課金は日本企業の稟議には説明しづらい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "Figmaは日本が全世界で売上成長率トップ、上場225社の約1/3が導入、楽天/LINE/富士通等の大手も採用済み。デザインシステム事例（SmartHR/Spindle/メルカリ/楽天ReX）も豊富で、AIプロトタイピング需要の土壌は明確に存在する。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "v0(Vercel)・Lovable・Bolt・Magic Patterns本家・Figma Makeが既に日本語のnote/Qiita記事で広く紹介されており、日本語UIや決済(USDのまま使用可)も実用上問題なし。新規参入の余地は極めて薄い飽和市場。"
+      },
+      "regulation": {
+        "score": 10,
+        "reason": "ユーザー生成コードのホスティングと支払い処理のみで、特商法/個情法の通常対応で完結。金商法/医療/古物等の業規制は無関係。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UI/プロンプトの日本語対応は技術的に容易だが、生成UIの日本語フォント美観・縦書き・全角混在レイアウト・日本のビジネスフォーム慣行(押印欄/振込先表記等)への最適化は本家が手薄な領域で、ここが唯一の差別化余地。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本のエンタープライズはSlack/Figma/Notion同様にProduct Led Growthで浸透する事例もあるが、稟議・SSO・データ国内保持・ベンダー審査が壁。個人開発者がエンタープライズ販売をやり切るのは厳しい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "v0 by Vercel",
+        "url": "https://v0.dev",
+        "note": "React UI生成のカテゴリリーダー。日本語note/Qiita記事多数で日本人開発者の認知も高い。Vercel本体は日本リージョンあり実質ローカル運用可能。"
+      },
+      {
+        "name": "Lovable",
+        "url": "https://lovable.dev",
+        "note": "フルスタックAIアプリビルダー。日本語UIも実装済みで、AIツールギャラリー等が日本人向け解説を多数公開。デザイン品質で高評価。"
+      },
+      {
+        "name": "Bolt.new",
+        "url": "https://bolt.new",
+        "note": "ブラウザ内Node.js実行を強みとするフルスタック寄り。日本語比較記事多数で個人開発者層への浸透が進む。"
+      },
+      {
+        "name": "Figma Make / Figma AI",
+        "url": "https://www.figma.com",
+        "note": "Figma本体のAI機能。日本市場でFigmaは既にデファクト、ワークフロー連続性で最も強力な競合になり得る。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "ユーザーが生成プロンプトに顧客情報や社内データを入れる可能性があり、AI処理基盤の所在地と委託先管理を明示する必要がある。日本企業向けエンタープライズ販売では国内データ保持要件も追加負担になる。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "月額/年額サブスクリプションのため特商法表記、自動更新の事前告知、解約導線の明示が必要。SaaS標準対応で済む軽微な要件。"
+      }
+    ],
+    "opportunity": "日本独自に差別化するなら『日本語UI最適化に特化したAIプロトタイピング』。本家の生成UIは日本語フォントの行間・約物・全角半角混在・縦書きや、申込書・帳票・押印欄・振込フォーム・年号(令和)・郵便番号フォーム・住所オートコンプリート等の日本固有UIパターンを綺麗に出せない。SmartHR/Spindle等の公開デザインシステムを学習させた『日本のB2B SaaSらしさ』に振り切ったテンプレ群を提供し、Qiita/Zenn/X発信で日本人デザイナーコミュニティを獲得する角度なら微かに勝機がある。ただし参入コストに対するTAMは小さい。",
+    "rationale": "需要側はFigmaの日本での急成長・国内デザインシステム事例の豊富さ・Vibe Codingの認知拡大が示す通り顕在しており、市場の素地は十分。一方で競合側は本家Magic Patternsを含むv0/Lovable/Bolt/Figma Makeが既に日本語の解説記事や個人開発者コミュニティに広く浸透し、決済もUSDで支障なし。残された差別化軸は『日本語UI/日本のビジネスフォーム慣行への深い最適化』のみで、ここはB2BエンタープライズUI研究という重いR&Dを要する。個人開発で取りに行くにはROIが厳しく、総合では『静観』が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "日本のSaaS課金嗜好は月額3,000-10,000円が個人/小チーム帯のスイートスポット。本家は$20/$100と海外標準だが日本企業の稟議には説明が必要。日本特化版なら3,980円/9,800円の心理価格に寄せられるが、ARPUは伸びにくい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内UI/UXデザイナー約5,200人+PM/フロントエンドエンジニアを含めても潜在ユーザーは数万人規模。Figma導入企業の1/3を上限と仮定しても、有料化に進む比率は限定的で、ニッチ寄りの中規模市場。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PLG経路（個人デザイナーのX/note発信→チーム導入）は理屈上可能だが、本家がブランドで先行。Qiita/Zenn/X記事だけで本家以上のシェアを取るのは現実的でない。エンタープライズ販売は個人開発者には不可。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "本家Magic Pattersは既に日本語記事で紹介され、v0/Lovable/Bolt/Figma Makeも日本市場で浸透中。Figma自体が日本に法人を置きAI機能を積み増している現状、時間窓は実質ゼロに近い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "B2Bツールであるためエンタープライズの稟議対応・SSO/データ保持質問・SLA期待値が高く、個人運用は厳しい。LLM APIコストとレート制御も継続運用の負担になる。"
+      }
+    },
+    "rationale": "市場は存在するが既に強力な海外プレイヤーで埋まっており、日本特化で差別化できる範囲（日本語UI/帳票最適化）に絞ってもTAMが中規模・ARPUが伸びにくい・B2Bゆえ個人運用が重い、と三重苦。本家の追加機能リリースに常に追われる構造で、時間窓もほぼ閉じている。個人開発者の事業として推奨できる組み合わせではなく、本家を素直に使う方が合理的。仮に挑戦するなら『日本のB2B SaaSデザインシステムから帳票/フォーム/管理画面テンプレを生成する』など極端なニッチに振り切る必要がある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2980,
+      "plans": [
+        "Free: 月20生成・コミュニティテンプレ閲覧のみ",
+        "Pro: ¥2,980/月・月300生成・日本語フォント最適化・帳票テンプレ",
+        "Team: ¥9,800/月/3席・SSO・組織デザインシステム取り込み",
+        "Business: ¥39,800/月・SLA・国内データ保持オプション"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本のB2B SaaS企業のプロダクトデザイナー/PM、特に帳票・管理画面・申込フォームなど日本固有UIを多用するHRTech/FinTech/LegalTech領域のチーム。個人デザイナーよりも『日本語UIで困っているSaaSチーム』に絞る。",
+      "target_count": 3000,
+      "capture_pct_year3": 2.0,
+      "monthly_revenue_target_jpy": 178800
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn連載で『日本語UI生成の落とし穴と解決策』を技術発信し本家との差別化を可視化",
+      "X(旧Twitter)の日本人デザイナー/PMコミュニティで生成事例を継続投稿",
+      "SmartHR/メルカリ等の公開デザインシステムを使った帳票テンプレギャラリーを無料公開しSEO獲得",
+      "デザイン系勉強会(UI Crunch/Designship)でのスポンサー/登壇",
+      "個人デザイナーから1社1チームへの拡張を狙うPLGフロー(Free→Pro→Team)"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "本家Magic Patterns/v0/Lovable/Figma Makeが日本語UI最適化に少しでも対応した瞬間に差別化が消失する",
+      "Figma本体のAI機能(Figma Make)拡張により、Figmaを離れない大多数の日本デザイナーには届かなくなる",
+      "B2B SaaSはSSO/SOC2/データ保持要件が必須で、個人開発者では契約締結まで進めない",
+      "LLM API原価がARPUを侵食し、Pro ¥2,980/月では生成回数次第で赤字になる構造リスク",
+      "国内デザインシステム公開資産の利用に関する各社の利用規約・著作権整理が必要で、無断学習はブランド毀損リスク"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-26T04:30:00Z",
+  "review_guide_at": "2026-05-26T04:30:00Z",
+  "business_viability_at": "2026-05-26T04:30:00Z",
+  "advisor_view_at": "2026-05-26T04:30:00Z"
+}

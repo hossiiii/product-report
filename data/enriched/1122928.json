@@ -1,0 +1,257 @@
+{
+  "name": "RankAI",
+  "description": "RankAI autonomously gets you buyers from Google & AI Search",
+  "ph_url": "https://www.producthunt.com/products/rankai-2/launches/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/SWCJJYGQH4XRUK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-21T07:01:00Z",
+  "upvotes": 603,
+  "comments": 109,
+  "topics": [
+    "Marketing",
+    "SEO",
+    "Search"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Boyuan here, founder of RankAI. <br><br>My team and I have been heads down building in search for years. What's happening now is that SEO and AI search are wildly overpriced by people claiming they have some proprietary playbook or that they have “cracked” search, and half the time they deliver meaningless results.<br><br>What people do not tell you is that search is not deterministic. There is no formula where you do X, Y, and Z and magically rank on Google &amp; ChatGPT. That is just not how it works. After working with 200+ businesses and going through YC, what we learned is that the real way to win is iteration: find the right opportunities, publish, monitor reuslt, double-down on what works, and keep retrying for what didn't work.<br><br>So we built RankAI to do exactly that. And it's fully autonomous!<br><br>Check us out: <a href=\"https://rankai.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://rankai.ai/</a><br><br>You put in your website, and RankAI will:<br>- find the queries your customers already search on Google and AI search,<br>- conduct deep research into each sub-topic related to the query<br>- create optimized pages to target the query,<br>- track how each page performs,<br>- and rewrite them until they start working.<br><br>So instead of paying for a slow manual agency, or AI generate SEO slop, you get an engine that does everything iteratively to get you result. <br><br>A few outcomes:<br>An ecommerce skincare brand reached 1.2M search visibility in 3 months.<br>A consumer tech company grew search visibility 13x in just 2 months.<br>A B2B equipment company doubled organic traffic in 3 months after years of flatlined growth.<br><br>The future of organic growth is transparent and autonomous. RankAI is starting this wave.<br><br>Would love blunt feedback — what would make this more useful for you?</p>",
+      "votesCount": 28,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><br>I tested it, as we are currently working on GEO.<br></p><p>Technical SEO &amp; GEO - it suggests adding target=\"_blank\" and title=\"\" thousands of times on every page for links, even though all the links are internal.</p><p>Website Audit - everything passed.</p><p>Keywords - it showed the same ones as Ahrefs.<br></p><p>It's not very clear what needs to be done to improve positions in GEO. And external factors aren't taken into account at all.<br></p><p>Is this service more for beginners?</p><img src=\"https://ph-files.imgix.net/2e7f6c48-08f2-407e-9e9e-be4e408919e4.png?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p></p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>What's your stance on AI-generated content and Google's spam policies? How do you avoid getting penalized???</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "RankAI is the first SEO/GEO agent that truly works. It handles everything autonomously to drive you millions of visitors from Google & AI Search like ChatGPT. Drop in your website, and RankAI handles the rest: it finds high-intent queries your customers search on Google and ChatGPT, publishes optimized pages, tracks performance, and recreate pages iteratively until they get you visitors.",
+  "featured_at": "2026-04-21T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/fb050086-e465-4081-911e-ecfbda7d68ef.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c71e172a-03f9-428d-968d-babc36adb319.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e0eea3ad-e1c3-4d0e-a5c7-fce9bc54d357.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f728f250-c93a-4415-989d-9c308fab46eb.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e161147b-4027-4670-9f77-34405d38f0f8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1efabd5d-83a9-4312-a4a9-ea7f21f4525e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dd447c63-5370-4f91-9fcb-ef8a29aa6e86.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/43265621-583c-437e-b8c4-98e07456b9fd.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T03:46:26",
+  "landing_meta": "RankAI - AI SEO/GEO Agency — RankAI is the worlds first AI-native Agency for organic growth. It handles everything autonomously to drive you millions of visitors from Google & AI Search like ChatGPT. In other words, RankAI optimizes for both SEO & GEO.",
+  "landing_text": "RankAI - AI SEO/GEO Agency Backed by world-class investors Backed by investors RankAI gets you search visitors autonomously Unlock millions of buyers from Google and AI Search Get Started Trusted by 200+ Agencies & Ecommerce Businesses Livetinted TheRealest TryBree AtoB RentFlow Consentz MixBright CrossEven WeWeb SkillCat CureBase Mismo Livetinted TheRealest TryBree AtoB RentFlow Consentz MixBright CrossEven WeWeb SkillCat CureBase Mismo SEO + GEO Is Not a Fixed Playbook. We Run the Engine That Iterates Until It Works. From serving 200+ businesses, we found that SEO + GEO is won through iteration. RankAI uses a proprietary engine that continuously researches, publishes, measures, and rewrites until pages rank on Google and get cited by AI search. 1354% increase in search visibility Shortbread.ai +479 keywords on page 1 BuyUnityNow 5x increase in AI Mentions SkillCatApp 79% increase in organic traffic LiveTinted Proprietary Engine 200+ Businesses Served <30 days For Early Results Are you an agency? See how 50+ agencies deliver these results for their clients with RankAI. Learn more about Agency plans RankAI runs a proprietary engine, led by experts. Capturing Google and AI search traffic directly to your site 1 Expert-Led Research and Planning Human experts handle the highest-leverage work first — understanding your business, mapping the opportunity, and building the plan that powers the engine. Proprietary Knowledge Base We build a brand-specific knowledge base so the engine works from real business context, not generic SEO inputs. Growth Projections We project traffic upside using our proprietary model, trained from work across 200+ businesses. Search Opportunity We map the highest-value opportunities across Google and AI search. Engine Setup We configure the engine around your business, priorities, and search growth plan. rankai.ai/dashboard 2 Target keywords your customers already search RankAI conducts deep research to identify high-impact keywords that drive yo",
+  "pricing_signals": [
+    "pricing",
+    "$100",
+    "$1",
+    "$6",
+    "$7",
+    "$2",
+    "$35",
+    "$36",
+    "$37",
+    "$38",
+    "$39",
+    "$3"
+  ],
+  "landing_fetched_at": "2026-05-26T03:46:27",
+  "description_ja": "Google・AI検索から見込み顧客を自動獲得するSEO/GEOエージェント",
+  "summary_ja": "サイトURLを入れるだけで、顧客が検索しているクエリを発見し、最適化ページを公開・効果計測・自動リライトまで一貫実行する完全自動のSEO/GEOエージェント。GoogleとChatGPT等のAI検索の両方を対象に集客を回す。",
+  "tldr_ja": "国内SEO/GEO需要は強いが既存大手と国内GEO専門会社が乱立、価格帯も高く個人開発では太刀打ち困難。深追い不要。",
+  "review_guide_ja": {
+    "what": "サイトURLを入力すると、(1)顧客が実際に検索しているGoogle/AI検索クエリを発見、(2)各サブトピックを深掘り調査、(3)最適化ページを生成・公開、(4)各ページのパフォーマンスを追跡、(5)結果が出るまで自動でリライトを繰り返す、というイテレーション型のSEO/GEOエンジン。ChatGPT/Gemini/Google AI OverviewsでのAI引用を狙うAIスキーマ付与も含む。本質は『AI記事の量産+自動最適化+人手のオンボーディング』を月額契約で提供するハイブリッドAIエージェンシー。EC、B2Bサイトでの導入実績200社超。",
+    "for_who": "オーガニック集客を強化したい英語圏のEC事業者・B2B SaaS・コンシューマーテック企業。特に従来のSEO代理店に月数千ドル払って成果が出なかった層と、AI検索（ChatGPT等）での露出を狙うブランド。月額数百〜数千ドル支払える中堅以上が対象。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "AI記事生成・キーワード調査・ランクトラッキングの各要素は既存OSSやAPIで組合せ可能。ただし200社の運用知見、AI検索引用最適化スキーマ、自動リライト判定モデルなどの『運用ノウハウ』部分の再現が難所。"
+    },
+    "signals": [
+      "PHで603 upvote・109コメントと反応大",
+      "YC通過＋著名VCバック、200社超の運用実績",
+      "AI検索（GEO）と従来SEOを統合した数少ない自動化サービス",
+      "中堅代理店からの代替需要を明示的に狙う価格設計",
+      "AI記事ペナルティ懸念がPHコメントでも顕在化"
+    ],
+    "concerns": [
+      "Google 2026年3月コアアップデート以降、AI生成記事中心サイトの順位急落事例が多発",
+      "PHコメントで『内部リンクにtarget=_blankを大量提案』等の低品質指摘あり",
+      "$499〜$7,500/月と高価格帯。日本中小企業の月額相場(3〜10万円)とギャップ",
+      "GEOの効果測定が定性的で、ROI証明が依然困難",
+      "コアロジックは『AI記事生成+自動リライト』で参入障壁は中程度"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "国内SEO代行市場は月10〜50万円帯が主流で大きく、中小企業のSEO予算は年商5000万円企業で月3〜10万円が目安。GEO/AI検索最適化も2026年に急速に注目集めQiita/Zennでも頻出トピック。需要シグナルは強い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Keywordmap、ミエルカSEO、SEARCH WRITE等の国産SEO SaaSが既に普及、加えてGEO専門ではQueue Inc.(umoren.ai)、Protea、Nile、PLAN-B等14社以上が参入済み。Ahrefs/Semrush日本語UIも標準。飽和に近い。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "AI生成コンテンツ自体は違法ではないが、Googleスパムポリシー(大量自動生成)違反リスクと、景表法・特商法に基づく広告表現規制への適合が必要。コンテンツ品質を満たせば法的障壁は低い。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UIの日本語化に加え、日本語キーワード解析(共起語・助詞処理)、日本独自の検索意図(価格.com・知恵袋・SNS引用)、Yahoo!検索の特性などへの対応が必要。AI記事の日本語自然さチューニングは大規模改修要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業は完全自動化への信頼が薄く、コンサル伴走・月次レポート・対面MTGを期待。AIが勝手にサイトに記事を公開する仕組みは決裁者の心理障壁が高く、稟議も通りにくい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Keywordmap (CINC)",
+        "url": "https://keywordmap.jp/",
+        "note": "国産SEO/コンテンツ分析SaaS。キーワード選定〜AIライティング〜効果測定まで一貫サポート、ライト/スタンダード等の柔軟プラン。"
+      },
+      {
+        "name": "ミエルカSEO (Faber Company)",
+        "url": "https://mieru-ca.com/",
+        "note": "1,700社導入のクラウド型SEOツール、月額10万/20万円定額。AIで構成案・ライティング・ファクトチェック自動化。"
+      },
+      {
+        "name": "SEARCH WRITE (PLAN-B)",
+        "url": "https://searchwrite.jp/",
+        "note": "PLAN-B提供のSEOツール+専属コンサル。内製化支援に強く、中小企業の利用が多い。"
+      },
+      {
+        "name": "Queue Inc. umoren.ai",
+        "url": "https://queue-tech.jp/",
+        "note": "日本のGEO/AI検索最適化専門サービス。ChatGPT/Gemini/AI Overviewsでの引用最大化を訴求、2026年のGEO代表ベンダー。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法",
+        "impact": "AIが自動生成する商品紹介・成果訴求ページが優良誤認・有利誤認に抵触する恐れ。『millions of visitors』『13x growth』等の効果保証表現は国内では要注意。クライアントサイトの広告表記責任は最終的に事業者側だが、ツール側も注意喚起設計が必要。"
+      },
+      {
+        "law": "Googleスパムポリシー (準法的)",
+        "impact": "法令ではないがGoogleが2026年3月コアアップデート以降AI生成中心サイトを大幅減点。国内導入企業のドメイン評価が一夜で崩れるリスクがあり、解約・賠償請求トラブルの温床。"
+      },
+      {
+        "law": "特定商取引法・著作権法",
+        "impact": "自動収集データから記事を生成する際の引用・転載が著作権を侵害するリスク。サブスク販売時の特商法表記、解約条件の明示も必須。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては、(1)Yahoo!知恵袋・価格.com・Xポストなど日本固有の検索意図シグナルに特化したキーワードマイニング、(2)国内AI検索(Felo・Genspark JP・Perplexity日本語)向けの引用最適化、(3)業種特化(士業・クリニック・地方EC等)のテンプレ化、(4)記事を公開せず『改善提案レポート』に留めるエージェント型(=自社の責任で公開する文化に合わせる)、などが考えられる。ただし本家を超える優位を作るには深いローカライズが必須。",
+    "rationale": "需要は強く市場も大きいが、Keywordmap/ミエルカ/SEARCH WRITE等の国産SEO SaaSが既に中小企業層を押さえ、Queue/Protea/Nile/PLAN-B等のGEO専門会社も既に参入済みで競争は飽和。Google 2026年3月コアアップデート以降『AI記事自動公開』への警戒感が高まり、日本市場では完全自動化より人手伴走+AI支援のハイブリッド需要が主流。本家RankAIの$499〜$7,500/月という価格帯は国内中小企業のSEO予算(月3〜10万円)とギャップが大きい。日本独自の検索意図・Yahoo!知恵袋・国産AI検索への対応にも深いローカライズが必要で、参入難度は高い。watchに留め、本家の国内展開の有無と国内GEO市場の淘汰を観察するのが妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "国内SEO予算は月3〜10万円帯が中心で、本家のような$499〜$7,500/月は受け入れにくい。日本でPLG化するなら月1〜3万円のフリーミアム+専門プランが妥当だが、AI記事生成APIコストとの利幅が薄い。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内中小企業は約358万社、EC事業者は数十万規模、自社サイト運営のB2Bも多数。SEO/GEO予算を持つ企業は数十万社単位で存在しTAMは十分大きい。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "SEO/GEOツールはレビュー記事・比較サイト・SI代理店経由の獲得が支配的で、個人開発者がPLGで取りに行ける領域ではない。本家がYCバック・$多額調達済みでブランドゲーム化、個人で対抗するのは非常に困難。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "本家は既に英語サイトで世界提供中、日本企業も英語UIのまま利用可能。Queue・Protea等の国内GEO専門会社も既に存在し、国内ローカライズが入る前の時間窓は実質残っていない。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "AI記事生成エンジン、ランクトラッキング(Google+AI検索)、リライト判定モデル、クライアントサイトへの公開連携、サポート、Google順位変動への即応など、個人で24/7運用するには重い。"
+      }
+    },
+    "rationale": "国内TAMは大きいが、(1)価格期待値が本家の1/5以下で利幅が薄い、(2)代理店経由のGTMが支配的で個人PLGが効きにくい、(3)本家を含む国内外プレイヤーが既に乱戦、(4)Googleアップデートに常時追従する24/7運用が必要、という4点が致命的。事業性は低く、個人開発で参入しても勝算は薄い。差別化するなら『日本固有検索意図(Yahoo!知恵袋・国産AI検索)』『業種特化テンプレ』『人手伴走+AIレポート提案型』のいずれかにフォーカスし、ニッチを狙う必要があるが、それでも月商目標は控えめにすべき。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 19800,
+      "plans": [
+        "Free: AI検索引用チェッカー＋月3記事までキーワード提案（流入用フリーミアム）",
+        "Starter: ¥9,800/月 月10記事までの構成案提案＋AI検索引用診断",
+        "Pro: ¥29,800/月 月30記事の自動生成＋ランクトラッキング＋週次リライト提案",
+        "Business: ¥98,000/月 業種テンプレ＋人手レビュー1回/月＋API連携"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内のオウンドメディアを運営する中小B2B SaaS・士業・クリニック・地方EC事業者(年商1〜10億円帯)。SEO代理店に月10万円以上払う体力はないが、内製でAI記事+GEO対策をしたい層。",
+      "target_count": 80000,
+      "capture_pct_year3": 0.05,
+      "monthly_revenue_target_jpy": 792000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『個人開発者向けAI×SEO実装記事』連載で技術者集客",
+      "X(旧Twitter)でGEOの実例・AI検索引用獲得Tipsを発信",
+      "SEO/GEOブログ運営者向けの『AI検索引用チェッカー』をフリーミアムで配布",
+      "業種特化(士業・クリニック等)のレビュー記事提携",
+      "ノーコードコミュニティ(STUDIO/Wix/Shopify日本)向けプラグイン展開"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Googleコアアップデートで一夜にしてクライアントサイト順位が崩壊、解約・補償請求につながる",
+      "本家RankAIが日本語UI+国内決済対応で進出すれば、ブランド・実績で勝てない",
+      "国産GEO専門会社(Queue/Protea/Nile/PLAN-B等)が既に企業案件を押さえており、後発の個人開発の参入余地が乏しい",
+      "AI記事生成のAPIコスト(OpenAI/Anthropic等)が原価圧迫、月¥9,800プランで採算が成立しないリスク",
+      "景表法・著作権の自動チェック機構を構築しないと、クライアントトラブル時に責任問題化"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T19:07:43Z",
+  "review_guide_at": "2026-05-25T19:07:43Z",
+  "business_viability_at": "2026-05-25T19:07:43Z",
+  "advisor_view_at": "2026-05-25T19:07:43Z"
+}

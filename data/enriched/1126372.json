@@ -1,0 +1,213 @@
+{
+  "name": "Vercel Flags",
+  "description": "Feature flags, targeting rules, rollouts. All from Vercel.",
+  "ph_url": "https://www.producthunt.com/products/vercel/launches/vercel-flags?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/5ZXXOKRCL2PE2Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-18T07:01:00Z",
+  "upvotes": 209,
+  "comments": 4,
+  "topics": [
+    "Software Engineering",
+    "Developer Tools"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>nice, having flags native in the Vercel dashboard is a big quality-of-life win. does it support server-side evaluation inside edge functions without an extra round-trip, or is everything going through an API call?</p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch! I've been following Vercel's evolution and this positioning around the \"frontend cloud\" feels really strategic. Quick question: how are you thinking about the developer experience for teams migrating from traditional hosting? Are there specific pain points you're prioritizing in the onboarding flow?</p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Having feature flags built directly into the Vercel dashboard means I can finally stop juggling external SDKs just to handle simple percentage rollouts in Next.js. Are there any plans to support syncing these flag states to external analytics tools so we can easily track feature conversions by cohort? I am going to try ripping out my current third-party flag setup and migrating to this over the weekend.</p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Vercel Flags, a feature flag provider built into the Vercel platform, is now generally available. Create flags, define targeting rules, run progressive rollouts, and run A/B tests, all from the Vercel Dashboard without adding another service to your stack.",
+  "featured_at": "2026-04-18T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/593ff5e2-9d11-491c-ab63-9e929e894214.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/278737d0-e048-486f-80cb-b9a366d4f8af.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/007a03c6-722e-4e88-94ce-b0f59dc9e226.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:23",
+  "landing_meta": "Vercel Flags is now generally available - Vercel — Vercel Flags, a feature flag provider built into the Vercel platform, is now generally available. Create and manage feature flags.",
+  "landing_text": "Vercel Flags is now generally available - Vercel Skip to content Blog / Changelog Vercel Flags is now generally available Authors 1 min read Copy URL Apr 16, 2026 Vercel Flags is now generally available. Vercel Flags is a feature flag provider built into the Vercel platform. Create and manage feature flags with targeting rules, user segments, and environment controls directly in the Vercel Dashboard. The Flags SDK provides a framework-native way to define and use these flags within Next.js and SvelteKit applications, integrating directly with your existing codebase: flags.ts import { vercelAdapter } from \"@flags-sdk/vercel\" import { flag } from \"flags/next\" export const showNewFeature = flag ( { key : \"show-new-feature\" , adapter : vercelAdapter ( ) } ) Once you define a flag, you can use them within your application in a few lines of code: app/page.tsx import { showNewFeature } from \"~/flags\" export default async function Page ( ) { const isEnabled = await showNewFeature ( ) return isEnabled ? < NewDashboard /> : < OldDashboard /> } For teams using other frameworks or custom backends, the Vercel Flags adapter supports the OpenFeature standard, allowing you to plug Vercel Flags into their provider agnostic SDK. Try it out or learn more about Vercel Flags . Ready to deploy? Start building with a free account. Speak to an expert for your Pro or Enterprise needs. Start Deploying Talk to an Expert Explore Vercel Enterprise with an interactive product tour, trial, or a personalized demo. Explore Enterprise Products AI Gateway One endpoint, all your models Sandbox Isolated, safe code execution Vercel Agent An agent that knows your stack AI SDK The AI Toolkit for TypeScript v0 Build applications with AI CI/CD Helping teams ship 6× faster Content Delivery Fast, scalable, and reliable Fluid Compute Servers, in serverless form Workflow Long-running workflows at scale Observability Trace every step Bot Management Scalable bot protection BotID Invisible CAPTCHA Platform Securit",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "pricing",
+    "$1",
+    "$14",
+    "$21",
+    "$32"
+  ],
+  "landing_fetched_at": "2026-05-26T04:34:24",
+  "description_ja": "Vercelダッシュボードに統合されたフィーチャーフラグ機能。ターゲティング、段階的ロールアウト、A/Bテストを外部SaaS不要で実現。",
+  "summary_ja": "Vercelプラットフォーム内蔵のフィーチャーフラグ／A/Bテスト基盤がGA。Next.js・SvelteKit向けFlags SDK経由でフラグ定義し、Vercelダッシュボードからターゲティング・段階的リリースを管理できる。OpenFeatureアダプタ対応で他フレームワークからも利用可能。",
+  "tldr_ja": "Vercel本体に内蔵されたフラグ機能。日本開発者は享受側であり、対抗SaaSを個人開発するのは事実上不可能。skip推奨。",
+  "review_guide_ja": {
+    "what": "Vercelプラットフォーム内に組み込まれたフィーチャーフラグ／A/Bテストプロバイダ。Vercelダッシュボード上でフラグ作成、ターゲティングルール、ユーザーセグメント、環境別制御、段階的ロールアウトを設定可能。Next.js／SvelteKit向けに@flags-sdk/vercelアダプタを公式提供し、`flag()`関数1個で型安全にフラグ参照ができる。OpenFeature標準に準拠したアダプタ経由で、他フレームワーク・カスタムバックエンドからも利用可能。典型ユースケースは、Next.jsアプリで新機能を一部ユーザーに先行公開、段階的ロールアウト、本番A/Bテスト、機能の即時無効化（キルスイッチ）。Vercel Hobbyは月10,000リクエスト無料、それ以上は100万リクエストあたり$30の従量課金。",
+    "for_who": "Vercel上でNext.js／SvelteKitアプリを運用するフロントエンド／フルスタック開発チーム。LaunchDarkly等の外部フラグSaaSを別契約せず、Vercel請求にまとめたい中小規模チーム。OpenFeature準拠で将来移行余地を残したい開発者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "プラットフォーム本体の機能であり、Vercel基盤・エッジ配信・ダッシュボードと一体。フラグ評価SDK単体ならOSS実装で再現可能だが、Vercelのデプロイ・エッジ統合という価値は外部からは複製不可能。"
+    },
+    "signals": [
+      "Flags SDK自体はOSSで公開され、業界標準を狙うポジショニング",
+      "OpenFeature準拠でベンダーロックインを回避する設計",
+      "Hobbyプランに無料枠を含め、PLG経由で開発者を取り込む価格設計",
+      "Next.js／Vercelエコシステムのデファクト化を加速する戦略的拡張",
+      "GA到達で外部フラグSaaSからの移行案件が今後発生する可能性"
+    ],
+    "concerns": [
+      "Vercelプラットフォームに完全に同梱され、外部開発者の参入余地が無い",
+      "LaunchDarkly／Bucketeer／Flagsmithなど成熟競合が国内にも存在",
+      "Vercelを使わないチームには訴求がゼロ（プラットフォーム依存）",
+      "A/Bテスト分析・統計エンジンはまだ薄く、専門SaaS（Statsig等）に劣る",
+      "個人開発者が『同種SaaS』を作る事業機会は実質ゼロに近い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Gaudiy・ミツカリ・Thinkings等の国内事例があり、フィーチャーフラグの開発者認知は中堅以上のSaaS企業で広がる。ただし日本のフロントエンド層全体ではまだ『機能ON/OFFを環境変数で管理』段階の組織も多く、需要は中位。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "LaunchDarkly（xlsoft日本代理店）、CyberAgent Bucketeer（OSS／国産・ABEMA採用）、Flagsmith、GrowthBook、Unleash、Statsig、Vercel Flags自身と競合は飽和。新規参入の余地は薄い。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "フラグ評価はインフラ機能で、個情法・特商法等の規制負荷はほぼ無し。クッキー・ユーザー属性をターゲティングに使う場合のみプライバシーポリシー記載が必要だが軽微。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "API／SDK中心で日本語化負荷は低い。ただしVercel Flags本体は英語UIで、国内非エンジニア（PM・マーケ）がフラグ運用に参加する場合は日本語UI／日本語ドキュメントの不足が摩擦になりうる。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本の請求書／インボイス対応はVercel本体経由のため代理店未介在で摩擦あり。ただしLaunchDarklyはxlsoft代理店経由で日本円請求対応しており、ここがVercel Flagsの弱点になる可能性がある。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "LaunchDarkly（日本代理店：エクセルソフト）",
+        "url": "https://www.xlsoft.com/jp/products/launchdarkly/index.html",
+        "note": "国内代理店経由で日本円請求・インボイス対応。Gaudiy等エンタープライズSaaSでの採用事例あり。Pro $12/seat/月、Enterpriseは個別見積。"
+      },
+      {
+        "name": "Bucketeer（CyberAgent OSS）",
+        "url": "https://bucketeer.io/",
+        "note": "サイバーエージェント発のOSSフラグ管理／A/Bテスト基盤。ABEMA他で本番採用。日本語ドキュメント・コミュニティあり。セルフホスト前提。"
+      },
+      {
+        "name": "Flagsmith",
+        "url": "https://www.flagsmith.com/",
+        "note": "OSS／クラウド両対応のフラグSaaS。簡素なUIで個人〜中小チームに使いやすい。国内記事も増加中。"
+      },
+      {
+        "name": "GrowthBook",
+        "url": "https://www.growthbook.io/",
+        "note": "OSSのフラグ＋実験プラットフォーム。$20/user/月から。データウェアハウス連携でA/B分析に強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "ユーザーIDやユーザー属性をターゲティングルールに使う場合、評価値ログの保存目的・期間をプライバシーポリシーに明記する必要がある。Vercel Flags側はEUデータレジデンシー等は提供するが、日本リージョン専用は無く、越境移転の説明が必要。負荷は軽微。"
+      },
+      {
+        "law": "特定電子メール法／景品表示法",
+        "impact": "A/Bテストでマーケ施策（広告コピー・キャンペーン）を出し分ける用途では、優良誤認・有利誤認に該当しないかの社内チェックが必要。プラットフォーム自体の責務ではなく利用側責任。"
+      }
+    ],
+    "opportunity": "個人開発者が『Vercel Flags の対抗SaaS』を作る余地は無いが、隣接領域に角度がある。例：（a）Vercel Flagsの監査ログ／フラグ棚卸し／命名規約チェッカーをVercel Integrationsとして提供、（b）Bucketeer等OSSの日本リージョン・マネージドホスティング（請求書・インボイス対応）、（c）Vercel Flags + 国内分析ツール（Karte／KARTE Blocks／ヤプリ）連携のグルー、（d）日本語UIのフラグ運用ダッシュボード（PM／マーケ向け）。いずれも市場規模は限定的でVercel本体に取り込まれるリスク大。",
+    "rationale": "Vercel Flags自体はVercel本体に同梱された機能で、外部開発者が『同じものを作る』機会は存在しない。日本でのフラグSaaS市場は、LaunchDarkly（xlsoft経由）が請求書対応で押さえ、Bucketeer（国産OSS）が技術志向SaaSスタートアップで存在感、Flagsmith／GrowthBook／Unleash／Statsigが追随、というレッドオーシャン。日本固有のニーズ（日本語UI、インボイス、JP-RU/分析ツール連携）は隙間として存在するが、Vercel自身が日本法人パートナーシップ（クラスメソッド・chot Inc.）を強化中で、隙間は半年〜1年で埋まる見込み。個人開発者の事業機会としては『見送り』が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "フィーチャーフラグはエンジニアリングインフラで、課金許容額は中位。LaunchDarkly $12/seat/月、GrowthBook $20/user/月が相場だが、Vercel Flagsの存在で価格上限は強く押し下げられる。日本市場でseat課金は500-1500円/月以下を要求されがち。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "国内でフィーチャーフラグを能動的に導入するSaaS企業は数百社〜千社規模に限られる。Next.js／Vercel併用かつフラグSaaS別契約という条件で絞ると数百社未満。個人開発者のTAMは極めて小さい。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "Qiita／Zenn記事・X発信でリーチは可能だが、Vercel本体の機能と直接競合する位置で個人開発SaaSが選ばれる根拠を作るのは難しい。代理店・SI経由が現実的だが個人には敷居が高い。"
+      },
+      "timing": {
+        "score": 1,
+        "reason": "本家Vercelが既にGAしており、時間窓はゼロ。むしろ既存フラグSaaSが押し戻される側。新規参入の好機ではない。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "フラグ評価はSLA 99.99%期待が高い領域。本番アプリの機能ON/OFFを支配する以上、24/7で監視・即応が必要。個人運用は厳しいが、隣接領域（棚卸し・監査ツール）なら比較的軽い。"
+      }
+    },
+    "rationale": "Vercel Flagsはプラットフォーム同梱の戦略製品で、日本の個人開発者が『対抗SaaS』を作る事業機会は実質的に存在しない。隣接ニッチ（日本語UI、インボイス対応マネージドOSS、フラグ棚卸し／監査）も市場規模が小さく、Vercel／LaunchDarkly／Bucketeer等大手の機能拡張で半年〜1年以内に吸収されるリスクが高い。SLA期待値が高くソロ運用の負荷も大きい。timing軸が1点、market_size／gtmも低く、business_viabilityは3点と判定。indie devの戦略としては『Vercel Flagsを使う側』に回り、自分のSaaSにA/Bテスト基盤として組み込む方が合理的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 0,
+      "plans": [
+        "対抗SaaS開発は非推奨。あえて隣接ニッチを狙うならOSSフラグ運用支援ツールをfreemium配布",
+        "Free: フラグ棚卸し／命名規約チェッカー（OSS／GitHub Action）",
+        "Pro想定: ¥2,000/月（複数リポジトリ統合、SlackレポートのSaaS版）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Vercel／Next.jsでフィーチャーフラグを運用しており、フラグ棚卸し・命名規約・監査ログを必要とする国内SaaSスタートアップ／中堅Web開発チームのテックリード。根拠未確認のため控えめに見積もる。",
+      "target_count": 300,
+      "capture_pct_year3": 3,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "推奨せず。市場機会が薄いためQiita／Zenn等で発信しても投資対効果が見合わない",
+      "あえて挑む場合：Qiita／Zennで『Vercel Flags運用Tips』連載でリスト構築",
+      "OpenFeature／Vercel Integrations Marketplace掲載で被発見性確保",
+      "X個人発信＋OSS GitHub公開でPLG"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Vercel本体がフラグ機能を継続拡張し、隣接ツールを公式機能として吸収するリスクが極めて高い",
+      "LaunchDarkly／Bucketeer／Flagsmith等の既存大手が同等機能を半年以内に追加する可能性",
+      "個人開発者の単独運用ではフラグ評価のSLA 99.99%期待に応えられず信用失墜",
+      "Next.js／Vercelエコシステム外（楽天市場・国産CMS等）では需要が無く、TAMが極小",
+      "課金許容額が低く、ARPUがインフラコスト（DB／監視／CDN）を下回るリスク"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-26T04:50:00Z",
+  "review_guide_at": "2026-05-26T04:50:00Z",
+  "business_viability_at": "2026-05-26T04:50:00Z",
+  "advisor_view_at": "2026-05-26T04:50:00Z"
+}

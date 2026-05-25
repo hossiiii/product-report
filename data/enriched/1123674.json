@@ -1,0 +1,216 @@
+{
+  "name": "Gemini Robotics ER 1.6",
+  "description": "Google's SOTA robotics model for visual & spatial reasoning!",
+  "ph_url": "https://www.producthunt.com/products/google/launches/gemini-robotics-er-1-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/V7AOHINNXB7MG7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-15T07:01:00Z",
+  "upvotes": 229,
+  "comments": 3,
+  "topics": [
+    "Robots",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Gemini Robotics-ER 1.6 is the reasoning layer that lets robots like Boston Dynamics' Spot read analog gauges, count objects, and confirm when a task is actually done. Available now via the Gemini API.</p><p></p><p>I'm hunting this because there's a gap between \"robot that follows instructions\" and \"robot that reasons about what it sees\". That gap is exactly where industrial automation keeps getting stuck. ER 1.6 directly bridges that gap.</p><p></p><p><strong>The problem</strong>: Most robot AI can execute. Very few can verify. Knowing when a task succeeded, reading a pressure dial in a poorly lit facility, or identifying the correct object among 40 similar ones requires embodied reasoning, not just vision.</p><p></p><p><strong>The solution</strong>: A vision-language model that handles pointing, spatial counting, multi-view success detection, and instrument reading as first-class capabilities. It can call tools natively and chain reasoning steps to solve complex physical tasks.</p><p></p><p><strong>Key capabilities:</strong></p><ul><li><p>Spatial pointing: detect objects, map paths, find grasp points</p></li><li><p>Success detection: confirm tasks across multiple camera views</p></li><li><p>Instrument reading: read gauges, sight glasses, digital displays (93% accuracy)</p></li><li><p>Agentic tools: integrate Google Search, VLA models, custom functions</p></li><li><p>Safety constraints: respects material and weight limits</p></li></ul><p><strong>Who it's for</strong>: Robotics engineers, hardware AI teams, and developers building autonomous inspection or manipulation systems. Especially useful if you are integrating AI reasoning into industrial or field robotics.</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a></p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The spatial reasoning piece is what makes this interesting. That's been the hard problem for physical AI for a long time</p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Gemini Robotics-ER 1.6 is a vision-language model for robot reasoning. It handles spatial pointing, multi-view success detection, and instrument reading. For robotics engineers and developers building physical agents via the Gemini API.",
+  "featured_at": "2026-04-15T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f27f20c5-816f-4210-bbfa-8bdf797ffa3b.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/33f7c0a8-faa0-4d36-b690-840594d92dca.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/98b4a9e0-ded3-41b0-8c99-70604a3b5230.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/783f0692-8ef5-40ee-9419-14c8eec260b2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0a00a9ee-1dcb-4bff-aff4-1ac47c8a2a38.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6ec44045-6b72-473d-aab0-375ef8936ee1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/09836152-b645-47e4-972a-f0be60329092.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e9ad74f8-152d-41cc-8ed7-814903f7c519.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:28",
+  "landing_meta": "Gemini Robotics ER 1.6: Enhanced Embodied Reasoning — Google DeepMind — Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.",
+  "landing_text": "Gemini Robotics ER 1.6: Enhanced Embodied Reasoning — Google DeepMind Skip to main content April 14, 2026 Models Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning Laura Graesser and Peng Xu Share For robots to be truly helpful in our daily lives and industries, they must do more than follow instructions, they must reason about the physical world. From navigating a complex facility to interpreting the needle on a pressure gauge, a robot’s “embodied reasoning” is what allows it to bridge the gap between digital intelligence and physical action. Today, we’re introducing Gemini Robotics-ER 1.6 , a significant upgrade to our reasoning-first model that enables robots to understand their environments with unprecedented precision. By enhancing spatial reasoning and multi-view understanding, we are bringing a new level of autonomy to the next generation of physical agents. This model specializes in reasoning capabilities critical for robotics, including visual and spatial understanding, task planning and success detection. It acts as the high-level reasoning model for a robot, capable of executing tasks by natively calling tools like Google Search to find information, vision-language-action models (VLAs) or any other third-party user-defined functions. Gemini Robotics-ER 1.6 shows significant improvement over both Gemini Robotics-ER 1.5 and Gemini 3.0 Flash , specifically enhancing spatial and physical reasoning capabilities such as pointing, counting, and success detection. We are also unlocking a new capability: instrument reading, enabling robots to read complex gauges and sight glasses — a use case we discovered through close collaboration with our partner, Boston Dynamics. Starting today, Gemini Robotics-ER 1.6 is available to developers via the Gemini API and Google AI Studio , we are sharing a developer Colab containing examples of how to configure the model and prompt it for embodied reasoning task",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T04:34:29",
+  "description_ja": "ロボット向け空間推論AI。物体指差し・計器読み取り・タスク成功判定を担う最先端VLM。",
+  "summary_ja": "Gemini Robotics-ER 1.6はGoogle DeepMindのロボット用ビジョン言語モデル。空間ポインティング、複数視点での成功検出、アナログ計器読み取り(93%精度)をAPI経由で提供し、Boston Dynamics Spot等と連携する産業ロボの「頭脳」層。",
+  "tldr_ja": "Googleのロボット向けVLM。国内産業ロボ需要は強いがハード必須・SIer中心で個人開発の参入余地は薄く、APIラッパーは本家直撃で勝負にならない。",
+  "review_guide_ja": {
+    "what": "ロボット向け空間推論VLM。物体指差し(pointing)、複数視点からのタスク成功検出、アナログ/デジタル計器の読み取り(93%精度)、Google SearchやVLA等のツール呼び出しを行う。Gemini APIとAI Studioから提供され、開発者Colabサンプルあり。典型ユースケースは工場/プラントでの自律点検(計器読取)、倉庫ピッキングの把持点推定、Boston Dynamics Spot等四足ロボの自律巡回、製造ラインの成否確認。ER 1.5や3.0 Flashを超える推論性能を打ち出すが、低レベル動作生成はVLA側に委譲する設計。",
+    "for_who": "ロボティクスエンジニア、産業オートメーション/FA系の組込みAI担当、四足/協働ロボSIer、自律点検サービス事業者、ハードを既に持つR&Dチーム。ハード非保有の個人開発者向けではない。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "API利用自体は容易だが、価値創出にはロボット実機・カメラ群・現場アクセス・安全柵/RAが必須。個人レベルでデモを超える成果は出しにくい。"
+    },
+    "signals": [
+      "計器読み取り93%という具体数値で産業現場の実用ラインに到達",
+      "Boston Dynamics Spotとの提携明示で企業採用の信頼性が高い",
+      "日経・ITmedia・ロボスタ・Qiita等の国内技術メディアが即日報道し関心高い",
+      "AIRoA等の国内ロボット基盤モデル整備と時期が重なり追い風"
+    ],
+    "concerns": [
+      "ER 1.6はあくまでGoogleのAPI製品で、サードパーティが付加価値を出す余地はラッパー的になりがち",
+      "ハード非保有の個人開発者にとっての参入障壁が高すぎる",
+      "労働安全衛生規則150条の4等、産業ロボの安全規制対応はSIerの仕事で個人では難しい",
+      "本家Googleが直接エンタープライズ営業に来るためAPIサンドイッチ層の収益化が困難"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本ロボット工業会発表で2026年産業ロボ受注は4年ぶり1兆円超予測、人手不足と半導体向け自動化が追い風。VLM市場CAGR26.7%。ただし産業ロボ需要≠個人向けVLM API需要であり、需要を捕まえるのはSIerと大手SI。"
+      },
+      "competition": {
+        "score": 7,
+        "reason": "ロボット向け汎用VLMの国内競合は限定的(PFN等の基盤モデル研究が中心)、ER 1.6のような汎用API提供は本家Googleのみ。ただし応用層SIerは多数存在し、API再販に近い構造では差別化困難。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "労働安全衛生規則150条の4(80W超の柵設置)、ISO 10218/13482、PL法、人間中心AI原則等が関与。API利用自体は規制薄いが、実装現場で安全柵・リスクアセスメントが必要で個人開発の負担が重い。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "API入出力は構造化(座標・JSON)中心で日本語UIへの依存が薄く、Qiita等で日本語実装例も即時登場。ただし日本固有の計器・標識・現場ドキュメント学習が必要なケースで微調整余地あり。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "産業ロボ導入はSIer経由・対面商談・PoC→年単位の意思決定が標準で、PLG型API販売は刺さりにくい。ロボット導入投資回収2年計画など、月額API課金との相性も悪い。検索で根拠未確認の部分含む。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Preferred Networks (PFN)",
+        "url": "https://www.preferred.jp/",
+        "note": "国産大規模モデル開発を進める。ロボティクス領域で長年の実績を持つが、VLM API公開製品としてはER 1.6と直接競合する形ではない。"
+      },
+      {
+        "name": "AIRoA (日本ロボット基盤モデル構築コンソーシアム)",
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03118/00001/",
+        "note": "トヨタ等大手参画の国産ロボ基盤モデル。2025年初期開発、2026〜2029年社会実装の予定。汎用VLMより組込み・ハードと一体化路線。"
+      },
+      {
+        "name": "Closer",
+        "url": "https://startup-db.com/companies/tags/robotics",
+        "note": "筑波大発AIロボティクスベンチャー。食品・化粧品・医薬向けに画像処理+ロボ制御を提供。アプリケーション層で競合し得る。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "労働安全衛生規則150条の4",
+        "impact": "定格出力80W超の産業ロボはガード設置等のリスクアセスメントが必須。API側はソフトだが、実装時に必ず付帯し個人開発者にとってハードル。"
+      },
+      {
+        "law": "製造物責任法(PL法)・ISO 10218 / ISO 13482",
+        "impact": "ロボ動作の安全性立証責任が事業者側にあり、VLM判断ミスによる物損・人身事故時の責任分界が不明確。Google側はAPI ToSで免責、現場側に責任が集中する。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "屋内カメラ・現場映像をクラウドAPIに送る運用は、従業員映像・顧客顔等で個情法・取引先データ要求と衝突。オンプレ提供は現状なくクラウド前提。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては (1) 日本語計器・看板・配管ラベル等の日本現場特化プロンプト/ファインチューンを提供し、Spot等を導入済みの大手工場向け点検レポートSaaSをSIerと組んで提供。(2) 中小製造の倉庫ピッキング向けに、ER 1.6+既存協働ロボ(FANUC CRX、Universal Robots等)のレシピ集を販売。(3) 個人開発単独では(1)(2)とも難しく、AIRoA系コンソーシアムの周辺ツール(評価用ベンチ、安全レビュー用補助ツール)に絞るのが現実的。",
+    "rationale": "産業ロボ・VLM市場は国内でも明確に拡大トレンド(2026年受注1兆300億円予測、VLMはCAGR26.7%)。Qiita/note/ITmedia等で即日報道され開発者の関心も高い。ただしこれは「ER 1.6 API自体への需要」であり、サードパーティが付加価値を出すスペースは狭い。日本固有の労安規則・PL法対応・SIer商習慣がハードを伴う実装を強く要求し、ハード非保有の個人開発者がエンドユーザーに直接届ける経路がほぼない。応用層は既存ロボSIer/メーカーが押さえており、純粋にAPIラッパーで稼ぐ余地はない。「市場機会」としては watch、「個人開発で攻める対象」としては適合度が低い。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "ターゲットの大手製造/SIerは月額SaaSより一括導入・年契約・PoC案件型を好む。個人開発者がAPI再販月額で課金しようとしても、Gemini API直接利用との差別化が難しく利幅薄い。検索で根拠未確認だが業界慣行から低スコア。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "産業ロボ受注額1兆300億円、VLM市場CAGR26.7%とトップラインは大きいが、個人開発者が捕まえられる「Spot等を導入済みでAPI実装を外注したい層」は数百社規模で限定的。根拠未確認のため中庸。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "ロボ業界の販売チャネルはSIer経由・展示会(iREX等)・営業同行が基本。Qiita/X等のPLG手段は開発者リーチには使えるが、実購買決裁者(工場長・経営層)には届かない。個人開発者の人脈で食い込むのは極めて困難。"
+      },
+      "timing": {
+        "score": 6,
+        "reason": "ER 1.6発表直後で先行情報優位はあり、AIRoA国産基盤モデルが社会実装に入る2026〜2029年と重なるため周辺ツール需要が伸びる時間窓は存在。ただし本家Googleが直接エンタープライズ営業に来るため猶予は短い。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "産業現場向けSaaSは24/7監視・現地サポート・SLA・安全インシデント対応が必須。個人運用は事実上不可能で、SIer提携かサービサー化が必要。手離れの良いPLGには本質的に向かない領域。"
+      }
+    },
+    "rationale": "事業成立性の観点では極めて厳しい。トップライン市場規模は大きいが、(1)実購買主体である大手製造・SIerに個人開発者がリーチする経路がない、(2)課金嗜好が一括契約・対面商談寄りで月額API再販と相性が悪い、(3)産業安全・PL責任により個人運用継続が困難、という3点が決定的に効く。本家Googleが直接API+エンタープライズ営業を仕掛けてくるため、間に立つラッパー事業の利幅もほぼ取れない。仮にやるなら「ハード+SI+ER 1.6統合」をワンセットで売る形となり、もはや個人開発のスコープを超える。Watchはするが事業として張るには不向きで、業界既存プレイヤー(SIer・FA機器メーカー・ロボメーカー)の動向を観察する位置付けが妥当。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "Free: ER 1.6を使った日本語計器読み取り評価ベンチをGitHub公開し、開発者ファネルだけ作る",
+        "(参考)もし課金するなら受託案件: 1案件200〜500万円のPoC、月額SaaS化は推奨しない"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Boston Dynamics Spotまたは協働ロボ(FANUC CRX/UR等)を既に導入済みで、自律点検・成否判定の高度化に予算を持つ国内製造業/プラント運用企業のR&D・DX部門。実際の購買決裁はSIer経由が大半。",
+      "target_count": 300,
+      "capture_pct_year3": 1,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn/noteでER 1.6の日本語実装例・計器読み取り検証記事を出し開発者認知を取る(本業化ではなく観測用)",
+      "iREX・ロボデックス等の展示会回りで国内SIerと面識を作り、案件化はSIer経由に限定",
+      "AIRoAコンソーシアム周辺の評価/安全レビュー補助ツールをOSSで出し、参画大手の研究部門に提供",
+      "個人発信でやる場合はSaaS化せず受託コンサル型に留める"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "本家Googleが直接エンタープライズ営業・Vertex AI経由で国内大手を取りに来るため、APIラッパー型ビジネスは利幅消滅",
+      "産業安全規制(労安規則150条の4・ISO 10218/13482)とPL法により、現場運用に伴う責任が個人事業主に集中、保険・契約コストで採算が崩れる",
+      "実購買決裁チャネルがSIer・対面営業のためPLG到達不能で、個人開発のリーチが構造的に届かない",
+      "ハード(ロボ実機)非保有の場合、デモ以上の価値提供ができずPoCすら受注困難",
+      "AIRoA等の国内連合や本家VLAモデルが急速進化し、独自付加価値の賞味期限が極めて短い"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

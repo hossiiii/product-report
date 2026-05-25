@@ -1,0 +1,230 @@
+{
+  "name": "Luma Agents",
+  "description": "Agents that plan, iterate, + refine w/ full creative context",
+  "ph_url": "https://www.producthunt.com/products/luma-agents/launches/luma-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/TXIRNJSUIJ7L2A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-13T07:01:00Z",
+  "upvotes": 345,
+  "comments": 34,
+  "topics": [
+    "Design Tools",
+    "Social Media",
+    "Marketing"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>Luma Agents is a creative agent platform that plans, generates, and iterates across video, image, and audio within a single shared workflow.</p><p></p><p>I'm hunting this because the gap it's addressing is structural, not just a feature gap most AI creative tools are isolated generators, not pipelines.</p><p></p><p><strong>The problem:</strong> Creative teams at agencies and studios are stuck stitching outputs together across tools. Every handoff is a restart. Context gets lost. Scale means adding headcount.</p><p></p><p><strong>The solution:</strong> Luma Agents embeds context across every stage of a project concept to delivery. Agents see what you see, carry that context through video, image, and audio generation, and iterate without you re-explaining from scratch.</p><p></p><p><strong>What you can do with it:</strong></p><p>🎬 Run a full brand campaign with cohesive visuals and variants across formats</p><p>📦 Generate e-commerce product shots lifestyle, hero, on-model in one workflow</p><p>📱 Produce short-form video ads with hooks, captions, and platform-specific framing</p><p>🌍 Localize videos with natural voiceovers and synced visuals across languages</p><p></p><p><strong>Who it's for:</strong> Creative directors, brand teams, and agency producers who are already using AI tools but spending too much time wrangling outputs between them. Also relevant for solo creators who want to produce at team-level volume.</p><p></p><p>Time will tell whether teams are going to use this to replace specific tools in the stack or layering it on top of what they already have. <br><br>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a> </p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The \"shared context end-to-end\" angle is what makes this genuinely interesting to me.</p><p></p><p>Most AI creative tools treat each output as a fresh start — image, then video, then copy, all disconnected. The result is creative that looks like a ransom note: technically competent, visually inconsistent.</p><p></p><p>Building ad-vertly.ai, we obsessed over this same problem from the advertising side. A campaign should have a through-line: same brand voice, same visual DNA, same audience understanding — whether you're running a static banner or a 15-second video. The moment you break context, the creative stops feeling like a brand and starts feeling like a vendor.</p><p></p><p>The market that'll love this first: performance marketing teams at agencies where speed-to-creative is the bottleneck. The question is whether the iteration loop is tight enough to replace the current \"generate, export, feedback, regenerate\" cycle that kills time.</p><p></p><p>Really excited to see where this goes. Congrats on the launch!</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Would be nice if you could create and save a Brand Project Board so that when creating assets, you don't have to load your Brand details everytime</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "AI agents that plan, generate, and iterate across video, image, and audio in one pipeline. Brand campaigns, product visuals, social ads, video localisation with shared context end-to-end. For creative teams and agencies.",
+  "featured_at": "2026-04-13T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/01bf4636-ef5f-4d04-b23a-261a2fefe86d.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/74ccb351-7a55-418c-aefd-4a39c143f4b6.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b736da31-c198-439c-b21e-0084b436fc0a.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b995b7a0-625f-4c8f-8012-53faa3b01712.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f63027c8-1a3e-407c-85d6-ec7d857452f4.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/914a87ec-b349-4c60-8396-513d87094246.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:15",
+  "landing_meta": "Creative agents that make you prolific | Luma — Luma Agents are the force multiplier for your team. They plan, generate, iterate, and refine with full context across every stage of creative work.",
+  "landing_text": "Creative agents that make you prolific | Luma Luma Creative agents that make you prolific Luma Agents are the force multiplier for your team. They plan, generate, iterate, and refine with full context across every stage of creative work. Get started Luma for teams Force multiplying teams at Core Product Differentiation Creative Agents Creative agents embedded in your workflow—advancing work end-to-end with shared context across teams. Shared Context Context stays synced across every format and workflow. Collaboration Teams and agents work in parallel to move faster under shared intelligence. Scale Expand what one team can produce—and reach new levels of output. What’s New New ways to create faster, collaborate better, and deliver polished work. Explore all features Create with Your Voice Turn spoken ideas into prompts instantly. Team Workspaces Share credits and manage usage in one place. Export for Production Deliver high-quality EXR files for pro workflows. From assets to deliverables Stitch clips, add captions, and create polished deliverables. Designed for Professional Creative Workflows Explore more use cases Infinite brand identity explorations Direct a full, multi-asset campaign with cohesive visuals and variations, ready to run everywhere. Product visuals in all angles Create polished lifestyle and hero shots for e-commerce, social, and marketplaces, in every format you need. Social media video ads for every channel Quickly create short-form video ads with hooks, captions, and formats tailored for every platform. Presentation-ready slide decks Turn ideas into clean, well-structured slide decks using flexible templates. Storyboards for every possible arc Develop characters, story arcs, and episode boards—then bring the pilot to life. Smarter A/B testing variants Design polished app screenshots with clear benefits, layouts, and platform-specific framing. Property storytelling at scale Property storytelling at scale On-model photography with every angle Produce",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "$30",
+    "$300",
+    "$90",
+    "$900",
+    "$3",
+    "$30/mo",
+    "$90/mo",
+    "$300/mo",
+    "$1",
+    "$20"
+  ],
+  "landing_fetched_at": "2026-05-26T04:34:16",
+  "description_ja": "動画・画像・音声を共通文脈で計画・生成・反復するクリエイティブAIエージェント群",
+  "summary_ja": "Luma AI製のクリエイティブエージェント。1つのワークフロー内で動画・画像・音声を共有コンテキストのまま計画→生成→反復→仕上げまで一気通貫で行い、ブランドキャンペーンやEC素材、SNS動画広告、多言語ローカライズを少人数で量産可能にする。",
+  "tldr_ja": "本家Luma直撃領域。日本市場は需要顕在も大手代理店とAdobeが主戦場、個人開発はニッチ受託支援に絞らないと勝てない。",
+  "review_guide_ja": {
+    "what": "Luma Labsが提供するクリエイティブAIエージェント。プロンプトや音声指示から、エージェントが「企画→画像→動画→音声→編集」までを共有コンテキストを保ったまま自走する。ブランドキャンペーンの一括展開、EC向け商品ビジュアル（ヒーロー/ライフスタイル/オンモデル）の量産、SNS向け縦型動画広告のフック・字幕・各プラットフォーム最適化、多言語ナレーション同期によるローカライズ動画生成が代表用途。チームワークスペース、クレジット共有、EXR書き出し等のプロ向けポストプロダクション連携も備える。Dream Machineのモデルを土台にエージェント層を載せた構成。",
+    "for_who": "代理店・制作会社のクリエイティブディレクター/プロデューサー、インハウスのブランド/EC運用チーム、チーム並みの量を捌きたいソロクリエイター。特に「素材バリエーション量産」「多言語展開」「短尺SNS広告」のスループットがボトルネックになっている層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "動画/画像/音声の自社基盤モデルとマルチモーダル一貫性が中核。個人開発で同等品質の再現は非現実的で、API/ラッパー戦略になる。"
+    },
+    "signals": [
+      "Dream Machineのブランド資産と日本での既存認知（多数の日本語解説記事）",
+      "サイバーエージェント等が2026年中にAI動画広告完全自動化を表明、需要側ピーク",
+      "PHコメントで「ブランドプロジェクト保存」など運用要望が顕在化",
+      "EXR書き出し等プロ向けポスト連携への配慮、B2B/エンタープライズ志向",
+      "縦型SNS動画広告と多言語ローカライズという日本企業ニーズと重なる用途設計"
+    ],
+    "concerns": [
+      "国内では電通・博報堂・サイバーエージェント・Adobe Fireflyが既に同レイヤーを攻めている",
+      "Dream Machine自体が日本語プロンプト対応・解説記事多数で、ラッパー余地が狭い",
+      "学習データ著作権・既存著作物との類似性チェックが商用展開の運用負荷",
+      "クレジット課金/月額$30〜$300のレンジが日本中小には心理的に高い",
+      "本家Lumaが日本法人/パートナー連携を出した瞬間に個人プレイヤーは退場"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "2025年に動画広告市場が1兆275億円突破、サイバーエージェントが2026年中にAI動画広告完全自動化を表明するなど、AI動画生成・クリエイティブ自動化の需要は明確に顕在化している。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Adobe Firefly Services/Creative ProductionがエージェントAIで同レイヤーを攻め、電通∞AI Ads・博報堂バーチャル生活者・サイバーエージェントのAI制作基盤が既に存在。本家Dream Machine自体も日本語対応済み。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "AI事業者ガイドラインや著作権法上の学習データ利用は原則OKだが、生成物の商用利用時に既存著作物との類似性チェックが必要。タレント・ブランド肖像権の運用負荷あり。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "UIとプロンプトの日本語化、日本人モデル/和文字幕/縦型9:16の最適化、和風プリセットなどの調整は可能だが、根幹の基盤モデル自体は触れずAPIラッパー的対応に留まる。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業は素材の権利確認・承認フロー・SLAを重視し、PLG単独では刺さりにくい。代理店経由・受託組み込みが現実的で、個人開発者単独での法人売り込みは難航する。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Adobe Firefly Services / Creative Production",
+        "url": "https://business.adobe.com/jp/products/firefly-business.html",
+        "note": "クリエイティブAIエージェントを搭載し、Creative Cloudをまたぐマルチステップワークフローをオーケストレーション。エンタープライズ採用が先行。"
+      },
+      {
+        "name": "サイバーエージェント 極予測AI／AI制作基盤",
+        "url": "https://www.cyberagent.co.jp/",
+        "note": "2026年中にSNS動画広告の完全自動生成を目指す。広告主への直販ルートと運用知見を保有し、国内最大の競合。"
+      },
+      {
+        "name": "電通 ∞AI Ads / 博報堂バーチャル生活者",
+        "url": "https://www.dentsu.co.jp/",
+        "note": "戦略立案からクリエイティブ制作・効果検証までAIで自動化するエージェント基盤を構築。大企業案件はここに吸われる。"
+      },
+      {
+        "name": "Dream Machine（本家Luma）日本語対応",
+        "url": "https://lumalabs.ai/dream-machine",
+        "note": "プロンプト日本語OK、Plus $29.99/月から商用利用可。Luma Agentsもそのまま日本利用可能なため、ラッパーの余地が極小。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法（30条の4・類似性／依拠性）",
+        "impact": "学習データの利用は原則OKだが、生成物が既存著作物に酷似すると侵害リスク。商用展開時は類似性チェックを業務フローに組み込む必要がある。"
+      },
+      {
+        "law": "景品表示法／薬機法",
+        "impact": "AI生成のEC素材やSNS広告で誇大表現・効能表示が混入すると違反リスク。広告審査プロセスを併設しないと法人売りで弾かれる。"
+      },
+      {
+        "law": "肖像権・パブリシティ権（判例ベース）",
+        "impact": "AIで生成した人物画像・音声が実在タレントやモデルに酷似した場合、肖像権・パブリシティ権侵害となる。ブランド利用時の運用負荷が高い。"
+      }
+    ],
+    "opportunity": "本家直撃ではなく、Luma/Dream Machine/Runway/Sora等のAPIを束ねた「日本企業向けクリエイティブエージェント・オーケストレーション」が現実解。具体には(1)楽天・Yahoo!ショッピングのフォーマットに自動最適化するEC素材エージェント、(2)景表法・薬機法のNGワードと類似性チェックを内蔵した広告審査前提のSNS動画生成、(3)タレント契約管理と紐づく肖像権セーフ生成、(4)代理店ホワイトラベル前提の納品書出力、など日本特有の運用レイヤーで差別化する余地はある。",
+    "rationale": "需要顕在度は極めて高く、市場規模も1兆円超。一方で本家Lumaが既に日本語対応、Adobe Fireflyがエンタープライズで先行、電通・博報堂・サイバーエージェントが内製AI基盤を整備済みという三重苦の競争環境。さらに日本企業は承認フロー・権利処理・SLAを重視するため、基盤モデルそのものでの勝負は不可能。個人開発者が入れる余地は「業界特化（EC/不動産/求人）×権利処理×日本フォーマット最適化」のニッチに限定される。総合的にwatch相当で、本家直撃ではなくAPIラッパーで日本固有の運用課題を解く設計に絞る前提なら参入余地が残る。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "国内のAI動画生成ツールは月額$20〜$70（3,000〜10,000円）が定着しつつあり、Dream MachineもPlus $29.99/月。法人向けに3,000〜30,000円/月のレンジは取れるが、競合飽和で値付け圧力が強い。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "動画広告市場1兆円超、EC事業者・代理店・制作会社は数万社規模で存在。ただしTAMが大きくてもAdobe/CA/電通/Lumaがすでに切り分けており、個人がリーチできるSAMはかなり狭い。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "B2B法人売りは代理店ルート・SI経由が現実的で、個人開発者単独では到達困難。Qiita/Zenn/X発信は技術者向けで広告主には届かない。PLGも本家Luma直撃で勝てない。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "本家Luma Agentsは既にリリース済みで日本語対応、Adobe/CAも先行。時間窓は実質ほぼゼロ。今から参入するなら極めて狭いニッチに集中しない限り間に合わない。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "法人顧客はSLA・問い合わせ対応・権利処理サポートを求める。AI生成物の権利クレーム対応が発生すると個人運用は破綻する。完全PLGでない限り手離れは困難。"
+      }
+    },
+    "rationale": "需要も市場も巨大だが、競合密度と本家直撃リスクが致命的。Adobe Firefly・電通∞AI Ads・博報堂バーチャル生活者・サイバーエージェントAI基盤・本家Luma Agentsという5強が既に同レイヤーを抑えている。個人開発者が勝つには「業界特化×権利処理×日本流通フォーマット」の極狭ニッチに限定する必要があり、市場規模の大きさは絵に描いた餅。さらに法人B2B売りはGTMチャネルが代理店経由しか実質ないため、PLGで成立しない。月商10万円規模のニッチSaaS化なら可能だが、本格的な事業として個人開発で立てる余地は乏しい。総合的にno_goに近いconsider。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 8000,
+      "plans": [
+        "Free: 月10本まで生成、ウォーターマーク付き、商用不可",
+        "Starter ¥3,000/月: 月100本生成、商用可、楽天/Amazon フォーマット出力",
+        "Pro ¥8,000/月: 月500本生成、ブランドキット保存、肖像権セーフ生成、景表法NGワード辞書",
+        "Agency ¥30,000/月: ホワイトラベル納品、5シート、API連携、優先サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本のEC運用代行業者・中小ECブランド・SNS広告運用代理店の中で、楽天/Yahoo!ショッピング/Amazon向け素材を月100点以上量産している層。およびAdobe Fireflyの価格や運用が重すぎる小規模制作スタジオ。",
+      "target_count": 5000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 600000
+    },
+    "recommended_gtm": [
+      "X（旧Twitter）でEC運用者・代理店プランナー向けに事例ショーケース投稿",
+      "noteで『楽天バナー量産フロー』『SNS広告NGワード回避』など実務記事連載",
+      "EC運営者向けオンラインサロン・コミュニティに無料枠提供で潜入",
+      "代理店向けホワイトラベルOEMで2〜3社にバルク提供（PLGの代わり）",
+      "YouTubeで『Luma/Sora/Runwayをラッパー経由で日本企業に納品する方法』チュートリアル"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家Luma Agents/Adobe Firefly/サイバーエージェントAI基盤の日本本格進出で参入余地が一気に消える（最重要リスク）",
+      "AI生成物の肖像権・著作権クレームが発生した際の法的対応コストが個人運用を破綻させる",
+      "代理店・大手クライアントが要求するSLA・承認フローを個人で満たせず、PLG単独では法人売れない",
+      "基盤モデルAPIの値上げや利用規約変更でラッパー事業モデルが一夜で崩壊する依存リスク",
+      "景品表示法・薬機法違反でAI生成広告が炎上した場合のレピュテーションリスクと運用負荷"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-26T04:50:00Z",
+  "review_guide_at": "2026-05-26T04:50:00Z",
+  "business_viability_at": "2026-05-26T04:50:00Z",
+  "advisor_view_at": "2026-05-26T04:50:00Z"
+}

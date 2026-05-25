@@ -1,0 +1,220 @@
+{
+  "name": "Ask Product Hunt AI",
+  "description": "Find the right product, just ask",
+  "ph_url": "https://www.producthunt.com/products/producthunt/launches/ask-product-hunt-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/GI5LL6C432KXQP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-24T07:01:00Z",
+  "upvotes": 592,
+  "comments": 34,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Product Hunt"
+  ],
+  "makers": [
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null},
+    {"id": "0", "name": "[REDACTED]", "twitterUsername": null, "headline": null}
+  ],
+  "top_comments": [
+    {
+      "body": "<p>We've been prototyping this internally for a while, but this is our first public feature for searching and exploring Product Hunt's data with AI. It's informed not just by launch traction and discussions, but also by hundreds of thousands of reviews, including over a hundred thousand founder reviews, so you can find the best products for you. Try it out and let us know what you think! </p>",
+      "votesCount": 29,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This was one of the missing feature on PH. I believe you guys will make improvements soon on this, such as I see results bringing dead products (not operation). Also there can be more than 5 results. <br>Anyways, thanks to everyone behind this feature 👍<br></p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I'm so stoked to be part of this release! How many times have you tried Googling (or even asking ChatGPT) with a specific pain point only to fall short of the solution or end up comparing multiple products, eventually either giving up or choosing one out of frustration. <br><br>Ask Product Hunt is the first step to reducing a lot of that friction! Simply ask what you're looking for and BOOM - instant results that will help you achieve what your trying to do and.... you can instantly compare different products in the same chat. <br><br>Checkout the other demo vid on X!<br><a href=\"https://x.com/ProductHunt/status/2047600502003933535?s=20\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://x.com/ProductHunt/status/2047600502003933535?s=20</a></p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Product Hunt is home to countless products and the people who love them. We built Ask to help you make sense of it all. It's an AI assistant that answers your product questions using Product Hunt data, whether you're picking a new tool, comparing alternatives, or seeing what's trending.",
+  "featured_at": "2026-04-24T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png",
+  "media": [
+    {"type": "image", "url": "https://ph-files.imgix.net/c19cf764-54e9-4e58-aaf4-9d30b4006c61.png"},
+    {"type": "image", "url": "https://ph-files.imgix.net/9f67af15-0440-4fd4-b455-062ca212f5b8.png"},
+    {"type": "video", "url": "https://ph-files.imgix.net/f81f3bdc-f3fd-4103-abbd-31fd373760a5.gif"}
+  ],
+  "ph_enriched_at": "2026-05-26T03:46:23",
+  "landing_meta": "Product Hunt – The best new products in tech. — Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
+  "landing_text": "Product Hunt – The best new products in tech. Welcome to Product Hunt! The place to launch and discover new tech products. Take a tour. Top Products Launching Today 1. Unabyss MCP-native self-updating context layer for your AI Productivity • Artificial Intelligence 92 402 2. own.page Make your own personal website with bento tiles Social Network • Social Media • Website Builder 48 369 3. Yansu AI that learns how you work and turns it into software Productivity • Artificial Intelligence • Maker Tools 84 273 4. Supaboard 3.0 AI data analysts that understand your business SaaS • Data & Analytics • Data Visualization 27 240 5. tweet.md X posts as clean Markdown API • Social Media • Artificial Intelligence 33 183 Get the best of Product Hunt, directly in your inbox. Sign Up 6. Tiny CV Resume builder that fits on one page Hiring • Productivity • GitHub 19 153 7. Pi Coding Agent The coding-agent harness you can make your own Open Source • Artificial Intelligence • Development 6 136 8. Orchestria AI music engine with granular stem control Web App • Music • Artificial Intelligence 7 104 9. LLMTest Use the right LLMs in your apps. Setup fallbacks. Be happy. API • Developer Tools • Artificial Intelligence 3 103 AppSignal Full-stack monitoring for errors, metrics, and logs Productivity • Analytics • Developer Tools 11 374 10. Databerry Track all your business data in a single dashboard Analytics • Data & Analytics • Business Intelligence 13 98 11. The Incident Challenge Production Debugging Games for Software Engineers Artificial Intelligence • Tech • Games 8 96 12. tldx Fast CLI to bulk-check domains via RDAP & MCP Open Source • Developer Tools • GitHub 1 92 13. MashuPack Turn codebases into a clean file for Claude and ChatGPT Productivity • Developer Tools • Artificial Intelligence 7 91 14. Fred AI-orchestrated UX research with behavioural tracking Productivity • User Experience • Artificial Intelligence 5 89 Framer Launch websites with enterprise needs at startup speeds. Des",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "subscription",
+    "pricing",
+    "$0",
+    "$1",
+    "$13",
+    "$17",
+    "$27",
+    "$2",
+    "$24",
+    "$34"
+  ],
+  "landing_fetched_at": "2026-05-26T03:46:24",
+  "description_ja": "聞くだけで最適なプロダクトが見つかる、Product Hunt の AI アシスタント",
+  "summary_ja": "Product Hunt 公式が自社の膨大なローンチ・レビューデータを RAG で検索する AI チャット機能。ユーザーは課題を自然文で投げるだけで、推奨プロダクトと比較結果を即座に得られる。",
+  "tldr_ja": "PH 自社データに依存する自前機能。日本では PH 認知が低く、ITreview/BOXIL が支配、個人での再現は実質不可能。",
+  "review_guide_ja": {
+    "what": "Product Hunt 自身が運営する AI 検索アシスタント。ローンチ実績・コメント・10 万件超の創業者レビューを含む数十万件のデータを基に、自然言語で「議事録を要約するツール」「Notion 代替の AI ノート」などと質問すると複数候補と比較ポイントを返す。チャット内で別プロダクトの追加比較も可能。本質は PH が長年蓄積したデータをモートとした検索体験で、外部開発者が同等のものを作るには PH の API/ データが前提となる。",
+    "for_who": "海外 SaaS を素早く発見したい PdM・マーケター・DX 担当・個人開発者。特に英語でのリサーチに慣れており、PH を日常的に巡回する層が主対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "コア価値は PH の独自データ（ローンチ・レビュー・コメント）で、第三者が同等品を作るには独自データ収集が必須。LLM 部分の実装は容易だが、データの厚みで差が決まる。"
+    },
+    "signals": [
+      "PH 公式が初の AI 機能として投入＝検索体験を AI に置き換える流れ",
+      "創業者レビュー 10 万件以上というデータの厚みを強調",
+      "ChatGPT/Perplexity への流出防止策の側面",
+      "launch から 24 時間で 592 upvotes と高反応"
+    ],
+    "concerns": [
+      "コメント欄で『dead product が結果に混ざる』との指摘＝精度課題",
+      "結果が 5 件固定など UI 制約への不満",
+      "PH 自身のデータに閉じるため網羅性で ChatGPT に劣る可能性",
+      "日本語クエリでの体験は未検証"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "PH は日本では英語サイトとして認知が限定的。ProductHunt.News や ProductHuntJa など翻訳系の細々したコミュニティはあるが、AI で PH データを検索したい強い需要シグナルは見えない。国内ユーザーは ChatGPT/Perplexity で代替済み。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "国内 SaaS 検索領域は ITreview（200M PV、12M レビュー）と BOXIL（1200 製品・20 万会員）が支配。AI 検索一般では ChatGPT Search/Perplexity/Felo が既に普及。PH データに特化した日本語版という角度なら競合は薄いが、土俵自体が小さい。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "単なる検索/比較サービスのため重い規制はない。表示する製品レビューに景品表示法（優良誤認・有利誤認）、個情法（クッキー利用通知）程度。検索で根拠未確認だが、一般的な広告/レビュー業の範疇。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "UI とプロンプトの日本語化は容易。ただし PH 上の製品情報自体が英語で、日本語要約・翻訳パイプラインが追加で必要。日本のローカル SaaS（freee、SmartHR 等）は PH に存在しないためデータベース側の課題が残る。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本の B2B 購買は機能比較表・導入事例・サポート体制重視で、AI 対話で『おすすめを聞く』スタイルはまだ主流ではない。ITreview/BOXIL の表形式比較が浸透。AI 検索行動は徐々に広がるが急変はない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ITreview",
+        "url": "https://www.itreview.jp/",
+        "note": "国内最大級の B2B SaaS レビュー・比較サイト。月間 200M PV、12M レビュー。AI 検索機能の追加余地あり。"
+      },
+      {
+        "name": "BOXIL SaaS",
+        "url": "https://boxil.jp/",
+        "note": "スマートキャンプ運営の SaaS 比較サイト。1,200 製品・20 万会員。カオスマップで業界俯瞰を提供。"
+      },
+      {
+        "name": "ProductHunt.News",
+        "url": "https://producthunt.news/",
+        "note": "PH ランキングを日本語訳して紹介する個人運営サイト。AI 検索は未搭載で、翻訳閲覧のみ。"
+      },
+      {
+        "name": "ASPIC / アスピック",
+        "url": "https://www.aspicjapan.org/",
+        "note": "SaaS 比較記事メディア。RAG 検索など個別カテゴリのまとめ記事が SEO で上位。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法",
+        "impact": "レビューや AI 出力で『おすすめ』として表示する場合、優良誤認・有利誤認に注意。アフィリエイト記載などステマ規制（2023 年改正）にも対応必須。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "ユーザーのクエリログを保存・分析する場合は利用目的の通知、第三者提供時の同意取得が必要。Cookie/タグ利用の透明化も。"
+      }
+    ],
+    "opportunity": "国内独自開発の角度は限定的。考えうるのは『国内 SaaS（freee/SmartHR/kintone 等）+ 海外 SaaS を統合した日本人向け AI 検索』だが、ITreview/BOXIL がデータを抱えており、新規参入はデータ収集コストが膨大。もう一つは『PH を含む海外プロダクトを日本語で要約・横串で AI 検索する超ニッチサービス』だが、対象は数千人規模で収益化が極めて厳しい。基本的にはこの分野は本家プラットフォーム側（ITreview や ChatGPT 拡張）の戦場で、個人開発の入り込む余地は小さい。",
+    "rationale": "本プロダクトは Product Hunt 公式が自社データ（ローンチ・レビュー・コメント）を AI で検索可能にした内製機能で、データそのものがモートとなっている。日本市場では PH の認知度が低く、ProductHunt.News 等の翻訳サイト経由で間接的に消費される状況。需要は限定的、競合は ITreview/BOXIL という強者が既存。規制面は軽いがローカライズには日本語データ整備が必要で、商習慣面では比較表文化がまだ強い。データを持たない個人開発者がこのコンセプトを国内向けに横展開しても、データ収集・維持で破綻する可能性が高い。総じて『市場としては成立しうるが、PH のような巨大データを持たない者には機会なし』が結論。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "PH 本体では無料機能で、ユーザーは検索体験に直接課金しない。模倣する場合、月額制よりアフィリエイト/送客手数料モデルになるが、国内 SaaS の送客単価は数百〜数千円で個人開発者規模では収益化が薄い。検索で根拠未確認だが、ITreview は広告/掲載料モデル。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "日本で『海外 SaaS を AI で探したい』ユーザーは PdM/マーケター/個人開発者を合わせても数万人規模。法人 DX 担当を含めても十数万人で、ITreview/BOXIL が既にカバー。TAM は限定的。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "X/Qiita/Zenn での発信、PLG 無料公開は個人開発でも可能。ただし ITreview/BOXIL の SEO 強者と、ChatGPT/Perplexity という一般 AI 検索の壁を越える差別化が必須で、リーチ獲得は容易ではない。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "PH 自身がこの機能をローンチした時点で、米国側の本家がすでに『標的領域に存在』する状況。ITreview など国内大手も AI 検索の追加は時間の問題。窓は 12〜24 ヶ月程度で閉じる可能性。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "LLM API コストはユーザー数に比例して増加し、無料公開だと赤字化リスク。データの定期スクレイピング・正規化・dead product 除外などの維持作業が継続的に発生。完全な手離れは難しい。"
+      }
+    },
+    "rationale": "事業性は厳しい。最大の問題は『データのモートを持たない個人開発者がコピーしても勝てない』点で、Product Hunt は十年以上かけて蓄積したローンチ・レビュー・コメントを武器にしている。日本市場では ITreview/BOXIL が同種データを既に持っており、ChatGPT/Perplexity が一般検索領域を侵食している。月額課金は成立しにくく、アフィリエイト/送客で稼ぐにはトラフィックが必要だが、SEO は強者に占拠済み。GTM は X/Qiita 発信で表面的には可能だが、差別化要素が乏しい。タイミングも『本家機能の出現＝レース終了の合図』に近い。個人開発者にとっては学習用 / ポートフォリオ用としては有用だが、生計を立てる事業としての成立性は低いと判断。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 500,
+      "plans": [
+        "Free: 月 20 クエリまで、結果広告/アフィリエイト付き",
+        "Pro: ¥980/月、無制限クエリ、エクスポート、広告非表示",
+        "Affiliate revenue: SaaS 送客手数料を主収益源（個人開発で実現可能なのはこれ）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本の海外 SaaS 早期採用者（PdM/個人開発者/マーケター/DX 担当）で、英語サイト巡回が苦にならない層。ProductHunt.News や PH 公式を既に利用しているユーザーが中心。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 75000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn での『海外 SaaS を AI で探す方法』連載",
+      "X (旧 Twitter) で個人発信＋海外プロダクト紹介とセット",
+      "PH 自身の API 経由でデータ取得＋日本語化レイヤーを無料公開（PLG）",
+      "note でマーケター向けの DX SaaS まとめ記事を量産しアフィリエイト誘導",
+      "ITreview/BOXIL とは住み分け（海外 SaaS 専門）でポジション差別化"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Product Hunt 本家がこの機能を強化＋日本語対応で参入すれば即座に陳腐化。本家ローンチ済みで猶予は短い。",
+      "ChatGPT/Perplexity/Felo といった汎用 AI 検索がプロダクト発見も担い始め、専用ツールの存在意義が薄れる。",
+      "LLM API コストがユーザー増加に比例し、freemium だと赤字スパイラル。コスト管理に常時注意が必要。",
+      "PH の利用規約・API 制限により大規模データ取得が困難な可能性。スクレイピング依存はリーガル・運用両面でリスク。",
+      "ITreview/BOXIL が AI 検索を後追い実装すれば、SEO/データ両面で勝負にならない。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

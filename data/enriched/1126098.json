@@ -1,0 +1,227 @@
+{
+  "name": "Is Your Site Agent-Ready? by Cloudflare",
+  "description": "Scan your website to see how ready it is for AI agents. ",
+  "ph_url": "https://www.producthunt.com/products/is-your-site-agent-ready/launches/is-your-site-agent-ready-by-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/WR3ZH43A3QLPNK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-18T07:01:00Z",
+  "upvotes": 266,
+  "comments": 13,
+  "topics": [
+    "SEO",
+    "Artificial Intelligence",
+    "Development"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>Really interesting launch! <a href=\"https://www.producthunt.com/products/cloudflare\" target=\"_blank\" rel=\"noopener\">@Cloudflare</a> launched a tool to scan and evaluate how “agent-ready” your website is for AI agents.</p><p></p><p><strong>Problem → Solution: </strong>As AI agents browse, interact, and transact online, most sites aren’t optimized for them. This tool audits readiness across emerging standards and shows what to fix. </p><p></p><p><strong>What makes it different:</strong></p><ul><li><p>Focused specifically on AI agent compatibility (not just SEO or performance)</p></li><li><p>Covers new protocols like MCP, Agent Skills, and agentic commerce</p></li></ul><p><strong>Key features &amp; benefits:</strong></p><ul><li><p>Checks robots.txt, sitemap, and discovery signals</p></li><li><p>Evaluates Markdown negotiation &amp; content accessibility</p></li><li><p>Reviews bot access control and AI bot rules</p></li><li><p>Audits API, OAuth, and MCP readiness</p></li><li><p>Provides actionable recommendations to improve</p></li></ul><p><strong>Who it’s for &amp; use cases: </strong>Developers, founders, and site owners → optimize sites for AI agents, automation workflows, and future agent-driven commerce.</p><p></p><p>Read more here: <a href=\"https://blog.cloudflare.com/agent-readiness/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://blog.cloudflare.com/agent-readiness/</a></p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a></p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>ran this on a couple of my sites and the MCP readiness check was an eye-opener. never even thought about exposing structured endpoints specifically for AI agents before tbh. the part about markdown negotiation is interesting too - most of my pages serve html and never considered that agents would prefer a simpler format. gonna have to rethink my content-type headers now. one thing tho - does it differentiate between different agent types? like a shopping agent vs a research agent would need pretty different access levels right?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Tried for my website pairfuse.com, hope it helps: score 30 -&gt; score 58</p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Cloudflare’s Agent-Ready Scanner analyzes your website for AI compatibility across standards like robots.txt, MCP, OAuth, and agent protocols. Identify gaps, improve discoverability, and prepare your site for AI agents to browse, interact, and transact seamlessly.",
+  "featured_at": "2026-04-18T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/2177af8c-7353-4c40-bc96-453cba561db0.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f64c5caf-cd8a-4904-8b04-aa72ade1f656.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/99d05851-62ea-4594-bfb7-7d4898ddf141.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7d603687-8664-453d-b5e0-fc43ce8cfa9f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/05578cd3-0858-4f93-a18f-ab926c327974.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6a564120-d8d7-4c75-bcdd-6319d1e220b0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/784237f2-7502-4776-a4ac-37239c184846.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a1e790a7-4cf3-424f-9ed3-895667e6432a.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:12",
+  "landing_meta": "Is Your Site Agent-Ready? — Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, agent skills, and other agent-friendly standards.",
+  "landing_text": "Is Your Site Agent-Ready? Is Your Site Agent-Ready? Scan your website to see how ready it is for AI agents. We check multiple emerging standards — from robots.txt and Markdown negotiation to MCP , OAuth, Agent Skills and agentic commerce. Website URL Scan Customize scan Site type All Checks Content Site API / Application Customize which checks to run Discoverability robots.txt Sitemap Link headers Content Accessibility Markdown negotiation Bot Access Control AI bot rules Content Signals Web Bot Auth API / Auth / MCP API Catalog OAuth discovery OAuth Protected Resource MCP Server Card A2A Agent Card Agent Skills WebMCP Commerce x402 MPP UCP ACP What do we check? Multiple checks across 5 categories: Discoverability — robots.txt, Sitemap, Link response headers Content Accessibility — Markdown content negotiation Bot Access Control — AI bot rules in robots.txt, Content Signals , Web Bot Auth Protocol Discovery — MCP Server Card, Agent Skills, WebMCP , API Catalog, OAuth discovery, OAuth Protected Resource Commerce — x402 , MPP , UCP , ACP What's the easiest way to improve my score? Start with the easy wins: publish a valid robots.txt with AI bot rules and sitemap directives, and make sure your homepage exposes useful discovery headers or metadata. Where can I learn more? Check out the Cloudflare Agents documentation to learn how to build and deploy AI agents that can browse, interact, and transact on the web. Improve the score Scan another site How to improve your score Copy the instructions below and paste them into your coding agent (Cursor, Claude Code, Windsurf, Copilot, etc.) to improve your site's agent readiness. Copy all instructions These are AI-generated recommendations. AI can make mistakes. Please use your professional judgment when implementing these tips, as they are provided \"as-is\" and Cloudflare assumes no liability for any actions taken or outcomes based on this automated content.",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T04:34:12",
+  "description_ja": "あなたのサイトがAIエージェントにどれだけ対応できているかをスキャンする無料診断ツール。",
+  "summary_ja": "Cloudflareが公開した無料サイト診断ツール。URLを入力するだけでrobots.txt、llms.txt、MCP、OAuth、Agent Skills、x402などAIエージェント向け新標準への対応度をスコア化し、改善プロンプトまで提示する。",
+  "tldr_ja": "LLMO/GEO監視SaaSは国内既に飽和、診断単体は無料化済み。個人開発で勝つには日本固有実装(楽天/ECサイト/CMS向け自動修正)へ尖らせる必要あり。",
+  "review_guide_ja": {
+    "what": "URLを入れるとCloudflareがrobots.txt、Sitemap、Link headers、Markdown content negotiation、AI bot rules、Content Signals、Web Bot Auth、API Catalog、OAuth discovery、MCP Server Card、A2A Agent Card、Agent Skills、WebMCP、x402/MPP/UCP/ACPなど5カテゴリ・20項目超を診断しスコアを返す。診断結果に対し『Cursor/Claude Code/Windsurf等にそのまま貼れる改善指示プロンプト』が出力される点が最大の特徴。Cloudflare Dashboard上のURL Scannerにも統合済みで、APIとしても活用可能。",
+    "for_who": "AIエージェント経由のトラフィック/問い合わせ/取引を取り込みたい企業のWeb担当・SEO/LLMO担当、自社プロダクトをAI agentから発見されたい開発者・SaaS事業者、AI bot制御・収益化(Pay per crawl)を検討するメディア運営者。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "robots.txt/llms.txt/Sitemap/Link headers/Markdown negotiationの自動診断はOSSベースで個人でも複製可能だが、MCP Server Card・x402・Web Bot Authなど新興プロトコル仕様の継続追従と、Cloudflareブランドの信頼性は模倣困難。"
+    },
+    "signals": [
+      "Cloudflare公式ローンチで266 upvotes、gihyo・note・PR代理店ブログ・AIメディアが多数日本語記事化(認知爆速)",
+      "Cloudflare Radar調査では上位200kドメインでもContent Signals/Markdown negotiation対応率は約4%、MCP Server Cardは15サイト未満で改善余地が極大",
+      "URL Scanner経由でDashboardから無料で叩けるためエンタープライズ導入の足掛かりとして既に統合済",
+      "国内でも仁頼/リベロジック/ペパボ等がagent-ready/llms.txt対応を公言、企業側の関心は明確",
+      "改善プロンプトがコーディングエージェントにそのまま貼れる設計でPLG適性が極めて高い"
+    ],
+    "concerns": [
+      "診断機能そのものは無料&Cloudflare本体機能化済みで、診断単体での課金は実質不可能",
+      "国産LLMO/GEO SaaS(Answer IO/ミエルカGEO/AKARUMI/LinkSurge等)が既に競合多数で、月額相場5-100万円のレッドオーシャン",
+      "標準仕様(MCP/x402/A2A/Agent Skills)が流動的で2026年中にも置き換わる可能性、追従コストが個人開発者には重い",
+      "本家Cloudflareの日本語UI/Dashboardが既にあり、ローカライズ単体での差別化は不可能",
+      "AIエージェント経由の実トラフィック・売上が国内で本格的に立ち上がるのは2027以降の見通しが多く、ROIを示しづらい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "gihyo・note・複数AIメディアが速報し、リベロジック/仁頼/ペパボ等の事業会社がagent-ready/llms.txt対応を公言。LLMO対策市場は2026年に費用が前年比上昇する顕在需要があり、AI検索シェア拡大に伴いSEO担当が次に投じる予算先として明確。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Answer IO/ミエルカGEO(月額約49,800円)/AKARUMI/LinkSurge/Keywordmap等の国産LLMO/GEO SaaSが既に20社以上ひしめく。LLMO対策コンサル21社比較記事が乱立する飽和初期で、診断+改善提案の組み合わせは新規参入余地が限定的。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "サイト診断・robots.txt助言は規制非該当。AI bot制御の助言部分も法令義務化されていない自主標準で、個人情報を扱わない構成なら個情法・電気通信事業法・特商法いずれも実装上の制約はほぼ無い。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "対象はrobots.txt/Sitemap/Markdown/MCP等の構造化ファイルが中心で言語依存が薄い。UI日本語化と、日本語llms.txt生成・国産CMS(WordPress/EC-CUBE/STUDIO/Wix Japan)・楽天/Yahoo!ショッピング固有スキーマ対応など実装作業は明確。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "国内SEO/LLMO顧客は無料診断+有償コンサル/伴走運用の組み合わせが標準商流で、ツール単体販売は弱い。決裁にSEO担当+Web制作会社+ITベンダーが絡みやすく、SaaS月額単体でのアップセルは中堅以上では難航しがち。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Cloudflare 日本法人 / 代理店ドーモ",
+        "url": "https://cloudflare.domore.co.jp/knowledge/aio-check/",
+        "note": "本家Cloudflareが日本語ナレッジ・Dashboard提供済み。URL Scannerにagent readiness統合で診断単体は完全に飲み込まれた状態。"
+      },
+      {
+        "name": "Answer IO (FeedForce)",
+        "url": "https://www.itreview.jp/products/answer-io/price",
+        "note": "国内発AIO(AEO)特化SaaS。Free 25プロンプト・有料3階層。ブランド言及/引用分析中心でagent-ready診断とは隣接領域。"
+      },
+      {
+        "name": "ミエルカGEO (Faber Company)",
+        "url": "https://www.itreview.jp/products/mieruka-geo/price",
+        "note": "月額約49,800円。ChatGPT/AI Overviews/Geminiでのブランド露出をGEO/LLMO観点で可視化。日本のSEO代理店経由販路が強い。"
+      },
+      {
+        "name": "AKARUMI (Ipe)",
+        "url": "https://akarumi.jp/price/",
+        "note": "Free+有料3階層のGEO/LLMO分析。AI上のブランド認知の可視化・定量化が中心で、サイト構造診断は弱め。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "対象サイトURLとスキャン結果のみを扱う構成であれば個人情報取得は発生せず、原則対象外。ログイン認証付きクロールを実装する場合はクッキー・認証情報の扱いに留意。"
+      },
+      {
+        "law": "著作権法・不正アクセス禁止法",
+        "impact": "スキャンは公開ファイル(robots.txt/sitemap/HTML)を読むのみで通常はクロール許可範囲。ただしrobots.txt無視の深いクロールやログイン必須エリア突破は不正アクセス・利用規約違反になり得るため要設計。"
+      },
+      {
+        "law": "景品表示法",
+        "impact": "『AIエージェントに必ず表示される』『売上◯倍』等の効果保証広告は優良誤認に当たる恐れ。LLMO業界全体で同様の表現が問題視されつつあるため広告コピーは控えめに。"
+      }
+    ],
+    "opportunity": "本家Cloudflareは『汎用×グローバル×無料』で診断レイヤを押さえに来た。個人開発で勝つ角度は3つ。(1)日本固有のスタック=WordPress/EC-CUBE/Shopify Japan/STUDIO/楽天/Yahoo!ショッピング向けに『llms.txt・Markdown版ページ・MCP Server Card・x402決済』を自動生成・自動デプロイするプラグイン/ボットに尖る。(2)診断ではなく『修正コミットPR』をGitHubに自動で投げるGitOps型(個人運営の手離れが効く)。(3)AI bot流入の計測・収益化(Pay per crawl/x402)に絞り、Cloudflareが本格課金する前に日本のメディア・EC向けに先回りする。診断単体は無料化済みなので、必ず『実装代行/自動修正/計測』のいずれかと束ねる。",
+    "rationale": "需要は顕在化しているが、診断単体ではCloudflareに完全に飲まれており勝負にならない。一方、国産LLMO/GEO監視SaaSは既に20社以上あるが、その多くは『AI上の言及をモニタリングする』レイヤで、Cloudflareが押さえた『サイト側を実際にagent-ready化する実装レイヤ』とはずれている。ここに、日本固有CMS/モールへの自動修正・自動デプロイで楔を打つ余地はある。ただし国内SEO/LLMO商流は『無料診断→有償コンサル/伴走運用』が主流で、個人開発のSaaS月額単体では受注が伸びにくい構造。商流(代理店経由・OEM)を含めた設計が必須。総じてwatch、特定セグメント(楽天/EC-CUBE/WordPress)で実装層に絞れればbuild寄りに動く。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "国内LLMO/GEO SaaSはミエルカGEOで月額約49,800円、コンサル込みなら月10-100万円の相場。一方診断は無料化が進み、個人開発が単体課金を取るには『自動修正PR』『継続モニタリング』『AI bot流入計測』のいずれか継続価値が必須。freemium+月額3,000-9,800円帯が現実線。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内BtoC EC事業者は数十万店舗、WordPressサイト・コーポレートサイトを含めればLLMO関心層は数十万社規模で潜在は十分。ただしagent-readyに月額を払うのは当面、AI流入を真剣に追う数千〜数万社レンジに留まる見込みで、根拠未確認のため低めに設定。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "PLG適性は高い(無料診断→改善PR→継続監視)。Qiita/Zenn/Xでの技術発信、WordPress/EC-CUBEプラグインマーケット、Cursor/Claude Code向けskill配布など個人がリーチ可能なチャネルは明確。一方SEO代理店経由のBtoB販路は人脈必須で個人運営はハードル高。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "Cloudflareが診断レイヤを押さえに来た直後で時間窓は急速に狭まりつつある。x402/MPP/UCP/ACP/A2A等の標準仕様は2026年中に大きく動く可能性が高く、追従コストが嵩む。日本固有CMS/モール対応に絞れば本家の手が回るまで18-24ヶ月程度の余裕は見込める。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "スキャナ部分は自動運用可能だが、標準仕様の継続追従(MCP/x402等が頻繁に更新)とCMS/モール仕様変化への追随が地味に重い。SLA要求の強い大手相手では個人運営は厳しく、PLG×小規模顧客特化なら手離れは確保しやすい。"
+      }
+    },
+    "rationale": "事業性は中庸。プラス面はPLG適性とAIエージェント時代に向かう構造的追い風。マイナス面は(1)診断単体の無料化、(2)国産LLMO SaaSの飽和、(3)標準仕様の流動性、(4)国内BtoB商流が代理店/コンサル前提でSaaS月額単体が伸びにくいこと。個人開発で勝てる解像度を高めるなら、対象を『WordPress/EC-CUBE/Shopify Japan等の特定CMS×AI bot対応自動化プラグイン』に絞り、Free診断+月額3,000-9,800円(自動修正/Pay per crawl計測)+年契約割引、で攻めるのが現実線。target市場が国内数千社・3年で1-3%取得とすれば月商100-300万円圏に収まる小規模事業として成立し得る。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 4980,
+      "plans": [
+        "Free: 月3回まで診断・基本llms.txt生成・コミュニティサポートのみ",
+        "Pro ¥4,980/月: 無制限診断・週次自動再診断・改善PR自動生成(GitHub連携)・WordPress/EC-CUBEプラグイン",
+        "Business ¥29,800/月: 複数サイト管理(10サイト)・AI bot流入計測ダッシュボード・x402収益化補助・チャットサポート",
+        "Agency ¥98,000/月: 50サイト・ホワイトラベル・代理店向けレポート・APIアクセス",
+        "Lifetime ¥49,800買い切り: 個人サイト1つ向け永久ライセンス(初年度プロモ)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AI流入を取りに行きたい国内中堅メディア・SEO意識の高いSMB・個人事業主のWeb制作者/SEO代理店。WordPressもしくはShopify/EC-CUBE/STUDIOでサイトを保有し、月額1万円前後のSEO/分析ツールに既に課金している層が中心。",
+      "target_count": 30000,
+      "capture_pct_year3": 1,
+      "monthly_revenue_target_jpy": 1494000
+    },
+    "recommended_gtm": [
+      "WordPress.org公式プラグインリポジトリへllms.txt/MCP/Markdown生成プラグインを公開し、Free診断ボタンからSaaSへ送客",
+      "Qiita/Zennでagent-ready/llms.txt/MCP実装の連載を毎週1本、技術側からの被リンクと指名検索を獲得",
+      "X(旧Twitter)で個人サイト診断結果を画像でシェアする文化を設計(『#agent_ready スコア』ハッシュタグ)",
+      "Cursor/Claude Code向けの公式skill/MCP serverとして配布し、開発者経由でSEO/Web担当へ越境",
+      "国内SEO代理店・Web制作会社向けAgencyプランで代理店経由販売(月額10-30万円帯のホワイトラベル)",
+      "noteとPR TIMESで『AI流入計測してみた』系の実例コンテンツを毎月1本、SMBに刺さる事例で訴求"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Cloudflareが診断+改善PRまで無料で本格機能化した時点で単体課金が一気に成立しなくなる。差別化点(国産CMS自動修正/Pay per crawl計測)を持たないと半年で価格崩壊。",
+      "MCP/x402/A2A/Agent Skills等の標準仕様が2026年中に大幅刷新される可能性が高く、追従に開発時間の30-50%が継続的に取られる。",
+      "国内SEO/LLMO商流は代理店・コンサル前提でSaaS月額単体が伸びにくい。個人開発者が代理店網に食い込めず、PLGのみだとARPU 5,000円帯から脱出困難。",
+      "AIエージェント経由の実トラフィック・売上が国内で本格立ち上がるのは2027以降の見通しで、ROIを示せずチャーンが高止まりするリスク。",
+      "国産LLMO/GEO SaaS(ミエルカGEO/AKARUMI/Answer IO等)が機能拡張で『agent-ready診断』を内包する動きが2026年内に起きる蓋然性が高く、後追い実装での消耗戦になりやすい。"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

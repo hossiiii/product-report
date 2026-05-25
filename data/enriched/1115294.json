@@ -1,0 +1,244 @@
+{
+  "name": "AgentPulse by Rectify",
+  "description": "Everything in OpenClaw's terminal, you can now do visually",
+  "ph_url": "https://www.producthunt.com/products/rectify/launches/agentpulse-by-rectify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/AA2PMVQIUHDCHQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-06T07:01:00Z",
+  "upvotes": 293,
+  "comments": 44,
+  "topics": [
+    "SaaS",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt! I'm Umar, founder of Rectify.\n\nIf you're running OpenClaw agents, you know the drill: SSH into your server, edit JSON configs, tail logs in the terminal, hope your cron jobs didn't silently fail overnight. It works when it's just you. It breaks down the moment you add a team, or manage agents for a client.\n\nThat's why we built AgentPulse inside Rectify.\n\nEverything you do in OpenClaw's terminal, you can now do visually: monitor every agent's status in real time, manage sessions, track cron jobs, review alerts, assign tasks on a Kanban board with a live activity feed, browse full conversation memory, manage skills, set spend limits, and watch your agents work in a 3D virtual office.\n\nBut here's what no other OpenClaw tool gives you: role-based access control. Your developers get full admin access. A junior team member gets limited permissions. And your client? They get a view-only seat, but they can still talk to Quanta, our AI operations agent, and ask \"what did my agents do this week?\" or \"why did this task fail?\" Quanta explains everything in plain language. No terminal skills required.\n\nFor agencies managing agents across multiple clients, each client gets an isolated workspace. IP whitelisting and SSH tunneling keep everything locked down.\n\nAnd AgentPulse is just one layer of Rectify. Underneath, you get a full SaaS operations platform: session replay, uptime monitoring, public status pages, an AI-powered support inbox, code scanning, product analytics, public roadmap with voting, auto-generated changelogs, workflow automation, a Chrome extension, and MCP server integration for your IDE.\n\nQuanta ties it all together. It's not a chatbot sitting inside a dashboard. It IS the interface. Ask it to pull a code scan report, draft a support reply, create a changelog, check your uptime, or explain what your agents did overnight. It executes the work, not just suggests it. Every major AI provider supported through BYOK with zero markup on API costs.\n\n1000+ businesses already use Rectify. Would love to hear what you think. What would you want from an saas/agent management platform?",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is a seriously interesting take on agent ops: turning it into a visual command center (and even a 3D office) makes something quite abstract feel much more tangible and manageable.</p><p></p><p>Also love how you’re combining monitoring, workflows, and client management into one system — feels like the direction many teams will need as agent-based systems scale.</p><p></p><p>We also launched on Product Hunt today — building Ogoron, an AI system that automatically generates and maintains test coverage as products evolve. Different layer of the stack, but very similar goal: bringing structure and reliability to increasingly complex systems :)</p><p></p><p>Good luck with the launch!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The 3D office for monitoring agents is something I've never seen before. Is it just a visual gimmick or does it actually make it easier to spot which agent is stuck or failing at a glance?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "AgentPulse is the visual command center for OpenClaw. Everything you do in the terminal, you can do here: monitor agents, manage sessions, run cron jobs, track spend, assign tasks, review memory logs, and manage skills. No SSH. No JSON configs. And it's built for teams: set role-based access so your developers get full control while clients get a view-only seat where they can still talk to Quanta, your AI operations agent, to understand what's happening.",
+  "featured_at": "2026-04-06T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/fcc0f481-62f4-479f-977d-66cb0daf9d11.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c630a135-99e0-4de5-90c4-e12f01926a56.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1ace2f25-3135-4849-a44f-2ed2ad238ad1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/59f08bab-1370-49cb-8f79-8d0dd21180bb.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3a46bc55-51ad-4ba9-b8a4-025d02bf7fb1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/93432f97-2616-4a1e-b5bf-f0bb09eb7ed8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/696dcde9-76cc-4c79-a600-96832f2d051b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/acf05ae0-fde6-4c97-87a9-0ce277e6aaf1.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/db19fe6e-d1f1-4937-a922-9fe14dc1d787.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:42",
+  "landing_meta": "Rectify | Built for Founders. Run by Agents. — All-in-one operations platform for SaaS. Session replay, monitoring, support, code scanning, roadmap, and changelogs in one visual platform.",
+  "landing_text": "Rectify | Built for Founders. Run by Agents. Powering 1K+ Products Built for Founders Run by Agents One platform for monitoring, analytics, support, roadmaps, changelogs, and agent management. Control everything through conversation. 14 Day Free Trial No CC Required! Powering 1K+ Products Built for Founders Run by Agents One platform for monitoring, analytics, support, roadmaps, changelogs, and agent management. Control everything through conversation. 14 Day Free Trial No CC Required! Works With: We’re receiving valuable feedback via the Rectify widget. Very easy to use and very quick to set up. I don’t think we will ever remove it from our App. Love it! Aurelien Vasinis Founder Kuration AI We implemented Rectify at Armano and couldn’t be happier. The setup was straightforward, and our users quickly embraced the platform to provide feedback and report bugs. Highly recommended! AliReza Baensaf Founder Armano We are extremely satisfied to have implemented Rectify for Earlybird to help us gain valuable feedback from our users. The session replay feature is amazing in helping us understand user behaviour. Sam Jesani co-founder Earlybird We’re receiving valuable feedback via the Rectify widget. Very easy to use and very quick to set up. I don’t think we will ever remove it from our App. Love it! Aurelien Vasinis Founder Kuration AI We implemented Rectify at Armano and couldn’t be happier. The setup was straightforward, and our users quickly embraced the platform to provide feedback and report bugs. Highly recommended! AliReza Baensaf Founder Armano We are extremely satisfied to have implemented Rectify for Earlybird to help us gain valuable feedback from our users. The session replay feature is amazing in helping us understand user behaviour. Sam Jesani co-founder Earlybird Meet Quanta: Your AI Operations Agent Conversational Session Replay Ask Quanta to find sessions where users hit errors, rage-clicked, or dropped off. No filters to configure, no queries to learn, jus",
+  "pricing_signals": [
+    "free trial",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:43",
+  "description_ja": "OpenClawエージェントをGUIで監視・操作。チーム/顧客向けRBAC付きSaaS運用統合基盤。",
+  "summary_ja": "OpenClaw製AIエージェントの状態監視・セッション管理・cron・権限制御をGUIで完結させ、さらにセッションリプレイ、稼働監視、サポート受信箱、コードスキャン、ロードマップ、変更履歴までを一つの会話型コンソール（Quanta）で統合する個人/小チームSaaS向け運用ハブ。",
+  "tldr_ja": "国内はOpenClaw認知薄&統合監視はDatadog/Sentryが牙城。個人開発で勝つ余地は薄く、skip寄り。",
+  "review_guide_ja": {
+    "what": "AgentPulseはOSSのAIエージェント基盤OpenClawをターミナルではなくWebのビジュアル画面から操作・監視するためのコントロールパネル。エージェントの稼働状況、セッション、cronジョブ、メモリログ、スキル、課金上限を可視化し、Kanban型タスク割当やリアルタイム活動フィード、3D仮想オフィス表示も持つ。さらに親製品Rectify側で、セッションリプレイ、アップタイム監視、AIサポート受信箱、コードスキャン、プロダクト分析、公開ロードマップ、自動Changelog生成、ワークフロー自動化、Chrome拡張、MCPサーバ連携を一体提供。BYOK課金で、Quanta（自然言語インタフェース）から横断操作する。",
+    "for_who": "OpenClawで自律エージェントを本番運用している1人〜小規模チーム開発者、複数顧客のエージェント運用を代行するエージェンシー、SaaSの監視・サポート・ロードマップ管理を個別ツールで分散運用していて統合したいインディーズSaaS事業者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "セッションリプレイ、APM、サポート受信箱、コードスキャン、エージェント監視を高品質で束ねるため個人で再現困難。Quanta相当のオーケストレーション層と1000+顧客のオンボーディング実績も模倣障壁。"
+    },
+    "signals": [
+      "Product Hunt 293 upvote / 44 comments と一定の関心",
+      "OpenClawはZenn/Qiita/noteで日本語解説多数、エコシステム自体は認知拡大中",
+      "1000+ products稼働の実績訴求と14日無料・カード不要のフリクションレス導線",
+      "BYOK・API原価ゼロ転嫁で個人開発SaaSのコスト構造に合う",
+      "Datadog/Genesys等が2026年にエージェントオブザーバビリティ強化を発表しトレンドが顕在化"
+    ],
+    "concerns": [
+      "国内ではDatadog/Sentry/Langfuse/LangSmith等が監視・LLMOps領域を既に占有",
+      "OpenClaw前提のニッチで日本の企業導入はまだ実証段階、有償ARPU化が難しい",
+      "セッションリプレイは個人情報取得を伴いAPPI・電気通信事業法の意識が必須",
+      "オール・イン・ワン路線はSaaS疲れの中で機能が薄く見られがちで日本企業に刺さりにくい",
+      "親会社Rectifyが包括的に展開しており、機能模倣で個人開発が追い付けない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "OpenClawはZenn/Qiita/noteで日本語記事が複数あり関心は存在するが、本番運用でGUI監視が必要な層はまだ少なく、需要は潜在止まり。エージェントオブザーバビリティ自体はDatadog Live Tokyo 2026等でトレンド化しているため5。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "OpenClaw専用GUIは競合不在だが、より広い『エージェント観測+SaaS統合運用』の枠ではDatadog・Sentry・LangSmith・Langfuse・Helicone・SiTest等が既に占有。差別化軸が狭く、競合の少なさは低い。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "セッションリプレイはAPPIの個人情報・Cookie/SDK等で改正電気通信事業法（外形規律は月間500万/1000万MAUで適用）の意識が必要だが個人開発スケールでは規模規律は届かない。BYOKでLLMキーは顧客側保持のため越境問題も限定的。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UIは英語前提だが構造化が強くi18n対応は中程度の工数で実現可能。ただQuanta（自然言語UI）の日本語応答品質、サポート受信箱の日本語要約、変更履歴の自動生成日本語品質は別途調整が必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "BYOK・月額制は日本のスタートアップに受け入れられつつあるが、日本企業は『分散SaaS統合・全部入り』に懐疑的でSaaSポカリプス的反発もある。RBACで顧客に見せる代行モデルはエージェンシー商習慣に合致するため中庸。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Datadog（Japan法人）",
+        "url": "https://www.datadoghq.com/ja/",
+        "note": "APM・セッションリプレイ・LLM Observability・AIエージェント監視を一括提供。Datadog Live Tokyo 2026開催で国内大手導入加速。"
+      },
+      {
+        "name": "Sentry",
+        "url": "https://sentry.io/",
+        "note": "個人開発の定番。$29/月〜100kエラー込みで指数的に普及。Datadog比でコストが小さく個人開発SaaSの第一選択。"
+      },
+      {
+        "name": "Langfuse（OSS）",
+        "url": "https://langfuse.com/",
+        "note": "LLM/エージェント観測のOSS。LayerX等国内採用例があり、ZOZOテックブログでも導入事例公開。セルフホスト可能で日本企業フィット高い。"
+      },
+      {
+        "name": "LangSmith",
+        "url": "https://smith.langchain.com/",
+        "note": "LangChainエコシステム前提のLLMOps。商用利用は有償。LangChain/LangGraph採用国内チームには事実上の標準。"
+      },
+      {
+        "name": "SiTest（グラッドキューブ）",
+        "url": "https://sitest.jp/",
+        "note": "国内セッションリプレイ/ヒートマップSaaS。日本語サポート・国内事例多数で非エンジニア層に強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（APPI）",
+        "impact": "セッションリプレイ・サポート受信箱・メモリログで個人データ・閲覧履歴を扱うため、利用目的明示、保管国（米国SaaSなら外的環境把握）、外部送信規律対応が必要。BYOK採用でLLM側越境は緩和。"
+      },
+      {
+        "law": "改正電気通信事業法（外形規律・特定利用者情報）",
+        "impact": "無料1000万/有料500万MAU超で特定利用者情報の適正取扱規律対象。個人開発規模では即時非該当だが、Cookie/SDK等の外部送信先表示義務は規模問わず留意。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "AIサポート受信箱から自動返信・ニュースレター送信を行う場合、オプトイン取得と送信者表示義務。"
+      }
+    ],
+    "opportunity": "勝ち筋は『OpenClawに特化した日本語GUI』に絞ること。Zenn/Qiita/note解説層は技術好奇心は高いがOpenClawをチームや顧客に渡す段階で詰まる。①日本語Quanta相当のチャットUI、②LINE/Slack連携の通知監視、③APPI/電気通信事業法を意識した日本語の外部送信先表示テンプレ、④BYOK前提で原価ゼロ転嫁、を打ち出せばインディーズSaaS開発者と1人代行エージェンシー領域でニッチを取れる可能性はある。ただし市場規模は限定的。",
+    "rationale": "OpenClaw自体は国内コミュニティでの認知が広がっているものの、本番運用してチーム/顧客へRBAC共有する段階に到達したユーザは少数。一方、より広い『SaaS+エージェント統合運用』ではDatadog・Sentry・Langfuse・LangSmith・SiTestといった既存プレイヤーが各層を押さえており、本家Rectifyのオール・イン・ワン戦略と真正面から競合する個人開発はほぼ不可能。規制は個人スケールでは大きな障壁ではないがセッションリプレイで個情法配慮が必要。商習慣面ではSaaSポカリプス回避のため『全部入り』はかえって警戒される。総じて市場機会は中位、勝ち筋は極めて狭い特化型に限られ、verdictはskip。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "日本のSaaS型AI運用ツールは月額1〜10万円相場だが、その帯はDatadog/Sentryで既に埋まっている。個人開発でOpenClaw特化に絞ると課金ターゲットが薄く、有償化壁は厚い。BYOKで原価は抑えられるがARPU天井は低い。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内SaaS市場CAGRは19%台、AIエージェント市場も拡大中で全体は広い。ただし『OpenClaw本番運用+RBAC必要』に絞ると数千社規模に縮む。広い市場×狭いセグメントで中位評価。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発者がリーチ可能なのはQiita/Zenn/note/X中心。だが意思決定者がCTO/エージェンシー経営層になるためPLG単独では届きにくく、Datadog相当の信頼性を求める法人受注はSI/人脈必須。GTMは厳しい。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "DatadogがAIエージェント観測コンソールを2025-2026年に投入、Genesys/Salesforce等も2026年トレンドとして提示。本家Rectifyも稼働中で時間窓は既に狭い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "セッションリプレイ・稼働監視・サポート受信箱・コードスキャンはどれも障害時のSLA期待値が高く24/7の応答が求められる。個人運用には負荷が極めて重い。"
+      }
+    },
+    "rationale": "市場全体は拡大基調だがリーチ可能セグメントが狭く、競合の信頼性・統合度が高い領域でPLG単独で勝つのは難しい。BYOKで粗利率を確保できる構造はあるが、ARPU水準とCS負荷を考えると個人運用での月商10〜30万円規模を超えるのが難しい。本家Rectify自体が1000+顧客の実績で資金/開発体力を持つため、機能追従でも逃げ切れない。日本市場で勝てる狭いニッチ（OpenClaw特化+日本語+LINE/Slack通知）に絞り込めば月商数万円規模の副業SaaS化は可能だが、本格事業化は厳しく、go/no-goとしてはno_go寄り。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 4000,
+      "plans": [
+        "Free: OpenClaw 1インスタンス・エージェント3体・閲覧用顧客シート1名・コミュニティサポート",
+        "Solo: ¥1,980/月 エージェント10体・cron監視・日本語Quanta(BYOK)",
+        "Team: ¥6,800/月 RBAC・3ワークスペース・LINE/Slack通知・セッションリプレイ10kセッション",
+        "Agency: ¥19,800/月 顧客5ワークスペース・IPホワイトリスト・SSHトンネル・優先サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "OpenClawまたは類似OSSエージェントを本番運用している国内インディーSaaS開発者、複数クライアント向けにAIエージェント運用代行を行う1〜5名のエージェンシー、社内向けエージェント運用を任された情シス兼任エンジニア（根拠未確認、控えめに見積もり）。",
+      "target_count": 5000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 60000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita/noteで『OpenClaw本番運用テンプレ』連載しSEO流入を取る",
+      "X(旧Twitter)個人発信＋OpenClaw日本コミュニティDiscord/Slackでの口コミ拡散",
+      "OpenClaw公式ドキュメント/Awesomeリスト掲載狙いでOSSアダプタを先に公開",
+      "PLG: 14日無料・カード不要・GitHubログイン直入の超低フリクション導線",
+      "代行エージェンシー向け『顧客閲覧モード』を売りにLP分離しPHやIndieHackersで再露出"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家Rectifyが日本語UI・LINE連携を投入すれば差別化が瞬時に消える。時間窓1年未満。",
+      "DatadogのAIエージェントコンソールがOpenClaw連携を出すと法人案件は丸ごと持っていかれる。",
+      "セッションリプレイ機能はAPPI/外部送信規律対応が必要で、表示同意UI実装漏れは行政対応リスクとなる。",
+      "OpenClawエコシステムの方針変更（API破壊的変更・有償化）で前提が崩壊する依存リスク。",
+      "1人運用で24/7監視SLA期待のあるAPM/サポート領域に手を広げると、初回顧客の障害対応で燃え尽きる。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

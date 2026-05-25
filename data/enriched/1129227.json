@@ -1,0 +1,275 @@
+{
+  "name": "Inrō AI",
+  "description": "Your AI Agent for Instagram Marketing",
+  "ph_url": "https://www.producthunt.com/products/inro/launches/inro-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/5AJNE6RPAHQECB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-25T07:01:00Z",
+  "upvotes": 244,
+  "comments": 29,
+  "topics": [
+    "Instagram",
+    "Artificial Intelligence",
+    "Marketing automation"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "hey PH 👋\nkshitij here from Inrō :)\n\nso today is the day i've been talking about for a while now, and i'm genuinely excited to finally share this with you all. for those who've been following along in the forums, you've seen me tease this over the last couple of weeks.\n\ntoday is where it all comes together. 🎉\nIntroducing the Inrō AI Agent ✨ \n\nthis marks our evolution from a solid DM automation tool to a full platform that handles your Instagram DMs, comments, and marketing end-to-end. not a chatbot. an actual agent that thinks, acts, and follows up on its own.\n\nhere's what it does:\n\nthe AI agent 🤖 \nunderstands your tone, knows your goals, reads your knowledge base, collects info mid-conversation, takes action, and hands off to a human when needed. the full conversation, handled.\n\nAI inside every automation ⚡\n👉 questions that understand intent and route correctly, no keywords needed\n👉 extracts names, emails, budgets, dates and saves them to the contact automatically\n👉 condition branches based on what someone actually said\n👉 full agent handover mid-flow, it handles the back and forth, then returns control\n👉 just describe what you want, Inrō builds the flow\n\nthe quiet stuff that makes it actually work 🔧  \nintent-based triggers, folder exclusions, spam and hate detection, automatic opt-out handling. none of it needs setup. it just runs.\n\nand all of this sits on top of everything we've already built 🔌\n20+ triggers, 40+ actions, full CRM, DM campaigns with branching and scheduling, Shopify, Stripe, Calendly, ElevenLabs, 8,000+ tools via Make, full API, and an MCP server so you can run Inrō from Claude or ChatGPT in plain language.\n\n🎁 PH exclusive: 50% off Pro for 2 months. link auto-applies the code, just click through.\n\nso try it today and ask away your questions! our entire team is here to answer everything and take suggestions on where we should evolve next. really looking forward to engaging with the community today 🙌",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey, Pierre here, CTO.</p><p></p><p>Kshitij covered the what. I'll give you a bit of the how and why, since I know this community tends to care about that.</p><p></p><p>The hardest part of building the AI Agent wasn't the AI. It was making it behave predictably inside a platform with thousands of active automations already running.</p><p>Getting intent detection, mid-flow CRM writes, and agent handovers to work reliably without touching existing flows took most of the last year.</p><p></p><p>A few things worth knowing under the hood:</p><p></p><p>1️⃣&nbsp;AI models tend to be very chatty and quite slow. That does not work for DMs and comments. It took a lot of engineering and optimisation for the AI Agent to reply in a few seconds, including emojis, likes, etc. and still stick to the knowledge provided.</p><p></p><p>2️⃣&nbsp;The knowledge base runs on RAG, so the agent retrieves relevant context before responding rather than making things up.</p><p></p><p>3️⃣&nbsp;The MCP server exposes 40+ tools to external agents, meaning Claude or ChatGPT can query contacts, trigger scenarios, and manage campaigns directly without touching the UI.</p><p></p><p>📺&nbsp;On the product side, the thing I'm most proud of is how much of this runs without configuration. Opt-out detection, spam filtering, folder exclusions, intent triggers.</p><p></p><p>It all works in the background. You set up your flow and it handles the edge cases itself.</p><p></p><p>If you have questions about the stack, the API, the MCP integration, or anything technical, I'm here.</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey everyone, Etienne here, I'm the CEO.</p><p>I want to add some context on the commercial side because it tells part of the story Kshitij didn't cover.<br></p><p>When we were last on Product Hunt, we had a handful of early customers and, honestly, more conviction than proof.</p><p>Today, we're at 10,000+ active users with accounts at Loréal, Walmart, Kering, Publicis, and Virgin Voyages, among others. Seeing it work for both a solo creator and an enterprise brand in the same week still surprises me a little.<br></p><p>The question I get most often is about pricing, specifically how we handle AI given its central role in the product now. The answer is straightforward.<br><br>The AI Agent is fully included in Pro. No add-on, no separate usage fee. <br><br>Many tools charge extra for AI features. We made a deliberate decision not to do that.<br></p><p>And if you're discovering Inrō for the first time today, we're running 50% off for the first 2 months as part of this launch. <br>Worth trying now if you've been curious.</p><p><br>If you have questions about pricing, how the plans work, or how Inrō fits into a broader marketing setup, drop them here, and I'll answer directly.</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Inrō's AI Agent handles your Instagram DMs end-to-end. Set a goal, train it on your knowledge, and let it engage your audience, qualify leads, book calls and follow up on its own. AI is also built into every automation step, detecting intent, branching on conditions, and handing off to the agent mid-flow. Describe what you want and Inrō builds the automation for you. Connects to Claude, ChatGPT, Shopify, Stripe and 8,000+ tools. Meta-approved, join 10000+ brands and creators today!",
+  "featured_at": "2026-04-25T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/04283021-a558-41be-a189-2418bbfc7fbe.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/09ad4932-b3e7-41cd-905f-c209c7cdac67.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/db837548-77a0-47d0-b8f0-41c9d281fec2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/eba413a7-6b60-4de2-81ad-9f1542bc6d1d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2feca8cc-d6f1-44fc-a233-ca66b00824d2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2c2f663d-881e-4d79-8f9c-03dcc88f2aef.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3f3bfd71-2a4d-4b0f-a784-c6484a471751.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/de405a2e-d92b-4366-8bcb-8c84e1103ff6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/847c2a67-b213-4605-8ae8-35449443ef76.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/899facf3-dd3a-4f9a-93ed-95e1cf4c4945.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/89e1b47b-7aed-4385-9351-c1bdc1af6c3e.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:29",
+  "landing_meta": "Inrō AI Agent for Instagram | Product Hunt Exclusive 50% Off — Automate your Instagram interactions while your DMs work for you. Everything included in Pro plan. 50% discount for 2 months.",
+  "landing_text": "Inrō AI Agent for Instagram | Product Hunt Exclusive 50% Off Product hunt launch Inrō is evolving into an AI Agent AI that engages audience, answers questions, qualifies leads, sells, and follows up on its own. Get started Used by 10,000+ creators and brands, including Walmart & Raposdie Setup Set a goal. Train it.Let it run. Live in 4 steps. No technical setup required. 1 Connect your instagram Log in with Instagram. Inrō reads your profile and starts learning your brand. 2 Set personality and tone of voice Define your agent's tone, goals, and what topics to handle (or ignore). 3 Upload knowledge Add your website, PDFs, or product catalog. The agent uses it to answer questions. 4 Define actions Tell the agent what to do: send a link, book a meeting, start an automation. Automation AI that thinks inside your workflows Intent triggers, smart conditions, and full agent handover, all inside the visual flow builder. 5 AI smart blocks in your flows AI isn't bolted on. It lives inside the drag-and-drop builder alongside your regular automation steps. Ask questions with AI AI data collection AI Agent message AI Condition Branches Hand over to AI Agent Describe it. Inrō builds it. Type what you want to automate in plain language. The AI generates the entire scenario for you. AI quality of life AI uses intent detection and automatically filters hate comments, detect opt-outs, and collects data inside the conversation. MCP support for the AI you choose Connect Claude, ChatGPT, or any external AI agent to Inrō via MCP, and let them take actions across your Instagram workflows. Full platform More than an AI Agent DM campaigns, visual automations, CRM, and everything you need to grow on Instagram. Messaging DM Campaigns Broadcast messages to segmented audiences Smart Inbox Unified DM, comment, story reply inbox Comment-to-DM Turn comments into conversations Templates Browse, clone, share scenarios and campaigns Automation & Analytics Visual Flow Builder Drag-and-drop scenario ed",
+  "pricing_signals": [
+    "pricing",
+    "free plan"
+  ],
+  "landing_fetched_at": "2026-05-26T04:00:29",
+  "description_ja": "Instagram DM・コメントを自動応答する AI エージェント。意図検出と RAG で会話を完結し、リード獲得まで実行",
+  "summary_ja": "Instagram の DM・コメントを 24/7 自動対応する AI エージェント SaaS。知識ベース(RAG)を学習し、意図検出・条件分岐・人間引き継ぎを行いリードを獲得。Meta 公式 API ベースで Shopify/Stripe/MCP 連携も可能",
+  "tldr_ja": "国内に iステップ・エルグラム等の確立競合が複数、Meta API 審査も重く個人開発の参入余地は薄い。skip 推奨",
+  "review_guide_ja": {
+    "what": "Instagram の DM とコメントを AI エージェントが 24 時間自動対応する SaaS。知識ベース(RAG)を学習させトーンや目的を設定すると、意図検出・データ抽出(名前/メール/予算)・条件分岐・有人ハンドオフまで一気通貫で実行する。20+ トリガーと 40+ アクション、ビジュアルフロービルダー、内蔵 CRM、DM 一斉配信、コメント→DM 変換、Shopify/Stripe/Calendly/ElevenLabs 連携、Make 経由 8000+ 連携、MCP サーバで Claude/ChatGPT からも操作可能。Meta 公式 API 経由なのでアカウント BAN リスクは低い。典型用途は EC のリード獲得、サロン/講座予約、ウェビナー集客、クリエイターのコミュニティ運用",
+    "for_who": "Instagram を主軸にする中小ブランド、D2C/EC、コーチ・サロン・クリエイター、エンタープライズの SNS マーケチーム。海外では L'Oréal/Walmart/Kering/Virgin Voyages 等の大手と個人クリエイターの両方が利用。日本では Insta 集客に投資する個人事業主・EC 担当者が想定顧客",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Meta Graph/Messaging API のビジネス審査(数日〜2週間)、RAG とフロービルダー、24h 応答ウィンドウ制約への対応、スパム検出/オプトアウト処理を含む安定運用基盤の構築が必要"
+    },
+    "signals": [
+      "PH 244 upvotes / 29 comments と高い反応",
+      "CEO 公表で MAU 10,000+ かつ L'Oréal/Walmart/Kering 等のエンタープライズ実績",
+      "AI エージェント機能を Pro プランに追加課金なしで含める価格戦略",
+      "MCP サーバ実装で Claude/ChatGPT から DM 運用を操作可能",
+      "8000+ ツール連携(Make 経由)と Shopify/Stripe 直接統合"
+    ],
+    "concerns": [
+      "Meta API のポリシー/料金変更で機能が一夜で制限されるプラットフォームリスク",
+      "AI 応答の品質と速度を維持するインフラコストが高く、利益率を圧迫しやすい",
+      "アカウント BAN や 24h ウィンドウ違反のクレームが個人運用では SLA 重荷",
+      "日本市場では iステップ・エルグラム等の現地競合がチャネル/代理店ネットワークを既に構築",
+      "国内中小は SNS 運用を代行会社にアウトソースする傾向が強く、PLG が刺さりにくい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "国内 Instagram 利用者は 5500 万人超、月商 1 億円未満の中小企業の 9 割が Insta 運用に効果実感という調査結果あり。EC 連携・DM 経由のコンバージョン需要は顕在で、SNS マーケ市場全体も 2022 年 7833 億円→2027 年 1.8 兆円規模に拡大見込み"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "iステップ(月 2.2 万円, 公式 API)、エルグラム(月 1.1 万円, 導入 1 万件超)、SAKIYOMI チャット、BEEAM、Rox Message、PITTA 等、Meta 公式 API ベースの国内ツールが多数確立。運用代行会社との抱き合わせ販売ネットワークも存在し、後発の参入余地は狭い"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "特定電子メール法は SMTP/SMS 対象のため Instagram DM は規制対象外。ただし個人情報保護法は適用(メール/氏名/予算等の取得・保管)。Meta のアプリレビュー(数日〜2週間)が実質的な参入障壁。景表法・特商法は配信内容で適用余地"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UI/敬語/丁寧語のトーン調整、日本語 RAG の精度確保、絵文字・スタンプ慣習への対応が必要。フロービルダーの構造自体は API 中心で移植性高いが、知識ベース部分の日本語チューニングと CS テンプレが鬼門"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "B2C の EC・サロン・クリエイター文脈には親和性高いが、日本企業は SNS 運用を代行会社/代理店に外注する慣習が強く、ツール直販より代理店経由販売が効く。請求書/銀行振込・年契約嗜好への対応も必要"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "iステップ",
+        "url": "https://istep.click/",
+        "note": "Meta 公式 API ベース、月額 22,000 円(年契約 16,500 円)、通数無制限。令和の虎・稲葉信氏が開発で認知が高く、上場企業から個人事業主まで採用実績"
+      },
+      {
+        "name": "エルグラム",
+        "url": "https://lgram.jp/",
+        "note": "Meta 公式 API、スタンダードプラン月額 11,000 円。導入実績 1 万件超、ユーザー数 3000 超。フリープラン 1000 通/月の安価帯で個人事業主層を獲得"
+      },
+      {
+        "name": "SAKIYOMI チャット",
+        "url": "https://sns-sakiyomi.com/",
+        "note": "Instagram 専用 DM 自動送信。キーワード/リアクション条件で最適メッセージ送信。SAKIYOMI 運用代行のクロスセル経路を保有"
+      },
+      {
+        "name": "BEEAM (プロパゲート)",
+        "url": "https://www.propagateinc.com/instagram-dmsystem",
+        "note": "DM 自動送信ツール。アカウント BAN 対策と運用代行サポートを訴求"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "DM 内で名前/メール/電話/予算/予約日時を収集・保存するため、利用目的の明示・保管期間・第三者提供・委託管理(米国/EU リージョンサーバ利用時の越境移転)対応が必須。プライバシーポリシー整備と DPA 整備が必要"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "消費者庁見解で対象は電話番号/SMTP 経由のメッセージに限定されるため Instagram DM 自体は規制対象外。ただし DM 中で取得したメールアドレスへ営業メールを送る場合はオプトイン必須"
+      },
+      {
+        "law": "景品表示法・特定商取引法",
+        "impact": "DM 配信内容が広告に該当する場合、優良誤認/有利誤認の表示規制、価格表記、定期購入の表示義務が適用。自動応答の誤回答による誤認表示リスク管理(ログ保持・運営者責任)が必要"
+      },
+      {
+        "law": "Meta プラットフォームポリシー",
+        "impact": "Messaging API の 24 時間応答ウィンドウ、ブロードキャストの事前承認、スパム検出によるアカウント制限。公式 API アプリレビューを通過しないと商用提供不可で、申請には実利用デモが必要"
+      }
+    ],
+    "opportunity": "国内競合(iステップ/エルグラム)は『DM 自動返信+簡易フロー』に強いが、AI エージェントによる動的応答・知識ベース(RAG)・MCP 連携・AI フロー生成の体験はまだ薄い。差別化角度は (1) 日本語 RAG 特化(店舗マニュアル/EC 商品 DB を Insta DM で問い合わせ対応)、(2) LINE 公式アカウントとのクロスチャネル運用、(3) Shopify Japan/BASE/STORES など日本 EC への直結、(4) 美容/サロン/コーチ等の業種別テンプレ提供。ただし PLG だけでは代理店ネットワークに勝てず、運用代行会社と OEM 提携する経路が現実的",
+    "rationale": "需要面では Instagram が日本の中小・EC・クリエイター向け最有力チャネルで、DM 自動化の市場は確実に拡大している。一方、国内には Meta 公式 API ベースの確立競合が複数存在し、月額 1.1〜2.2 万円という ARPU 帯で価格競争が始まっている。Inrō 本体のグローバル価格(€12.99〜)を考えると、コア機能の優位性(AI Agent・MCP)は強いものの、後発の個人開発者が日本市場で独自プロダクトを立てる場合は、競合不在カテゴリではないため『差別化×ニッチ業種特化』が必須。watch スコア相当だが市場機会自体は否定しない"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "国内同カテゴリは月額 1.1〜2.2 万円で課金実績あり、運用代行込みなら月 5〜30 万円帯。個人事業主・EC 担当は SaaS 課金に抵抗が少なく、ARPU は確保可能。ただし価格競争に巻き込まれやすく、無料枠を厚くしないと獲得しづらい"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本の Instagram ビジネスアカウントは数十万規模(根拠未確認/正確統計は不明、公開数値では国内 5500 万ユーザー、活発な BA は数万〜数十万推定)。SNS マーケ市場は 1 兆円超に成長見込みだが、DM 自動化ツール導入率は数%レベルで顕在市場は限定的"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "日本では Instagram 運用代行会社が窓口となり、ツールは代理店経由で売られるケースが多い。個人開発者が EC 事業者・サロンに直接 PLG リーチするのは難しく、X/Qiita/note では情報感度の高い層しか取れない。代理店開拓には営業リソースが必要"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "Inrō 本体が既に英語圏で 10,000+ MAU、エンタープライズ実績あり。日本進出も時間の問題で、本家ローカライズ前の猶予は短い(12〜18 ヶ月程度)。さらに iステップ・エルグラムが既に市場を取り始めており、後発参入の時間窓は狭い"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "Meta API のポリシー/仕様変更追従、アカウント BAN 対応、24h 応答ウィンドウ違反のクレーム処理、AI 応答品質の継続改善、RAG インデックス更新、CS 対応(B2C 顧客は SLA 期待値が高い)。個人運用では夜間障害対応で疲弊する典型ジャンル"
+      }
+    },
+    "rationale": "ARPU 帯は確保できる市場だが、(1) 国内競合が公式 API ベースで既に確立、(2) 代理店/運用代行が販売窓口となる商習慣で PLG が刺さりにくい、(3) Meta プラットフォーム依存と 24/7 運用負荷で個人開発の継続が困難、という三重苦。Inrō 本家の日本進出余地もあり、独自プロダクトを立てる事業性は弱い。仮にやるなら『業種特化(美容/サロン/D2C)+運用代行 OEM 提携』のニッチ攻めが必須で、PLG 単独では月商目標を達成しにくい"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: 月 100 DM・1 フロー・コミュニティサポート",
+        "Lite: ¥3,000/月 - 月 1,000 DM・3 フロー・基本 AI 応答",
+        "Pro: ¥9,800/月 - 通数無制限・AI Agent(RAG)・CRM・有人引き継ぎ",
+        "Agency: ¥29,800/月 - マルチアカウント・代理店向け管理画面・優先サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Instagram 集客を主軸にする国内中小 EC/D2C、サロン(美容/エステ/整体)、コーチ・講師・コミュニティ運営者、Instagram で受注する個人事業主。代理店経由では Instagram 運用代行会社を OEM パートナーに想定",
+      "target_count": 50000,
+      "capture_pct_year3": 0.1,
+      "monthly_revenue_target_jpy": 150000
+    },
+    "recommended_gtm": [
+      "業種特化テンプレ(美容/サロン/D2C)を Instagram/X/note で実例公開し PLG 流入",
+      "運用代行会社 5〜10 社と OEM/レベニューシェア提携で代理店ネットワーク構築",
+      "Shopify Japan/BASE/STORES のアプリストアに Insta DM 自動化アプリとして掲載",
+      "Qiita/Zenn で Meta Graph API・Messaging API 実装 Tips を継続発信し技術権威を獲得",
+      "美容業界・サロン経営者の YouTube/Voicy 等で成功事例コラボ"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Meta プラットフォーム依存。API 仕様変更・規約改定・アカウント停止で機能が一夜で停止するリスク。Inrō 本体や ManyChat もこの影響を受けるが、個人開発では復旧スピードが致命的に遅い",
+      "国内競合 iステップ・エルグラムが公式 API・代理店網・運用ノウハウで先行。後発が同じ土俵で価格/機能勝負しても勝てない",
+      "24/7 SLA 期待値。B2C 顧客は DM 自動応答の障害=売上機会損失と認識し、深夜対応や即時返金を要求しがち。個人運用では消耗",
+      "AI 応答品質クレーム。誤回答が景表法/特商法の誤認表示に発展する場合、運営者責任を問われ得る。ログ保持・モニタリングのコストが嵩む",
+      "Inrō 本体や ManyChat の日本進出。MCP/AI Agent の機能優位は時間とともに本家ローカライズに追いつかれる。差別化角度を維持できないと市場を奪われる"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

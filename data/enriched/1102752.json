@@ -1,0 +1,244 @@
+{
+  "name": "ProdShort",
+  "description": "Turn meetings into ready-to-post shorts and posts",
+  "ph_url": "https://www.producthunt.com/products/prodshort/launches/prodshort?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/5O7FS7MXUZ4VCP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-09T07:01:00Z",
+  "upvotes": 758,
+  "comments": 155,
+  "topics": [
+    "Social Media",
+    "Meetings",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>I <strong>struggled with content creation</strong>. Scripting, memorizing, filming, editing. None of it was enjoyable. Especially when it ate into time I needed to build my product and find customers.<br></p><p>But <strong>founder-led marketing and building in public are key </strong>to brand, sales, and fundraising. I couldn't skip it.<br></p><p>So I <strong>started recording calls and turning them into Reels</strong>. It worked incredibly well. I went from not posting at all to <strong>one Reel a day</strong>. The content is authentic, people love it, and I hit a <strong>million views</strong> with minimal effort posting stuff I actually enjoy, that <strong>aligns with my values</strong>.<br></p><p>If you're a builder and you want to create content around your niche, join us. Our mission is to help you do exactly that with minimum effort.</p><p>Prodshort helps you record calls and transform them into Reels easily. And <strong>with </strong><a href=\"https://chat.whatsapp.com/FZ5o8VTwixi8olkDTUQBOE?mode=gi_t\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>the community</strong></a>, <strong>we do calls together</strong>, improve our workflows, and <strong>support each other</strong>.</p><p></p>",
+      "votesCount": 19,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p> a hitting a million views by just recording stuff you actually enjoy is the dream. we spend way too much time on production and not enough on the actual product. how long does the 'transformation' into reels usually take with prodshort? <a href=\"https://www.producthunt.com/products/prodshort\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"prodshort\" target=\"_blank\" rel=\"noopener\">@ProdShort</a> <a href=\"https://www.producthunt.com/@amraniyasser\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"amraniyasser\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@amraniyasser</a> <a href=\"https://www.producthunt.com/@bengeekly\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"bengeekly\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@bengeekly</a> </p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><strong>Hey PH Community</strong> 👋</p><p><br>Creating content takes too much time and effort. You need to script, memorize, record, edit, add subtitles, resize…<br>And most builders simply <strong>don’t have time for all that</strong>.</p><p></p><p>Some of <strong>the best content</strong> (discussions, ideas, team calls, sharing advice...) happens <strong>live on calls</strong>, and then disappears once the call ends. There’s a lot of <strong>valuable content</strong> there.</p><p></p><p><strong>Prodshort </strong>records your calls and turns them into<strong> ready-to-post content (shorts, LinkedIn, X...). </strong>No scripts, no editing.<strong> Just real moments turned into content.</strong><br></p><p><a href=\"https://chat.whatsapp.com/FZ5o8VTwixi8olkDTUQBOE?mode=gi_t\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Join the community</strong></a><strong> </strong>and start creating content. We do calls together and<strong> fully support each other.</strong></p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Founders fail at content because it's time consuming and AI just still feels fake. Prodshort fixes that. We don’t generate content. We capture it. Everything you say in meetings is already valuable. We cut it, refine it, and turn it into ready-to-post shorts, Linkedin, Twitter... Automatically. No scripts. No fake voice. No overthinking. Just you, turned into content.",
+  "featured_at": "2026-04-09T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/38e5b6bb-8906-4a84-aa93-14252e90b39c.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1f2454b3-cd5f-4657-b2bf-2ab1d6763257.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/99c1da42-287f-43b3-8311-f307933cd932.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4a8354df-9d82-4bdc-9d31-b2a36bcc113f.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a0607543-a6b7-465a-ae5f-167411bc6970.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e5a3f258-d9b0-41ea-a788-2d5f2f77d900.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/17905af1-09d4-4ff4-aa78-459e587ad5a0.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:11",
+  "landing_meta": "ProdShort — Turn Your Meetings Into Short Clips, Automatically — ProdShort joins your Google Meet, Zoom, or Teams call, records it, and helps you create branded short-form clips with animated captions — ready to post on LinkedIn, TikTok, and Instagram.",
+  "landing_text": "ProdShort — Turn Your Meetings Into Short Clips, Automatically Document, don't create. Your personal brand , on auto-pilot. Record once. ProdShort clips , captions, and schedules while you stay present. Get Started Watch Demo Clips on Autopilot Your calls are analyzed and trimmed into punchy, shareable shorts with no timeline scrubbing or editing needed. Publish Everywhere Schedule and post to LinkedIn, Twitter, TikTok and more straight from your dashboard in one click. Works with Google Meet Zoom Microsoft Teams Who it's for Built for people whose ideas live in their mouth, not their keyboard. 01 Founders. Your best thinking happens on calls. It deserves a wider audience than the four people on the Zoom. 02 Coaches and consultants. Every session is a master class. Document the practice and the marketing happens on its own. 03 Operators and experts. You explain it brilliantly when someone asks. Now it lives somewhere your next client can find it. Founder's note Why I built this. From Amine, founder of ProdShort “ I'm on six calls a day saying things I'd love to post about. I never do, because editing a clip takes four hours. Meanwhile my feed is full of AI-written posts that all sound the same. ProdShort is the tool I wanted: it captures the good moments from my actual calls and posts them for me. Nothing written by AI. Nothing made up. Just what I already said, shipped. — Amine, founder Pricing Start small. Scale when it's working. No annual lock-in. Cancel anytime. Indie $4.99 /mo For trying it on a few calls. 5 exports / month 5 meetings / month 30-day history Animated captions ProdShort watermark Start with Indie Founder Best value $49 /mo For founders releasing weekly. 40 exports / month Unlimited meetings 90-day history No watermark Custom logo & branding LinkedIn, TikTok & Instagram publishing AI captions written per platform Start Founder plan Studio $99 /mo For teams documenting at scale. Unlimited exports Unlimited meetings 180-day history No watermark + c",
+  "pricing_signals": [
+    "pricing",
+    "$4.99",
+    "$49",
+    "$99"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:13",
+  "description_ja": "会議を録画し、そのまま投稿できるショート動画とSNS投稿に自動変換",
+  "summary_ja": "Google Meet/Zoom/Teamsに同席して通話を録画し、ハイライトを縦型ショート動画＋字幕＋LinkedIn/X/TikTok向け投稿に自動変換。ファウンダーが「話した内容」をそのままコンテンツ化できる。",
+  "tldr_ja": "ファウンダーの発信需要は国内薄め、議事録AIと切り抜きAIに挟撃されSNS連携の優位だけが残る。日本では切り抜き支援機能としての横展開が筋。",
+  "review_guide_ja": {
+    "what": "Google Meet・Zoom・Microsoft Teamsの会議にボット参加し、通話を録画して文字起こし。AIが「投稿向きの瞬間」を抽出し、縦型ショート動画にカット、アニメ字幕とプラットフォーム別キャプションを自動生成し、LinkedIn・X・TikTok・Instagramへワンクリック投稿/予約までを一気通貫で行う。ファウンダーのbuilding in public、コーチ/コンサルのセッション切り抜き、オペレーター/エキスパートが顧客に説明する瞬間のオウンドコンテンツ化が典型ユースケース。プランはIndie $4.99（5本/月・透かしあり）、Founder $49、Studio $99の3階層で、無料お試しはなくIndieが実質エントリ。",
+    "for_who": "個人〜小規模チームのSaaSファウンダー、ソロのコーチ・コンサル・士業、社内講師やオペレーション専門家など、毎日複数の打合せをこなしつつLinkedIn/X/Reelsで自分の知見を発信したい英語圏中心の人物。日本では「商談を録って発信する」文化が薄く、英語圏のbuild in public層が主な需要源。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "ボット参加（Recall.ai等）/STT/LLM要約/縦動画レンダリング/各SNS投稿API連携と要素は多いが既存OSSと商用APIで組める。日本語STT精度とフェイス追跡編集が個人開発のハードル。"
+    },
+    "signals": [
+      "Product Hunt 758 upvotes / 155 comments とエンゲージメント高め",
+      "ファウンダーled marketing/building in publicという英語圏で確立したトレンドに乗っている",
+      "tl;dv・Fathomなど既存ノートテイカーが持たない『縦型クリップ＋自動投稿』に絞った差別化",
+      "Indie $4.99というクリエイター個人が払いやすいエントリ価格",
+      "Founder $49で透かし除去＋プラットフォーム別AIキャプション、ARPU設計が明確"
+    ],
+    "concerns": [
+      "tl;dv/Fathom/Otter/Rimo/Notta等の議事録AI、Opus Clip/Vrew/Klap等の切り抜きAIの両側面から侵食されやすい",
+      "日本では商談録画＝SNS投稿という発信スタイルが希少で需要が薄い",
+      "ファウンダー以外の用途（コーチ/コンサル）に広げないと顧客プールが小さい",
+      "通話本人以外の参加者の肖像権/同意管理が必要、誤投稿時のレピュテーション事故",
+      "Zoom/Google/Microsoft各社が自社ノートテイカーへショート出力機能を統合してくる時間軸が短い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 3,
+        "reason": "日本のファウンダーがX/LinkedInで毎日リール発信する文化は限定的。building in public自体は浸透しつつあるが、商談録画を切り抜くスタイルの言及はQiita/note/X上でほぼ見られず、需要は極めて薄い（検索で根拠未確認の量感）。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "AI議事録側はOtolio・Notta・AI GIJIROKU・Rimoが市場の半分を占有、切り抜き側はVrew・Klap・Opus Clip・国内CLIPが台頭。会議録画→ショート化の組合せは正面の直接競合は少ないが、両側から機能侵食を受ける構造で、純粋なホワイトスペースは小さい。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "国内で会議録画自体は同意必須ではないが、参加者の肖像権・通信の秘密・個人情報保護法上の利用目的明示が必要。商談相手の発言をSNS切り抜き投稿する場合は別途明示同意が事実上必須となり、企業案件で運用ハードルが上がる。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "STTの日本語精度はOpus Clip系で課題が残り、字幕の漢字変換・改行・縦書きUXに踏み込む必要がある。LinkedInの国内利用が薄くX/Instagram比重が高い、投稿予約APIの整備など、UIだけでなくチャネル設計の作り直しが要る。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本のBtoB商談は録画自体に抵抗が強く、まして商談内容をSNS切り抜きにする慣習はない。ファウンダー個人発信でも顔出し・本音トークの忌避感が英語圏より高く、商習慣との相性は根本的に低い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Notta",
+        "url": "https://www.notta.ai/ja",
+        "note": "国内議事録AIシェア2位（約12%）。Notta Botで会議に同席し文字起こし。ハイライト機能はあるが縦型ショート動画出力は無し。"
+      },
+      {
+        "name": "Otolio (旧スマート書記)",
+        "url": "https://www.smartshoki.com/",
+        "note": "国内議事録AIシェア1位（約19%）。法人向けに強く、議事録の社内共有が主軸。SNS切り抜きには未対応。"
+      },
+      {
+        "name": "Vrew",
+        "url": "https://vrew.ai/ja/",
+        "note": "Voyager X製の日本語対応AI動画編集。テロップ自動生成・無音カット・AI Shorts。会議参加機能はないが切り抜き面の最有力競合。"
+      },
+      {
+        "name": "Rimo Voice",
+        "url": "https://rimo.app/",
+        "note": "日本語特化STT、契約8万超。出版/金融に強い。会議録画から議事録に流す軸でProdShortの上流を抑える。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "通話内容に氏名や顧客IDが含まれれば個人情報、特に商談相手の肖像/音声を切り抜きSNS投稿する場合は利用目的の明示と本人同意が事実上必須。プロダクト側で同意ログと公開範囲制御UIが必要。"
+      },
+      {
+        "law": "肖像権・パブリシティ権（判例法理）",
+        "impact": "会議参加者の顔・声をショート動画化しSNS公開する場合、参加者全員の同意取得が必要。違反すると差止め・損害賠償リスク。UIで参加者ごとの公開可否トグル/モザイク処理がないと企業導入は困難。"
+      },
+      {
+        "law": "電気通信事業法（通信の秘密）",
+        "impact": "Web会議は通信に該当し、無断録音・第三者への提供は通信の秘密侵害になり得る。事業者として参加者全員に明示通知し同意を得るフロー、入室時バナーや音声告知の実装が必須。"
+      },
+      {
+        "law": "著作権法（口述の二次利用）",
+        "impact": "他社プロダクト紹介や有料セミナー切り抜きを投稿する場合、発話の翻案権・公衆送信権が問題化。コンサル/コーチ用途ではクライアントとの権利契約テンプレ提供が運用上の防御策となる。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては『1on1コーチング/オンライン講座の切り抜き販促ツール』への特化が現実的。商談録画ではなく、コーチ・士業・オンライン講師が自分のセッション素材から告知用リールを量産する用途に絞れば、肖像権の問題は自己/合意済みクライアントに限定され、Vrew/Klapが押さえていない『会議ツール同席→自動切り抜き』の縦串が活きる。さらに国内向けには『商談議事録の社内共有＋顧客への要約動画送付』というBtoB提案資料化機能を足せば、議事録AIと棲み分けつつ高単価化できる。",
+    "rationale": "需要が日本では薄く（demand 3）、商習慣との相性が悪い（business_custom 3）一方で、規制は運用次第で乗り越え可（regulation 6）、競合は完全飽和ではない（competition 4）という構図。市場機会としてはコアのファウンダーUGC用途は『英語圏向けプロダクトをそのまま使う層』に限定され、国内独自ニーズに刺すには『コーチ/講師向け切り抜き』や『商談議事録BtoB提案資料化』への用途転換が前提となる。本家ProdShortの英語圏マーケ力が強いうちに国内へ来る確率は中、しかし国内競合（Vrew・Rimo・Notta）の機能拡張で侵食される確率も高く、純粋なローカライズ翻訳ではなくユースケース転換が必要なため、Japan-Fitは『skip〜watch』の境界、現状はskip判定が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "$49（約7,400円）の月額は国内クリエイターSaaSとしては高めだが課金可能なレンジ。Indie $4.99のエントリ価格は心理障壁が低い。ただし日本人は『無料Vrew・無料CapCut』に流れやすく、有料転換率は英語圏比で下振れする想定。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内SaaSファウンダー＋ソロコーチ/コンサル/講師の合計でも有料可処分は数万〜十数万人規模に留まる（フリーランス本業209万人のうち発信投資する層は限定的、根拠未確認）。コアセグメントだけだとTAMが薄い。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "X/Qiita/note/PHでのPLG発信は可能だが、Vrew/Klap/CapCutが既に日本クリエイター動線を押さえており、ファウンダー界隈は狭く飽和気味。コーチ・士業へ広げる場合は業界別コミュニティ攻略が必要で個人開発者には負荷高い。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Opus Clip・Klap・Vrewのショート切り抜きと、tl;dv/Fathom/Notta/Otolioのノートテイカーが両側から接近中。Zoom/Google MeetもAI Companionで要約→ハイライト統合を進めており、本家・本丸の進出余地は12-18か月程度と推定。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "会議ボット同席（Recall.ai等のSaaS依存）、STT・LLM・縦型レンダリングのGPU/コスト管理、各SNS投稿API障害対応、肖像権クレーム対応が常時発生。サポートSLA・障害監視を個人で回すのは厳しく、24/7監視に近い負荷。"
+      }
+    },
+    "rationale": "事業成立性は限定的。マネタイズは$49/月帯で課金可能ゾーンだが、日本では無料切り抜きツールの圧力で有料転換が伸びにくく、ARPU仮置きは¥3,000-¥5,000/月が現実線。市場サイズはコア（発信熱心なファウンダー＋コーチ/講師）で数万人規模、capture 1-2%でも月商百万円台前半が天井。GTMはPLG可だが既存切り抜きツールの認知が強く後発不利、業界別営業に踏み込むと個人運用が破綻する。タイミングは本家英語圏進出と国内競合の機能追加が同時進行で12-18か月の窓、solo_opsは会議ボット・GPUレンダリング・SNS API・肖像権クレームの4重リスクで個人継続困難寄り。総合では『国内専業プロダクトとしては成立しづらい』が結論で、英語圏プロダクトを日本のニッチ用途（コーチ/講師）にPL Gで取りに行く場合のみ細い線が残る。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3500,
+      "plans": [
+        "Free: 月3クリップ・透かしあり・30日履歴（リード獲得用）",
+        "Creator: ¥2,980/月 月20クリップ・透かしなし・90日履歴（コーチ・士業の単独運用想定）",
+        "Pro: ¥7,800/月 無制限クリップ・X/LinkedIn/Instagram予約投稿・ブランドロゴ（発信に投資する個人）",
+        "Team: ¥19,800/月 3席・共有ライブラリ・社内議事録要約PDFエクスポート（社内講師/小規模BtoB）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内のオンラインコーチ・士業・講師・SaaSソロファウンダー（Zoom/Meetを週3回以上使い、X/Instagramで集客する層）。商談録画ではなく『自分のセッション/講座切り抜き』を主軸に位置付け、肖像権リスクを最小化したセグメント。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 875000
+    },
+    "recommended_gtm": [
+      "X（旧Twitter）で『商談ではなく講座切り抜き』のbefore/after実例投稿、ターゲット人物のリプ欄に張り付くPLG発信",
+      "note/Qiita/Zennでコーチ・士業向け『SNS集客×切り抜き運用』連載で検索流入を取る",
+      "ストアカ・MENTA等の講師プラットフォームと提携、講師の講座素材から自動切り抜きする統合機能を提供",
+      "個人士業（社労士・税理士・行政書士）コミュニティへの導入事例提供、業界ハッシュタグでInstagram運用代行と並走",
+      "AppSumoのアジア向け期間限定LTDで初期トラクションとARRベース確保",
+      "Vrew/Notta/Otolioとは差別化軸として『会議同席→そのまま縦型動画＋投稿』の動線を一貫させた30秒デモ動画を主弾"
+    ],
+    "time_window_months": 15,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "tl;dv/Fathom/Otterや国内Notta/Otolioが縦型ショート出力＋SNS自動投稿を追加した瞬間、議事録AIユーザーがそのまま吸収され差別化が消える",
+      "Zoom AI CompanionやGoogle MeetのAI要約が公式にショートクリップ出力を統合すると、サードパーティの存在価値が大きく毀損する",
+      "商談相手や講座参加者の肖像権・同意管理を仕組み化できず、無断SNS投稿による炎上/差止め請求が発生するとブランド致命傷",
+      "STT日本語精度・字幕レイアウトの最適化に踏み込まないとVrew/Klapに対して品質で負け、価格競争に陥る",
+      "会議ボット基盤（Recall.ai等）の値上げ/障害/規約変更で原価とサービス継続性が一気に揺らぐ依存リスク"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

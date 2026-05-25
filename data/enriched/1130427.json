@@ -1,0 +1,236 @@
+{
+  "name": "Monid",
+  "description": "One wallet, every paid tool your agent needs",
+  "ph_url": "https://www.producthunt.com/products/monid/launches/monid-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/L7TVXMLTGWYT7X?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-23T07:01:00Z",
+  "upvotes": 293,
+  "comments": 20,
+  "topics": [
+    "Fintech",
+    "Artificial Intelligence",
+    "Web3"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey PH 👋 I'm Shengkun, co-founder of Monid.<br></p><p>I've been building my own agents to automate my work, but it quickly became a nightmare. Connecting to 10-20 APIs, juggling separate subscriptions, payments scattered everywhere. I couldn't even track what I was actually spending.</p><p><br>So we built <strong>Monid, a wallet for agents to buy any paid tool they need.</strong> <br>One single balance. 215+ endpoints. No subscriptions. <br>Agents need flexibility and should never be blocked by paywalls.<br></p><p>With Monid, your agent can tap into powerful premium tools to:</p><ul><li><p>Access every major social platform including TikTok, Facebook, Instagram, X, LinkedIn, Reddit, and more</p></li><li><p>Search for people across platforms with enriched details</p></li><li><p>Pull blockchain data</p></li><li><p>Pull ecommerce data</p></li></ul><p>Our beta users are already using it for competitor tracking, social media content creation, VC sourcing, ecommerce product selection, and more.</p><p><br>Monid works with any agent, including Claude Code, OpenClaw, and Hermes Agent. Just send this to your agent to get started:</p><pre><code>set up <a href=\"https://monid.ai/SKILL.md\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://monid.ai/SKILL.md</a></code></pre><p></p><p><strong>Everyone here gets $3 in free credits.</strong> </p><p></p><p>We'll be hanging around all day to answer questions, please try it out and let me know how it works for you!</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hi, I’m Feiyou, co-founder of Monid 🚀<br></p><p>The promise of agents is <strong>autonomy</strong>. <br>But today, they’re still heavily constrained.<br></p><p>Without a human, an agent can only go as far as free tools and pre-built integrations. It’s limited to what’s already wired in.</p><p>With a human, the human becomes the bottleneck.<br><br>And often, humans don’t even know what tools or data sources exist.</p><p>So either way, agents hit a ceiling.<br></p><p>We believe agents need the ability to:</p><ul><li><p>discover tools and data at runtime</p></li><li><p>decide what’s worth using</p></li><li><p>and pay for premium resources when it makes sense</p></li></ul><p>That’s why we built Monid, <strong>a wallet where agents can find and use the right tools on demand, including paid APIs, data, and services</strong>.</p><p><br>What’s something your agent <em>should</em> be able to do today, but can’t</p><p>Would love your thoughts, ideas, or use cases.</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>pay per call is how all API access should work for agents. subscriptions assume humans. agents are different.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "A wallet for your agent. Your agent buys the best tools it needs to work 10x better. Social scraping, market trends, lead gen, competitor tracking, sentiment analysis, all unlocked with one balance. No subscriptions. No API keys.",
+  "featured_at": "2026-04-23T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a1760f0d-d140-447f-8050-ce9cee137b9c.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b212fb78-185b-431b-9dc3-375a8bffeca2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/42bfc97d-976a-442f-9d31-ad005a940405.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/53a56463-43aa-4ac0-9cef-c716749ba474.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/74e8c635-e057-476a-8edf-9612deda1d5d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dbe94f50-cf90-498f-aa91-9414ea9ccb4a.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/1185a0af-a959-47df-8c58-ef0cb201449a.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:28",
+  "landing_meta": "Monid — One skill. Every tool your agent needs. — Monid is an agent-native router for tool calls. Your agent describes what it needs, Monid discovers the right endpoint and routes the call — metered under a single balance.",
+  "landing_text": "Monid — One skill. Every tool your agent needs.",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T04:00:28",
+  "description_ja": "AIエージェント向け統合ウォレット。1残高で215以上の有料APIを従量課金で呼び出せる。",
+  "summary_ja": "AIエージェントが必要なときに有料API/データを発見・比較・実行・支払いまで一括で行えるエージェント特化ルーター。サブスクやAPIキー管理不要で、単一残高から従量課金で課金される。",
+  "tldr_ja": "海外巨人（Sapiom/x402/Visa/Mastercard）が既に同領域を席巻、日本では資金決済法のプリペイド規制も重く、個人開発で勝負する余地は薄い。",
+  "review_guide_ja": {
+    "what": "Monidはエージェントネイティブの「ツール呼び出しルーター兼支払いゲートウェイ」。エージェントがやりたいことを自然言語で記述すると、Monidが215以上のエンドポイント（ソーシャル系スクレイピング、人物データ、EC商品データ、ブロックチェーンデータ、検索など）から適切なAPIをdiscover→inspect→runし、結果と料金を返す。サブスクリプション契約・個別APIキー管理は不要で、1つの残高から呼び出しごと（per-call/per-result）に従量課金される。Claude Code、OpenClaw、Hermes Agent等にSKILL.mdを設定するだけで利用可能。ローンチ時に$3クレジット配布。",
+    "for_who": "自前のエージェントを構築している海外の個人開発者・小規模AIスタートアップ・社内ツールを作るデータエンジニア。特に競合トラッキング、SNSコンテンツ生成、リードジェネレーション、EC商品選定、VCソーシングなど「複数の有料データソースに横串アクセスしたい」ユースケースを持つ層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "プロトコル自体（HTTPルーティング+残高管理）は再現容易だが、215+のAPIベンダーと商用契約・与信を結び収益分配する取引コストが個人開発では極めて重い。"
+    },
+    "signals": [
+      "Product Hunt 293 upvotes / 20 comments とAI×決済テーマで一定の関心",
+      "Claude Code/OpenClaw等のエージェント側との連携をSKILL.md1行で完結させるDX",
+      "Sapiom（$15.75Mシード）、x402（Coinbase/Cloudflare）、Visa Intelligent Commerce、Mastercard Agent Payなど巨大プレイヤーが2026年に同領域へ集中参入",
+      "サブスクではなくper-call/per-resultの従量課金で『エージェントの動きに合った課金』を打ち出している",
+      "215+エンドポイントを事前統合済みでベンダー側の調達コストを開発者が負わなくて済む"
+    ],
+    "concerns": [
+      "本家Sapiomが$15.75M調達済みで400+モデル/9種類超のサービスを既に提供、後発差別化が困難",
+      "残高を預かるためマネロン規制・カストディ責任が発生し、個人運営は事実上不可",
+      "プロバイダ側のTOS違反リスク（スクレイピング系API：TikTok/Instagram/X/LinkedInなど）を仲介者として被る",
+      "Coinbase主導のx402プロトコルが標準化すれば中央集権ルーター価値は希薄化",
+      "日本市場では資金決済法の前払式支払手段規制（第三者型は法人&純資産1億円以上）でプリペイド残高モデルの提供主体になれない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "Zenn/note等でAIエージェント決済（x402/Sapiom）の解説記事は急増中だが、日本の個人開発者で『有料API群を統合した残高式ウォレット』を実需として求める層はまだ顕在化していない。需要は潜在止まり。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Sapiomが$15.75Mシードで先行、Coinbase/Cloudflareのx402、Visa Intelligent Commerce、Mastercard Agent Payが2026年に相次ぎ参入。日本国内でも楽天カードがAIエージェント決済を発表しており、競合は世界規模で密集。"
+      },
+      "regulation": {
+        "score": 3,
+        "reason": "残高チャージ型は資金決済法の前払式支払手段（第三者型は法人かつ純資産1億円以上）に該当し得る。ステーブルコイン経由なら電子決済手段取引業の登録が必要で、改正資金決済法（2025年6月成立）下では個人での提供は不可能に近い。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "API中心の開発者向けプロダクトで、UIは英語のままで動く。SKILL.mdの日本語訳とドキュメント翻訳、Qiita/Zenn記事程度のローカライズで十分機能する構造。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業の調達は請求書/SaaS型サブスクが慣例で、プリペイド残高+暗号資産的なメンタルモデルは法務・経理の承認が通りにくい。一方、個人開発者層はStripe/USD課金には慣れている。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Sapiom（米国・日本でも報道）",
+        "url": "https://www.sapiom.ai/",
+        "note": "$15.75MシードをAccel主導で調達。400+AIモデル/9種類超サービスの統合決済ゲートウェイ。THE BRIDGEで日本語報道され国内認知も先行。"
+      },
+      {
+        "name": "x402 / x402engine",
+        "url": "https://x402engine.app/",
+        "note": "Coinbase+Cloudflare主導のHTTP 402決済プロトコル。2026年3月メインネットローンチ。中央集権ウォレットを不要にする標準で、Monidの価値を希薄化する可能性。"
+      },
+      {
+        "name": "OpenRouter",
+        "url": "https://openrouter.ai/",
+        "note": "LLM版の元祖『1キーで複数API』ルーター。Monidが『ツール版OpenRouter』を標榜する以上、LLM領域では既に日本人開発者に浸透した強力な参照点。"
+      },
+      {
+        "name": "楽天カード AIエージェント決済",
+        "url": "https://corp.rakuten.co.jp/news/press/2026/0219_02.html",
+        "note": "2026年2月発表、Rakuten Card LiteアプリにAIエージェント搭載。コンシューマ寄りだが大手金融が同領域に動き出している事実。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "資金決済法（前払式支払手段）",
+        "impact": "ユーザーがチャージする残高は『前払式支払手段』に該当しうる。第三者型は法人かつ純資産1億円以上、自家型でも未使用残高1000万円超で財務局届出が必要。個人開発者がプリペイド残高を保有させて運営することは法的に困難。"
+      },
+      {
+        "law": "資金決済法（電子決済手段/ステーブルコイン）",
+        "impact": "USDC等のステーブルコイン経由で支払う場合、電子決済手段取引業の登録が必要。2025年6月成立の改正で『仲介業』も新設され規制対象は拡大。SBI VC TradeやJPYC Inc.など登録済法人のみが扱える。"
+      },
+      {
+        "law": "犯罪収益移転防止法（犯収法）",
+        "impact": "高額電子移転可能型前払式支払手段はマネロン対策で本人確認義務の対象。個人事業主が運用する場合のKYC体制構築コストが重い。"
+      },
+      {
+        "law": "各APIプロバイダ規約（TikTok/Instagram/X/LinkedIn等）",
+        "impact": "ソーシャルスクレイピング系エンドポイントは各プラットフォームのTOS違反リスクを内包し、不正競争防止法・著作権法・不正アクセス禁止法の解釈次第で日本ユーザーへの提供責任を問われる可能性。"
+      }
+    ],
+    "opportunity": "日本独自の角度を取るなら『規制対応済みの法人向けエージェントAPIゲートウェイ』に絞る方向。具体的には、(1) 残高チャージを避けてユーザーのStripe/法人カードに直接従量請求する仕組みに置換し前払式支払手段規制を回避、(2) 国産API（食べログ、ぐるなび、JR時刻表、国税庁法人番号API、e-Gov等）を中心にエージェント用ラッパーとして提供、(3) 経費精算/請求書ワークフローと連動させ日本の法人経理と整合させる、の3点でローカル特化すれば差別化余地はある。ただし個人開発の射程外。",
+    "rationale": "本家Monidの『チャージ式残高×多APIルーター』モデルは、日本では資金決済法・犯収法が直撃しほぼ参入不能。本家もしくはSapiom/x402/Visa/Mastercardのいずれかが標準を取りに来ている段階で、後発の個人開発者が割り込む論理は薄い。需要シグナルは記事レベルでは熱いが、購買行動として顕在化していない。ローカライズは技術的には容易だが、商習慣（請求書/前払い忌避）と規制（プリペイド/EPI/犯収法）が同時に阻むため『市場機会』としては見送り推奨。日本進出の角度を見つけるなら国産APIラッパー+Stripe直課金の法人特化に絞るべきで、Monid本家のクローンを作る価値は低い。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "日本の個人開発者層はOpenRouter的なプリペイドUSD課金には慣れているが、法人/経理がプリペイド残高チャージを嫌うため法人ARPUは伸びにくい。エージェント自体の市場が立ち上がり中で1ユーザーあたり消費額の予測も不透明。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "AIエージェントを自前構築する日本の個人開発者数は数千〜2-3万人規模と推定（Claude Code日本ユーザーの一部）。法人エージェント開発も国内19社ベンダーが既存提供しており、Monid本家モデルでの追加TAMは小さい。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "Qiita/Zenn/X等のチャネルは個人開発者にリーチできるが、ターゲットがそもそもOpenRouter等の海外サービスに直接行く層と重なる。SKILL.md設定の手軽さはPLGに向くが、海外本家へ流れる流出が大きい。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "Sapiomの$15.75M調達（2026年2月）、x402メインネット（2026年3月）、Visa/Mastercardのagent pay発表（2026年）と、過去6ヶ月で標準争いが本格化。後発が個人開発で割り込む時間窓は実質ほぼ閉じている。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "残高カストディ、KYC、不正利用対策、215+ベンダーのSLA監視・障害対応・契約更改、各種法令変更追従が必要。決済+データ仲介+カスタマーサクセスが24/7で発生し、個人運営は事実上不可能。"
+      }
+    },
+    "rationale": "個人開発者の事業として見たとき、Monid本家モデルは『決済インフラ×多ベンダー仲介』という極めて重い領域で、Sapiomクラスの資金調達と専門チームなしには成立しない。日本固有要因（資金決済法・前払式支払手段・犯収法・法人プリペイド忌避）が更に乗ることでTAMはほぼゼロに収束する。Qiita/Zenn経由のPLGで開発者は集められても、収益化に必要な残高チャージ運用そのものが個人では合法的に組めず、上場ベンチャーが標準を取りに来ている領域に正面突破する合理性が無い。事業性スコアは低く、模倣ではなく『国産API+Stripe直課金』のような完全に別軸の派生に振り直す必要がある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 0,
+      "plans": [
+        "推奨せず：本家Monidモデルを日本で個人運営すると資金決済法（前払式支払手段/電子決済手段）に抵触する蓋然性が高く、合法的なARPU設計が困難。",
+        "派生として『日本の国産API（食べログ/ぐるなび/法人番号/e-Gov等）の従量呼び出しSaaS』に置換する場合：Free 月100コール / Pro ¥2,980/月 5,000コール / Team ¥9,800/月 20,000コール のStripe直課金モデルが現実的。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "本家Monid直接コピー：日本国内で自前AIエージェントを構築する個人開発者・小規模AIスタートアップ。Claude Code/MCPに親しんだQiita・Zennアクティブ層。ただし規制上、個人開発者が本家モデルを提供することはほぼ不可能なため事実上の市場は限りなくゼロに近い。",
+      "target_count": 3000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Qiita『AIエージェント決済を日本で合法に作る方法』連載で規制差分を解説しブランディング",
+      "X（旧Twitter）で個人開発エージェント勢にSKILL.md形式の利用デモを発信",
+      "Zenn長文記事でSapiom/x402との比較・国産API活用パターンを示す",
+      "Claude Code MCPサーバーとして配布しPLG導線を確保",
+      "国産API（食べログ/法人番号/e-Gov）プロバイダと提携して規制リスクを回避した派生サービスへピボット"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "資金決済法上の前払式支払手段/電子決済手段に該当することで、個人開発者が違法に金融サービスを提供する状態になるリスク",
+      "Sapiom・x402・Visa Intelligent Commerce・Mastercard Agent Payが2026年内に標準を確立し、ルーター層の価値が消失するリスク",
+      "ソーシャルスクレイピング系API（TikTok/Instagram/X/LinkedIn等）の利用が各プラットフォームTOS違反で、不正アクセス禁止法・著作権法上のグレーを抱え続けるリスク",
+      "残高カストディに伴うKYC/AML/不正利用補償の運用コストが個人運営の容量を超え、サービス停止に追い込まれるリスク",
+      "海外本家Monidが日本語ドキュメント+Stripe JPY課金で直接進出することで、ローカル模倣の優位性が消滅するリスク"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

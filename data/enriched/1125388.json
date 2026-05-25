@@ -1,0 +1,253 @@
+{
+  "name": "Claude Opus 4.7",
+  "description": "Claude’s most capable model for reasoning and agentic coding",
+  "ph_url": "https://www.producthunt.com/products/claude-opus-4-7/launches/claude-opus-4-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ODDUWVTWKOPU45?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-17T07:01:00Z",
+  "upvotes": 583,
+  "comments": 26,
+  "topics": [
+    "API",
+    "Artificial Intelligence",
+    "Development"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p><strong>Claude Opus 4.7</strong> looks like a serious leap forward for AI-powered development and knowledge work. It tackles a key problem: handling complex, long-running tasks that previously required constant human supervision.</p><p></p><p>With stronger instruction-following, better multimodal vision, and improved reasoning consistency, it enables users to confidently delegate harder workflows.</p><p></p><p><strong>Why it stands out:</strong></p><ul><li><p>Verifies its own outputs for higher reliability</p></li><li><p>Maintains coherence across long, multi-step tasks</p></li><li><p>Improved high-resolution image understanding</p></li><li><p>Better memory across sessions for ongoing work</p></li></ul><p><strong>Key features:</strong></p><ul><li><p>Advanced coding + agentic task handling</p></li><li><p>`/ultrareview` for deep code reviews</p></li><li><p>Effort control (high → xhigh) for better reasoning vs latency tradeoff</p></li><li><p>Available across API, Claude apps, and major cloud platforms</p></li></ul><p><strong>Who it’s for &amp; use cases:</strong></p><ul><li><p>Developers building AI agents and automations</p></li><li><p>Analysts working on finance, research, and modeling</p></li><li><p>Teams handling complex docs, workflows, and long-running tasks</p></li></ul><p>If you’re building AI agents or scaling complex workflows, this feels like a meaningful upgrade.</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a></p>",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The session memory improvement is the feature I've been waiting for. Working on a large codebase with Claude Code, the biggest pain was re-explaining architectural decisions every new session. If Opus 4.7 actually retains context across multi-session projects, that alone justifies the upgrade. Curious how the new tokenizer affects costs in practice — 1.35x more tokens on the same input is worth watching.</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Anthropic released Opus 4.7 today. Same pricing as 4.6 ($5/$25 per million tokens), available across API, Bedrock, Vertex AI, and Microsoft Foundry.</p><p>What changed vs 4.6:</p><ul><li><p>Coding<strong>.</strong> Biggest gains on long-horizon software engineering tasks. Model now verifies its own outputs before reporting back.</p></li><li><p>Vision<strong>.</strong> Accepts images up to 2,576px (~3.75MP)- over 3x more than any prior Claude. Key unlock for computer-use agents and diagram extraction.</p></li><li><p>Instruction following<strong>.</strong> Now interprets literally. Anthropic warns: prompts tuned for 4.6 may break — re-tuning needed.</p></li><li><p>Memory<strong>.</strong> Better at file system-based memory across long multi-session work.</p></li><li><p>Real-world knowledge work<strong>.</strong> State-of-the-art on Finance Agent eval and GDPval-AA.</p></li></ul><p>New features<strong>:</strong></p><ul><li><p>xhigh effort level between high and max - finer control over reasoning vs. latency. Claude Code default is now xhigh for all plans.</p></li><li><p>Task budgets in public beta on the API.</p></li><li><p>/ultrareview in Claude Code - dedicated review session flagging bugs and design issues. Three free for Pro and Max users.</p></li><li><p>Auto mode extended to Claude Code Max users.</p></li></ul><p>Honest caveats<strong>:</strong> New tokenizer → same input maps to up to 1.35x more tokens. Opus 4.7 thinks more at higher effort levels, especially on later agentic turns. Safety profile is roughly similar to 4.6 — improvement on honesty and prompt injection resistance, modestly weaker on harm-reduction advice for controlled substances. Still less capable than Claude Mythos Preview, which remains on limited release.</p><p>Bottom line<strong>:</strong> Meaningful upgrade in the three places that matter most- agentic coding reliability, vision for computer-use agents, and knowledge work benchmarks. Solid iteration, obviously shy of Mythos.</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Claude Opus 4.7 is Anthropic’s most advanced generally available AI model, built for complex reasoning and agentic coding. It handles long-running tasks, follows instructions precisely, verifies outputs, and delivers high-quality results across coding, research, and workflows.",
+  "featured_at": "2026-04-17T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d142c81e-10f2-40c2-a5ab-8659ee6ad8d9.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f742c760-2052-4612-a212-4562c20c33b1.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/32af94bf-5dee-4642-bbed-6459111ef37e.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9f78ae05-ea9e-4e55-aa9c-ab6a7717dc76.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a5895a80-7161-4d06-bd1a-6c8f86532949.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0c22328f-be61-4078-92a4-3ed4f8cedceb.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/40534fa4-5a58-4e8b-a7b6-b6a1a29df25a.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c00ba3a9-6e78-4309-b720-a1f77f5d6f54.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/632e77cb-f65e-427b-8cef-52ccc2c64e78.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4e82c3f4-a8ca-492c-a1d8-b0b9749ad4e6.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5cd9b132-8d00-44ec-b0c9-134a4dfd4fd2.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/126b240c-5ec4-48bd-981a-9f142959cfd4.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:33:49",
+  "landing_meta": "Introducing Claude Opus 4.7 \\ Anthropic — Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks.",
+  "landing_text": "Product Announcements Introducing Claude Opus 4.7 Apr 16, 2026 Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks. Users report being able to hand off their hardest coding work—the kind that previously needed close supervision—to Opus 4.7 with confidence. Opus 4.7 handles complex, long-running tasks with rigor and consistency, pays precise attention to instructions, and devises ways to verify its own outputs before reporting back. The model also has substantially better vision: it can see images in greater resolution. It’s more tasteful and creative when completing professional tasks, producing higher-quality interfaces, slides, and docs. And—although it is less broadly capable than our most powerful model, Claude Mythos Preview—it shows better results than Opus 4.6 across a range of benchmarks: Last week we announced Project Glasswing , highlighting the risks—and benefits—of AI models for cybersecurity. We stated that we would keep Claude Mythos Preview’s release limited and test new cyber safeguards on less capable models first. Opus 4.7 is the first such model: its cyber capabilities are not as advanced as those of Mythos Preview (indeed, during its training we experimented with efforts to differentially reduce these capabilities). We are releasing Opus 4.7 with safeguards that automatically detect and block requests that indicate prohibited or high-risk cybersecurity uses. What we learn from the real-world deployment of these safeguards will help us work towards our eventual goal of a broad release of Mythos-class models. Security professionals who wish to use Opus 4.7 for legitimate cybersecurity purposes (such as vulnerability research, penetration testing, and red-teaming) are invited to join our new Cyber Verification Program . Opus 4.7 is available today across all Claude products and our API, Amazon Bedrock, Google C",
+  "pricing_signals": [
+    "pricing",
+    "$5",
+    "$25",
+    "$1",
+    "$8",
+    "$14",
+    "$15",
+    "$6"
+  ],
+  "landing_fetched_at": "2026-05-26T04:33:49",
+  "description_ja": "推論とエージェント型コーディングに特化した Claude の最上位モデル",
+  "summary_ja": "Anthropic が 2026年4月に一般提供を開始した最上位 LLM。長時間タスク、自己検証、高解像度ビジョン、セッション間メモリを強化し、API・Bedrock・Vertex・Foundry 経由で利用できる。Claude Code の既定モデルにも採用。",
+  "tldr_ja": "Anthropic 本体のフラッグシップ LLM。日本でも東京拠点・日本語版で本家直接展開済み、個人開発者が「同じものを作る」余地はゼロ。ラッパー側で勝負すべし。",
+  "review_guide_ja": {
+    "what": "Anthropic がリリースした最新フラッグシップ LLM「Claude Opus 4.7」。前世代 4.6 と同価格（$5/$25 per Mtok）ながら、SWE-bench Pro で 53.4%→64.3% と難問コーディング性能を大幅向上。新しい推論強度 xhigh、Task Budgets（公開β）、Claude Code の /ultrareview コマンド、最大 2,576px の高解像度ビジョン、ファイルシステム型の長期メモリを搭載。新トークナイザにより同一入力で最大 1.35 倍のトークン数となる点に注意。Claude Developer Platform の API、Amazon Bedrock、Google Vertex AI、Microsoft Foundry から利用可能。Claude Code の既定モデルは全プランで xhigh 既定になった。",
+    "for_who": "AI エージェントを構築する開発者、長時間自律実行のコーディングタスクを委任したい SaaS 企業、画面操作エージェント（Computer Use）開発者、金融・調査領域でドキュメント解析を行うナレッジワーカー、日本国内ではみずほ FG・楽天など大企業の業務利用が先行。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "数千億パラメータ級のフロンティア LLM。学習に数千万〜数億ドル規模の GPU 投資と独自データ・安全性研究が必要で、個人や小チームでは再現不可能。"
+    },
+    "signals": [
+      "SWE-bench Pro 64.3% など難問コーディングで前世代から二桁向上",
+      "Anthropic がビジネス採用率 34.4% で OpenAI を初めて上回り（2026年4月時点）",
+      "Anthropic が東京オフィスを開設し日本語版 Claude を提供開始、日本法人代表に東條英俊氏を任命",
+      "Claude Code 既定モデル化により開発者層の事実上のデフォルトに",
+      "AWS Bedrock / GCP Vertex / Microsoft Foundry の三大クラウド同日対応"
+    ],
+    "concerns": [
+      "新トークナイザで同一入力が 1.35 倍課金され、移行時にコスト試算崩壊の恐れ",
+      "プロンプト解釈が「より字義通り」になり、4.6 向けプロンプトの再チューニング必須",
+      "デジタル庁が政府AI「源内」で tsuzumi 2 / PLaMo 2.0 等の国産 LLM を優先選定、行政・金融など規制業界では外資 LLM が締め出される可能性",
+      "上位の Claude Mythos Preview が限定提供中で、性能トップではない位置付け",
+      "日本円換算で消費税 10% が請求書に加算される点、Enterprise は営業契約で個人開発者が直接買えない高位プランあり"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 9,
+        "reason": "日本の生成 AI 市場は 2026年 94 億ドル、企業導入率 41.2%、Claude 単体でも日本の AI 利用指数は世界トップ 25% 圏。Qiita/Zenn/note でも Opus 4.7 解説記事が多数（Qualiteg、テックキャンプ、AI 総合研究所等）出ており需要顕在。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "本家 Anthropic 自身がプロダクトであり、日本法人・日本語版・東京オフィス・Claude Partner Network・三大クラウド経由で既に直接展開済み。GPT-5 / Gemini 2.x / 国産 LLM 7 種が真っ向勝負。個人開発の入り込む余地ゼロ。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "個情法・著作権法・金商法など適用可能だが Anthropic 本体が法令対応する側。ただし日本のユーザー側で利用する場合は個人プランに著作権補償がない、政府/金融は国産 LLM 選定で外資が制限される動きあり。AI 事業者ガイドラインへの対応が必須。"
+      },
+      "localization": {
+        "score": 9,
+        "reason": "Anthropic が日本語完全ローカライズ版を 2025 年秋に提供開始、東京拠点で日本語特化チューニング進行。API は英語前提だがマルチリンガル対応強く、開発者にとってのローカライズ負荷は低い。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "Enterprise は請求書・消費税対応済みで日本商習慣に合うが、API は USD 従量・クレジットカードが主体で日本中小企業の経理（請求書・銀振）と摩擦。法人 SaaS としては Team$25/月から日本企業の AI ツール予算と整合。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "OpenAI GPT-5 / GPT-4.1 系",
+        "url": "https://openai.com/ja-JP/",
+        "note": "日本拠点・日本語版あり。ビジネス採用率 32.3% で Claude と僅差。コーディング以外の汎用性で対抗。"
+      },
+      {
+        "name": "Google Gemini (Vertex AI)",
+        "url": "https://cloud.google.com/vertex-ai",
+        "note": "GCP 経由で日本のエンタープライズに浸透。マルチモーダル・コンテキスト長で Claude と棲み分け。"
+      },
+      {
+        "name": "NTT データ tsuzumi 2 / PFN PLaMo 2.0 Prime",
+        "url": "https://www.watch.impress.co.jp/docs/news/2091358.html",
+        "note": "デジタル庁ガバメント AI 源内で 2026年3月選定。行政 18 万人展開で官公庁・規制業界の事実上の標準候補。"
+      },
+      {
+        "name": "Claude Mythos Preview (Anthropic 自社上位)",
+        "url": "https://claude.com/",
+        "note": "Opus 4.7 より上位のフロンティア。限定提供だが Opus 4.7 のポジションは「現時点の最上位」止まり。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "Claude API に個人データを送信する場合、Anthropic は米国法人のため越境移転規定（27 条）と利用目的特定が必要。Enterprise はゼロデータ保持オプションあり。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "個人プラン（Free/Pro/Max）は著作権補償なしで生成物の侵害リスクをユーザー側が負担。30 条の 4 の機械学習例外と生成物の利用は別問題で、商用利用時の権利処理は利用側責任。"
+      },
+      {
+        "law": "AI 事業者ガイドライン（経産省・総務省）",
+        "impact": "強制力はないが、金融・医療など規制業界の調達基準として参照されており、Anthropic の安全性レポート提示が事実上の前提条件になりつつある。"
+      },
+      {
+        "law": "消費税法",
+        "impact": "2026年4月以降、Anthropic の請求に消費税 10% が加算される。リバースチャージ方式の対象から外れる形へ移行中で法人会計の取り回しに影響。"
+      }
+    ],
+    "opportunity": "Opus 4.7 自体を作る余地はゼロだが、日本特化のラッパー/エージェント事業には十分な余地がある。具体的には (1) 日本の法務・税務・契約書ドメインに特化した Claude ベースのコーディング/レビューエージェント、(2) Claude Code の /ultrareview や xhigh を日本語の業務文書レビューに転用した SMB 向け SaaS、(3) 国産 LLM と Opus 4.7 を使い分けるルーティングミドルウェア（金融・公的領域は国産、創造系は Opus に振り分け）、(4) Bedrock 経由 Opus 4.7 を組み込んだ日本商習慣特化の請求書/インボイス対応アプリ。",
+    "rationale": "Opus 4.7 はそれ自体が個人開発者の選択肢ではなく、評価対象は『日本でこれを基盤にどう商売を組むか』に変わる。日本では需要・浸透・Anthropic 自身の本気度すべて揃っているが、本家が東京拠点・日本語版・Partner Network まで自前展開し、競合は OpenAI/Google/国産 7 モデルと飽和。さらに政府 AI は国産 LLM 優先選定で外資はパブリックセクターから事実上締め出され。したがって Japan-fit は『プロダクトとして観察すべき強い基盤レイヤー』だが『個人開発者が同レイヤーで戦う対象ではない』。上位レイヤーのラッパー/エージェントで日本商習慣・規制対応・ドメイン特化を被せる戦略のみが現実解。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "個人開発者目線では LLM 本体は売れない。ラッパーに転換しても Opus 4.7 の従量コスト（$5/$25 per Mtok、1.35x トークン）が直接コスト圧迫。日本の SaaS は月 ¥3,000〜10,000 の中価格帯が主流で、API 原価を吸収しつつ利益を出すには相当な利用効率設計が必要。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "日本の生成 AI 市場 2026年 94 億ドル、企業導入率 41.2%、2030年 1 兆円超見込み。Claude 経済圏のラッパー市場としては十分広いが、個人開発者がアクセスできるロングテール（中小企業・個人事業者）に絞ると数千〜数万社規模。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "Anthropic 自身が Accenture・Deloitte・Cognizant・Infosys と Claude Partner Network（$100M 投資）を組成し、エンタープライズは大手 SIer が抑える。個人開発者は Qiita/Zenn/X の PLG ルートに限定され、信頼性が問われる業務領域では届きにくい。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "Anthropic 東京拠点は 2025 年既に開設済み、日本語版 Claude 提供開始済み、Partner Network 始動済み、Claude Code は xhigh が既定。本家のローカライズ・GTM は事実上完了済みで、開発者向けは時間窓ほぼゼロ。残るのはニッチドメイン特化のみ。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "Opus 4.7 のラッパーを運用する場合、API 障害対応・コスト監視・プロンプトリチューニング（4.7→4.8 等のモデル更新時）・日本顧客のサポート対応が常時発生。新トークナイザでコスト試算が崩れるリスクもあり、個人運用は厳しい。"
+      }
+    },
+    "rationale": "Opus 4.7 を『売る対象』として見るとビジネス成立性は極めて低い：これは個人開発者の商品ではなく Anthropic 本体の商品。視点を『この基盤の上に何を作るか』に切り替えても、本家が日本法人・日本語版・大手 SIer Partner Network まで自前で布陣し、上位 ARPU 帯はほぼ取られている。残された個人開発者向けスペースは、(a) 日本のニッチ業務ドメインへのコーディング/レビュー特化アプリ、(b) 国産 LLM とのルーティングミドルウェア、(c) Claude Code の社内導入支援。いずれも API 原価、モデル更新追随、競合の本気度を考えると、月商 50〜300 万円規模の小規模 SaaS が現実解。スコア 4 は『個人開発者の主戦場として推奨しない』のシグナル。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "個人開発者は Opus 4.7 自体を販売対象とせず、基盤 LLM として利用する側に回る",
+        "もしラッパーを作るなら freemium で月 ¥2,980 / ビジネス ¥9,800 帯が現実的（API 原価を吸収するため利用上限設計必須）",
+        "Anthropic 本家の Pro $20/月・Team $25/月・Enterprise カスタムが既存価格レンジで、これより下を狙う必要"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Opus 4.7 を『プロダクト』として狙う対象は存在しない。本家が直接 GTM 済み。仮にラッパーを作る場合のセグメントは『日本商習慣（請求書・税務・法務）に特化した業務支援を求める国内 SMB の DX 担当者・士業・社内 SE』。",
+      "target_count": 5000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "個人開発者として Opus 4.7 自体を再販することは諦め、基盤として利用する戦略に切り替える",
+      "Qiita/Zenn で Claude Code + xhigh の日本語業務レビュー実践記事を連載し PLG で開発者層を獲得",
+      "X で『Opus 4.7 を使い倒す日本人開発者』ポジションを取り、Anthropic Japan・コミュニティに食い込む",
+      "国産 LLM（tsuzumi 2 / PLaMo 2.0）と Opus 4.7 のルーティング SDK を OSS で公開し、規制業界向けの相談導線を作る",
+      "Anthropic Japan の Solution Architect / Partner Network 経由でリセール・実装支援パートナー登録"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "本家 Anthropic が東京拠点・日本語版・$100M Partner Network・Claude Code 既定で全レイヤーを既に押さえており、個人開発者が同レイヤーで戦う余地はゼロ",
+      "新トークナイザで同一入力 1.35 倍課金、Opus 4.8/5.0 が出れば再度プロンプト・コスト設計が破綻。モデル追随コストが個人運用を圧迫",
+      "政府 AI 源内が tsuzumi 2 / PLaMo 2.0 Prime 等の国産 LLM を選定済み、行政・金融・医療など高 ARPU 領域から外資 LLM が締め出される可能性",
+      "Anthropic 個人プラン（Pro/Max）は著作権補償なしで、ラッパー事業の生成物侵害リスクをラッパー側が負担、訴訟一本で個人事業は終了",
+      "Mythos Preview や次世代モデルが出れば Opus 4.7 ベースの最適化資産は陳腐化、サンクコスト化のリスク高い"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

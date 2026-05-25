@@ -1,0 +1,322 @@
+{
+  "name": "Softr AI Co-Builder",
+  "description": "Build business apps with AI - that actually work",
+  "ph_url": "https://www.producthunt.com/products/softr/launches/softr-ai-co-builder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/KEVPSWSDCIA5TB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-14T07:01:00Z",
+  "upvotes": 399,
+  "comments": 43,
+  "topics": [
+    "Artificial Intelligence",
+    "No-Code",
+    "Vibe coding"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>👋 Hey Product Hunt community,<br><br>2025 was the era of shiny demos. <strong>2026 is the era of useful business software your business runs on.</strong><br><br>If you've ever tried to build a custom business tool - a client portal, a vendor management system, an internal CRM - you know the options aren't great. Off-the-shelf software almost fits, but not quite. Hiring a developer takes months and costs more than expected. And AI or vibe coding tools? Great for prototypes, but the moment real users and real data get involved, things fall apart fast.<br><br>Today, we're bringing Softr’s AI Co-Builder to the Product Hunt community: the first AI platform for building real business software. Not prototypes. Not demos. Software that works, every single time.<br><br>Here's what makes it different:<br><br>🏗️ <strong>Generate real business software from a prompt:</strong>&nbsp;Describe what you need, and Softr’s new AI Co-Builder instantly creates the database, application, and business logic - already connected, secure, and ready for real users.<br><br>🔁 <strong>Refine with AI or edit visually:</strong> Switch between AI prompting and visual editing at any time. You build it, own it, and iterate on it - no black box, no developer required. <br><em>Need something custom? Use the vibe coding block to build your own design and logic exactly the way you want.</em><br><br>🔒 <strong>Secure and fully-functional by default:</strong> Logins, roles, permissions, and security are built in from day one, so you can actually launch it to your team or clients without it falling apart.<br><br>🧩 <strong>Connect your data and tools:</strong> Your data, your apps, and your workflows all live in Softr. Connect your existing tools, automate processes, and manage your complete business operations without switching context.<br><br>👉 Try it free at <a href=\"https://softr.io/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://softr.io/</a><br><br>Over <strong>1 million builders</strong> worldwide already use Softr. We can't wait to see what the next million builds! <br><br></p><p>Let us know what you think - we'll be in the comments all day to answer questions. <br><br>– Mariam and the Softr Team</p>",
+      "votesCount": 31,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I'm very happy to see app building became even faster and easier in Softr. Shout out to the team!</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Really proud of what the team has shipped here! Excited for what people will build with it 💪🏻</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Build custom portals, internal tools, and ops systems with AI in minutes. Describe what you need, and the AI Co-Builder generates the app, database, and business logic, secure and ready for real users. Refine with prompts or edit visually - you're in control.",
+  "featured_at": "2026-04-14T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f86b4fe9-8ace-42d5-9e90-830ffcfcd4b3.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/49c0d7a9-e529-4867-b150-810839173706.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5a07f6c7-b319-4f29-8c6d-a721b7724c1e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c5fbbc6c-05d2-4168-bcfe-d1c0aa97cb8b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6b64beb8-52cd-4f8a-b6f0-e34053c47f0e.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/f502a5ef-60d9-4f50-aed5-55a535658b72.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:33:59",
+  "landing_meta": "Build Custom AI Business Apps, Portals & Internal Tools with No Code | Softr — Build and launch custom AI-powered portals and internal tools in minutes, no code required. Drag and drop. Sync with any data source. 100s of ready templates.",
+  "landing_text": "Build Custom AI Business Apps, Portals & Internal Tools with No Code | Softr Sign in Book a demo Start for free New The first AI platform for business apps Build business apps with AI – that actually work Build the software your business runs on: ‍ Loved by 1 million+ teams around the globe Co-build with AI Simply describe what you need. Let Softr handle everything - Interface, database, workflows. Iterate with AI or visually Control most critical parts of your app yourself - roles, permissions, security. Ship the same day Invite team members or external clients and partners right away. No developer handover. Use cases Internal-only or external-facing business apps Stop overspending on pricy software with unused features. Build custom apps that fit your workflows perfectly. Portals Build secure portals for clients, vendors & more. No code required. See use case CRM Build a custom CRM that fits your exact workflows. No code required. See use case Inventory Management Track and manage inventory with ease. No code required. See use case Company Intranet Build a modern, self-serve intranet that keeps your team connected. No code required. See use case Dashboards & Reporting Turn your data into clear, actionable dashboards. No code required. See use case ERP Bring together tools and data in one flexible system. No code required. See use case Knowledge Management Help your team and clients find answers faster. No code required. See use case See all use cases “We’re not coders or developers, but Softr is so easy to use and learn — it lets us run with our ideas.” Ashley Kalinauskas CEO, Torigen Pharmaceuticals Platform All you need for functional software — built in Integrations Bring your data and tools Airtable Create secure business apps on top of your Airtable bases. Notion Build client and member portals, directories, and other custom tools powered by your Notion data. Google Sheets Turn your Google Sheets data into custom apps, dashboards, and client portals. HubSpot ",
+  "pricing_signals": [
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-26T04:34:03",
+  "description_ja": "AIで実用的な業務アプリを構築。プロンプトから本物の業務ソフトを生成。",
+  "summary_ja": "Softrの新機能AI Co-Builderは、自然言語の指示からクライアントポータル・社内CRM・ベンダー管理など実運用可能な業務アプリ（DB・権限・ワークフロー込み）をワンショット生成し、その後はAIプロンプトかビジュアル編集で改修できるノーコードAIアプリビルダー。",
+  "tldr_ja": "国内ノーコードはkintone等が飽和。AI生成という新角度はあるが日本語UIと商習慣で個人参入は厳しく、見送り推奨。",
+  "review_guide_ja": {
+    "what": "自然言語プロンプトから業務アプリ（クライアントポータル、社内CRM、ベンダー管理、在庫管理、ダッシュボード、ナレッジベース等）をデータベース・認証・ロール権限・ワークフロー込みでワンショット生成し、その後はAI追記指示またはビジュアルエディタで反復改修できるノーコードAIアプリビルダー。Airtable・Notion・Google Sheets・HubSpotなど既存データソースに接続して稼働させる。Softr自体は2022年頃から存在し1Mビルダーが利用、今回はAIで初期生成→運用品質確保まで踏み込んだ点が新しい。",
+    "for_who": "コードが書けない事業担当者・代理店・コンサル・SMB IT担当者で、SaaSの既製品では足りないがフルスクラッチ開発は予算的に無理という層。特にエージェンシーや業務委託でクライアントポータルを量産したい個人/小規模チーム。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "AIによるDB+認証+権限+UI同時生成、テンプレ群、Airtable/Notion/HubSpot連携、1Mビルダー基盤を個人で再現するのは現実的でない"
+    },
+    "signals": [
+      "PH上位399 upvotes・43コメントで好感触",
+      "1M+ビルダーの既存基盤上にAI機能を追加（プロトタイプ→実運用の橋渡しを明示）",
+      "Lovable/Bolt等のvibe codingがプロトタイプ止まりという市場ペインを直撃するメッセージ",
+      "Airtable/Notion/Google Sheets/HubSpot連携で既存データ移行が不要",
+      "シート単位課金でなく利用者数で課金しない料金体系（500ユーザーログインでも追加料金なし）"
+    ],
+    "concerns": [
+      "国内はkintone（4.1万社）が業務アプリのデファクト、AppSheet・Power Apps・Bubbleと飽和",
+      "日本語UIが限定的でAI生成結果も日本語混在が報告されている",
+      "クライアントポータル/CRM領域は日本商習慣（押印・帳票・FAX残存）と相性が悪い",
+      "Softr本体が日本市場に直接参入する公算が高く時間窓が短い",
+      "個人開発の競合余地はSoftrの代替を作ることではなく、Softr上でテンプレ販売する形に限定される"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内ノーコード/ローコード市場は2025年1,939.7億円規模で成長中。業務アプリ需要は顕在だがAI生成型ビルダー自体への日本固有需要シグナルは未確認、Softr日本語事例も限定的"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "kintoneが16.8%シェアで業務アプリ市場の頂点、Adalo 14.6%、Bubble 11.6%、Power Apps・AppSheet・Platio・サスケWorks等が飽和。Softr代替を新規個人開発で立てる余地はほぼない"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "個情法・総務省クラウドガイドライン・ASP/SaaS情報開示指針への対応は必要だが、ノーコード基盤自体は比較的法令リスク低。顧客側が個人情報を載せる場合は責任共有モデルで利用者責任が大きい"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "Softrは日本語UI対応が限定的でAI生成結果も英日混在の報告あり。業務アプリは帳票・印刷・PDF・ハンコ・全角半角混在対応など深いUX改修が必要"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本SMBの業務アプリ需要は稟議・押印・FAX・Excel前提のワークフローと密結合。kintoneがこの領域で支持されるのはまさに日本商習慣フィット故であり、AI生成の海外発ビルダーは商習慣ギャップが大きい"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "kintone (サイボウズ)",
+        "url": "https://kintone.cybozu.co.jp/",
+        "note": "国内ノーコード業務アプリのデファクト。4.1万社導入、東証上場企業の5社に1社。ライト¥1,000/月、スタンダード¥1,800/月。日本商習慣最適化"
+      },
+      {
+        "name": "Power Apps (Microsoft)",
+        "url": "https://www.microsoft.com/ja-jp/power-platform/products/power-apps",
+        "note": "Microsoft 365統合で大企業導入容易。国内シェア上位"
+      },
+      {
+        "name": "Bubble",
+        "url": "https://bubble.io/",
+        "note": "国内ノーコード市場シェア11.6%。代理店・受託エコシステムが整備済"
+      },
+      {
+        "name": "AppSheet (Google)",
+        "url": "https://cloud.google.com/appsheet?hl=ja",
+        "note": "Google Workspace統合、日本語ドキュメント完備"
+      },
+      {
+        "name": "Platio (アステリア)",
+        "url": "https://plat.io/ja/",
+        "note": "国産モバイル業務アプリ作成ツール、日本商習慣フィット"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法 (APPI)",
+        "impact": "クライアントポータル/CRM用途で個人情報を扱う場合、利用者側に安全管理措置・委託先監督義務が課される。Softr側はクラウド事業者として責任共有モデル下で対応するが、国内顧客への販売時はAPPI遵守の説明資料が必要"
+      },
+      {
+        "law": "総務省 ASP・SaaS情報開示指針 / クラウドサービス安全ガイドライン",
+        "impact": "国内企業/自治体への販売時に101項目の情報開示が事実上要求される。海外SaaSは適合に時間がかかり大企業/官公庁案件で不利"
+      }
+    ],
+    "opportunity": "Softr本体の代替を作るのではなく、Softr上で動く日本商習慣テンプレ集（請求書PDF・押印承認フロー・FAX連携・帳票・全角半角対応・適格請求書ダウンロード等）をマーケットプレイスや教育コンテンツとして販売する角度ならば個人開発で勝ち目がある。あるいはkintoneの代替AI生成ビルダーを日本商習慣最適化で立てる路線もあり得るが、これはkintoneとの正面競合になり個人では困難。",
+    "rationale": "国内業務アプリのノーコード市場は需要顕在だが、kintoneを筆頭にAppSheet・Power Apps・Bubble・Platio等で完全に飽和している。Softrの差別化要素であるAI Co-Builderはグローバル文脈では強力だが、日本での競争優位は(1)日本語UI、(2)帳票・押印・適格請求書等の日本商習慣対応、(3)国内サポート体制、の3点で勝負が決まる領域であり、海外発のソフトウェアが個人開発者の手を通して入り込む余地は薄い。Softr本体が日本進出する際は彼ら自身がやるべき作業であり、個人開発の差し込み余地は『Softrを補完する日本テンプレ販売』程度に限定される。市場機会としてはskipが妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "日本SMBは業務アプリへの月額課金には抵抗薄め（kintone¥1,000-1,800/月の前例）。だがSoftr代替/補完プロダクトとして個人開発が新規ARPUを取るには日本固有付加価値が必要で課金ロジックが立てづらい"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内ノーコード市場2025年1,939.7億円。中小企業約336万社（中企庁概数）と母数は十分大きい。ただし個人開発が獲得可能なニッチに絞ると数千社規模"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "業務アプリは無料枠で試して有料転換のPLG動線が日本ではkintoneのパートナー経由販売が主流。個人開発者がX/Zenn/Qiita発信だけでSMB決裁者にリーチするのは構造的に困難"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Softr本体は1M+ビルダー規模で日本展開する体力があり、Lovable/Bolt等のvibe codingと業務アプリAI生成の境界が消えつつある。個人開発が動ける時間窓は12-18ヶ月程度しかない"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "業務アプリ提供は顧客のデータが資産になるためSLA期待値が高く、24/7監視・バックアップ・問い合わせ対応・APPI関連説明が必須。個人運用は極めて重い"
+      }
+    },
+    "rationale": "事業性は厳しい。市場は十分大きいがGTMで個人開発者が国内SMBの業務アプリ予算に届く経路がほぼ無く、kintoneパートナー網のような業務委託エコシステムに食い込むのも個人では難しい。仮にSoftr上の日本商習慣テンプレ販売に絞ったとしてもSoftr自体の日本ユーザー母数が小さく市場が形成されていないため売上が立ちにくい。さらに業務アプリ提供は顧客データを扱う性質上、運用負荷とSLA期待値が個人開発の負荷上限を超える。マネタイズ可能性はゼロではないが、3年で月商を立てる経路が描きづらい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 2000,
+      "plans": [
+        "Free: 1アプリ・利用者10名まで",
+        "Solo: ¥2,000/月（5アプリ・テンプレ全部使用可）",
+        "Team: ¥9,800/月（無制限アプリ・帳票/押印テンプレ込み・優先サポート）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内Softr/Bubbleユーザーで業務アプリを日本企業向けに納品している小規模ノーコード受託エージェンシー・フリーランス（推定数千社）。Softr日本進出に乗じて日本商習慣テンプレを欲する層に限定",
+      "target_count": 3000,
+      "capture_pct_year3": 3,
+      "monthly_revenue_target_jpy": 180000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita連載でSoftr日本商習慣テンプレ作成記事",
+      "X (旧Twitter) で個人発信、ノーコード代理店アカウントとの相互送客",
+      "ノーコードラボ・NOCODO等の国内ノーコードメディア寄稿",
+      "Softr公式テンプレマーケットプレイスへの出品（存在すれば）",
+      "ノーコード受託エージェンシーへの直接営業（東京/大阪のミートアップ）"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Softr本体が日本市場進出・公式日本語化・国内パートナー網構築を始めると、個人開発のテンプレ販売事業は瞬時に陳腐化する",
+      "国内のSMB業務アプリ需要はkintoneが圧倒的シェアで吸収しており、Softrエコシステム自体が日本で育たないリスクが最大",
+      "AI Co-Builderが日本語プロンプトで完全な日本語アプリを生成するようになると、テンプレ販売の差別化要素（日本商習慣の作り込み）が消える",
+      "顧客データを扱うため個情法対応・SLA・障害対応が必須で、個人運用では事故対応コストが事業を破綻させ得る",
+      "Lovable/Bolt等のvibe codingが業務アプリ領域に侵食してきており、ノーコードビルダー自体の差別化が縮小しテンプレ市場が痩せる"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

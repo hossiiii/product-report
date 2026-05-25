@@ -1,0 +1,246 @@
+{
+  "name": "Google Finance",
+  "description": "Ask complex finance questions, get AI-grounded answers",
+  "ph_url": "https://www.producthunt.com/products/google/launches/google-finance-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/GNTCPZ4KQWJ6AP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-10T07:01:00Z",
+  "upvotes": 290,
+  "comments": 14,
+  "topics": [
+    "Investing",
+    "Artificial Intelligence",
+    "Finance"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Google Finance just went global, and it's a meaningfully different product from what most people remember.</p><p>I'm hunting this because the live earnings feature with synchronized transcripts and AI-generated insights is the kind of capability that used to require paid tools.</p><p></p><p><strong>The problem</strong>: tracking markets seriously means jumping between charting tools, news feeds, earnings call recordings, and research platforms. None of them share a surface.</p><p></p><p><strong>The solution</strong>: the new AI-powered Google Finance consolidates this into one place. Ask complex research questions and get comprehensive AI responses with source links. Follow live corporate earnings calls with audio, synchronized transcripts, and AI insights. Use advanced charting with technical indicators like candlestick charts and moving average envelopes. Get real-time data on commodities and crypto alongside a revamped news feed.</p><p></p><p><strong>What's in the new experience:</strong></p><ul><li><p>🤖 <strong>AI research</strong> means you can ask complex market questions and get sourced, structured answers</p></li><li><p>🎙️ <strong>Live earnings</strong> with synchronized transcripts means you can follow calls in real time without a Bloomberg subscription</p></li><li><p>📈 <strong>Advanced charting</strong> with technical indicators means you can do basic TA without switching tools</p></li><li><p>📰 <strong>Revamped news feed</strong> with expanded commodities and crypto data means real-time intel in one view</p></li></ul><p><strong>Who it's for</strong>: retail investors, self-directed traders, and market researchers who want research depth without paying for institutional tools. Now available in 100+ countries with local language support.</p><p></p><p><strong>Honest note</strong>: rollout is gradual, so check <a href=\"http://finance.google.com/beta\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">finance.google.com/beta</a> to see if your country is live yet.</p><p></p><p>Which feature are you most likely to use first: the AI research, live earnings, or the advanced charting?</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a></p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Great now i can lose my entire portfolio using advanced AI insight instead of just relying on my gut, haha</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Nice! I'll probably reach for advanced charting first since it's the gap I hit most often with the free tools. Excited to try this out.                       </p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Google Finance now combines AI Deep Search, live earnings transcripts, advanced charting, and prediction market data into a single free tool for investors and market researchers globally.",
+  "featured_at": "2026-04-10T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f27f20c5-816f-4210-bbfa-8bdf797ffa3b.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a30fb3f4-d128-4784-ac5d-3ec6bab1bafb.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a7c93993-0a01-413a-96b5-3e6069af0a2a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/112cd6b1-cc39-428a-8a0e-444a20618774.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/873560aa-f754-48ed-b0da-ddaa5712e812.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/52a9909a-befa-4c9b-9cca-dd55a25502ad.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/04e3da19-e1ba-493f-b5fa-3e0a35f1da5a.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/642cfc2e-bec0-428f-b6f3-b8884a868431.webp"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/e651be69-f5e9-42f6-90c9-530810d61eae.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:31",
+  "landing_meta": "Google Finance",
+  "landing_text": "Google Finance Finance Beta search_spark settings Settings Theme Device default Dark theme Light theme feedback Send feedback Sign in Lists arrow_drop_down Select list Equity sectors playlist_add New list playlist_add New list expand_content Expand Equity sectors keyboard_arrow_up Collapse arrow_upward Symbols arrow_upward Symbols Trend Change arrow_upward Price arrow_upward Change arrow_upward % Change arrow_upward Prev Close arrow_upward Open arrow_upward High arrow_upward Low arrow_upward Volume arrow_upward Mkt Cap SIXB Materials SIXB Materials SIXB +0.47% arrow_upward — 1,067.36 +0.47% arrow_upward 1,067.36 +4.96 arrow_upward +0.47% arrow_upward 1,062.40 1,064.14 1,071.99 1,061.02 — — SIXC Communications SIXC Communications SIXC -0.54% arrow_downward — 603.48 -0.54% arrow_downward 603.48 -3.26 arrow_downward -0.54% arrow_downward 606.74 606.74 609.84 602.33 — — SIXE Energy SIXE Energy SIXE +0.54% arrow_upward — 1,244.93 +0.54% arrow_upward 1,244.93 +6.72 arrow_upward +0.54% arrow_upward 1,238.21 1,236.60 1,247.74 1,232.10 — — SIXI Industrials SIXI Industrials SIXI +0.68% arrow_upward — 1,730.38 +0.68% arrow_upward 1,730.38 +11.77 arrow_upward +0.68% arrow_upward 1,718.61 1,723.23 1,741.48 1,717.47 — — SIXM Financials SIXM Financials SIXM +0.33% arrow_upward — 639.47 +0.33% arrow_upward 639.47 +2.10 arrow_upward +0.33% arrow_upward 637.37 638.27 642.30 638.27 — — SIXR Staples SIXR Staples SIXR +0.16% arrow_upward — 854.95 +0.16% arrow_upward 854.95 +1.36 arrow_upward +0.16% arrow_upward 853.59 854.05 858.19 851.34 — — SIXRE Real estate SIXRE Real estate SIXRE +0.11% arrow_upward — 218.56 +0.11% arrow_upward 218.56 +0.23 arrow_upward +0.11% arrow_upward 218.33 218.33 219.73 217.15 — — SIXT Technology SIXT Technology SIXT +1.02% arrow_upward — 3,631.59 +1.02% arrow_upward 3,631.59 +36.78 arrow_upward +1.02% arrow_upward 3,594.81 3,620.10 3,657.47 3,615.34 — — SIXU Utilities SIXU Utilities SIXU +0.80% arrow_upward — 915.77 +0.80% arrow_upward 915.77 +7.23 arrow_upw",
+  "pricing_signals": [
+    "$51",
+    "$7",
+    "$29",
+    "$4",
+    "$90.30",
+    "$2.15",
+    "$1",
+    "$1000",
+    "$640",
+    "$100",
+    "$90.93",
+    "$97.76"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:32",
+  "description_ja": "複雑な金融の質問にAIが情報源リンク付きで答える、刷新版Google Finance",
+  "summary_ja": "Gemini搭載の新Google Finance。AIリサーチ、ライブ決算同期トランスクリプト、テクニカル指標付き高度チャート、コモディティ/暗号データを1画面に統合し、個人投資家がBloomberg級の機能を無料で使える。",
+  "tldr_ja": "Googleが2026/4に日本含む100カ国でGemini搭載Finance無償展開済。個人開発で勝てる隙間は皆無、no_go。",
+  "review_guide_ja": {
+    "what": "Gemini搭載の刷新版Google Finance。(1)AI Deep Searchで複雑な市場質問に出典リンク付きで回答、(2)企業決算ライブをオーディオ+同期トランスクリプト+AI洞察で追跡、(3)ローソク足や移動平均エンベロープなどのテクニカル指標付き高度チャート、(4)コモディティ・暗号資産・予測市場まで拡張したリアルタイムニュースフィード、を統合。一部機能はログイン不要、ウォッチリストや詳細財務はGoogleアカウント必須。typical UCは個人投資家が銘柄調査・決算把握・チャート分析を1サーフェスで完結させること。",
+    "for_who": "個人投資家・自己裁量トレーダー・市場リサーチャー。Bloomberg/Refinitivは高すぎ、Yahoo!ファイナンスでは物足りない中間層。日本含む100+カ国で順次展開、ローカル言語対応済。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Gemini規模のLLM+リアルタイム市場データ+全世界決算音声/トランスクリプト+チャート基盤を統合する必要があり、データライセンス費用と運用負荷が個人開発の範囲を超える。"
+    },
+    "signals": [
+      "Google Finance自身が2026/4から日本でも順次提供開始、ニュース多数",
+      "個人投資家の73.3%が株式投資で生成AIを活用との調査あり、需要は顕在",
+      "moomoo証券・楽天証券・マネックス証券が各社AI銘柄分析を実装、競争激化",
+      "FSAが2026/3にAIディスカッションペーパー1.1版を公表し利活用を後押し",
+      "個人株主数1,599万人で過去最高、有価証券保有者2,495万人と母集団は大"
+    ],
+    "concerns": [
+      "Googleが無償展開済で課金型の独立プロダクトに勝ち目がない",
+      "投資助言業に該当する場合は金商法登録+営業保証金500万円が必要",
+      "リアルタイム株価データはJPX/取引所ライセンスが必要で個人で取得困難",
+      "moomoo等の証券会社系AIは口座連動で無料、SaaS単体課金は厳しい",
+      "Geminiが日本語回答品質を継続改善するため後発の差別化余地が縮小"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "個人投資家の73.3%が生成AIを株式投資に活用、有価証券保有者2,495万人。AIリサーチ・決算分析ニーズは顕在。Nikkei・Diamondなど大手メディアもChatGPT投資活用記事を多数出稿。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "本家Google Financeが2026/4に日本展開済、無料。加えてmoomoo証券AI、楽天証券AI、マネックス銘柄スカウター、Nikkei AI自動決算サマリー、SBI証券、Yahoo!ファイナンスが既に存在。完全に飽和市場。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "市況解説や情報提供のみなら投資助言業に該当しないが、個別銘柄の売買タイミング助言を行うと金商法登録(営業保証金500万円・更新審査2ヶ月)が必要。FSAは無登録助言取締りを強化中。情報提供型なら回避可能。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "日本語UI/データソースは技術的に容易、LLMはGemini/Claude/GPTのAPI叩きで日本語対応可。TDnetやEDINETから決算情報を取得すればデータも揃う。深いUX改修不要。"
+      },
+      "business_custom": {
+        "score": 7,
+        "reason": "個人投資家文化は十分浸透、サブスク受容度も高まりつつある。ただし日本人は投資情報に課金する習慣が薄く、証券会社の無料ツールに慣れている。商習慣そのもののミスマッチはない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Google Finance (本家・日本提供開始済)",
+        "url": "https://finance.google.com/",
+        "note": "2026/4にGemini搭載版が日本含む100+カ国で順次展開。AIリサーチ・ライブ決算・高度チャート・コモディティ/暗号データを無料提供。本ターゲットそのもの。"
+      },
+      {
+        "name": "moomoo証券",
+        "url": "https://www.moomoo.com/jp",
+        "note": "対話型AI「moomoo AIアシスタント」搭載。決算要約・専門用語解説・独自データを活用したリサーチを口座開設者に無料提供。日本株・米国株対応。"
+      },
+      {
+        "name": "マネックス銘柄スカウター / マネックス証券",
+        "url": "https://info.monex.co.jp/market-information/tool/expectation.html",
+        "note": "過去10期+の業績、四半期推移、5年PER/PBR/利回り推移を可視化する銘柄分析ツール。Lite版は口座開設不要の無料、フル版は口座者無料。"
+      },
+      {
+        "name": "Nikkei AI自動決算サマリー",
+        "url": "https://www.nikkei.com/promotion/collaboration/qreports-ai/",
+        "note": "TDnet開示の決算情報をAIで自動要約。日経電子版経由で提供、上場企業の決算把握用途で日本語AI要約のリーディング。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "金融商品取引法 (投資助言・代理業)",
+        "impact": "個別銘柄の売買タイミング等を有償で助言する場合は登録必須。登録には営業保証金500万円、知識経験要件、約2ヶ月の審査。情報提供・市況解説のみなら登録不要だが、FSAは無登録助言取締りを強化中で線引きに弁護士確認が必要。"
+      },
+      {
+        "law": "金融商品取引所のリアルタイム株価データ・ライセンス",
+        "impact": "JPX等のリアルタイム株価をユーザー提供するには取引所からのデータライセンス契約が必要で、料金体系・配信制約が個人開発の事業規模では合わない。20分遅延ならOSSフィードで代替可能だが本家との差別化が困難に。"
+      },
+      {
+        "law": "景品表示法・特定電子メール法",
+        "impact": "投資アプリの広告で「絶対勝てる」等の誇大表現は措置命令対象。メルマガ配信は同意取得・配信停止導線が必須。一般的なSaaS同様の遵守で対応可能。"
+      }
+    ],
+    "opportunity": "本家Google Financeは米国株中心の汎用ツールで、日本の四季報的な深掘り(株主構成・適時開示の日本語精緻要約・配当方針・優待・日本特有のセグメント開示)や、note/X/Yahoo!掲示板等の日本語投資家コミュニティ言及との連動は弱い。「日本上場銘柄に特化したAIリサーチ+四季報的UX+日本語決算ライブ要約」のニッチなら理屈上はある。ただし証券会社系AI(moomoo/楽天/マネックス)が口座連動で無料展開しているため、独立SaaSとして個人課金を取りにいくのは極めて困難。",
+    "rationale": "需要は確実に大きい(個人投資家1,599万人・AI活用率73.3%)が、競争観点では本家Google Financeが2026/4から日本でも無料展開済、加えてmoomoo・楽天・マネックス・SBI・Nikkei・Yahoo!ファイナンスが日本語AI機能を既に提供しており、競合不在の隙間はほぼない。規制面は情報提供型に留めれば回避可能、ローカライゼーションも容易、商習慣も問題ないが、いかんせん本家が無料で同じ機能を出している以上、市場機会としては『Watch (深掘り余地は理論上あるが現実的には厳しい)』に留まる。日本特化の四季報×AIエージェント等の角度なら開拓余地はあるが、Google Finance系の正面突破は不可能。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 2,
+        "reason": "本家が無料、証券会社系AIも口座連動で無料、Nikkei AI要約は購読者無料。日本の個人投資家が独立SaaSに月額課金する文化が薄い。投資情報課金の相場データは検索で根拠未確認だが、課金壁は厚い。"
+      },
+      "market_size": {
+        "score": 8,
+        "reason": "個人株主1,599万人(過去最高)、有価証券保有者2,495万人(総人口の20.2%)。NISA拡大で母集団は拡大中、TAMは十分。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "Qiita/Zennは投資クラスタが薄く、X投資界隈はインフルエンサー獲得コストが高い。証券会社系ツールが既にユーザーを囲い込んでおり、PLGで個人開発SaaSが浸透する経路がほぼ無い。"
+      },
+      "timing": {
+        "score": 1,
+        "reason": "Google Finance日本版が2026/4に既に提供開始済。本家進出待ちの状態ではなく、進出後の段階。タイミングウィンドウは閉じている。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "リアルタイム市場データ運用は24/7監視必須、取引時間外もアラート・障害対応が発生する。投資情報は誤情報リスクが高く、ユーザー問合せ対応負荷が重い。個人運用継続は困難。"
+      }
+    },
+    "rationale": "市場規模(個人株主1,599万人)は十分大きいが、致命的な事業性の問題が複数。(1)タイミング: 本家Google Financeが2026/4に日本展開済で時間窓は閉じている。(2)Monetization: 無料の本家・証券会社AI・Nikkei AIが既に高品質を提供しており有料SaaSの差別化困難。(3)GTM: 個人開発者が投資クラスタにリーチする無料チャネルが乏しい。(4)Solo Ops: 金融データの正確性責任・24/7監視・誤情報対応が個人運用と相性が悪い。Market sizeのみ高得点でも、課金経路と時間窓が同時に閉じているため事業として成立しない。日本特化の四季報AI等のニッチに振っても、投資助言業の境界に近づくと規制リスクが上振れ、本質的な解にならない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "Google Financeに正面競合する独立SaaSとして個人課金を取るのは非現実的。仮に挑むならOSSとして公開しコミュニティ評価を得る前提",
+        "もしニッチ特化(日本上場銘柄×四季報×AI要約)なら Free: 5銘柄ウォッチ、Pro: ¥980/月 全銘柄+決算アラート、を試行できるが期待ARPUは低い"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本上場銘柄を深掘りリサーチしたい中級個人投資家(NISA活用層・配当株/高配当投資家)で、本家Google Financeが手薄な四季報情報・適時開示日本語要約を求める層。仮想セグメント、根拠未確認。",
+      "target_count": 500000,
+      "capture_pct_year3": 0.05,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "(参考) Qiita/Zennで『Gemini API + EDINET でつくる日本株AI分析』等の技術記事を連載し、開発者コミュニティ内で話題化",
+      "(参考) X(投資クラスタ)でデモ動画を継続投稿、四季報的UXのスクリーンショットを共有",
+      "(参考) noteで個人投資家向け『AI銘柄分析の具体的プロンプト集』を発信して認知獲得",
+      "ただし上記いずれもGoogle Finance本家と正面競合する形では成立しないため、推奨は『参入しない』"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "本家Google Financeが既に2026/4から日本含む100+カ国で無料提供を開始済で、機能・データ・ブランドのすべてで個人開発が太刀打ちできない",
+      "moomoo/楽天/マネックス/SBI等の証券会社AIが口座連動で同等以上の機能を無料提供しており、独立SaaSの差別化と課金根拠が立たない",
+      "個別銘柄の売買助言に踏み込むと金商法投資助言業登録(営業保証金500万円・知識経験要件)が必要で個人開発の参入障壁が極めて高い",
+      "リアルタイム株価データのライセンス費用(JPX等)が個人開発の事業規模に合わず、20分遅延だと本家との差別化がさらに困難",
+      "金融情報の誤情報は実損リスクに直結しユーザー責任問題化しやすい。個人1人で24/7のデータ正確性・障害対応を継続するのは事実上不可能"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T21:28:40Z",
+  "review_guide_at": "2026-05-25T21:28:40Z",
+  "business_viability_at": "2026-05-25T21:28:40Z",
+  "advisor_view_at": "2026-05-25T21:28:40Z"
+}

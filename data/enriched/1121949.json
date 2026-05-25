@@ -1,0 +1,259 @@
+{
+  "name": "X-Pilot",
+  "description": " Explain anything accurately, from document to video course",
+  "ph_url": "https://www.producthunt.com/products/x-pilot-5/launches/x-pilot-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/PKLR5DDFXUK34H?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-16T07:01:00Z",
+  "upvotes": 342,
+  "comments": 41,
+  "topics": [
+    "Education",
+    "Artificial Intelligence",
+    "Video"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi Product Hunt — I’m Heshan, founder of X-Pilot.</p><p>After leaving Baidu Apollo, I built 3 edtech companies (1M+ users total) and kept seeing the same issue: the people with the deepest knowledge are often the least equipped to turn it into video. Hand a professor a video editor and everything slows down. I started calling it the “Expert Paradox.”</p><p>X-Pilot is our attempt to solve it: upload a document, and X-Pilot generates an accurate, multi-module video course—complete with a syllabus, learning objectives, and animated visuals (diagrams, rendered formulas, code walkthroughs) you can publish.</p><p>A key difference vs. HeyGen/Synthesia: those are talking-head/avatar script readers. X-Pilot focuses on knowledge visualization. Every visual is rendered programmatically via Remotion in isolated sandboxes—deterministic code, not generative visuals—so if your doc says 2+2=4, the video shows 2+2=4.</p><p>Free to start (no credit card).</p><p>I’d love feedback from anyone who’s tried to turn a document into a course: what broke for you—structuring, visuals, editing time, accuracy, or distribution?</p>",
+      "votesCount": 12,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt 👋 I’m one of the devs behind X-Pilot.</p><p>We built this because we kept hitting the same issue: AI video tools look great, but they hallucinate—especially on code, charts, and formulas. For educators and trainers, that’s a dealbreaker.</p><p>So we went a different direction. X-Pilot takes your PDF / PPT / Markdown and renders everything deterministically in a sandbox (via Remotion), instead of “imagining” the video.</p><p>That means what you write is exactly what shows up—no hallucinations, especially for technical content.</p><p>It's been a massive engineering challenge to build this rendering engine from scratch, but seeing it save course creators hours of manual editing has been incredibly rewarding for our team. </p><p>We’ve added free credits so you can try the real workflow. I’ll be around in the comments—would love feedback, ideas, or any questions.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Great idea! Is Ukrainian supported? Or only English?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "X-Pilot turns docs into video courses for people who explain anything and can't risk hallucinations. Every visual is rendered programmatically via Remotion in isolated sandboxes — deterministic, not generative. Formulas, diagrams, and code stay accurate.",
+  "featured_at": "2026-04-16T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/ebe2c8da-3805-4427-ae02-c887920959e5.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cb557357-22a3-4c37-9e0e-121d2ac2c830.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/85c0a232-fd1f-4f6a-9b61-5bf2647516df.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/386af34c-1b2a-4943-b439-cb60bce96800.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/de072779-8963-44b9-b874-e25f323b1bf7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/486a30fb-40ea-45fd-8116-248b6d8c833a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bfd303ca-ea5b-46b5-9ffd-d96b01f97440.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/b338a47d-89da-49d8-b44b-215543170823.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:05",
+  "landing_meta": "Accurate AI Video Course for Teaching & Training | X-Pilot — Turn PDFs, slides & syllabi into accurate AI video course series. Deterministic, not generative — for course creators and trainers who can't risk hallucinations.",
+  "landing_text": "Accurate AI Video Course for Teaching & Training | X-Pilot Skip to main content x-pilot.ai 01 02 03 04 05 06 07 08 09 2026 · Q2 A·1 B·2 Teach Anything Accurately , from Docs to AI Video Course Series. Turn PDFs and slides into accurate, chapter-aligned video course series . Every diagram, formula, and figure rendered from your source. No talking heads. Create Your First Video Course — Free MiraclePlus backed Product Hunt #2 Product of the Day 01 02 03 View A · Course output · 1280 × 720 Sound on 01 / 02 Trusted by 15,000+ independent course creators and trainers in 40+ countries Field · Reference org marks · continuous scroll Google Cloud Bosch BYD Dify University of Notre Dame Celton Semiconductors HACC (Harrisburg Area Community College) Laredo College Harlem Labs Groundtruth Careonyx Uromax Singapore W \"We cut training video production cost by 80 % and turnaround from 3 weeks to 2 days. High-quality modules for global teams at a fraction of the cost.\" Waziri | CEO, Harlem Labs 80% lower cost 2 days was 3 weeks 02 / 02.5 Audience If your learners would catch the error , this is built for you Teachers, trainers, L&D leads, course creators — one rule: the document is the source of truth, every frame. See all 6 role hubs → A Teachers & Exam-Prep Tutors K-12 teachers and independent exam-prep tutors building chapter-aligned courses for IGCSE, IB, AP, SAT, JEE, or NEET — ready to sell on Teachable, Udemy, or your own site. For Teachers hub Or jump to the Exam Prep goal hub → B Certification & Corporate Trainers Solo trainers and 1–5 person prep institutes shipping certification prep libraries for FDNY C of F , OSHA , PMP , CFA, or STCW — chapter bound to the authority source. For Trainers hub Or jump to the Certification Training goal hub → C L&D Leads & SOP Owners Turn HIPAA , HACCP, bilingual childcare, or new-hire manuals into chapter-indexed staff training video series — in English or bilingual pairs. For L&D Leads hub Or jump to the Compliance & SOP goal hub → D C",
+  "pricing_signals": [
+    "pricing",
+    "premium",
+    "$9",
+    "$29",
+    "$99",
+    "$23",
+    "$29/mo",
+    "$24 / year",
+    "$79",
+    "$99/mo",
+    "$72 / year",
+    "$299"
+  ],
+  "landing_fetched_at": "2026-05-26T04:34:06",
+  "description_ja": "ドキュメントから図・数式・コードを正確に保ったまま動画講座を自動生成するAIツール",
+  "summary_ja": "PDFやスライドを入力すると、シラバス・章立て・図解・数式・コード解説まで含む動画コースをRemotionで決定論的に描画。アバター読み上げ系と異なり「資料の内容と一致した映像」を出すのが売り。",
+  "tldr_ja": "国内eラーニング3,800億円市場で需要は顕在だがNoLang等の国産競合と価格帯がほぼ重なり、個人開発で差別化は難。watch止まり。",
+  "review_guide_ja": {
+    "what": "PDF・PPT・Markdownをアップロードすると、シラバス・学習目標・章立てに沿った動画コースを自動生成する。動画内の図解・数式・コードはLLMが生成したコードをRemotion（プログラマティック動画フレームワーク）でサンドボックス描画する仕組みで、「2+2=4と書いてあれば必ず2+2=4と映る」決定論的レンダリングを売りにする。HeyGen/Synthesiaのような『アバターが台本を読み上げる』方式ではなく、知識可視化に振り切ったポジショニング。MiraclePlus支援、ローンチ時点で40カ国15,000人の講座制作者・トレーナーが利用と表記。料金はFree（クレジット付）/月額$29〜$99、年額$24〜$72の併用プラン。",
+    "for_who": "K-12教師・受験指導者（IGCSE/IB/SAT/JEE等）、資格試験トレーナー（PMP/CFA/OSHA等）、企業L&D・SOPオーナー、Udemy/Teachable等で動画講座を販売する個人クリエイター。共通点は『資料が真実の源で、一文字でも違ったら学習者にバレる』タイプの講座制作。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Remotionによる決定論的レンダリングエンジン、LLMによるシラバス生成、図表・数式・コードの正確な可視化を統合する必要があり、UIだけでなくレンダリング基盤の構築が重い。"
+    },
+    "signals": [
+      "Product Hunt #2 Product of the Day、342 upvotes/41 comments と反応良好",
+      "MiraclePlus（旧Y Combinator中国）バック",
+      "『AI動画のハルシネーション』という具体的痛点に対し決定論的レンダリングという技術的差別化",
+      "Remotion採用が日本のエンジニアコミュニティ（Qiita/Zenn）でも話題化中、技術トレンドと合致",
+      "対象が教育・コンプライアンス・SOPと『正確性が必須』の領域に絞られている"
+    ],
+    "concerns": [
+      "日本語UI・日本語ナレーション品質が未確認、深い日本語対応にはローカライズコストが必要",
+      "NoLang（PDF→解説動画、月980〜7,980円）が既に日本語で同種機能を提供",
+      "Synthesia/HeyGenが日本市場で既に教育・研修動画の選択肢として認知済み",
+      "企業研修動画市場はeラーニング大手（manebi/AirCourse/LearningWare等）の囲い込みが強く新規参入が難しい",
+      "Udemy個人講師のARPUが日本では低く、月29〜99ドルの価格は個人クリエイターには高め"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 7,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内eラーニング市場は2025年度3,849億円規模で堅調成長、企業のDX・リスキリング需要を背景にBtoB主導で拡大中。動画マニュアル自動生成（ムクイル等）やAI教材内製化の事例も2026年に多数出てきており、ドキュメント→動画変換の需要は顕在化している。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "国産NoLangがPDF→解説動画を月980〜7,980円で提供、Synthesia/HeyGenが日本語対応済み、企業向けはmanebi/AirCourse/eden LMSが内製ツール込みで囲い込む。『決定論的レンダリング』ニッチは未充足だが、近接代替が多く差別化は要工夫。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "B2B SaaSとして特商法・個情法の通常対応で足りる。教育・資格試験素材を扱う場合は著作権法上の引用範囲に留意が必要だが、利用者責任で対応可能。金商法・医療機器規制等の重い規制は無関係。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "PDF/PPT入力＋テキスト処理が中心のため翻訳は比較的容易。ただし日本語ナレーション（TTS）の自然さ、縦書き・数式組版・日本独自の指導要領・資格試験フォーマット（簿記・宅建・IPA等）への適合には追加調整が必要。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "塾・予備校・企業研修部門は『動画は外注または自前撮影』の慣習が根強く、AI生成動画の品質受容にはまだ説得が要る。一方でUdemy個人講師・社内SOP動画は受容性が高い。商習慣ミスマッチは部分的。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "NoLang（株式会社Mavericks）",
+        "url": "https://no-lang.com/",
+        "note": "PDF/Web記事/テキストから解説動画を自動生成。アバターのリップシンク対応。無料〜月7,980円で日本語ネイティブ。X-Pilotと最も直接的に競合。"
+      },
+      {
+        "name": "ムクイル動画マニュアル自動生成AI",
+        "url": "https://www.mukuil.com/product/video_manual_ai/",
+        "note": "紙の手順書・CAD図面から多言語教育動画を生成。製造業向けに2026年4月リリース。SOP/L&D領域でX-Pilotと顧客が重なる可能性。"
+      },
+      {
+        "name": "Synthesia 日本展開",
+        "url": "https://www.synthesia.io/ja",
+        "note": "AIアバター動画。企業研修・eラーニングのSCORM対応が強み。日本語140言語対応。教育・研修動画の本命の一つとして既に認知。"
+      },
+      {
+        "name": "HeyGen 日本展開",
+        "url": "https://www.heygen.com/",
+        "note": "個人・SNS・営業動画向け。月$24〜の個人プランで日本のクリエイターにも普及。アバター読み上げ系の代表格。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法",
+        "impact": "教科書・市販テキスト・資格試験問題集を素材として入力するユースケースでは複製権侵害リスクあり。ユーザー側責任とする利用規約設計と、教育目的の引用範囲ガイドの整備が必要。"
+      },
+      {
+        "law": "特商法・個情法",
+        "impact": "B2B SaaSとして通常の事業者表記・プライバシーポリシー対応で足りる。法人課金・領収書・請求書払いの整備が日本顧客獲得には実務的必須。"
+      }
+    ],
+    "opportunity": "国内固有の角度として、(1) 簿記・宅建・IPA・医療系国試など『公式テキストPDF→章立て動画コース』に特化したテンプレート、(2) 学習指導要領・検定教科書フォーマットに沿った中高教師向け、(3) 製造業SOP・安全教育・コンプライアンス研修の社内動画（決定論的レンダリングが『手順書と完全一致』を保証）の3方向が考えられる。特に(3)はムクイルと隣接するが、Remotion描画によるコード・数式・図表の精度を訴求すれば理系研修・技術ドキュメント・ソフトウェア研修で勝てる余地がある。",
+    "rationale": "需要は明確に存在し、規制ハードルも低い。ただしNoLangという国産PDF→動画ツールが価格・日本語ネイティブの両面で先行しており、企業研修動画はeラーニング大手LMS（manebi、AirCourse、LearningWare、eden LMS等）が囲い込み済み。X-Pilotの『決定論的レンダリング』は技術的に魅力的だが、日本顧客に『AI動画のハルシネーション』という問題意識が浸透しているかは未確認で、訴求の翻訳が要る。ニッチを絞れば（理系SOP/コード講座等）勝ち筋はあるが、汎用『PDF→動画』では差別化が薄い。watch相当。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "本家価格は月$29〜$99（約4,300〜14,700円）と国内NoLang（月980〜7,980円）より高めだが、企業向けL&D・コンプライアンス用途なら法人課金可能。個人クリエイター層には価格抵抗あり。年額プラン併用は日本でも受け入れられやすい。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内eラーニング市場3,849億円、うち動画教材自動生成領域は数十〜数百億円規模と推測（根拠未確認）。Udemy講師・塾予備校・企業研修・SOPの合計対象数は数万〜数十万事業者規模で、ニッチ深掘りに足りる。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "PLG経由は可能だが、企業研修動画は導入決裁が複雑で個人開発者には重い。Udemy講師・個人塾向けはX/Qiita/noteで届くが、NoLang等先行プレイヤーがいる。教育系コミュニティへの地道な発信と事例獲得が必要で、爆発的拡散は期待しにくい。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "AI動画生成領域は2025〜2026年で急速にコモディティ化中。Synthesia/HeyGen/NoLang/ムクイル等が既に陣取り済みで、本家X-Pilot自身が日本進出すれば追随窓口は極小。日本独自展開を狙うなら12〜18ヶ月以内が勝負。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "動画レンダリング基盤はGPU/サンドボックス運用が重く、個人開発者がRemotion+LLMで再現するとインフラコストと障害対応で疲弊しやすい。日本語TTS品質維持、顧客サポート（学校・企業）の期待値も高く、ソロ運用は厳しい。"
+      }
+    },
+    "rationale": "市場サイズは十分、規制も低い一方で、競合密度が高くタイミングが既に遅め。AIアバター系（Synthesia/HeyGen）とPDF→動画系（NoLang/ムクイル）の両方が日本市場でポジションを取りつつあり、新規個人開発者が同じ汎用ポジションで勝つのは難しい。決定論的レンダリングという技術差別化を理系教育・コード講座・コンプライアンスSOPに絞り込めば狭いが深い市場が取れる可能性はあるが、レンダリング基盤の自前構築は個人開発の負荷として重く、本家のラッパーやAPIアグリゲーションでは差別化が消える。結論として『見送り寄りのconsider』。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2980,
+      "plans": [
+        "Free: 月3本まで、ウォーターマーク付き、コミュニティサポート",
+        "Pro: ¥2,980/月、月30本、ウォーターマーク除去、日本語TTS標準",
+        "Business: ¥14,800/月、月150本、SCORM出力、請求書払い対応",
+        "Team: ¥39,800/月、SSO・チーム共有・社内テンプレート、5席まで"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "理系・技術系の個人講座制作者（Udemy/Teachable講師でプログラミング・数学・統計・資格対策を扱う層）、および中小企業の社内SOP動画担当者。『資料と動画の内容が一致しないと困る』ニッチに絞る。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 447000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『Remotion + LLMで講座動画を作る』技術記事連載、技術系講師層を獲得",
+      "X（旧Twitter）で個人講師・Udemy講師に向けた事例動画のショート投稿",
+      "資格試験塾・プログラミングスクールへの直接営業（ニッチ深掘り）",
+      "noteで『PDF→動画コース化』のbefore/afterレビュー、塾講師の口コミ獲得",
+      "PLG無料枠経由のセルフサーブ、年額プラン誘導"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家X-Pilotの日本語ローカライズが12ヶ月以内に進行する可能性が高く、フルローカライズ前に市場を取らないと差別化が消える",
+      "NoLangが既に月980円〜の低価格で日本語ネイティブを抑えており、汎用ポジションでは価格競争で負ける",
+      "Remotion+LLM+TTSの自前運用はGPUコスト・障害対応・日本語音声品質維持で個人開発の負荷が重い",
+      "教育系コンテンツの著作権・教科書複製問題はユーザー責任設計でも炎上リスクあり、利用規約・モデレーションの整備が必須",
+      "AI動画生成のコモディティ化が進んでおり、価格圧力で月3,000円台に貼り付けられARPU確保が難しくなる"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 6,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

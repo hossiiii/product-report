@@ -1,0 +1,306 @@
+{
+  "name": "Twenty 2.0",
+  "description": "Build your Enterprise CRM with an AI-friendly SDK",
+  "ph_url": "https://www.producthunt.com/products/twenty-crm/launches/twenty-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/YQF35MRZD2VPJZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-21T07:01:00Z",
+  "upvotes": 369,
+  "comments": 34,
+  "topics": [
+    "Developer Tools",
+    "CRM",
+    "SDK"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey everyone 👋<br><br>Thomas here, co-founder of Twenty, back with <strong>2.0</strong><br><br>v1 launched with one pitch: an open-source CRM you actually own. No vendor lock-in, no black boxes.</p><p></p><p>The feedback we kept getting: <em>\"I don't just want to tweak my CRM, I want to build on top of it.\"</em><br><br>So that's what <strong>2.0</strong> is.<br><br>The core addition is <strong>our new SDK</strong> (<em>npx create-twenty-app my-app</em>). Data models, custom objects, workflow actions, layouts, widgets, the command menu, all defined in code, living in your repo, shipping through your normal dev flow with<strong> whatever AI coding tools</strong> you're already using.<br><br>We also shipped:<br>- <strong>AI built in:</strong> chat with your data, plus custom agents and serverless functions<br>- <strong>Custom layouts</strong> &amp; <strong>navigation</strong>: record pages, widgets, command menu, navbar<br>- <strong>The full toolkit:</strong> custom objects, fields, permissions, views, dashboards, workflows.<br><br>Twenty is open-source, self-hostable, and now fully yours to extend.<br><br>- 📦 Start building today → <a href=\"https://www.npmjs.com/package/twenty-sdk\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.npmjs.com/package/twenty-sdk</a><br><br>Felix, Charles, and I are here all day. Questions and feedback welcome. 🙏</p>",
+      "votesCount": 25,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Was deciding between making my own light CRM or building on Twenty 6 months ago, for a new thing I'm working on. Honestly, Twenty didn't have what I needed.</p><p></p><p>Oh child, how have I changed my mind since then! The speed you've built at the past 6 months has blown my pants off, and I can't wait to see what's more to come - really happy I didn't waste time slopping something together, when you've achieved so much!!</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Believed in this vision since day 0, so good to see it ship esp knowing the ton of work behind it!</p><p>Most \"CRM + AI\" offerings are just a chat panel bolted onto closed software. Twenty is the opposite: a primitive you can actually build agents against - in your repo, your stack, your premises, or all of the above.</p><p>Go <a href=\"https://www.producthunt.com/products/twenty-crm\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"twenty-crm\" target=\"_blank\" rel=\"noopener\">@Twenty</a> team + <a href=\"https://www.producthunt.com/@thomas_df\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"thomas_df\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@thomas_df</a> <a href=\"https://www.producthunt.com/@_felx\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"_felx\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@cbo_twenty</a> 🖤🔥</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Twenty 2.0 turns our open-source CRM into a platform you can build on. Define your data model, custom objects, workflows, layouts, and widgets in code with our new SDK, shipped through your normal dev flow with the AI tools you already use. AI built in, custom agents, serverless functions, and full layout and navigation customization. Self-hostable. Fully yours.",
+  "featured_at": "2026-04-21T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d2d29b16-ac94-46f0-9d73-fbbdb5a522be.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3d3868be-746a-41e2-b781-43998ba7bcac.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/176bd678-499e-4327-bda3-4492011ebe77.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/059f79ed-8886-446f-a2f1-950e853cb356.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d03c147a-4c7e-4adb-a68e-f8f2f2ae135d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/665ffdb3-793d-49c3-bb1a-9f1e8ee12b9d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/19bb6b97-7a2b-4081-b9c1-07a4027b33fa.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d1b2a7d7-f421-4575-ac2d-767f7e7dc166.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:21",
+  "landing_meta": "Twenty | #1 Open Source CRM — The #1 Open Source CRM for modern teams. Modular, scalable, and built to fit your business.",
+  "landing_text": "Twenty | #1 Open Source CRM Build your Enterprise CRM at AI Speed Twenty gives technical teams the building blocks for a custom CRM that meets complex business needs and quickly adapts as the business evolves. Get started Talk to us Twenty Apple New chat Favorites S Sales Dashboard · Dashboard Workspace Companies People Opportunities Tasks Notes Dashboards Workflows Book a demo Companies New ⌘K All Companies 9 Filter Sort Options Companies Url Created By Address Account Owner ICP ARR Linkedin Industry Main contact Employees Opportunities Added Anthropic anthropic.com Dario Amodei 18 Rue De Navarin Dario Amodei True $500,000 anthropic AI Research Dario Amodei 612 E Enterprise Expansion Jul 1, 2023 Linkedin linkedin.com Reid Hoffman 1226 Moises Causeway Ryan Roslansky False $1,000,000 linkedin Professional Networking Ryan Roslansky 19,300 T Talent Outreach Jul 3, 2023 Slack slack.com Stewart Butterfield 1316 Dameon Mountain Stewart Butterfield True $2,300,000 slack Collaboration Software Lidiane Jones 4,500 W Workspace Renewal Jul 5, 2023 Notion notion.com API API - Key name 1162 Sammy Creek Ivan Zhao False $750,000 notion Productivity Software Ivan Zhao 620 W Workspace Consolidation Jul 8, 2023 Figma figma.com WF Workflow name 110 Oswald Junction Dylan Field True $3,500,000 figma Design Tools Dylan Field 1,300 AI AI Prototyping D Design Ops Jul 12, 2023 Github github.com Chris Wanstrath 3891 Ranchview Drive Thomas Dohmke True $900,000 github Developer Platform Thomas Dohmke 3,800 C Copilot Rollout Jul 14, 2023 Airbnb airbnb.com Joe Gebbia 4517 Washington Avenue Brian Chesky True $4,200,000 airbnb Travel Brian Chesky 6,900 H Host Ops Jul 15, 2023 Stripe stripe.com Patrick Collison 2118 Thornridge Circle Patrick Collison True $1,800,000 stripe Payments Patrick Collison 7,400 B Billing Expansion Jul 17, 2023 Sequoia sequoia.com Roelof Botha 1316 Dameon Mountain Roelof Botha False $6,000,000 sequoia Venture Capital Roelof Botha 1,100 F Fund Ops Jul 20, 2023 Segment segme",
+  "pricing_signals": [
+    "free trial",
+    "open source",
+    "open-source",
+    "self-hosted",
+    "subscription",
+    "pricing",
+    "premium",
+    "$9/user",
+    "$19/user",
+    "$500",
+    "$1",
+    "$2"
+  ],
+  "landing_fetched_at": "2026-05-26T04:00:22",
+  "description_ja": "AIフレンドリーなSDKで自社専用エンタープライズCRMを構築できるOSS版Salesforce代替",
+  "summary_ja": "AGPL-3.0でセルフホスト可能なOSS CRM。データモデル・カスタムオブジェクト・ワークフロー・UI を SDK でコード定義し、Git/AIコーディングツールから普通の開発フローで拡張・運用できる。Salesforce代替を狙うYC S23スタートアップで、GitHubスター約45,000。",
+  "tldr_ja": "国内CRMはSalesforce/Sansan/kintoneで飽和、OSS自社ホスト需要はニッチ。本家進出・AGPL派生リスクもあり個人開発で勝つ筋は薄い。",
+  "review_guide_ja": {
+    "what": "Twenty 2.0はOSSのCRMプラットフォームで、Salesforce/HubSpotに対する開発者向け代替を狙う。2.0の中核は新SDK（npx create-twenty-app）で、データモデル・カスタムオブジェクト・ワークフロー・レイアウト・ウィジェット・コマンドメニューをすべてコードでGit管理可能。AIチャットによる自社データ問い合わせ、カスタムエージェント、サーバーレス関数を内蔵し、Claude Code等のAIコーディングツールから拡張する想定。AGPL-3.0でセルフホスト可、Docker Composeで起動可能。GraphQL/REST両APIを公開。典型ユースケースはエンジニア組織を持つスタートアップ/SaaS企業の社内CRM、顧客データを外部SaaSに預けたくない企業のオンプレ運用、AIエージェントを自社データに接続するためのCRMバックボーン。",
+    "for_who": "開発者を抱えるテック企業・スタートアップで、Salesforceの料金やベンダーロックインを嫌い、自社のレポジトリでCRMをコード管理したい層。中小〜中堅でSalesforce/HubSpot月額に見合わない、かつ社内に最低1名のフルスタック開発者がいる組織。日本ではkintone代替を検討する技術系SMBが想定顧客だが英語UI前提。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "CRMはマルチテナント・ワークフロー・権限・通知・データ移行を含み実装重量が大きい。AGPL継承制約も派生プロダクト商用化を強く制限する。"
+    },
+    "signals": [
+      "GitHub約45,000スター、Y Combinator S23、コントリビューター300+ で本家の開発速度が極めて速い",
+      "AGPL-3.0で完全セルフホスト無料、ベンダーロックイン回避という明確な差別化",
+      "SDK化でAIエージェント連携を前提とした「CRM as Code」を提示しており開発者層に刺さる",
+      "Linguiでi18n対応済み、コミュニティが日本語翻訳の追加に着手済み（公式ドキュメントは未整備）",
+      "国内ではSaaS型CRM市場が2025年2,567億円規模に拡大しCRM自体の需要は強い"
+    ],
+    "concerns": [
+      "国内シェアはSalesforce38.8%/Sansan16.1%/eセールスマネージャー11.2%/kintone7.3%/HubSpot6.4%と上位プレイヤーで飽和、新興OSS CRMが入る余地は限定的",
+      "AGPL-3.0継承により派生・SaaS提供時にソース開示義務、個人開発のフォーク商用化が法務的に困難",
+      "日本CRM導入企業は37.2%とまだ低いが、未導入層はそもそも英語CLI/Docker操作が困難な層が多く、OSSの自社ホストはミスマッチ",
+      "本家Twentyが既に日本語翻訳・モバイル・AI機能を高速で展開中、ローカライズ参入余地が縮小",
+      "電気通信事業法の外部送信規律・改正個情法など顧客データを扱うCRM特有の規制対応負荷が個人開発者には重い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内SaaS型CRM市場は2023年2,009億円→2025年2,567億円と成長、HubSpot調査ではCRM導入企業37.2%でまだ伸び代あり。ただしOSS自社ホストCRMという具体的セグメントへの需要シグナル（X/Qiita/Zenn）は薄く、検索でTwenty CRMの国内導入事例は確認できなかった。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "国内CRMシェアはSalesforce 38.82%、Sansan 16.13%、eセールスマネージャー 11.21%、kintone 7.33%、HubSpot 6.40%と上位5社で約80%を占める飽和市場。OSS代替もSuiteCRM/Vtiger/プリザンター等が既に日本語コミュニティを持ち、Twenty CRMが差別化できる隙間は狭い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "改正個情法（2025年見直し継続中）と電気通信事業法の外部送信規律（2023年6月施行）はCRM/MAツールも対象。顧客データを扱うため利用者通知・同意取得の実装が必須。Twentyはセルフホスト前提のためデータ越境リスクはむしろ低減できるが、運用責任は導入企業側に移る。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "Linguiでi18n対応済み、コミュニティが日本語翻訳追加に着手済みだが公式ドキュメント未整備でAI支援翻訳に依存。CRMはUI文言だけでなく、姓名分離・全角半角・郵便番号・FAX番号・名刺取込など日本固有の項目設計が必要で、UI/データモデル両面のローカライズ工数が中程度発生。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のCRM受容ではSansan（名刺）、kintone（業務カスタマイズ）が支持される傾向で、対面・FAX・PDF・押印文化と接続が必要。Twentyは英語SaaS的UXとCode-firstの設計思想で、非エンジニア営業現場の利用には設計乖離が大きい。商習慣フィットは弱め。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Salesforce (Agentforce Sales)",
+        "url": "https://www.salesforce.com/jp/",
+        "note": "国内CRMシェア38.82%の最大手。日本法人は2000年設立、Salesforce日本法人ローカライズ・パートナー網が成熟しており、エンタープライズ・中堅で圧倒的支配。"
+      },
+      {
+        "name": "kintone (サイボウズ)",
+        "url": "https://kintone.cybozu.co.jp/",
+        "note": "国内シェア7.3%、契約企業33,000社超。Lightプラン¥1,000/ユーザーから。中小企業のCRM/業務管理で最もメジャーな国産選択肢。プリザンターという無料代替もあり、OSSセルフホスト需要を既に吸収。"
+      },
+      {
+        "name": "Sansan",
+        "url": "https://jp.sansan.com/",
+        "note": "国内CRMシェア16.13%。名刺管理を起点とした日本特化CRM。日本商習慣（名刺交換）と密結合しTwentyとは異なる市場ポジション。"
+      },
+      {
+        "name": "プリザンター",
+        "url": "https://pleasanter.org/",
+        "note": "国産OSS業務アプリ基盤（AGPL）。kintone代替を明示しデータ移行機能あり。Twenty日本進出時に最も直接的なローカル競合となるOSS選択肢。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（2025年見直し継続中）",
+        "impact": "CRMは個人情報取扱事業者に該当。顧客データの取得目的明示・第三者提供同意・漏洩時報告義務が要求される。Twentyはセルフホストで越境リスク低減可能だが、運用主体（導入企業）にすべての責任が移転する設計のため、配布側がデフォルトで安全側設計をしておく必要がある。"
+      },
+      {
+        "law": "電気通信事業法 外部送信規律（2023年6月施行）",
+        "impact": "オンライン情報提供サービスとしてSaaS型CRMも対象。利用者の端末から外部に情報送信する場合、通知・同意・オプトアウト措置が必須。自社ホスト型でも埋込タグやSDK利用で対象化する可能性があり、配布パッケージにコンプライアンス設定UIを用意する負荷が発生。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "CRMからのメール送信（営業メール・ニュースレター）には事前同意とオプトアウト機能の実装が必要。Twenty 2.0のメール送信機能（2026年上期ロードマップ）は、日本配布時にこの規律を実装側でフォローする必要がある。"
+      }
+    ],
+    "opportunity": "国内独自開発の角度としては「Twenty + 日本商習慣プリセット配布」がありうる。具体的には(1)姓名分離・郵便番号・FAX・名刺項目を含む日本仕様データモデル、(2)Sansan/Zoho名刺データのインポーター、(3)個情法・電通法・特電法の同意管理UIプリセット、(4)請求書・見積書PDF（Slackや楽楽明細など国内SaaS連携）。ただしいずれも本家のSDK上に薄いラッパとして提供する形になり、本家進出で陳腐化しやすい。AGPL継承下では商用提供時にソース開示義務が生じるため、収益化はホスティング/サポート/コンサルティングに限定される。",
+    "rationale": "需要・規制面では国内CRM市場の成長・規制整備が追い風だが、本案件のスコアを大きく押し下げる要因は「競合の飽和」と「商習慣ミスマッチ」。Salesforce/Sansan/kintoneで上位80%が占有され、OSS自社ホスト層はプリザンター・SuiteCRM・Vtigerが既に日本語コミュニティを構築済み。さらに本家Twentyが急速に日本語化・モバイル・AI機能を実装中で、個人開発者が本家ローカライズ版で差別化できる時間窓も短い。AGPL-3.0継承条項により派生プロダクトのSaaS化商用化が法務的に重く、収益化チャネルがホスティング/サポートに限定される点も致命的。日本市場でビルドする合理性は弱く、watch 〜 skip の境界だがOSS継承制約を加味して skip 寄り。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "AGPL-3.0でセルフホスト無料が大前提のため、課金壁が厚い。本家もCloud版・サポート販売で稼ぐモデルで、派生個人開発者がSaaS提供するとソース開示義務が発生。日本市場ではARPUがkintone ¥1,000-1,800/ユーザー水準で米国SaaS比で低く、ホスティング/サポート販売でも単価確保が難しい。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "国内SaaS CRM市場は2025年約2,567億円規模だが、その中で「OSS・自社ホスト・SDK拡張可能」を求めるテック系SMB/開発組織は数千社規模と推測（根拠未確認、控えめ見積もり）。kintone契約33,000社の1割未満がTAM上限と推定。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "Qiita/Zenn/X・GitHub Stars・OSSコミュニティを通じたPLGは技術的には可能。ただし日本のCRM導入はSI/コンサル/パートナー経由が主流（特にSalesforce/kintone）で、個人開発者がエンタープライズ商談に入るには人脈が必要。Zenn記事『SaaS is Dead』論にもあるとおりAIエージェント時代に純SaaSのGTM自体が厳しい。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "本家Twentyが既に日本語翻訳・モバイル・AI機能を高速展開中（GitHub 45,000スター、コントリビューター300+、月次メジャーリリース）。Salesforceは2000年から、HubSpot Japanは2016年から日本法人運営。個人開発者の参入時間窓は12-18か月以内に閉じる可能性が高い。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "CRMは顧客データ・SLA・データ移行・サポートの負荷が極めて高い。AGPL継承の法務確認、個情法対応、電気通信事業法対応も継続コスト。本家の月次破壊的変更を追従するメンテも個人運用では困難。24/7監視・データバックアップが必須で個人開発者単独継続は厳しい。"
+      }
+    },
+    "rationale": "AGPL-3.0継承制約・本家高速進化・国内CRM市場の飽和・CRMの本質的な運用重量、いずれも個人開発者にとって不利に働く。収益化はOSS本家もホスティング/サポートに限定されており、派生開発者が独自課金できる余地は薄い。日本独自プリセット（名刺・商習慣・規制対応）の薄い差別化は可能だが、本家進出と本家コミュニティ翻訳の進展で12-18か月で陳腐化する見込み。さらにCRMという領域自体が顧客データ保護・SLA・コンプライアンスを要求し、個人運用の手離れが極めて悪い。ARPU水準も国内CRM相場が¥1,000-3,000/ユーザー/月とOSSサポート販売で目標月商を確保するのに必要な顧客数が多く、GTMが地道なPLGに依存する個人開発者には到達困難。事業性スコアは3で、go判断は出せない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "OSS本体: AGPL-3.0で無償公開（本家準拠）",
+        "Cloud Hosted (任意): ¥2,000/ユーザー/月、最低5ユーザー（kintone Light相当）",
+        "日本商習慣プリセット & サポート: ¥30,000/月 (Slack/メールサポート、設定支援)",
+        "導入コンサル: ¥150,000 / 5人日（初期データ移行・帳票プリセット）",
+        "個人開発者は課金よりOSSコミット → 受託・コンサルへの転換が現実的"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内テック系SMB・スタートアップでエンジニア常駐、Salesforce/kintoneの料金または英語SaaSベンダーロックインを嫌う層。具体にはWeb受託・SaaS企業の社内CRM、自社データをAIエージェントに接続したい開発組織。営業現場主導の伝統的企業は対象外。",
+      "target_count": 3000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita連載: Twenty CRM日本語セットアップ・kintoneからの移行事例を技術記事で発信",
+      "GitHub OSSコミット: 本家への日本語翻訳・日本市場向けプラグインを継続貢献し信頼蓄積",
+      "X(旧Twitter)個人発信: AIエージェント×CRMの実装デモで開発者層にリーチ",
+      "技術カンファレンス登壇: PHP/TypeScriptカンファレンス、AI Agent系イベントで事例共有",
+      "AGPL派生は商用提供せず、コンサル/受託にピボット（OSS本家のサービスパートナー）"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "AGPL-3.0継承条項により派生プロダクトをSaaS提供するとソース開示義務が発生し、商用化チャネルがホスティング・サポートに限定される。法務確認なしの収益化は契約違反リスク。",
+      "本家Twentyが既に日本語翻訳・モバイル・AI機能を高速展開中（GitHub 45k★・コントリビューター300+）。個人開発者の差別化時間窓は12か月程度で、その後は本家公式が日本市場をカバーする可能性が高い。",
+      "国内CRMシェアはSalesforce/Sansan/eセールスマネージャー/kintone/HubSpotで約80%占有。新興OSS CRMがエンタープライズ・中堅商談に入るには既存パートナー網との競合・SI依存ルート必須。",
+      "CRMは顧客個人情報を扱うため改正個情法・電気通信事業法・特定電子メール法の継続対応が必要。データ漏洩時の損害賠償リスクも個人運用では負担過大。",
+      "kintone ¥1,000-1,800/ユーザー、Light ¥1,000/月という国内ARPU水準でホスティング/サポート販売しても、固定費（インフラ・サポート時間）を回収できる規模に到達するには100社超の顧客が必要で、ソロでは現実的に到達困難。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

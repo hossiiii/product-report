@@ -1,0 +1,278 @@
+{
+  "name": "Lessie AI",
+  "description": "Search, Reach and Connect - Find the perfect fit, 10x faster",
+  "ph_url": "https://www.producthunt.com/products/lessie-ai-2/launches/lessie-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/5AFCHL2DEHSNUR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-07T07:01:00Z",
+  "upvotes": 421,
+  "comments": 147,
+  "topics": [
+    "Sales",
+    "Artificial Intelligence",
+    "Marketing automation"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>👋 <strong>Meet Lessie</strong></p><p></p><p>Hi Product Hunt! I'm Colin, founder of Lessie.</p><p>We built Lessie around a simple question: <strong>Why is finding the right person still so slow?</strong></p><p></p><p>Whether it's creators, leads, or candidates, the process is always the same — search across platforms, compare profiles, filter manually, then figure out how to reach out.</p><p>So we rethought the whole flow. With Lessie, you can just describe who you're looking for — and it handles the rest: finding, evaluating, and even reaching out. Instead of giving you another list, it actually helps you move from search to connection in one go.</p><p>What sets us apart is our State-of-the-Art (SOTA) people search quality. In our head-to-head platform comparisons, Lessie consistently outperforms tools like Exa and Juicebox across Relevance, Coverage, and Utility. By reasoning across the entire web, Lessie identifies the most relevant matches that traditional filters miss, delivering a level of precision and depth that defines the new standard for AI-native people search.</p><p></p><p>If you're doing:</p><ul><li><p>📣 Influencer sourcing</p></li><li><p>🚀 Outbound / Lead gen</p></li><li><p>🤝 Hiring or networking</p></li></ul><p>…or really anyone, anywhere you need to reach, would love for you to try Lessie with a real use case and tell us where it breaks.</p><p></p><p>We've also open-sourced our core <a href=\"https://github.com/LessieAI/lessie-skill\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Skills</strong></a> — including our modules for finding people, enriching contacts, and deep company research. We want Lessie to be truly extensible, so we encourage you to plug these skills into your own stack. Whether you're building a custom sourcing engine or a specialized research agent, you can leverage our open-source foundation to automate the heavy lifting.</p><p></p><p>🎁 <strong>Try </strong><a href=\"https://app.lessie.ai/login?utm_source=ProductHunt&amp;utm_medium=launch&amp;utm_campaign=ph_launch_lessie_202604&amp;utm_content=main\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Lessie</strong></a><strong> today with</strong> <strong>PH Special:</strong> Use code <strong>PH50</strong> to get 50% OFF! We're here all day — happy to dive into anything.</p>",
+      "votesCount": 48,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The useful part here is the context layer. For finding creators who actually fit a niche, knowing why someone matches is way more valuable than getting 500 loose results.</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Is it something like RocketReach? How the data (+ contact information) for each person are collected?</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Lessie is an AI agent that helps you find and reach the right people. Instead of filters or keywords, describe your target. Lessie discovers high-quality matches across the web and automates personalized outreach and follow-ups.",
+  "featured_at": "2026-04-07T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/fe3cdb85-612e-4454-85ab-437dc911b0e9.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c53328e8-5f37-4a28-ac26-d0a2fd1634eb.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dd48bd99-0688-4e90-a0eb-db5db5f3c624.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/06dfb1f8-0fee-4f66-b978-39ffd6646ddc.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0918d4d0-442f-493f-8f14-89c6c4bb4fd0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/00544c81-0d6f-43d7-9bde-4ab00f70577c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f71ae0f5-fded-4d43-ac6a-1ccff243cf88.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c0de26c4-a949-41bc-a580-795b9b053119.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d449c0ed-26ae-4605-a510-698fa093c3ec.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/7ec009d8-9bf7-4c50-884a-f56fc6f3aecb.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:25",
+  "landing_meta": "Lessie AI – AI People Search Engine to Find People Instantly — Lessie AI is an ai people search engine. Search 50M+ profiles across LinkedIn, Twitter, GitHub & 100+ sources. Find influencers, leads, investors & talent instantly with AI agents.",
+  "landing_text": "Lessie AI – AI People Search Engine to Find People Instantly Solutions Tools Directory Resources Pricing English Start for free Solutions Tools Directory Resources Pricing Solutions Find Influencer Find Client Find Investor Find Talent Find Partner Find Coach Find Distributor Find Property Leads Tools Instagram Instagram Fake Follower Check Instagram Follower Count Instagram Engagement Calculator Instagram Audit Instagram Pricing Calculator Find Instagram Creators Compare Instagram Influencers TikTok TikTok Fake Follower Check TikTok Follower Count TikTok Engagement Calculator TikTok Audit Find TikTok Creators Compare TikTok Influencers YouTube YouTube Follower Count YouTube Fake Follower Check YouTube Engagement Calculator YouTube Audit Find YouTube Creators Compare YouTube Influencers Twitter/X X Profile Viewer Twitter Profile Search Twitter/X Follower Count Twitter/X Engagement Calculator Twitter/X Audit Find Twitter/X Creators Compare Twitter/X Influencers LinkedIn LinkedIn Profile Extractor Facebook Facebook Profile Viewer Discord Discord Profile Viewer Email Cold Email Generator Free Cold Call Tool Bulk Email Verifier Free Email Verifier Email Finder Email Permutator Reverse Email Lookup AI Email Outreach Engine Email Addresses List Email Outreach Email Subject Line Tester Company Research Company Profile Search Company Location Finder Small Business Near Me Company Intelligence Snapshot Lookalike Company Finder Other Tools Free AI Headshot Generator CPM Calculator Tech Stack Checker Market Size Calculator ICP Fit Scorer Sales Deck Outline Generator Competitor Comparison Tool Resume Scorer Free CV Builder Free Invoice Generator Directory Featured Lists 50 Power Players Behind 2026's AI Investments Female Fitness Influencers 20-35, 250K+ Followers Independent Film Producers on Instagram in London TikTok AI & SaaS educators for startups High-End Real Estate Agents on Instagram in Dubai Search more Featured Profiles Sean Astin | Creator Tope Awotona | Founder Eri",
+  "pricing_signals": [
+    "free trial",
+    "free forever",
+    "open-source",
+    "subscription",
+    "monthly plan",
+    "pricing",
+    "free plan",
+    "premium",
+    "$1",
+    "$7",
+    "$5",
+    "$50"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:27",
+  "description_ja": "AI人物検索エンジン。条件を文章で伝えるだけで対象を発見し、アプローチまで自動化。",
+  "summary_ja": "LinkedIn・X・GitHubなど100以上のソースから5,000万人超のプロフィールを横断検索するAIエージェント。インフルエンサー発掘、リード獲得、採用、投資家リサーチを「自然言語の依頼→候補抽出→個別アウトリーチ」の一気通貫で自動化する。",
+  "tldr_ja": "海外人物DB依存で日本人カバレッジ薄、個情法とLinkedIn普及率4.2%が二重の壁。個人開発での横展開は困難。",
+  "review_guide_ja": {
+    "what": "自然言語で「探したい人物像」を記述すると、LinkedIn/Twitter(X)/GitHub/Instagram/TikTok/YouTubeなど100以上のソースを横断し、5,000万件超のプロフィールDBからAIがマッチング理由付きで候補を抽出。さらに連絡先エンリッチ(メール検出)とパーソナライズされたアウトリーチ送信・フォローアップまで実行する。フィルタUIではなく『なぜ合うか』のコンテキストレイヤーを売りにし、Exa/Juiceboxとの比較で精度を訴求。コア機能(People Finder/Contact Enrichment/Company Research)はOSS『lessie-skill』として公開されており、自社スタックに組み込んで使うことも可能。",
+    "for_who": "海外向けインフルエンサーマーケ担当、英語圏アウトバウンド営業、グローバル採用リクルーター、ベンチャー投資家のソーシング担当。SMB〜中規模、英語コミュニケーション前提。LinkedIn/X/GitHubで情報発信している人材を狙う層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "5,000万件規模の人物プロフィールDB構築、100超ソースの継続クロール、メール検出パイプライン、LLMによるマッチ理由生成までフルスタックが必要。プロキシ/法務コストも重い。"
+    },
+    "signals": [
+      "PH 421 upvote/147 commentsで初動好調",
+      "PH50で50%OFF初動ディスカウントを実施",
+      "コアSkillをOSS化(lessie-skill)し開発者拡張を誘導",
+      "Exa/Juiceboxとの比較で精度SOTAを訴求",
+      "Find Investor/Find Talent/Find Coach等7用途で水平展開"
+    ],
+    "concerns": [
+      "データソースの利用規約(LinkedIn ToS等)違反リスクが構造的",
+      "日本人プロフィールのカバレッジが薄い可能性",
+      "個情法・特定電子メール法(オプトイン)との衝突",
+      "Apollo/ZoomInfo等大手と機能重複が大きい",
+      "メール一斉送信は日本では事前同意必須で訴求軸が崩れる"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内BtoB AI営業ツール導入率は2024年22%→2026年38%へ伸長、AI営業リスト自動生成需要は顕在。ただしLessieの主軸『LinkedIn/X/GitHub横断人物検索』は日本ではLinkedIn普及率4.2%(約500万人)に阻まれ、英語圏ユースケースほどの強需要シグナルは未確認。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Sales Marker/Musubu/APOLLO SALES/ユーソナー/FORCASなど法人DB系が飽和、人材領域はLAPRAS/Findyが独自データで深く、インフルエンサー系もKolr/THECOO/iCON Suiteが先行。Lessieの『人物横断検索』ポジションは国内では既存プレイヤーで概ね埋まっている。"
+      },
+      "regulation": {
+        "score": 3,
+        "reason": "個情法でSNS等公開情報でも目的外利用・第三者提供は本人同意が原則必要、要配慮情報の無断収集は違法。特定電子メール法はオプトイン必須(違反は最大1年/100万円、法人3,000万円)で、Lessieの『AIが連絡先を見つけて自動アウトリーチ』モデルは日本の法令と正面衝突しやすい。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI日本語化自体は軽いが、本質はデータ層。日本人プロフィールDB(LinkedIn薄、GitHub/Qiita/X中心)を別途構築する必要があり、Wantedly/YOUTRUST/Eight等の国内一次ソース統合が事実上不可避。検索で根拠未確認だがLinkedIn API制約は厳格化傾向。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のBtoB営業はメール一斉送信より問い合わせフォーム送信(APOLLO型)や紹介・展示会の比重が高い。AIによる氏名指定のコールドアプローチへの心理的抵抗も強く、Lessieの『自動アウトリーチ』訴求は商習慣と摩擦。検索で根拠未確認の部分あり中庸評価。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Sales Marker",
+        "url": "https://sales-marker.jp/",
+        "note": "国内インテントセールスの代表格。月額40万円〜のエンタープライズ寄り。AI企業データベース+意図検知で、人物より企業単位の購買意欲を可視化。Lessieとは粒度が異なるが予算競合。"
+      },
+      {
+        "name": "Musubu / APOLLO SALES",
+        "url": "https://musubu.in/",
+        "note": "Musubuは法人DB+フィルタ抽出、APOLLOはフォーム自動送信で月数万円〜。中小企業の主流。Lessieが狙うアウトバウンド層は既にこの2社で運用済みのケースが多い。"
+      },
+      {
+        "name": "LAPRAS / Findy",
+        "url": "https://corp.lapras.com/",
+        "note": "エンジニア向けダイレクトリクルーティング。GitHub/Qiita/Connpass等のオープンデータをAI集約しスカウト最適化。日本人エンジニア検索の精度はLessieより圧倒的に高い。"
+      },
+      {
+        "name": "Kolr / THECOO / iCON Suite",
+        "url": "https://www.kolr.ai/",
+        "note": "インフルエンサー検索・選定AI。Instagram/TikTok/YouTubeの日本人クリエイターに最適化済み。Lessieの『Find Influencer』機能と直接競合し、日本市場では先行優位。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "SNSやWebで公開された個人情報でも、本人同意なく営業目的で取得・第三者提供すると違法となる可能性。要配慮個人情報の収集は原則違法。Lessieの中核機能(プロフィールDB化・メール検出・第三者販売)は国内では取得段階での利用目的明示と運用見直しが必須。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "広告宣伝メールはオプトイン(事前同意)が原則必須。違反時は総務省措置命令→最大1年以下の懲役/100万円以下の罰金(法人は3,000万円)。Lessieの『AIが自動でメール送信』機能は日本ではオプトイン同意取得フローを別途実装しないと使えず、訴求の核が崩れる。"
+      },
+      {
+        "law": "不正競争防止法 / プラットフォーム規約",
+        "impact": "LinkedIn等のスクレイピングは利用規約違反となる場合が多く、データを営業ツールとして再販する行為は規約・場合により不正競争防止法・著作権法上のデータベース保護とも論点になる。検索で日本でのLessieに対する直接判例は未確認だが、構造的リスクは大きい。"
+      }
+    ],
+    "opportunity": "日本独自に作るなら『人物検索』ではなく『法人キーパーソン特定+正規ルートでの紹介依頼』に振るのが筋。具体的には(1)Wantedly/YOUTRUST/Eight/note/Qiita等の国内一次ソースを許諾ベースで統合した『日本語自然言語の人材検索』、(2)同意済みオプトイン名簿に限定したAIマッチング、(3)企業の問い合わせフォーム経由(APOLLO型)に特化したAIパーソナライズ、のいずれか。横断はせず、日本人エンジニア/クリエイター/医師等のニッチ垂直で深掘りする方が個人開発でも成立余地がある。",
+    "rationale": "市場機会としては『AI営業/採用支援』のマクロ需要は国内でも明確に伸びている一方、Lessieのコアバリュー(海外SNS横断+自動アウトリーチ)は日本では(a)LinkedIn普及率4.2%でデータ供給源が弱い、(b)個情法・特定電子メール法でビジネスモデル自体に強い摩擦、(c)Sales Marker・Musubu・LAPRAS・Findy・Kolr等の縦軸プレイヤーが既に深く陣取り、横断SaaSが入る余地が薄い、という三重苦。スコアはdemand 6に対しregulation 3/competition 3/business_custom 4が引き下げ要因で、加重後4=skip。日本市場をターゲットにそのまま展開するのは推奨せず、参入するなら国内一次ソース許諾+同意済み名簿限定での再設計が必要。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "営業/採用領域は国内でも有料化耐性は比較的高い(Sales Marker月40万円〜、Musubu/APOLLO数万円〜)が、Lessieの価格帯($1-$50想定)では国内エンタープライズに刺さらず、中小は既に競合に流れている。個人/SMB向けの安価サブスクとしてはARPU 3,000-5,000円が現実線で、利益確保は厳しい。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内BtoB営業支援SaaS全体は数千億規模で広いが、Lessieが狙う『AI人物横断検索』に限定するとTAMは大幅縮小。インフルエンサー領域(国内6兆円のグローバル市場の一部)・採用領域・営業領域の合計でも、英語圏のような母集団規模は得られず根拠未確認の推定で中庸。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発者が日本でAI営業/採用ツールを売る場合、Qiita/X発信+PLG無料枠は機能するが、Lessieのように『人物DBを売る』モデルは法務レビューが入る商談が多く、SI営業に近い動き方が必要。Sales Marker型の人海戦術CSも難しく、個人運用と相性が悪い。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "Lessie本体は英語圏向けに既にローンチ済みで、日本進出は意思次第。Apollo.io/ZoomInfo等の日本本格進出は検索で根拠未確認だが、国内SaaS市場の英語圏プレイヤー進出は概ね2-3年遅れの傾向。猶予は24-36カ月程度と中庸に見積もる。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "プロフィールDBの継続クロール/メール検出/法令遵守(個情法削除請求対応、特定電子メール法のオプトアウト管理)/プラットフォーム規約変更追随はいずれも24/7監視+法務対応が必須。個人運用は事実上困難で、最低でも法務外注が要る。"
+      }
+    },
+    "rationale": "事業成立性は低い。第一に課金嗜好と価格レンジがミスマッチで、安価サブスクでは中小に届かず、エンタープライズには機能不足。第二に国内TAMが英語圏ほど厚くなく、垂直プレイヤー(LAPRAS/Findy/Kolr/Sales Marker)が顧客を握っているため新規シェア獲得が困難。第三に個情法・特定電子メール法・プラットフォーム規約という三重の運用負荷が個人開発者には致命的で、solo_ops 3まで下がる。GTMも個人開発者向けのPLGチャネル(Qiita/X)が機能しづらく、法人営業ルートが必要になる。結果としてbusiness_viability_score=3、go_no_go=no_goに直結する水準。日本では本家Lessieの代理販売よりも、許諾ベースの国内一次ソース限定の縦軸プロダクトに再設計しない限り個人開発者が事業化する余地は乏しい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3500,
+      "plans": [
+        "Free: 月10検索/連絡先取得なし",
+        "Solo: ¥1,980/月 50検索+連絡先10件",
+        "Pro: ¥3,980/月 200検索+連絡先50件+メール下書き",
+        "Team: ¥9,800/月 共有ワークスペース+CSV出力",
+        "Enterprise: 要相談 法務レビュー+SSO"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内のグローバル採用担当(英語圏候補者ソーシング)、海外向けインフルエンサーマーケ代理店、海外B2B営業のSMB。LinkedInを実務で使っている層に限定され、日本人プロフィールはむしろサブ用途。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 315000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『英語圏向けAI営業/採用OSS実装』記事連載",
+      "X(日本語)でグローバル採用担当向け事例発信",
+      "Wantedly/YOUTRUSTのHR担当コミュニティ経由でPLG無料枠配布",
+      "海外向けPHのフォロワー流入を日本語LPで受け止める",
+      "lessie-skill(OSS)を日本語ドキュメント化しGitHub経由で開発者獲得"
+    ],
+    "time_window_months": 24,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "個情法違反リスク: 日本人プロフィールを許諾なく営業DB化すると行政指導・刑事罰の対象になりうる。削除請求対応・利用目的公表・第三者提供同意の運用は個人では維持困難。",
+      "特定電子メール法のオプトイン違反: 自動アウトリーチ機能をそのまま提供すると違法行為を幇助する形になり、ユーザー側の違反でもサービス提供者の責任が問われる可能性。",
+      "プラットフォーム規約違反: LinkedIn/X等のスクレイピング規約変更1回でデータ供給が断たれ、サービス本体が止まる。法的訴訟リスクも。",
+      "本家Lessieの日本進出/価格破壊: 英語圏で先行する本家がUI日本語化のみで参入してきた場合、データ規模で勝負にならない。猶予24カ月程度の見積もり。",
+      "競合の縦軸優位: LAPRAS/Findy(エンジニア)、Kolr(インフルエンサー)、Sales Marker/Musubu(法人営業)が各セグメントで深く陣取り、横断SaaSが居場所を確保できない。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

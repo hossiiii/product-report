@@ -1,0 +1,242 @@
+{
+  "name": "Kimi K2.6",
+  "description": "Open-source SOTA for long-horizon coding and agent swarms",
+  "ph_url": "https://www.producthunt.com/products/kimi-ai-assistant/launches/kimi-k2-6-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/F7OWHMX4MFKI3R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-21T07:01:00Z",
+  "upvotes": 349,
+  "comments": 13,
+  "topics": [
+    "Open Source",
+    "Artificial Intelligence",
+    "Development"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>I’ve been on K2.6-code-preview for a while, and now it’s officially K2.6. It has been kind of wild!</p><img src=\"https://ph-files.imgix.net/09369361-4cfb-4b1f-a867-6b9d3c7a6c2f.png?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p>The model really shines on long-horizon coding: thousands of tool calls across hours of continuous execution, strong generalization across languages and tasks, plus the ability to generate rich, animated frontends with real motion and 3D elements. The agent swarm upgrades (300 parallel sub-agents) and proactive 24/7 agent support also feel like a meaningful step up. <br><br>As always, Kimi keeps delivering frontier-level models as <a href=\"https://huggingface.co/moonshotai/Kimi-K2.6\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">open source</a>. Respect🫡🫡</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey PH 👋 <br></p><p><strong>Kimi K2.6</strong> is our latest open-source model, built for long-horizon coding and agents - 4,000+ tool calls, over 12 hours of continuous execution, with generalization across languages (Rust, Go, Python) and tasks (frontend, devops, perf optimization).<br><br><strong>Open-source SOTA</strong> on HLE w/ tools (54.0), SWE-Bench Pro (58.6), SWE-bench Multilingual (76.7), BrowseComp (83.2), Toolathlon (50.0), Charxiv w/ python(86.7), Math Vision w/ python (93.2)<br><br>Live at <a href=\"http://kimi.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">kimi.com</a>, the app, API, and Kimi Code. Would love your feedback :)<br></p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>K2.6 offers SOTA-level performance at a fraction of the cost. </p><p></p><p>It's open-weights, it's fast, and optimized for long-context tasks across the codebase, as well as the day-to-day work needed to support an always-on agent like <a href=\"https://www.producthunt.com/products/clawdbot-2\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"clawdbot-2\" target=\"_blank\" rel=\"noopener\">@OpenClaw</a> and <a href=\"https://www.producthunt.com/products/kiloclaw\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"kiloclaw\" target=\"_blank\" rel=\"noopener\">@KiloClaw</a>.  </p><p></p><p>Impressive.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Kimi K2.6 is Moonshot’s latest open-source model, built to push coding, long-horizon execution, and agent swarms forward at the same time. It brings stronger end-to-end coding, 300-agent swarm orchestration, and improved reliability for always-on agent frameworks like OpenClaw and Hermes.",
+  "featured_at": "2026-04-21T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/be76baa0-d4e9-4f86-ae51-cb94d9b86787.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3e3f1a80-a80d-4ebc-994f-64131b2aef5f.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/76104d8b-202a-443f-9c5c-aec640e5fae4.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0fa004be-47b5-441d-aa0d-567b6021c221.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/68506787-9471-4473-83fd-d95c5bfac32c.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b3998444-6ba4-4bc9-b030-839f358a4c0d.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/117f5c8a-a66d-446c-8494-c7b1ea0db774.webp"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/3a38c359-539c-461b-8848-c6fcd6e85ac3.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:24",
+  "landing_meta": "Kimi K2.6 Tech Blog: Advancing Open-Source Coding — Kimi K2.6 advances open-source coding, featuring long-horizon coding, coding-driven design, agent swarms, proactive agents, and the Claw Groups research preview.",
+  "landing_text": "Kimi K2.6 Tech Blog: Advancing Open-Source Coding Kimi K2.6: Advancing Open-Source Coding Try Kimi K2.6 We are open sourcing our latest model, Kimi K2.6 , featuring state-of-the-art coding, long-horizon execution, and agent swarm capabilities . Kimi K2.6 is now available via Kimi.com , the Kimi App, the API , and Kimi Code . General Agents Humanity's Last Exam (Full) w/ tools BrowseComp DeepSearchQA (f1-score) Toolathlon OSWorld-Verified Coding Terminal-Bench 2.0 (Terminus-2) SWE-Bench Pro SWE-Multilingual Visual Agents MathVision w/ python V* w/ python Long-Horizon Coding ​ Kimi K2.6 shows strong improvements in long-horizon coding tasks, with reliable generalization across programming languages (e.g., Rust, Go, and Python) and tasks (e.g., front-end, devops, and performance optimization). On Kimi Code Bench , our internal coding benchmark covering diverse complicated end-to-end tasks, Kimi K2.6 demonstrates significant improvements over Kimi K2.5. Kimi K2.6 demonstrates strong long-horizon coding in complex engineering tasks: Kimi K2.6 successfully downloaded and deployed the Qwen3.5-0.8B model locally on a Mac. By implementing and optimizing model inference in Zig —a highly niche programming language—it demonstrated exceptional out-of-distribution generalization. Across 4,000+ tool calls, over 12 hours of continuous execution, and 14 iterations , Kimi K2.6 dramatically improved throughput from ~15 to ~193 tokens/sec , ultimately achieving speeds ~20% faster than LM Studio. Kimi K2.6 autonomously overhauled exchange-core , an 8-year-old open-source financial matching engine. Over a 13-hour execution , the model iterated through 12 optimization strategies, initiating over 1,000 tool calls to precisely modify more than 4,000 lines of code. Acting as an expert systems architect, Kimi K2.6 analyzed CPU and allocation flame graphs to pinpoint hidden bottlenecks and boldly reconfigured the core thread topology (from 4ME+2RE et al)",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-26T04:00:25",
+  "description_ja": "長時間コーディングとエージェント群制御に強いオープンソースSOTAモデル",
+  "summary_ja": "Moonshot AIによる1Tパラメータ級オープンソースLLM。Rust/Go/Python横断の長時間コーディング、4,000+ツール呼び出し、300並列サブエージェント運用に対応し、Claude CodeやGPT-5系の低コスト代替として位置づけられる。",
+  "tldr_ja": "高性能OSS LLM本体は個人開発の事業対象外。日本ではホスティング/エージェント特化ラッパー側に勝機があるが中国製モデルへの企業警戒で営業難。",
+  "review_guide_ja": {
+    "what": "Moonshot AIが公開した1Tパラメータ級MoEのオープンソースLLM。HLE w/tools 54.0、SWE-Bench Pro 58.6、SWE-Multilingual 76.7など主要コーディング/エージェント系ベンチでオープンソースSOTAを主張。4,000以上のツール呼び出し、12時間超の連続実行、300並列サブエージェントのオーケストレーション、24/7常駐型エージェント運用を強化している。公式チャネルとしてkimi.com、専用アプリ、OpenAI互換API、ターミナル型のKimi Code CLIを提供し、Claude Code/Gemini CLI/GPT-5系の置き換え用途を明確に狙う。価格はClaude Sonnet系の約1/5、Opus系の約1/9と低コストで、Hugging Face上にModified MITに近い形で公開され、自社サーバやvLLM/Ollamaでのセルフホストも可能。",
+    "for_who": "Claude Code/Cursor/Codex等の月額・APIコストを圧縮したい個人開発者・小規模AIスタートアップ。長時間の自律コーディング、CIや夜間バッチ的なエージェント運用、Rust/Goなど多言語の大型リファクタを行うチーム。オンプレ/プライベートクラウドで国産または非OpenAI/Anthropic系LLMを採用したい中堅企業の研究開発部門。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "1Tパラメータ級MoEで本体の事前学習・継続学習には大規模GPUクラスタが必須。個人で再現可能なのは推論ホスティング・周辺CLI・エージェント運用ラッパーまで。"
+    },
+    "signals": [
+      "OSSモデルでClaude Opus/GPT-5系と同等水準のコーディングベンチ達成",
+      "Claude APIの1/5〜1/9という極端な価格優位",
+      "Kimi Code CLIなどClaude Code互換のエージェントUXを公式提供",
+      "長時間・大量ツール呼び出しに耐える設計(12h・4,000+ tool calls)",
+      "Hugging Face Modified MITで商用利用可能"
+    ],
+    "concerns": [
+      "中国Moonshot AI由来モデルへの企業セキュリティ警戒(DeepSeek騒動後)",
+      "UI/ドキュメント中心が中国語で日本語ユーザー体験は未成熟",
+      "本家がkimi.com/API/Kimi Codeを直接提供しているため再販余地が狭い",
+      "Claude Code比でCLI周辺エコシステム/プラグインが未成熟",
+      "数か月単位で本家がさらに値下げ・性能向上し参入余地が急速に消滅するリスク"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "Claude Codeのレート制限・コスト高に対し代替を探す動きが日本の個人開発者・Zenn/Qiita界隈で顕在。Kimi K2.6/K2.5の解説記事や二刀流戦略記事が既に複数公開され、コーディングLLM代替需要は明確に存在。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Moonshot本家がkimi.com・公式API・Kimi Code CLIを直接提供。さらにOpenRouter/Together/Groq等の国際ホスト経由でも容易に呼べ、国内ではTsuzumiやさくらAI等の代替も存在。OSSモデル提供自体に個人の参入余地はほぼゼロ。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "Modified MITで商用利用は可能だが、中国Moonshot提供という出自により、日本のエンタープライズではDeepSeek騒動以降データガバナンス審査が厳格化。個情法/経産省AI事業者ガイドライン/AISIの観点で『中国製AI』ラベルは営業上の障壁となる(検索で複数の警戒記事を確認)。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "API入出力は日本語でも問題なく動作するとの実証記事あり。一方、Moonshot側のUI/ドキュメントは中国語ベースで、日本語の運用ガイド・サポートは個人ラッパー側で補う必要がある。LLM本体自体は構造化I/O中心で言語適合は比較的容易。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業はAI調達で『提供元の所在国・データ保管国』を契約で問う商習慣が定着しつつあり、中国ベンダー由来モデルは稟議が通りにくい。個人開発者の自己消費用途にはフィットするが、B2B販売には不利。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Moonshot AI (本家 kimi.com / API / Kimi Code)",
+        "url": "https://kimi.com/",
+        "note": "本家が日本からも直接API利用可能。OpenAI互換でモデル本体ビジネスに個人参入余地なし。"
+      },
+      {
+        "name": "Claude Code / Anthropic",
+        "url": "https://www.anthropic.com/claude-code",
+        "note": "日本の個人開発者の主要選択肢。レート制限・高コスト不満が代替需要を生んでいるが本命競合。"
+      },
+      {
+        "name": "Cursor",
+        "url": "https://cursor.com/pricing",
+        "note": "月20ドル+従量制でIDE型コーディングAIの国内標準。OSS LLMラッパーが奪うのは難しい。"
+      },
+      {
+        "name": "GitHub Copilot",
+        "url": "https://github.com/features/copilot",
+        "note": "2026年6月から従量課金へ移行。日本企業の調達ルートが確立されておりエンタープライズで強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法 / 経産省AI事業者ガイドライン / AISI(IPA)指針",
+        "impact": "中国ベンダー提供モデルへの個人データ送信は国外移転規制・委託先管理の対象。エンタープライズ販売では『データが中国に渡らないか』の説明責任が生じ、セルフホストか日本リージョン経由が事実上必須。"
+      },
+      {
+        "law": "経済安保推進法 / 政府調達ガイドライン",
+        "impact": "官公庁・重要インフラ事業者向け案件では中国製AIモデルの採用は強い逆風。営業対象を民間スタートアップ・個人開発に絞る必要がある。"
+      },
+      {
+        "law": "著作権法(生成AI関連 30条の4周辺)",
+        "impact": "OSS重みの再配布・派生モデル公開は可能だが、ファインチューニング用データの権利処理は別途必要。個人開発ラッパーでも学習データ取得経路を整理しないとリスクが残る。"
+      }
+    ],
+    "opportunity": "Kimi K2.6『本体』のクローンを作る余地はゼロ。日本市場で角度があるとすれば、(1) Kimi K2.6を含む複数OSS LLMをまとめてラップする日本語UI・日本リージョンホスティング(コンプラ込み)、(2) Claude Code互換でKimi/GLM/DeepSeek等を切替できる日本語CLI、(3) 個人開発者向けに『Kimi料金の従量課金を月額定額化』する再課金SaaSあたり。いずれも本体機能ではなく『日本企業の調達障壁を解く』『コスト予測可能性を上げる』『日本語の運用ノウハウを足す』というローカル付加価値で勝負する必要がある。",
+    "rationale": "需要面ではClaude Codeコスト問題への代替探索が日本でも明確に立ち上がっており、Kimi K2.6への関心も高い。しかし本品はMoonshot AIが公開する『LLM本体』であり、個人開発者がこの製品自体を再現・販売することは不可能。本家がkimi.com/API/Kimi Code CLIを直接出している以上、参入できるのは周辺ラッパー領域に限られる。さらに中国系AIモデルへの企業警戒(DeepSeekの個人データ送信疑惑以降、政府・大企業の調達基準が厳格化)が日本市場の上振れを抑える。total Japan fit としては『需要はあるが個人開発者が事業として乗る対象ではない』スコア5/10、verdictはskip相当。観察対象としては有用で、Kimi本体ではなく『日本企業向けの安全な利用ラッパー』を狙うべき。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "Kimi K2.6本体は$0.6/M input tokensと極めて安価。ラッパーで上乗せ課金しても顧客側はAPI直叩きと比較される。日本人の課金嗜好はサブスクに寛容だが、OSS土俵で月額¥3,000以上を取るには明確な日本ローカル付加価値が必須。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "日本のITエンジニアは約144万人(ヒューマンリソシア2023)。うちAIコーディングツールに月額課金する層は数十万人規模と推定されるが、Cursor/Copilot/Claude Codeで大半が既存契約済み。OSS LLMラッパーで奪える有効市場は数千〜数万人レベル。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "Zenn/Qiita/X発信でPLG可能。一方、本家Moonshot/OpenRouter/Together等の海外ホストが直販しているため、日本独自CLI/SaaSで囲い込むには技術ブログ+OSS露出を継続する必要があり、認知獲得コストは無視できない。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "Kimi K2.5→K2.6で半年ごとに大幅更新。本家のKimi Codeが既にClaude Code互換UIで存在し、日本人向けラッパーを作っても3〜6か月で本家の機能追加に飲まれる可能性が高い。時間窓は狭い。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "LLMホスティング/プロキシ事業は24/7のSLA期待が強く、コーディング用途は業務利用のため平日朝の停止が致命傷。個人運用ではGPU調達コスト・障害対応負荷ともに重く、純ラッパー(本家API中継)に限定すれば運用は軽くなる。"
+      }
+    },
+    "rationale": "事業として個人で立てるなら『Kimi K2.6を含むOSS系コーディングLLMを束ねる日本語CLI/プロキシ』が現実的だが、(1)本家がほぼ同等のCLIを既に提供、(2)主力ターゲットの個人開発者はOpenRouter等で直接呼べる、(3)中国系モデルへの企業警戒で大口B2B契約は取りづらい、という三重苦。仮にARPU¥2,000/月で月間1,000人獲得しても月商200万円程度で、3年目で頭打ちが見える。Cursor/Copilot/Claude Codeのリプレース戦争はインフラ・モデル更新スピード勝負で、個人ラッパーがスケールするには独自ベンチ・独自データ・日本企業向けコンプライアンス保証など差別化必須。総合的に business_viability_score=4、go判定は出しにくい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 月100,000トークンまでのKimi/GLM/DeepSeek切替プロキシ",
+        "Pro: ¥1,500/月 - 月3Mトークン+日本語サポート+利用統計",
+        "Team: ¥9,800/月 - 5席・SAML SSO・利用ログのオンプレ保管オプション",
+        "Self-host: ¥298,000買い切り - Docker一式と日本語運用Runbook"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Claude Code/Cursorに月額¥3,000以上払っており、コスト圧縮のためOSS LLMへ部分移行したい日本の個人開発者・受託エンジニア・小規模AIスタートアップ。とくにRust/Goなど多言語の長時間リファクタを行うバックエンド寄り層。",
+      "target_count": 30000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 450000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita連載: Kimi K2.6 vs Claude Code実コスト比較",
+      "X(旧Twitter)個人発信: 長時間エージェント運用のログ公開",
+      "OSS GitHub上でClaude Code互換CLIを公開→Star獲得起点",
+      "技術系ポッドキャスト/勉強会LT: 国内エンタープライズの中国製AI懸念への回答",
+      "Hugging Face/PHコメント等英語圏との両面露出で被リンク獲得"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Moonshot本家がKimi Code CLIをそのまま日本語化/値下げし参入余地が消滅する",
+      "中国製AIモデルへのデータガバナンス懸念で日本のB2B営業が機能しない",
+      "OpenRouter/Together/Groq等の国際ルーターが日本リージョンを公式サポートし価格と速度で先回りされる",
+      "Kimi K2.7以降のリリースサイクルが3〜6か月で来て、ラッパー側の追従コストが個人開発の限界を超える",
+      "Claude/Cursor/Copilotが追加値下げで価格差を縮め、OSS LLM切替の経済合理性が消える"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

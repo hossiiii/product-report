@@ -1,0 +1,257 @@
+{
+  "name": "Onform.work",
+  "description": "Build forms with Claude",
+  "ph_url": "https://www.producthunt.com/products/onform-work/launches/onform-work?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/367LYMDXWZEUS7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-09T07:01:00Z",
+  "upvotes": 247,
+  "comments": 30,
+  "topics": [
+    "Productivity",
+    "Marketing",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt! 👋<br></p><p>Talha here, Founder of <a href=\"https://founding.dev/?utm_source=producthunt&amp;utm_medium=comment&amp;utm_campaign=onform-launch\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Founding Dev</strong></a><strong>.<br></strong><br>With <strong>Numan Shaikh</strong> - <a href=\"https://www.producthunt.com/@numan_shaikh2\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"numan_shaikh2\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@numan_shaikh2</a> taking full ownership and lead, we built Onform because form tools haven't really changed in years. You open a UI, drag fields, configure logic, repeat. We wanted to see what happens when you just... talk to your forms instead.<br></p><p>Onform is MCP-native from day one. Create forms, add fields, and manage submissions directly from Claude or Cursor using plain language. No clicking around a dashboard unless you want to.<br></p><p>Onform is part of <a href=\"https://founding.dev/?utm_source=producthunt&amp;utm_medium=comment&amp;utm_campaign=onform-launch\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Founding.dev</a> - An AI-Powered SaaS replacement platform helping internal teams build highly customizable complex software and replacing expensive SaaS subscriptions without maintenance headache's or long build cycles. <br></p><p>We're just getting started and would love your feedback — especially from anyone already building with MCP. What would make this a must-have in your stack?</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Can multiple team members collaborate via prompts or is it single-threaded? Congrats on launching!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>You have a really rich portfolio of templates! :) Like it!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Onform makes form creation, data collection, and management fully conversational. It's MCP-native so you can build and manage forms directly from Claude, Cursor, or any MCP-compatible tool using plain language. Build forms through natural language via MCP, or use the dashboard if you prefer. Onform is built by Founding Dev, an AI-powered SaaS replacement platform helping teams vibe-code complex internal software from customizable templates — cutting build time and maintenance headaches.",
+  "featured_at": "2026-04-09T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d24234c6-ceb6-45a0-937a-f10db34fc968.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ef324ebc-78b1-4ebe-9c6f-3002f725b387.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f3bc5509-4a4d-48df-9507-4be22c9e815e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cfd698e0-1ec0-42fc-b2e7-3d9a7b408090.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/15d7d6f6-af3d-4223-99a9-aace81ed4ce3.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/070404a9-0ea3-4ac0-aeef-e7a0a41c8280.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:40",
+  "landing_meta": "Intelligent Forms at the speed of thought | Onform — Turn ideas into forms instantly. Integrate your AI environment with Onform to create, publish, and scale research with zero friction or limits.",
+  "landing_text": "Intelligent Forms at the speed of thought | Onform Features Compare Pricing Templates Sign In Get Started → MCP READY Intelligent Forms for Lead Generation Prompt forms to live at the speed of thought. Unlimited forms, unlimited submissions, and unlimited storage on paid plans. Start free, grow without limits. Get Started → ✱ Good afternoon, Talha Ask anything... + Write · Learn · Code Sonnet 4.6 ▾ THE ONFORM DIFFERENCE Everything you need in a Form. Nothing you don't. Built for builders who want full control without enterprise overhead. MCP-Native Your AI already knows Onform. Onform has a built-in MCP server — so Claude, Cursor, or any MCP-compatible tool can create forms, read submissions, and manage everything through natural language. No UI needed. Built-in MCP server — not a plugin, not an add-on Create, publish, and update forms from your AI tool Export responses and analytics without opening a browser Conversational Forms that feel like a chat. Show one question at a time so people actually finish your forms. More completions, less drop-off — and you keep every response without paying per submission. One-at-a-time or show-all-at-once modes 13 field types with smart show/hide logic Drag-and-drop form builder Self-Hosted Option Host it yourself, if you want to. Use our cloud or deploy on your own server — it's your call. Self-hosting means full control over your data, zero third-party access, and built-in privacy compliance. Either way, setup takes minutes. Cloud-hosted or self-hosted — you choose One-command deploy with Docker when self-hosting Automatic backups and your own storage Unlimited Grow without paying more. No per-response fees, no overage charges, no surprise bills on paid plans. Other tools charge $39/mo for just 100 responses — here, your 10,000th costs the same as your first: nothing extra. Unlimited responses on paid plans As many forms and fields as you need No per-response or overage fees Integrations Plug into your existing stack. Automatic",
+  "pricing_signals": [
+    "free trial",
+    "free forever",
+    "self-hosted",
+    "pricing",
+    "$39/mo",
+    "$12/mo",
+    "$79/mo",
+    "$29/mo",
+    "$0",
+    "$120",
+    "$290",
+    "$1"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:41",
+  "description_ja": "Claudeと話すだけでフォームを構築・管理できるMCPネイティブのフォームビルダー",
+  "summary_ja": "Onform.workはMCPサーバを内蔵し、Claude/Cursorから自然言語でフォーム作成・公開・回答管理ができるSaaS。ダッシュボードでのドラッグ&ドロップ編集や自己ホスティングにも対応する。",
+  "tldr_ja": "国内フォーム市場はformrun/Google Forms等で飽和、MCPネイティブの差別化は開発者向け極狭ニッチで日本人個人開発が勝つ筋は薄い",
+  "review_guide_ja": {
+    "what": "Onform.workは、MCP(Model Context Protocol)サーバを標準搭載した次世代フォームビルダー。ClaudeやCursorに「ウェイトリスト用フォームを作って、メールと会社名を聞いて」と話しかけるだけでフォームが生成・公開され、回答もAIから直接照会・エクスポートできる。13種のフィールド型、条件分岐、1問ずつ表示するチャット風モード、Docker一発の自己ホスティング、無制限の回答件数を売りにする。Founding.devという『AIで内製SaaSを置き換えるプラットフォーム』の最初のプロダクトという位置付け。典型ユースケースはリード獲得LP、ベータ版ウェイトリスト、社内アンケート、リサーチ用問診票など、AIエージェントを既に使っている開発者の手元でフォームを完結させる用途。",
+    "for_who": "Claude Code/Cursorを既に日常的に使う海外の個人開発者・小規模スタートアップ。ダッシュボードを開かずチャットで全てを済ませたい層、SaaS課金（特に回答数課金）を嫌い自己ホストや無制限プランを好むビルダー層がコアターゲット。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "フォームDB+ビルダー+MCPサーバ実装が必要。Next.js+Postgres+TypeScript SDKでMCPサーバを書くだけならOSSテンプレで2-4週、自己ホストとSLA考慮で本気実装は3ヶ月級。"
+    },
+    "signals": [
+      "MCP互換ツールがClaude/Cursor/ChatGPTで標準化し配布チャネルが整備された(2026年4月時点で公開MCPサーバ1万本超)",
+      "247 upvotes / 30コメントとPHでは中堅以上の関心度",
+      "$39/月で100件しか受け付けない既存ツール（Typeform想定）への明確なアンチテーゼ",
+      "無制限プラン+自己ホスト+Docker一発という開発者好みの構成",
+      "MCPサーバを後付けプラグインではなく『内蔵』にする設計判断"
+    ],
+    "concerns": [
+      "フォーム市場は世界的に飽和、MCPが付くだけで乗り換えが起きるかは未検証",
+      "AlphaトピックでPH掲載=まだプロダクト未成熟、収益モデル/プラン詳細も曖昧",
+      "ChatGPT/Claudeの公式コネクタやTypeform/Jotform自身のMCP対応で容易に追い抜かれる",
+      "提出データ管理SaaSはGDPR/個情法対応・可用性監視で個人運用負荷が高い",
+      "『話しかけてフォームを作る』のはUI操作より遅い場合が多く、本質的なジョブが弱い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "フォーム自体の需要は無限大だが『MCPでフォームを作る』需要は日本では検索シグナル極小。Claude Code/MCPは日本でも盛り上がり(Qiita/Zennで多数記事)はあるが、フォーム生成は数ある活用例の1つに過ぎず顕在需要として確認できず。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "国内formrun(ユーザ5万)、Tayori、SELECTYPE、ペライチに加え、無料のGoogleフォーム/Microsoft Formsが圧倒的シェア。海外勢のTypeform/Jotformも日本語で利用可能。フォームビルダーは典型的な飽和市場で価格競争も激しい。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "個情法上、フォームで取得した個人情報の利用目的明示・越境移転規制への対応(海外SaaSの場合は所在国の名称等開示)が必要。特定電子メール法のオプトイン同意設計も必須。いずれも一般的なフォームSaaSが既にクリアしている範囲。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "フォーム文言は日本語入力可能、UIは管理画面が英語中心(Typeformと同等の弱点)。MCPコマンドも英語ベースだがClaudeが日本語プロンプトを翻訳して通せるため実利用上は問題小。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "国内中小企業のフォーム選定はGoogleフォームかformrunが事実上のデフォルト。MCPネイティブという訴求軸は非エンジニアの意思決定者には響かず、商習慣的に『AIから作る』は導入稟議の説明が難しい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "formrun",
+        "url": "https://form.run/",
+        "note": "国産フォーム作成+顧客管理SaaS。ユーザ5万人、月額3,000円台〜のプラン。テンプレ120種で問い合わせ対応に強い。"
+      },
+      {
+        "name": "Tayori",
+        "url": "https://tayori.com/",
+        "note": "PR TIMES系の国産ツール。Starter月3,400円、Professional月7,400円。FAQやアンケートも統合管理。"
+      },
+      {
+        "name": "Googleフォーム",
+        "url": "https://workspace.google.com/products/forms/",
+        "note": "完全無料・無制限。Googleアカウントで即利用、スプレッドシート連携でデファクト。"
+      },
+      {
+        "name": "Microsoft Forms",
+        "url": "https://forms.office.com/",
+        "note": "Microsoft 365付帯。Teams/Excel/Outlookと連携、企業ユーザに標準装備されている。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法(改正)",
+        "impact": "氏名・メール取得時は利用目的明示が必須。海外SaaSであるOnformを利用する場合は越境移転規制が適用され、所在国名等をプライバシーポリシーに記載する必要。自己ホスト版なら回避可能。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "リード獲得目的でメール送信する場合は事前オプトイン同意の取得と記録保存、配信停止導線の設置が必須。違反時1年以下の懲役/法人3000万円以下の罰金。フォームに同意チェックボックス設計が必要。"
+      }
+    ],
+    "opportunity": "もし日本人が攻めるなら『MCPで作る』は捨て、formrunが手薄な領域(自己ホスト/オンプレ要件のある士業・医療・自治体向け、または開発者向けの埋め込みSDKフォーム)に絞った国産OSSフォームビルダーが筋。Onformそのものの追従ではなく、Claude Code文化の日本人開発者がGitHub READMEに貼れるOSS form-builder + 国内決済対応(Stripe Japan/PayPay)+国内サーバ要件対応で差別化する手はある。ただし市場規模は極小。",
+    "rationale": "フォーム市場自体は国内でも巨大だが、Onformの主差別化『MCPネイティブ』は日本のエンドユーザにほぼ刺さらない。意思決定者は非エンジニアが多く、無料のGoogleフォームか実績豊富なformrunを選ぶ慣性が強い。Claude Code文化が浸透しつつあるとはいえ、利用者数の絶対値が小さく、その中で『フォームをチャットで作りたい』ジョブはさらに細い。海外でTypeform代替として大きく育っても、日本市場では既存の安価/無料選択肢で代替されてしまう可能性が高い。日本での独自勝ち筋は実質見えず、score 5/verdict skipが妥当。検索で根拠未確認の数値(国内MCP利用者数等)は控えめに評価した。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "日本人開発者は$10-30/月のdev向けSaaSには課金実績あり(GitHub Copilot, Cursor等)。ただしフォーム用途は無料のGoogleフォームに勝てず課金壁が厚い。自己ホスト版OSSなら課金不可、クラウド版でも価格は$12-29/月相当が天井。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内TAMはフォーム全体では大きいが、Onformのコア客『MCPを使う日本人個人開発者/小規模チーム』は控えめに見て数千〜1万人規模(根拠未確認、Claude/Cursor日本ユーザの一部)。ニッチすぎる。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "ターゲットがdev層なのでQiita/Zenn/X/GitHub経由のPLGは実現可能。MCPサーバ一覧記事への掲載やClaude Code向けプラグインとしての配布も期待できる。PLG前提なら個人開発者の射程内。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "フォーム市場は飽和、MCP対応は今後Typeform/Jotform/formrun側も追加してくる可能性が高い(Meta Adsなど既に大手がMCPコネクタ対応開始)。1〜2年で『MCPネイティブ』の優位は消える見込み。本家進出の余地もない。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "回答データ保管SaaSは可用性・バックアップ・個情法対応が必須で個人運用は中重量。自己ホスト版を本体にすればサポート負荷を逃がせるが、SaaS版で売るなら24/7監視ではないにせよ月数十時間の運用コミットが要る。"
+      }
+    },
+    "rationale": "事業成立性の核心は『誰に・いくらで売るか』。Onformクローンを日本人個人開発者がコピーして売る場合、ターゲットは『Claude Code/Cursorを使い、かつフォームを月20回以上作る』というかなり細い層に限定される。ARPU上限も$10-30相当で、対象数が数千人規模・3年で1%獲得しても月商10万円未満が現実線。フォーム市場全体を取りに行くなら国産Googleフォーム/formrunと正面衝突になり勝ち目が薄い。OSS+自己ホスト戦略でGitHubスター獲得→Founding.dev同様の周辺SaaS収益化なら筋が立つが、それは個人開発の射程を超える。総合的にscore 5、go判定は不可。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: フォーム3個・月100回答・MCPサーバ接続1台",
+        "Pro: ¥1,500/月 フォーム無制限・回答無制限・MCP無制限",
+        "Self-hosted: ¥0(OSS) Docker一発、サポートは有償(¥30,000〜)",
+        "Team: ¥4,800/月 5人まで、SAML/監査ログ"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Claude Code/Cursorを日常的に使う国内個人開発者・スモールスタートアップ(1-5人)で、ウェイトリストLPやリード獲得フォームを頻繁に作る層。SI/受託より自社プロダクト/SaaS開発者寄り。",
+      "target_count": 5000,
+      "capture_pct_year3": 1,
+      "monthly_revenue_target_jpy": 75000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『Claude CodeでフォームをMCP経由で作る』連載+OSS実装公開",
+      "X(旧Twitter)個人発信、MCP界隈のフォロワーへリーチ",
+      "GitHub OSSとして公開しawesome-mcp-serversへのPR",
+      "Product Hunt Japan/日本のSaaSローンチ系メディアへ露出",
+      "Claude Code日本コミュニティ(Discord/Slack)でのデモ共有"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Typeform/Jotform/formrunが公式MCP対応すれば差別化が即座に蒸発する。実際にMeta AdsなどMCPコネクタの大手追従が始まっており、フォーム大手の追随は時間の問題。",
+      "国内ユーザは無料のGoogleフォームから動かず、CAC回収が困難。PLGで取れても有料転換率は低い見込み。",
+      "回答データ保管SaaSとして個情法・越境移転・特定電子メール法対応の責任を負う必要があり、個人運用での法務インシデント時のリスクが大きい。",
+      "MCP仕様が変更/分裂すれば実装の再書き換えコストが発生。標準としての安定性は2026年現在もまだ過渡期。",
+      "Founding.dev側がOnformを本体に統合・買収するなど親会社戦略でAPI/価格を変える可能性。クローンする場合は親側の動きに左右されない。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

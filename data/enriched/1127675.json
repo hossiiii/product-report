@@ -1,0 +1,218 @@
+{
+  "name": "Claude Desktop Buddy",
+  "description": "Bring Claude into the physical world with maker hardware",
+  "ph_url": "https://www.producthunt.com/products/claude/launches/claude-desktop-buddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/5TWF4OB2SOXZ77?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-20T07:01:00Z",
+  "upvotes": 469,
+  "comments": 10,
+  "topics": [
+    "Open Source",
+    "Hardware",
+    "Artificial Intelligence",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi everyone!<br><br>This is a wayyy interesting bridge for Claude into physical form.<br><br>What <a href=\"https://www.producthunt.com/@felixrieseberg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@felixrieseberg</a> shipped here is small, but the idea behind it is bigger: Claude Cowork and <a href=\"https://www.producthunt.com/products/claude-code\" target=\"_blank\" rel=\"noopener\">@Claude Code</a> now expose a lightweight Bluetooth path that lets maker hardware react to sessions, recent messages, and approval prompts. The reference device is an ESP32 desk pet built on <a href=\"https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit?srsltid=AfmBOopDhLq5pg6I08L6uKrVhpyXkkyRAVGV9SFzqxMh7aYmRsShK42m\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">M5StickCPlus</a>, which honestly feels like a very fitting choice — <a href=\"https://m5stack.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">M5Stack</a> really is one of the friendliest entry points in the hardware world🔥<br><br>It already makes interacting with Claude Code more fun to look at and touch:</p><img src=\"https://ph-files.imgix.net/1d09fa7f-4703-432a-a185-90e7aec3ed31.gif?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p>But the interesting part is not just approvals. What happens when this lives on an e-ink kanban? Or when the hardware surface is something much more ambient, tactile, or playful? This is clearly the start of a much bigger hardware interaction layer for Claude!</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Does it work on my GameBoy Color. thats all I want to know :D</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Ai leaving the screen and entering physical space is a bigger deal than it looks. What happens when Claude needs to ask for permission mid-task, does the hardware actually interrupt you?",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Claude Desktop Buddy exposes a lightweight BLE API from the Claude desktop app. It allows makers to connect Claude Cowork and Claude Code to physical microcontrollers (like the ESP32) to display states, handle permission prompts, and more.",
+  "featured_at": "2026-04-20T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/ae49ce7d-30a4-457b-823a-2e1ee8d44dbb.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f9a381be-9fe4-4153-94d3-6b369c27c467.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bf6ee841-5216-4e8b-a833-cfc8ec28cf5d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/211e7e9b-7c0a-44f0-adbc-52ae3b13bd3d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4bab369d-1930-4c15-996e-5216ea63ce16.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T03:46:40",
+  "landing_meta": "GitHub - anthropics/claude-desktop-buddy at producthunt · GitHub — Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop - GitHub - anthropics/claude-desktop-buddy at producthunt",
+  "landing_text": "GitHub - anthropics/claude-desktop-buddy at producthunt · GitHub Skip to content You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert anthropics / claude-desktop-buddy Public Notifications You must be signed in to change notification settings Fork 315 Star 2k main Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 2 Commits 2 Commits characters/ bufo characters/ bufo docs docs src src tools tools .gitignore .gitignore CONTRIBUTING.md CONTRIBUTING.md LICENSE LICENSE README.md README.md REFERENCE.md REFERENCE.md platformio.ini platformio.ini View all files Repository files navigation claude-desktop-buddy Claude for macOS and Windows can connect Claude Cowork and Claude Code to maker devices over BLE, so developers and makers can build hardware that displays permission prompts, recent messages, and other interactions. We've been impressed by the creativity of the maker community around Claude - providing a lightweight, opt-in API is our way of making it easier to build fun little hardware devices that integrate with Claude. Building your own device? You don't need any of the code here. See REFERENCE.md for the wire protocol: Nordic UART Service UUIDs, JSON schemas, and the folder push transport. As an example, we built a desk pet on ESP32 that lives off permission approvals and interaction with Claude. It sleeps when nothing's happening, wakes when sessions start, gets visibly impatient when an approval prompt is waiting, and lets you approve or deny right from the device. Hardware The firmware targets ESP32 with the Arduino framework. As written, it depends on the M5StickCPlus library for its display, IMU, and button drivers—so you'll need that board, or a fork that swaps those drivers for your o",
+  "pricing_signals": [
+    "open source",
+    "subscription",
+    "pricing",
+    "premium"
+  ],
+  "landing_fetched_at": "2026-05-26T03:46:41",
+  "description_ja": "Claudeデスクトップ向けBLE APIで、ESP32等のメーカーハードと物理連携できるOSSリファレンス。",
+  "summary_ja": "Claude DesktopアプリがBLE経由でCowork/Codeのセッション状態や権限承認プロンプトを外部マイコンに公開するOSS。M5StickCPlus用のESP32デスクペット実装が参照例として公開され、ハードウェア側で承認・拒否が完結する。",
+  "tldr_ja": "Anthropic公式BLE仕様+OSSのため独自競合は不要、日本のM5Stack文化と相性◎だがハード販売の収益化は厳しく『面白いネタ枠』が筋。",
+  "review_guide_ja": {
+    "what": "Claude DesktopアプリがmacOS/Windows向けに公開するBLE(Nordic UART Service)経由のローカルAPI。Claude CodeおよびClaude Coworkのセッション開始/終了、最近のメッセージ、tool permission promptなどを外部マイコンに通知し、承認/拒否をハード側ボタンで返せる。参照ファームウェアはESP32(M5StickCPlus)向けArduinoプロジェクトで、デスクペット型UI(待機・気にする・退屈・通知)を実装。仕様はREFERENCE.mdにNordic UART UUID・JSONスキーマ・folder push転送として公開され、自前デバイスを作る場合はリポジトリのコード自体は不要。eペーパー・カンバン・触覚デバイス・LEDタワー等ambient/playful表現の土台として位置付けられている。",
+    "for_who": "Claude Code/Coworkで長時間タスクを回す開発者、ESP32/M5Stack/xiaozhi-esp32系のメーカー、AIエージェント運用の通知・承認UXを物理デバイスで強化したいハッカー、AIガジェットを試作・発信したい個人・小規模ハードウェアスタジオ。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "BLE仕様とJSONスキーマが公開済み、参照実装(Arduino+M5StickCPlus)もOSS。ESP32系の安価なボードと電子工作の基礎があれば数時間〜数日で類似デバイスを再現可能。"
+    },
+    "signals": [
+      "Anthropic公式によるBLE API公開でメーカー連携が一級市民化",
+      "GitHub Star 2k・Fork 315と短期間で活発(2026年4月公開)",
+      "CNX Software等メーカーメディアが好意的に紹介",
+      "コミュニティ移植版(ESP32-S3 AMOLED、xiaozhi-esp32対応)が既に複数登場",
+      "Claude Code利用者の長時間タスク・権限承認UX問題に直接刺さる"
+    ],
+    "concerns": [
+      "Anthropic公式OSSのため独自プロダクト化の余地が薄い(差別化が必要)",
+      "ハードウェア販売は技適/PSE/在庫リスクが個人開発に重い",
+      "Claude Codeへの依存度が高くAnthropicの仕様変更で陳腐化リスク",
+      "BLEペアリング・電源管理など個人運用の長期サポート負荷",
+      "実際の課金導線が薄く、収益化シナリオが限定的"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 7,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "日本ではM5Stack/ESP32文化が強く、Claude Codeの日本人開発者ブログ・Qiita記事が多数(Claude Code通知をLEDで受ける記事等)。AI×物理デバイスの遊び需要は顕在だが、業務需要としてはニッチで、需要シグナルは趣味・学習層中心。"
+      },
+      "competition": {
+        "score": 8,
+        "reason": "公式OSS+参照実装が出たばかりで、日本国内で同等の派生プロダクトを商用提供している事業者は確認できず。M5Stack周辺アクセサリ市場は競合があるが、Claude直結のBLEガジェットは未開拓。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "ハード販売には電波法(技適)とPSEが関わる。M5Stack正規品(スイッチサイエンス流通)は技適取得済みだが、改造・自作ボード販売には個別の認証が必要。ソフト/ファームのみの配布なら規制は軽い。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "BLE仕様はJSONベースで言語非依存、ファームのUIテキストとセットアップ手順を日本語化すれば十分。ドキュメント・動画・ハンズオン日本語化が主なローカライズ作業で軽い。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "日本のメーカーフェア・同人ハード文化と親和性は高いが、エンタープライズ販売には個人作成ハードへの保証・サポート期待が壁。toC同人/Boothレベルなら相性良し。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "スイッチサイエンス(M5Stack正規代理店)",
+        "url": "https://www.switch-science.com/collections/m5stack",
+        "note": "M5StickCPlus2等のESP32ボード本体を正規流通。Claude Buddy専用品ではないが、ハード調達の事実上の窓口でエコシステム側の最大プレイヤー。"
+      },
+      {
+        "name": "ムーバクラウド ClaudeMate",
+        "url": "https://prtimes.jp/main/html/rd/p/000000009.000014118.html",
+        "note": "Claude CodeをSlackから安全に遠隔操作するデスクトップアプリ。物理デバイスではないがClaude Codeの『離席中UX』問題への国産代替解。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "電波法(技適)",
+        "impact": "ESP32の無線モジュールを日本国内で電波発射するには技適が必要。M5Stack正規品(スイッチサイエンス流通)は取得済みだが、独自基板・改造ボードを販売する場合は工事設計認証が必要で個人開発にはハードルが高い。実験特例は半年限定。"
+      },
+      {
+        "law": "電気用品安全法(PSE)",
+        "impact": "USB給電・付属ACアダプタを含めて販売する場合、PSEマーク対象となる可能性。個人輸入販売でPSE対応は費用・時間が大きく、現実的にはACアダプタは別売・ユーザー手配が無難。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "オンラインでハード販売する場合、事業者表記・返品ポリシー・連絡先の明示が必要。Booth/BASE等は要件を満たすテンプレートを提供しており負担は小さい。"
+      }
+    ],
+    "opportunity": "Anthropic公式仕様に乗りつつ、日本のメーカー文化(M5Stack/Booth/Maker Faire Tokyo)に特化した日本語ガイド・キット・派生ガジェットでニッチを取れる。例: 『日本語通知に最適化したClaude Code承認デスクペット』『e-inkカンバン版』『LEDタワー版』。Anthropic本家は汎用OSSであり、組み立てキット+日本語チュートリアル+電子工作初心者向けハンズオンの再パッケージは個人開発でも提供可能。Qiita/Zenn/noteで連載しX(旧Twitter)+Maker Faire+Booth物販の組合せがリーチ経路。toBではエンジニアチームのClaude Code導入企業向け『AIエージェント物理通知デバイス』として小ロットOEM・社内向けノベルティ化の可能性もあるが、サポート工数を考えるとtoC同人ハード+ファーム配布が現実的。",
+    "rationale": "公式OSSが出たばかりで国内事業者の本格参入は未確認、競合は薄い。M5Stack/ESP32は日本のホビイスト層で強く、Claude Codeの普及(エンタープライズAIアシスタント市場でClaudeシェア29%)と相まって受け皿は十分ある。一方で需要は趣味・学習・話題性中心で、企業向けの『無いと困る』レベルではない。規制面はM5Stack正規品ベースなら問題薄、独自基板を売り出すと技適/PSEの壁が立ちはだかる。ローカライズはJSON+日本語ドキュメント整備で済むため軽い。総合的には『市場機会としては悪くないがニッチで watch 推奨』。日本独自の角度は『日本語UX+組み立てキット+メーカーコミュニティ運用』であり、ソフト単体ではなくコンテンツ・キット・ハンズオンを束ねた立体的な売り方が必要になる。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "本家がOSSかつ無料公開のため、ソフト/ファーム単体の課金は困難。物理キット販売は単価が出るがマージン薄・在庫リスク。サブスク化の余地はほぼなく、Booth物販+チュートリアル販売+広告/スポンサーの組み合わせでARPUは数千円が現実的上限。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内Claude Code利用者の中で更にESP32工作層となるとTAMは数千〜2万人規模と推定(根拠未確認、控えめ見積もり)。toBオファリングを足しても1万〜2万社・人の上限感。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Qiita/Zenn/note/X/YouTubeでのコンテンツ発信、Maker Faire Tokyo、Booth、CAMPFIRE等のPLG/同人チャネルが個人開発者でも到達可能。日本のメーカー文化はSNS拡散と相性良く、初動の認知は取りやすい。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "公式OSS公開直後で、コミュニティ移植は既に複数(ESP32-S3 AMOLED, xiaozhi-esp32対応)。半年〜1年で本家・海外メーカーが完成度の高いキット販売を始める可能性が高く、独自地位確保の時間窓は狭め。"
+      },
+      "solo_ops": {
+        "score": 6,
+        "reason": "ソフト/ファーム配布のみなら手離れ良。ハード販売を伴うと在庫・発送・初期不良対応・サポートが発生し、ロット数次第で工数がかさむ。Booth+在庫数を絞る運用なら個人継続可能。"
+      }
+    },
+    "rationale": "事業性は中程度に低い。公式OSSであるため『何を売るか』が最大の難所で、ソフトとしての課金が成立しにくく、物理キット販売は単価×ロット×サポートのバランスを取らないと赤字化しやすい。市場規模はESP32工作×Claude Code利用者という二重ニッチで、控えめに見て国内ターゲットは2万人レベル。獲得率1%を3年で達成しても月商80万円程度が天井で、本業として成立させるのは難しい。一方で、GTMはPLG的に回せ、Maker Faire/Booth/SNSで一定の認知獲得は可能。タイミングは公式公開直後で先行優位はあるが、海外コミュニティ移植が活発で時間窓は短い。個人運用は『ソフト配布+少数キット+チュートリアル販売』のミックスなら継続可能。結論として、副業・話題性プロジェクトとしては有望だが、事業の中核に据えるには天井が低い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "one_time",
+      "arpu_jpy": 4000,
+      "plans": [
+        "ファーム&ソースコード: 無料(GitHub OSS)",
+        "日本語ハンズオンPDF: ¥1,500 (Booth)",
+        "組み立てキット(M5StickCPlus2同梱・限定数): ¥6,800",
+        "拡張派生(e-ink/LEDタワー版)キット: ¥9,800",
+        "法人向けノベルティOEM: 個別見積(20台〜)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内のClaude Code/Coworkヘビーユーザーかつ電子工作・M5Stack/ESP32経験者(個人開発者・AIエンジニア・ハードホビイスト)。副次的にAIエージェント運用UXを物理化したい企業エンジニアチーム(20名未満のスタートアップ)。",
+      "target_count": 20000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 800000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn連載: 『Claude Codeの承認をデスクペットで受ける』ハンズオン記事",
+      "X(旧Twitter)個人発信: 動画付き作例ポスト・M5Stack/ESP32コミュニティに刺す",
+      "Maker Faire Tokyo出展+Booth物販で初期キット販売",
+      "YouTube/Shortsで動作デモ・組み立て動画を配信し海外からも誘導",
+      "Claude Code日本人ユーザー会・AIエンジニア勉強会でハンズオン",
+      "法人ノベルティ営業: AI/エンジニアチームのエンゲージメントツールとして小ロット提案"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Anthropic公式が完成度の高い純正キット・ストアを開始した瞬間に独自商品が陳腐化する。Anthropic側のBLE仕様変更でファーム互換が崩れるリスクも高い。",
+      "ハードウェア在庫・発送・初期不良対応で個人開発の時間が奪われる。サポート問い合わせが増えると本業が止まる。",
+      "ESP32独自基板を販売する場合、技適未取得で電波法違反となり罰則リスク。M5Stack正規品ベースに徹する必要がある。",
+      "ESP32/M5StickCPlus2の供給変動・価格上昇で原価計算が崩れる。M5StickCPlusはEOL予定で後継品依存。",
+      "課金導線がOSSの『ついで物販』に留まり、客単価×購買頻度が伸びず副業の域を出ない。本業化を狙うと赤字になりやすい。"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 6,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

@@ -1,0 +1,240 @@
+{
+  "name": "Caveman",
+  "description": "Why use so many token when few do trick?",
+  "ph_url": "https://www.producthunt.com/products/caveman-claude-code-skill-plugin/launches/caveman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/NFANGDJQVMYBRD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-14T07:01:00Z",
+  "upvotes": 257,
+  "comments": 8,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "Artificial Intelligence",
+    "GitHub"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>Julius taught Claude to talk like a caveman. 24.9K stars later, it's the most useful meme in developer tooling.<br><br>LLMs are verbose by default. Phrases like \"I'd be happy to help you with that\" and \"Let me summarize what I just did\" contribute nothing — but burn tokens, slow responses, and push you into usage limits faster. Caveman makes Claude skip the throat-clearing and go straight to the answer. Same fix. 75% less word. Brain still big.<br><br><strong>What stands out:</strong><br>🪨 ~75% output token reduction: Benchmark average 65%, range 22–87% across real coding tasks<br>⚡ ~3x faster responses: Less token to generate = speed go brrr<br>🎚️ Four intensity levels: Lite, Full, Ultra, and 文言文 (Classical Chinese) mode<br>📝 Caveman-commit: Terse commit messages, ≤50 char subject, why over what<br>🔍 Caveman-review: One-line PR comments: L42: 🔴 bug: user null. Add guard.<br>🗜️ Caveman-compress: Rewrites your <a href=\"http://CLAUDE.md\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">CLAUDE.md</a> into caveman-speak, cutting ~46% of input tokens every session<br>🔌 Works everywhere: Claude Code, Codex, Gemini CLI, Cursor, Windsurf, Cline, Copilot, and 40+ more<br>🆓 Free, MIT, one-line install<br><br><strong>Before and after</strong>:<br>🗣️ Normal Claude (69 tokens): \"The reason your React component is re-rendering is likely because you're creating a new object reference on each render cycle...\"<br>🪨 Caveman Claude (19 tokens): \"New object ref each render. Inline object prop = new ref = re-render. Wrap in useMemo.\"<br><br>Note: works best for coding tasks. Nuanced responses still need full Claude, and the system prompt loads as input tokens, so net savings vary per use case. A March 2026 paper found brevity constraints improved accuracy by 26 percentage points on certain benchmarks. Verbose not always better.<br><br>Perfect for developers hitting usage limits and anyone who wants their AI agent to do the work and shut up about it.</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a></p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Heard about this before, looks awesome. Where'd you get the 75% metric from?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>input token is higher! but with cache saves tokens.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Caveman cuts ~75% of Claude's output tokens without losing technical accuracy. One-line install for Claude Code, Cursor, Windsurf, Copilot, and more. Four grunt levels, terse commits, one-line PR reviews, and input compression built in. 24.9K stars.",
+  "featured_at": "2026-04-14T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/c3cb64c2-a6ba-499c-b18e-61e105aa28c7.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/43218f15-b18c-4385-bc78-4d59cfea0d7a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/80e9df44-d635-4cd7-b659-02697dfbafa9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/03780a4c-6595-4953-a1b9-168ed2c8c95c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/575e3ba6-a1eb-4096-b508-98c6090c8ecd.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/632691a6-8696-42e2-b51f-f8f7e2b1c947.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5663d72c-5cf3-4d38-bdff-32a616bf9e70.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/79b4838d-2b9b-4614-a8c1-2abc8a4423c0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f4537f15-5fea-4b79-95e1-83bcf63961f7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/92d11e06-1848-40b5-bf87-0d7e53d8fea5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b8f139f2-bb8c-43e4-a391-cca7938f722a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/76982591-296d-49f0-8897-d9bf09f51462.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d3943793-b651-44fe-b838-56fd5fa56ad8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a399b52d-628f-4011-a9d9-9304a1ff7a7e.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/10355a7c-a2c0-4cfb-bd98-7cb180643570.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:24",
+  "landing_meta": "GitHub - JuliusBrussee/caveman at producthunt · GitHub — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman - GitHub - JuliusBrussee/caveman at producthunt",
+  "landing_text": "GitHub - JuliusBrussee/caveman at producthunt · GitHub Skip to content You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert JuliusBrussee / caveman Public Uh oh! There was an error while loading. Please reload this page . Notifications You must be signed in to change notification settings Fork 3.6k Star 64.6k main Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 185 Commits 185 Commits .agents .agents .claude-plugin .claude-plugin .codex .codex .github .github .junie/ skills/ cavecrew .junie/ skills/ cavecrew .kiro/ skills/ cavecrew .kiro/ skills/ cavecrew .roo/ skills/ cavecrew .roo/ skills/ cavecrew agents agents benchmarks benchmarks bin bin commands commands dist dist docs docs evals evals plugins/ caveman plugins/ caveman skills skills src src tests tests .gitattributes .gitattributes .gitignore .gitignore AGENTS.md AGENTS.md CLAUDE.md CLAUDE.md CONTRIBUTING.md CONTRIBUTING.md GEMINI.md GEMINI.md INSTALL.md INSTALL.md LICENSE LICENSE README.md README.md gemini-extension.json gemini-extension.json install.ps1 install.ps1 install.sh install.sh package.json package.json skills-lock.json skills-lock.json View all files Repository files navigation caveman why use many token when few do trick Before/After • Install • What You Get • Benchmarks • Full install guide A Claude Code skill/plugin (also Codex, Gemini, Cursor, Windsurf, Cline, Copilot, 30+ more) that makes agent talk like caveman — cuts ~75% of output tokens , keeps full technical accuracy. Brain still big. Mouth small. Before / After 🗣️ Normal Claude (69 tokens): \"The reason your React component is re-rendering is likely because you're creating a new object reference on each render cycle. When you pass an inline object as a prop, React",
+  "pricing_signals": [
+    "open source",
+    "subscription",
+    "pricing",
+    "premium"
+  ],
+  "landing_fetched_at": "2026-05-26T04:34:25",
+  "description_ja": "なぜ多くのトークン使う？少しで足りる時に。Claudeを原始人口調にして出力を約75%削減するスキル。",
+  "summary_ja": "Claude Code / Cursor / Codex など40以上のAIエージェントにインストール可能なMITライセンスのスキル。エージェントの応答を「原始人口調」に切り替え、技術的正確さを保ったまま出力トークンを平均65%削減する。コミット・PRレビュー・CLAUDE.md圧縮など派生サブスキル付き。",
+  "tldr_ja": "JP需要は顕在だが、日本語特化フォーク「genshijin」が既存・MIT/OSS・本家も無料のため個人マネタイズは困難。",
+  "review_guide_ja": {
+    "what": "Claude Code / Codex / Cursor / Windsurf / Copilot など40以上のAIコーディングエージェントに対し、システムプロンプトで応答スタイルを「原始人口調（電文体・冠詞や枕詞を排除）」へ切り替えるOSSスキル/プラグイン。MITライセンス・ワンライナーインストール。Lite/Full/Ultra/文言文の4段階の圧縮強度を持ち、`caveman-commit`（≤50字コミットメッセージ生成）、`caveman-review`（一行PRコメント）、`caveman-compress`（CLAUDE.mdをcaveman化して入力トークンを約46%削減）など複数のサブスキルが同梱される。ベンチマークでは実コーディングタスクで出力トークン平均65%（22–87%）削減、応答速度は約3倍を主張。Anthropic公式Claude Code Pluginsディレクトリにも掲載。",
+    "for_who": "Claude Pro/Max・GPT/Codex・Cursor等のサブスク利用上限に頻繁にぶつかる個人開発者・スタートアップエンジニア。長文回答ではなく差分・結論のみを欲するコーディング用途のヘビーユーザー。CLAUDE.md等メモリファイルが肥大化して入力トークン圧迫を感じているチーム。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "システムプロンプト・スキル定義ファイルとシェルインストーラのみで構成され、特殊APIや独自バックエンド不要。caveman本家・genshijin等の派生も同等構造で再現済み。"
+    },
+    "signals": [
+      "GitHub 64.6K stars / 3.6K forks（PHコメントでは24.9K→1ヶ月で約2.5倍）",
+      "Anthropic公式Claude Plugins ディレクトリ掲載",
+      "日本語版フォーク genshijin が約2週間で公開され、Qiita/Zenn/noteで多数の検証記事",
+      "PHローンチ257 upvotes、商用エージェント40+に対応",
+      "MIT・ワンライナー install で導入摩擦ほぼゼロ"
+    ],
+    "concerns": [
+      "本体OSS（MIT）でマネタイズ手段が事実上ない",
+      "Claude公式の出力トリミング・キャッシュ・/compact等で代替されつつある",
+      "日本語特化はgenshijinが先行し、日本語派生のニッチは事実上埋まり済み",
+      "input tokenはむしろ増える（システムプロンプト常駐）— キャッシュ前提でないと逆効果のケースあり",
+      "AnthropicのMarketplaceは無料配布前提で課金導線が公式に存在しない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 7,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 9,
+        "reason": "Qiita/Zenn/noteで「原始人プロンプト 75%削減」検証記事多数（2026年4月以降）。Claude Pro/Maxのトークン上限に悩む国内開発者層が顕在で、「Claude Code トークン 節約」関連の日本語記事が連続上位。需要シグナルは極めて強い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "日本語特化フォーク genshijin（InterfaceX-co-jp）が既存・151★、敬語/助詞/クッション語を圧縮、polite/extremeモード搭載でMIT。本家caveman自身もMITで40+エージェント対応済み。/compact等のClaude公式機能も競合。日本語ニッチは事実上埋まり済み。"
+      },
+      "regulation": {
+        "score": 10,
+        "reason": "OSSのプロンプト/スキル定義ファイル配布のみで個情法・電気通信事業法・特商法等の該当法令なし。バックエンドサービス化しない限り規制リスクは皆無に近い。"
+      },
+      "localization": {
+        "score": 9,
+        "reason": "日本語ローカライズは敬語・助詞・冗長な接続詞の削除パターンを記述するだけで対応可能。genshijinが既に実証。技術的障壁は低くテキスト編集中心で済む。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "日本企業は「丁寧で完結な回答」を好む傾向があり、原始人口調はチーム導入で抵抗感が出る場面がある。一方、個人開発者・指示出しのみ自分で見る層との相性は良く、polite モードで一部緩和可能。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "genshijin（原始人）",
+        "url": "https://github.com/InterfaceX-co-jp/genshijin",
+        "note": "caveman公式日本語版を謳うMITスキル。約151★。敬語・助詞・冗長表現の圧縮、polite/extreme切替、`/genshijin`コマンドで起動、3 subagent+MCPミドルウェア同梱。日本語特化ニッチは事実上ここで先行確立。"
+      },
+      {
+        "name": "Anthropic Claude Code 公式 /compact",
+        "url": "https://code.claude.com/docs/ja/costs",
+        "note": "会話履歴自動要約・スキル機構自体が公式に提供されており、原始人系の効果の一部は標準機能で得られる。日本語ドキュメントも整備済み。"
+      },
+      {
+        "name": "AI総合研究所 日本語Skills/ワークフロー",
+        "url": "https://www.ai-souken.com/case/ai-souken-claude-code-japanese-workflow",
+        "note": "日本語環境向け Claude Code Skills を GitHub 公開・個人/教育は無料。トークン節約の派生記事多数、流派の選択肢として競合。"
+      }
+    ],
+    "regulatory_findings": [],
+    "opportunity": "日本独自の角度としては、(1) 日本企業の丁寧文化に寄せた『敬語維持・冗長語のみ圧縮』中間モードの専業特化、(2) チーム共有向けに『コードレビュー記録・監査ログを伸長/復元』するペア機能、(3) Cursor/Codex/Gemini を含むマルチエージェントで Claude キャッシュ前提のコスト最適化レポートを出すダッシュボードSaaS化。ただしいずれもスキル単体のOSS配布では収益化困難で、ホスティング型分析サービスへ昇華する必要がある。",
+    "rationale": "需要は2026年4月以降の検証ブームで顕在（demand 9）かつ規制・ローカライズ容易（10/9）で表面的には極めてJP-fit。しかしgenshijinが既に日本語特化ニッチを抑え（competition 3）、本家がMITで配布・Anthropic公式Marketplace無料前提のためマネタイズ角度が乏しい。商習慣面では原始人口調がチーム導入で軋轢を生むリスクあり。総合では『機会は見えるが新規参入の角度を相当尖らせる必要があり、現状は静観〜限定的派生』のwatchが妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 2,
+        "reason": "本家MIT、Anthropic公式Marketplaceは無料配布前提で課金導線なし。Agensi等の外部マーケットで80%還元の道はあるが規模未確立。プロンプト圧縮単体に月額課金する文化は国内に存在せず、ARPU確保困難。OSSスポンサー前提なら収益見込み極小。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "Claude有償ユーザは全世界18–30M、日本は米印伯と並ぶ上位国の一つ。Claude Codeの月次MAU倍増基調。ただし『プロンプト圧縮スキルに金を払う層』は更にその数%以下で、国内有償課金可能母数は数千〜数万人規模に留まる見込み（根拠未確認）。"
+      },
+      "gtm": {
+        "score": 7,
+        "reason": "OSS配布なら Qiita/Zenn/note/X で個人発信のPLG導線が機能する典型分野（既存記事数が証明）。GitHub Star獲得で自然流入は見込めるが、無料配布前提のため『獲得＝収益』に直結しない。ホスト型サービスへ転換する場合はPLG難易度が一段上がる。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "caveman公開からPH掲載まで約1ヶ月で64.6K★、genshijin等の日本語版・派生が既に出揃い、Anthropic公式が/compactやSkills機構で標準化を進めている。新規角度参入の時間窓は6ヶ月以内と狭い。"
+      },
+      "solo_ops": {
+        "score": 9,
+        "reason": "OSSスキル配布は手離れがよく、Issue対応とドキュメント更新中心で個人運用は十分可能。SaaS化しない限り24/7監視やSLA負担は発生しない。"
+      }
+    },
+    "rationale": "需要顕在性・運用容易性は高得点だが、(a) 本体OSS+公式Marketplace無料の構造的非マネタイズ性、(b) genshijinが日本語ニッチを先行確保、(c) Anthropic公式の/compact・Skills機構が機能を吸収中、という3点で事業としての成立は厳しい。OSSスター獲得・転職ポートフォリオ・コンサル導線としては成立し得るが、月商を立てる手段が薄い。SaaS化（チームのトークン消費可視化・最適化レポート等）に転換すれば商機はあるが、それは別プロダクトに近い。総合スコアは低めに置くのが妥当。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "OSS本体: MITで無料配布（GitHub Sponsors任意）",
+        "派生SaaS（仮）: チーム向けトークン消費可視化＋自動Skills適用 ¥2,000/seat/月",
+        "Pro（仮）: 監査ログ・Claude Cache前提の最適化レポート ¥10,000/月/チーム"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Claude Pro/Max・Cursor・Codex を業務利用する国内個人開発者および10–50名規模のエンジニアチーム。トークン上限に頻繁にぶつかり、CLAUDE.md・コミット・PRレビューでトークン削減を体系的に行いたい層。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn連載：原始人口調の検証・キャッシュ前提のコスト分析",
+      "X(@日本語開発者コミュニティ)で計測スクリーンショット投稿",
+      "GitHub Trending狙いの段階的リリース＋ワンライナーinstall訴求",
+      "Code with Claude東京2026登壇/LTでデモ",
+      "派生SaaSに昇華する場合のみ：個人開発者向けPLG無料枠＋Slack通知連携"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "Anthropic公式が/compact・Skills・キャッシュ最適化で機能を内包し、サードパーティ価値が急速に減衰するリスク",
+      "日本語ニッチは genshijin が先行確保済みで、後発がスター数・SEOで埋もれる",
+      "本家MIT＋公式Marketplace無料前提のため、月額課金導線が構造的に存在しない（ARPU 0想定）",
+      "原始人口調の品質劣化・誤指示誘発リスクの責任所在（業務利用での事故時）",
+      "キャッシュ非最適時に input token 増加で逆効果になり、信頼を一度失うと回復困難"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

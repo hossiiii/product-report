@@ -1,0 +1,252 @@
+{
+  "name": "Brila",
+  "description": "One-page websites from real Google Maps reviews",
+  "ph_url": "https://www.producthunt.com/products/brila-2/launches/brila-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/2ENSJE4L7JILGP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-09T07:01:00Z",
+  "upvotes": 1356,
+  "comments": 244,
+  "topics": [
+    "Website Builder",
+    "Artificial Intelligence",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋<br></p><p>We made Brila. It audits your business based on your Google Reviews – and shows you <em>exactly</em> how to market it.<br></p><p><strong>The problem:</strong> every website generator gives you a template stuffed with placeholder copy. Then you're stuck rewriting it by hand – big effort, bad result. You still end up with \"quality service\" and \"customer-first approach\" that nobody believes.<br></p><p><strong>Our approach: </strong>content first, design second. Google Maps reviews are an incredibly rich data source – people describe the exact situation they were in, what they needed, and why they chose this place. With enough reviews, the patterns often surprise even the business owners.<br></p><p>The methodology is <strong>Jobs to Be Done</strong> – the same framework billion-dollar companies use to understand their customers. Brila automates it. It's not a single prompt – it's a serious AI system we've been building for months.</p><p><br>Paste a Google Maps link, try it free. We're giving away <em>100 promo codes</em> for a year of Pro: <strong>PHBRILA100</strong><br>If it’s already gone by the time you try, leave a comment on PH and we’ll send you a code.</p><p><br>Thank you!</p>",
+      "votesCount": 65,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Most AI site builders (Wix/Squarespace/Framer/Durable-style) or things like Bolt and Loveable can generate a full site from a prompt—what’s Brila’s strongest head-to-head advantage in output quality, and where do you still see those incumbents winning (editor flexibility, multi-page, SEO tooling, etc.)?</p>",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>it's really gonna be interesting for small businesses. Are there any options to customise the design? change colors,  fonts etc.</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Website generators give you a template with made-up copy. You rewrite it for hours – still sounds generic. Brila does content first. It reads your Google Maps reviews, finds why customers actually choose you using Jobs to Be Done, and builds a one-page site from real patterns, real wording, real photos. When a business has enough reviews, the results often surprise even the owners. Not a single prompt – a serious AI system behind every website. Free plan gives you a fully generated site.",
+  "featured_at": "2026-04-09T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/6e8a39c7-ec23-46e5-9962-0ad93d097fc0.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/483ca578-5f6b-489a-a889-8f26287fbe34.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dfdd6906-6eec-4130-8104-d8963e89472b.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ae163de2-624b-47be-b599-8dfbb841987f.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/a07c2e3e-f1eb-4fd5-93c4-6b53a8ecf761.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:10",
+  "landing_meta": "AI Website Builder for Local Business via Google Maps | Brila — Build your small business website instantly using your existing Google Maps reviews. AI-powered, no-code, and perfectly tailored to your customers.",
+  "landing_text": "AI Website Builder for Local Business via Google Maps | Brila Product of the Day 1st Product of the Week 1st Product of the Month 1st Share why exactly customers love your business Your customers already told you in Google Maps reviews why they choose you. Now let AI use Jobs To Be Done method A research method that looks at the progress customers want to make, not just who they are. We use review patterns to understand what people are really \"hiring\" your business for, then turn that into clearer website messaging. to uncover the patterns and turn them into your website. Enter Google Maps share link? Where to get? Open your business page on Google Maps Click 'Share' Click 'Copy link' Generate a website Real websites Brila generated Each one reveals specific reasons why customers keep coming back, often for things the owners didn’t realize themselves. Powell's City of Books Bookstore Where New and Used Books Live Side-by-Side Portland, USA Hotel Emma Historic Brewery Hotel Where Every Staff Member Knows Your Name San Antonio, USA B&H Photo Photo & Video Store Where You Test Every Camera and Staff Actually Help New York, USA The Sill Plant Shop That Delivers Across the Northeast and Pots for Free New York, USA Bandit Running Brooklyn Running Brand with Weekly Group Runs and Community Events Brooklyn, USA Tartine Bakery European-Style Bakery with 48-Hour Fermented Dough and Real French Butter San Francisco, USA Lee Valley Tools Tool Store Where Staff Are Woodworkers and Solve Project Problems Ottawa, Canada",
+  "pricing_signals": [
+    "pricing",
+    "$3"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:11",
+  "description_ja": "Googleマップの実レビューからJTBD分析で1ページサイトを自動生成するAIホームページビルダー",
+  "summary_ja": "店舗のGoogleマップ共有リンクを貼るだけで、口コミ群をAIがJobs to Be Done分析し、顧客が実際に語った言葉と写真を素材として1ページのウェブサイトを生成する。ローカル事業者向けで、テンプレ的なプレースホルダ文を排する点が売り。",
+  "tldr_ja": "MEO土壌は日本も濃いがペライチ等の国内AI生成と競合、Places API規約と写真著作権が個人開発の壁",
+  "review_guide_ja": {
+    "what": "店舗のGoogleマップ共有URLを入力すると、Brilaがマップに紐づくレビューと写真を取得し、Jobs to Be Done（顧客が何を成し遂げたくてその店を選んだのか）の観点でパターンを抽出。抽出した顧客の生の言葉と写真を素材に、英語コピーで1ページ完結のランディングサイトを自動生成する。フリープラン（生成のみ）、Pro $9/月（最大100レビュー解析・3サイト・カスタムドメイン）、Agency $29/月の3層。継続更新シナリオ（新着レビューでサイトも更新）も計画中。ターゲットはマーケ担当不在のローカルサービス業（書店・ホテル・写真機材店・植物店・ベーカリー等の事例が掲載）。",
+    "for_who": "Googleマップに一定数のレビュー（数十件以上）が溜まっているがコーポレートサイトを持っていない、または既存サイトがテンプレ的で説得力に欠けるローカルサービス事業者。米英圏の独立系小売・飲食・ホテルの実例が中心。マーケ担当を雇えない個人経営〜小規模事業者を主な顧客像とする。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "Places APIの取得レビューは公式に最大5件・キャッシュ禁止のため、Brilaは別経路で100件規模を解析している可能性。同等量を合法に集めるのは難しく、再現には独自データ取得とJTBDプロンプト設計の両輪が必要。"
+    },
+    "signals": [
+      "Product Hunt 1356 upvotes / Product of the Day・Week・Month 1位獲得",
+      "Jobs to Be Doneという確立されたフレームをLLMで自動化する切り口の新規性",
+      "ローカルビジネスのウェブサイト未保有/生成テンプレ陳腐化という普遍課題への直球アプローチ",
+      "フリープランで完成品が見えるPLG設計と$9/月の入りやすい価格",
+      "新着レビューでサイトが自動更新される継続価値の設計思想"
+    ],
+    "concerns": [
+      "Google Places APIはレビュー取得上限5件・キャッシュ禁止で、レビュー大量取得手法の合法性に疑義",
+      "顧客レビュー本文・写真の二次利用はGoogle利用規約と著作権の両面でリスク",
+      "1ページ静的サイトはSEO・予約・多言語など本格運用機能が不足",
+      "Wix/Squarespace/Framer/Durable等のAI生成や日本のペライチAI機能と機能面で衝突",
+      "デザインカスタマイズ性（色・フォント等）が現状限定的とコメントで指摘"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本のスマホ利用者の85%以上が生活圏店舗検索でGoogleマップを利用、グルメ検索でもGoogleが食べログを抜き86.1%で1位というデータがあり、Googleレビュー資産は厚い。一方で個人店はInstagram/LINE公式中心でウェブサイト不保有も多く、サイト生成への顕在需要は中程度。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "ペライチは2024年から「クリエイトアシスタント」で参考URL入力10分生成を実装済み、STUDIO（15万ユーザー）、Wix、ジンドゥー、Durable等も日本語対応。GMB口コミ分析はMEOチェキ・STORE PAD・MEO AIなど国内勢が乱立。レビュー→サイト直結という切り口だけが空白。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "Google Places API公式仕様ではレビュー取得は最大5件・place_id以外のキャッシュ禁止・名称/住所/レビューの保存禁止が明文化。Brilaが100件解析を行う仕組みは規約抵触リスクが高い。顧客写真の二次利用は著作権・肖像権、景品表示法の体験表現リスクも伴う。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "日本語レビューはLLMで処理可能だが、平均文字数が短く形式的な内容（「美味しかった」「丁寧」等）が多くJTBDパターン抽出は英語圏より難しい。テンプレ・フォント・敬体/常体の使い分け・1ページ構成の日本的余白設計など、UI/コピーの再調整が必須。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本のローカル事業者はホットペッパー/食べログ/Instagram経由の集客が王道で、独立ドメインサイトの優先度は低い。電話サポート・対面営業を期待する商習慣も強く、セルフサーブPLGだけで個人店に浸透させるのは難度高。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ペライチ（クリエイトアシスタント）",
+        "url": "https://peraichi.com/",
+        "note": "国内最大級の1ページ作成SaaS。2024年に参考URL入力でAIが10分でサイト生成する機能を追加。日本語フォント・テンプレが豊富で個人店利用実績が厚い直接競合。"
+      },
+      {
+        "name": "STUDIO",
+        "url": "https://studio.design/ja",
+        "note": "国産ノーコードビルダー。15万人超の利用者を持ち2025年にAI生成機能を強化。デザイン自由度が高く、Brilaのレビュー連動とは別軸だがWeb制作SMB需要を吸収済み。"
+      },
+      {
+        "name": "MEOチェキ / STORE PAD",
+        "url": "https://www.tryhatch.co.jp/meocheki/",
+        "note": "Googleビジネスプロフィールの口コミ管理・AI分析。国内27000店舗導入実績。レビュー→サイト生成までは行わないが、口コミデータ活用文脈で先に顧客接点を握っている。"
+      },
+      {
+        "name": "Wix / Jimdo（日本展開）",
+        "url": "https://ja.wix.com/",
+        "note": "両者ともAI生成機能を備え日本語UI完備。Brilaが日本進出した際の競合となる海外勢で、英語圏の本家機能拡張で同種機能を取り込む可能性がある。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "Google Maps Platform 利用規約・Places APIポリシー",
+        "impact": "Place Details経由のレビュー取得は最大5件、place_id以外のレビュー本文・名称・住所の保存と再配布が原則禁止。Brila同等の100件規模解析を国内で合法に実装するには、店舗オーナーのGBP連携経由でのデータ取得など別経路設計が必須。"
+      },
+      {
+        "law": "著作権法・肖像権",
+        "impact": "Googleマップ上のユーザー投稿写真はユーザーに著作権・肖像権が残る。生成サイトに無断転載すれば侵害リスク。店舗オーナーが店頭撮影した自前写真への置換や、ユーザー写真の明示同意取得導線が必要。"
+      },
+      {
+        "law": "景品表示法（優良誤認・体験談規制）",
+        "impact": "レビュー文を抜粋して広告コピーとして掲載する場合、ステマ規制（2023年10月施行）と体験談表示のガイドラインに従い「お客様の声」と明示し改変を行わない運用設計が必須。AI要約による意図的編集は優良誤認の対象になりうる。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "投稿者名・顔写真等が含まれるレビュー素材を商用サイトに転載する場合、第三者個人情報の利用となる可能性。匿名化・初頭文字化・本人同意のいずれかが必要。"
+      }
+    ],
+    "opportunity": "切り口は新しく、日本ではMEOチェキ等が握る「口コミ閲覧」と、ペライチ等が握る「サイト生成」の中間レイヤが空白。日本独自開発するなら、Places APIに依存せず店舗オーナーのGoogleビジネスプロフィール連携でレビュー本文と店内写真を正規取得する設計が要。さらに食べログ/ホットペッパー/Instagramの口コミとリール動画を組み合わせ、和文の短いレビューでも成立するJTBD抽出プロンプトを再設計すれば差別化可能。1ページサイト+QRメニュー+予約フォーム+Instagram連動など、日本のローカル店舗の集客動線に合わせた拡張で「ペライチに勝てる縦特化」を狙える。",
+    "rationale": "MEO/Googleレビュー資産は日本でも厚く、レビューを起点に集客導線を再構築する着想自体は時流に合う。しかし国内サイトビルダー市場はペライチ・STUDIO・Wixが既にAI生成を実装し、価格帯も近い。さらにGoogle Places APIのレビュー取得・保存制限と写真著作権・景表法・個情法という規制クラスタが、海外で実現できているデータ量を日本で再現する障壁になる。需要はあるが、英語圏と同じプロダクトをそのまま持ち込んでも上位サービスに飲み込まれ、規約面で先に頓挫する可能性が高い。日本では『国内SMBの集客動線×口コミ正規連携』に再設計しないと勝ち目が薄く、現時点はwatch相当。"
+  },
+  "business_viability": {
+    "business_viability_score": 6,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "Pro $9/月（約¥1,300）は国内SMB許容圏で、ペライチ・STUDIOの月額帯と整合的。一方、日本のローカル個人店は『無料で使える集客ツール（GBP・Instagram）』志向が強く、ARPU上限は¥1,500〜¥3,000程度に頭打ち。Agency $29プランは士業・代理店経由なら通る。"
+      },
+      "market_size": {
+        "score": 8,
+        "reason": "厚労省統計で美容所27.4万件・理容所11.2万件、Circanaで2024年末飲食店約99.9万店舗。宿泊飲食の80.9%が個人経営、美容業の75%が個人経営。クリニック・整体・サロン等を含む実店舗SMB母数は数百万。サイト未保有層は依然厚くTAMは十分。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "ローカル個人店はWebでの能動的情報収集が弱く、Qiita/X/PHのPLG導線が届きにくい。地方の中小企業向けは『ローカルキング』と呼ばれる代理店との提携が定石とされ、個人開発でこの販路を作るのは負荷が高い。Instagram広告とFC本部経由の卸販売が現実的な打ち手。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "ペライチが2024年に類似のAI URL読み取り生成を実装済みで、レビュー連動だけが空白。Wix/Squarespace等もAI生成機能を進化中でいつレビュー連動を取り込んでもおかしくない。Brila本家の日本展開は数ヶ月〜1年程度の窓と読むのが妥当。"
+      },
+      "solo_ops": {
+        "score": 6,
+        "reason": "コア機能はLLM+静的サイト配信で運用負荷は中程度。ただし、ローカルSMB顧客はチャット応対より電話/対面サポートを期待する傾向があり、解約抑止のための顧客成功業務が個人運用の重荷となる。サイトホスティング・ドメイン回りのトラブル対応も発生。"
+      }
+    },
+    "rationale": "TAMは数百万事業者と豊富で、Pro価格帯も日本SMBの許容圏に収まる。ただし日本のローカル個人店はGBP/Instagram/食べログ無料導線で集客を完結させる文化が強く、独自ドメインサイトへの支払い意欲は限定的。GTMが最大の難所で、Qiita連載やX発信などの個人開発者王道導線はターゲットに届きにくく、士業・FC本部・地域代理店との提携か、Instagram広告での認知獲得が必須となる。個人運用は機能面では可能だが、顧客成功と規約対応の手間で hard 寄り。レビュー→サイトという切り口で『縦特化』するなら、ペライチ・STUDIOの広域競合に正面勝負せず、特定業種（例: 美容室・整体院）でテンプレ・連携・コピーを徹底チューニングするニッチ戦略が現実解。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1200,
+      "plans": [
+        "Free: 1サイト・最大20レビュー解析・brila.aiサブドメイン・新着更新なし",
+        "Pro: ¥1,200/月（年払いで¥980/月）・100レビュー解析・3サイト・カスタムドメイン・週次再生成",
+        "Agency: ¥2,980/月・10サイト・ホワイトラベル・複数オーナー管理（美容FC本部・士業向け）",
+        "業種テンプレ拡張: 美容室・整体院・歯科・カフェ等の縦特化テンプレを順次追加（Proに含む）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Googleビジネスプロフィールに50件以上のレビューを保有し、独自ドメインのウェブサイトを持っていないか既存サイトが古い、関東・関西の30〜50代オーナーが運営する美容室・整体院・カフェ・小規模クリニック。Instagram運用は手探りで、月¥1,000〜¥3,000のSaaS課金は許容するクラスター。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 180000
+    },
+    "recommended_gtm": [
+      "美容FC本部・整骨院グループへの卸提案（Agencyプラン経由で複数店舗一括導入）",
+      "Instagram/TikTok広告でビフォアフ動画（既存テンプレサイトvsレビュー連動サイト）を訴求",
+      "ホットペッパービューティー連動の業界メディア（ボブログ等）への寄稿とサンプルサイト掲載",
+      "MEOチェキ等の口コミ管理SaaSとの相互連携（口コミ→サイト導線をパッケージ化）",
+      "中小企業向け『小規模事業者持続化補助金』活用ガイドを作って補助金経由の導入を促進",
+      "X上の士業・MEO代理店アカウント向けに無料Agencyトライアル配布で口コミ獲得"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Google Places API規約上の取得・キャッシュ制限により、Brila同等の100件レビュー解析を合法な経路で再現するのが困難。店舗オーナーのGBP OAuth連携導線設計が必須となり実装コストが膨らむ。",
+      "ペライチが既にAI生成機能を持ち、レビュー連動を後追い実装すれば一気に市場吸収される可能性。先行者利益が極めて短く、ニッチ縦特化への素早い退避が要る。",
+      "顧客写真・レビュー本文の二次利用に伴う著作権・肖像権・景表法のリーガルリスク。1件でも炎上事例が出れば信用毀損が大きく、個人運用ではコンプライアンス監修コストが重い。",
+      "ローカル個人店はカスタマーサクセス工数が大きく、月¥1,200ARPUでは1人あたりの問い合わせ対応コストを吸収しきれない。サポートをチャットボット/コミュニティに寄せる設計が必須。",
+      "本家Brilaがアジア言語対応で日本進出した場合、価格・機能とも先行優位を持つため、後発の国産Cloneは差別化が苦しい。代理店チャネルとローカル規約対応で参入障壁を作る必要。"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 6,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

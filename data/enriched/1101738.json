@@ -1,0 +1,298 @@
+{
+  "name": "AgentMail",
+  "description": "Email Inboxes for AI Agents ",
+  "ph_url": "https://www.producthunt.com/products/agentmail/launches/agentmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/M4HONGJQGO5663?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-09T07:01:00Z",
+  "upvotes": 269,
+  "comments": 56,
+  "topics": [
+    "Email",
+    "API",
+    "Developer Tools"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt! We're Haakam, Michael, and Adi. We're building AgentMail, the email API for agents.<br>We're not talking about AI for your email. This is email for your AI.<br><br>We wanted to build email agents you could forward your work to and get back a completed task. The agents would act entirely autonomously, they wouldn't need to borrow your identity. If they got stuck, they could just email you or anyone else.<br><br>Using Gmail, we kept hitting the same walls. No way to create inboxes programmatically. Rate and sending limits. OAuth for every single inbox. Keyword search that doesn't understand context. Per-seat pricing that doesn't work for agents.<br><br>So we built what we wished existed. An email provider for developers. APIs for creating inboxes and configuring domains. Email parsing and threading. Text extraction from attachments. Real-time webhooks and websockets. Semantic search across inboxes. Usage-based pricing that works for agents.<br><br>Developers, startups, and enterprises are already deploying email agents with AgentMail. Agents that convert conversations and documents into structured data. Agents that source quotes, negotiate prices, and get the best deals.<br><br>To celebrate our launch, we're giving early-stage teams a free month on our Startup plan. If you're building with agents, apply here: <a href=\"https://tally.so/r/QKrxj8\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://tally.so/r/QKrxj8</a><br><br>We also just added a deal for developers - 2 months free on our $20/month plan. You can claim the code right here from our Product Hunt page and get started for free at <a href=\"http://agentmail.to\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">agentmail.to</a>. Looking forward to hearing your thoughts.</p>",
+      "votesCount": 14,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Used AgentMail a few months back for a project during a big SF power outage everyone was mad about, set up a bunch of inboxes people could pick from to send complaint emails to PG&amp;E, plus shared public inboxes for transparency. AgentMail handled all the email stuff, literally plug and play. Built the whole thing overnight, and launched it on reddit in the morning, that's how easy it was to use. Congrats on the launch!&nbsp;</p><p><br>Added a screenshot of an email someone sent using the platform below<br></p><img src=\"https://ph-files.imgix.net/cc3efdd1-c286-41fe-8156-a9090d4db418.png?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><img src=\"https://ph-files.imgix.net/db3e8e46-8bd3-4ea7-b261-31ce9685829e.png?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p></p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "How do semantic search and reply/quote extraction work end-to-end for an agent developer—what gets indexed, what stays private, and how does it compare to just storing raw emails and letting each agent re-read its thread history with an LLM on every turn?",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "AgentMail gives every AI agent its own email inbox. Your agent sends, receives, threads, and replies to emails on its own. No shared mailboxes, no OAuth per inbox, no human in the loop. Real-time webhooks and websockets. Semantic search across inboxes. Built-in email parsing and attachment extraction. Developers, startups, and enterprises are already deploying email agents with AgentMail. Free to start.",
+  "featured_at": "2026-04-09T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f297065e-b697-473a-8d62-21fdbff0a7a7.x-icon",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/da0c23b0-fe57-41cd-a2ae-fc19d3e5fa2f.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a1faef11-95b5-4d6e-b19f-0b3df1b448c0.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ae0f474c-ff4e-4a27-82a6-8eb58ac19a67.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6d2214ff-4dbe-4511-84f8-23ce6b8056e2.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/738d6239-2aef-4585-8ff6-81c3872989f9.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/36cee18d-a177-4e85-b6e8-197952c160a0.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cf8dc7c0-a9c7-47fc-a332-65bf567a3e2d.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/80086a03-2c5b-42a6-bb90-806a764f53ca.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bb2c44dc-9f48-4e06-a924-430829989b89.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cbc5f94b-b931-4184-9b5d-eaac32f42cd7.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/c6c7055a-d368-4472-94e3-165e5280bcf2.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:37",
+  "landing_meta": "AgentMail | Email Inbox API for AI Agents — AgentMail gives AI agents real email inboxes. Create, send, receive, and search messages via REST API — built for autonomous agents and agentic workflows.",
+  "landing_text": "AgentMail | Email Inbox API for AI Agents We raised $6M in Seed Funding Read more Backed by Combinator Email Inboxes for AI Agents AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans. Start for free Docs No credit card required Python TypeScript cURL CLI from agentmail import AgentMail client = AgentMail () inbox = client . inboxes . create ( username = \" hello \" , domain = \" agentmail.to \" ) Live Inbox This is a real email inbox just created for you. Send it an email and see it show up in real time. AI Companies building on AgentMail. + + + + + + + + [ What we offer ] It's not AI for your email. It's email for your AI. Inboxes API Create, manage, and operate email inboxes entirely via API. Threads + replies Attachments Realtime events Custom domains SDKs + MCP Semantic search Data extraction Create, manage, and operate email inboxes entirely via API. [ By the numbers ] Built for scale. 100M+ Emails delivered Across the globe, and counting. Always On Enterprise-grade reliability Built on redundant infrastructure across multiple regions. Your agents never miss a message. Instant Inboxes One API call Spin up a new inbox in milliseconds. No domain verification, no waiting. Developer First Simple, intuitive API RESTful endpoints, typed SDKs, and webhooks. Get started in minutes, not days. [ Use Cases ] Use Cases Powering every type of agent: from browser automation to customer service, AgentMail enables any agent to communicate via email. Browser Agents Extract 2FA Codes Enable browser agents to sign up for services by extracting OTP codes from email. Scheduling Executive Assistant Let your agent manage your calendar, schedule meetings, and send you summaries.  Doc Processing Parse Attachments Parse invoices, receipts, and attachments automatically. Customer Service Smart Routing Ingest support emails and route to appropriate handlers. AgentMail Inbox acme.com Sign in to Acme Enter your email to continue Ema",
+  "pricing_signals": [
+    "pricing",
+    "$6",
+    "$1",
+    "$7",
+    "$16",
+    "$17",
+    "$20",
+    "$26",
+    "$3",
+    "$42",
+    "$54",
+    "$55"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:38",
+  "description_ja": "AIエージェント専用のメール受信箱を API で発行・運用できる開発者向け基盤",
+  "summary_ja": "AIエージェントごとに独自のメールアドレスと受信箱を API 経由で発行し、送受信・スレッド管理・添付解析・Webhook/WebSocket・セマンティック検索まで一気通貫で提供する開発者向けインフラ。Gmail の OAuth/枚数制限を回避し、エージェントが人間を介さずメールで自律的に動ける環境を提供する。",
+  "tldr_ja": "AIエージェント向けメール基盤は国内需要も伸びるが、SendGrid/Resend 等とコモディティ競合になりやすく個人開発は不利",
+  "review_guide_ja": {
+    "what": "AIエージェント1体ごとに固有のメールアドレス（@agentmail.to or 独自ドメイン）を API 1コールで発行できるメール基盤。Inboxes API、スレッド/返信管理、添付ファイルからのテキスト抽出、リアルタイムWebhook、WebSocket、複数受信箱を横断するセマンティック検索、Pythonなどの SDK と MCP 対応を提供。典型ユースケースは(1)ブラウザエージェントの2FA/OTP受信、(2)スケジューリング秘書のメール往復、(3)請求書/添付処理エージェント、(4)カスタマーサポート受信のルーティング、(5)交渉系エージェントによる見積取得など。Gmail を OAuth で借りる従来構成と異なり、エージェントが独立した送信者として振る舞える点が中核価値。",
+    "for_who": "AIエージェントを実装する米国中心のスタートアップ・開発者・エンタープライズ開発者。具体には(a)ブラウザエージェント/RPA系SaaS、(b)エージェント型カスタマーサポート/営業ツール、(c)社内自動化エージェントを構築する開発チーム、(d)個人開発者で複数エージェントを並列運用したい層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "メール基盤本体は SES/Postfix+DKIM 等で技術的には組めるが、IP レピュテーション獲得・送達率・各 ISP（Gmail/Outlook/各社キャリア）対応・スケーラブルなマルチテナント運用が個人開発には極めて重い。差別化機能のセマンティック検索や Webhook 配信も別途インフラが必要。"
+    },
+    "signals": [
+      "YC 出身・$6M シード調達済みで本家側の資金量が大きい",
+      "100M+ メール処理・500+ B2B 顧客と公称、エージェント向けカテゴリの先行者",
+      "ローンチ8ヶ月で PH 269 upvotes、$20/月の Developer プランで開発者ハードル低い",
+      "MCP 対応・WebSocket リアルタイム配信など 2026 年のエージェント潮流に同期",
+      "ユースケース（2FA抽出/秘書/添付処理）が AI エージェント実装の典型ニーズと一致"
+    ],
+    "concerns": [
+      "本家が既に英語圏のAIスタートアップを総取りしており、日本進出も時間の問題",
+      "国内では SendGrid/Resend/Amazon SES が圧倒的に既存ポジションを取っている",
+      "メール基盤は IP レピュテーション・送達率・抑止運用がコモディティ化しており差別化が薄い",
+      "AIエージェントを商用運用する日本企業がまだ限定的で、開発者層が薄い",
+      "セマンティック検索・添付抽出は LLM の API 直叩きで代替可能、ロックインが弱い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内でも AIエージェント市場は 2030 年 3.5 兆円規模との予測があり、Gmail API を叩く自動化記事も Qiita/Zenn に複数存在。ただし『エージェント専用メール受信箱』という抽象度のニーズは、現状 Gmail/Outlook で十分という認識が強く需要は潜在段階。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "メール送信 API としては SendGrid（構造計画研究所が国内代理店、知名度圧倒）、Amazon SES、Resend、Postmark、ブラストエンジン、Mailtrap など強力プレイヤー多数。エージェント特化という点では国内に同等品はないが、隣接領域は飽和。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "特定電子メール法のオプトイン規制と表示義務（送信者名/受信拒否導線）に注意。マーケ送信用途では同意取得が必須だが、トランザクション/通知/2FA 用途では緩い。個人情報保護法も関係するが、メール内容を超えた処理がなければ過大なリスクは少ない。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "API ベースで言語非依存、SDK は Python/TS/cURL。UI 改修はダッシュボード程度。日本語メール本文の MIME/エンコーディング（ISO-2022-JP 含む）対応と添付 OCR の日本語精度が論点だが、技術的には対応容易。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本では『AIエージェントが独自アドレスからメールを送る』ことへの心理的抵抗が強く、送信者がエージェントだと拒否される/迷惑メール扱いされる懸念。ビジネスメールは『誰の責任で送ったか』が重視される文化で、個人開発の信用基盤では浸透しにくい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "SendGrid（構造計画研究所）",
+        "url": "https://sendgrid.kke.co.jp/",
+        "note": "国内代理店経由で大手導入実績多数、メール配信 API の事実上の標準。受信(Inbound Parse)もあるがエージェント特化ではない。"
+      },
+      {
+        "name": "Amazon SES",
+        "url": "https://aws.amazon.com/jp/ses/",
+        "note": "送信単価が極めて安く、受信→S3/Lambda→自前で組めば AgentMail 相当を構築可能。AWS 利用前提の開発者には第一選択肢。"
+      },
+      {
+        "name": "Resend",
+        "url": "https://resend.com/",
+        "note": "開発者体験で人気急上昇、日本の個人開発者にも採用例多数。受信機能や Webhook も整備、API DX で AgentMail と直接競合する。"
+      },
+      {
+        "name": "ブラストエンジン",
+        "url": "https://blastengine.jp/",
+        "note": "国産のメール配信 API/SMTP リレー、特定電子メール法対応や国内 ISP との関係性で安心感あり。エージェント用途ではないが既存顧客が厚い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定電子メール法",
+        "impact": "広告宣伝目的のメールはオプトイン必須、送信者名/受信拒否導線の表示義務、違反時は最大3000万円罰金。エージェントが営業/勧誘メールを送る用途は同意取得設計が必須で、PoC を超えると運用負荷が高い。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "受信メールに第三者の個人情報が含まれる場合、利用目的の特定・安全管理措置・委託先監督が必要。海外 API 経由のためデータ越境（27条/28条）の同意も論点で、エンタープライズ向け販売では追加対応が要る。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "メール送受信を業として行うため、外部送信規律（クッキー類似）や利用者情報の取扱いに留意。受信メールに含まれる第三者通信の秘密保護も論点で、運用ポリシー整備が必要。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては (1) 国内 ISP（ドコモ/SoftBank/au キャリアメール）への送達率最適化、(2) ISO-2022-JP 含む日本語メールの本文/添付（請求書/見積書）パース精度の向上、(3) 特定電子メール法の同意取得・配信停止導線をエージェント向けに自動化するコンプラ層、(4) 楽天 RMS/Amazon JP/Shopee 等 EC 系問い合わせメールに特化したテンプレート化。ただし本家 AgentMail が日本語対応した瞬間に差別化が消えるため『日本独自で深く刺す』ニッチに絞らない限り厳しい。",
+    "rationale": "メール受信箱を API で発行するという発想自体は新しく、AIエージェント潮流とも合致するため需要は確実に伸びる。一方で日本市場では (a) SendGrid/SES/Resend で構築可能な代替手段が豊富、(b) ブラストエンジン等の国産プレイヤーが特定電子メール法対応で信頼を獲得済み、(c) AIエージェントを商用運用する日本企業が依然限定的、(d) 『エージェントが独自アドレスで送る』こと自体に文化的抵抗がある、という4重の逆風がある。本家 AgentMail が $6M 調達済みで MCP 対応も済ませている以上、国内コピー品の戦える余地は狭く、AIエージェント特化のメール基盤『そのもの』を個人開発で立ち上げるのは推奨できない。verdict は skip。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "国内開発者は SendGrid Essentials $20/月や Resend Pro $20/月の価格感を許容する層が存在し、月額 ¥3,000〜¥5,000 のレンジは現実的。ただしメール配信は SES の 1000通$0.10 等で価格破壊が進んでおり、ARPU を高位に維持するには付加価値（コンプラ自動化など）が必須。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内で AIエージェントを実装している開発者/企業は推定数千〜1万社規模（明確統計なし、根拠未確認）。さらに『メール基盤を SaaS で外注する』層に絞ると数百社〜千社のオーダーで TAM はニッチ。エンタープライズ用途は SI 経由になり個人開発者は届きにくい。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "国産メール配信は『信頼』勝負で、個人開発者ブランドでは法人決裁が通りにくい。Qiita/Zenn 連載や X 発信で開発者層には届くが、最終購買は法人で、与信/契約書/SLA を求められる。PLG だけで月商を作るのは厳しい。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "本家 AgentMail が既にローンチ済み・$6M 調達済み・MCP 対応済みで、日本語 UI と国内決済を追加すれば即日本進出可能。猶予は 6〜12 ヶ月程度で、個人開発の立ち上げ速度では追いつかない。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "メール基盤は 24/7 監視必須。IP レピュテーション低下時の緊急対応、ISP 別の送達率モニタ、フィッシング濫用検知、DKIM 鍵ローテ、各種フィードバックループ処理など、個人で持続的に運用するのは事実上不可能。インシデント時の SLA 期待値も高い。"
+      }
+    },
+    "rationale": "メール基盤事業は『送達率』と『信頼』が全てで、これは時間とリソース（IP プール/ISP との関係性/レピュテーション履歴）を積まないと得られない。個人開発者が AgentMail のコピーを国内で立ち上げても、SendGrid/SES/Resend の代替にはなれず、AIエージェント特化という切り口だけでは差別化が薄い。さらに 24/7 運用の負荷が solo_ops を 2 まで押し下げる。Monetization は ARPU ¥3,000〜¥5,000 を取れる可能性はあるが、TAM が薄く GTM も法人決裁の壁が高い。本家進出の Time Window も短い。総合的に business viability は 4 と低く、メール基盤『本体』ではなく、エージェント向けのコンプラ/テンプレ等の上位レイヤーで勝負する方が現実的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: 1 inbox / 月 500 通 / Webhook なし",
+        "Developer: ¥3,000/月 — 10 inbox / 月 10,000 通 / Webhook + WebSocket",
+        "Pro: ¥15,000/月 — 50 inbox / 月 50,000 通 / 独自ドメイン / 添付OCR",
+        "Business: ¥80,000/月 — 200 inbox / 月 200,000 通 / 専用IP / SLA"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内でAIエージェントを本番運用する SaaS スタートアップ、ブラウザ自動化/RPA 系開発者、エージェント型カスタマーサポート/営業ツールを内製している中堅企業の開発チーム。個人開発者よりも『法人 PoC 段階の Tech Lead』をターゲットに置く。",
+      "target_count": 1500,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 67500
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn 連載: 『AIエージェント×メール自動化』実装記事を継続投下し開発者リード獲得",
+      "X 個人発信: AIエージェント実装者コミュニティでの認知獲得、デモ動画中心",
+      "PLG: $0 Free → $3,000/月 Developer の自然遷移、ダッシュボードからセルフサーブ",
+      "OSS スターターキット: LangChain/CrewAI 用のメール連携テンプレを GitHub で公開、リードマグネット化",
+      "MCP サーバ公開: Claude Desktop/Cursor 経由で AgentMail を呼べる MCP サーバを配布し開発者導線化",
+      "国内 AI Meetup スポンサー: 生成AI/エージェント系イベントで開発者と直接接点"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "本家 AgentMail の日本進出: 既に $6M 調達・MCP 対応済み、ローカライズして 6〜12 ヶ月で日本市場に入ってくる可能性が高い。コピー戦略は無効化される。",
+      "メール送達率の維持: IP レピュテーション低下時の緊急対応・ISP との関係性構築が必須で、個人運用では Gmail/Outlook/キャリアメール経由でブロックされた瞬間に死ぬ。",
+      "コモディティ化: SendGrid/SES/Resend で 90% の機能は代替可能、AIエージェント特化の差別化は LLM 側で吸収される可能性大（OpenAI/Anthropic がエージェント向けメール SDK を出した瞬間に終わる）。",
+      "規制リスク: 特定電子メール法違反で最大 3000 万円罰金、顧客がエージェント経由で違反メールを送った場合の責任設計が不明確で、個人開発者には負いきれない。",
+      "24/7 運用負荷: メール基盤はインシデント発生頻度が高く、深夜のレピュテーション低下対応・フィッシング濫用検知・ISP 苦情対応など solo では破綻する。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z",
+  "overall_score": 4
+}

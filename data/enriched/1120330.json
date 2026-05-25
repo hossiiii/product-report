@@ -1,0 +1,233 @@
+{
+  "name": "Capso",
+  "description": "Free open-source screenshot & screen recorder for Mac",
+  "ph_url": "https://www.producthunt.com/products/capso/launches/capso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/KVNMIQB5OS55J7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-11T07:01:00Z",
+  "upvotes": 271,
+  "comments": 32,
+  "topics": [
+    "Productivity",
+    "Open Source",
+    "GitHub",
+    "Apple"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey everyone! I'm Kevin, the maker of Capso.\nI've been a macOS user and Apple fan for years, and I always loved how polished the ecosystem feels. But as someone who relies on screenshot and screen recording tools daily, I kept running into the same problem: the best tools out there are genuinely great, but they come with a price tag that not everyone can justify, especially indie developers, students, or folks just getting started.\nThat's what inspired me to build Capso. It's completely free and open source, built natively for Apple Silicon in Swift. I wanted to make something that actually feels at home on a Mac, without asking anyone to open their wallet.\nI'm honestly a little nervous sharing this with the Product Hunt community, but also incredibly excited. Capso is still young and has a lot of room to grow, and I'd love to hear what you think. If you find it useful, or if you have ideas for how to make it better, please don't hesitate to share. Your feedback means everything to a solo builder like me.\nThank you so much for taking the time to check it out!",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>One question - why we need this if mac already have this feature inbuild?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Yeahhh! Exactly what I needed. Just guessing why do you open source it. Congrats btw! All the best",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Capso is a free, open-source screenshot and screen recording app for Mac (Apple Silicon), built entirely in Swift. ✨ Features: • Screenshot (area, window, fullscreen) • Screen recording • Annotation tools • OCR (text from images) • Image beautification Think CleanShot X or Cap — but completely free and open source. No subscriptions, no paywalls, no telemetry. Just a clean, native Mac app that does everything you need.",
+  "featured_at": "2026-04-11T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/8fed1aaa-f128-40de-b2ca-4580353e6ea6.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/764ed074-6553-4a6c-be8f-e534ad587182.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d1829988-7fd0-49e6-ab46-9b7f395d5562.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/03603943-9114-4ebe-a0b8-ffb2150604a0.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c75b2d04-c356-4e70-b722-05c8a3be9394.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/77c2c0a6-73bc-453f-aaf6-7bb34fd5670f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d1d73940-6f33-41ab-b677-50049e9572f2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/797074ab-b037-42c8-9eae-453e4f01b33d.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/587394c8-d985-45ef-be9e-62bef7494f44.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:30",
+  "landing_meta": "Capso for Mac | Free Open-Source Screenshot & Screen Recording — The free, native alternative to CleanShot X. Screenshots, screen recording, annotation, OCR, webcam PiP — all built with Swift 6.0 and SwiftUI. Open source.",
+  "landing_text": "Capso for Mac | Free Open-Source Screenshot & Screen Recording Capso File Edit View Window Help Capso Features Pricing Download Free & Open Source #3 Product of the Day Capso Screenshot & screen recording for macOS — the free, native alternative to CleanShot X. Download Free View on GitHub Everything you need. Nothing you pay. Capture your screen, annotate with precision, record video or GIF with webcam overlay, extract text with OCR, and beautify screenshots for sharing — all from a single, native macOS app built with Swift 6 and SwiftUI. Capso is open source and free forever — no trial, no feature gating, no subscription. Capture Anything Area, fullscreen, or window capture — all from the menu bar or a global shortcut. Drag to select with live dimension display, or click any window to grab it instantly. Record Screen & GIF Record video (MP4) or GIF with system audio and microphone. Choose your area, toggle audio sources, and start with a 3-2-1 countdown. Pause, resume, or restart at any time. Annotate & Mark Up Open any capture in the full annotation editor. Arrows, rectangles, ellipses, text, freehand drawing, pixelate/blur, numbered counters, and highlighters — everything you need to communicate clearly. Beautify Screenshots Add background color gradients, padding, rounded corners, and drop shadow to turn a raw capture into a polished visual. Choose Solid or Liquid Glass style with real-time preview. Webcam Picture-in-Picture Show your face while recording with a draggable webcam overlay. Four shapes — circle, square, portrait, landscape — with snap-to-corner positioning. Click to expand fullscreen and back. Fully Configurable Comprehensive preferences with Apple Liquid Glass design. Configure screenshot format, recording quality, keyboard shortcuts, Quick Access behavior, export presets, and more. Built for power users Every feature CleanShot X has — and it's free. Area / Window / Full New Three capture modes with keyboard shortcuts. Dimension overlay, multi-mo",
+  "pricing_signals": [
+    "free forever",
+    "open source",
+    "open-source",
+    "subscription",
+    "pricing",
+    "$29",
+    "$8",
+    "$58",
+    "$0",
+    "$1"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:30",
+  "description_ja": "Mac 向け無料・オープンソースのスクリーンショット & 画面録画ツール（CleanShot X 代替）",
+  "summary_ja": "Apple Silicon ネイティブの Swift 6 / SwiftUI 製 Mac アプリ。範囲・ウィンドウ・全画面キャプチャ、画面録画（MP4/GIF）、注釈、OCR、画像装飾、Webcam PiP を CleanShot X 同等機能で備え、サブスク無し・テレメトリ無しで無料配布される OSS（BSL 1.1）。",
+  "tldr_ja": "Mac スクショ系は CleanShot X / Shottr / 標準機能で飽和、OSS かつ無料なので個人開発者がここから収益化する余地はほぼ無く skip 推奨。",
+  "review_guide_ja": {
+    "what": "macOS 15+ / Apple Silicon 向けの統合キャプチャアプリ。範囲・ウィンドウ・全画面のスクリーンショット、MP4/GIF 画面録画（システム音声+マイク+Webcam PiP）、矢印/図形/テキスト/ぼかし/番号付け等の注釈エディタ、画像のグラデ背景・角丸・影での Beautify、OCR によるテキスト抽出を 1 アプリで完結。CaptureKit/AnnotationKit/OCRKit 等 8 つの SPM パッケージに分離されており他アプリへの組込みも可能。Homebrew 配布対応。典型ユースケースは開発者の Issue 報告用スクショ、ブロガー/SNS ポスト用の Beautify、技術記事の手順説明 GIF 録画、画像内テキスト抽出等。",
+    "for_who": "CleanShot X の $29 を払いたくない macOS パワーユーザー、特に学生・個人開発者・スタートアップエンジニア。ブロガー・テクニカルライター。Setapp ユーザー以外で恒久無料を求める層。社内利用で経費承認が面倒な小規模チーム。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "ScreenCaptureKit/AVFoundation/Vision(OCR) 等 Apple 公式 API の組合せで実装可能だが、注釈エディタ・Beautify・Webcam PiP・録画品質チューニング等の機能網羅と OS 更新追従コストが重い。"
+    },
+    "signals": [
+      "GitHub Trending 入り（657+ star、X 投稿で言及）",
+      "BSL 1.1 で 3 年後 Apache 2.0 自動転換のライセンス設計",
+      "8 つの SPM 分離アーキで再利用性を訴求",
+      "README が日本語/中国語で多言語化済み",
+      "Liquid Glass デザイン採用で macOS 26 を意識"
+    ],
+    "concerns": [
+      "PH トップコメントで『macOS 標準機能で足りるのでは？』と差別化を問われている",
+      "完全無料 OSS のため収益モデルが不在（寄付/Sponsors 頼み）",
+      "CleanShot X、Shottr（無料）、iShot、Zappy 等先行プレイヤーが厚い",
+      "Intel Mac 非対応（Apple Silicon 専用）でターゲット縮小",
+      "クラウド機能なし＝CleanShot Cloud 相当の共有ワークフローが弱い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 7,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Qiita/Zenn/note に CleanShot X 紹介記事が多数あり日本の開発者層でスクリーンショット強化アプリ需要は確実に存在。一方で macOS 標準 Cmd+Shift+5 と Shottr 無料版で満足する層も厚く、未充足ニーズは限定的。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "CleanShot X（有償・知名度高）、Shottr（無料・OCR 日本語対応）、iShot（App Store 高評価）、Zappy（Zapier 提供・無料）、Skitch、macOS 標準が並ぶ飽和市場。OSS 同種の macshot も存在。日本市場でも CleanShot X が事実上のスタンダード。"
+      },
+      "regulation": {
+        "score": 10,
+        "reason": "ローカル動作のスクリーンショット/録画ツールで個人情報を外部送信しない（landing で『no telemetry』明記）。クラウド機能を追加しない限り個情法/特商法/電気通信事業法等の論点はほぼ発生しない。"
+      },
+      "localization": {
+        "score": 9,
+        "reason": "本家 Capso が既に README.ja.md を整備済み。UI 文字列のみのローカライズで完結し、画像/録画処理ロジックに日本固有改修は不要。OCR は Apple Vision を使えば日本語認識精度は標準で確保される。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "OSS・英語 UI への抵抗感は日本のエンジニア層では低く、Homebrew 配布も浸透。ただし法人導入では『無料 OSS＝サポート無し』を嫌う調達慣習があり、CleanShot X 公式買切りに流れやすい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "CleanShot X",
+        "url": "https://cleanshot.com/",
+        "note": "事実上の標準。$29 買切 or $8/月。日本語ブログ/note 紹介記事多数で開発者層に深く浸透。Setapp 経由でもアクセス可。"
+      },
+      {
+        "name": "Shottr",
+        "url": "https://shottr.cc/",
+        "note": "無料中心の Mac スクショアプリ。スクロールキャプチャ・OCR（日本語対応）・注釈を完備し、日本のブログでも『Mac 無料の決定版』と紹介される強敵。"
+      },
+      {
+        "name": "iShot",
+        "url": "https://apps.apple.com/jp/app/ishot-screenshot-recording-ocr/id1485844094",
+        "note": "Mac App Store 配信のフリーミアム。OCR・翻訳・長尺キャプチャ・録画を統合し、Mac Fan 等メディアで好意的レビュー。"
+      },
+      {
+        "name": "Zappy by Zapier",
+        "url": "https://zapier.com/zappy",
+        "note": "Zapier が無料提供する軽量スクショ/GIF/録画ツール。日本企業のチーム導入事例あり、Capso と機能領域が直接競合。"
+      }
+    ],
+    "regulatory_findings": [],
+    "opportunity": "日本独自角度を取るなら、(1) Apple Vision の日本語 OCR 精度を活かした『縦書き・漫画コマ・古い PDF スクショ』専用キャプチャ、(2) Qiita/Zenn 投稿向け『コードブロック自動整形 + 著作権表示自動付与』ワークフロー、(3) 経費精算 SaaS 連携（freee/MFクラウド）で領収書スクショ自動 OCR 取り込み、(4) リモートワーク前提の業務マニュアル GIF 録画 + 日本語キャプション自動生成、あたりがニッチ。ただしいずれも Capso 本体に PR で還元するほうが工数対効果が高く、別アプリとして立てる必然性は薄い。",
+    "rationale": "市場機会としては『日本の Mac 開発者層の需要は確実にあるが、CleanShot X が認知・機能・有料サポートで圧倒的、無料側は Shottr/iShot/Zappy/標準機能が押さえている』飽和構造。Capso 自身は GitHub Trending で勢いがあり OSS としては伸び代があるが、日本の個人開発者が同カテゴリを新規に立ち上げる事業機会は限定的。規制リスク・ローカライズ容易性・OSS 親和性は高得点だが、需要顕在性と競合密度で平均点に押し下げられ score 7（watch）。日本市場特有の組込ニーズ（縦書き OCR、経費連携、技術記事ワークフロー）にピボットする場合のみ build を検討する余地が残る。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 2,
+        "reason": "Capso 本体は『free forever・no subscription・no paywall』を明示しており、フォーク・再パッケージしての有償化は BSL 1.1 のコピーレフト条項で 3 年制限あり。OSS Mac ユーティリティの寄付/Sponsors 収益は『ほとんどの開発者がゼロ』と Qiita でも報告されており ARPU 確保は極めて困難。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "日本の PC シェアで macOS は約 10〜15%、うち開発者・クリエイター・テクニカルライター等ヘビーユーザー層は数十万人規模。CleanShot X クラスを買う層は更にその一部で、無料代替を探す層は更に小さい。TAM はニッチ。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "Qiita/Zenn/note/X 経由の PLG は可能だが、CleanShot X の認知が既に圧倒的でスイッチコストが心理的に高い。Homebrew 配布で開発者リーチは容易だが、ブログ広告・ASO 等の費用を払えない個人では SEO/口コミ蓄積に数年かかる。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "Capso 本体が既に Product Hunt #3 / GitHub Trending で勢いを得ており、同カテゴリの後発参入は手遅れ。CleanShot X も成熟、Shottr も継続更新中で時間窓はほぼ閉じている。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "ネイティブ Mac アプリでサーバ運用不要、テレメトリ無しで個人運用負荷は軽い。一方 Apple Developer Program 年会費 $99、毎年の macOS メジャー更新追従、ScreenCaptureKit/AVFoundation の挙動変化対応で継続コストは発生し、24/7 監視は不要だが完全手離れではない。"
+      }
+    },
+    "rationale": "事業成立性は『無料 OSS カテゴリで参入余地が極めて狭く、収益化路線がほぼ存在しない』ため score 4。Mac ネイティブで運用負荷は軽いが、収益化（monetization=2）と参入タイミング（timing=2）が致命的に低い。Capso 本体を fork して日本市場向けに『有償サポート付き法人版』を売る選択肢はあるが、BSL 1.1 の同等品禁止条項に抵触するリスクがあり、Apache 2.0 転換まで 3 年待つ必要がある。代替案として、(a) Capso 本体に日本語特化機能を OSS コントリビュートし自身の信用資産化、(b) 全く別カテゴリ（経費精算 OCR、縦書き OCR、Qiita 投稿支援）で差別化、のいずれかが現実的だが、いずれもこのプロダクトをコピーする路線とは別物。個人開発者の事業判断としては consider 以下に押し下げる結論。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "Free / OSS（本家 Capso と同様、BSL 1.1 で無料配布）",
+        "GitHub Sponsors による任意寄付（実績は月数千円〜数万円が現実的）",
+        "別軸でやるなら：法人サポート契約 ¥30,000/月（インシデント対応 + 日本語 SLA）※但し本家 BSL 競合条項に注意"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本国内の macOS 個人開発者・スタートアップエンジニア・テクニカルライター・ブロガーで、CleanShot X の課金を躊躇している層。学生エンジニア、副業開発者を含む。法人購買は対象外（OSS 単体ではサポート要件を満たせない）。",
+      "target_count": 50000,
+      "capture_pct_year3": 1,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "本家 Capso にコントリビュートして日本市場開拓を兼ねる（README.ja 拡充、Vision OCR 日本語チューニング PR）",
+      "Qiita/Zenn で『CleanShot X 代替』『Mac スクショ OSS まとめ』記事を書き本家リンク経由で間接的に評価獲得",
+      "X（旧 Twitter）で macOS / Swift 界隈のフォロワー獲得用に活用、案件獲得の信用資産化",
+      "Homebrew tap で配布し技術者リーチを最短化（事業ではなく個人ブランド戦略として）"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "収益モデル不在：完全無料 OSS のため事業化は寄付頼みで、ほぼ全ての OSS Mac ユーティリティと同じく収益はほぼゼロに収束する",
+      "競合の厚さ：CleanShot X / Shottr / iShot / Zappy / macOS 標準機能が層を成しており、後発で日本市場の認知を取るには年単位の発信コストが必要",
+      "ライセンス制約：BSL 1.1 のため Capso 同等プロダクトを商用化することは 3 年間制限される。fork して有償化する事業プランは法的リスクあり",
+      "Apple Silicon 専用：Intel Mac を切り捨てており、日本の中小企業に残る古い Mac 群を取れない",
+      "OS 追従コスト：毎年の macOS メジャー更新で ScreenCaptureKit / Vision / AVFoundation の API 変更追従が必要、個人運用でも継続工数が累積する"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T21:34:54Z",
+  "review_guide_at": "2026-05-25T21:34:54Z",
+  "business_viability_at": "2026-05-25T21:34:54Z",
+  "advisor_view_at": "2026-05-25T21:34:54Z"
+}

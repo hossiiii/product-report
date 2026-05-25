@@ -1,0 +1,268 @@
+{
+  "name": "QuickCompare by Trismik",
+  "description": "Compare LLMs on your data, measure, and pick the best.",
+  "ph_url": "https://www.producthunt.com/products/quickcompare-by-trismik/launches/quickcompare-by-trismik?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/QFWJQUQGV3CKNB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-26T07:01:00Z",
+  "upvotes": 239,
+  "comments": 28,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence",
+    "Data Science"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Excited to hunt QuickCompare today.<br><br>QuickCompare helps teams choose the right LLM based on how models actually perform on their own data. Not generic benchmarks.<br><br>You upload your dataset, select the models, and get a side-by-side view of performance, cost, and speed.<br><br>What stands out here:<br>• Real evaluations on your own prompts and use case<br>• 50+ models compared in a single workflow<br>• Clear trade-offs between quality, cost, and speed.<br>• No manual scripts or ad-hoc testing<br><br>If you’re building with LLMs and tired of guessing which model to use, this is definitely worth checking out.</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt, Rebekka here, co-founder at Trismik 👋<br><br>We built <strong>QuickCompare</strong> because we kept seeing the same pattern: teams shipping LLM features were making model decisions with surprisingly little evidence.<br><br>Often, they were defaulting to the biggest or most familiar models, relying on public benchmarks, or testing a couple manually and calling it a day. But in practice, that can mean spending far more than necessary on inference without actually getting the best result for your use case.<br><br>The reality is that model choice is rarely one-dimensional. It is not just about which model performs best. It is also:<br><br>• Which model performs best on your prompts and tasks?<br>• Where can you cut inference cost without sacrificing output quality?<br>• When do cheaper models actually match or outperform the expensive default?<br>• How do cost, speed, and task performance trade off side by side?<br><br>For many teams, especially those building AI products at scale, this has real business impact. Huge monthly inference bills, slow experimentation, and too much guesswork in a decision that directly affects margins, product experience, and speed to market.<br><br>That is why we built QuickCompare.<br><br>QuickCompare helps teams compare models on their own data, side by side, across quality, cost, and speed, so they can make a confident decision based on their actual use case, not generic benchmarks.<br><br>And we also built <strong>Ziggy</strong>, our AI Scientist assistant, to make this much easier. You don't need deep evals expertise to get started. Ziggy helps you set up and run comparisons in a much more intuitive, no-code way.<br><br>The goal is simple: help teams find the right model for the job, often cutting cost dramatically while maintaining or even improving performance and speed.<br><br>If you're building with LLMs, we'd really love your feedback. In particular, I would love to hear:<br><br>• how you are choosing models today<br>• whether inference cost is a major pain point for you<br>• what makes model evaluation feel slow, difficult, or inaccessible in practice<br></p><p>🔗 <a href=\"https://trismik.com/?utm_source=product_hunt&amp;utm_medium=social&amp;utm_campaign=product_hunt\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Try QuickCompare free:</strong></a> We’d love to hear what you think 🙏</p><p></p><p>🎁 <strong>Product Hunt bonus:</strong> Get an extra $10 in free QuickCompare credits<br><br>Thanks so much for checking us out and supporting the launch!</p>",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hi Product Hunt, I’m excited to share that our Cambridge spinout, Trismik, is launching <strong>QuickCompare</strong> today.</p><p></p><p>We built QuickCompare to help AI teams compare LLMs on their own tasks and data, so they can make better decisions before deployment, fine-tuning, or migration.</p><p></p><p>As both a Cambridge academic and a co-founder, I’ve seen how difficult model selection can be in practice. There’s no shortage of models, but there is still a real need for fast, practical evaluation on real world use cases.</p><p></p><p>QuickCompare is for teams asking:</p><ul><li><p>Which model performs best for our workflow?</p></li><li><p>Which model is most reliable?</p></li><li><p>Which model is worth deeper investment?</p></li></ul><p>Thank you for taking a look, we’d really love your feedback!</p><p></p><p>Nigel, co-founder of Trismik</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Stop guessing which LLM to use. Upload your data, compare 50+ models, and see quality, cost, and speed side by side. Pick the best model for your use case without manual testing or generic benchmarks.",
+  "featured_at": "2026-04-26T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/3abe31c9-6062-4c90-8c99-fb8384b2aa4c.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9f341eb6-bb11-4ef4-ad4d-d74d5a79d39b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1cd33df1-664b-471c-8422-47571032d10b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d74113d2-723c-4e61-9764-2107f8a6e1b2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/49666a70-4f4b-4c21-b7d5-7de5d447a224.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0572fbd5-45c6-4626-b9e7-3fd72836a815.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2f988d47-3d54-4f5e-a43b-d4b36bb54278.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/207da28f-2034-4eea-a6d7-df7adccff589.gif"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:26",
+  "landing_meta": "Trismik - Make the Right AI Model Decision from Day One — Trismik helps teams choose the best AI model for their use case using real data – no complex setup, no guesswork. Compare models with QuickCompare.",
+  "landing_text": "Trismik - Make the Right AI Model Decision from Day One",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T04:00:27",
+  "description_ja": "自社データでLLMを比較し、品質・コスト・速度を一括測定して最適モデルを選定。",
+  "summary_ja": "ユーザーがデータセットをアップロードすると50以上のLLMを自社用途で並列評価し、品質・コスト・速度のトレードオフを可視化。AIアシスタント「Ziggy」がノーコードでセットアップを支援し、汎用ベンチマークではなく実データでモデル選定を行う開発チーム向けのSaaS。",
+  "tldr_ja": "国内LLMOps需要は顕在だがLangfuse/LangSmithが既に席巻、個人開発でモデル比較特化SaaS参入は困難。",
+  "review_guide_ja": {
+    "what": "QuickCompareはLLMモデル選定支援SaaS。ユーザーが自社プロンプト・データセットをアップロードすると、GPT/Claude/Geminiなど50以上のモデルに対し品質・コスト・速度を並列計測し、サイドバイサイドで比較表示する。LLM-as-Judgeや任意の評価指標を設定でき、AIアシスタント「Ziggy」がノーコードで評価セットアップを支援。本番デプロイ前のモデル選定、ファインチューニング判断、既存モデルからの移行検証、コスト最適化（高価なデフォルトモデルから安価モデルへの切替検証）などのユースケースを想定。Cambridge発のスピンアウト企業Trismikが提供し、PH Bonusで$10の追加クレジット配布中。",
+    "for_who": "LLMを本番運用するAIプロダクト開発チーム、AIコンサルティング企業、推論コスト削減を検討する事業会社のML/AIエンジニア。特に複数モデルを社内検証する必要があるが評価スクリプトを自前で書く工数を避けたい中規模AIチーム。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "複数LLM APIを並列呼び出し、結果を統一指標で比較するロジック自体は実装可能だが、50以上のモデル接続維持、LLM-as-Judge設計、UI/UX磨き込みに継続工数が必要。"
+    },
+    "signals": [
+      "PH 239 upvotes / 28 comments と高い反応",
+      "Cambridge発スピンアウトでアカデミック背景の評価ノウハウ",
+      "推論コスト最適化という具体的なペインに直結",
+      "Ziggyによるノーコード化で非専門家にも開かれている"
+    ],
+    "concerns": [
+      "LangSmith/Langfuse/Braintrust等の既存LLMOpsが評価機能を内包",
+      "モデル比較は単発タスクで継続課金しづらい可能性",
+      "50モデル維持のAPI契約・コスト構造が個人開発には重い",
+      "日本語タスク評価には別途Nejumi等の国内ベンチが浸透"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内でもZOZO/LayerX/KDDI等がLangfuse/LangSmithを導入しLLMOps需要は顕在化。日本の生成AI市場は2026年で94億ドル規模との予測あり、モデル選定の必要性は確実に存在する。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内ではLangfuse Cloud Japan（東京リージョン提供）、W&B Japan（Nejumi Leaderboard）、LangSmith日本語ヘルプが既に展開済み。モデル比較特化はやや空席だが評価機能を持つ汎用LLMOpsが厚い。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "B2B SaaSでアップロードデータは顧客プロンプト/評価データセットが中心。個人情報を含む場合は個情法・越境移転規制が論点だが、ツール自体は規制業務に該当せず障壁は低い。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "UIは英語中心だが画面構造が単純で日本語化容易。一方で日本語タスク評価にはNejumi系の指標やJGLUE等への対応が期待され、評価指標の国内ローカライズには一定工数が必要。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "クレカ即時課金型SaaSは国内大企業の購買フロー（請求書・年契約）との摩擦あり。LangfuseがJPY請求書対応リセラー（GAO）経由で浸透している点を踏まえると、同様の現地化が必要。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Langfuse Cloud Japan",
+        "url": "https://langfuse.com/japan",
+        "note": "東京AWS ap-northeast-1ホスト、JPY請求書対応のリセラーGAOあり。ZOZO/LayerX/KDDI採用実績。プロンプト管理・評価・データセット・LLM-as-Judgeを統合。"
+      },
+      {
+        "name": "LangSmith (LangChain)",
+        "url": "https://www.langchain.com/pricing",
+        "note": "日本語ヘルプセンター・Cowriter等関連サービスあり。Plus $39/user/月。LangChain標準環境で広く採用。楽天がエンタープライズ規模で導入。"
+      },
+      {
+        "name": "Weights & Biases Japan (Nejumi)",
+        "url": "https://nejumi.ai/",
+        "note": "国内最大の日本語LLM評価リーダーボード運営。Nejumi Leaderboard 4で安全性・推論ベンチ強化、OSSで企業内評価も可能。日本語特化の評価ノウハウ蓄積で強力。"
+      },
+      {
+        "name": "PromptLayer",
+        "url": "https://promptlayer.com/",
+        "note": "Pro $50/user/月。プロンプトバージョニング・テスト中心。日本特化展開は薄いが英語SaaSとして国内開発者にも一部利用あり。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "顧客がアップロードする評価データセットに個人情報が含まれる場合、第三者提供・越境移転（米国/EUリージョン）の同意取得が必要。Langfuseの東京リージョン化が国内訴求点になっており、海外ホストのままだとエンタープライズ採用で不利。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "評価データに第三者著作物（記事・書籍テキスト等）が含まれる場合、LLM入出力での利用が30条の4の例外範囲か個別判断要。利用規約で利用者責任に切り分け可能だが、訴訟リスクの説明責任は残る。"
+      }
+    ],
+    "opportunity": "国内向けに(1)Nejumi/JGLUE等の日本語ベンチマーク標準化と統合、(2)国内ホスト+JPY請求書+SSO/IP制限の3点セット、(3)EC・金融・医療等の業界別評価テンプレート（楽天/Yahoo!/SBペイメント等の応答整合性検証）を提供できれば狭い差別化は可能。ただしLangfuseのOSS+セルフホストモデルが個人運用には強い競合で、純粋なモデル比較単機能では継続課金の正当化が難しい。日本語LLM-as-Judgeの精度向上ノウハウを売る方向が現実的。",
+    "rationale": "日本のLLMOps需要は明確に立ち上がっており、ZOZO/LayerX/KDDI/楽天等の実採用事例が出ている。一方で国内市場はLangfuse（OSS+東京リージョン+リセラー）が事実上のデファクト化に進んでおり、W&B JapanがNejumi Leaderboardで日本語評価の権威ポジションを取っている。QuickCompareはモデル比較に特化しているがLangfuseの評価機能と機能重複し、個人開発者が後発で割り込むには日本語ベンチ統合・国内ホスト・業界別テンプレート等の差別化が必須。総合では『見送らないが急ぐ理由もない』ウォッチ判定。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "国内SaaS開発者向けツールARPUは月数千〜2万円が中央値（LangSmith $39/Langfuse Pro $59相当）。日本人はクレカ即時課金より請求書年契約を好み、個人運営では請求書対応の事務負荷が課題。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内LLM本番運用企業は推定数千社規模で増加中だが、評価ツール導入まで進む層は更に狭い。生成AI市場94億ドルのうち評価/Ops領域はサブセグメント。検索で具体的なツール市場規模は根拠未確認。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PLGは可能だがLangfuse/LangSmithが既に開発者コミュニティ（Qiita/Zenn/X）で大量の導入記事を持つ。後発の個人開発者がオーガニックで割り込むには日本語コンテンツSEOで長期投資が必要。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Trismik本体（英国Cambridge発）が既にローンチ済みで、日本進出は時間の問題。LangfuseはGAO経由で既に国内代理店化済み、W&BはJapan法人。本家進出までの猶予は12-24ヶ月程度。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "50+モデルのAPIキー管理・レート制限・課金監視・障害対応は個人運用に重い。LLM-as-Judge精度のチューニング、データセキュリティ対応（SOC2/ISO27001期待）も継続工数大。"
+      }
+    },
+    "rationale": "事業性は厳しい。国内LLMOps市場は立ち上がっているが、LangfuseがOSS+東京リージョン+JPYリセラー+SSO対応というエンタープライズ要件を既に満たしており、個人開発者の後発参入余地は限られる。モデル比較というユースケースは『モデル決定後は不要』になりやすく継続課金の正当化も難しい。さらに50+モデル接続を維持する運用負荷は個人運営に重く、SOC2等のセキュリティ認証取得も避けて通れない。日本語LLM-as-Judge精度・Nejumi系ベンチ統合・業界別テンプレート等の極めて狭い差別化に絞らない限り、ARPUを取りに行くのは困難。総合で『go』判定にはほど遠い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 6000,
+      "plans": [
+        "Free: 月50比較ラン、3モデルまで、コミュニティサポート",
+        "Pro: ¥6,000/月、月500ラン、50+モデル、LLM-as-Judge無制限",
+        "Team: ¥30,000/月、SSO・チーム共有、ラン無制限、Slack通知",
+        "Business: ¥120,000/月、SOC2準拠、専有環境、SLA、JPY請求書対応"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内でLLMを本番運用しているAIプロダクト開発チーム（自社サービスにLLM機能を組み込む事業会社、AIコンサル/受託開発企業）。中でもモデル選定に工数を掛けたいが評価スクリプト内製は避けたい従業員30-300名規模のテック企業のML/AIエンジニアチーム。",
+      "target_count": 3000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 54000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennでの日本語LLM評価記事連載（Nejumi系ベンチとの統合事例）",
+      "X（旧Twitter）AI開発者コミュニティでの個人発信、コスト削減事例の数字付き共有",
+      "PLG: GitHub OSS連携・無料枠提供で開発者の手元検証を促進",
+      "業界別テンプレート（EC応答品質・カスタマーサポートBot評価等）を切り口にした記事マーケ",
+      "LLMOps系勉強会・JAWS-UG/生成AI勉強会への登壇でリファレンス獲得"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Langfuse/LangSmithが既に国内エンタープライズ要件（東京リージョン・JPY請求書・SSO）を満たしており差別化余地が狭い。後発で日本語特化を打ち出しても本家Trismikが日本法人化すれば一気に塗り替えられる。",
+      "50+モデルのAPI接続維持・課金・レート制限管理が個人運営に重く、モデル増減・価格改定追従の継続工数が無視できない。SOC2/ISO27001取得まで進めるとさらに工数増。",
+      "モデル比較は『選定が終われば不要』になりやすい単発ユースケースで、解約率（Churn）が高くなる構造的問題を抱える。継続課金の正当化に評価運用全般への機能拡張が必要で、結局Langfuseと正面衝突する。",
+      "Nejumi Leaderboard等の無料/OSS評価基盤が国内では権威化しており、有料SaaSの存在意義を訴求しづらい。日本語LLM-as-Judge精度で明確に勝つ技術的差別化を出せないと価格を取れない。",
+      "顧客アップロードデータに個情・著作物が混在する場合の法的責任切り分けと、エンタープライズ顧客が求めるDPA/監査対応の事務負荷が個人運営の上限を超えやすい。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

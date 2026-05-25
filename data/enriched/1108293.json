@@ -1,0 +1,260 @@
+{
+  "name": "NovaVoice",
+  "description": "Smart dictation, AI assistant, + app control via voice",
+  "ph_url": "https://www.producthunt.com/products/novavoice/launches/novavoice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/K7EU2IVQNJ6SLT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-07T07:01:00Z",
+  "upvotes": 603,
+  "comments": 143,
+  "topics": [
+    "Productivity",
+    "Writing",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>👋 Hey Product Hunt!</p><p></p><p>I'm Rustam, founder of NovaVoice.</p><p></p><p>A few months ago, I realized: voice is the interface nature gave us. It's fast, intuitive, effortless. Yet when we sit at our computers, we default to typing — even though speaking is at least 4x faster.</p><p></p><p>That felt wrong.</p><p></p><p>So my co-founders and I built <strong>NovaVoice</strong> — a Voice OS that writes, answers questions, and acts across your entire desktop. Not just dictation.</p><p></p><p><strong>What makes NovaVoice different:</strong></p><p></p><p>1. Context-aware writing — speak naturally in your email client, get professional emails. Dictate into Notion, get formatted Markdown. NovaVoice knows where you are and formats accordingly.</p><p></p><p>2. AI assistant on any screen — hit a hotkey, ask anything by voice. Translate text, get answers, research — no switching to browser or ChatGPT.</p><p></p><p>3. Voice commands across apps — you're coding. Say \"Ask Maria in WhatsApp if design is ready.\" NovaVoice opens WhatsApp, finds Maria, drafts the message. You just hit send.</p><p></p><p>4. Smart popover — Reformat any text instantly using preset styles or type any custom instruction on the fly. No switching to Grammarly or ChatGPT to polish your writing.</p><p></p><p>5. Custom Dictionary — NovaVoice remembers your shortcuts: contacts, addresses, loyalty numbers. Say \"email Maria\" or \"insert home address\" — no need to spell things out every time.</p><p></p><p>6. Cross-language quality — switch between languages mid-sentence. NovaVoice catches proper names, abbreviations, grammar automatically.&nbsp;</p><p></p><p>I use NovaVoice daily for prompting AI models, writing emails, code comments, quick Slack messages, repetitive actions in daily apps, and asking the assistant by voice instead of googling — without breaking flow or switching windows.</p><p></p><p><strong>What's next:</strong></p><p>- More app integrations and voice commands</p><p>- Near-instant transcription</p><p>- Personalization that learns your writing style</p><p></p><p><em>We built this for productivity, but realized it has real impact for people with limited mobility. Voice isn't just faster — for some, it's essential.</em></p><p></p><p>NovaVoice works on Mac &amp; Windows.&nbsp;</p><p></p><p>We'd love to hear your feedback!</p>",
+      "votesCount": 58,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch! <br><br>I'm a big fan of voice and getting things done through dictation. Curious how this compares and differs from <a href=\"https://www.producthunt.com/products/voiceos\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"voiceos\" target=\"_blank\" rel=\"noopener\">@VoiceOS</a>.... which the term itself is also highlighted on your webpage and marketing copy which I found interesting. <br></p>",
+      "votesCount": 18,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><a href=\"https://www.producthunt.com/@rustam_khasanov\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"rustam_khasanov\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rustam_khasanov</a> congrats with the launch! didn't get if it's mac os app or what? does it have full control over my mac os?</p>",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "NovaVoice is Your Voice OS that lets you work at the speed of thought. Typing is slow. Switching apps breaks focus. Formatting wastes time. Speak at 200+ wpm, get context-aware text. Hit hotkey, ask anything without googling. Execute actions without switching apps (just with voice commands). NovaVoice remembers contacts, addresses, links. NovaVoice writes, answers, and acts across your desktop.",
+  "featured_at": "2026-04-07T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/b80faac0-f678-4432-b65f-7b9321d45065.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/63eb86a7-baed-4256-bfac-c3fc329ebe9e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e702ee02-32dc-4474-a446-18c79fce03a2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a7fe9675-4317-4037-9cc0-7f96b9a5e767.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/57cae397-dbd6-4c07-93c8-7804f0981999.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/58e57850-f6a7-4f9e-a724-1ba0ed3f1927.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ee1f6d5c-9335-4d91-bd71-3b7bd06d0613.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/37bda01c-bd89-4e46-b473-6641e08eb1e8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/77f3596a-ea6f-470c-a07c-fbe6f9d3eaf0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/62b65def-1953-4caa-a66b-553f7aac9e26.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ce3fdd49-d923-468a-a462-c3ac4edda8f0.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:15",
+  "landing_meta": "NovaVoice App - AI Voice Assistant | Dictate 10x Faster — Nova is your voice-powered productivity copilot. Dictate 10× faster than typing with context-aware formatting. Execute real actions across apps by voice commands. Works on macOS, Windows, and Linux.",
+  "landing_text": "NovaVoice App - AI Voice Assistant | Dictate 10x Faster Your Voice OS for Desktop Smart dictation. AI assistant. App control. Download for Linux Other platforms Just talk, NovaVoice handles the rest Dictation Mode Your today's solution ⌨️ Typing manually 🎙 Built-in dictation 45 WPM 45 WPM ⌨️ Typing manually 🎙 Built-in dictation Raskolnikov, a destitute and desperate ▌ Dictating with Nova 200+ WPM · 4× faster Dictating with Nova Raskolnikov, a destitute and desperate former student, wanders through th ▌ new-era dictation Formatting Mode Reformat text to any style instantly — no need to switch to LLM or grammar tools. Pick or type any style We make AI that fixes how people write at work. Most tools add steps. Ours removes ▌ 🔥 YC Founder 💼 Professional 😊 Casual ✏️ Type custom... Just say what you want We built AI that ▌ make this text wittier ▌ one-off instruction, saved style, or say how you'd like to format it — one hot-key away Agent Mode Your voice across every app Real Actions nova-project — ReviewPanel.tsx EXPLORER ▼ src ▼ components ReviewPanel.tsx DesignSystem.tsx Header.tsx ▶ utils ▶ hooks package.json ReviewPanel.tsx × DesignSystem.tsx 1 import { useState } from 'react' 2 import { DesignToken } from '@design/tokens' 3 4 export function ReviewPanel () { 5 const [ status , setStatus ] = useState ( 'pending' ) 6 const [ design , setDesign ] = useState ( null ) 7 8 return ( 9 < div className = \"panel\" > 10 { /* render design */ } 11 </ div > 12 ) 13 } Sending to Maria \"Is the design final?\" Ask Maria on WhatsApp if the design is final ▌ Action Approval We never execute actions without your permission. You delegate the routine, but you stay in full control — 100%. nova-project File Edit View Run EXPLORER ▼ src ▼ components Hero.tsx App.tsx Button.tsx ▶ utils ▶ styles package.json Hero.tsx × App.tsx 1 import React from 'react' ; 2 import { Button } from './ui/button' ; 3 4 export function Hero () { 5 return ( 6 < div className = \"hero-section\" > 7 < h1 > Welcome to",
+  "pricing_signals": [
+    "pricing",
+    "free plan",
+    "$0",
+    "$10",
+    "$10/mo",
+    "$20"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:16",
+  "description_ja": "音声でディクテーション・AI質問・アプリ操作までこなすデスクトップ向け音声OS。",
+  "summary_ja": "Mac/Windows常駐型の音声OS。ホットキーで文脈認識ディクテーション、AI質問、アプリ横断のボイスコマンドを実行し、タイピングの4倍速で作業できる。カスタム辞書と多言語混在対応を備える。",
+  "tldr_ja": "音声入力は国内競合飽和（Aqua/Superwhisper/Wispr/ソースネクスト）、日本語精度で勝てなければ後発不利。watch止まり。",
+  "review_guide_ja": {
+    "what": "Mac/Windows常駐の「Voice OS」。ホットキー押下で(1)文脈認識ディクテーション（メールクライアントなら丁寧文、Notionならマークダウン、200+WPM）、(2)画面上のAIアシスタント呼び出し（翻訳・調査・要約）、(3)アプリ横断ボイスコマンド（WhatsAppでMariaにメッセージ送信、など）、(4)テキスト整形ポップオーバー（プリセット文体や任意の指示で書き直し）、(5)カスタム辞書（連絡先・住所・略語の音声ショートカット）、(6)言語混在対応を提供。デスクトップでのキーボード入力を音声で置き換える統合体験を狙う。",
+    "for_who": "デスクトップで大量の文章・チャット・コード補助コメント・AIプロンプトを書く知識労働者（エンジニア、ライター、コンサル、起業家、AIヘビーユーザー）。手の障害でキー操作が困難なアクセシビリティ需要層も明示的にターゲット。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "ASR(Whisper等)+LLM整形+OSアクセシビリティAPIで原理は実装可能だが、Mac/Win両対応、アプリ別文脈認識、ボイスコマンド実行のOS統合は工数大。"
+    },
+    "signals": [
+      "Product Hunt 603 upvote / 143コメントで強い反応",
+      "Wispr Flow が$81M調達、Voice OS領域が資金流入中",
+      "アクセシビリティ用途（手の不自由なユーザー）への波及が明示",
+      "OpenAI Realtime API/gpt-realtime-2 等で低レイテンシ音声基盤が整備",
+      "言語混在対応で多言語ユーザー（日本人の日英混在ユース）に刺さる可能性"
+    ],
+    "concerns": [
+      "Superwhisper/Aqua/Wispr Flow/VoiceInk/ソースネクスト「いきなりAI音声タイピング」など競合が完全に飽和",
+      "日本語の同音異義語・敬語・固有名詞精度で英語圏アプリは劣後しやすい",
+      "Mac/Win両対応＋OS統合は個人運用ではサポート負荷重い",
+      "Voice OS と名乗る競合（VoiceOS等）と差別化困難、トップコメントでも比較質問が出ている",
+      "クラウド処理の場合、企業ユーザーは情報漏洩懸念で導入ハードル高い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "Aqua Voice/Superwhisper/Wispr Flow/Hanaseru/ソースネクスト「いきなりAI音声タイピング」など国内向け音声入力ツールが2025-26年に多数登場し、Qiita/Zennで個人開発記事も継続的に投稿されており、需要シグナルは強い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Superwhisper、Aqua Voice、Wispr Flow、VoiceInk、Spokenly、ソースネクスト、日本語特化Hanaseru、自前Whisper実装まで選択肢が乱立。新規参入の差別化余地が極めて狭い飽和市場。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "音声をクラウド処理する場合、個人情報保護法上の利用目的の通知・公表義務が発生し、話者識別データは個人識別符号扱い。ただし業法による参入規制はなく、プライバシーポリシー整備で対応可能。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "日本語は同音異義語・敬語・句読点・固有名詞でASR精度が落ちやすく、英語圏発のアプリは弱点。Hanaseruなど日本語特化勢が品質競争の中心となっており、英語ベースのままでは勝ち目が薄い。"
+      },
+      "business_custom": {
+        "score": 7,
+        "reason": "個人課金文化は弱いが、エンジニア・クリエイター層は$8〜$15/月の音声入力サブスクをすでに受容。法人導入では情報セキュリティ稟議が壁となるためB2Cが中心。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Superwhisper",
+        "url": "https://superwhisper.com/",
+        "note": "Mac中心のオフラインWhisperベース音声入力。月$8.5/買い切り$249。日本のクリエイター・エンジニア界隈で利用が広がる。"
+      },
+      {
+        "name": "Aqua Voice",
+        "url": "https://withaqua.com/",
+        "note": "独自モデルAvalonで低遅延ディクテーション。月$10。Mac/Win/iOS対応で日本でも比較記事多数。NovaVoiceと機能重複度が最も高い。"
+      },
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "note": "$15/月・$144/年。Voice OS戦略で$81M調達。Mac/Win/iPhone/Androidで先行、NovaVoiceの直接競合。"
+      },
+      {
+        "name": "ソースネクスト いきなりAI 音声タイピング",
+        "url": "https://www.sourcenext.com/product/ikinari-ai/voice-typing/",
+        "note": "2026年4月発売の国内パッケージ製品。ソースネクスト販路で家電量販店流通、初心者層を獲得する強力な国内プレーヤー。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "音声からの話者特定情報抽出は個人識別符号に該当し、クラウド処理の場合は利用目的の通知・公表が必須。法人提供時は委託先監督義務・越境移転規制（クラウド事業者所在国）の整理が必要。"
+      },
+      {
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "音声データを外部送信する場合、2023年改正で導入された外部送信規律により、送信先・項目の表示義務が課される可能性あり。"
+      }
+    ],
+    "opportunity": "日本語特化＋日英混在シーン（エンジニアのコード+英語コメント、グローバル企業会議メモ等）にフォーカスする角度はある。加えてアクセシビリティ用途（手の障害・反復性ストレス障害）は補助金・社会的意義の文脈で差別化可能。汎用ディクテーション市場ではAqua/Superwhisper/Wispr/ソースネクストに勝ち目が薄いため、職種特化（医療カルテ、コールセンタースクリプト、エンジニア向けCursor/Cody連携）など垂直特化が現実的。",
+    "rationale": "需要シグナルは強く市場は伸びているが、Aqua/Superwhisper/Wispr/Hanaseru/ソースネクスト等の競合がすでに価格・品質・ローカライズで先行している。NovaVoiceが追加で持ち込む差別化（アプリ横断ボイスコマンド）はWispr Flowなどと重複し、後発参入の余地は狭い。日本市場固有の「日本語精度」では、英語圏発の汎用エンジンは不利でローカライズ投資が必要。watchに留め、垂直特化や日英混在UXで差別化できる場合のみbuild検討。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "Superwhisper $8.5/月、Aqua $10/月、Wispr Flow $15/月で日本のクリエイター層が課金している実績あり。¥1,000〜¥1,500/月の価格レンジは受容され、ARPU確保は可能だが個人課金文化は欧米より薄い。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "日本のPC知識労働者全体は数百万人だが、AI音声入力を月額課金で使う早期採用者は数十万人レベルと推定。十分大きいニッチだがTAMが急成長中とは言えず、控えめに見積もる必要。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "PLG型でX/Qiita/Zenn/note発信が機能する典型カテゴリ。インフルエンサーのレビュー記事で広がるが、既存比較記事はAqua/Superwhisperが中心枠を占めており、後発の認知獲得には強い差別化メッセージが必須。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "Wispr Flowが$81M調達でVoice OS戦略を全面展開、Aqua/Superwhisperはすでに日本語ユーザーを獲得、ソースネクストが2026年4月に国内流通を開始。時間窓は既に閉じかけており後発不利。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "Mac/Windows両対応のデスクトップアプリ、OSアクセシビリティAPI、ASR/LLM推論コスト管理、各アプリ別ボイスコマンド統合の保守が必要。クラッシュレポート・OS更新追随が継続発生し個人運用は厳しい。"
+      }
+    },
+    "rationale": "課金カテゴリとしては成立しているが、Wispr Flow/Aqua/Superwhisper/ソースネクストが先行ポジションを既に確保しており、時間窓が極めて狭い。Mac/Win両対応＋OS統合の保守コストは個人運用には重く、CSや障害対応の負荷でスケール困難。垂直特化（医療・コールセンター・エンジニア向け）で価値を明確化できれば月数十万円規模のニッチ事業として成立可能性はあるが、汎用音声OS市場での後発参入は事業性が低い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1200,
+      "plans": [
+        "Free: 月3,000語まで無料",
+        "Pro: ¥1,480/月（年¥14,800） 無制限ディクテーション+AI整形",
+        "Team: ¥2,480/人月 共有辞書+管理コンソール",
+        "Lifetime: ¥34,800 買い切り（Superwhisper対抗）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本のAI早期採用者・知識労働者（エンジニア、ライター、コンサル、起業家、AIヘビーユーザー）。特にCursor/Claude/ChatGPTを日常使いし、長文プロンプトや英文Slackを高速入力したいバイリンガル寄りの層。約20万人規模と控えめに見積もる（根拠未確認、控えめ）。",
+      "target_count": 200000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 720000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn連載：Cursor/Claude Codeでの音声駆動開発実演",
+      "X発信：日英混在ディクテーション動画で差別化",
+      "PLG無料枠：3,000語/月で導入障壁ゼロ化",
+      "note/YouTube：エンジニア系インフルエンサー比較レビュー依頼",
+      "アクセシビリティ団体連携：補助金活用事例で社会的訴求",
+      "Product Hunt Japan再ローンチ：日本語LPと日本語デモ動画で再露出"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Wispr Flow/Aqua/Superwhisperが日本語精度をさらに強化しNovaVoiceの差別化が消失するリスク。差別化軸を「日英混在」「垂直特化」に絞らないと埋もれる。",
+      "Mac/Win両対応のOS統合保守コストが個人運用では持続不可能。OSアップデート毎にクラッシュ報告対応が発生し、コア機能開発が止まる。",
+      "ソースネクスト経由の国内パッケージ流通で初心者層を一気に取られると、価格勝負に持ち込まれて月¥1,000以下のレースに巻き込まれる。",
+      "クラウド処理ASRの場合、企業ユーザーのセキュリティ稟議で除外されB2C個人課金に閉じ込められARPU天井が低くなる。",
+      "本家Wispr Flowが日本法人設立 or 日本語チーム強化で本格進出した場合、$81Mの資本力で個人開発者は対抗不可能。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-26T06:30:00Z",
+  "review_guide_at": "2026-05-26T06:30:00Z",
+  "business_viability_at": "2026-05-26T06:30:00Z",
+  "advisor_view_at": "2026-05-26T06:30:00Z"
+}

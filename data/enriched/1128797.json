@@ -1,0 +1,238 @@
+{
+  "name": "FocuSee 2.0",
+  "description": "Record screen to get polished demos & tutorials",
+  "ph_url": "https://www.producthunt.com/products/focusee/launches/focusee-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/CQAQYQT3PJXRQM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-23T07:01:00Z",
+  "upvotes": 344,
+  "comments": 33,
+  "topics": [
+    "Productivity",
+    "Maker Tools",
+    "Video"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunters! 👋</p><p></p><p>We’re really happy to be back here 2 years after our first launch, this time with FocuSee 2.0.</p><p></p><p>Over the past two years, we’ve kept working on one idea: making “<strong>record your screen and get a polished video automatically</strong>” feel more complete, more natural, and more aligned with how people actually create today.</p><p></p><p>Along the way, we talked with many users and learned the same thing over and over: people don’t just want to record their screens. They want to quickly turn rough recordings into polished videos for product demos, tutorials, walkthroughs, online courses, marketing videos, and more — without spending hours editing afterward.</p><p></p><p>That’s really what shaped FocuSee 2.0.</p><p></p><p>We kept refining the product around real workflows and habits, and this release is the result of that work.</p><p></p><p><strong>What’s new in FocuSee 2.0?</strong></p><p>✔️ <strong>Record mobile demos and tutorials as easily as desktop workflows</strong>, with iOS and Android screen recording now built in.</p><p>✔️ <strong>Go beyond flat zoom with 3D Motion</strong>, adding more cinematic depth when you want stronger visual storytelling.</p><p>✔️ <strong>Keep your delivery natural and confident </strong>with in-built teleprompter, so you spend less time stopping and starting over.</p><p>✔️ <strong>Make every step easier to follow</strong> with annotations, magnifier and highlight effects, auto subtitles, and visualized keyboard shortcuts.</p><p>✔️ <strong>Keep sensitive information out of view </strong>more easily with blur effects.</p><p>✔️ <strong>Make rough recordings look and sound more refined </strong>with AI background removal or replacement, voice enhancement, noise reduction, and filler word &amp; silence removal.</p><p>✔️<strong> Choose the presentation style that best fits your story </strong>with AI avatars and dynamic camera layouts.</p><p></p><p>All of these improvements are built around the same idea: <strong>helping you create more polished, professional videos without making your workflow heavier.</strong></p><p></p><p>We’re genuinely grateful to everyone who shared feedback, feature requests, and real use cases with us over the past two years. <strong>FocuSee 2.0 is a much better product because of those conversations.</strong></p><p></p><p>🎁 <strong>As a thank-you to the Product Hunt community, we’re also offering an extra 30% off.</strong></p><p>Use code <strong>PH30OFF </strong>at checkout (valid for the next 3 days).</p><p></p><p>We’d love to hear what you think and answer any questions. Thanks so much for checking out FocuSee 2.0!</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "This screen recording + auto zoom combo looks genuinely useful for SaaS demos. \nQuick question, does the filler word removal work well for non-native English speakers, or does it over-correct? That's usually the dealbreaker for me with AI voice tools.",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The gap between 'I just recorded this' and 'this looks professionally edited' has always been the biggest friction point for indie makers. Focusee 2.0 seems to nail that last mile especially the filler word removal, that one's a dealbreaker for me with AI voice tools since I'm not a native english speaker lol. The 3D motion is a nice touch too, adds that cinematic feel without having to touch a timeline<br><br>Congrats on the launch! 👏</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "FocuSee 2.0 makes it easier to create professional-looking, share-ready product demos, tutorials, and marketing videos with AI-powered capabilities like mobile screen recording, 3D Motion, annotations, auto subtitles, background removal, voice enhancement, filler word removal, and noise reduction. You can get a polished video just minutes after you finish recording, without hours of manual editing.",
+  "featured_at": "2026-04-23T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/3c59e7f6-aa4e-498b-b702-c11053826f89.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/40f24c5a-d512-4b01-99d4-1c36b4a25e4d.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2652f4b1-d3d6-4531-bb95-45cc488bba37.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2664d041-9223-4ddb-89ca-bd685d35f8cf.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e0323038-798e-4027-9f65-5dc46c0a7231.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6aa159e4-03d5-4d13-bbfa-8cf8878d30a6.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/0edd75ca-8d95-43e6-b098-71703779b5b9.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:17",
+  "landing_meta": "FocuSee ® | Auto-Editing Screen Recorder (Windows & Mac) — FocuSee is an AI-powered screen recorder with automatic zoom, cursor tracking, and AI audio enhancement. It also features a teleprompter, making it easy to deliver smooth presentations. Perfect for creating professional product demos, tutorials, online courses, and marketing videos in minutes.",
+  "landing_text": "FocuSee ® | Auto-Editing Screen Recorder (Windows & Mac) Record Your Screen. Get Polished Videos — Automatically. You record, FocuSee perfects the rest automatically. No setup, no learning curve, no hours of editing. You get a stunning, share-ready video the moment you hit stop. Auto Pan & Zoom Cursor Effects Dynamic Layout AI Audio Enhancement Annotation Suite Free Download Available on: See Pricing 60-Day Money Back Guarantee AI Visual Focus: Bring Cinematic Effect and Clear Emphasis to Your Videos Keep your audience focused on what matters most. With AI tracking, upgraded auto-zoom, and cursor styles, the view follows your important actions, ensuring every crucial moment is prominently displayed. Automatic Zoom Auto zoom follows every click to emphasize key moments. No manual setup. Guide attention and keep videos polished. 3D Motion Add tilt and perspective to create cinematic 3D motion that follows your cursor. Skip pro editing. Instant visual impact in one click. Annotation Suite Add text, shapes, arrows, and spotlights to deliver clear on‑screen explanations, stacking multiple elements at once for precise focus. Keep every step easy to follow. Automatic Zoom Auto zoom follows every click to emphasize key moments. No manual setup. Guide attention and keep videos polished. 3D Motion Add tilt and perspective to create cinematic 3D motion that follows your cursor. Skip pro editing. Instant visual impact in one click. Annotation Suite Add text, shapes, arrows, and spotlights to deliver clear on‑screen explanations, stacking multiple elements at once for precise focus. Keep every step easy to follow. Intelligent Cursor, Personalized Style FocuSee's intelligent cursor understands the perfect balance of presence and absence. It appears gracefully when direction is needed and fades during focused moments. When it appears, you can go beyond the default look with a wide range of cursor appearances, lively click animations and sounds. Learn More Dress Up Your Cursor Prev",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-26T04:00:18",
+  "description_ja": "画面録画から自動編集で洗練されたデモ・チュートリアル動画を作成",
+  "summary_ja": "画面録画後にAIが自動でズーム・字幕・ノイズ除去・フィラーワード除去・3D Motionなどを適用し、編集不要でプロ品質のデモ動画を生成するWindows/Mac対応ツール。iOS/Android録画やテレプロンプターも内蔵。",
+  "tldr_ja": "iMobie既参入で日本語版・国内競合多数。海外Screen Studio/Tella勢が強く新規個人参入は厳しい、no_fit寄り",
+  "review_guide_ja": {
+    "what": "画面録画後にAIが自動でカーソル追従ズーム、3D Motion、注釈、字幕、ノイズ・フィラーワード除去、AI背景除去、AIアバターを適用し、編集ゼロでプロ品質のデモ・チュートリアル・マーケ動画を生成。2.0でiOS/Android録画とテレプロンプターも追加。Windows/Mac対応で、Screen Studio(macOS専用・買い切り中心)に対する全プラットフォーム＋AI強化版という位置づけ。SaaSプロダクトデモ、オンライン講座、製品マニュアル、X投稿用ショート動画など、録画→共有までのワークフローを最短化することを狙う。",
+    "for_who": "SaaS個人開発者・インディーメーカー、オンライン講師、マーケター、社内オンボーディング担当、UI/UXデザイナーなど、頻繁にデモ・解説動画を作成するがプロ編集ソフトに時間を割けない層。特にSNSやLPでデモ動画を出したいが編集スキルが無い小規模チーム向け。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "カーソル追従自動ズーム、AI字幕、フィラーワード/無音除去、AI背景除去、3D Motion、AIアバター等を統合実装する必要があり、ネイティブ録画＋動画エンジン＋音声AI＋字幕モデルを束ねる工数が大きい。OpenScreen等のOSSはあるが完成度差は大きい。"
+    },
+    "signals": [
+      "2年で2回目のローンチで344upvote、コア機能(自動ズーム)に対する継続的需要",
+      "iMobieは既に日本語版を提供しdreamnews/macotakara/note等で和文記事が複数出ている",
+      "Screen Studio買い切り244ドルに対する『高い』との国内SNSでの声があり代替需要が顕在",
+      "iOS/Androidネイティブ録画追加でモバイルSaaSデモ需要も取り込み",
+      "1億総クリエイター時代と言われる動画コンテンツ拡大トレンド"
+    ],
+    "concerns": [
+      "Screen Studio/Tella/Loom/Camtasia/DemoCreator/OpenScreen等の競合が極めて多い",
+      "本家iMobieが既に日本語UI・日本円価格・国内PR記事を展開済で、新規個人参入の差別化余地が小さい",
+      "OpenScreen(MIT)等OSSの台頭で『無料で十分』ユーザー層が増加",
+      "AI字幕・音声処理にはGPU/モデルAPIコストがかかり個人開発は粗利が薄い",
+      "AppleのmacOS録画API変更等プラットフォーム依存リスク"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "日本でも『1億総クリエイター時代』『SaaSチュートリアル動画需要』が顕在で、Screen Studio/Loom/FocuSeeに関する日本語レビュー記事や個人クリエイターの言及が複数確認できる。動画編集市場もAI搭載含め年率成長中で需要シグナルは強い。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Screen Studio、Tella、Loom、Camtasia、Snagit、DemoCreator、Bandicam、Filmora、VideoProc、OBS、OpenScreen(OSS)、QuickRecorder(OSS)、本体FocuSee日本語版自身が国内で激しく競合し飽和。新規個人開発が割り込む余地は極小。"
+      },
+      "regulation": {
+        "score": 10,
+        "reason": "ローカルアプリ＋AI音声処理が中心で、画面録画ツール特有の規制(個情法/特商法/著作権法)はあるが、SaaS提供者として通常遵守すれば足り、特殊規制(金商法/医療機器/古物等)は無関係。実装上の障壁は低い。"
+      },
+      "localization": {
+        "score": 9,
+        "reason": "UI翻訳・日本語フォント対応・日本語字幕(音声認識)が要件のほぼ全てで、深いUX改修は不要。実際FocuSee本家が日本語版を既に出していることからローカライズ容易性は実証済み。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "SaaSサブスクは国内でも定着しつつあるが、ソフト購入文化として『買い切り』志向が依然強く(Threads等で『サブスク化が悲しい』の声)、Screen Studioサブスク化に対する反発も観測。価格モデル設計に注意要。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "FocuSee(本家・日本語版)",
+        "url": "https://focusee.imobie.com/jp/",
+        "note": "iMobieが2024年11月に日本語版を正式リリース済。dreamnews/note/macotakara等でPR記事多数。永久ライセンス約11,000円〜13,999円、月額プランあり。"
+      },
+      {
+        "name": "Screen Studio",
+        "url": "https://www.screen.studio/",
+        "note": "macOS専用のデファクト。X/Threadsで国内クリエイターに広く採用。買い切り244ドル/サブスク9ドルで価格議論が活発。"
+      },
+      {
+        "name": "Tella",
+        "url": "https://www.tella.tv/",
+        "note": "ブラウザ録画＋自動ズーム＋AIフィラー除去、$13/月でLoomより安いAI。国内SaaSデモ用途で言及増加中。"
+      },
+      {
+        "name": "Loom (NRI aslead取扱い)",
+        "url": "https://aslead.nri.co.jp/products/loom/",
+        "note": "野村総研aslead経由で国内法人向けに販売されており非同期動画コミュニケーションのデファクト。1400万ユーザー。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "AI音声/映像処理を行う場合、録画データの取扱い・越境移転の同意取得が必要。クラウド側でAI処理する設計ならプライバシーポリシー整備とSCC等の手当てが要る。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "SaaSとして月額/年額/買い切りを販売する場合、特商法表記(返金条件/事業者情報)が必須。FocuSee本家は60日返金保証を明示している。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "ユーザーが録画する画面に第三者著作物(ゲーム/動画/書籍)が含まれるリスクがある。利用規約で責任範囲をユーザー側に明確化する必要。"
+      }
+    ],
+    "opportunity": "国内で個人開発者が割り込める角度は限定的だが、(1)『買い切り志向×AI機能』で本家サブスク移行に不満な層を拾う、(2)X/Qiita/Zenn向けに『コード解説GIF/MP4自動生成』へ特化(IDE連動・行ハイライト追従ズーム等)、(3)国内独自にXのアスペクト比/ショート尺最適化テンプレを揃える、(4)請求書払い・国内法人向け年契約に対応する、といったニッチを狙う余地はある。ただし汎用画面録画では勝ち目薄く、明確な縦割り(コード/モバイルアプリ/EC操作デモ等)へ特化が必須。",
+    "rationale": "需要は強い(7)・規制は軽い(10)・ローカライズも容易(9)で『市場機会』単体では悪くないが、競合密度が極端に高く(2)、しかも本家FocuSeeが日本語UI/日本円価格/PR記事を既に整えている点が致命的。Screen Studio/Tella/Loom/Camtasiaのグローバル勢に加え、OpenScreen等OSSも急成長中で『無料で十分』圧力が強い。日本独自軸(買い切り嗜好/法人請求書/ニッチ縦割り)で攻める余地はあるが、汎用ジェネリック画面録画として新規個人参入する道は実質塞がっている。verdict=skip。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "国内ARPUはFocuSee本家月額相場で月額数千円〜年額1万円台、買い切り1〜2万円が観測される。サブスクには抵抗感もあり、買い切り＋AIアドオンの組み合わせが現実的。粗利はAI推論コストで圧迫されやすい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "SaaS個人開発者+オンライン講師+マーケター+社内オンボ担当を合算すれば国内対象は数十万人規模はあると推定(検索で根拠未確認、控えめに見積もり)。グローバル動画編集ソフト市場29億ドル規模の一端で、ニッチではないがニーズ密度はそこそこ。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PLG(無料DL→Pro)は可能だが、既に本家・Screen Studio・Tella・LoomがX/Qiita/note/Threads上で広範に露出済で、有機リーチを獲得するのは難しい。差別化軸が無いと広告依存になり個人開発では費用負担が重い。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "本家FocuSeeが既に日本語版+PR展開済、Screen Studioも国内認知確立、OpenScreen等OSSも台頭。タイミングウィンドウはほぼ閉じている。あと出しジャンケンで個人開発者が勝てる時間窓は実質残っていない。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "ローカルアプリ＋クラウド側AI処理のハイブリッドだと、AI APIコスト管理・GPU/モデル更新追従・OS別ビルド/ノータリゼーション/コード署名・課金問い合わせ対応が常時発生。完全ローカルなら手離れ良いが、AI品質で見劣りしやすい。"
+      }
+    },
+    "rationale": "課金嗜好は中程度、市場規模も中程度、ただしGTMとtimingが致命的に弱い。本家iMobieが既に日本語版・日本円価格・国内PRを抑えており、Screen Studio/Tella/Loomという強力なグローバル勢、加えてOpenScreen(MIT)等OSSが急速にスター数を伸ばしている飽和ハイ・コンペティションマーケット。個人開発者が汎用画面録画ツールとして新規参入する事業性は4(skip相当)。AI推論コストと多OSビルド・配布・サポート負荷を考慮すると粗利確保も困難で、明確なニッチ縦割り(例: コード解説特化、EC操作デモ特化、国内法人請求書対応)に絞らない限り事業として成立しにくい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 800,
+      "plans": [
+        "Free: 3分以内/720p/ウォーターマーク付き、月10本まで",
+        "Pro: ¥1,280/月 または ¥12,800/年(個人) フルHD・無制限・AI機能",
+        "Business: ¥3,800/月/席(請求書払い対応・SSO・複数端末)",
+        "Lifetime: ¥14,800買い切り(1台/1メジャーバージョン・国内サブスク抵抗層向け)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本のSaaS個人開発者・インディーメーカー＋オンライン講師＋小規模マーケター(特にX/Qiita/Zenn上でデモ動画を頻繁に発信する層)。汎用ではなく『コード解説/プロダクトデモ動画特化』のニッチで攻めることを想定。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 120000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn連載: 『デモ動画の作り方』記事でSEOと信頼獲得",
+      "X発信: 自動ズーム前後比較GIFで個人開発者層にバイラル狙い",
+      "PLG: 無料枠でウォーターマーク付き・Pro変換は月数千円のライト価格",
+      "ライフタイム買い切り併売で『サブスク疲れ』層を拾う",
+      "国内SaaSコミュニティ(SaaS.tech, Indie Hackers Japan等)へ参加・スポンサー"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家FocuSeeが日本語版・日本円価格・PR記事を既に展開済で、ジェネリック競合は事実上不可能。明確なニッチ縦割りが必須。",
+      "Screen Studio/Tella/Loomという認知済み強豪に加え、OpenScreen(MIT/星3.4万)等OSSが急成長し『無料で十分』圧力が強い。",
+      "AI字幕・音声処理・背景除去・3D Motionの実装工数とモデル運用コストが個人開発の体力を超えやすい(GPU/API課金で粗利圧迫)。",
+      "macOS/Windowsの録画API・コード署名・ノータリゼーション・自動更新の運用が継続的に負荷。OS変更時に対応必須。",
+      "サブスク嗜好と買い切り嗜好の二極化、Screen Studioサブスク移行への国内反発のように、価格モデル設計を誤ると一気に評判を落とす。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

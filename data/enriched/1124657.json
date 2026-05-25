@@ -1,0 +1,253 @@
+{
+  "name": "E.Y.E. by Expert Chase",
+  "description": "Where human life runs with AI",
+  "ph_url": "https://www.producthunt.com/products/expert-chase-deleted-1107920/launches/e-y-e-by-expert-chase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/GCQEFP2KEUCOT4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-17T07:01:00Z",
+  "upvotes": 239,
+  "comments": 35,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Vercel Day"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>I’m launching something new. app.expertchase.com<br><br>A new kind of app for everyday life.<br>Expert Chase, Inc. The Life OS.<br><br>A new category I call the ‘everyday app’, powered by E.Y.E., a human-centered AI.<br><br>Expert Chase brings Consumer AI into how people actually live.<br><br>The goal is simple: make AI truly useful in real life.<br><br>We help organize every part of your life. We’re here to replace all your to-do apps, calendar apps, food trackers, sleep trackers, habit trackers, finance trackers, fitness trackers, notes, everything. One subscription. Unlimited AI. Plus integrations.<br><br>E.Y.E. remembers you. It knows who you are, and it also draws on your real-life data.<br><br>You interact naturally with your AI through conversation while it helps manage your everyday life, including managing your calendar, creating and organizing tasks, building habits, logging workouts, tracking nutrition (you can even log meals directly in the AI chat using the camera to scan food), monitoring sleep, logging financial transactions, and much more.<br>All through simple conversations with an AI that understands context, remembers you, adapts as you interact with it, suggests, gives insights, summarizes, analyzes, and plans.<br><br>EYE answers based on your data.<br>Not generic responses.<br><br>Soon, you will be able to connect your entire digital ecosystem in one place. Google Calendar &amp; Tasks and Apple Calendar &amp; Reminders are already available to connect, keeping your schedule and tasks automatically in sync.<br>Next, financial transactions will be available to sync securely, and health data will be available to connect across fitness and sleep, so your workouts and sleep hours are tracked seamlessly. Everything in your life will be connected and run automatically, while you stay in control.<br><br>At the core, E.Y.E. acts as the central intelligence for your life. It understands context, maintains persistent memory, connects your data, and actively manages everything together in real time.<br><br>Expert Chase is where your life runs, with AI.<br>2026 is the year Consumer AI begins.<br><br>■ expertchase.com<br>■ app.expertchase.com</p>",
+      "votesCount": 22,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Sounds groundbreaking and very ambitious. Do I understand correctly that as a user I dock this app with my various apps, be it health, finance etc. and the AI makes decisions based on real data? Do you think people will be willing to share all their private data with LLMs? Good luck today!</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Do you plan to integrate more tools? E.g. notion etc.?</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "We're on a mission to make AI actually useful in real life. We help people organize every aspect of their everyday life in one place with our AI, E.Y.E. He draws on users’ real-life data and answers based on that data, not generic responses. We’re here to replace all to-do apps, calendar apps, food trackers, sleep trackers, habit trackers, finance trackers, fitness trackers, notes, everything. One subscription. Unlimited AI. Plus Integrations. btw EYE stands for “Empower Your Everyday”.",
+  "featured_at": "2026-04-17T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/7ebd6c2b-7cda-464b-8322-5b36893a4147.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/650d64aa-0dc7-47c9-9cd5-2858d93f3e45.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/712f7edb-5941-47fd-a6ef-f976776c3219.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/392c4740-c701-4192-aefc-d8d2cb4eed53.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a6547397-b573-4c34-8b9b-2ee351860b5f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/30688065-bfe6-4c5d-a426-9aee1e59c085.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5ff320e6-4d0b-4c82-a0f0-da8ad429e4d0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f0678113-ce90-4320-b4b3-f0d220afbf80.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/eae8cc71-5f74-4461-9072-53e85c64faef.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0080a026-dbfe-4792-b790-b3474c351547.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8d12e9bc-fc67-4df7-88f4-b8ac9d429bec.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/b23138c5-b8a2-4f6b-957f-70d5595bd7a0.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:19",
+  "landing_meta": "Expert Chase | Empowering Your Everyday — The everyday app with a mission to empower your everyday life.",
+  "landing_text": "Expert Chase | Empowering Your Everyday Where AI Meets Life Organize every aspect of your everyday life in one place. Get Started AI AI Meet EYE Your browser does not support the video tag. Everyday Intelligence Your personal AI. By your side, in real-time, getting things done. Built for everyday Effortless daily flow Seamless, intuitive control at your fingertips. Manage your entire life with natural conversation. Real-time intelligence Instant responses. Context-aware actions. Always learning. By your side Your personal AI, managing your daily life across the app. Get things done One app. Every task. Zero friction. See How EYE Works EYE understands your needs and seamlessly organizes your world. Watch video Human first You're the center of it all. One AI that understands your context, remembers what matters, connects your data, and brings it all together in real time. What powers it 01 Context 02 Memory 03 Connection 04 Real-time Built for clarity · Designed around people Calendar, tasks & notes Your schedule, tasks, and notes in one place. Connected with · Real-time updates Calendar View and manage your events. Tasks Stay on top of your to-dos. Notes Capture and find anything. Life OS, out of the box. Ready-to-use pages with databases and visuals. Light mode VS Dark mode Dark mode Light mode VS Side-by-side comparison: Life OS in light mode on the left and dark mode on the right, split by a diagonal line. Life OS On the Go 1 / 5 Life OS On the Go Where human life runs with AI Start with Expert Chase Open App",
+  "pricing_signals": [
+    "premium",
+    "$1",
+    "$2",
+    "$6",
+    "$4",
+    "$14"
+  ],
+  "landing_fetched_at": "2026-05-26T04:34:20",
+  "description_ja": "AIが日常を支える「ライフOS」。会話だけで予定・タスク・健康・家計を一元管理。",
+  "summary_ja": "Expert ChaseのE.Y.E.は、To-Do・カレンダー・食事・睡眠・運動・家計を会話AIで一括管理する個人向けライフOS。Google/Appleカレンダー連携済で、健康・金融データも順次接続予定。",
+  "tldr_ja": "国内は専業強豪(あすけん/MF ME/TimeTree)が縦割りで強く、GoogleもパーソナルAIで参入。個人開発での突破は極めて困難。",
+  "review_guide_ja": {
+    "what": "E.Y.E.は会話型AIをハブにして、カレンダー・タスク・ノート・習慣・運動・睡眠・食事(写真ログ)・家計を1つのアプリで管理する『ライフOS』。Google Calendar/Tasks、Apple Calendar/Remindersに既に接続でき、今後は金融取引データやヘルスケア(運動・睡眠)も同期予定。AIは会話の文脈を持続的に記憶し、ユーザー固有データに基づいて要約・提案・分析・計画を行う。サブスク1本で『無制限AI+各種連携』を謳い、複数のトラッカー系アプリを置き換える単一プラットフォーム化を狙う。代表ユースケースは『今週の予定整理』『食事写真からカロリー記録』『支出の自動分類と振り返り』『習慣の進捗確認』などを1つのチャット画面で完結させること。",
+    "for_who": "複数のトラッカー(食事・睡眠・家計・タスク)を併用するのに疲れた個人ユーザー。とくに『日々の記録を会話で済ませたい』生産性志向の20-40代、AIに自分のデータを預けることに抵抗が少ないアーリーアダプター層が中心。法人ではなくコンシューマー向け。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "単機能アプリの寄せ集めではなく、長期メモリ、Google/Apple連携、金融・健康APIの認可、AIコスト最適化など、複数の重い実装が必要。個人開発で品質を維持して全領域を覆うのは現実的に困難。"
+    },
+    "signals": [
+      "PHで239 upvotes/35コメントとコンシューマーAI Life OSへの関心は強い",
+      "Google Calendar/Apple Calendar連携が既に動作しランディングも完成度高い",
+      "2026年は『Consumer AIが本格化する年』との市場認知が高まっている",
+      "1サブスクで全部入りという束ね方は『AI課金疲れ』への明確なアンサー"
+    ],
+    "concerns": [
+      "あすけん(1300万会員)、マネーフォワードME(1000万超)、TimeTreeなど縦割り強豪が国内に存在",
+      "金融・健康データの集中管理はプライバシー懸念が大きく日本では特に保守的",
+      "GoogleがパーソナルAI(Gemini)を無料で展開する方針で、コンシューマー市場は競合密度が極端に高い",
+      "個人開発でカレンダー/家計/健康/食事/AIすべてを高品質に維持するのは現実的に不可能",
+      "海外発UI/UXで日本語LLMの精度・日本固有データ(コンビニ食、和食栄養表)対応の作り込みが必要"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "AI家計簿・AI食事記録(あすけん1300万会員)・タスク管理(TimeTree 1000万超)など個別領域の需要は強く、AIで束ねる発想自体には潜在需要がある。ただし『AIに全データを預ける』ことへの抵抗感は日本では相対的に強い。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "あすけん、マネーフォワードME、Zaim、TimeTree、Todoist、FiNC、ワンバンク等、各領域に圧倒的強者が存在。さらにGoogle Gemini/ChatGPTがパーソナルAI化を進めており、無料化方針も発表。競合密度は飽和に近い。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "2026年改正個情法でAI学習目的のデータ利用は緩和されたが、金融取引・健康・位置情報を集中保有するため、個情法の同意取得・第三者提供・要配慮個人情報(健康)・特定電子メール法等への対応が必要。生体・健康データの取扱強化も入った。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UIの日本語化は容易だが、コンビニ食・和食の栄養データ、日本の金融機関API(MF Meは2500行以上連携)、日本の習慣的な家計分類、和暦・祝日・有給文化など、見えにくいローカライズコストが大きい。AI応答の日本語自然性も要求水準が高い。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "個人向けで商習慣依存は薄いが、日本では『複数アプリを使い分け』『プライバシー重視』『無料を好む』傾向が強く、月10ドル超のオールインワン課金は受容性が中程度。ChatGPT日本デイリー利用1%という低エンゲージメント傾向も逆風。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "あすけん",
+        "url": "https://www.asken.jp/",
+        "note": "AI食事記録の国内王者。累計1300万会員、Nutrition&Diet部門DL/売上/MAU No.1。写真からのメニュー自動判別も搭載。食事領域では完全に上位互換。"
+      },
+      {
+        "name": "マネーフォワード ME",
+        "url": "https://moneyforward.com/me",
+        "note": "家計簿/資産管理の国内デファクト。2500以上の金融機関と連携、AI自動分類。家計領域のロックインが極めて強い。"
+      },
+      {
+        "name": "TimeTree",
+        "url": "https://timetreeapp.com/",
+        "note": "国内発カレンダー共有アプリ。グローバルで5500万ユーザー超、家族・カップル利用に強い。日本のカレンダー文化に深くフィット。"
+      },
+      {
+        "name": "Google Gemini パーソナルインテリジェンス",
+        "url": "https://gemini.google/jp/overview/personal-intelligence/",
+        "note": "Gmail/カレンダー/写真/検索/YouTubeのデータを横断するパーソナルAI。Googleは個人向けAIエージェントを無料展開し数十億人にリーチする方針。最大の構造的脅威。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法(2026年改正)",
+        "impact": "AI学習目的の第三者提供は緩和されたが、健康・金融・位置情報の集中保有では『要配慮個人情報』『センシティブデータ』としての同意取得・保存・削除権対応が必須。違反時は課徴金制度の対象。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "チャットUIで第三者通信を媒介する性質があり、外部送信規律(Cookie・ID等の送信開示)への対応が必要。利用者情報の外部送信に明示同意/通知が要る。"
+      },
+      {
+        "law": "資金決済法・銀行法(API連携)",
+        "impact": "金融機関アカウント連携を提供する場合、電子決済等代行業者(口座情報取得型)としての登録が現実的に必要。個人開発者には登録ハードルが極めて高い。"
+      }
+    ],
+    "opportunity": "正攻法での『日本版オールインワンLife OS』は不可能だが、(1)単一領域に絞ったAI×ライフログ(例: 『仕事のタスク+カレンダーだけをAIで束ねる』軽量版)、(2)あすけんやマネーフォワードでは拾えない『コーチング/振り返り会話』に特化したセカンダリ層、(3)富裕層・士業向けに『秘書代行』として人手×AIで運用する高ARPUニッチ、あたりに角度はある。コンシューマー全方位ではなく『情報系職種の中で1日10回データを記録する人』など狭く切るのが現実的。",
+    "rationale": "需要シグナル自体は強い(あすけん1300万、MF MEは1000万級、TimeTreeは数千万級)が、それらは『縦割りで深く強い』。E.Y.E.の『全部入り』アプローチは、各領域のデファクトに対して機能深さ・データ網(国内金融API 2500行、コンビニ食栄養DB等)で勝てる見込みが薄い。さらに2026年はGoogleがパーソナルAIを無料展開する方針を明言しており、コンシューマー市場は無料化圧力が極大化する局面。法規制も金融API連携で電代業登録、健康データで要配慮個人情報、外部送信規律など個人開発者には重い。日本独自の角度を持たずに直訳ローカライズした場合の勝ち目は低く、verdictはskip。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "日本のサブスク受容ゾーンは月3000-5000円台(ChatGPT Plus, Notion AI等)で、束ね型なら成立余地はある。ただしアプリ→サブスク転換率は約2%が業界相場で、コンシューマーAIは無料化圧力が強く、Google Gemini無料化も決定的逆風。ARPU確保は困難。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内スマホユーザー約9000万、生産性アプリ層は数千万規模で母集団は十分。ただし実際に有料化するアーリーアダプターは数十万〜100万人程度が現実的上限で、各カテゴリの王者と取り合う構造のため『自分のシェア』としてのTAMは大幅に縮む。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "コンシューマー全方位はストア検索/口コミ/広告が主戦場で、個人開発者がCAC勝負で勝てる相手ではない。Qiita/ZennはB2D寄りで一般消費者リーチ困難。X発信で初動は作れるが、リテンションを支えるCS体制を個人で持てない。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "Google Gemini パーソナルインテリジェンスは既に動いており、Apple Intelligenceも順次拡大中。ChatGPTのメモリ/コネクタも展開済。本家進出というより既に来ている。残された時間窓は0-6ヶ月程度で実質ない。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "金融API連携(電代業相当)、健康データの安全保管、AI APIコスト管理、24時間データ同期、ユーザーサポート(機微データ問い合わせ)を個人で持続するのは事実上不可能。インシデント1件で個人開発者が法的責任を負うリスクも重い。"
+      }
+    },
+    "rationale": "事業として最大のボトルネックは『個人開発で物理的に運用継続が不可能』な点。金融API連携には電子決済等代行業者の登録、健康データは要配慮個人情報、AI推論コストはユーザー数比例で重く、24時間データ同期の信頼性が要求される。これに加えてGoogleが個人向けAIを無料展開する方針を明言しており、ARPU確保の見通しも厳しい。仮に課金できても、ChatGPT Plus(月3000円)、Notion AI、Gemini Advancedの『2つ目以降のAI課金』として選ばれる必要があり、新規参入者には非常に不利。日本のサブスク転換率2%×アクティブMAU目標を逆算すると、個人開発のCAC許容額では収支が合わない。verdictは事業性低位のno_go寄り。例外的に成立するとすれば、領域を1つ(例:タスク+カレンダーのみ)に絞り、月500-1500円のサブで深掘りする戦術しかない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 980,
+      "plans": [
+        "Free: AIチャット1日20回・タスク/カレンダー連携のみ",
+        "Pro: ¥980/月 AI無制限・食事画像ログ・習慣トラッキング",
+        "Plus: ¥1,980/月 金融連携(電代業者経由)・健康データ統合・週次AIレポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AIに前向きな20-40代の情報系職種(エンジニア・デザイナー・コンサル・個人事業主)で、すでに複数のトラッカー(あすけん+TimeTree+MF MEなど)を併用しており、1つにまとめたい層。X/Notion/ChatGPTを日常的に使う層に限定。",
+      "target_count": 800000,
+      "capture_pct_year3": 0.2,
+      "monthly_revenue_target_jpy": 1568000
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)で開発過程・AI記憶機能の実例を継続発信し、AIガジェット好きクラスタを獲得(根拠未確認だが類例多数)",
+      "Zenn/Qiitaで『個人のライフログをAIで束ねた話』『LLMの長期メモリ実装』系の技術記事を出し、エンジニア層の口コミを起点に",
+      "Product Hunt Japan/note の生産性ハック系発信者にレビュー依頼",
+      "あすけん/TimeTreeを正面から代替するのではなく、『連携先』として位置づける戦略でレビュー摩擦を下げる",
+      "iOSショートカット/Raycast連携など『開発者好み』の入口を持ち、Notion/ChatGPT課金者からのスイッチを狙う"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Google Gemini パーソナルインテリジェンス(無料予定)・Apple Intelligence・ChatGPTメモリの3者がコンシューマーAIアシスタントを実質無料化、課金構造が成立しなくなるリスクが極大",
+      "金融取引データ連携には電子決済等代行業者登録が事実上必要で、個人開発者の登録・維持コストとガバナンス要件が現実的に持てない",
+      "健康データは要配慮個人情報で同意取得・削除権対応・漏洩時の課徴金リスクが大きく、インシデント1件で事業継続困難",
+      "あすけん/マネーフォワードME/TimeTreeなど縦割り強豪が各領域のデータ網と無料層で深く根を張っており、薄く広い『全部入り』では機能深さ・ARPU・継続率いずれも劣後",
+      "AI推論コストがMAUに比例して線形に増え、freemium無料層が膨らむほど赤字幅が拡大。個人で資金繰りが破綻する典型パターン"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-26T05:00:00Z",
+  "review_guide_at": "2026-05-26T05:00:00Z",
+  "business_viability_at": "2026-05-26T05:00:00Z",
+  "advisor_view_at": "2026-05-26T05:00:00Z"
+}

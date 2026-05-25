@@ -1,0 +1,233 @@
+{
+  "name": "Ray",
+  "description": "Your personal CFO in the terminal",
+  "ph_url": "https://www.producthunt.com/products/ray-7/launches/ray-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/G3BLEM7JJPJ46U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-12T07:01:00Z",
+  "upvotes": 307,
+  "comments": 44,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "GitHub",
+    "Personal Finance"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋 Clark here, maker of Ray.\n\nQuick story on why this exists: I tried Monarch, Copilot, YNAB, Tiller, and Mint before it died. Every one of them had the same problem — I'd open it, stare at a dashboard for 30 seconds, close it, and nothing about my behavior would change. The app knew everything. I still had to do all the thinking.\n\nSo I built the opposite. You run `ray` in your terminal and it immediately shows your net worth, spending pace, budget alerts, and upcoming bills — no dashboard to navigate. Then you can chat with it and it actually tells you what to do, referencing your real goals and your real transactions. It's the first finance tool I've used that feels like a CFO instead of a spreadsheet.\n\nA few things I made deliberate choices on:\n\n🔒 Your data never leaves your machine. Everything lives in an AES-256 encrypted SQLite db at ~/.ray. PII (names, account numbers) is stripped before anything touches the AI. Two outbound calls total — Plaid for bank sync, Anthropic for the chat.\n\n💰 Free forever if you bring your own Anthropic + Plaid keys. $10/mo managed mode if you don't want to mess with keys — data still stays local in that mode, I just proxy the API calls. No freemium feature-gating, no \"unlock insights\" nonsense.\n\n🧠 It remembers. Mention you're saving for a house or switching jobs and every future session picks up where the last one left off. No re-explaining yourself.\n\n🎯 It scores you. A daily 0–100 behavior score with streaks and unlockable achievements. I added this as an afterthought and it's the single thing that actually changed my spending. Kitchen Hero (no restaurants for a week), Monk Mode (5 zero-spend days), etc.\n\nYou can try the whole thing without linking a real bank — run `ray demo` and it seeds a fake portfolio you can poke at.\n\nInstall: npm i -g ray-finance\nRepo: github.com/cdinnison/ray-finance (MIT)",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Terminal based CFO is a cool concept! Curious -- how does it handle planning when your spending patterns are irregular? Like freelancer income that's different every month.</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Much needed! Since most tools fail at behavior change like you mentioned, so what specifically makes ray actually change user actions rather than just inform them???</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Most personal finance apps show you charts. Ray tells you what to do and actually helps you plan. A terminal-based CFO that reads your real transactions, remembers your goals, and runs on your computer — not someone else's server. Open source. Free with your own keys.",
+  "featured_at": "2026-04-12T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/b3b7fe2a-3b92-42ae-aa08-b955e4f17519.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b813d742-b05a-4e19-96f4-eb69a91bde43.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/38005238-e4b4-476c-9ba4-10b450d7d422.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/32659fa6-0496-43e1-97dc-2465e59c841b.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:22",
+  "landing_meta": "Ray — The Finance App That Tells You What To Do — Other finance apps show you what you spent. Ray tells you what to do. An open-source AI financial advisor that learns your full situation, uses your real bank data, and runs locally on your machine.",
+  "landing_text": "Ray — The Finance App That Tells You What To Do Skip to content Talk to your money Every other finance app shows you what you spent. Ray tells you what to do about it —using your real bank data, running locally on your machine. $ npm install -g ray-finance Watch demo 1,757 installs this month Loved by users Open Source MIT Licensed · Fully Auditable ray — zsh Status Chat Accounts Spending Goals ~ $ ray status friday, may 8 net worth $255,870 +$133 gold card -$1,830 · chase savings $12,500 · total checking $4,200 · 401(k) $67,000 · individual $34,000 spending $3,608 this month · $1,728 more than last month shopping +$850 · food & drink +$396 · services +$145 · personal care +$130 ████████████ ░░░░ shopping 75% ███████ ░░░░░░░░░ food & drink 44% score 76 /100 · 3d no dining ray · synced 1h ago · ctrl+c to exit What makes Ray different Tell Ray once. It remembers everything. Ray keeps a persistent profile of your life — family, income, goals, strategy, and key decisions. That’s why it can tell you what to do, not just show you what you spent. The advice you get on day 30 is nothing like day one, because Ray remembers everything that happened on days 1 through 29. Family situation Married, two kids, one income Career stage Just started a new job at $95k Financial goals Pay off student loans by 2027 Risk tolerance Conservative — no crypto Life events Baby due in March, buying a house Past decisions We cut DoorDash last month generic AI vs ray ❯ how should I deal with my debt? chatgpt You should aim to save 15–20% of your income. Conservative — no crypto Life events Baby due in March, buying a house Past decisions We cut DoorDash last month generic AI vs ray ❯ how should I deal with my debt? chatgpt You should aim to save 15–20% of your income. Consider building a 3–6 month emergency fund, then focus on paying off high-interest debt. ray You've got $34,200 in debt across two cards and a car loan. At $95k with two kids and a baby coming in March, I'd pause the Japan fund and throw that $440/mo at the Chase card — it's at 24.9%. That clears it by September and frees up $340/mo before the baby arrives. ❯ can I take this trip to Tahoe? chatgpt A weekend trip can cost $500–$2,000 depending o",
+  "pricing_signals": [
+    "free forever",
+    "open source",
+    "open-source",
+    "self-hosted",
+    "subscription",
+    "pricing",
+    "free plan",
+    "$440/mo",
+    "$10",
+    "$1",
+    "$10/mo",
+    "$255"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:23",
+  "description_ja": "ターミナルで動くオープンソースのAI個人CFO。実取引を読んで「次に何をすべきか」を助言する。",
+  "summary_ja": "Plaid連携で銀行データを取り込み、Claude APIで対話しながら家計を最適化するCLIツール。データはローカルのAES-256暗号化SQLiteに保存され、BYOKなら無料。MITライセンスのOSS。",
+  "tldr_ja": "Plaidが日本の銀行に非対応かつAISP登録の壁があるため国内では銀行連携が機能不全。CLI家計簿の市場も極小で個人開発は厳しい。",
+  "review_guide_ja": {
+    "what": "Ray は npm でインストールして `ray` コマンドを叩くと、ターミナル上に純資産・今月の支出ペース・予算アラート・近日支払いを即表示する CLI 型の家計管理ツール。Plaid 経由で銀行・カード・証券口座のトランザクションを自動同期し、AES-256 暗号化された ~/.ray の SQLite に保存。PII を除去した上で Anthropic Claude API にチャット問い合わせし、ユーザーの目標（住宅購入、子供の予定など長期記憶）と実取引を踏まえ「Chase カード 24.9% から $440/月 を回せ」のような具体的指示を返す。0–100 の行動スコアと連続記録、アチーブメント（Kitchen Hero、Monk Mode 等）で行動変容を誘発するゲーミフィケーションも持つ。`ray demo` でダミーポートフォリオを試せる。",
+    "for_who": "米国在住で Plaid 対応銀行（Chase、Bank of America 等）を使い、ターミナルが日常作業環境のエンジニア・データサイエンティスト。Mint 終了難民、Monarch/Copilot/YNAB に不満を持つ自己管理志向の独身〜共働き若年層。Claude API キーを自分で取得できるリテラシーがある層。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "CLI UI と SQLite 永続化、Claude 連携は単独で実装可能。難所は (1) 銀行アグリゲータ調達、(2) PII マスキング設計、(3) 行動スコア＆アチーブメントの心理設計の 3 点。"
+    },
+    "signals": [
+      "発売初月で 1,757 install と PH 307 upvotes、CLI ニッチで強い反応",
+      "BYOK 方式で freemium 罠を回避、$10/月マネージドの選択肢も用意し可処分課金を最小化",
+      "ローカル暗号化 + PII ストリッピングのプライバシー設計が刺さる時代背景",
+      "行動スコア／アチーブメントで作者自身が支出を変えた実体験を訴求",
+      "MIT OSS 公開でフォーク改造を許容、開発者コミュニティ受けする構造"
+    ],
+    "concerns": [
+      "Plaid 米国・カナダ・欧州中心で日本銀行は非対応、銀行同期が機能しない",
+      "Anthropic API 直叩き＝LLM 回答品質に依存し、誤助言時の責任所在が曖昧",
+      "ターミナル UI は IT エンジニア以外には参入障壁が極めて高く TAM 極小",
+      "Plaid キーは個人が直接取得困難、$10/月マネージドが事実上の必須課金になる可能性",
+      "BYOK 利用者は売上に貢献せず、サーバ管理コストだけ嵩むビジネスモデル"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 3,
+    "verdict": "no_fit",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "家計簿アプリ自体は国内 41.5% が利用し MFME 1,700 万人・Zaim 1,100 万 DL と巨大需要があるが、CLI 限定だと対象は IT エンジニアのごく一部に縮退。Qiita で Ledger CLI / hledger 解説はあるが利用者は数千〜万人規模と推定され、需要シグナルは弱い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "MFME・Zaim・One Bank（旧 B/43）・OsidOri・Moneytree が GUI で寡占。B/43 は既に AI 支出チェッカーを公開、MFME も AI 助言機能を強化中。CLI レイヤだけ見れば競合は薄いが、ユーザー奪取戦は GUI 勢との直接戦になる。"
+      },
+      "regulation": {
+        "score": 2,
+        "reason": "改正銀行法で銀行口座情報を継続取得する事業は『電子決済等代行業（AISP）』登録が必須。個人開発者には登録障壁が極めて高く、freee/MF/Moneytree は法人として登録済。Plaid 経由でも国内銀行接続は不可で、CSV インポート等の代替設計が必要。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "CLI 表示と LLM プロンプトの日本語化は容易だが、勘定科目・税区分（103万・130万・150万の壁、給与天引き：所得税・住民税・社会保険）・ボーナス／新 NISA／iDeCo／ふるさと納税といった日本固有概念の助言ロジックを再設計する必要があり、コスト中程度。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本人は家計簿に『無料で使える』を 57.3% が最重視。$10/月相当（≈1,500 円）は MFME プレミアム 540 円の約 3 倍で割高感が強い。さらにターミナル前提は『非エンジニアの主婦・共働き世帯』という家計簿アプリ主力層と完全に乖離。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "マネーフォワード ME",
+        "url": "https://moneyforward.com/",
+        "note": "国内シェア No.1（利用率 25.5%）、1,700 万ユーザー、2,600 金融サービス連携。プレミアム 540 円/月。AI 助言機能を段階導入中で、Ray の対話的助言を正面から飲み込みうる。"
+      },
+      {
+        "name": "Zaim",
+        "url": "https://zaim.net/",
+        "note": "1,100 万 DL、利用率 17.8%。無料版でも連携無制限が強み。レシート読取精度で MFME を上回る。GUI/モバイル中心で CLI レイヤとは直接競合しないが顧客プールを抑える。"
+      },
+      {
+        "name": "One Bank（旧 B/43）",
+        "url": "https://onebank.jp/",
+        "note": "プリペイド Visa＋家計簿の SmartBank 提供。『AI 支出チェッカー』β で『良い／悪い消費』を AI 学習させ助言。Ray の行動変容アプローチに最も近い国内競合。"
+      },
+      {
+        "name": "OsidOri",
+        "url": "https://osidori.co/",
+        "note": "夫婦向け共有家計簿、70 万人。AI レシート読取で取引数秒生成。Ray の単独利用想定とは顧客層が異なるが、家計助言領域の競合プレイヤー。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "改正銀行法（電子決済等代行業 / AISP 登録）",
+        "impact": "銀行口座情報を継続取得して家計簿として提示する事業は AISP 登録必須。登録には体制整備・財務基盤・苦情処理・委託先管理等の要件があり、個人開発者の単独取得はほぼ不可能。CSV 取込／スクリーンスクレイピングへの規制も強化されており、回避設計は限定的。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "銀行取引・収入・家族構成・健康関連支出は要配慮個人情報に近い高機微データ。ローカル保存設計で第三者提供は回避できるが、LLM へのプロンプト送信時に PII を厳密に除去しないと『第三者提供』に該当しうる。プライバシーポリシー整備と監査ログが必須。"
+      },
+      {
+        "law": "金融商品取引法（投資助言業）",
+        "impact": "『この株を買え／売れ』『この投資信託を解約せよ』など個別銘柄助言を行うと投資助言・代理業登録（兼業 500 万円供託、最低資本金 500 万円等）が必要。Ray の『目標に沿った資金配分』が個別商品助言に踏み込むと違法となるため、文言管理が必須。"
+      },
+      {
+        "law": "貸金業法 / 利息制限法",
+        "impact": "『この借入を優先返済せよ』程度は問題ないが、リファイナンス商品の比較・斡旋に踏み込むと貸金業の媒介に該当しうる。Ray の現状機能では当面非該当だが拡張時に注意。"
+      }
+    ],
+    "opportunity": "敢えて日本で開く道を探すなら、(a) 銀行 API を諦め MFME/Zaim/freee の CSV エクスポート、または楽天証券／SBI 証券の月次明細を取り込むローカル CLI ラッパに振り切る、(b) 投資助言を避けつつ『新 NISA 配分シミュレータ＋家計簿 LLM 助言』として税制最適化に特化、(c) ターゲットを完全に IT エンジニア／個人開発者に絞り Zenn・Qiita・X 開発者クラスタへの BYOK 配布で OSS コミュニティを育てる、の 3 ルート。いずれも単独で年商 1,000 万円規模に届くかは厳しい。",
+    "rationale": "Ray は『米国の銀行 API（Plaid）＋米国税制＋米国家計＋ターミナル英語 UI』の 4 重コンテキストに最適化された製品で、これらすべてが日本に転用しにくい。最大の致命傷は Plaid の国内未対応と AISP 登録の壁で、個人開発者がそのまま再現することは法的・技術的にほぼ不可能。仮に CSV 取込で代替しても、ターゲットは『CLI に違和感がないエンジニア』に縮退し、しかも家計簿無料文化（57.3% が『無料』最重視）の中で $10/月課金は通りにくい。MFME/Zaim/One Bank が AI 助言を順次内蔵し始めており時間窓も狭い。総合的に『日本市場のための再構築』にコストが見合わず no_fit と判断。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "BYOK 無料／$10 マネージドの 2 段階だが、日本人家計簿ユーザーの 57.3% が『無料』最優先で、MFME プレミアム 540 円が相場感。$10≒1,500 円は約 3 倍で課金抵抗が強い。BYOK 側は売上ゼロ、マネージド側は Plaid 不在で価値が薄い。ARPU 確保は構造的に困難。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "家計簿アプリ自体は国内 4,000 万人規模だが、Ray が刺さる『CLI 慣れ＋ Claude API キー保有＋ Plaid 代替 CSV 運用可』の交差層は概算で数千〜数万人。月額 1,500 円換算で TAM は年商数千万円が天井。個人開発の生計には十分だがスケールアップは難しい。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "Zenn・Qiita・X 開発者コミュニティへの BYOK＋OSS 配布は PLG として機能しうるが、CSV 取込→LLM 助言という非銀行連携モードに作り変える前提。X インフルエンサー個人開発者経由でしか拡散経路がなく、家計簿アプリ主力層（30〜40 代女性）へのリーチは不可能。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "MFME・B/43 が AI 助言機能を順次投入中で時間窓は 12〜24 ヶ月程度。AISP 大手が LLM 連携を本格化させた瞬間に CLI 単独の優位性は消失。Plaid が日本進出する兆候も限定的で、構造ロックは長期だが残り猶予は短い。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "ローカル SQLite＋OSS 配布なら CS 負荷は GitHub Issue ベースで個人運用可能。$10 マネージド側は Plaid プロキシ＋Anthropic 課金代行のサーバが必要で 24h 稼働責任が生じるが、ユーザー数 100 名未満なら個人で十分管理できる。BYOK 中心なら手離れは良い。"
+      }
+    },
+    "rationale": "日本で個人開発者が Ray クローンを成立させるのは、収益・市場規模・GTM の三重苦で困難。最大の問題は『CLI＋AI 家計助言』に課金可能な層が IT エンジニアの極小サブセットで、しかもその層は自前で gpt/claude を叩く能力があるため OSS の BYOK 版で十分というジレンマ。MFME・One Bank が AI 助言を内製化する 1〜2 年で類似機能は GUI 側に飲まれる。solo_ops は唯一明るく、収益期待を月 5〜10 万円程度に抑えるなら趣味プロジェクトとしては成立する。事業として稼ぐには本家米国版の Anthropic Claude/Plaid 連携を維持しつつ日本ローカライズではなく英語圏グローバルで戦う方が筋。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 800,
+      "plans": [
+        "Free（BYOK）: 自分の Claude API キー＋ CSV 取込で無料、OSS MIT",
+        "Pro: ¥980/月 — マネージド Claude プロキシ＋ MFME/Zaim CSV 自動取込＋新 NISA シミュレータ",
+        "Family: ¥1,980/月 — 夫婦共有データ統合、世帯収支スコア、最大 5 アカウント"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内 IT エンジニア・データ職で家計簿に飽きた層、Claude/ChatGPT に月額課金中、新 NISA・iDeCo を自分で運用、ターミナルが日常作業環境、副業開発で確定申告を経験している 25〜45 歳。Zenn/Qiita/X 開発者クラスタからの自然流入を想定。",
+      "target_count": 50000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 600000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita で『Ledger CLI から Ray-JP に乗り換えた話』『Claude で家計簿を作る』連載",
+      "X 個人開発者クラスタへの BYOK 版 OSS 露出、つみたて NISA Tips と抱き合わせ",
+      "GitHub Trending 入りを狙った MIT 公開＋日本語 README/動画",
+      "ポッドキャスト『fukabori.fm』『Rebuild.fm』風開発者層への作者出演",
+      "確定申告期（2-3 月）に『freee/MF クラウドから取引 CSV を吸って LLM 解説』の季節キャンペーン"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Plaid 不在で銀行同期が機能しないため、CSV 取込前提の再設計が必要。本家 Ray のコア体験を日本で再現できず差別化が消える。",
+      "AISP 未登録のままスクレイピング／API 連携を実装すると改正銀行法違反リスク。安全に作るには MFME/freee の CSV エクスポートに依存せざるを得ず、ユーザー体験が劣化。",
+      "MFME・One Bank が AI 助言機能を 12〜24 ヶ月で標準搭載する見込みで、CLI 単独優位は短期で消える。",
+      "日本人家計簿ユーザーの『無料』志向（57.3%）と $10/月価格帯の不整合。BYOK でしか普及せず売上が立たない構造リスク。",
+      "金融商品取引法上の投資助言業に踏み込むと業登録必須。LLM が個別銘柄助言を返してしまった瞬間に違法状態となるため、プロンプト・出力監査が永続コストとなる。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "japan_fit_at": "2026-05-26T06:30:00Z",
+  "review_guide_at": "2026-05-26T06:30:00Z",
+  "business_viability_at": "2026-05-26T06:30:00Z",
+  "advisor_view_at": "2026-05-26T06:30:00Z"
+}

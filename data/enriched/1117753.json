@@ -1,0 +1,293 @@
+{
+  "name": "Velo",
+  "description": "Share anything as video messages",
+  "ph_url": "https://www.producthunt.com/products/velo-4/launches/velo-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/5NXKZ7EKGRZVKR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-08T07:01:00Z",
+  "upvotes": 700,
+  "comments": 151,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Video"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt! 👋</p><p></p><p>I'm Ajay, co-founder and CTO at Velo. Super excited to launch Velo for the first time!</p><p></p><p>I've spent the last year obsessing over a weirdly stubborn problem: why is it still so hard to make a simple video message?</p><p></p><p>You know exactly what you want to show. You can explain it perfectly in conversation. But the moment you try to record it, everything falls apart - the pacing and the words are off, you re-record it four times, and the result still doesn't feel right.</p><p></p><p>We built Velo to close that gap.</p><p></p><p>Velo is an AI-powered tool that turns raw recordings, files, and URLs into video messages worth watching - pitches, tutorials, demos, async updates, courses, anything you need to show someone.</p><p></p><p><strong>Four ways to create a video:</strong></p><ul><li><p><strong>Record your screen</strong>: Capture any app or browser, naturally. Don't worry about getting the words right. Velo rewrites your script, enhances the voiceover, syncs audio to visuals, and delivers a polished video in minutes.</p></li><li><p><strong>Upload a recording</strong>: Have a Zoom call, Loom video, or MP4 sitting in a folder? Upload it. Velo gives it a fresh script, clean audio, and synced visuals. That raw recording becomes something you'd actually want to send.</p></li><li><p><strong>Paste a link</strong>: Drop in any live URL and tell the browser agent what to show, in plain language. It understands your intent, records the flow on its own, and produces a finished video. No recording needed.</p></li><li><p><strong>Upload slides or images</strong>: Drop in a PDF or PPT. Velo converts them into a narrated video with automated zooms and cursor movements.</p></li></ul><p></p><p><strong>What Velo handles for you:</strong></p><ul><li><p><strong>Script &amp; voiceover</strong>: Transcribes your audio, rewrites it into a clean script, and generates an enhanced voiceover synced to your visuals. Adjust the tone, swap lines, or rewrite entirely.</p></li><li><p><strong>AI avatars</strong>: Add an avatar that looks and sounds like you, or pick from public avatars.</p></li><li><p><strong>Smart effects</strong>: Auto zoom-ins on key moments, plus spotlights, callouts, and cursor highlights.</p></li><li><p><strong>Brand kit</strong>: Your colours, logos, intros, and backgrounds applied across every video.</p></li><li><p><strong>Background swap, music, and intro cards</strong>: Set the tone and look without extra tools.</p></li><li><p><strong>Share instantly</strong>: Generate a link or download the final file.</p></li></ul><p><strong>Who is Velo for?</strong></p><p>Founders recording demos. Teams sharing async updates. Creators building courses. Support teams writing walkthroughs. Anyone who has something to show but doesn't want video production to be the bottleneck.</p><p></p><p>If you've got something to show, just Velo it.</p><p></p><p>🎁 <strong>For the PH community:</strong></p><p>Try Velo for free today, and if it clicks, get 20% off your first month on Pro or Ultra.</p><p></p><p>We built this because we believe the showing part shouldn't be the hard part. We'd love for you to try it and tell us what you think.</p><p></p><p>What's the first video you'd make? 💙</p>",
+      "votesCount": 47,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey everyone! Sourav here, co-founder and CEO at Velo.<br></p><p>Building Velo has been one of the most challenging and rewarding things I've been part of. A team with a belief that making video messages should feel as easy as having a conversation.<br></p><p>The technical challenges have been wild: browser-based editing, AI voiceover sync, and a browser agent that records flows on its own.&nbsp;<br></p><p>Every layer pushed us into territory we hadn't been in before. We built things we didn't know we could.</p><p>But the reason we kept going is that I've been on the other side of this problem too many times: you know exactly what you want to say, you know it would land better as a video, and you just don't make it.&nbsp;<br></p><p>Because the gap between what's in your head and what comes out of a recording feels too wide.<br></p><p>Velo exists to make that gap disappear. And seeing people use it and actually share the video message instead of giving up - that's the moment that makes all of it worth it.<br></p><p>Grateful to be launching here. Would love for you to try it. 💙</p>",
+      "votesCount": 17,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations <a href=\"https://www.producthunt.com/@ajaykumar1018\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"ajaykumar1018\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@ajaykumar1018</a> , <br>BTW, how does Velo decide what to cut vs. keep from a raw recording? </p><p>Is it based on silence, mouse movements, or something else?</p>",
+      "votesCount": 13,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Velo turns your raw screen recordings into watch-worthy, ready-to-share videos with AI.",
+  "featured_at": "2026-04-08T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/35242a30-6f23-4a79-aa44-0a1752c38f00.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c074e44b-d18b-46a9-97de-00a8e5f54a43.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2cf75be4-8d10-4233-9f76-8969b7d7d7fc.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9ce38888-6144-4ab5-9cdf-69e6344e097d.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fd3c5178-1f7e-48d3-ad7d-b877cccbe780.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0b6d82c8-6dca-4f35-8f6a-03232da605ba.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/84f6288d-b6cf-4d0f-b162-62fb43c7284b.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/55598db2-0cad-4c08-833d-8c7857c51072.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ad43d1c8-9ba1-4157-9cbd-b7128993997f.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7a90fd05-f837-417e-b01b-f0647976a0e9.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/dd70781b-9532-4bec-bc0e-8e506332ce03.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:13",
+  "landing_meta": "Best Screen Video Recorder | Screen Recorder with Audio | Velo — Velo is the best screen recording platforms for creating AI-powered videos with audio. Use this free screen video recorder to capture, edit, and share professional recordings online.",
+  "landing_text": "Best Screen Video Recorder | Screen Recorder with Audio | Velo Best Screen Video Recorder | Screen Recorder with Audio | Velo NEW Velo's agentic screen recording Share anything as video messages Velo takes raw recordings and makes them awesome with AI Try for free Book a demo Without Velo With Velo Trusted by the teams at Made with Velo See what people are creating with Velo Lovable Notion Gamma AI Diffusion Transformers Detailed Review Real time video generation Recording Capturing screen and audio Processing Computing in real time Ready in real time Processed and delivered instantly Browser agent that records for you Velo runs inside your browser. It listens to your instructions, reads your clicks, and turns all of it into a video message. \"I didn't have to record on my own. The browser agent recorded while I focused on another task.\" Connor Rose Co-Founder @IRLY Every video, narrated in your voice, for free Clone your voice once. Every Velo you create sounds like you're narrating it - even when you're not. Record anywhere with Velo extension Launch our Chrome extension to capture your workflow and express your ideas effortlessly, across your entire desktop Every video comes with a document Velo turns your finished video into a clean, structured written document with just a single click. Create video messages faster Try for free The only video messaging tool you’ll need Add your brand kit, choose personas, change your cursor styles, rewrite scripts and a lot more Change cursor style and size Personas Easy-to-use editor Use your brand kit Shareable Links Rewrite scripts with context Velo is for everyone Velo for Sales Send polished video pitches to prospects without twelve takes Velo for Product Walk through new features and share updates your team actually watches Velo for Support Build onboarding guides and training videos without a production team Velo for Creators Make product reviews, tutorials, and content for YouTube, X, and beyond Velo for Marketing Create ",
+  "pricing_signals": [
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:15",
+  "description_ja": "あらゆる素材をAIで磨き上げ、視聴に値する動画メッセージとして共有",
+  "summary_ja": "画面録画・既存動画・URL・スライドを取り込むと、AIが台本書き直し・音声強化・ズーム/カーソル演出・アバター・ブランドキット適用まで自動化し、Loom 代替として送信品質の動画メッセージを数分で生成するブラウザ型ツール。",
+  "tldr_ja": "Loom系の非同期動画は日本で需要伸長中だが、本家Loom（アトラシアン）が既に日本語提供で先行、個人開発の差別化余地は薄い",
+  "review_guide_ja": {
+    "what": "画面録画・既存動画・公開URL・スライド/PDFを入力すると、AIが台本を整え、自然なボイスオーバー（音声クローン可）に差し替え、自動ズーム・カーソル強調・ブランドキット適用までを行い、共有用リンクで配布できる動画メッセージ生成SaaS。ブラウザエージェントが指示に従ってURL上の操作を録画し、視聴用とは別に構造化ドキュメントも自動生成する。営業ピッチ、製品デモ、社内非同期アップデート、サポートのウォークスルー、コース教材など、画面操作や説明を「録り直し地獄」なしに仕上げる用途を狙う。Loom や Tella のような既存の動画メッセージング体験に AI 編集・エージェント録画・音声クローンを統合したのが特徴。",
+    "for_who": "海外向け営業デモ・SaaS製品ウォークスルー・YouTubeやXでの解説動画を量産したい個人クリエイター、SaaS創業者、サポート/CS担当、教育コンテンツ作成者。社内コミュニケーション用には非同期更新を多用する分散チーム向け。日本では英語コンテンツ作成者やインバウンドSaaS発信者が中心顧客になる。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "ブラウザ内録画、台本書き直し、音声クローン、アバター生成、ブラウザエージェントによる自律録画、自動ズーム、ドキュメント生成までを統合的に動かす必要があり、個人開発で同等品質を出すには動画パイプラインとAIインフラ投資が大きい。"
+    },
+    "signals": [
+      "PH 700+ upvotes / 151 comments で受容性が高い",
+      "Lovable/Notion/Gamma 等のSaaS企業が利用顧客に名を連ねる社会的証明",
+      "ブラウザエージェントが自分で操作録画する自律機能は新しい差別化",
+      "音声クローン無料提供で個人クリエイター層を取り込みやすい",
+      "動画と同時に構造化ドキュメントを生成し再利用性を高めた設計"
+    ],
+    "concerns": [
+      "Loom（アトラシアン）が既に日本語UIと日本法人サポートで先行している",
+      "tebiki/Teachme Biz など国内動画マニュアル系SaaSが現場/法人領域に深く食い込む",
+      "AI生成音声・アバターは日本での「合成音声に対する企業の警戒」と相性が悪く商談デモには不向きな場面あり",
+      "個人開発で類似機能を出すには動画レンダリングインフラと音声合成APIの粗利が圧迫されやすい",
+      "ブラウザエージェントによる第三者サイトの自動録画は利用規約・著作権・不正競争防止法に触れる懸念"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "コロナ後の社内動画活用は約8割が新規開始したと報告され、非同期動画ニーズ自体は伸びている。一方でLoomは日本ですでに浸透、新規SaaSのアタッチ余地は中程度。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Loom（アトラシアン日本法人）、tebiki、Teachme Biz、SPOKES、Video BRAIN、SoVeC Smart Video、Kling など国内/外勢が層を成し、特に法人向け動画SaaSは飽和気味。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "音声クローン・AIアバターは個人情報保護法改正、声のパブリシティ権、不正競争防止法、特商法（営業動画への適用）の影響を受ける可能性あり。個人/法人いずれも「本人同意の取得」運用設計が必要。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UIは英語中心だが構造化UI/API主体で日本語化は比較的容易。ただしAI音声・台本書き直しの日本語品質、敬語・ビジネス文体への調整は要追加投資。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本企業はAI合成音声・アバターによる営業/サポート動画への抵抗感が依然強く、稟議系顧客向け説明動画は「本人の声・顔」を求める慣行が残る。クリエイター層は許容。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Loom (Atlassian)",
+        "url": "https://www.atlassian.com/ja/software/loom/pricing",
+        "note": "日本語UI・日本語サポート・Business $15/月・Enterprise SSO対応。非同期動画メッセージの事実上の業界標準で、Velo の直接競合。NRI aslead 経由の代理販売もあり国内法人浸透が進む。"
+      },
+      {
+        "name": "tebiki",
+        "url": "https://tebiki.jp/",
+        "note": "動画マニュアル特化の国産SaaS。100ヶ国語自動翻訳・字幕生成・進捗管理。現場教育や製造/小売の法人領域で強い。"
+      },
+      {
+        "name": "Teachme Biz (スタディスト)",
+        "url": "https://biz.teachme.jp/",
+        "note": "業務手順・マニュアル作成クラウドの国内大手。動画+静止画+テキストで運用一括管理。法人向け定番。"
+      },
+      {
+        "name": "Video BRAIN (オープンエイト)",
+        "url": "https://video-b.com/",
+        "note": "AI搭載の法人向けクラウド動画編集で国内シェアNo.1を謳う。テンプレートとAI素材マッチングが強み。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（改正案 2026年閣議決定）",
+        "impact": "音声クローン・顔アバター生成は本人の声・顔データの取得・保管・第三者提供を伴う。AI利活用拡大に向けた要件緩和は議論中だが、本人同意の取得とログ管理は必須。社内利用でも従業員データ扱いとなる。"
+      },
+      {
+        "law": "不正競争防止法・パブリシティ権",
+        "impact": "経産省で声・肖像のパブリシティ価値整理が進行中。他人の声でクローンを作る/有名人風アバター生成は不正競争・人格権侵害の論点が顕在化しつつあり、UI内でのガードレール実装が要件化する可能性。"
+      },
+      {
+        "law": "著作権法（自動録画機能）",
+        "impact": "ブラウザエージェントが第三者Webサイトを自動操作・録画する機能は、対象サイトの利用規約違反や複製権侵害のリスクを内包。商用利用前提の出力は引用要件を満たさないケースが多い。"
+      },
+      {
+        "law": "特定電子メール法・特商法",
+        "impact": "営業動画リンクをコールドメールで送付するセールス用途では、特電法のオプトイン・特商法の表示義務が適用。動画ホスティング側にも一定の責務が生じうる。"
+      }
+    ],
+    "opportunity": "日本独自に勝負するなら（1）日本語ビジネス敬語に最適化した台本書き直し+音声生成、（2）社内稟議文化を踏まえた「本人録音+AI整音/字幕」の控えめ版（合成置換しない）、（3）SaaS製品の海外向けデモを日本人エンジニアが英語で出す逆方向ローカライズ支援、（4）電気工事・介護・製造など現場マニュアルでLoomが弱い領域への特化、のいずれか。汎用Loom代替で正面突破はLoom×tebikiの2強に挟まれて勝ち目が薄い。",
+    "rationale": "日本の非同期動画ニーズは伸長しているが、市場は既にLoom（日本語提供＋アトラシアン傘下のチャネル）と国産の動画マニュアルSaaS群で埋まりつつある。Velo の差別化（音声クローン/エージェント自動録画）は日本企業の慣習と摩擦を起こしやすく、稟議の通る用途はむしろ控えめなAI支援。クリエイター・SaaS創業者層なら受容するが、その層は英語で本家Velo/Loom/Tellaを直接使うため、日本独自ラップで顧客を奪うのは難しい。法令面では音声クローン・自動録画に複数の論点が重なり、規制設計の負荷が個人開発には重い。総合的に汎用代替としては skip、現場特化や逆方向ローカライズなど明確な刺し方があれば watch 相当に格上げ可能。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "クリエイター/SaaS界隈は月¥2,000-5,000 のSaaS課金に慣れているが、法人は稟議が必要。動画マニュアル系は月数万円〜数十万円の世界で、Velo風の個人プランはARPU が低く、法人プランは競合の信頼に劣る。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内法人向け動画SaaS市場は数百億円規模に拡大中で、セールスイネーブルメント単体でも複数のシェアプレイヤーが成立。ただしAI生成動画でリーチ可能なTAMは英語SaaS創業者・海外向け営業企業など狭い。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PLGは日本ではまだ普及途上で、Loom級のブランドなしに無料ハネ上げは困難。Qiita/Zenn/X発信は技術層に届くがコンバージョン弱め。法人開拓はSI・パートナー必要で個人開発に不向き。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "Loomは既にAI機能・日本語UI・Atlassian統合で先行。Velo本家も英語圏で急成長中で、日本進出までの時間窓は12-18ヶ月程度しかなく、ローカライズ追従も速い見込み。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "動画レンダリング・AI推論・音声合成のコストとSLAは個人運用に重い。法人顧客はSSO・契約書・SLAを求め、サポート工数も増大。AIインフラの粗利圧迫リスクも高い。"
+      }
+    },
+    "rationale": "事業として個人開発で立ち上げるには、本家Velo/Loomと真正面で当たる構図になり、価格・サポート・ブランドのいずれでも勝ち筋が薄い。ARPU を取りに行こうとすると法人セグメントに踏み込まざるを得ず、稟議・SSO・SLAの壁で個人運用は破綻しやすい。一方クリエイター向け薄利モデルでは動画レンダリングと音声合成の従量コストがマージンを圧縮し、CACを回収しにくい。タイミングも遅く、本家進出の時間窓が短い。差別化が「日本語敬語特化」「現場マニュアル特化」「逆方向ローカライズ」など明確に切れる場合に限り、ニッチで月商数十万円規模の事業は構築可能。汎用挑戦は no_go、ニッチに振り直して consider。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2500,
+      "plans": [
+        "Free: 月3本まで生成、ロゴ透かしあり、音声クローン不可",
+        "Pro: ¥2,500/月、月30本まで、音声クローン1声、HD出力",
+        "Team: ¥9,800/月（5席）、ブランドキット、共有ワークスペース",
+        "Business: ¥30,000/月（10席〜）、SSO、SLA、稟議用契約書対応"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "海外向け英語デモを量産したい国内SaaS創業者・PMM、英語コンテンツを発信する個人開発者、海外営業を行う中小企業のインサイドセールス担当。汎用Loom代替ではなく「海外向け動画を日本人が英語で量産する」逆方向ローカライズに絞った像。",
+      "target_count": 8000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 300000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita で『海外SaaS向け英語デモ動画をAIで量産する』連載",
+      "X（旧Twitter）で個人SaaS創業者向けに英語デモ Before/After を継続発信",
+      "PLG 無料枠から有料転換（音声クローン・HD出力をペイウォール）",
+      "海外向けSaaS輸出コミュニティ（B Dash, IVS等）でデモ協賛",
+      "Atlassian/Loom が手薄な日本語『現場マニュアル特化』縦割りパッケージを別ブランドで提供",
+      "AI英会話/英文ライティングSaaSとのバンドル連携（相互送客）"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Loom（アトラシアン）が日本語UI＋Jira統合＋Business $15/月で先行し、汎用代替の市場をほぼ閉じている",
+      "Velo本家が18ヶ月以内に日本語UIと国内決済を整え進出すれば、ローカルラッパーは即座に剥がれる",
+      "動画レンダリング・音声クローン・AI推論コストが従量で重く、ARPU¥2,500では粗利が薄い／赤字化リスク",
+      "音声クローン・自動録画機能は個人情報保護法・パブリシティ権・著作権の複合論点で個人開発の法務負荷が大",
+      "日本法人は合成音声・アバター動画への忌避感が残り、営業/サポート稟議が通らずTeamプラン以上の転換が伸びない"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

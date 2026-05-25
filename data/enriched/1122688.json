@@ -1,0 +1,240 @@
+{
+  "name": "Intent",
+  "description": "Describe a feature and AI agents build, verify, and ship it",
+  "ph_url": "https://www.producthunt.com/products/augment-code/launches/intent-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/24L77BJFDCD3MD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-15T07:01:00Z",
+  "upvotes": 369,
+  "comments": 46,
+  "topics": [
+    "Productivity",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Excited to hunt Intent by Augment Code today.</p><p></p><p>Intent is a developer workspace where agents coordinate and execute work end-to-end.</p><p></p><p>This isn’t a coding assistant. It’s an agent-driven development system.</p><p>Instead of prompting one agent at a time, you define a spec and a coordinator breaks it into tasks, delegating to specialists (implement, verify, debug, review) running in parallel.</p><p></p><p>This adds up to:<br>• Specs that stay alive as work progresses<br>• Built-in verification loops, not just code generation<br>• A full workspace (editor, terminal, git)</p><p></p><p>If you’ve been exploring agentic dev but didn’t want to build the orchestration layer yourself , this is definitely worth a look.</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Wrote up a post on how our teams collaborate within Intent. We've been able to effectively eliminate the designer/developer handoff. More details on the process, screenshots, etc: <a href=\"https://lukew.com/ff/entry.asp?2148\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://lukew.com/ff/entry.asp?2148</a></p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>How well does it handle larger, messy codebases in practice, where context and dependencies aren’t always clear?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Intent is a developer workspace built for agent-driven development. Define a feature as a spec, and a team of agents coordinates the work (from implementation to verification) inside an isolated workspace with built-in code, terminal, and git.",
+  "featured_at": "2026-04-15T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/2ca40459-692b-4a5d-9822-80ecfd0fcefb.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/360bf4cf-f28c-43f1-a553-4587bf700543.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cd185af0-d3cd-4630-b8d7-213529b41bb8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6be693ff-651f-4a8f-95d7-5fb862105162.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/96f3661a-9d7e-458b-8bca-5d7d1a55bf4f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3a41b7d8-d713-4f63-b823-e835064e7d49.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/38efed6a-95c2-4b88-8200-4ce9092d7eda.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:04",
+  "landing_meta": "(取得失敗: HTTP 404)",
+  "landing_text": null,
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T04:34:05",
+  "description_ja": "仕様を書けばAIエージェント群が実装・検証・出荷まで担う開発ワークスペース",
+  "summary_ja": "Augment Codeが提供する仕様駆動型のマルチエージェント開発環境。コーディネーター/実装/検証/レビューの各エージェントが分離worktreeで並列にタスクを進め、エディタ・ターミナル・gitを内蔵したワークスペース内で機能をend-to-endに完成させる。",
+  "tldr_ja": "Devin/Cursorと真っ向競合、本家$20-100/月で国内SI需要は強いが個人開発者が割り込む余地は薄い。skip寄り。",
+  "review_guide_ja": {
+    "what": "Intent は Augment Code が 2026 年 2 月にパブリックβ公開した仕様駆動マルチエージェント開発ワークスペース。ユーザーが feature を spec として記述すると、Coordinator エージェントがタスクに分解し、Specialist エージェント群（実装・検証・デバッグ・レビュー）が分離 git worktree 上で並列実行する。Verifier がスペックとの整合をチェックしてからレビューに回す living spec モデルを採用し、エディタ・ターミナル・git を内蔵したフル workspace を提供。BYOA（Bring Your Own Agent）でモデル切替も可能。Augment Code 本体（$20/月〜）の一機能として macOS で提供、Windows 待機リスト。",
+    "for_who": "中規模以上の開発チーム、特に複数機能を同時並行で進めたい SaaS 企業の開発組織、designer-developer ハンドオフを削減したい Web プロダクト企業、agent orchestration を自前で組みたくない開発者リード層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "マルチエージェント協調・分離worktree管理・living spec更新・verifier loop など複合的な orchestration 層を要し、LLM API コストも嵩む。個人での再現は機能を絞っても重い。"
+    },
+    "signals": [
+      "Cursor/Devin など先行プレイヤーの導入が国内大手（SmartHR・DeNA・Wantedly 等）で進行中で開発エージェント市場自体は急成長",
+      "GitHub Spec Kit や AWS Kiro など spec-driven 開発のフレームが 2025-2026 に登場し、概念は浸透中",
+      "PH 369 upvotes / 46 comments は dev tools カテゴリで及第点",
+      "Augment Code 本体は 200 社以上に採用済みでうち 90% 以上が Copilot からの移行という実績",
+      "国内 IT 人材は 144 万人で 2030 年に 40-80 万人不足見込み、生産性ツール需要は構造的に強い"
+    ],
+    "concerns": [
+      "ランディングが 404 で landing_meta 取得失敗（PH 経由 redirector）",
+      "Devin（$20-500/月）・Cursor・Claude Code・OpenHands など競合がすでに飽和",
+      "国内では Devin が DeNA など大手に既に深く食い込んでおり、個人開発者の入り込む余地が極小",
+      "Coordinator/Verifier 等の多段 LLM 呼び出しでトークン課金が嵩み、利益率確保が難しい",
+      "Roo Code が 2026/5/15 シャットダウン予定など spec-driven OSS 領域も流動的"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "Devin/Cursor が SmartHR・DeNA・Wantedly・リンクアンドモチベーション等で導入され、AI 駆動開発ツール需要は国内で顕在化。Qiita/Zenn でも spec-driven development や Devin 比較記事が継続的に投稿されており、関心は強い。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Devin・Cursor・Claude Code・GitHub Copilot・Windsurf・OpenHands・Cline・Kiro 等、国内外プレイヤーが乱立。日本市場でも Devin Enterprise や Cursor Business が既に深く浸透しており、ほぼ飽和状態。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "開発ツール SaaS で課金は法人カードが主で、特商法表示と個情法対応程度。電気通信事業法の届出は API 提供形態次第だが軽微。生成 AI 利用に伴う著作権・営業秘密ガイドラインは留意点だが導入を阻む規制ではない。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "UI は英語のままでも国内エンジニアは抵抗が薄く、コード/CLI 主体のため翻訳負荷は限定的。日本語コメント・README 対応と公式 docs 翻訳・Qiita 連載があれば実用上は十分。商習慣固有の UX 改修は不要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "SaaS サブスクは普及済みだが、国内 SI/SES は人月商売との衝突があり、AI が代替する大規模工数を SIer がどう売り上げに付け替えるか議論が続く。エンタープライズ稟議・PoC 重視の購買慣行があり個人開発者には不利。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Devin (Cognition AI)",
+        "url": "https://www.cognition.ai/",
+        "note": "国内 DeNA Enterprise 導入、Wantedly 全社導入、リンクアンドモチベーション 採用済み。Core $20/月〜、Team $500/月。自律実行型として直接競合。"
+      },
+      {
+        "name": "Cursor",
+        "url": "https://cursor.com/",
+        "note": "SmartHR が Business プラン全社配布、エンジニア定番 IDE。$20-40/月。spec-driven 機能・Background Agents も拡張中で機能面で直接競合。"
+      },
+      {
+        "name": "GitHub Copilot",
+        "url": "https://github.com/features/copilot",
+        "note": "$10-19/月、国内開発組織で最も普及。spec-driven 開発のための GitHub Spec Kit を 2025/9 公開し、orchestration 領域に侵入中。"
+      },
+      {
+        "name": "AWS Kiro",
+        "url": "https://kiro.dev/",
+        "note": "AWS が 2025/7 公開した spec-driven IDE。Intent のコンセプトに最も近く、国内 AWS ユーザー基盤からの流入が見込まれる。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "コードベース・ログを SaaS でホストする場合、顧客企業の社内情報を含む可能性があり個人情報・営業秘密のクラウド処理同意・委託契約整備が必要。BYOA でモデルを顧客側に置く形が国内大手に好まれる。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "サブスク販売には事業者表示・解約条件・自動更新表示が必要。SaaS では既定の整備で済む軽微な負担。"
+      },
+      {
+        "law": "著作権法 / 不正競争防止法",
+        "impact": "学習データ・コード生成に伴う著作権・営業秘密の取り扱いについて経産省や IPA ガイドライン遵守が求められる。エンタープライズ販売では商談で必ず論点化。"
+      }
+    ],
+    "opportunity": "本家が macOS のみで日本語ドキュメント・国内サポートに薄い間に、(1) 日本語 spec を厳密に解釈する spec-driven CLI の OSS 化、(2) 国内 SI 受託案件向けに『要件定義 markdown → 自動タスク分解 → PR 生成』の薄い orchestrator を Cline/Claude Code/Codex CLI 上で動かす拡張、(3) 日本語の現場仕様書（Excel/Confluence）を spec に変換する converter、あたりが個人開発の角度。Intent そのものと真っ向勝負はせず、上流（仕様）と下流（既存エージェントへの委譲）のニッチを取りに行く。",
+    "rationale": "国内の AI 駆動開発需要は構造的な IT 人材不足（2030 年 40-80 万人不足見込み）と相俟って強く伸びている。一方で Devin・Cursor・Copilot・Claude Code・Kiro・OpenHands と国内外プレイヤーが既に厚く、SmartHR/DeNA/Wantedly 等の大手が次々と本家を採用しており、Intent と同じレイヤー（マルチエージェントワークスペース）で個人開発者が割り込む余地はほぼない。ただし spec-driven のコンセプト自体は Qiita/Zenn でホットで、日本語仕様書を扱う薄いラッパーや受託向け orchestrator なら局所的勝機はある。総合的には demand 強・competition 飽和でスコアは中庸、verdict は skip が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "国内エンジニアは月額 $10-40 の AI ツール課金に慣れており、Cursor Business・Devin Team の事例から法人決裁も通る。ただし LLM 従量コストが嵩むため粗利確保が難しく、個人開発の収益化は freemium で導線敷くしかない。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内 IT エンジニア 144 万人のうち AI ツール課金潜在層は数十万人規模で TAM は十分。ただし大半は既に Copilot/Cursor を契約しており、後発の同レイヤープロダクトに乗り換える層は数千〜数万人規模に縮小する。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発者がリーチ可能なチャネルは Qiita/Zenn/X 中心だが、本家 Devin/Cursor 等はメディア露出・大企業導入事例で先行。PLG で個人課金は取れても、エンタープライズ商談（稟議・PoC・SLA）はソロでは厳しい。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "本家は既に macOS β公開かつ Augment Code 200 社採用済みで、Windows 版・日本語対応も時間の問題。GitHub Spec Kit や Kiro も普及中で時間窓は実質ほぼ閉じている。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "コーディング系開発ツールはトラブルシュート問い合わせ・モデル仕様変更追随・MCP/拡張アップデートが頻繁で運用負荷高。法人課金が入ると SLA 期待も上がり、24/7 まではいかずとも平日対応は必須。個人継続は厳しい。"
+      }
+    },
+    "rationale": "市場自体は急成長中で課金嗜好・TAM とも十分だが、Intent のような『フルワークスペース型マルチエージェント orchestration』は既に Devin・Cursor・Augment Code・Kiro・OpenHands が国内外で大手を押さえており、後発の個人開発者が同レイヤーで割り込むのは現実的でない。GTM 面でも個人 → 法人転換の壁が厚く、本家進出スピードも速いため timing 余裕がない。仮に参入するなら spec-driven 上流（日本語要件 → タスク化）や Cline 拡張といった狭い角度に絞った OSS / 副業マネタイズに留めるのが妥当で、本気の事業化対象としては推奨できない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "OSS 公開でスター獲得 → 法人サポート受託",
+        "Pro: ¥1,500/月（クラウド hosted spec converter のみ、想定 ARPU 控えめ）",
+        "Team: ¥9,800/月/seat（5 名以上）",
+        "Enterprise: 個別見積（オンプレ / BYOA 構成）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内 SI/受託開発企業の AI 駆動開発推進担当および、Cline/Claude Code を業務利用する個人・小規模チームの開発者。特に日本語の要件定義書から PR を生成したい受託エンジニア。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "OSS リポジトリで spec-driven CLI を公開し GitHub Trending 露出",
+      "Qiita / Zenn で『日本語要件書から PR を生成する流れ』連載を 5-10 本",
+      "X（旧 Twitter）開発者コミュニティでの開発過程公開（TAKUYA/devaslife 型）",
+      "Cline / Claude Code 拡張として配布しエコシステム内分配",
+      "受託開発企業向けに『SI 案件向けの個別カスタマイズ』を副業案件として受注"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Devin / Cursor / Copilot / Kiro / OpenHands と機能が完全に競合し、後発で同レイヤー勝負はほぼ不可能。差別化は spec の日本語処理など狭いニッチに限られる。",
+      "LLM API トークン消費がコーディネーター・実装・検証で 3-5 倍に膨らみ、月額数千円課金では粗利が出ない。",
+      "本家 Augment Code の Windows 対応 / 日本語化 / 国内パートナー発表のいずれかで猶予が一気に消える。実質 6-12 ヶ月以内が勝負。",
+      "国内大手は既に Devin Enterprise や Cursor Business を採用しており、後発が稟議を通すのは PoC・SLA 整備込みで個人開発の手に余る。",
+      "spec-driven OSS 領域は流動的（Roo Code が 2026/5 シャットダウン予定）で、エコシステム選定を誤ると拡張先が消える。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

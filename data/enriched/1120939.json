@@ -1,0 +1,270 @@
+{
+  "name": "Claude Code ultraplan",
+  "description": "Claude Code command that plans your codebase in the cloud",
+  "ph_url": "https://www.producthunt.com/products/claude-code-ultraplan/launches/claude-code-ultraplan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/TXL7PW25FK5ENL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-11T07:01:00Z",
+  "upvotes": 339,
+  "comments": 4,
+  "topics": [
+    "Productivity",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Claude Code’s new <strong>/ultraplan</strong> feels like a real shift in how devs plan before they build.<br></p><p><strong>What it is: </strong>A slash command that moves planning from the terminal into a collaborative browser experience on Anthropic’s cloud.</p><p></p><p><strong>Problem → Solution: </strong>Planning in CLI is rigid and linear. You get a wall of text, approve/reject, and repeat.<br>/ultraplan turns that into an interactive doc—comment on specific sections, iterate, and refine before writing a single line of code.<br></p><p><strong>What’s different: </strong>It cleanly separates planning (cloud) from execution (local or cloud)—which just makes sense.</p><p><br><strong>Key features:</strong></p><ul><li><p>Inline comments + emoji reactions on plans</p></li><li><p>Remote plan generation (your terminal stays free)</p></li><li><p>Iterate drafts until perfect</p></li><li><p>Execute in cloud (PR-ready) or send back to local env</p></li></ul><p><strong>Benefits:</strong></p><ul><li><p>Better collaboration and clarity</p></li><li><p>Less risky approvals for big changes</p></li><li><p>Faster iteration without blocking your workflow</p></li></ul><p><strong>Who it’s for: </strong>Engineers &amp; teams using Claude Code, especially for refactors, migrations, and complex builds where planning quality matters. This is one of those small UX changes that could have a big impact on dev workflows.</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a></p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>planning in the cloud while keeping execution local is the right call. curious if teams can share the plan for async review before execution - that changes the migration use case.</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>We are use to terminal. So is there a migration path for existing users?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "/ultraplan offloads implementation planning from your terminal to a cloud session, where you can annotate, revise, and approve the plan before execution. For engineers using Claude Code.",
+  "featured_at": "2026-04-11T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f969ae81-4ecd-4d88-a22f-34b7a5c57d46.png",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/7ecf460f-c13b-4b4e-86ee-721d2d5cfac9.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d775a652-8431-4890-8bad-4d17c9202e85.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e28be89b-beb1-4b31-8975-d59bd07690a7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/812edea0-de8e-421f-9a09-0cde5523e76f.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b48d9307-e066-4e20-8aec-d47c04f9d042.gif"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a2ea3533-58a9-4e7f-8987-4354652fc2b3.webp"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:20",
+  "landing_meta": "Plan in the cloud with ultraplan - Claude Code Docs — Start a plan from your CLI, draft it on Claude Code on the web, then execute it remotely or back in your terminal",
+  "landing_text": "Plan in the cloud with ultraplan - Claude Code Docs Skip to main content Claude Code Docs home page English Search... ⌘ K Ask AI Search... Navigation Claude Code on the web Plan in the cloud with ultraplan Getting started Build with Claude Code Administration Configuration Reference Agent SDK What's New Resources Getting started Overview Quickstart Changelog Core concepts How Claude Code works Extend Claude Code Explore the .claude directory Explore the context window Prompt caching Use Claude Code Store instructions and memories Permission modes Manage sessions Common workflows Prompt library Best practices Platforms and integrations Overview Remote Control Claude Code on the web Get started Reference Routines Plan in the cloud Ultrareview Claude Code on desktop Chrome extension (beta) Computer use (preview) Visual Studio Code JetBrains IDEs Code review & CI/CD Claude Code in Slack Documentation Index Fetch the complete documentation index at: https://code.claude.com/docs/llms.txt Use this file to discover all available pages before exploring further. Ultraplan is in research preview and requires Claude Code v2.1.91 or later. Behavior and capabilities may change based on feedback. Ultraplan hands a planning task from your local CLI to a Claude Code on the web session running in plan mode . Claude drafts the plan in the cloud while you keep working in your terminal. When the plan is ready, you open it in your browser to comment on specific sections, ask for revisions, and choose where to execute it. This is useful when you want a richer review surface than the terminal expects: Targeted feedback : comment on individual sections of the plan instead of replying to the whole thing Hands-off drafting : the plan is generated remotely, so your terminal stays free for other work Flexible execution : approve the plan to run on the web and open a pull request, or send it back to your terminal Ultraplan requires a Claude Code on the web account and a GitHub repository. Because",
+  "pricing_signals": [
+    "self-hosted",
+    "subscription",
+    "pricing",
+    "$1",
+    "$3",
+    "$12",
+    "$13",
+    "$23",
+    "$18",
+    "$14",
+    "$4",
+    "$2"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:21",
+  "description_ja": "コードベースの実装計画をクラウドで下書きするClaude Codeのスラッシュコマンド",
+  "summary_ja": "/ultraplanはCLIから計画タスクをClaude Code on the webへ渡し、クラウドで非同期に計画を生成、ブラウザ上でセクション単位にコメントして承認後にリモート/ローカル実行できるAnthropic純正機能。",
+  "tldr_ja": "Anthropic純正の計画機能のため日本の個人開発者が新規SaaS化する余地はほぼ無く、no_go判定。",
+  "review_guide_ja": {
+    "what": "Claude Code v2.1.91以降に同梱されるスラッシュコマンド/ultraplanが、ローカルCLIからの計画タスクをClaude Code on the webのプランモードセッションに転送する。クラウド側でClaudeが計画を非同期に下書きする間、開発者はターミナルで別作業を続けられる。計画が完成するとブラウザで開き、特定セクションへのインラインコメント、絵文字リアクション、改訂依頼を行える。承認後はクラウド上でそのまま実行してPRを起こすか、ローカルターミナルへ送り返して実行するかを選択できる。リファクタリングや大規模マイグレーション、複数ファイル横断の機能追加といった、計画品質が成果を左右するタスクに向く。GitHubリポジトリと連携、Pro/Max/Team/Enterpriseで利用可能。",
+    "for_who": "Claude Codeを既に契約するエンジニア・小規模開発チーム。特に大規模リファクタやマイグレーション、複雑な機能追加で計画段階のレビューを丁寧に回したい個人開発者と少人数チーム。GitHubリポジトリを利用していることが前提。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Anthropic純正でClaude Code本体の計画モードとクラウド基盤に密結合。同等品を作るならLLM接続、GitHub OAuth、計画レビューUI、ローカルCLI連携の全体実装が必要で本家外で使う動機が薄い。"
+    },
+    "signals": [
+      "Claude CodeはSWE-bench Verified 80.8%で先頭、エコシステム成長中",
+      "SemiAnalysis等がGitHubコミットの4%→年末20%へAI生成拡大を見立て",
+      "Anthropic東京拠点設立、みずほFGなど大型法人採用で日本浸透が進む",
+      "公式ドキュメントとカスタムスラッシュコマンド/MCP/フックなど拡張点が豊富",
+      "計画モード自体は既存ユーザーに浸透済みで需要は確認済み"
+    ],
+    "concerns": [
+      "Anthropic自身が無償提供する公式機能のため、有償の代替/上位互換を作る余地が限定的",
+      "Claude Code本家のリリース速度が極めて速く、サードパーティ機能はすぐ吸収される",
+      "GitHub上でClaude/Codexを直接実行する公式パスもあり囲い込みが進む",
+      "プランニングのみで完結する単独SaaSは課金ポイントが弱い",
+      "脆弱性事例(CVE-2025-59536等)もあり、純正以外を入れる心理障壁が高まっている"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "Claude Codeは国内で広く採用されWEEL/Qiita/Zenn/note等に解説記事多数。みずほFG30,000人利用やAnthropic東京拠点設立など法人需要も顕在。ただし需要対象はAnthropic純正/ultraplan自体であり、サードパーティが提供する別物としての需要ではない。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "国内に類似のクラウド計画レビュー単独事業者は不在だが、競合の本丸はAnthropic本家(無償同梱)とGitHub上のClaude/Codexエージェント公式パス。実質的に最強プレイヤーが標準機能として提供しており、参入余地は極めて狭い。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "計画ドラフトに業務情報を入力する場合は個情法・営業秘密管理上の留意は必要だが、特殊規制(金商法/医療機器規制等)の直接適用はない。SaaS化するなら個情法・特商法・電気通信事業法届出の一般論で済む。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "Claudeは既に日本語処理に強く、ドキュメントも日本語版完備。UIは英語中心だが計画文章の生成/レビューは日本語で実用可能。深いUX改修は不要。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "国内SI/受託では設計書/レビュー文化が強くfit可能性はあるが、その層はクラウドにコードや計画を上げる事に保守的。個人開発者・スタートアップ層には自然に馴染む。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Anthropic Japan (Claude Code)",
+        "url": "https://code.claude.com/docs/ja/ultraplan",
+        "note": "本機能の提供元そのもの。Pro/Max/Team/Enterprise契約に同梱で追加課金なし。日本語UI/ドキュメント、東京拠点で法人サポートも開始。事実上の独占供給。"
+      },
+      {
+        "name": "GitHub Copilot (Agent HQ)",
+        "url": "https://gihyo.jp/article/2026/02/github-agent-hq-claude-and-codex",
+        "note": "Copilot Pro+/EnterpriseでClaudeやCodexをエージェント実行可能。VS Code/GitHubで計画→実装まで完結、別途プランニング専用SaaSの必要性を薄める。"
+      },
+      {
+        "name": "Cursor",
+        "url": "https://www.nxcode.io/resources/news/cursor-vs-claude-code-vs-github-copilot-2026-ultimate-comparison",
+        "note": "Composerで複数ファイル編集とプランニングを内包。$20/月。プランニングUXは内製で完結する方向。"
+      },
+      {
+        "name": "Devin (Cognition)",
+        "url": "https://medium.com/@anubhavgoyal101/claude-code-vs-cursor-vs-devin-vs-copilot-in-2026-the-comparison-everyone-is-still-getting-wrong-5afd6ceff3e7",
+        "note": "仕様渡しで自律実装まで進めるエージェント。プランニングと実行が一体化されており別建てSaaSの隙間が狭い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "計画ドラフトに顧客情報やコードを投入する場合、第三者提供/越境移転の論点が出る。実処理は海外リージョンの可能性もあり、法人導入時は委託先管理・同意取得・安全管理措置が必要。サードパーティが類似SaaSを作る場合も同じ義務を負う。"
+      },
+      {
+        "law": "不正競争防止法・営業秘密管理",
+        "impact": "コードや設計書を外部クラウドへ上げる行為が秘密管理性の喪失と判断されるリスクあり。社内規程との整合確認が前提となり、法人売りでは導入障壁となる。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "SaaSとして第三者通信を媒介する形なら届出電気通信事業者該当性を要確認(2023年改正の外部送信規律含む)。一般的なB2B SaaSの範疇で対応可能。"
+      }
+    ],
+    "opportunity": "ultraplan単体の日本SaaS化余地は薄いが、周辺角度がある。(1)日本語の業務要件定義(発注書/RFP)を入力しultraplan前提の構造化英語promptを自動生成する補助、(2)ultraplan成果物(計画書PR)を国内Backlog/Notion/Confluenceに自動同期しレビュー履歴を残すコネクタ、(3)受託SI向けにIPA/官公庁準拠の設計書様式へultraplan出力を変換するアドオン。本機能の代替ではなく、本機能を前提にした日本ローカル文脈の橋渡しに勝機がある。",
+    "rationale": "プロダクト本体はAnthropic純正で日本での需要顕在性は高い一方、競合は事実上Anthropic自身でありサードパーティが同領域で稼ぐ余地は極小。規制リスク・日本語化容易性・開発者文化との相性は良好だが、参入機会は『ultraplanの代替』ではなく『ultraplanを前提にした日本固有ワークフロー(SI設計書様式・国内SaaS連携)への橋渡し』に限られる。個人開発者がここに正面突破するのは難しく、スコア6で観察対象。エコシステム拡張(custom slash command/MCP/フック)を活用した補助ツール開発を検討するのが現実的。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "対象機能自体はClaude Code契約に無償同梱。代替や上位互換を有償提供しても乗り換え動機が弱い。周辺コネクタ程度の付加価値だと月額数百円〜千円台に収束しやすくARPU確保が難しい。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内IT人材144万人中、Claude Code有償ユーザーは限定的でultraplanを能動利用する層は更に絞られる。周辺ツール需要層は数千〜数万人規模と見るのが妥当で、根拠未確認の概算。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Qiita/Zenn/X/noteなど開発者リーチ手段は充実、Claude Code関連記事は爆発的に増えておりPLG導線は引きやすい。一方でAnthropic公式の声量に埋もれやすく純然たるPLGで月商化するには工夫が要る。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "本家がリサーチプレビューから本実装まで1日〜1ヶ月で進めるサイクルにあり、サードパーティ機能はすぐ取り込まれる。GitHub Agent HQやCursor Composer等も同方向で進化中で時間窓は極めて短い。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "周辺コネクタ/テンプレ変換系の小さなSaaSなら個人運用は可能。ただしClaude Codeの仕様破壊的変更に追従するメンテ負荷は継続的に発生する。SLA期待値は開発者向けなら緩めで運用しやすい。"
+      }
+    },
+    "rationale": "Anthropic純正機能に対して同領域で有料SaaSを成立させるのは現実的でない。周辺コネクタや日本ローカル様式変換へピボットすれば個人運用は可能だが、ARPUは低くTAMも限定的、しかも本家のリリース速度が速いため時間窓は短い。GTMチャネル自体は整っているが、得られる月商規模はサイドプロジェクト水準に留まりやすい。事業性は弱くbusiness_viability_scoreは5。本気で取り組むより、自社開発の生産性向上(Claude Codeを使い倒す側)に時間を投じる方が期待値が高い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 980,
+      "plans": [
+        "Free: 計画→IPA様式変換 月10件まで、Claude Code連携1リポ",
+        "Pro: ¥980/月 月100件 + Backlog/Notion自動同期 + 個情法配慮の社内秘匿項目マスキング",
+        "Team: ¥4,800/月(5席) 共有テンプレ + 監査ログ + SSO(SAML/Google)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Claude Codeを既に有償契約しており、社内向けに日本語設計書/レビュー履歴を残す必要がある国内の個人開発者・小規模受託開発・社内SE。Backlog/Notion/Confluenceを設計書置き場に使い、Claude Code on the webからPRを起こしているレイヤー。",
+      "target_count": 5000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 98000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『ultraplan + IPA設計書様式変換』ハンズオン連載",
+      "X(個人発信)でClaude Codeコミュニティ向けにテンプレ無料配布→Pro誘導",
+      "Claude Code custom slash command/MCPサーバとしてOSS公開し有償ホスト版へ誘導",
+      "Backlog/Notion公式ディレクトリへの連携アプリ掲載",
+      "社内SE向けの個人ブログ/Findy/note記事で工数削減事例を共有"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Anthropicが日本ローカル様式テンプレや国内SaaSコネクタを公式で取り込むと一夜で陳腐化する。リリース速度が日次の世界でこの確率は高い。",
+      "Claude Codeの仕様変更(スラッシュコマンドAPI/MCPプロトコル/Web側UI)に追従するメンテが恒常的に発生し、個人で続けると消耗する。",
+      "コード/計画書を扱う性質上、個情法・営業秘密管理・社内コンプラ要件が厳しく、法人売りで導入承認が下りない事案が多い。",
+      "ARPUが低くTAMも限定的で、月商10万円規模で頭打ちになりやすくフルタイム化できない。",
+      "脆弱性事例(CVE-2025-59536等)で純正以外をClaude Code環境に入れる心理障壁が上がっており、サードパーティ導入の説得コストが大きい。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

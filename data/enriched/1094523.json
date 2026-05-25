@@ -1,0 +1,279 @@
+{
+  "name": "ZeroHuman.",
+  "description": "Your AI Co-Founder: OpenClaw x Paperclip x Spud",
+  "ph_url": "https://www.producthunt.com/products/zerohuman/launches/zerohuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/L3CUXEKRSM5VTT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-25T07:01:00Z",
+  "upvotes": 443,
+  "comments": 31,
+  "topics": [
+    "Artificial Intelligence",
+    "Marketing automation",
+    "Vibe coding"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hello PH fam! <br><br>To be honest, I originally built ZeroHuman as a tool for myself, but I wanted to share it with you all as well.<br><br>It's every founders dream to have a \"lab\" where you can spin out tons of products, but this was never really possible before because it's just too hard to even run <strong>one</strong> company. However, AI is now advanced enough to make this dream make this a reality. <br><br>So we built ZeroHuman to combines 4 tools to let you create your own \"zero human\" companies:<br><br>1) <strong>OpenClaw</strong>: Chat with your AI Co-Founder<br>2) <strong>Paperclip</strong>: Manage tasks for your company<br>3) <strong>GPT 5.5 Spud</strong>: Code with <em>the</em> frontier model<br>4) <strong>Cracked.ai:</strong> Market with automated viral reels<br><br>AI is potentially coming for everyone's job.<br>Our mission is to make AI work for <strong>you </strong>instead.<br><br>Hope you enjoy, let us know what you think!<br>Dan<br><br><br></p>",
+      "votesCount": 24,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations the launch. <a href=\"https://www.producthunt.com/@dansutera\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"dansutera\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@dansutera</a> </p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Two years ago, Sam Altman predicted we'd see the first one-person billion-dollar company. At the time it sounded like Silicon Valley hyperbole. Today it sounds like a roadmap. Pieter Levels is running a $3M+ ARR portfolio as a solo founder with zero employees. Midjourney hit $200M ARR with ~11 people. The bottleneck isn't ambition or capital anymore, it's bandwidth.</p><p></p><p>That's the gap Zero Human is filling:</p><p>– OpenClaw (361k+ GitHub stars) for the always-on, mobile-first chat layer – your co-founder lives on your phone</p><p>– Paperclip (57k+ stars) for orchestration – the structure that makes it feel like a real co-founder, not just a chatbot</p><p>– Cracked for the daily content engine – short-form video on TikTok, Instagram, YouTube</p><p></p><p>Tried it myself a few days ago. What stood out is the clarity. It actually generates documentation as you go (mission, PRD, daily reports), so you have a real reference point for where you've been and where you're heading. Zero Human gives you a map for the journey.</p><p></p><p>One meaningful project per day, runs at night, you wake up to a briefing. This is one of the first products that actually feels like having a co-founder, not operating a tool.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Start or grow your business while you sleep. Use AI to run tasks, validate ideas, build products, and grow your business — all on autopilot.",
+  "featured_at": "2026-04-25T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/cb8d5f91-e76a-4205-80d8-80d9c1251f3c.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9192c6e4-c90a-4f7f-a51f-c46a74f54161.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e2a4e32a-9122-4343-8031-0be378e0fde9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a51086f8-88e0-44e2-bb5d-4f43d84d2de3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dea1ede6-1653-4d43-abb7-20151d80772a.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/c9d2edf0-834a-4cf0-807a-1182ecbe9b6e.gif"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T03:46:29",
+  "landing_meta": "ZeroHuman Inc | Your AI Co-Founder — ZeroHuman helps founders onboard faster, automate operations, and run growth workflows from a single AI-powered workspace.",
+  "landing_text": "ZeroHuman Inc | Your AI Co-Founder Ava Direct Funloving Safe Risktaker Driven Flexible Daniel Direct Funloving Safe Risktaker Driven Flexible Marcus Direct Funloving Safe Risktaker Driven Flexible James Direct Funloving Safe Risktaker Driven Flexible Scarlett Direct Funloving Safe Risktaker Driven Flexible Meet your new AI co-founder. Start or grow your business while you sleep. Use AI to run tasks, validate ideas, build products, and grow your business — all on autopilot. Start Chatting with Marcus How It Works Start or grow your business Start Grow Start Grow Step 1 Brainstorm with your co-founder Bounce ideas, explore markets, and find your niche — together with your AI partner. Step 2 Test market demand Validate your idea by building landings, running surveys, tweeting, and talking to real people. Step 3 Build your digital product Go from idea to a working MVP. Your co-founder handles the heavy lifting for you. Step 4 Organic viral marketing Your free Cracked agent drives word-of-mouth growth and gets your first users. Step 5 Ongoing support Your co-founder sticks around for the long haul — iterating, improving, and supporting you. Step 6 Watch the money roll in See revenue grow in real time with dashboards that update automatically. Iterate and scale. Your Daily Routine We work while you sleep. Your AI team runs 24/7. Here's what a typical night looks like. Step 1 Your team does ONE big project per day AI agents tackle your most important task every single day. Step 2 You check in to approve Review, give feedback, and approve — all from your phone. Step 3 You get messaged with results Get notified when tasks are done. No micromanaging required. Open Source Powered by open source. Built on the most trusted open-source AI infrastructure. OpenClaw 344k Most Popular Ever Most popular open-source AI agent framework. Powers your personal agents. Paperclip 43.6k Top 10 Fastest Growing Top 10 fastest growing open-source project. Powers your company dashboard. Video Cre",
+  "pricing_signals": [
+    "free trial",
+    "open source",
+    "open-source",
+    "subscription",
+    "pricing",
+    "$49",
+    "$99",
+    "$12",
+    "$48",
+    "$49/mo",
+    "$99/mo",
+    "$1"
+  ],
+  "landing_fetched_at": "2026-05-26T03:46:30",
+  "description_ja": "あなたのAI共同創業者 — OpenClaw・Paperclip・Spudを統合した「ゼロ人経営」プラットフォーム",
+  "summary_ja": "OpenClaw(チャット)・Paperclip(タスク管理)・GPT5.5 Spud(コーディング)・Cracked(SNSマーケ)を1つにまとめ、就寝中もAIエージェントチームが事業を24/7で運営することを目指す、個人起業家向けの自律型ビジネス運営SaaS。",
+  "tldr_ja": "自律AI起業プラットフォームは話題性はあるが、日本では月$49〜99の課金抵抗と人手介在重視の商習慣で個人開発は厳しい。OSS活用が筋。",
+  "review_guide_ja": {
+    "what": "OpenClaw(オープンソースのAIエージェントフレームワーク、344k stars)、Paperclip(エージェントオーケストレーション、43.6k stars)、GPT5.5 Spud(コーディング向け強化モデル)、Cracked(ショート動画自動生成)の4ツールを束ねたSaaS。ユーザーは『ミッション』『プラン』『予算』を定義し、AI共同創業者(Ava/Daniel/Marcus/James/Scarlett等の人格)がブレスト、ランディング作成、サーベイ、MVP構築、SNSマーケ、PRD・日次レポート生成までを24/7で実行。1日1件の大きなタスクを夜間処理し、朝にユーザーが承認するワークフロー。Solo $99/月とPartner $49/月+10%売上シェアの2プラン、各30 daily tasks。",
+    "for_who": "副業や独立を始めたい個人起業家、複数プロダクトを並行運用したい連続起業家、AI活用に積極的でモバイル中心ワークフローを好むソロファウンダー。一定の英語耐性と『AIに任せる』判断ができる層が対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "コア部品(OpenClaw・Paperclip)はOSSで再現可能だが、各エージェントのプロンプト設計、Cracked連携、課金/承認UX、コスト管理、Spudモデル接続まで束ねるのは個人には負荷大。"
+    },
+    "signals": [
+      "OpenClaw 344k stars / Paperclip 43.6k stars と背景OSSが極めて強い",
+      "PH 443 upvotes・31コメントで一定の関心",
+      "『AIで一人会社』『Pieter Levels』文脈の追い風",
+      "$49+レベシェアという新しい課金モデルへの挑戦",
+      "モバイルファーストUIで承認フローを完結"
+    ],
+    "concerns": [
+      "『何でもやる』スコープで差別化軸が曖昧",
+      "OSSが強力なため自前構築されやすく囲い込みが弱い",
+      "AIエージェントの自律実行品質が未検証(動画デモ中心)",
+      "1日1プロジェクト制約と実際の事業速度のミスマッチ懸念",
+      "売上シェア型は会計・税務処理が日本では煩雑"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "国内では『AI副業』『ひとり起業』文脈は伸びているが(2026年AI副業トレンド記事多数)、自律エージェントによる完全自動経営という形での需要シグナルはまだ薄い。Difyや汎用LLMで部分自動化する流れが主流で、フル『co-founder型』への顕在需要は中程度。"
+      },
+      "competition": {
+        "score": 6,
+        "reason": "国内で『AI共同創業者』と直接競合するSaaSは現時点で確認できず空白に近い。ただしDify、ChatGPT、Gemini等の汎用LLM+ノーコードでの代替が容易で、間接競合は強い。CyberAgentがDifyを社内展開する等、企業側はOSS自前活用の傾向。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "AI事業者ガイドライン1.2版や個情法改正の影響はあるが、エージェント自体は『B2C個人開発支援ツール』のため重い業法は基本かからない。出力物の責任、個人情報の取扱い(顧客リストやSNS投稿生成)、特商法表記、ステマ規制(景表法)に留意が必要。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UIや人格(Ava/Daniel等)の日本語化は容易だが、SNSマーケ(Cracked)を日本のX/TikTok/Instagram文化に最適化するのは深いUX改修が必要。日本語の口語トーン、炎上回避、商習慣まで踏み込まないと『海外のAI共同創業者』のまま使えない。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本は対面・人間関係重視で『AIに経営を任せる』ことへの心理抵抗が高い。BtoB領域では稟議・契約書・人間担当者を求める文化が強く、自律エージェントによる事業運営はBtoC個人副業層に絞っても普及まで時間がかかる。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Dify (日本展開)",
+        "url": "https://dify.ai/jp",
+        "note": "ノーコードAIエージェント開発OSS/SaaS。CyberAgent等で利用拡大。汎用性が高く『co-founder型』も自前で組める間接競合。"
+      },
+      {
+        "name": "secondz digital",
+        "url": "https://secondz.com/",
+        "note": "AIエージェントによる業務支援を法人向けに提供。個人起業ではなく企業のAIネイティブ化が主軸で直接競合ではないが、エージェント認知を作る。"
+      },
+      {
+        "name": "クウゼン (Kuuzen)",
+        "url": "https://kuzen.io/",
+        "note": "ノーコードAIエージェント構築SaaS。カスタマーサポート等業務向け。個人起業向けではないが国内AIエージェント市場の代表格。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "エージェントが顧客リスト・サーベイ回答・SNS DMを扱う場合、取得目的明示と安全管理措置が必要。2026年改正で統計利用は緩和方向だが、第三者LLMへの委託扱い・越境移転の明示は依然リスク。"
+      },
+      {
+        "law": "景品表示法・ステマ規制",
+        "impact": "AIが自動生成するSNS投稿(Cracked連携)で広告であることの明示義務違反リスク。2023年10月施行のステマ規制で個人事業主も対象、違反は措置命令の可能性。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "AIが自動生成したLPで物販・サブスク販売する場合、事業者情報・解約方法等の表記義務。サブスクの定期購入トラブル抑止改正(2022)も適用される。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "AI生成コンテンツの学習データ・出力物の権利関係が未整備。Cracked連携のショート動画で他者素材を取り込んだ場合の侵害リスクは利用者(個人)に帰属しがち。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては、(1)国内特化SNS(X日本コミュニティ、note、Threads)に最適化したCracked代替の『ステマ規制準拠投稿エージェント』、(2)請求書発行・インボイス・電子帳簿保存法対応をエージェントに組み込んだ『ひとり会社バックオフィス自動化』、(3)Qiita/Zenn連載とプロダクト立ち上げをセットで支援する『個人開発co-founder』、の3方向が考えられる。本家ZeroHumanは横展開志向のため、縦切り日本特化なら隙間あり。OSSを土台にした受託+SaaSのハイブリッドも一案。",
+    "rationale": "日本市場ではAI副業や自動化への関心は高まっているが、『AIに事業まるごと任せる』というZeroHumanのコンセプトはBtoB商習慣・対面文化・課金抵抗の3要因で受け入れまで時間がかかる。一方、競合空白でOSS資産が公開されているため、日本特化の薄い垂直アプリ(バックオフィス、SNSステマ規制準拠、Qiita連動GTM等)に絞れば一定のwatch価値はある。フル機能版を直輸入で攻めるのは推奨しない。検索で根拠が取れた範囲ではDify中心の汎用エージェント文化が強く、co-founder型は教育コストを要する。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "本家価格$49+レベシェア/$99(約¥7,000〜14,000/月)は日本の個人向けSaaS相場(3,000〜5,000円ゾーンが最大)より高く、課金抵抗が大きい。レベシェア型は税務・確定申告の手間で個人事業主に嫌われやすい。Freemium+低額月額に再設計しないと国内成立は困難。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内フリーランス約462万人、本業フリーランス209万人、ITフリーランス市場は10年で1.6倍成長見込みと土壌はある。ただし『AIに事業を委ねたい個人起業家』に絞ると数万人規模に縮む。広いがコア顧客は薄く中程度。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "Qiita/Zenn/X発信、noteでの実例公開、YouTube(devaslife型)、AI副業系メディア露出など個人開発GTMの王道は使える。一方で『AI co-founder』は概念説明が必要で、無料枠で価値体感→課金転換のハードルが高い。PLG単独では難しく教育コンテンツとセット。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "OSSのOpenClaw/Paperclipが既に普及しており、本家ZeroHuman以外にも『Paperclipで作る』チュートリアルが多数存在。汎用LLMの進化も速く、独自SaaSとしての差別化ウィンドウは12〜18ヶ月程度と短い。海外本家も日本展開しやすい設計。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "AIエージェントの暴走、API課金の超過、SNS自動投稿の炎上対応、ユーザーが生成したコンテンツのモデレーション、決済・売上シェア計算等、個人運用には24/7監視が必要な要素が多い。LLM APIコスト管理だけでも継続的負荷大。"
+      }
+    },
+    "rationale": "本家ZeroHuman型を日本向けに再現する事業性は低い。理由は(1)$49〜99の月額が日本個人SaaS課金ゾーン(3,000〜5,000円)から外れ、(2)自律エージェントによる炎上・誤生成リスクで個人運用の負荷が高く、(3)コア部品がOSSで参入障壁が低いため価格競争に巻き込まれやすい。一方、日本のフリーランス・副業市場は拡大しており、特定タスク(SNS自動投稿のステマ準拠、インボイス対応、Qiita連動マーケ等)に絞れば月額3,000〜5,000円の薄い垂直SaaSとしてニッチ成立はあり得る。フル機能横展開はno_go、特化縦切りはwatch〜considerが妥当。検索ではこの組合せの直接競合は未確認だが、汎用LLMで代替されやすい点に注意。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 7000,
+      "plans": [
+        "Free: 月10タスク・基本エージェント1体・ウォーターマーク付き出力",
+        "Solo: ¥3,980/月 — 月100タスク・エージェント3体・SNS自動投稿含む",
+        "Pro: ¥9,800/月 — 月500タスク・エージェント無制限・優先サポート・APIアクセス",
+        "Team: ¥29,800/月 — 共同編集・上限なし・SSO(法人個人事業主向け)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "副業/独立志向のITフリーランス・個人開発者・連続起業家のうち、AI活用に積極的でモバイル+夜間ワークフローを許容する層。具体的にはQiita/Zenn/X日本テック圏のアクティブ発信者、note有料記事購読者、Indie Hackers的志向の30代エンジニア層。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 630000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『OSS Paperclipで作る一人会社』技術連載+自社プロダクトCTA",
+      "X日本テック圏でDaily Buildログ公開(Pieter Levels型ビルドインパブリック)",
+      "noteで実証ケース『AI co-founderで月3万円稼ぐ』有料記事+無料枠導線",
+      "AI副業系メディア(SBビット、kindleダイレクト等)への寄稿で認知獲得",
+      "Discord/Slackで『AI co-founderオーナー』コミュニティ運営し継続課金率向上",
+      "PLG: 無料枠でMVP生成体験→課金プランで継続実行という体感型ファネル"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "AIエージェントによる暴走・誤生成・炎上で個人責任を問われるリスク(景表法ステマ規制違反、著作権侵害、誤情報拡散)。利用規約と監査ログだけでは免責困難。",
+      "LLM API原価がARPUを上回るユニットエコノミクス崩壊。月3,980円プランで深く使うユーザーが赤字化、無料枠悪用も発生しやすい。",
+      "OSS(OpenClaw/Paperclip)が公開されているため、競合や個人開発者が自前構築に流れ、SaaS版の有償価値が薄れる。差別化はUXと日本特化機能でしか作れない。",
+      "本家ZeroHumanの日本進出(翻訳UIのみで)に12〜18ヶ月以内に追いつかれる時間圧。価格・コミュニティで先回りしないと負ける。",
+      "個人事業主の確定申告・インボイス・電帳法対応など『日本特化のバックオフィス』を組み込まないと差別化できないが、その実装は法律改正追随が必要で個人運用に重い。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T19:02:22Z",
+  "review_guide_at": "2026-05-25T19:02:22Z",
+  "business_viability_at": "2026-05-25T19:02:22Z",
+  "advisor_view_at": "2026-05-25T19:02:22Z"
+}

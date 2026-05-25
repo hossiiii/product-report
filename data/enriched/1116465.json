@@ -1,0 +1,217 @@
+{
+  "name": "Moonshot ",
+  "description": "Track the Artemis II mission from your Mac",
+  "ph_url": "https://www.producthunt.com/products/moonshot-13/launches/moonshot-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/GDTDNLE4GZ3EBU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-06T07:01:00Z",
+  "upvotes": 460,
+  "comments": 37,
+  "topics": [
+    "Space",
+    "GitHub",
+    "Menu Bar Apps"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey everyone! <br><br>I've always been fascinated with everything space and NASA and while I was consuming absolutely everything I could about Artemis II, I started to think I'd love an app to track all of the phases for me. So I built it over the weekend. <br><br>Features:<br><br>Live countdowns to key Artemis II events<br>Mission phases including outbound, lunar flyby, return leg, re-entry, and splashdown<br>Mission elapsed time (MET)<br>Artemis II crew roster<br>NASA-sourced timeline and public mission update data<br>Menu bar-only macOS app built with SwiftUI<br><br>It should take you all the way to splashdown. <br><br>Hope you all enjoy, and if you have any feedback, drop it in the comments! :)</p>",
+      "votesCount": 20,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><a href=\"https://www.producthunt.com/@aaronoleary\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"aaronoleary\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@aaronoleary</a> This is pretty cool, didn’t realize there was this much structured data available for Artemis missions.</p><p>Are you pulling this straight from NASA APIs or doing some processing in between?  how real-time this actually is?</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>That is so good, like reading scientific journals!<br><br>What are your feature plans? </p><p></p><p>I see in the comments that you think about something like Flighty for space missions, what about something like space history &amp; launches timeline with visualizations and historical facts? </p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "A macOS menu bar app built with SwiftUI that tracks NASA’s Artemis II mission in real time, showing mission phases, countdowns to key lunar flyby and return events, mission elapsed time, crew, live telemetry context, and a space-themed Earth-Moon-Orion timeline. Uses publicly available NASA mission data and timeline updates.",
+  "featured_at": "2026-04-06T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/10dd95f7-48ed-412b-8322-b8ad7da90514.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ea2ccbe7-6cfc-4b96-a1fa-7f40f7349cee.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6992d6e0-028e-40fe-80a0-ce19ceab6374.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6622d33c-1b01-43fe-8a43-df567b959209.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/38446a4c-3abb-446d-9f6b-d57567abf5ed.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7c888a4d-a5e2-4577-9f54-5ce7402ad377.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:23",
+  "landing_meta": "GitHub - aaronoleary/artemis-ii-lunar-countdown at producthunt · GitHub — A sleek macOS menu bar app built with SwiftUI that tracks NASA’s Artemis II mission in real time, showing mission phases, countdowns to key lunar flyby and return events, mission elapsed time, crew, live telemetry context, and a space-themed Earth-Moon-Orion timeline. Uses publicly available NASA mission data and timeline updates. - GitHub - aaronoleary/artemis-ii-lunar-countdown at producthunt",
+  "landing_text": "GitHub - aaronoleary/artemis-ii-lunar-countdown at producthunt · GitHub Skip to content You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert aaronoleary / artemis-ii-lunar-countdown Public Notifications You must be signed in to change notification settings Fork 2 Star 16 main Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 5 Commits 5 Commits ArtemisIILunarCountdown.xcodeproj ArtemisIILunarCountdown.xcodeproj ArtemisIILunarCountdown ArtemisIILunarCountdown marketing marketing .gitignore .gitignore README.md README.md View all files Repository files navigation Artemis II Lunar Countdown Artemis II Lunar Countdown is a macOS menu bar app for following NASA's Artemis II mission with live countdowns, mission phases, mission elapsed time, crew info, telemetry context, and a space-themed Earth-Moon-Orion mission view. Download Download the latest macOS release If macOS blocks the app the first time you open it: Open Finder Right-click the app Choose Open Click Open again in the warning dialog After that first launch, macOS should let you open it normally. Features Live countdowns to major Artemis II mission events Mission phases including outbound, lunar flyby, return leg, re-entry, and splashdown Mission elapsed time (MET) Artemis II crew roster MASA-sourced mission schedule and public update data Menu bar-only macOS app built with SwiftUI Build From Source Open ArtemisIILunarCountdown.xcodeproj in Xcode Select the Artemis II Lunar Countdown scheme Choose My Mac as the destination Run the app Requirements: macOS 13 or later Xcode 15 or later recommended Project Layout ArtemisIILunarCountdown/ - Swift source, assets, and app plist ArtemisIILunarCountdown/ - Xcode project Data Sources The",
+  "pricing_signals": [
+    "open source",
+    "subscription",
+    "pricing",
+    "premium"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:25",
+  "description_ja": "アルテミスIIミッションをMacのメニューバーから追跡するSwiftUI製アプリ",
+  "summary_ja": "NASAのアルテミスII有人月飛行ミッションのフェーズ・カウントダウン・経過時間・クルー情報をmacOSメニューバーに常駐表示するSwiftUI製のニッチな宇宙ファン向け無料/OSSアプリ。",
+  "tldr_ja": "単一ミッション限定の宇宙ファン向けOSSアプリで日本でも需要薄く課金困難、事業化はno_go。",
+  "review_guide_ja": {
+    "what": "NASAのアルテミスII（2026年4月打ち上げ済、月フライバイ・スプラッシュダウンまで継続中）の進行状況をMacメニューバーから常時確認できるSwiftUI製アプリ。主要機能は(1)主要イベント（外向き航行、月フライバイ、帰還、再突入、着水）までのライブカウントダウン、(2)現在のミッションフェーズ表示、(3)Mission Elapsed Time、(4)クルー4名のロスター、(5)地球・月・オリオン船の宇宙空間レイアウトビュー、(6)NASA公開タイムライン/アップデート取り込み。GitHub公開のオープンソース（Star16・Fork2）で、ユーザはxcodeprojをビルドするか配布バイナリをダウンロードして利用する。典型用途は「宇宙ファンが業務PCの片隅でリアルタイム進捗を眺める」「教育者がアルテミスIIを授業で言及する際の参照」など、明確に趣味/教養レイヤー。",
+    "for_who": "NASA・アルテミス計画に強い関心を持つ宇宙好きのmacOSユーザ、SwiftUI学習者（コード参考用）、宇宙関連の教育者・科学コミュニケーター、メディア関係者。日本では宇宙ファン層は存在するが、macOSメニューバーで常駐通知を求めるニッチ層は限定的。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "SwiftUI+NASA公開データのみで構築。GitHub公開済みで実装規模も小（5コミット）、週末プロジェクトとmaker自身も明言。日本人開発者でも数日で複製可能だが、ミッション固有の付加価値は薄い。"
+    },
+    "signals": [
+      "PH 460 upvotes / 37 comments とニッチ題材にしては好反応",
+      "「Flighty for space missions」と汎用化を促すコメントあり（横展開ヒント）",
+      "アルテミスII打ち上げ成功（2026/4）で全世界的に宇宙関連ニュース注目度が上昇",
+      "OSS公開で再現容易・他者がフォーク改変しやすい",
+      "JAXA・トヨタも参画、日本人宇宙飛行士派遣決定でアルテミス文脈は国内でも継続"
+    ],
+    "concerns": [
+      "対象ミッションがアルテミスII単体に固定、スプラッシュダウン後は機能停止状態",
+      "macOSメニューバー限定でモバイル無し、日本ユーザのリーチが極小",
+      "課金要素ゼロ（GitHub無料配布）で売上設計が存在しない",
+      "NASA公開データ依存でAPI仕様変更・更新停止リスク",
+      "ニッチ趣味アプリのためサポート問い合わせが多言語で発生する可能性"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 7,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "アルテミスII打ち上げで日本メディア（日経・Forbes JAPAN・sorae・アストロアーツ）も大きく報道、JAXA参画・日本人飛行士派遣決定で文脈関心はある。ただし『メニューバーで常時カウントダウンを見たい』というニッチ需要シグナルは検索で根拠未確認。宇宙ファン層自体が母数の小さい趣味市場。"
+      },
+      "competition": {
+        "score": 7,
+        "reason": "日本語でのアルテミスII特化Macメニューバーアプリは検索で発見できず、直接競合はほぼ不在。ただしsorae.info、ファン!ファン!JAXA!、JAXA公式X等の無料情報ソースが事実上の代替で、アプリ化する追加価値が薄い。"
+      },
+      "regulation": {
+        "score": 10,
+        "reason": "NASA公開データの単純表示で個情法・特商法・電気通信事業法いずれも基本不該当。課金実装した場合のみ特商法表記義務が発生するが、現状OSS無料配布で規制リスクほぼゼロ。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "表示文字列のローカライズ（mission phase名、クルー名、日付フォーマット）のみで日本語化は容易。SwiftUIのString Catalogで30分作業レベル。深いUX改修は不要で技術的障壁は低い。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本の宇宙関連消費は無料情報（NHK、JAXA公式、sorae）で済ませる慣習が強く、アプリ単体課金文化と相性が悪い。一方でガジェット/常駐ツールへのこだわり層は存在し、買い切り500-1500円なら極小数ながら一定の購入は見込める。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "sorae（宇宙ポータル）",
+        "url": "https://sorae.info/",
+        "note": "日本最大の宇宙ニュースポータル。ロケット打ち上げ予定・結果の網羅的記事を無料公開、アルテミスII報道も多数。アプリではなくWeb媒体だが情報取得目的では十分な代替。"
+      },
+      {
+        "name": "ファン!ファン!JAXA!",
+        "url": "https://fanfun.jaxa.jp/",
+        "note": "JAXA公式の一般向けポータル。打ち上げライブ中継・FAQ・最新情報を日本語提供。公的機関の信頼性とアルテミス文脈での日本側情報の主要発信元。"
+      },
+      {
+        "name": "JAXA公式X (@JAXA_jp)",
+        "url": "https://twitter.com/JAXA_jp",
+        "note": "日本人ファンが宇宙イベントをリアルタイムで追う実質的なメインチャネル。プッシュ通知込みで競合性が高い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定商取引法",
+        "impact": "現状OSS無料配布のため不該当。仮に課金実装する場合は販売事業者表記・返金規定の整備が必要だが小規模個人開発者でも対応は容易。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "NASAコンテンツは基本的にパブリックドメイン扱いだが、JAXA画像・日本人宇宙飛行士の肖像を組み込む場合は別途許諾が必要。ロゴ使用にもガイドラインあり。"
+      }
+    ],
+    "opportunity": "アルテミス計画は2028年の有人月着陸（アルテミスIII）以降も継続するため、単一ミッション固定ではなく『JAXA・H3・SLIM・LUPEX等を含む宇宙イベント横断のメニューバー/通知センター』へ横展開する余地はある。日本語版なら『日本人宇宙飛行士パート優先表示』『日本時間ベースのカウントダウン』『JAXA記者会見の自動取込み』等の差別化が可能。ただし宇宙ファン市場自体がニッチで、課金化の現実解は乏しく、ポートフォリオ作品/個人ブランディング目的のOSSプロジェクトとして留めるのが妥当。",
+    "rationale": "アルテミスIIは日本でも報道規模が大きく、JAXA参画・日本人飛行士派遣・トヨタ月面車などで国内文脈は確かに存在する。しかし本プロダクトは『アルテミスII単体』『macOSメニューバー限定』『NASAソース』という三重のニッチを掛け合わせており、日本市場で意味のある規模のユーザを獲得する余地は極めて小さい。sorae、ファン!ファン!JAXA!、JAXA公式SNSという無料の信頼性ある競合代替がすでに存在し、わざわざ常駐アプリを入れる動機が薄い。規制・ローカライズの技術障壁は低く、競合不在で機会自体は中位のwatch水準（再計算スコア7）。ただし事業として成立するかは別問題で、機会と事業性の乖離が大きい案件。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 2,
+        "reason": "本家がGitHubで無料OSS配布済。同じデータ（NASA公開API）を有料化しても代替が無料で存在する以上、課金壁は厚い。Mac買い切り500-1500円が現実線だが、フォーク版で十分という心理が働きWTPは極めて低い。"
+      },
+      "market_size": {
+        "score": 2,
+        "reason": "日本のmacOSユーザのうち宇宙ファンかつメニューバー常駐ツールに支払う層は極小。検索で根拠未確認だが、現実的に数千〜1万人台のニッチ趣味市場と推定（控えめ見積もり）。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "X（旧Twitter）の宇宙クラスタ、Qiita/Zenn技術記事、宇宙クラスタYouTube連携などのPLGチャネルは存在し個人開発者でリーチ可能。ただし無料アプリで終わる前提のためマネタイズGTMは確立しない。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "アルテミスIIは2026年4月既に打ち上げ済で、スプラッシュダウンまでの数週間〜数ヶ月でミッションが終了する。タイムウィンドウは事実上『今すぐかつ短期』で、本家OSS版も既に存在し時間優位なし。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "NASAデータをfetchして表示するだけの軽量設計で、24/7サーバは不要、クライアント単体動作。アップデートはミッション節目時のみで個人運用負荷は低い。ただしミッション終了後は塩漬けになりやすい。"
+      }
+    },
+    "rationale": "事業性は極めて低い。本プロダクトはOSS+単一ミッション固定+macOS限定という構造的に課金不可・寿命数ヶ月の趣味アプリで、収益化を目指す事業対象として見るべきではない。市場規模は日本でも世界でもニッチ、本家OSSが無料配布済のため模倣有料版も成立しない、タイミング窓は数ヶ月で消滅する。唯一の救いはsolo運用負荷が軽い点だが、これは『事業として成立する』とは無関係。本プロダクトを参照点に学べるのは『個人ブランディング/PR目的の週末プロジェクトとしては好題材』『SwiftUI＋NASAデータ取得の実装例として勉強になる』という非事業的価値のみ。事業判断はno_go一択。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "Free / OSS: GitHubで無料配布、寄付リンク（GitHub Sponsors）のみ設置",
+        "（参考）有料化するならMac App Store買い切り¥500だが回収困難のため非推奨"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本のmacOSユーザのうちアルテミス計画に強い関心を持つ宇宙ファン・宇宙クラスタ・科学コミュニケーター・SwiftUI学習者。コアは『JAXAやsoraeを能動的にフォローする層』の一部で、検索で根拠未確認だが控えめに見積もる必要がある。",
+      "target_count": 5000,
+      "capture_pct_year3": 1,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "X（旧Twitter）日本宇宙クラスタへの直接投稿、JAXA関連ハッシュタグ活用",
+      "Qiita/Zenn にSwiftUI実装記事として公開（技術者層流入）",
+      "宇宙関連YouTube/Podcast出演者へDMで紹介依頼",
+      "GitHub Sponsors設置で寄付経路だけ確保（収益期待はしない）"
+    ],
+    "time_window_months": 3,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "アルテミスIIスプラッシュダウン完了でアプリ寿命が終了、継続価値が消滅する。アルテミスIII（2028予定）へのピボットには2年以上の運用負荷。",
+      "本家OSS（aaronoleary/artemis-ii-lunar-countdown）が既に存在しフォーク版が乱立する可能性。差別化に追加コストがかかる。",
+      "NASA公開データのスキーマ・更新タイミング変更で表示崩壊のリスク、ミッション中の障害対応がクリティカル。",
+      "macOS署名/公証要件強化に伴うAppleの仕様変更で配布フローが詰まる可能性。個人開発者の運用負荷増。",
+      "課金実装しても日本のWTPが極めて低く回収不能。サポート工数だけ増えてマイナス収支になり得る。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

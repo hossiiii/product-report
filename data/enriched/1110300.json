@@ -1,0 +1,258 @@
+{
+  "name": "CraftBot",
+  "description": "Self-hosted proactive AI assistant that lives locally",
+  "ph_url": "https://www.producthunt.com/products/craftbot/launches/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/WKRH3BFRV2GAAC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-18T07:01:00Z",
+  "upvotes": 277,
+  "comments": 35,
+  "topics": [
+    "Productivity",
+    "Open Source",
+    "Artificial Intelligence",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>We started building CraftBot before OpenClaw went viral. Our goal is to create a proactive agent that actually works WELL. Different from the nanobot, MiniClaw, or other OpenClaw alternatives, CraftBot is built independently of OpenClaw. <br><br>🟠 <strong>CraftBot solves some of OpenClaw's current pain points:</strong><br></p><p>✅ <strong>Saves more tokens:</strong> smart action retrieval (dynamically loading tools that are required into the context) and task mode switching (simple tasks use fewer tokens, while more complex tasks receive additional tokens to maintain accuracy).<br></p><p>✅ <strong>Simple to set up and use:</strong> clone the repo, run one command, and a browser interface launches. That's it. (Python and Node.js required though!)<br></p><p>✅ <strong>Proactive:</strong> a built-in planner that plans and initiates tasks for you, with your approval. CraftBot can be your life coach that help define goals, and help you work toward them. Different from heartbeat, this runs daily, weekly and monthly to propose proactive tasks, while the heartbeat is used only for recurring tasks.<br></p><p>✅ <strong>Memory:</strong> every night 3AM, it \"dreams\" to consolidate the day's events into preferences, mistakes, events, and long-term memory about your tasks and habits. Here is the implementation in detail: store events in <a href=\"http://EVENT.md\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">EVENT.md</a> -&gt; read the events and put them in <a href=\"http://MEMORY.md\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">MEMORY.md</a> -&gt; retrieve memory snippet with RAG -&gt; agent reads the <a href=\"http://MEMORY.md\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">MEMORY.md</a> if the snippets are relevant.<br></p><p><a href=\"http://FORMAT.md\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>FORMAT.md</strong></a><strong>:</strong> Agent sometimes outputs artifacts (PDF, Powerpoint) without consistency. We integrated <a href=\"http://FORMAT.md\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">FORMAT.md</a> into CraftBot, so it can follow a format and design schema when generating files.<br><br><strong>Other features:</strong></p><ul><li><p>MCP support</p></li><li><p>150+ default skills (some from ClawHub)</p></li><li><p>App integrations (Slack, Discord, Telegram, WhatsApp, Notion, Gmail, Outlook, and more)</p></li><li><p>Multi-tasking</p></li><li><p>Multi-mode UI: Browser, Terminal (deprecated soon), or CLI</p></li><li><p>Model-agnostic (OpenAI, Anthropic, Google Gemini, and more)</p></li><li><p>Local LLM (Ollama) and self-hosted</p></li><li><p>CLI-anything support</p><p>etc, etc<br></p></li></ul><p>📋 <strong>What are early users using CraftBot for?</strong></p><p>Outreach, lead sourcing, PM tasks (we rely on heavily internally), SEO analysis, vibe-coding from WhatsApp, and more...limited only by your imagination! (and the model you use).<br>There is no trick to it. Just tell CraftBot what you need as if you were talking to a fairy living inside your machine.</p><p></p><p>If you find issues using OpenClaw (Bad accuracy, token usage explodes, hard to set up), try CraftBot, a proactive agent that not only works, but works well.</p>",
+      "votesCount": 12,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Looks very cool, worth giving a try.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>How does CraftBot compare performance-wise when running locally vs cloud-heavy agents?</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "A self-hosted Proactive AI Assistant that lives inside your machine and works 24/7 for your daily execution. It autonomously interprets tasks, plans actions, and executes them to achieve your goals. It learns your objectives, proactively helping you plan and initiate tasks to achieve your life goals. MCPs,Skills, and external App integrations are supported. The agent harness, from prompt to agentic loop, is under the MIT license. Try it out here! https://github.com/CraftOS-dev/CraftBot",
+  "featured_at": "2026-04-18T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d22d3526-9e7f-41b7-a6ff-25d3e6ea13cd.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e0857c3d-76a5-4b40-8025-5c17a11c0eb2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/96c7e516-f761-4de7-b422-82121b75af61.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3a4fcf5c-1e54-4637-8fd8-0a2a0ec55d5b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a68adbc5-ec71-4dcc-b356-553c6d0d8de4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/be2b2bc7-d106-464e-95c4-e1f08a191e16.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/69e5a65b-e26e-447d-a3da-b7684a9dc0fd.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/fdcfa7d0-6c14-4cb1-98ee-3cff45c40386.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:09",
+  "landing_meta": "GitHub - CraftOS-dev/CraftBot at producthunt · GitHub — A Personal AI Assistant that creates and operates its own SaaS tools - GitHub - CraftOS-dev/CraftBot at producthunt",
+  "landing_text": "GitHub - CraftOS-dev/CraftBot at producthunt · GitHub Skip to content You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert CraftOS-dev / CraftBot Public Notifications You must be signed in to change notification settings Fork 33 Star 280 main Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 928 Commits 928 Commits .github/ workflows .github/ workflows agent_core agent_core agent_file_system agent_file_system agents agents app app assets assets craftos_integrations craftos_integrations decorators decorators diagnostic diagnostic docker/ omniparser docker/ omniparser hooks hooks installer installer mkdocs mkdocs packaging packaging rthooks rthooks scripts scripts skills skills tests tests .dockerignore .dockerignore .env.example .env.example .gitignore .gitignore CONTRIBUTING.md CONTRIBUTING.md Dockerfile Dockerfile LICENSE LICENSE README.cn.md README.cn.md README.de.md README.de.md README.es.md README.es.md README.fr.md README.fr.md README.ja.md README.ja.md README.ko.md README.ko.md README.md README.md README.pt-BR.md README.pt-BR.md README.zh-TW.md README.zh-TW.md craftbot.py craftbot.py craftbot_logo_1.ico craftbot_logo_1.ico craftbot_logo_1.png craftbot_logo_1.png docker-compose.gpu.yml docker-compose.gpu.yml docker-compose.yml docker-compose.yml environment.yml environment.yml install.py install.py main.py main.py pytest.ini pytest.ini requirements.txt requirements.txt run.py run.py View all files Repository files navigation Most agent harnesses stop at chat and tool calls. CraftBot goes further than that. It builds, evolves, and operates its own SaaS tools, then uses that tool layer to communicate and automate with you. Beyond that, CraftBot has all the core capabilities of a general-pur",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "self-hosted",
+    "subscription",
+    "pricing",
+    "premium"
+  ],
+  "landing_fetched_at": "2026-05-26T04:34:10",
+  "description_ja": "ローカル常駐型のセルフホスト・プロアクティブAIアシスタント（MIT、OSS）",
+  "summary_ja": "自分のマシンで24/7常駐し、目標から逆算してタスクを能動的に提案・実行するOSSのAIエージェント。MCP、150+スキル、Slack/Notion/Gmail等の外部統合、Ollamaでのローカル実行に対応し、JST3時にイベントをMEMORY.mdへ整理する独自メモリ機構を持つ。",
+  "tldr_ja": "OSSの自律エージェント需要は国内で顕在だが、無料Cline/Goose/Difyに対して個人課金は困難、寄付/受託寄りで様子見が筋。",
+  "review_guide_ja": {
+    "what": "ローカルに常駐するMITライセンスのプロアクティブAIエージェント。`clone→1コマンド→ブラウザUI起動`で動き、MCP・150+デフォルトスキル・Slack/Discord/Telegram/WhatsApp/Notion/Gmail/Outlook等の外部アプリ統合をサポート。OpenAI/Anthropic/Gemini/Ollama等モデル非依存で、ローカルLLMも可。プランナーが日次・週次・月次でタスクを提案し、ユーザー承認のうえで自律実行する。毎晩3時にイベントをMEMORY.mdに統合する独自の長期記憶機構と、生成物の形式を統一するFORMAT.mdを備える。動的なツール読込（smart action retrieval）とタスクモード切替でトークン消費を抑制。アウトリーチ、リード生成、PM補助、SEO分析、WhatsApp越しのバイブコーディング等に利用されている。",
+    "for_who": "ローカル環境を整備できる個人開発者・テックリード・副業セラー・社内自動化担当。クラウド型エージェント（Manus/Devin）の月額やデータ越境に抵抗があり、OSSを自前ホストしてOllama等と組み合わせ、Slack/Notion/Gmail周りの定型作業を任せたい層が中心。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "Python+Node環境とMCP・各種API鍵設定、Ollama導入が前提で、UIや基本ループ自体は1〜2人月で模倣可能。ただし夢メモリ・150+スキル・モード切替の品質再現が難所。"
+    },
+    "signals": [
+      "PH 277 upvotes / 35 comments、GitHub 280 stars / 33 forks（landing_textより）と早期トラクションあり",
+      "README多言語化に日本語(README.ja.md)が同梱されており国内ユーザーを意識",
+      "Ollama・MCPサポートで2026年のローカルLLM標準スタックに合致",
+      "Slack/Notion/Gmail/WhatsApp等の主要SaaS統合が初日から揃う",
+      "OpenClawとの差別化（トークン節約・簡易セットアップ・プロアクティブ）を明確に訴求"
+    ],
+    "concerns": [
+      "Cline/Goose/OpenInterpreter/Dify/Mastra等の無料・OSS競合が既に飽和",
+      "MITライセンスのOSSのため直接マネタイズ手段が乏しい（pricing_signalsはあるが現状ページ上は実体不明）",
+      "AI事業者ガイドライン1.2版で自律エージェントにHITL・トレーサビリティ義務化、個情法83条の1億円罰則リスク",
+      "Slack/Notion/Gmail等の上流SaaSが純正AIエージェント機能を急速に拡張中で挟撃される構造",
+      "夢メモリやプロアクティブ実行の品質保証が難しく、誤実行・課金事故が個人運用の負担になりやすい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "自律AIエージェント・ローカルLLM・MCPは2026年に国内技術ブログ(Qiita/Zenn/note)・大手メディア(日経xTECH、Salesforce/ascii)で頻出テーマ。Cline 58.7k★、Aider 41.6k★、Ollama 10万★級と需要顕在。ただしCraftBotそのものへの言及はまだ確認できず汎用カテゴリ需要での評価。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "国内向けCline/Goose/OpenInterpreter/Aider/Dify(リコー協業)/Mastra/Manus/Devin/Notion AIエージェント/Slack Agentic OSが既に乱立。OSS自律エージェントは飽和に近く、CraftBot固有の機能でも代替容易。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "2026/3/31のAI事業者ガイドライン1.2版でAIエージェントが正式に規制対象化、HITL義務・トレーサビリティ義務・主体別責任が明記。個情法3年見直しで法人罰則1億円が射程。OSS配布自体はセーフだが、業務利用時の顧客側コンプラ負担が増しB2B販売の障害に。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "既にREADME.ja.md同梱、モデル非依存でQwen3等の日本語強モデルを差し込み可能。UIは英語中心だがブラウザUIなのでi18n対応は容易。深いUX改修は不要で、プロンプト/スキルの日本語化主体。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "自前ホスト・Python/Node導入・APIキー設定は日本の中堅以下では情シス審査が必要で導入摩擦大。プロアクティブ実行は稟議・ハンコ文化と相性が悪く、HITL前提のワークフローと噛み合う一方、IT受託商習慣には乗りづらい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Cline (VS Code拡張)",
+        "url": "https://github.com/cline/cline",
+        "note": "GitHub 58.7k★、Qiita/Zennで多数記事。OSSで無料、VS Code完結のためセットアップが容易、ローカル統合の第一選択肢。CraftBotの主要対抗。"
+      },
+      {
+        "name": "Dify (リコー協業)",
+        "url": "https://dify.ai/jp",
+        "note": "Agentic AIプラットフォーム。リコーが国内販売、エンタープライズ実装事例多数。ノーコードでエージェント構築可能で個人〜法人まで重なる。"
+      },
+      {
+        "name": "Mastra (YC発・日本人気)",
+        "url": "https://mastra.ai/",
+        "note": "TypeScriptネイティブのエージェントFW。BRIDGE報道で日本トラフィック急増、X上の日本人コミュニティが強い。フロントエンド開発者層を奪い合う。"
+      },
+      {
+        "name": "Goose (Block)",
+        "url": "https://github.com/block/goose",
+        "note": "OSSのデスクトップ常駐エージェント。Qiita週末実装記事あり。MCP/CLI連携などCraftBotと機能領域が重なる代表選手。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法 / 3年ごと見直し改正(2026)",
+        "impact": "AI利用に絡む個情の不適切取扱いは法83条で法人1億円以下の罰金射程。Gmail/Slack/Notion統合で個情を自動取得・送信するため、ログ・同意・国外移転の整備が必要。個人運用でも委託案件で責任を負う構造に。"
+      },
+      {
+        "law": "AI事業者ガイドライン1.2版(総務省・経産省, 2026/3/31)",
+        "impact": "AIエージェントとフィジカルAIが正式対象化、Human-in-the-Loop義務、学習データのトレーサビリティが推奨→義務、ログ管理体制整備が要件。プロアクティブ自律実行は要件への明示対応が必要で、エンタープライズ販売の前提条件になる。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "外部メール/メッセージ自動送信機能を提供する場合、外形により電気通信事業の届出/通信の秘密の保護が論点化。自前ホスト型OSSなら配布側に直接の義務は薄いが、SaaS提供形態にピボットすると規制射程に入る。"
+      }
+    ],
+    "opportunity": "国内勝ち筋は『日本語業務テンプレ＋HITLガバナンス＋Ollama日本語モデル前提のオンプレ常駐エージェント』というニッチ。具体的には、(1)Notion/Slack/Gmail/kintoneを束ねる日本SMB向け業務スキルパック、(2)AI事業者ガイドライン1.2準拠の監査ログ/HITLゲートをOSS本体に組み込みコンプラ訴求、(3)Qwen3+Ollamaで完全社内運用できる『データ越境ゼロ』ポジションでCline/Difyと差別化、(4)個人開発者向けに『夢メモリ』で日次振り返りを自動化するライフコーチ訴求、の4方向。日本独自実装はOSS本家に上流PRすべき性質のもので、独立SaaS化は推奨しない。",
+    "rationale": "需要カテゴリ（自律エージェント、OSS、ローカルLLM、MCP）は国内で2026年に最も話題化している領域で、技術コミュニティ側の関心は強い(demand=7)。一方で本家CraftBotがOSSとして強力なため、日本ユーザーは追加開発なしに直接利用可能であり、ローカライズした派生プロダクトを別途出す合理性が薄い(competition=3)。AI事業者ガイドライン1.2でエージェントが規制対象化したことは追い風と逆風が混在し、規制対応を組み込んだ派生は差別化になるが法務工数が個人には重い(regulation=6)。技術面のローカライズは容易(localization=8)だが、日本商習慣的に自前ホスト&自律実行を中小企業に売るのは導入摩擦が大きい(business_custom=4)。総合では『自分で使う・社内導入支援する』レベルにはfitするが、『国内向け独立プロダクト化』としては watch にとどめるべき。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "MIT OSSのため本家利用は無料。Cline/Aider/Goose/Ollama等が無料で揃う中、OSSベースの月額課金はQiita/note記事でも『困難』と複数開発者が報告(Rui Ueyama氏OSSビジネス事例、鈴木颯介氏GitHub Sponsors年500万→維持困難)。受託orホスティング提供以外で個人ARPUを取りにくい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内エンジニア人口は約110万人(IPA/経産省統計)、うち自律エージェントを能動的に試す層は数万人規模と推測（根拠未確認、控えめ見積もり）。法人向けに広げればGiiやGM Insights報告のとおりCAGR40%超で潜在は大きいが、OSS自己ホスト導入企業に絞ると顕在TAMは限定的。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Qiita/Zenn/note/Xでの技術発信、GitHub Star獲得、Cline/Goose比較記事が定石ルート。本家がMITで公開済みのため、日本人開発者は直接cloneで使え、間に立つチャネル価値が薄い。導入支援/コンサル型なら受託営業が必要でPLG難。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Notion AIエージェント、Slack Agentic OS(Dreamforce 2025)、Manus(Meta買収未遂)、Devin等が既に商用化フェーズ。OSS側もCline/Goose/Difyが先行。CraftBotは launches 直後で時間窓は短く、12〜18ヶ月で機能パリティがコモディティ化する見込み。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "MCP/Slack/Gmail/Notion統合、Ollama対応、Python+Node環境、夢メモリ等のメンテ面積が広い。本家へのPR寄与ならOK、派生SaaS化すると外部API破壊変更・モデル更新・統合先側UI変更への追随で個人運用は重い。"
+      }
+    },
+    "rationale": "本プロダクト自体はOSSとして優秀で、個人開発者が『自分で使う/社内へ導入する』には十分。しかし日本市場で個人開発者がこれを軸にビジネスを成立させる経路は乏しい。OSSの直接マネタイズは国内外の事例(Rui Ueyama、鈴木颯介、voluntas)からも年1,000万円規模が天井に近く、CraftBotレベルの汎用ホライズン製品では本家が既に主要マインドシェアを抑える可能性が高い。法人向け導入支援(SI寄り)に転じればMonetizationは取れるが、それは『個人開発者のPLG SaaS』というレポートの趣旨から外れる。むしろ国内では(a)本家へ日本語スキル/HITLパッチをPRしてOSSコミッタとしての評価を稼ぐ、(b)業界特化のスキルパックをアドオンとして売る、の2ルートが現実解。総合的に viability は低めだが、用途を限定すれば消えない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "OSS本体: MIT無料配布のまま",
+        "業界特化スキルパック(EC/法務/医療事務向け): 一括¥30,000買い切り(将来オプション)",
+        "導入支援/HITLコンプラ伴走: ¥300,000/案件(別商品としての受託)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内のOSS慣れした個人開発者・テックリード・1人情シス・副業セラーで、Ollama常用 or MCP/Cline経験者。Notion/Slack/Gmail/kintoneを束ねたい中小企業のIT担当も周辺対象。根拠未確認の控えめ見積もり。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn連載: Cline/Goose比較→CraftBot独自機能(夢メモリ/FORMAT.md)解説",
+      "X(旧Twitter)個人発信: 日本人OSS開発者コミュニティ(Mastra等)と接続",
+      "GitHub上流PR戦略: README.ja改善・日本語スキル・HITLゲートを本家にマージしコミッタ実績化",
+      "勉強会登壇: 生成AI conf/AI Agent Meetupでローカル運用デモ",
+      "受託導入: 中小SaaSのSlack/Notion業務自動化案件で本OSSを内製基盤として採用",
+      "ニッチスキルパック: EC・法務・医療事務向けの日本語業務テンプレを別売り化"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "OSS本家(CraftOS-dev)が日本語/HITL対応を取り込み、派生製品の存在意義が消失する",
+      "Cline/Goose/Difyが先行マインドシェアを既に獲得しており、後発で日本市場での認知を奪うのが困難",
+      "Notion/Slack/Gmail等の上流SaaSが純正AIエージェントを強化、統合ハブの価値が低下する",
+      "AI事業者ガイドライン1.2のHITL/トレーサビリティ義務化により、自律実行系の業務利用が顧客側で稟議停滞、SI案件のリードタイム長期化",
+      "MITライセンスのため法人が直接cloneして社内利用、個人開発者の課金可能ポイントが受託/教育コンテンツに限定される"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

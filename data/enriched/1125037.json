@@ -1,0 +1,239 @@
+{
+  "name": "Happenstance",
+  "description": "Search your network with AI",
+  "ph_url": "https://www.producthunt.com/products/happenstance-2/launches/happenstance-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ON6RTKE5AKXIL7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-26T07:01:00Z",
+  "upvotes": 177,
+  "comments": 3,
+  "topics": [
+    "Artificial Intelligence",
+    "Tech",
+    "Social Networking"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>Happenstance is an AI people-search layer that runs across your Gmail, calendar, Twitter, Instagram, and other connected accounts using natural language queries.</p><p></p><p><strong>Problem → Solution</strong>: Your real network is scattered and effectively unsearchable. Some contacts are buried in a 2019 email thread. Some are Twitter mutuals you've never properly spoken to. Some are conference attendees from three years ago. Happenstance connects all of it and lets you describe who you need the AI handles the search across every account you've linked.</p><p></p><p><strong>What makes it different</strong>: The friend-sharing model turns a personal search tool into a collective one. Share your network with trusted contacts, and your search radius expands to include their connections, too warm by definition, not cold by default.</p><p></p><p><strong>Key features:</strong></p><ul><li><p>Natural language search, no filters to configure</p></li><li><p>Multi-network: Gmail, Calendar, Twitter, Instagram, and more</p></li><li><p>Friend and group sharing to extend reach across trusted networks</p></li><li><p>MCP, Claude, Claude Code, ChatGPT, and Slack integrations</p></li></ul><p><strong>Benefits:</strong></p><ul><li><p>Skip cold outreach entirely for sales, hiring, and fundraising</p></li><li><p>Surface candidates through referrals before a job goes public</p></li><li><p>Find investor intros through connections you already have</p></li><li><p>Runs inside your existing workflow via native integrations</p></li></ul><p><strong>Who it's for</strong>: Pre-seed founders, AEs, recruiters, and investors who know the right path to anyone starts with who you already know. 300,000 users and teams at Perplexity, YC, Greylock, and Brex are already on it.</p><p></p><p>The network effect is real. </p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a> </p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>the warm vs cold distinction is interesting but what i'm more curious about is the false negative problem - how often does it surface someone you completely forgot you had a connection to vs how often does it miss someone who should have shown up? for a tool selling on \"skip cold outreach entirely\" that precision gap seems like the whole game</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Solo founder here doing the outreach grind right now (reddit, x, producthunt all of it) and the bit i'd actually want from a tool like this is honesty about how warm the warm connection really is. If i emailed someone 3 years ago they're not warm anymore, just searchable. Does happenstance try to weight by recency or recent interactions, or is everyone whos ever been in your inbox a \"warm intro\" candidate ?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Happenstance lets you search across Gmail, Twitter, Instagram, and more using natural language. Built for founders, recruiters, and sales teams finding the right person through warm connections.",
+  "featured_at": "2026-04-26T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/5c676897-2376-4d29-ad11-5464e640bed8.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c19c5433-e44b-47fd-afe3-8e8c560b6bb0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6d450929-efd2-4a95-a545-9dc65d9a8e54.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c71c3916-5f31-4ed7-98f4-aed6e4e1294f.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/09cb9c34-f701-4d13-8bd1-49bc2c17eba3.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fa4d64b4-ede8-4a7b-9c60-ac1f4629df07.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6519c8d8-6c97-4310-aa1c-315cfad40350.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ad3bec5b-885b-481a-bfbf-1f9d522dbae5.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3ca27813-3730-4465-836f-3e6aa97304e5.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5570fdef-986f-4c3a-b7fa-01781387f19e.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:31",
+  "landing_meta": "Happenstance | Search your network with AI — AI-powered network search for sales, recruiting, finding a job, fundraising, and more. Find warm intros, discover mutual connections, and research people across LinkedIn, Gmail, Twitter, and other networks.",
+  "landing_text": "Happenstance | Search your network with AI Try our API Make your own luck Search your network with AI. For sales, hiring, fundraising, and more. Search for free You You Your friend Friend Your teammate Teammate 700 contacts 700 2.2k attendees 2.2k 1.2k followers 1.2k 174k followers 174k Loved by 400,000+ users and trusted by teams at Your network, in one place Ask Happenstance to search the networks of you and your friends. Sales Recruiting Fundraising Investors Founders happenstance.ai/search Learn more VP Engineering, fintech VP of Engineering at a Series B-D fintech in NYC or SF. Must have scaled an engineering org from 50 to 200+ people, ideally with payments or consumer-credit infra experience. Bonus if someone in my network has worked with them before. I've found 24 people. Gmail 3.1K Google Calendar 2.2K LinkedIn 3.2K Twitter 174.2K Instagram 2K Friends 62.2K Groups 2.3M Show thinking Person Score Thinking Mutuals NP Natalie Park Keelpay VP of Engineering LinkedIn + 2 Scaled engineering from 40 to 180 people across three product teams, according to her recent LinkedIn post on scaling playbooks. Previously led platform at Plait for four years, where she built out the identity verification stack from scratch. Speaks regularly at LeadDev and Staff+ Summit on engineering org design. + 2 DR Diego Ramirez Orbit Financial SVP Engineering Gmail + 3 Grew team 5x in 18 months , from 40 to 210 across platform, ML, and applications. Ex- Quadrant risk infra lead, wrote the first version of their real-time fraud detection pipeline. Posted on LinkedIn last month about hiring philosophy at Series C scale , widely shared. + 4 AS Anna Singh Clearfold VP Engineering LinkedIn + 1 Hired 80+ engineers in the last two years across backend, infra, and engineering management. Writes publicly about engineering culture and has a popular newsletter on VP-track careers. Referred three senior eng leaders to other Series B fintechs in the last year alone. Find decision-makers with warm int",
+  "pricing_signals": [
+    "pricing",
+    "$1",
+    "$6"
+  ],
+  "landing_fetched_at": "2026-05-26T04:00:32",
+  "description_ja": "Gmail/Twitter/LinkedIn等を横断し、自然言語で自分の人脈を検索できるAIネットワーク検索",
+  "summary_ja": "Gmail・Calendar・LinkedIn・Twitter・Instagram等にOAuth接続し、自然言語クエリで「自分と友人の人脈」を横断検索するAI。営業・採用・資金調達のwarm intro先を発掘する用途で、MCP/Claude/Slack連携も持つ。",
+  "tldr_ja": "warm intro文化が薄く名刺＝Sansan/Eight支配の日本ではLinkedIn普及率4.2%が壁、個人開発でPMFは厳しい",
+  "review_guide_ja": {
+    "what": "Gmail・Google Calendar・LinkedIn・Twitter・Instagram・Outlook等にOAuth接続し、自然言語クエリ（例:『NYかSFのSeries B〜D fintechでエンジニア組織を50→200にスケールさせたVPoE』）で自分の人脈+友人の人脈を横断検索するAIピープルサーチ。Friend/Group機能で他人の人脈もプールできるネットワーク効果が差別化。MCP、Claude、ChatGPT、Slack連携を持ち、warm introパスを提示。営業のアウトバウンド、リクルーティング、資金調達でcold outreachを置換する用途。400,000ユーザー、Perplexity/YC/Greylock/Brex等が利用、Y Combinator投資先。",
+    "for_who": "Pre-seedファウンダー（投資家紹介）、SaaSのAE/SDR（warm outbound）、テック企業のリクルーター/タレントアクワイザー、VCのソーシング担当、ハイクラス採用エージェント。前提として自分のソーシャル/メールに連絡先資産が蓄積している必要があり、北米テック圏のLinkedIn中心エコシステムで威力を発揮する。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "OAuth多数連携+LLMによるエンティティ名寄せ+グラフDB+友人ネットワーク共有まで含めると工数大。データ品質と検索精度がコアで、Sansan級の名寄せ精度を個人開発で再現するのは現実的でない。"
+    },
+    "signals": [
+      "400,000ユーザー、Perplexity/YC/Greylock/Brex等の採用実績",
+      "Y Combinator投資先でGarry Tan等トップVCが日常利用と公言",
+      "MCP/Claude Code/ChatGPT/Slack連携で開発者ワークフロー直結",
+      "Friend/Group共有による集合知ネットワーク効果"
+    ],
+    "concerns": [
+      "warm/coldの定義が曖昧で『3年前のメール相手=warm』化のリスク（PHコメントで指摘）",
+      "OAuth越境データ移転で個情法・電気通信事業法の規律遵守が必要",
+      "日本ではLinkedIn普及率4.2%（500万人）で人脈グラフが薄い",
+      "Sansan/Eightが既に名刺起点の人脈DBで法人市場85.8%シェアを支配",
+      "個人連絡先のAI解析へのプライバシー忌避が日本では強い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "warm introを軸とした営業/採用/資金調達文化は日本では薄く、テック界隈の一部に限定。LinkedIn日本ユーザー500万人(普及率4.2%)で人脈グラフが薄く、検索対象データの厚みが不足。需要シグナルは限定的。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Sansan(法人名刺85.8%シェア、上場、Bill One含め売上3,926億円規模)とEight(400万ユーザー、Eight Team等で中小企業向け)が名刺起点の人脈DBを支配。BizReach/Wantedly等が採用文脈で補完。AI×人脈検索はSansanがAI要約機能を投入済みで競合既に動く。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "Gmail/SNSのOAuthデータを越境SaaSで処理するため、改正電気通信事業法の外部送信規律と個情法27条(第三者提供)・越境移転規制の遵守が必須。通信の秘密に関わるメール本文の取扱いはセンシティブ。重い禁止ではないが説明責任とUX上の壁。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UIの日本語化は容易だが、日本人名のエンティティ名寄せ・漢字カナ表記揺れ・所属組織の英表記不統一など『日本人特有の名寄せ』は精度が問題化しやすい。LinkedInより名刺・Facebookが起点の人脈構造で、Gmail/Twitter偏重のままでは弱い。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本のBtoB営業は紹介経路を尊重するもののwarm intro文化は欧米ほど顕在化せず、紹介依頼は対面/電話/直接連絡が主流。プライベートな連絡先資産をクラウドAIに渡す抵抗感が強い。人事採用も媒体経由が主で、warm化のニーズは限定。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Sansan",
+        "url": "https://jp.sansan.com/",
+        "note": "法人名刺管理シェア85.8%、AI要約機能を2025年投入、Bill One含む売上3,926億円規模の上場SaaS。法人人脈DBの本命。"
+      },
+      {
+        "name": "Eight / Eight Team",
+        "url": "https://8card.net/",
+        "note": "個人400万人、法人Eight Teamで月額19,800円+。Sansanグループの中小企業向け人脈共有。AI職歴要約機能を2025年提供開始。"
+      },
+      {
+        "name": "BizReach",
+        "url": "https://www.bizreach.jp/",
+        "note": "ハイクラス採用のタレントプール。月額のスカウト基本料金+成功報酬(理論年収15%)モデル。採用人脈の側ではここが先回り。"
+      },
+      {
+        "name": "Wantedly People",
+        "url": "https://wantedly.com/",
+        "note": "個人向け名刺管理アプリ。Eightと並ぶ個人ユーザー層。BtoBの人脈共有用途はEight Teamと住み分け。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "改正電気通信事業法(外部送信規律)",
+        "impact": "Gmail/Twitter/IG等のOAuthで取得したユーザー情報を外部に送信する場合、送信先・利用目的の通知/公表義務(2023年6月施行)。Webサービス事業者は該当の可能性高く、UIに通知文言と確認導線が必要。罰則よりUX摩擦の影響が大きい。"
+      },
+      {
+        "law": "個人情報保護法(27条第三者提供・28条越境移転)",
+        "impact": "メール本文や連絡先という個人データを米国SaaSに送る構成は、第三者提供or委託の整理と、越境移転先国の制度把握(外的環境の把握)・本人同意の取得が必要。Friend共有機能は『他人の連絡先を共有』で同意取得難度が上がる。"
+      },
+      {
+        "law": "電気通信事業法(通信の秘密)",
+        "impact": "メール本文の中身を解析することは通信の秘密(憲法21条・電通法4条)に抵触する可能性。同意取得の設計と、解析範囲(メタ情報のみ/本文か)の明示が必須。プラットフォーマー規制の対象となり得る。"
+      },
+      {
+        "law": "プラットフォームの利用規約",
+        "impact": "LinkedIn/Twitter等のスクレイピング規約や開発者規約に抵触するリスク。LinkedIn訴訟事例多数。公式API/OAuthスコープ内に閉じる必要があるが、機能制約が大きい。"
+      }
+    ],
+    "opportunity": "日本ローカル特化なら『Eight/Sansan未連携の中小スタートアップ向けwarm intro検索』『LinkedIn普及層(外資・グローバルキャリア層)に絞ったニッチ』『VC/採用エージェントのソーシング業務に特化したワークフローSaaS』が角度。特にスタートアップ×VC界隈はLinkedIn利用率が高く、warm intro文化も浸透しつつあり、StartupList/WarmIntro等の周辺プロダクトがあるレイヤーは隙間あり。ただし個人開発で名寄せ精度・規制対応・Friend同意設計まで担保するのは重く、Sansanの牙城を崩す絵は描けない。",
+    "rationale": "Happenstance本体は欧米LinkedIn中心エコシステム前提の設計で、日本では(1)LinkedIn普及率4.2%でグラフが薄い、(2)Sansan/Eightが名刺起点の人脈DBで法人市場の85.8%を握る、(3)warm intro文化が一部界隈に限定、(4)メール本文AI解析が通信の秘密・個情法・電通法の三重規制に触れる、という四重の障害がある。需要は『日本のYC的VC/スタートアップ界隈』というニッチでは存在するが、市場規模が小さく、海外プロダクトをそのまま輸入する『代理店モデル』ですら成立しにくい。日本独自に作るとしてもSansan APIに依存するか、LinkedIn API制約と戦うかになり、個人開発者の角度ではない。市場機会としてはskip推奨。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "本家価格レンジ($1/$6シグナル=低価格〜SMB帯)を日本に持ち込んでも、個人向け人脈ツールへの課金嗜好は弱い。Sansan級の法人案件はエンタープライズ営業必須で個人開発の範疇外。BizReach的スカウト課金モデルは構築工数が重い。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "国内warm introニーズの顕在層は『LinkedIn利用VC/スタートアップ/外資転職界隈』に限定され、対象は数万人〜十数万人程度。Sansan/Eightの守備範囲(法人名刺)が広大な隣接市場として控えるが、個人開発者がそこに乗り込むのは現実的でない。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "X/Qiita/Zenn/note等のPLGチャネルはVC/スタートアップ界隈と相性は良いものの、warm intro領域はバズりにくい。プライバシー懸念が拡散時の逆風になりやすい。BizReach/Sansanの既存顧客への置換営業は人脈・実績必須で個人開発者には不可能。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "本家Happenstanceが既に日本ユーザーも取れる構成で稼働中(GlobalにOAuth対応、UI英語のみが障壁程度)。SansanもAI職歴要約機能を投入済みで、海外勢進出を待たず国内本命が動いた。猶予はほぼ無い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "OAuth連携先5+種類の維持(API変更・トークン期限・スコープ変更追従)、LLM推論コスト、個人情報を扱うことでのセキュリティ運用、サポート負荷(他人の連絡先共有での同意トラブル等)を考えると、個人運用は非常に重い。インシデント1件で事業継続困難になり得る。"
+      }
+    },
+    "rationale": "事業成立性は厳しい。(a)国内ARPUを取りにくい個人/SMB向けユーティリティ、(b)対象市場が日本のスタートアップ・VC界隈中心で小さい、(c)PLGチャネルはあるがプライバシー懸念で逆風リスク、(d)本家もSansanも先行しタイムウィンドウがほぼ閉じている、(e)個情法・電通法・通信の秘密の三重規制下で個人開発者がインシデント対応する負荷が極大、という五重苦。仮にニッチ特化(VC向けソーシング支援等)に絞っても、対象社数×ARPUで月商百万円規模に届くか怪しく、本業として成立させる絵が描けない。日本市場では事業として推さない。検索で根拠未確認の数値(国内ターゲット数等)は控えめに見積もる。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 月20検索・連携2サービスまで・個人利用のみ",
+        "Pro: ¥1,500/月・無制限検索・連携5サービス・MCP/Slack連携",
+        "Team: ¥9,800/月(5席まで)・Friend/Group共有・SSO・サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内VC/スタートアップ界隈のLinkedIn利用ファウンダー、AE/SDR、テック系リクルーター、独立採用エージェント。warm intro文化が浸透しており、Sansan/Eightの法人グリップ外で動く層に限定する。一般大手企業は対象外(Sansanの牙城)。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 225000
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)でのVC/スタートアップ界隈への発信",
+      "Y Combinator/外資テック日本支社コミュニティへの口コミ",
+      "note/Zennでwarm intro × AI活用事例の連載",
+      "VC/CVCのソーシング担当向け1on1営業(初期数十社の手売り)",
+      "Product Hunt Japanや国内SaaSメディア露出"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "通信の秘密(電通法4条)違反リスク:メール本文のAI解析は同意設計を誤ると行政指導・刑事罰の対象になりうる。個人開発者では法務体制が脆弱で致命傷化しやすい。",
+      "OAuth提供元(Google/X/Meta/LinkedIn)のAPI規約・スコープ変更・アクセス遮断リスク。LinkedInは特にスクレイピング訴訟が多く、API制約が厳しい。突然の機能停止が起こりうる。",
+      "Sansan/Eightが法人市場85.8%を握り、AI要約機能を投入済み。海外Happenstance本体も日本展開しうる位置取りで、個人開発の差別化余地が極小。",
+      "Friend/Group共有機能で『他人の連絡先を本人同意なしに共有』する設計が、改正個情法と整合性を取りづらい。同意取得UXが重く、コア機能が削れる。",
+      "国内warm intro文化の薄さで需要が想定より小さく、月商目標(数十万円規模)にすら到達しないリスク。LinkedIn普及率4.2%の壁。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "japan_fit_at": "2026-05-26T04:30:00+09:00",
+  "review_guide_at": "2026-05-26T04:30:00+09:00",
+  "business_viability_at": "2026-05-26T04:30:00+09:00",
+  "advisor_view_at": "2026-05-26T04:30:00+09:00"
+}

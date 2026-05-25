@@ -1,0 +1,267 @@
+{
+  "name": "Beezi AI",
+  "description": "Make AI development structured, secure, and cost-efficient.",
+  "ph_url": "https://www.producthunt.com/products/beezi-ai/launches/beezi-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/YN3R4RYHINMUIO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-24T07:01:00Z",
+  "upvotes": 397,
+  "comments": 40,
+  "topics": [
+    "Productivity",
+    "SaaS",
+    "Developer Tools"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋\nI’m Alex, co-founder of Beezi AI — an orchestration layer for AI-driven software development.\nOver time, I kept noticing the same pattern: AI speeds up coding, but everything around it gets messy. Unclear requirements, too many retries, rising costs, and very little visibility.\nSo my team and I came up with Beezi AI to bring structure, control, and clarity to the process.\n\nWhat Beezi does:\n•\tClarifies and structures tickets before coding (Smart Ticket System)\n•\tRoutes tasks to the most efficient models (Model Routing Optimizer)\n•\tTracks delivery speed, AI usage, and cost in real time (Analytics Hub)\n•\tWorks inside your existing tools (Jira, Azure DevOps, GitHub, Bitbucket, GitLab, Slack, MS Teams) — no workflow disruption\n•\tSupports secure, on-prem or private cloud setups with full data control\n\nWho it’s for:\nEngineering leaders and their teams already using AI, who want more predictable delivery, better cost control, and less chaos in their workflows.\n\nWhy we built it:\nAI doesn’t create clarity — it amplifies whatever you give it.\nMost teams focus on prompting, but the real bottleneck is everything around it: task definition, workflow consistency, and visibility.\n\nBeezi is our attempt to fix that at the system level.\nWe’d really love your feedback!\n•\tWhere does AI slow your team down today?\n•\tWhat’s hardest to control — cost, quality, or consistency?\n•\tDoes this approach make sense for your workflow?\n\nHappy to answer any questions and dive deeper into how it works!",
+      "votesCount": 51,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch <a href=\"https://www.producthunt.com/@oleksandr_semeniuk\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"oleksandr_semeniuk\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@oleksandr_semeniuk</a> <a href=\"https://www.producthunt.com/@oleglysiak\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"oleglysiak\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@oleglysiak</a> <a href=\"https://www.producthunt.com/@yuliia_melianytska\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"yuliia_melianytska\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@yuliia_melianytska</a>  🎉 Most teams jump straight to prompting and wonder why output is still messy. How long does setup typically take for a team already on Jira + Slack?</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Analytics hub looks exactly like something I was looking for my team when we've lost $1000 in a single day for our agentic pipeline 🥲 . Exited to check it out, will update this comment after first results.</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Beezi AI is a platform for orchestration of AI-driven software development. It helps teams structure tickets for better prompts, route tasks to the right models, and track AI usage and costs in real time. With the Analytics Hub, Smart Ticket System, and Model Routing Optimizer, teams reduce rework, control AI spend, and scale development with predictable, measurable outcomes. Beezi supports secure on-prem or private cloud deployment with full control over data and models.",
+  "featured_at": "2026-04-24T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/6d8cb396-8768-4504-bb3b-9bd9d2751a02.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9a7df2aa-6212-454d-b4d3-46067ce88a56.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c272d03d-bdc7-4d77-9180-5b68fc6a41ba.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f4e7e7d8-5fe4-4af4-8baf-f246c37c97e8.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d19b4c38-d234-48c3-87ba-e5e3b22b30d3.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7edb791e-c9db-4b2f-9723-9de69b54edd3.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d0bc24ef-4ae6-4e50-a4b6-ef5813389ffa.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e65ed2e1-b76d-4e4d-b0db-75a0a93285dd.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/35e699b5-f54e-46a8-b779-7523a76dcbc2.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/a4597b40-5ff8-42d9-abd6-01f21ef1abb0.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T03:46:34",
+  "landing_meta": "Beezi - Your Hub to Orchestrate AI Development — Beezi is an AI agent that helps teams code, track, and optimize delivery and costs right inside your devs team workflow.",
+  "landing_text": "Beezi - Your Hub to Orchestrate AI Development Your Hub to Orchestrate AI Development All your AI development managed in one place with security-first infrastructure. Book a demo Book a demo Try Free plan Try Free plan Forget Code-Only Agents Beezi brings clarity, tracking, and speed to your whole delivery cycle. Stay in your workflow. No disruption. Beezi runs inside your existing tools — GitHub, Jira, and Slack — keeping developers in flow without changing how they work. Feature 1 Cost -40% Feature 2 Cost -45% Feature 3 Cost -32% Cut cost per feature by 45%. Start saving from day one with optimized prompting, model routing, and shorter development cycles. Keep your code safe. Enterprise-grade security with SSO, audit logs, and end-to-end encryption, so your team can code with confidence. Total Cost +38.11% $ 0.00 Beezi Completed Tasks +33.2% 0 Company Adoption Rate 0 % Track performance, usage, and AI impact. See how AI changes your workflow — monitor velocity, token spend, adoption, and ROI in real time. What Beezi Brings to Your Team Let your engineers focus on product, architecture, and velocity, while Beezi handles the manual work behind the scenes. Intelligent Code Generation Turn plain language into production-ready code. Build features, modules, or refactor legacy code tailored to your style. Initiated Learning from Your Codebase Beezi studies your existing code, style, and patterns from day one. It knows what you need and delivers results that look and feel like they were written by your team. Parallel Task Execution Your engineers might be able to work on one or two tasks at a time, but Beezi can handle many at once. This helps you get through your backlog much faster, scaling your team's capacity instantly. Book a demo Book a demo Smart Ticket System Ticket Score Clarify Plan PR IDE Ticket Created in your project management tool and automatically added to your backlog Ticket Created in your project management tool and automatically added to your backlog ",
+  "pricing_signals": [
+    "self-hosted",
+    "free plan",
+    "$1",
+    "$19",
+    "$2",
+    "$28"
+  ],
+  "landing_fetched_at": "2026-05-26T03:46:36",
+  "description_ja": "AI開発を構造化・セキュア・コスト効率良くするオーケストレーション基盤。",
+  "summary_ja": "Jira/GitHub/Slackに常駐し、チケット整形・モデルルーティング・利用量とコスト可視化でAIコーディングを統制する開発組織向けオーケストレーションSaaS。オンプレ/プライベートクラウド対応。",
+  "tldr_ja": "AI開発コスト統制需要は国内大手で顕在化も、SIer多重下請け構造とCopilot/Devin/Cursor先行で個人開発参入は厳しい。",
+  "review_guide_ja": {
+    "what": "Beezi AIはAI駆動開発をオーケストレーションするSaaS。3つの主要機能を提供する。(1) Smart Ticket System: Jira等のチケットをAI生成前に明確化・スコアリングし、曖昧な要件によるリワークを防ぐ。(2) Model Routing Optimizer: タスクごとに最適なモデル(GPT/Claude/Gemini等)へルーティングし、コストと品質のバランスを最適化。(3) Analytics Hub: AI利用量、トークン消費、デリバリ速度、採用率、ROIを実時間で可視化。GitHub/Jira/Azure DevOps/Bitbucket/GitLab/Slack/MS Teamsに非破壊的に統合、オンプレ/プライベートクラウド設置でデータ主権を確保。Atlassian Marketplaceでも配布。",
+    "for_who": "AI駆動開発を既に導入し、エンジニア20名以上の組織でAI支出のガバナンス、デリバリ予測性、コスト最適化に課題を抱えるエンジニアリングリーダー/CTO/VPoE。Jira等の既存ワークフローを変えずに統制を加えたい中堅〜大手SaaS企業や金融/医療など規制業界のオンプレ要件を持つ層が主軸。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "マルチLLMルーティング、トークン課金計算、Jira/GitHub/Azure DevOps等への双方向統合、オンプレ配布、SSO/監査ログ実装が必要で、複数LLM契約とエンタープライズSaaS開発経験が不可欠。個人開発の範疇を超える規模。"
+    },
+    "signals": [
+      "GitHub Copilot Coding AgentのJira連携プレビュー開始で『AIの周辺ワークフロー統制』需要が顕在化",
+      "DMM・SmartHR・バイセル等の国内大手がCursor/Devin/Cline全社導入で『コスト不透明性』を導入課題に挙げている",
+      "Gartner 2025年10月調査でコーディング工程のAI利用率伸びが最大、コスト管理が次の論点に",
+      "Atlassian Marketplaceでの配布チャネルを確保しており、Jira保守商流に乗りやすい",
+      "Analytics Hubの『1日$1000溶けた』というユーザーコメントは実需を裏付ける生々しい証言"
+    ],
+    "concerns": [
+      "GitHub/Atlassian純正のAIエージェントとオーケストレーション機能が拡張中で、純正バンドルに飲み込まれる構造リスク",
+      "国内大手はNTT/NEC/富士通の国産LLM基盤や内製CoEに流れる傾向があり、海外スタートアップ採用ハードルが高い",
+      "個人開発者向けではなく、エンタープライズセールスと年単位の調達プロセス前提のプロダクト",
+      "オンプレ要件への対応は個人開発で再現不可、SIer連携が事実上必須",
+      "ランディングが効果値(『コスト-45%』)中心で、価格や具体的SLAが非開示=BANT前提のセールス商材"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "Gartner調査でコーディングAI利用率の伸びが最大、DMM/SmartHRがCursor/Devin導入で『コスト不可視性』を最大の運用課題に挙げている。Findy Team+の850社導入が示すように開発生産性可視化SaaSの市場は明確に存在。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Findy Team+(エンジニア組織可視化)、GitHub Copilot Business/Enterprise(純正)、Atlassian純正Rovo/Jira AI、Salesforce Agentforce、SAP AI Foundation、国産vottiaやGen-AXが領域を取り囲む。純粋な『AIコーディング統制』に絞れば隙間はあるが競争は激しい。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "個情法・改正電気通信事業法・AI事業者ガイドライン下で『コード及び社内データを外部LLMに送る』点は監査対象だが、オンプレ/プライベートクラウド対応で多くの懸念は回避可能。金融/医療の本番投入はFISC等で個別審査が必要。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "Jira/GitHub/Slack統合中心でUIローカライズ範囲は限定的。日本語チケット要約・PR説明生成の品質が肝。マルチLLM対応なら国産LLM(cotomi/tsuzumi等)ルーティングも容易に追加可能。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業はIT人材の72%がSIer側で、ユーザー企業内の内製チームは依然少数派。Beeziの想定顧客『AI使いこなしの内製エンジニア組織』は急増中だが母数は限定的。多重下請け構造の現場ではROI訴求が刺さりにくい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Findy Team+",
+        "url": "https://jp.findy-team.io/",
+        "note": "国内850社導入、GitHub/GitLab/Jira/Backlog連携の開発生産性可視化SaaS。AI Accelerate機能を追加しAI導入支援も開始。Beeziの『Analytics Hub』と直接競合。"
+      },
+      {
+        "name": "GitHub Copilot Business/Enterprise (日本)",
+        "url": "https://github.com/features/copilot/plans?locale=ja",
+        "note": "$19/月、Jira連携Coding Agent提供開始。NTTドコモが毎日1000人で運用。純正バンドル+商流の強さで一次選択肢。Beeziは『Copilot利用後のガバナンス層』として共存余地はある。"
+      },
+      {
+        "name": "Atlassian Rovo / Jira AI",
+        "url": "https://www.atlassian.com/ja/software/jira",
+        "note": "Jira/Confluenceに統合された生成AI/エージェント。Beeziが乗るプラットフォーム本体が同じ機能を内製拡張中で、機能重複リスクが高い。"
+      },
+      {
+        "name": "vottia / Gen-AX",
+        "url": "https://vottia.jp/ai-agent-platform-comparison-japan-2026/",
+        "note": "国産AIエージェントオーケストレーション。Gen-AXは2025年11月にソフトバンク子会社として始動。ターゲットは業務領域だがコーディング統制にも参入余地あり。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法・改正電気通信事業法",
+        "impact": "ソースコードや顧客データを外部LLMに送信する仕組みは外部送信規律の対象。社内データを学習に使うフローやログ保管場所の開示要求が起きうるが、オンプレ/プライベートクラウド設置で大半の懸念は回避できる。"
+      },
+      {
+        "law": "AI事業者ガイドライン(経産省/総務省)",
+        "impact": "ソフトロー型だが、Beeziは『AIの判断ログとコスト記録の保全』機能でガバナンス要件に適合しやすい立ち位置。むしろ追い風となる規制環境。"
+      },
+      {
+        "law": "FISC安全対策基準・各業界個別ガイドライン",
+        "impact": "金融機関導入時は外部接続点と監査要件がFISCで個別審査必要。医療(医療情報システム安全管理ガイドライン)も同様。エンタープライズ契約のハードルとして残る。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては、(1)国産LLM(cotomi/tsuzumi/源内採択モデル)対応のルーティング差別化、(2)SIer/受託開発企業向け『顧客別AI使用量レポート』機能で多重下請け商流に乗る、(3)Backlog/Redmine等の国内チケットツール対応、(4)Jira Cloud日本データレジデンシ対応、の4方向。特にSIer向け『下請先ごとのAI利用量と請求按分』は他社にない切り口で、海外SaaSが取りに来にくい領域。",
+    "rationale": "市場機会としては中庸の6。需要シグナル(Cursor/Devin全社導入後のコスト課題、Gartner調査、Findy Team+の伸び)は強く、規制面はオンプレ対応で十分クリアできる。一方、国内市場の構造的問題が複数。第一にAtlassian/GitHub純正の機能拡張がBeeziの中核機能と重なり始めている。第二に内製エンジニア組織を持つ企業がIT人材の28%に限られ、TAMが米国の半分以下のイメージ。第三にFindy Team+という強固な国内プレイヤーが既に開発生産性可視化の入口を押さえている。日本独自の角度(SIer向け按分、国産LLMルーティング)を加えれば差別化は可能だが、Beezi本家がそのまま伸びる前提では『watch』が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "日本のエンタープライズSaaSはユーザーあたり月数千〜1万円帯が一般的でCopilot Business($19/月)とも整合。BeeziはROI訴求(コスト-45%)が明快で予算化しやすいが、調達は年契約・稟議前提で個人開発者がARPUを引き上げる難度は高い。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "日本のIT人材はベンダー側に72%偏在し、AIコーディングを実運用する内製エンジニア組織は数百社規模。SmartHR/DMM/サイバーエージェント等の先進層+SIer内製部隊を入れても国内有効商談は2000-5000社、ターゲット人数で見積もると10-15万人レベル。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "想定顧客はCTO/VPoEで、PLG単独では刺さらない。Jira Marketplace経由のセルフサーブ、エンジニアリーダー向けカンファレンス登壇、Findy/Four Keys界隈のインフルエンサー連携が必要。個人開発者が国内エンタープライズ販売を構築するのは事実上不可能。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Beezi本家が既にAtlassian Marketplaceで配布開始済み、GitHub/Atlassian純正のオーケストレーション機能も2026年内に成熟見込み。日本に本家がローカライズ参入する前の猶予は6-12ヶ月程度と短い。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "エンタープライズSLA(99.9%以上)、SSO/監査ログ、オンプレ配布、ベンダーセキュリティチェックシート対応、年契約サポートが前提で個人運用は実質不可能。CSも英語対応必須案件が多く、24/7体制が事実上必要。"
+      }
+    },
+    "rationale": "事業成立性は厳しめの4。マネタイズ単価(¥3,000-30,000/シート/月)は取れるが、TAMが内製エンジニア組織に絞られ国内2000-5000社・10万人台にとどまる。最大の障壁はGTMで、想定顧客がCTO層・年間契約・セキュリティ審査前提のためPLGが効かず、個人開発者がエンタープライズ商流を構築するのは現実的でない。さらにAtlassian/GitHub純正の機能拡張がオーケストレーション機能を吸収しつつあり、時間窓も短い。Findy Team+のような国内SaaSが既に近接領域を押さえている点も逆風。総合すると個人開発で再現すべき領域ではなく、もし参入するなら国内SIer/受託開発向けに『顧客別AI按分・請求』という極めて日本的な切り口で差別化する以外の道は薄い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "annual",
+      "arpu_jpy": 3500,
+      "plans": [
+        "Free: 月100チケット・1リポジトリまで・コミュニティサポート",
+        "Pro: ¥3,500/シート/月(年契約) Jira/GitHub連携・Analytics Hub・モデルルーティング",
+        "Business: ¥9,800/シート/月 SSO・監査ログ・複数LLMキー管理・優先サポート",
+        "Enterprise: 問い合わせ オンプレ/プライベートクラウド・カスタムSLA・専任CSM",
+        "SIer向けアドオン: +¥2,000/月 顧客別AI使用量按分レポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AI駆動開発を既に導入済み(Cursor/Devin/Copilot)で、エンジニア20名以上の内製組織を持つ国内SaaS/金融/ECの中堅〜大手企業。およびSIer/受託開発企業の内製AI推進部門。CTO/VPoE/エンジニアリングマネージャがバイヤーペルソナ。",
+      "target_count": 3000,
+      "capture_pct_year3": 1,
+      "monthly_revenue_target_jpy": 105000
+    },
+    "recommended_gtm": [
+      "Atlassian Marketplace(Jira)経由のセルフサーブ配布で初期トライアル流入を獲得",
+      "Findy/開発生産性Conference・EOF・July Tech Festa等のCTO向けカンファレンス登壇",
+      "DevOps/SRE/Platform Engineering系コミュニティでのケーススタディ提供",
+      "X(Twitter)上のCTO/VPoEインフルエンサー連携、Zenn/Qiitaの『AIコーディングのコスト溶かした話』系記事連載",
+      "SIer向け『AI按分請求』機能を切り口にNRI/富士通/NTTデータの内製推進部門と協業",
+      "国産LLM(cotomi/tsuzumi)対応で公共/金融セクターのオンプレ案件にリーチ"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Atlassian純正RovoとGitHub Copilot Coding Agentがオーケストレーション機能を内製拡張し、サードパーティ層が不要になるプラットフォームリスク",
+      "想定顧客の調達がエンタープライズSaaS前提でPLGが効かず、個人開発者ではセールス組織・SE体制を構築できない",
+      "国内ではIT人材の72%がSIer所属で内製エンジニア組織のTAMが限定的、3年で月商10万円台にとどまる試算",
+      "オンプレ要件・SSO・監査ログ・年契約・FISC等の業界別審査が必須で、個人運用継続は実質不可能",
+      "Findy Team+(国内850社)が開発生産性可視化の入口を既に押さえており、コーディングコスト統制機能を後追い追加してくる可能性が高い"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

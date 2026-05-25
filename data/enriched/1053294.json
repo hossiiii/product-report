@@ -1,0 +1,213 @@
+{
+  "name": "Show Me a Leaderboard",
+  "description": "Use friendly competition to build and strengthen community",
+  "ph_url": "https://www.producthunt.com/products/show-me-a-leaderboard/launches/show-me-a-leaderboard?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/URSTHEN7K7YNPM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-09T07:01:00Z",
+  "upvotes": 388,
+  "comments": 43,
+  "topics": [
+    "Games",
+    "Community",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>I started a micro-niche competition website for my friend-group and over the past 6 months it has slowly grown to be a very vibrant community. This was surprising to me!</p><p><br>I now frequently find myself saying \"Show me a leaderboard and I will show you an unreasonable amount of time trying to get to the top of it\", based on the lengths I saw people go to win my 2025 contest (hence the name). People really love internet points, even more so against their friends! Show Me A Leaderboard allows anyone to host a competition, and gives you the tools to make it fun.</p><p></p><p>There is not a ton of technical sophistication here, and most PH users can easily vibecode something like this very quickly, so feel free to do that! Our pricing of $5/year (per competition) is reflective of that.</p><p></p><p>As an example, I made <a href=\"http://showmealeaderboard.com/app/office-fitness-challenge\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">this contest</a>, where you can compete to see who can leave the most comments on PH during launch day :) </p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>\"5$ because u can code it urself\" is the most honest saas pricing in history😅 </p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>What's the best way to use it for a Slack community? <a href=\"https://www.producthunt.com/@catt_marroll\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"catt_marroll\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@catt_marroll</a> </p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Show Me a Leaderboard helps companies, nonprofits and friend groups easily launch friendly (or intense!) competitions, with custom leaderboards, badges, forums, and notifications.",
+  "featured_at": "2026-04-09T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/1821472d-6d9b-43dc-afde-958ea83d9c67.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/58bfd136-3b08-46f3-964d-c582ff5c75f7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1ced7571-0e48-4a98-afc0-6affd8b1d11d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/808b538b-7876-432f-b062-32df7397c993.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:21",
+  "landing_meta": "Show Me a Leaderboard | Leaderboard Builder — Create custom leaderboards and friendly competitions for your group.",
+  "landing_text": "Show Me a Leaderboard | Leaderboard Builder Use friendly competition to build and strengthen your community Track anything, engage everyone, and watch your group come alive. Get Started Free Log In Use it for anything competitive Sales team closing deals Track monthly revenue, new customers, or deals closed. Keep your team motivated and see who's leading in real-time. Friends running a fitness challenge Log daily workouts, steps, or healthy meals. Add photos, comments, and trash talk to keep it fun. Community book club or creative challenge Track books read, recipes tried, or photos shared. Build a feed where everyone can see and comment on submissions. How it works 1 Create your competition Set up what you're tracking and customize the look in under 2 minutes. 2 Share the link Send one link to your group. They click, join, and start submitting. 3 Watch the competition unfold Live leaderboard updates, comment threads, and badges keep everyone engaged. Start free, upgrade when you grow. Free for up to 5 participants. When your competition grows, it’s just $5/year per competition. See Pricing Get Started Free Ready to rally your group? Create your competition in under two minutes. Start Free",
+  "pricing_signals": [
+    "pricing",
+    "$5/year"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:22",
+  "description_ja": "友達同士の競争で熱量あるコミュニティを育てる、汎用リーダーボード作成サービス。",
+  "summary_ja": "誰でも2分で「○○チャレンジ」を作成し、参加者がスコア投稿・コメント・バッジ獲得で盛り上がれる汎用リーダーボードSaaS。営業・フィットネス・読書会など何でも追跡可能。価格は1コンテスト$5/年。",
+  "tldr_ja": "個人ランキング公開は日本では文化的に弱く、$5/年は単価不足。汎用すぎてGTMも難しく日本では事業化困難。",
+  "review_guide_ja": {
+    "what": "任意のスコア（売上・歩数・読書冊数・投稿数等）を参加者が記録し、リアルタイムでランキング・バッジ・コメントが表示される汎用リーダーボード作成SaaS。「コンテスト」を2分で立ち上げて1リンクを共有するだけで開始でき、5人までは無料、それ以上は1コンテストあたり$5/年。営業チームの月間売上、友達同士のフィットネスチャレンジ、読書会の読了冊数、創作チャレンジの投稿数など、用途横断で利用可能。フォーラム機能・通知・写真投稿・トラッシュトーク（軽い煽り）コメントも付属。技術的難度は低く、メーカー自身も『vibecodeで自作可能』と認めるシンプルな実装。",
+    "for_who": "営業マネージャー、フィットネス仲間グループ、読書会・コミュニティ主催者、非営利団体、社内イベント担当者、Slackコミュニティ運営者など、5〜数百人規模の小〜中グループ向け。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "メーカー自身がコメントで「vibecodeで簡単に作れる」と認めるレベル。CRUD + リアルタイム集計 + 認証の組み合わせで、Next.js+Supabase等で数日で再現可能。"
+    },
+    "signals": [
+      "メーカー自身が『6ヶ月でvibrant communityに育った』と実体験を語る",
+      "営業/フィットネス/読書/創作と用途横断で訴求し、UseCase explorationフェーズ",
+      "$5/年/コンテストの極端な低価格を『自分でも作れるから』と公言する正直さがバズ要素",
+      "PH 388 upvotes / 43 comments と一定の関心",
+      "Slack統合の質問がコメントで出ており、エンタープライズ拡張余地の兆し"
+    ],
+    "concerns": [
+      "$5/年は事業として明らかに単価不足、収益化の難易度が極めて高い",
+      "汎用ツールゆえターゲットが定まらず、マーケティング訴求が分散する",
+      "競合（Hurrah! Leaderboard、Plecto等）は専門特化で高単価、汎用低価格はポジショニングが弱い",
+      "再現性が高く差別化が機能・ブランドに依存しづらい",
+      "日本の企業文化では個人ランキング公開はピア圧力を招きやすくチーム単位の方が好まれる"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "営業ゲーミフィケーションや読書記録（読書メーター）等の部分需要は確認できるが、『誰でもコンテスト主催』という汎用需要のシグナルは弱い。日本では個人ランキング公開を避ける傾向があり、チーム単位コンテストが主流。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "完全同一の汎用リーダーボード作成SaaSは国内では薄いが、用途別では読書メーター・歩数計アプリ・SFA内蔵ゲーミフィケーション・社内コンテスト運営代行など断片的競合多数。専門特化型に挟まれる構造。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "賞金を伴うコンテストは景品表示法（一般懸賞）で取引価額の20倍・最大10万円・総額2%以内の制約あり。賞金なしの友達同士チャレンジなら規制外だが、企業利用での誤用リスクをUI/規約で明示する必要がある。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "UIは比較的シンプルで翻訳量も少なく、日本語化は技術的に容易。ただし通貨・タイムゾーン・絵文字表現程度の調整で済む。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本の営業文化は個人ランキング公開を嫌い、チーム単位での運用や匿名化を好む傾向が強い。読書会等の友達グループでも『トラッシュトーク』文化は希薄。プロダクトコアの『友達同士で煽り合う』前提が日本商習慣と相性が悪い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "読書メーター",
+        "url": "https://bookmeter.com/",
+        "note": "読書冊数の記録・年間目標・コミュニティ機能を提供。読書ジャンルではデファクト。"
+      },
+      {
+        "name": "Sales Force Assistant (NIコンサル)",
+        "url": "https://www.salesforce-assistant.com/gamification/",
+        "note": "SFAにゲーミフィケーション要素を内蔵。営業向けでは独自AI秘書とセットで提供。"
+      },
+      {
+        "name": "commmune（コミューン）",
+        "url": "https://commmune.jp/",
+        "note": "コミュニティ管理SaaS。ランキング/バッジは部分機能として実装可能、エンタープライズ向け。"
+      },
+      {
+        "name": "Pikmin Bloom等のフィットネスアプリ",
+        "url": "https://pikminbloom.com/",
+        "note": "フレンドと歩数チャレンジが組み込まれており、フィットネス用途のリーダーボード需要を吸収。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法（一般懸賞）",
+        "impact": "賞金・賞品ありのコンテストは取引価額5,000円未満は20倍まで、5,000円以上は10万円が上限、総額は予定取引総額の2%以内。賞金なし・友達同士の純粋な競争であれば景品類に該当せず規制外。企業がプロモ目的で利用する際の運用注意が必要。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "参加者の氏名・スコア・写真等を公開する性質のため、参加者本人の同意とプライバシーポリシー整備が必要。SaaS事業者は第三者提供・国外移転（米国サーバ利用時）の同意取得も求められる。"
+      }
+    ],
+    "opportunity": "汎用ツールとして勝負するのは難しいが、日本特化の角度として『社内表彰運営代行SaaS（チーム単位ランキング＋表彰式テンプレ＋景表法ガイド付き）』に絞れば、HR/総務領域で月額3,000〜10,000円帯の事業余地はある。または『資格勉強・読書・運動』など個人成長系コミュニティ運営ツールに特化し、note/Discord連携で運営者がメンバー継続率を高める用途に絞ると差別化可能。ただし汎用版そのままの輸入では日本商習慣ミスマッチが致命的。",
+    "rationale": "日本では『友達同士の競争でコミュニティを盛り上げる』というUSは文化的に弱い。営業現場では個人ランキング公開がパワハラ的に受け取られるリスクから、チーム単位コンテストが主流。フィットネス・読書・学習等の友達グループ用途も読書メーター・Pikmin Bloom等の既存アプリにビルトインされており、独立した汎用SaaSの居場所は狭い。景表法は賞金なしなら問題ないが、企業利用時の運用ハードルがある。ローカライズ自体は技術的に容易だが、プロダクトのコア体験（トラッシュトーク・個人ランキング煽り）と日本の遠慮文化のミスマッチが大きく、表面的翻訳では機能しない。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 2,
+        "reason": "$5/年/コンテスト（約750円）は極端に低単価。メーカー自身が『自分で作れる価格』と認める通り、ARPU設計が事業として成立しない。日本の同カテゴリ（commmune等）は月額数万円〜と桁が違うが、それは法人向けエンタープライズ機能あってこそ。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "コンテストを主催したい個人・小規模グループは存在するが、TAM試算で個人主催者を仮に10万人取れたとしても@750円/年=年7,500万円。法人向けに広げれば拡大するが、その場合は機能要件が変わる。汎用低価格ターゲットでは規模不足。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "用途が広すぎてマーケ訴求が分散。PLG的に伸ばすにはバイラル係数を稼ぐUGC設計が必要だが、現状『1リンク共有』のみで強い拡散装置を持たない。X/Qiita/note等で個人開発者が拡散するには『日本人に刺さるストーリー』が必要で、海外プロダクトの輸入では難しい。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "ゲーミフィケーション市場はCAGR25.85%で成長中だが、汎用リーダーボード領域は本家が安価で参入済み、専門特化型も多数存在。日本独自展開の猶予は中庸。"
+      },
+      "solo_ops": {
+        "score": 6,
+        "reason": "技術的には個人運用可能なシンプル構成だが、低単価ゆえ大量ユーザー対応が必要となりサポート負荷が膨らむ。コンテストごとに『不正スコア報告』『参加者トラブル』等の人手対応が発生し、価格と工数が見合わない。"
+      }
+    },
+    "rationale": "低単価×汎用ターゲット×弱いGTM装置の三重苦。$5/年/コンテストでは1,000コンテスト集めても月収約6万円で、個人開発者の本業化は事実上不可能。法人向けに転換するならcommmune・Sales Force Assistant等のエンタープライズ競合に技術力で挑む必要があり、個人開発のスコープを超える。日本市場限定では読書メーター等の既存ジャンル特化サービスが用途別需要を吸収済み。事業として成立させるには『単一ニッチに特化＋月額3,000〜10,000円帯＋日本商習慣に合うチーム/匿名モード』のリポジショニングが必要だが、それは別プロダクトになる。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: 5人まで・1コンテスト・基本機能（バッジ・コメント）",
+        "Team: ¥3,000/月/コンテスト・無制限参加者・チーム単位集計・匿名モード",
+        "Org: ¥30,000/月・複数コンテスト・SSO・Slack/Teams連携・景表法ガイド付き"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内の中小企業HR/総務担当者（社内表彰・健康経営チャレンジ・読書推進等の運営者）、および50〜500人規模のオンラインコミュニティ運営者（Discord/Slack）。個人開発者がXで拡散可能な層。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.1,
+      "monthly_revenue_target_jpy": 150000
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)個人発信：『社内表彰SaaSを月3,000円で運営した記録』系コンテンツ",
+      "note連載：景表法ガイドつき社内コンテスト運営テンプレを無料配布→有料機能誘導",
+      "Discord/Slackコミュニティへの直接営業：管理者向けインストール導線",
+      "Qiita/Zenn：『個人開発で作ったリーダーボードSaaS』として実装記事を出しPRハント"
+    ],
+    "time_window_months": 24,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "$5/年の本家価格に引きずられて日本市場でも低単価期待が形成され、ARPU設計が破綻するリスク",
+      "汎用ターゲットゆえマーケ訴求が分散し、ユーザー獲得CACが回収できない",
+      "日本企業の個人ランキング忌避文化により、コアUSを維持したまま販売できず大幅リデザインが必要",
+      "サポート工数（不正報告・参加者トラブル）が低単価と見合わず、個人運用継続が困難になる",
+      "読書メーター・SFA内蔵ゲーミフィケーション等の既存サービスが用途別需要を既に吸収しており新規参入の説得力が弱い"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

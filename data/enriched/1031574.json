@@ -1,0 +1,264 @@
+{
+  "name": "InstantDB",
+  "description": "Complete backend with auth and storage in one prompt",
+  "ph_url": "https://www.producthunt.com/products/instant-db/launches/instantdb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/LGBQZ27NGILOLH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-22T07:01:00Z",
+  "upvotes": 341,
+  "comments": 45,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "Database"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey PH! After 4 years of building, we want to introduce you to Instant!<br></p><p>We think Instant is the best backend for AI-coded apps. It gives you three things in one package: unlimited apps, a sync engine in every app, and batteries-included services.</p><p><br>Here's what that means:</p><ul><li><p><strong>Unlimited apps.</strong> Most platforms cap your free projects or freeze them when they go idle. Instant never does. An app on Instant is just a few rows in multi-tenant Postgres, so there are no VMs to spin up and nothing to pause.</p></li></ul><ul><li><p><strong>A sync engine.</strong> All your apps will be real-time and work offline out of the box. This is the same kind of technology that powers the best apps today like Figma, Notion, and Linear.</p></li></ul><ul><li><p><strong>Batteries included.</strong> Auth, file storage, and streams all live in the same database. Everything you need to build a modern app is built in, so you can focus on shipping.</p></li></ul><p>And every line of Instant is open source! If you want to dive deeper on how we make this all work, you can check out our architecture essay at <a href=\"https://www.instantdb.com/essays/architecture\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.instantdb.com/essays/architecture</a></p><p><br>Thousands of developers have trusted us to run their core infrastructure. If you're building with agents, we think you will love using us.</p><p><br>You can use Instant without even having to sign up. Just add “Read <a href=\"http://getadb.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">getadb.com</a> first” to any prompt and the AI will automatically get a database to use.</p><p><br>And if you prefer the terminal you can get a full project set up by just running `npx create-instant-app`</p>",
+      "votesCount": 24,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch!</p><p></p><p>Been building on Instant with a small team for over 2 years and it's been a game changer. Real time sync between our WhatsApp bot and web dashboard just works with no extra effort. The DX is excellent (shoutout to schemas, perms and recovery). Highly recommend 🚀</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Codex just eats instantdb up, it's so cool to see it build a full stack app <em>single shot</em> with permissions, real-time sync, presence, etc. </p><p></p><p>Normally codex would spend ~1B tokens over hours and hours to cobble together a <em>sort</em> of real-time app with so-so permissions, etc. using postgres or something like that (and I'd still be suspicious), but it turns out if you make good abstractions and push the complexity down into the system, the codex can cut its token usage by 10-100x, and I can read enough of the app to trust it's written well. It's just not possible to move at that speed without something like instant (at least I haven't found anything like that yet)!</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Instant turns your favorite AI into a full-stack app builder. You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love. Free to use, 100% open source. and works well for both vibe coding and production apps! You can get started by simply running `npx create-instant-app` in the terminal or just add “Read getadb.com first” to any prompt",
+  "featured_at": "2026-04-22T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/3e393258-984d-45de-b7f8-37ac199e6bb3.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/30c23bdf-18ba-41e2-8633-90894e287a81.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/62849476-dad0-44cf-b017-9e78c60a1e56.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3b534ad5-8515-4bd9-92f5-e84a9a56f170.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/566b815e-2b28-4969-93e4-c79b477824aa.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/86119892-31b5-4eb9-b87f-1afbfd190ab5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/721b26e3-cb7b-4e35-a3bb-fcff3a825c6b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bff86ecc-5ba0-45fc-8bdf-edc8ed077553.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f5fd0962-9d55-4fed-8a4d-1b97fac1a1cc.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/386ee22c-3eff-4146-8487-4bd4dd83fa00.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/799b4416-10b3-4374-b174-d8176233373d.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:23",
+  "landing_meta": "Instant — We make you and your agent more productive by giving your frontend a real-time database.",
+  "landing_text": "Instant instant instant Product Product Pricing Tutorial Examples Recipes Docs Essays About 1 0 . 3 k stars Dashboard The best backend for AI-coded apps Give your AI a real backend. You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love. $ npx create-instant-app or Sign up now 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 concurrent connections 1,000+ queries per / second 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 0 0 1 2 3 4 5 6 7 8 9 github stars Backed by Y Combinator · Backed by SV Angel · Featured in TechCrunch Backed by the best Greg Brockman Co-Founder of OpenAI Jeff Dean Chief Scientist of Google DeepMind Paul Graham Co-Founder of YCombinator Amjad Masad CEO of Replit Karri Saarinen CEO of Linear Zach Sims CEO of Codecademy And 50+ technical founders from Sendbird, Panther, Segment, and more The amount of requests we had for relational queries for Firebase was off-the-charts. I always wanted this built and open sourced. I’m glad to see Instant is doing it! James Tamplin Founder of Firebase Built for AI Get a backend designed to be operated from the CLI. Your agent can do everything a human can do with a dashboard, and when things go wrong, undo is built in. Never leave your terminal Create an account, spin up a database, push schema, and build from the terminal. No dashboards. No clicking through UIs. Just you, your agent, and your code. $ npx instant-cli push schema chat.tsx schema.ts perms.ts 1 // ༼ つ ◕_◕ ༽つ Real-time Chat 2 // ---------------------------------- 3 // * Updates instantly 4 // * Multiplayer 5 // * Works offline 6 7 import { init , id } from \"@instantdb/react\" 8 9 const db = init ( { appId : \"your-app-id\" } ) 10 11 function Chat ( ) { 12 // 1. Read 13 const { data } = db . useQuery ( { messages : { } } ) 14 15 // 2. Write 16 const addMessage = ( msg ) => { 17 db . transact ( db",
+  "pricing_signals": [
+    "open source",
+    "subscription",
+    "pricing",
+    "$2.47",
+    "$1",
+    "$7"
+  ],
+  "landing_fetched_at": "2026-05-26T04:00:23",
+  "description_ja": "認証・ストレージ込みのリアルタイムDBバックエンドをAIプロンプトから即構築",
+  "summary_ja": "Instant(InstantDB)は、認証・権限・ストレージ・プレゼンス・リアルタイム同期を1つにまとめたオープンソースBaaS。`npx create-instant-app`やAIエージェント経由でフルスタックアプリの土台を数分で立ち上げられる、Firebase代替の開発者向けプラットフォーム。",
+  "tldr_ja": "BaaS本体は世界規模インフラ勝負で個人開発者が競合参入する余地はほぼゼロ、利用側に回るのが筋。",
+  "review_guide_ja": {
+    "what": "Instantはフロントエンド開発者向けのリアルタイムDB付きBaaS。マルチテナントPostgres上にアプリを1テーブルセット相当で配置するためアプリ数無制限・無料枠でも停止されないのが特徴。認証(メール/Magic Link/OAuth)、権限ルール(perms.ts)、ファイルストレージ、プレゼンス、ストリームを内包し、IndexedDBによるローカルキャッシュでオフライン同期と楽観更新がデフォルト動作。React/React Native/Vanilla JS SDKとCLI(`instant-cli`)、Clerk連携、Agent Skillsを備え、Codex/Claude Codeなどのコード生成エージェントから直接スキーマ更新・データ操作できる設計。ユースケースはチャット・コラボツール・ダッシュボード等、Figma/Linear的なリアルタイムUIを最小実装で作りたいケース全般。",
+    "for_who": "Firebase/Supabaseを使い慣れたフロントエンド/フルスタック個人開発者・小規模スタートアップ、特にAIコーディング(vibe coding)でMVPを高速に立ち上げたい層。リアルタイム/オフライン体験を素早く実装したいSaaS PoCにも適合。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "BaaSはマルチテナントPostgres運用・WALテーリング同期・グローバル低遅延・SLA・課金など、個人で再現するには技術的にも運用的にも極めて重い。模倣ではなく利用側に回るのが現実的。"
+    },
+    "signals": [
+      "GitHub 10.3k stars、HN 1000+ upvotes、Y Combinator/SV Angel/James Tamplin(元Firebase CEO)/Paul Graham/Greg Brockman出資",
+      "Codex等のコーディングエージェントが`Read getadb.com first`プロンプトだけでDBを獲得できるAI-native設計",
+      "無料枠でアプリ無制限・自動停止なし(マルチテナントPostgres構造)というSupabase/Firebase差別化",
+      "Zenn等で「Local-First / InstantDBが示すWeb開発の未来」と紹介され、日本のフロント界隈で初期言及あり",
+      "auth/perms/storage/presence/streamsが1パッケージで`npx create-instant-app`即起動"
+    ],
+    "concerns": [
+      "国内マーケでの認知はFirebase/Supabaseに大きく劣後し、日本語ドキュメント・コミュニティ未成熟",
+      "個人情報保護法上、保管リージョンが米国想定で『外的環境の把握』『外国第三者提供』の説明義務が発生",
+      "AIエージェントが勝手にDB作成・スキーマ変更する設計はセキュリティ/権限管理の運用責任が利用者側に重くのる",
+      "Supabaseが2025年に登録開発者400万・$200M Series D・$100M Series E と圧倒的に先行しており、競合参入は不可能水準",
+      "オープンソースだがマルチテナントPostgres運用ノウハウなしにセルフホスト本格運用は非現実的"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Firebase/Supabaseに関する日本語記事は大量にあり、BaaS需要そのものは顕在。Local-First/オフラインファーストもZennで2025年以降の関心が広がる兆し。一方InstantDB単体での日本語事例はZennの1〜2記事程度で『触ってみた』量はまだ薄い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "国内競合(ニフクラmobile backend)に加え、Firebase・Supabase・AWS Amplify・Convex・Pocketbase等の海外勢が同一カテゴリで完全飽和。Supabaseは2025年に4M開発者・$2B評価。指名検索でInstantDBに勝てる余地はBaaS本体としてはほぼない。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "個人情報保護法上の越境移転・委託・外的環境の把握義務はあるが、Firebase/Supabaseと同レベルで処理可能。BaaSカテゴリで日本固有の追加規制は無し。医療・金融データを乗せる場合は別途配慮が必要なのは他社も同じ。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "本質はSDK/CLI/ダッシュボード等の開発者向けUIであり、ドキュメント日本語化・コミュニティ翻訳・チュートリアル整備が中心。Firebase日本語化と同じパターンで翻訳容易。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "個人開発者・小規模スタートアップ層は英語ドキュメントOK・クレカ課金OKで商習慣の壁は低い。エンタープライズ向けは請求書・捺印・SLA契約が必要で本家未対応だが、個人/MVP層では十分機能する。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Firebase (Google)",
+        "url": "https://firebase.google.com/?hl=ja",
+        "note": "日本のBaaSデファクト。リアルタイムDB/Auth/Storage完備。日本語ドキュメント・GCPサポート・国内事例が圧倒的に多い。"
+      },
+      {
+        "name": "Supabase",
+        "url": "https://supabase.com/",
+        "note": "Firebase代替のOSS BaaS。2025年に登録開発者400万人・$200M Series D・$100M Series Eを達成しFirebase代替の事実上の第一選択。"
+      },
+      {
+        "name": "ニフクラ mobile backend (富士通クラウドテクノロジーズ)",
+        "url": "https://mbaas.nifcloud.com/",
+        "note": "国産mBaaS。国内法令対応・日本語サポート・国内データセンターを強みに教育・法人案件で残存。リアルタイム同期は弱い。"
+      },
+      {
+        "name": "AWS Amplify",
+        "url": "https://aws.amazon.com/jp/amplify/",
+        "note": "国内ではAWSアカウントが既にあるチームの第一選択。Cognito/AppSync/DynamoDBでBaaS的機能を組み合わせ可能。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法(改正法・2022年4月施行)",
+        "impact": "InstantDBは米国マルチテナントPostgres前提のため、利用者側に『外国第三者提供』への同意取得、または委託扱い時の安全管理措置と『外的環境の把握(米国の個情法制度の把握)』、保管国情報の本人開示が必要。Firebase/Supabaseと同様の義務水準。"
+      },
+      {
+        "law": "電気通信事業法(2023年6月改正・外部送信規律)",
+        "impact": "Instantに利用者の通信内容(チャット等)が送信される場合、Webサイト・アプリ側で外部送信の通知/公表/同意取得義務(クッキー類似規律)を負う。BaaS全般共通の論点。"
+      },
+      {
+        "law": "特定商取引法/景品表示法",
+        "impact": "Instant上でEC・サブスク課金を構築する場合、利用者側のアプリで表示義務・誇大表示禁止に対応する必要。InstantDB本体には直接の規制負荷は薄い。"
+      }
+    ],
+    "opportunity": "InstantDB『そのもの』を国内で別実装する余地は無いが、(1)日本語ドキュメント・チュートリアル整備＋Zenn/Qiita連載でアフィリ/有料書籍化、(2)Instant+Clerk+Next.js+生成AIで日本のMVP受託テンプレ提供、(3)Instantをバックエンドにした特定業界向け縦割りSaaS(店舗予約・チームコラボ・現場記録など)を個人開発するという『利用側』の角度に勝機がある。Local-First/オフラインファーストは漁業・建設・医療・店舗オペレーションなど現場系で日本固有需要があり、これらをInstantで安く速く作る事業が現実的。",
+    "rationale": "BaaSという商品カテゴリで国内に新規参入する角度は競合過密・規模経済の壁で完全に閉じており『build』は無い。ただし需要そのものはFirebase/Supabase利用例の多さから明確に存在し、Local-First文脈の日本語コンテンツも2025年以降増え始めている。日本市場機会としては『InstantDBを使った縦割りSaaSやテンプレを作って売る』ポジションに限り build寄り、本体カテゴリは watch〜skip。総合では『watch』が妥当で、Supabaseの国内浸透速度を見つつ、Instant独自のAIエージェント連携・無料無制限アプリ特性を活かせるニッチを継続観察する位置付け。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "国内個人開発者はVercel/Cloudflare/Supabaseの月額$5〜$20帯までは払う層が存在するが、BaaS本体の課金はFirebase/Supabaseに流れる。InstantDBクローンの課金は不可能。Instant利用のテンプレ/コンサル/書籍販売はZenn Bookやnoteで3,000〜5,000円が上限相場で、ARPU確保は限定的。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内BaaS市場規模の公開統計は未確認だが、Qiita/Zennの個人開発記事数とFirebase日本語事例数から推定して、月数千円帯を支払うフロントエンド/フルスタック個人開発者層は数万人規模で存在。ただしBaaSを売る側ではなく『使って何かを作って売る』前提のTAMは中庸。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Zenn連載・Qiita・X発信・YouTube・Zenn Bookという個人開発GTMチャネルが確立しており、PLG的にコンテンツ→無料テンプレ→有料テンプレ/受託への動線が組める。本体カテゴリの直接競合は不可能だが、コンテンツ起点なら個人で到達可能。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "Supabaseは2025年に登録開発者400万・Series D/E完了で日本でも記事爆発期。InstantDBの本体カテゴリ参入は時間窓ゼロ。一方Local-First/AIコーディング起点のテンプレ事業はまだ余白12〜24ヶ月程度。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "BaaSをホスティングする側は24/7 SRE必須で個人運用不可。一方Instantを『使って』テンプレや業界縦割りSaaSを売るならVercel+Instant無料/低額枠で個人運用可能、ただし顧客サポート負荷次第。"
+      }
+    },
+    "rationale": "InstantDB本体をビジネスとして模倣することは不可能水準。事業性を語れるのは『Instantを土台に何を作って売るか』であり、(a)Zenn Book/Qiita連載/YouTubeで日本語コンテンツを獲得しテンプレ販売、(b)Instant採用の業界縦割りSaaSをMVP〜月商数十万円帯で量産、という二択しかない。これらは市場規模・ARPU共に控えめだが個人開発者の到達可能領域。BaaSカテゴリそのものは Supabase・Firebase の規模経済に対し timing/monetization が低く、business_viability は中庸の5にとどまる。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 3000,
+      "plans": [
+        "(本体を模倣する想定は不可) Instant本体はApache-2.0系OSS+クラウドFree/Proの本家モデル",
+        "派生事業A: Zenn Book/技術書典で『InstantDB+Next.js実践』2,000〜4,000円買い切り",
+        "派生事業B: Instant採用業界SaaSテンプレ販売 1万〜3万円一括 or 月額2,000〜5,000円",
+        "派生事業C: Instant導入支援/受託 単発20〜80万円(個人受託相場)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Instantを直接ビジネス化するのではなく、Instant採用テンプレ/書籍/受託を売る対象として、Firebase/Supabaseを触ったことのある国内フロントエンド/フルスタック個人開発者・スタートアップCTO。Zenn/Qiita能動読者かつ月額3,000円程度の開発投資が許容できる層。",
+      "target_count": 5000,
+      "capture_pct_year3": 1,
+      "monthly_revenue_target_jpy": 150000
+    },
+    "recommended_gtm": [
+      "Zenn連載『InstantDBで作るLocal-Firstアプリ』+ 有料Zenn Book化",
+      "Qiita Advent Calendar / 個人技術記事でAIコーディング × InstantDB事例を蓄積",
+      "X(旧Twitter)個人発信 + Claude Code/Codex連携デモGIFで開発者層に直接拡散",
+      "YouTube/ニコ生で`npx create-instant-app`からデプロイまでの実況コンテンツ",
+      "技術書典/技術同人誌即売会で物理書籍版を頒布し著者ブランディング",
+      "Instantの公式Agent Skills/コミュニティに日本語チュートリアルをコントリビュート"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "BaaS本体カテゴリへの新規参入は Supabase($2B評価・4M開発者)・Firebase の規模経済で物理的に不可能。模倣事業は資金とSREチーム必須で個人開発不適。",
+      "Instant自身が日本法人化・日本語化に乗り出した場合、日本語コンテンツ先行者利益が短期間で蒸発するリスク。",
+      "AIエージェント任せでDB作成・スキーマ変更を行う設計は権限ミス・データ漏洩リスクが高く、これを前提にした業界SaaSは個人で運用上のセキュリティ責任を負いきれない可能性。",
+      "個人情報保護法の越境移転・外的環境の把握対応をクライアントに説明できない個人開発者は法人案件で失注しやすい。",
+      "Instant Cloudの料金体系変更・無料枠縮小で派生事業の前提が崩れるベンダーロックリスク。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T19:02:32Z",
+  "review_guide_at": "2026-05-25T19:02:32Z",
+  "business_viability_at": "2026-05-25T19:02:32Z",
+  "advisor_view_at": "2026-05-25T19:02:32Z"
+}

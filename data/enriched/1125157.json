@@ -1,0 +1,267 @@
+{
+  "name": "Dune",
+  "description": "Context-aware Mac keypad to automate workflows + meetings",
+  "ph_url": "https://www.producthunt.com/products/dune-4/launches/dune-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/67NKXLWIKHXRHK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-20T07:01:00Z",
+  "upvotes": 638,
+  "comments": 121,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Development"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi! Really excited to finally share what we've been building.<br>I’m the founder of Project Mirage. We are a team of Designers, Developers and Engineers who have been building in Consumer Hardware for over 8 years, now building in AI Interfaces.<br><br><strong>What is Dune and why is it called so?</strong><br>Dune is a context Aware Keypad for mac that reads which app is in the foreground and automatically changes what its 3 keys do based on what you're doing. We call it Dune because a sand dune is never one thing. It shifts, quietly and constantly, shaped by whatever surrounds it.<br>That's what these three keys do. They observe what you're doing and become what you need, right then.<br><br><strong>What Makes Dune Different</strong><br>Dune is context-aware, meaning, its keys update automatically based on the app you are running. Unlike other keypads that lock you into setting up keyboard macros for each app, Dune comes with the most-used commands and complex workflows already built in. It is also highly customizable - you can write your own scripts and connect your own agents to trigger via Dune. It reads your active app and surfaces the three most relevant actions automatically, in real time.</p><p></p><p><strong>The Problem &amp; Our Solution</strong><br>The way we interact with computers hasn't meaningfully changed in 45 years. We still rely on browsing through screens, clicking multiple links, and memorizing unnecessarily complex keyboard shortcuts for everyday actions. Most shortcuts are buried, forgotten, or simply never discovered, and that's not a user problem, it's a design problem.</p><p><br>Meanwhile, what we actually do on computers has gotten far more complex - developers juggle dozens of tools at once, and meetings now run back-to-back with controls scattered across cluttered interfaces. The friction is constant, and it adds up.</p><p><br>We spent months experimenting with new interface paradigms, showcased three of them at CES, and built Dune to put the best of what we learned directly in your hands. A three-key Mac keypad that reads your active app and surfaces the right actions automatically, whether you're coding, in a meeting, or getting things done.<br><br><strong>Features &amp; Benefits</strong><br><em>1. Context Awareness:</em> Dune detects which app is in the foreground and automatically updates what its 3 keys do in real time, so you never have to manually switch profiles or reconfigure anything.<br><em>2. Instant Actions: </em>Every key is always mapped to something relevant to what you are doing. In GitHub, that means raising a PR, approving/rejecting a change. In your meeting app, joining a call, toggling your mic and controlling your camera with one tap - all while juggling a hundred different tabs.<br><em>3. Calendar Sync: </em>Dune syncs with your calendar so you can join your meetings in a single click. Works with Zoom, Teams and Google Meet.<br><em>4. Agent Triggers:</em> Trigger your AI agents or agentic workflows directly from your desk. An email assistant, a calendar agent, or anything else you've built in Claude can be activated from the same three keys without switching context.<br><em>5. Custom Macros and URLs:</em> Connect any keyboard macro or URL in the Dune app and define exactly what each key does across any app or workflow.<br><br><strong>Who Is Dune For?</strong><br>Dune is built for anyone who lives on their Mac.<br><em>1. Developers: </em>Approving a PR on GitHub takes 4-6 clicks on average. Multiply that across a full day of reviews, commits, context switches, and agent triggers and you're spending more time navigating your tools than actually building. Dune maps its three keys to the actions you reach for most in GitHub, VS Code, Claude and more, so you stay in flow.<br><em>2. People who live in Back-to-Back Meetings:</em> One tap to join a call, a dedicated mic toggle that auto-brings your meeting window to front, and a camera key so you're never fumbling at the wrong moment. Syncs with your calendar and works with Zoom, Teams and Google Meet.<br></p><p>We'd especially love to see what you build with it.<br></p><p>Drop a comment! I’d love to hear what shortcuts have been frustrating you and share how Dune can fix that for you.<br>---<br></p><p>🎁 Product Hunt Launch Offer<br>33% off for our early birds, use code PRODUCTHUNT99 at <a href=\"https://www.projectmirage.ai/order\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.projectmirage.ai/order</a><br></p><p>⭐️ Important Links<br>Site: <a href=\"https://www.projectmirage.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.projectmirage.ai/</a><br>Setup Guide: <a href=\"https://boom-cuticle-650.notion.site/There-s-More-to-Dune-Setup-Guide-31a3a95d8164804181a8e9ffbcb4344b\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://boom-cuticle-650.notion....</a><br>All FAQs: <a href=\"https://www.projectmirage.ai/#dunefaq\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.projectmirage.ai/#du...</a><br>Demo: <a href=\"https://www.youtube.com/watch?v=4Hn_ece7NVc\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.youtube.com/watch?v=4Hn_ece7NVc</a></p>",
+      "votesCount": 40,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Is it reading the active window process or something deeper than that?</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Early user here - thought it would take weeks to build the muscle memory. Took about two days. Now if the keys are not there I notice immediately. Nicely done.</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Dune is a Context-aware Keypad for Mac that sits next to your keyboard and changes what its three keys do in real time based on the app running in the foreground. Built for developers who live in GitHub, VS Code, Claude, Openclaw, and for anyone running AI agents or in back to back meetings on Zoom, Teams, and Google Meet.",
+  "featured_at": "2026-04-20T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/56eb5fd7-684a-4fe5-aa2a-5333fd5b579b.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/935e98e5-ac12-47a2-888e-5d5af8a57b26.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2ed6c460-95cf-4c76-af39-a0c949f5d4fa.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/35860bde-41e1-464f-8a23-7929891066ab.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/74c6e659-c134-4828-be2a-72852f77b3b1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fc507ee3-1b40-4199-be97-55a3ac432e19.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a67c583f-4ee1-4d29-81a0-a18add24c75e.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/dbf7afdd-00e1-4b2b-b05d-6deeec379340.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T03:46:28",
+  "landing_meta": "Project Mirage — We are a team of designers and engineers, who have been building in wearables and hardware for close to a decade.",
+  "landing_text": "Project Mirage Batch #1 Sold Out · Early Bird Batch 2 Now Available · Limited units remaining · Ships within 10 days Features About FAQs Download Sign Up Order now Batch #1 Sold Out · Early Bird Batch 2 Now Available · Limited units remaining · Ships within 10 days Features About FAQs Download Sign Up Order now Batch #1 Sold Out · Early Bird Batch 2 Now Available · Limited units remaining · Ships within 10 days Features About FAQs Download Sign Up Order now Features of Dune Context-aware keypad for macOS, automating dev workflows, simplifying online meetings, and more Daily meetings Dev workflows Beyond macros Marketplace Speak to Claude 01 01. Join your next call without touching your trackpad. Dune syncs with your calendar and surfaces your meeting link two minutes before every call. One key joins directly. Another sends a running late email to attendees, without you needing to ever move your cursor. 02 02. Physical mic/camera toggles and one click unmute to instantly snap your meeting window to the front. In any meeting, Key 1 becomes your mic toggle and Key 2 your camera. No more squinting at the screen to find the unmute button. One key press also brings your active meeting window to the front, however deep you are in your tabs. 03 03. Trigger Granola, your meeting assistants, or your custom agents. All three keys are fully configurable. Surface notes from previous conversations, send personalized follow-ups the moment a call ends, or trigger anything else you need. That is how Dune works out of the box. Configure it to fit however you work. 01 GitHub, VS Code, Claude, without breaking flow. Dune detects which dev tool you're in and maps its three keys to the actions you reach for most. 02 Custom agents, one tap away. Dune + Openclaw lets you invoke agents you've built, such as an Email Assistant that sorts your inbox and drafts responses early in the day. Openclaw use cases are for reference and are not pre-installed in Dune. 03 AI-powered context awareness, u",
+  "pricing_signals": [
+    "open-source"
+  ],
+  "landing_fetched_at": "2026-05-26T03:46:29",
+  "description_ja": "Mac向け文脈認識キーパッド。アプリに応じて3キーの機能を自動切替し、会議や開発作業を自動化。",
+  "summary_ja": "Macのフォアグラウンドアプリを検知し、3つの物理キーの割り当てを自動で切り替える小型キーパッド。GitHub/VS Code/Zoom/Teams等で頻出操作を1キーで起動し、AIエージェント呼び出しにも対応。",
+  "tldr_ja": "Stream Deck/Loupedeckが既に国内浸透、個人開発のハード参入は量産・PSE/技適・在庫リスクで実質困難。ソフトのみ模倣も意味薄、skip推奨。",
+  "review_guide_ja": {
+    "what": "Mac専用の3キー文脈認識キーパッド（USB有線想定）。フォアグラウンドアプリを検知し、GitHub（PRレビュー）、VS Code、Zoom/Teams/Meet（マイク/カメラ/参加）、カレンダー連携（次会議への1タップ参加）等にキー割当を自動で動的変更する。Granola等のAIアシスタントやユーザーがClaudeで作ったエージェント、カスタムマクロ/URLも紐付け可能。Smart Profiles相当の機能を3キー・物理デバイスとして特化させた製品。発売価格は$119（プレオーダー）→$149。Batch1完売の表示あり、Batch2受付中。Project Mirage社はCES出展経験のあるハード系チーム。",
+    "for_who": "Macで複数アプリ（GitHub/VS Code/Claude/Zoom/Teams）を横断する開発者、バックトゥバック会議の多いマネージャー/PdM、Stream Deck15キーは多すぎ・3キーで十分という小型志向ユーザー。AIエージェントを物理ボタンから起動したい層も対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "ハードウェア量産・PCB設計・ファームウェア・PSE/技適・出荷物流・サポートが必要。個人開発でのフル再現は難。ソフト側（Karabiner+Hammerspoonでアプリ別キー割当）の模倣は容易だが、UX差別化にならない。"
+    },
+    "signals": [
+      "3キー物理デバイス×文脈認識という尖った絞り込み（Stream Deckの15キーへのアンチテーゼ）",
+      "AIエージェント（Claude等）を物理ボタンから起動するナラティブ",
+      "Batch1完売（数量非公開だがハード初動として実需あり）",
+      "PH 638 upvotes・121コメントと一定のバズ",
+      "macOS限定で開発リソースを集中"
+    ],
+    "concerns": [
+      "ハード単発売り切り（$119-149）、リカーリング無しでLTV低い",
+      "Smart Profilesで競合Stream Deckが既に文脈切替を実現、3キーの優位性は限定的",
+      "macOSのアプリ検知API（Accessibility権限）は将来制限リスクあり",
+      "個人開発者がハード模倣する余地が極めて小さい（量産・認証の壁）",
+      "long_descriptionに『open-source』signalがあるが製品自体はクローズドハード、混乱要因"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Stream Deckが国内でリモートワーク用途を中心に普及し、Qiita/Zenn/note記事多数。配信者だけでなく開発者・デザイナー層へ拡大中で『キー数を絞った文脈認識デバイス』の潜在需要はある。ただし3キーという尖った仕様への国内需要シグナルは未確認。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Stream Deck（Elgato）が日本語パッケージ・¥22,980で広く流通、Smart Profilesで文脈切替を既に実装。Loupedeckも国内流通あり。代替低価格デバイス、自作Stream Deck互換（Zenn記事）も存在し競合過密。3キー専用機の独自ポジションはあるが市場規模は小さい。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "USB有線キーパッドなら技適は基本不要、PSEもACアダプタ給電でなければ対象外の可能性が高い。ただし将来BT版を出す場合は技適必須、輸入販売は事業届出も必要。個人輸入レベルなら障壁低いが、商用販売は最低限の認証工数あり。検索で本機の無線対応有無は未確認。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "物理キーパッドのため言語UIはコンパニオンアプリのみ。アプリのi18n対応とZoom/Teams/Meetの日本語UI操作対応、Notion/Slack等の国内利用アプリ向けプリセット追加で対応可能。深いUX改修は不要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "リモート会議・開発ツール文化は日米共通で大きな乖離なし。一方、日本ではStream Deckが個人購入中心で、企業一括導入は限定的。3キー$119のハード単品買い切りは日本人の物理ガジェット好きには受けるが、量は限定的。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Elgato Stream Deck（MK.2/+/XL/Pedal）",
+        "url": "https://www.elgato.com/jp/ja/p/stream-deck-mk2-black",
+        "note": "国内代理店ソフトバンクコマース流通、MK.2が¥22,980、Smart Profilesでアプリ別自動切替を実装済み。Qiita/note記事多数で開発者層に既に浸透。"
+      },
+      {
+        "name": "Loupedeck（Live/CT）",
+        "url": "https://loupedeck.com/",
+        "note": "コンテクストアウェアのプロファイル機能あり。国内ではAmazon/B&H等で流通、Logitech傘下。事業継続性は要確認（ニュース言及あり）。"
+      },
+      {
+        "name": "Hammerspoon + Karabiner-Elements（無料代替）",
+        "url": "https://www.hammerspoon.org/",
+        "note": "macOS自動化ツール。アプリ別キー割当・ハイパーキー実装が可能で完全無料。国内開発者に支持され記事多数。物理ボタン無しの代わりに学習曲線あり。"
+      },
+      {
+        "name": "自作Stream Deck互換（Zenn記事）",
+        "url": "https://zenn.dev/hiiraginil/articles/396fb53521d8d8",
+        "note": "個人開発者がVibe codingで自作した事例。コミュニティ活発、プラグイン/companion等のOSSが発展。DIY層は無料でほぼ同等を実現。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "電気用品安全法（PSE）",
+        "impact": "USBバスパワー駆動の周辺機器は本体直接の対象外だが、付属ACアダプタは特定電気用品扱いで菱形PSE必要。輸入販売は事業開始30日以内に届出義務。バスパワーのみなら個人開発者でも対応可。"
+      },
+      {
+        "law": "電波法（技適マーク）",
+        "impact": "USB有線版なら不要。Bluetooth/Wi-Fi対応版を出す場合は技適認証必須、未取得品の販売・使用は1年以下の懲役または100万円以下の罰金。認証コスト数十万円〜が個人開発の参入壁。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "EC直販する場合は特商法表示（事業者名・住所・電話・返品条件）必須。クラウドファンディング（Makuake等）経由なら一定整理あり。個人事業主でも住所開示が必要で、自宅住所バーチャルオフィスで回避が一般的。"
+      }
+    ],
+    "opportunity": "日本独自の差別化角度は限定的。可能性があるとすれば、(1)国内特化プリセット（Backlog/kintone/freee/MoneyForward/Notion日本語版/Slack日本語ワークフロー）を初期搭載した『日本のSaaSに最適化された3キー版』、(2)Stream Deckが弱いAI/MCPエージェント物理トリガー特化、(3)Hammerspoon連携OSS版ソフトとしてのリリース。ただしいずれも本家Dune側がアップデートで追従可能で、ハード商売の優位性を個人開発者が築くのは非常に困難。",
+    "rationale": "需要は『キー絞り込み×文脈認識』というニッチでゼロではないが、Stream DeckのSmart ProfilesとHammerspoonの組合せで実質代替可能。国内競合（Elgato日本語パッケージ流通、Loupedeck、自作OSS）が既に揃い、3キー特化の独自市場は小さい。法規制はUSB有線なら軽いがBT版・販売事業化で技適/PSE/特商法の最低限工数が発生し、個人開発のハード参入はROIが見合わない。日本商習慣との乖離は小さいが、企業一括導入も期待薄。総じて『市場機会は限定的、独自開発の角度も狭い』ためskip判定。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "ハード単発売り切り（$119-149≒¥18,000-23,000）でリカーリング無し。日本人はガジェット買い切りには抵抗少ないがLTVが低く、コンパニオンアプリのプリセットマーケットプレイスや月額AIエージェント連携など追加収益化が必要。個人開発で同モデルを組むのは困難。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内Mac利用開発者・PdMで生産性ガジェットを購買する層は数万〜十数万人規模と推定（根拠未確認）。Stream Deckが既に大半シェアを取っており、3キー特化の追加TAMは数千〜数万台と限定的。ニッチすぎる。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "ハード販売は在庫・物流・サポートが必須でPLG困難。Makuake/Kibidango等クラファンは選択肢だが製造ロット・PSE/技適・量産費用が個人開発の数百万円ハードル。X発信・Qiita記事だけでは出荷に直結しない。SI/代理店ルートも個人には実質不可。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "本家Duneが既にBatch2を販売中で先行、Stream Deckも進化を継続。国内ローカライズはElgato日本語パッケージで完了済み。後発の個人開発が3キー特化で追いつく時間窓は実質ゼロに近く、6-12ヶ月以内に類似アプローチが増える可能性。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "ハード製品はRMA（返品交換）、初期不良対応、ファーム更新、技サポ問合せが恒常発生。1人運用は実質不可。ソフトのみ（macOSメニューバーアプリ）に切り替えれば手離れは大幅改善するが、それだとHammerspoonとの差別化が立たない。"
+      }
+    },
+    "rationale": "事業成立性は極めて低い。ハード商売は量産・認証・在庫・サポートが個人開発の射程外で、現実的に『go』とは言えない。仮にソフト寄りで（macOSアプリのみ・物理デバイス不要・Touch BarやキーボードF-keyを文脈認識で動的変更するアプリ）として展開する案もあるが、HammerspoonとStream Deck Mobileが既に部分代替で価格優位（無料/低額）、差別化困難。AIエージェント物理起動という尖った文脈に賭けるならハード必須でROI破綻、ソフトのみだと差別化不足、というジレンマがある。3年での合理的なreachable revenueも極めて限定的で、個人開発の主軸テーマとしては推奨しない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "one_time",
+      "arpu_jpy": 0,
+      "plans": [
+        "（推奨せず）仮にソフトのみ macOS アプリで模倣する場合: 買い切り ¥1,500 / ライフタイム ¥3,000、無料版あり",
+        "（推奨せず）ハード自作の場合: クラファン早割 ¥9,800 / 一般 ¥14,800（量産費・PSE等で赤字リスク高）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内Mac利用の開発者・PdM・デザイナーで、Stream Deckには手が届かない/3キーで十分と感じる層。さらにAIエージェント（Claude等）を物理トリガーから起動したいアーリーアダプター。根拠未確認の控えめ見積。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "（参考）Qiita/Zennで『Hammerspoon+Karabinerで自作Dune』記事連載→ソフトOSS版へ誘導",
+      "（参考）Xで開発者向けデモGIF発信、AIエージェント物理起動ユースケースを訴求",
+      "（参考）Makuake/Kibidangoで早割クラファン（ハード版を試す場合・要量産協力先）",
+      "（参考）Product Hunt Japan露出、note記事でリモートワーク文脈訴求"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "ハード量産：PCB/筐体/ファーム/認証/在庫/物流/サポートを個人で回すのは現実的に不可、平均20社程度の提携が必要との業界知見あり。",
+      "競合飽和：Stream Deck（Smart Profiles）+Hammerspoon+Stream Deck Mobile+自作OSS互換機で代替手段が既に多数、3キー特化の差別化が薄い。",
+      "本家追従：Project Mirageが米国スタートアップとして資金・工場・ブランドを持ち、Batch2まで先行販売中。後発個人がハードで勝つ時間窓ほぼゼロ。",
+      "macOS API依存：Accessibility権限・アプリ検知APIがmacOSアップデートで制限される将来リスク、ソフト版の継続性に直結。",
+      "課金モデル不成立：単発買い切りのLTV低、サブスク化の素材も乏しく、3年で月商目標を立てるのが困難。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

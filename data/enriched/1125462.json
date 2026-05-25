@@ -1,0 +1,204 @@
+{
+  "name": "Perplexity Personal Computer",
+  "description": "Local files. Native apps. Voice control. Always on.",
+  "ph_url": "https://www.producthunt.com/products/perplexity-ai/launches/perplexity-personal-computer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/KDSAWWSJ4OSOEQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-19T07:01:00Z",
+  "upvotes": 217,
+  "comments": 9,
+  "topics": [
+    "Productivity",
+    "Task Management",
+    "Artificial Intelligence"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p><strong>Personal Computer by Perplexity AI</strong> is redefining what a computer can do.</p><p></p><p>Most computers still rely on you to juggle files, apps, tabs, and workflows. Personal Computer flips that, it acts as an AI orchestrator that understands your objective and executes tasks across your local files, apps, connectors, and the web.</p><p></p><p><strong>What makes it different? </strong>It blends <strong>local + cloud environments</strong>, bringing multi-model orchestration directly to your machine, not just inside a chat window.</p><p></p><p><strong>Key features:</strong></p><ul><li><p>Works across files, native apps, and the web</p></li><li><p>Automates complex &amp; continuous workflows</p></li><li><p>Reads and executes your to-do lists</p></li><li><p>Organizes files and compares local + web data</p></li><li><p>Voice + keyboard activation (CMD shortcut)</p></li><li><p>Secure sandbox with auditable, reversible actions</p></li></ul><p><strong>Who it’s for &amp; use cases:</strong></p><ul><li><p>Builders, operators, and power users</p></li><li><p>Automating repetitive workflows</p></li><li><p>Managing files, tasks, and communication</p></li><li><p>Decision-making using local + web context</p></li></ul><p><strong>Why it matters: </strong>This is a shift from “using a computer” to <strong>managing an AI that uses the computer for you.</strong></p><p></p><p>If you’re into the future of AI-native workflows, this is worth watching.</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a></p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The interesting shift here isn’t voice or integrations, it’s state. If the system can remember what it was doing across files, apps, and sessions, that’s when it starts to feel like real work is moving. Stateless AI is helpful, but it doesn’t reduce ownership. How persistent is the system across sessions?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>When will it be available on Windows?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Personal Computer by Perplexity AI is an AI-powered system that turns your machine into an intelligent orchestrator. It works across local files, native apps, connectors, and the web to complete complex workflows, organize data, and execute tasks end-to-end. With secure, auditable actions and user control, it blends local and cloud environments to boost productivity and handle work that’s too messy or repetitive to do manually.",
+  "featured_at": "2026-04-19T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/db193b4c-13cc-4700-8cde-ebac26d3c247.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ac1f5d29-b24b-4662-a660-d8102940d2a8.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/893f22c7-d98b-4469-8e04-02c8c0e47945.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d322bdbc-9010-4b4e-b256-211c862f6ef0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/28a885fb-afad-44f8-9e7a-42bfd1979f3f.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:18",
+  "landing_meta": "(取得失敗: HTTP 403)",
+  "landing_text": null,
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T04:34:19",
+  "description_ja": "ローカルファイル・ネイティブアプリ・音声制御を統合した常時稼働型AIオーケストレーター",
+  "summary_ja": "Mac上で動作し、ローカルファイル・ネイティブアプリ・Webを横断してワークフローを自動実行するPerplexity製AIオーケストレーター。音声と CMD ショートカットで起動でき、Mac mini を 24/7 稼働の AI 作業マシン化できる。",
+  "tldr_ja": "巨大プラットフォーマー直営のMac向けAI-OS層。個人開発の参入余地は実質ゼロで、利用者側に回るのが筋。",
+  "review_guide_ja": {
+    "what": "Mac上の常時稼働AIエージェント。ローカルファイル、ネイティブMacアプリ、400以上のコネクタ、Webを横断してタスクを自律実行する。Perplexity サーバ上のセキュアサンドボックスとローカル環境をハイブリッドに使い、作業を監査可能・取り消し可能な形で実行。音声と CMD ショートカットで起動、Mac mini をハブにすれば 24/7 動作する AI 作業マシン化できる。典型ユースケースはファイル整理、To-do実行、定型ワークフロー自動化、Web/ローカルデータ比較、メールやアプリ横断の業務代行など。",
+    "for_who": "Mac を主作業機にするビルダー・パワーユーザー・オペレーター層。Perplexity Pro（月$20）または Max（月$200）の有料契約者で、繰り返しの PC 作業を AI に丸投げしたい個人と、Enterprise Pro 経由で導入を進める法人。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "macOS ネイティブ統合、独自モデルオーケストレーション、400コネクタ、サーバ側セキュアサンドボックスを束ねた巨大プラットフォーム製品で個人開発の射程外。"
+    },
+    "signals": [
+      "Perplexity 本家が Pro/Max/Enterprise の全層に開放し、Mac App Store ではなく macOS ネイティブで配布",
+      "Apple が公式に言及するレベルの戦略連携",
+      "Mac mini を 24/7 AI ワーカーにする訴求が新しい",
+      "ソフトバンクが日本法人向け Enterprise Pro を正規販売中で国内導入が加速"
+    ],
+    "concerns": [
+      "OpenAI Codex/Atlas、Anthropic Claude Cowork(Computer Use)、Google Gemini Computer Use と直接競合し、勝者総取りになりやすい",
+      "Windows 未対応のためコメント欄でも要望多数、国内法人主流の Windows 環境に届かない",
+      "ローカルファイルにアクセスする AI のため日本企業のセキュリティ部門の警戒は強い",
+      "個人開発者が同等品を作るのは不可能で『参考事例』にしかならない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内でも Claude Computer Use / ChatGPT Atlas / Gemini Computer Use の比較記事や Zenn/note 解説が多数あり、PC操作AIエージェントへの関心は顕在。ただし利用ニーズであり、自作ニーズではない。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "OpenAI、Anthropic、Google、Perplexity 本体、Microsoft Copilot が同領域で直接競合する超レッドオーシャン。個人や日本スタートアップが切り込む余地はほぼない。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "ローカルファイルとクラウドの双方を扱うため改正個情法・電気通信事業法の外部送信規律の対象になる可能性。AI規制本体は緩いが企業導入時のセキュリティ審査が重い。検索で個別の禁止規定は確認できず。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "Perplexity 本体が日本語対応済みで Personal Computer も日本語入力は通る見込み。ただし日本固有業務アプリ（弥生、freee、勤怠SaaS、紙伝票PDF）の自動操作品質は未検証で、深い UX 調整余地が大きい。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "国内法人は Windows + 業務SaaSが中心で Mac 専用は逆風。コメント欄でも Windows 要望が出ている。一方ソフトバンク経由の法人販路はあるため完全不適合ではない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Perplexity Enterprise Pro（ソフトバンク販売）",
+        "url": "https://www.softbank.jp/biz/services/ai/perplexity-enterprise-pro/",
+        "note": "本家 Perplexity が SoftBank と提携し国内法人向けに正規販売中。Personal Computer は同契約者にも順次開放されており国内導入経路が既に存在。"
+      },
+      {
+        "name": "Anthropic Claude（Computer Use / Cowork）",
+        "url": "https://www.anthropic.com/",
+        "note": "PC内部操作AIエージェントの代表格。2026年時点で非エンジニア向けに最も完成度が高いと国内記事で評価される直接競合。"
+      },
+      {
+        "name": "OpenAI ChatGPT Atlas / Codex",
+        "url": "https://openai.com/",
+        "note": "Plus/Pro/Business/Enterprise契約者に追加料金なしで Atlas（エージェント型ブラウザ）と Codex（CLI）を提供。国内法人導入も急速に進む。"
+      },
+      {
+        "name": "Google Gemini Computer Use",
+        "url": "https://ai.google.dev/",
+        "note": "ブラウザ・PC操作の自律実行を提供。Workspace 経由で国内シェアも一定。Perplexity Personal Computer と完全に重なる領域。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（2026年改正）",
+        "impact": "ローカルファイルから読み取った個人情報をクラウド処理に送る挙動が含まれるため、利用目的の特定、本人同意、漏えい時の対応義務、新設の課徴金制度の対象になり得る。法人導入時はDPIA相当の社内審査が事実上必須。"
+      },
+      {
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "ユーザー端末から外部へ情報送信する電気通信役務は通知・公表・同意・オプトアウトのいずれかが必要。AI実行ログや画面キャプチャをサーバに送る設計では適用範囲を慎重に確認する必要がある。"
+      }
+    ],
+    "opportunity": "個人開発者がこのカテゴリに正面から参入する余地はないが、Perplexity/Claude/ChatGPT を『下回り』として使い、日本固有の業務 SaaS（freee・弥生・楽楽精算・サイボウズ等）に特化した薄いラッパー or Computer Use 用 MCP コネクタ集を提供する切り口は成立する。Personal Computer 本体ではなく、それが叩く先のローカライズ層・国産アプリ操作プロファイル・社内セキュリティ要件対応テンプレートを売る位置取りが個人開発に唯一現実的。",
+    "rationale": "需要そのものは国内でも明確に立ち上がっているが、Perplexity 本家が SoftBank と組んで法人販路を確保し、競合は OpenAI・Anthropic・Google・Microsoft という超大手。Personal Computer 自体は OS 寄りの統合製品で、個人開発が同等プロダクトを作るのは不可能。さらに国内法人は Windows + 既存業務SaaS が中心で Mac 専用は逆風、ローカルファイル＋クラウド処理の構造は改正個情法・外部送信規律の影響も受ける。日本市場フィットを『自分が build するか』という観点で評価すると skip 寄り。利用者として導入を検討する分には合理的。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "Perplexity Pro は月¥3,000、Max は月約¥30,000 で日本でも課金実績あり。AIサブスクへの課金抵抗は弱まっている。ただしこれは Perplexity 本体の数字で、同領域に挑む個人開発者が同水準を取れる保証はない。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内Macシェアは個人向けで2位（約17.5%）、法人ではWindows一強でApple10%強。Mac専用×AIオーケストレーターはニッチ。法人主流のWindows対応がない限りTAMは限定的。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "ソフトバンク7000名の法人営業を持つ Perplexity 本家に対し、個人開発者の到達手段は X / Qiita / Zenn 程度。同カテゴリで PLG しても本家無料枠・既存 ChatGPT 契約者向け同梱に勝てない。"
+      },
+      "timing": {
+        "score": 1,
+        "reason": "本家 Perplexity が 2026年5月に Mac 全 Pro/Enterprise ユーザーへ提供開始済み、SoftBank 経由の国内法人販路も既に稼働中。時間窓はほぼ閉じている。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "AIエージェント／PC操作系は誤動作・破壊的操作のサポートコストが高く、企業導入時の SLA とセキュリティ問い合わせ対応で個人運用は厳しい。ニッチ化すれば回せるが本領域の正面突破は不可。"
+      }
+    },
+    "rationale": "事業として正面から戦うシナリオは成立しない。本家 Perplexity（＋SoftBank）と OpenAI / Anthropic / Google が同じレイヤーを取りに来ており、機能面・販路・価格・モデル品質のいずれでも個人開発者は勝てない。一方、利用前提で考えると ARPU と国内ユーザー数は確実に積み上がる領域なので、『下回り』としてこれらを叩く日本固有業務アプリ向け MCP コネクタや業界別プロンプト集、社内セキュリティ要件対応テンプレを売る周辺事業に絞れば個人開発でも収益化余地は残る。total score を上げるのは難しく、4 程度が妥当。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 0,
+      "plans": [
+        "本体での参入は非推奨（ARPU=0）。Perplexity Personal Computer / Claude Computer Use / ChatGPT Atlas を有料契約者として利用する側に回るのが合理的。",
+        "周辺事業として参入する場合のみ: Free（基本コネクタ無料）／Pro ¥1,500/月（freee・弥生など日本SaaS向け追加コネクタ）／Team ¥9,800/月（社内セキュリティテンプレ付）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "本体としての参入はしない前提。仮に周辺ニッチ（日本固有業務SaaS向け Computer Use/MCP コネクタ集）で参入する場合のターゲットは、Perplexity Pro/ChatGPT Plus 等を契約済みかつ Mac を主作業機にする国内パワーユーザー個人・士業・小規模事業主。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "本体の参入はせず、Personal Computer / Claude Computer Use の利用事例を Qiita・Zenn で連載しオーディエンス獲得",
+      "ニッチ参入する場合: freee/弥生/サイボウズ向け MCP コネクタを OSS 公開して GitHub Star 経由でリード化",
+      "X で個人ユーザー向けに『日本SaaSをAIに操作させる』レシピを毎週公開",
+      "ソフトバンク・SIer の Enterprise Pro 導入案件の二次受けとして社内セキュリティ要件テンプレを販売"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Perplexity 本家・OpenAI・Anthropic・Google が同レイヤーを既に押さえており、本体カテゴリで個人開発が立つ余地が事実上ない",
+      "Windows 未対応で国内法人主流環境に届かず、Mac 専用ニッチに閉じる",
+      "ローカルファイルアクセス×クラウド送信が改正個情法・電気通信事業法 外部送信規律の対象で、法人導入時の審査負担が重い",
+      "本家が日本SaaS向け公式コネクタを出した瞬間に周辺ニッチも消滅するため、寿命が極めて短い",
+      "AIエージェントの破壊的操作（誤削除・誤送信）の責任所在が不明確で、サポート負荷とPL補償リスクが個人運営に過大"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

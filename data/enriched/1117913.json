@@ -1,0 +1,223 @@
+{
+  "name": "Smuggl",
+  "description": "Share your localhost as an invite only link",
+  "ph_url": "https://www.producthunt.com/products/smuggl/launches/smuggl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/E2EVSJ63H7365K?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-09T07:01:00Z",
+  "upvotes": 207,
+  "comments": 30,
+  "topics": [
+    "Developer Tools",
+    "Alpha"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Smugglers!</p><p></p><p>Smuggl lets you share localhost without exposing it to the whole web. You can create an invite only links, see each visitor’s IP and country, and choose who to allow or block.</p><p></p><p>Built for quick demos, previews, and feedback on local apps without opening everything up.</p><p></p><p>Go try it out and have fun!</p><p>Sayuj</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>neat product - no more \"Check out my latest app <a href=\"http://localhost:3000\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">http://localhost:3000</a>\"</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I use ngrok and have it for years. $12 lifetime with the ability to see who's accessing before letting them through? Great.</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Smuggl lets you share your localhost as a secure link instead of blindly exposing your computer to the whole internet.",
+  "featured_at": "2026-04-09T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/e9d34c0d-d311-4e6f-abee-fde579889979.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/650e3092-a786-4c50-8e56-6ec04d14a139.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8a57bc09-7a3d-448d-9832-0531aea21369.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/10b6bb44-3704-483b-a8ff-3e3d30a14655.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:52",
+  "landing_meta": "Smuggl - Share your localhost as an invite only link — Smuggl lets you share your localhost server as a secure, invite only link. No public URLs, no port forwarding, just share with the people you choose.",
+  "landing_text": "Smuggl - Share your localhost as an invite only link Install How it works License Contact Share your localhost as an invite only link Download Now How it works → Download Now How it works → Get started Install 01 Choose your platform macOS Windows Linux 02 Install Terminal Copy $ curl -sSL https://publicupdates.smuggl.dev/install.sh | sh Requires macOS 12 or later 03 Run Terminal $ smuggl Privacy by Design 01 . Tunnel Secure WebSocket Connection One command opens a WebSocket to Smuggl's server. You get a unique URL. Your machine is never exposed. 02 . Control Access Approval Every request pauses at the server. You see the visitor's IP and path, then allow or block. 03 . Proxy Transparent Forwarding Approved requests flow over the WebSocket to your localhost and back. The visitor sees a normal page. 04 . Erasure Instant Teardown Close the CLI and the URL dies immediately. No DNS lingers, no sessions persist. Zero traces. Licensing Smuggl for Lifetime Basic Free $0 / Forever Requests 50 req / min Bandwidth 5 MB / session Sessions 5 min Get Started → Lifetime Pro $12 / Lifetime Requests 500 req / min Bandwidth 250 MB / session Sessions 2 hrs Concurrency 3 tunnels Get Pro License",
+  "pricing_signals": [
+    "pricing",
+    "$0",
+    "$12",
+    "$1",
+    "$10",
+    "$16"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:52",
+  "description_ja": "ローカルホストを招待制リンクで共有。来訪者のIPを承認制で許可・ブロックできるセキュアなトンネル",
+  "summary_ja": "CLIから1コマンドでlocalhostをWebSocket経由のセキュアURLに変換し、訪問者のIP/国を見て都度許可/拒否できるトンネリングツール。デモ・プレビュー共有向け。Pro買い切り$12。",
+  "tldr_ja": "ngrok/Cloudflare Tunnel飽和の市場に「IP承認制」で差別化、国内需要は限定的だが買い切り$12で粘る余地は薄め",
+  "review_guide_ja": {
+    "what": "Smugglはローカル開発サーバを安全なリンクとして共有するCLIツール。WebSocketで自社サーバへ接続し、各リクエストはサーバで一時停止し開発者がIP/パスを見て個別に許可/ブロックする「招待制」トンネル。CLIを閉じればURLは即時失効、セッションが残らない。典型ユースケースはステークホルダーへのデモ共有、デザイナー/PM向けプレビュー、外部協力者からのフィードバック収集、Webhookのローカルデバッグ。macOS 12+/Windows/Linuxに対応し、curl一発でインストール。Freeは50req/min・5MB/sessionと制限が厳しく、Pro($12買い切り)でも500req/min・250MB/session・2時間制限と本番用途は想定していない。",
+    "for_who": "ngrokを使っているがランダムURLや公開露出に不安がある個人開発者・小規模チーム、デザイナー/PMにローカル進捗を見せたいエンジニア、副業/受託で短時間のデモを行う技術者、Webhook検証で固定ドメインまでは不要な開発者。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "WebSocket逆プロキシ自体はOSS実装多数(frp/tunnelto/inlets等)で容易だが、低レイテンシなグローバルエッジ網と承認UI/CLIの磨き込みが模倣障壁。"
+    },
+    "signals": [
+      "PHで207upvotes/30コメントとDevToolsとしては中堅以上の反応",
+      "ngrokの値上げ・トラフィック従量課金に対する開発者の離反トレンド(2026年)",
+      "$12買い切りという明快な対抗価格設定",
+      "招待制(IP都度承認)というセキュリティ差別化の角度",
+      "WebSocket+ゼロトレースという最小プライバシー設計"
+    ],
+    "concerns": [
+      "ngrok/Cloudflare Tunnel/Tailscale Funnel/VS Dev Tunnels等の競合が極めて厚い",
+      "Pro買い切り$12では運用コスト(帯域/サーバ)の長期回収が困難な可能性",
+      "Basic 5分/5MB制限は試用ハードルを下げる一方、Proでも2時間制限で本格用途を遮断",
+      "Cloudflare Tunnel(無料・固定ドメイン可)に対する機能優位が薄い",
+      "個人運営でグローバルエッジ網のSLA担保は重い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Qiita/Zenn/noteでngrok・Cloudflare Tunnel紹介記事が活発で日本人開発者のトンネル需要は明確に存在。ただし無料のCloudflare Tunnelが事実上の選択肢として定着しつつあり、有料代替の需要は限定的。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "ngrok/Cloudflare Tunnel/Tailscale Funnel/VS Dev Tunnels/localtunnel/Serveo/tunnelto/Pinggy/btunnel/Lokal.so等、英語圏OSS含めて飽和市場。国内専業プレイヤーは見当たらないが越境SaaSが直接競合。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "個人開発者がCLIで自分のlocalhostを共有する用途は電気通信事業法の届出対象外(自身の通信)。トンネルプロバイダ側として日本国内向けに本格運用する場合は電気通信事業届出が必要になりうるが、検索で個別判断は根拠未確認。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "CLI+設定UIが中心で日本語化のコストは低い。landing翻訳とドキュメント整備、決済の円/JCB対応程度で対応可。深いUX改修は不要。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "個人開発者カルチャーに直結する商材で商習慣の摩擦は少ない。一方で法人購買は請求書/源泉徴収など個別対応が必要になりやすく、純粋PLGだとB2B拡大に壁。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ngrok (越境)",
+        "url": "https://ngrok.com/pricing",
+        "note": "事実上のデファクト。Free 1GB/月、Personal $8/月、Pro $20/月。日本人エンジニアの紹介記事が大量にあり認知度高。"
+      },
+      {
+        "name": "Cloudflare Tunnel (cloudflared)",
+        "url": "https://www.cloudflare.com/products/tunnel/",
+        "note": "無料・固定独自ドメイン・帯域無制限。Qiita/Zennで「ngrok代替」として推奨する記事が急増、最大の脅威。"
+      },
+      {
+        "name": "Tailscale Funnel/Visual Studio Dev Tunnels",
+        "url": "https://tailscale.com/kb/1223/funnel",
+        "note": "Tailscaleは個人無料枠、VS Dev Tunnelsは2022/Codeに統合されMSアカウント認証で招待制が標準装備。"
+      },
+      {
+        "name": "localtunnel/Serveo/tunnelto等OSS",
+        "url": "https://github.com/localtunnel/localtunnel",
+        "note": "無料OSS群。日本語紹介記事も多く、有料SaaSへの切替障壁を高めている。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "電気通信事業法",
+        "impact": "個人ユーザがlocalhostを自身で公開する利用は自身の通信で原則対象外。提供者(Smuggl運営)が日本居住者を含む不特定多数にトンネル仲介するなら登録/届出議論が生じうるが、検索で根拠未確認(原則は越境SaaS側の判断)。"
+      },
+      {
+        "law": "改正電気通信事業法 外部送信規律",
+        "impact": "Cookie等の外部送信を行うWebサイトに該当する場合、通知/公表/同意のいずれかが必要。トンネル経由のサイトでも管理者責任となり、ツール自体への直接影響は小さい。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "訪問者IP/国を可視化・記録する設計のため、ログ保存設計と利用目的明示が必要。個人開発SaaSとして対応容易。"
+      }
+    ],
+    "opportunity": "国内独自の角度は(1)Slack/Discord/Backlogワークフロー連携で「レビュアー招待→自動許可」を標準化、(2)日本特有のセキュリティ監査要件(IPアドレス記録・操作ログ)を満たすB2B向け『監査ログ付き共有トンネル』、(3)国内ホスティング(東京リージョン)による低レイテンシ訴求、(4)Qiita/Zenn連載でngrok→Smuggl移行ガイドを書きSEOで刈り取る、の4軸。本家Smugglが日本展開を意識する前に「電気通信事業届出+請求書払い対応」をパッケージ化すれば、法人開発チーム向けの局所的勝ち筋はある。",
+    "rationale": "日本のエンジニア人口は約144万人(2024年、世界4位)で潜在需要は確かに存在し、ngrokの代替を探す機運も検索結果から明確。ただしCloudflare Tunnelが「無料・固定ドメイン・帯域無制限」というほぼ完全な代替を提供し、Qiita/Zennでの推奨が定着しつつあるため、有料代替に対する支払い意欲は低い。Smugglの『IP都度承認』という差別化は技術者には魅力的だが、招待制が必要な業務はTailscale Funnel(個人無料)やVS Dev Tunnels(MS認証)で代替可能。日本市場固有の勝ち筋として『監査ログ付き法人向けプラン』『東京リージョン低遅延』『日本語ドキュメント+Qiita SEO』は成立余地があるが、いずれも本家Smugglが容易に対応可能な範囲。総合的にwatch(様子見)、本家の日本ローカライズが遅れる兆候があれば局所参入を検討するレベル。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "日本人開発者は無料OSS/フリーティアへの嗜好が強く、$12買い切りでも『Cloudflare Tunnelで足りる』で離脱しやすい。買い切りモデルはARPU上限が低く、運用コスト(帯域/サーバ)の長期回収に不安。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内ITエンジニア144万人(2024年経産省/ヒューマンリソシア)のうちトンネル使用層は推計数十万。さらに無料代替を捨てて有料化する層は1〜3%程度と見て数千〜2万人規模。広大とは言えない。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Qiita/Zenn/X発信でリーチ可能なPLG向き商材。Product Hunt実績(207up)も追い風。一方で英語圏SaaSが日本SEOを既に席巻しており、日本人個人開発者が後発で同じ流入を取るのは難しい。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "ngrok代替市場は既に飽和。Cloudflare Tunnelで実質決着しつつあり、新規参入の時間窓は狭い。本家Smugglも稼働中で日本展開すれば直撃される。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "トンネル基盤は24/7稼働必須でグローバルエッジ網のSLA期待値が高い。個人運用ではダウンタイム時の信頼喪失リスクが大きく、CDN/エッジ依存で運用負荷を下げる設計が前提になる。"
+      }
+    },
+    "rationale": "事業性は厳しめ。日本のエンジニア絶対数は十分にあるが、無料で十分に良い代替(Cloudflare Tunnel)が浸透しているため有料転換率が極めて低く想定される。$12買い切りという本家価格に追随すると、月次の帯域/サーバコストを回収できる単価ではなくサブスク化(月¥500〜¥1,500程度)が現実解だが、それでも無料代替の壁を越えるには『法人向け監査ログ』『請求書払い』『JP低遅延』のような明確な追加価値が必要。GTMはQiita/X中心のPLGで届くが、SEO上位は既に英語圏が占拠している。個人運営のトンネル基盤は信頼性要求が高く、夜間障害が即解約に直結するためsolo継続性も低め。本家Smuggl/Cloudflare/Tailscale/MSの動向次第で時間窓も短い。総合5点(consider未満)、参入するなら『法人B2B特化』『日本SaaS連携』など狭い差別化に絞る必要がある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1200,
+      "plans": [
+        "Free: 50req/分・10MB/セッション・15分(個人検証用)",
+        "Solo: ¥980/月(年払い¥9,800)・500req/分・1GB/セッション・無制限時間・固定ドメイン1個",
+        "Team: ¥3,800/月・3ユーザー・監査ログ・IP allow/block CSV一括登録・請求書払い対応",
+        "Business: ¥12,800/月・10ユーザー・東京リージョン低遅延・SAML SSO・SLA 99.5%"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "ngrokを業務利用している中堅〜大手の社内開発チーム/受託開発企業のテックリード、および国内SaaSスタートアップでWebhook検証・デザインレビュー共有を頻繁に行うエンジニア。個人開発者は無料層に留まる前提でフリーミアム上澄み。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 180000
+    },
+    "recommended_gtm": [
+      "Qiita連載『ngrok→Cloudflare Tunnel→Smuggl型ツール比較』で長期SEO刈り取り",
+      "Zennで『監査ログ付き招待制トンネル』のOSS実装記事を出し技術リーダーに刺す",
+      "X(技術系)で個人発信、PHジャパン文脈での再露出",
+      "YOUTRUST/Findyスポンサー枠で開発組織のテックリードに直接リーチ",
+      "Backlog/kintone連携プラグインを配布して国内SaaS文化圏に楔",
+      "freelance.jp/lancers経由で受託開発エンジニア向けに『顧客デモ用』ポジショニング"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Cloudflare Tunnel無料が既にデファクトで、有料化への壁が極めて高い(日本人開発者の無料嗜好)",
+      "本家Smugglが日本ローカライズ(JPY決済/日本語UI)を半年以内に行えば差別化点が全て消える",
+      "トンネル基盤は24/7のSLA期待値が高く、個人運営での障害対応負荷が解約に直結する",
+      "$12買い切り価格設定がアンカーとなり、サブスクへの移行が市場心理的に困難",
+      "電気通信事業法の解釈次第では『仲介通信』として届出義務が生じうる(根拠未確認だが残るリスク)"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

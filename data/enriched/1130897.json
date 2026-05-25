@@ -1,0 +1,225 @@
+{
+  "name": "Codex 3.0 by OpenAI",
+  "description": "Codex can now build, test & debug on autopilot",
+  "ph_url": "https://www.producthunt.com/products/codex-3-0-by-openai/launches/codex-3-0-by-openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/K4XVK5YID57ZXD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-24T07:01:00Z",
+  "upvotes": 301,
+  "comments": 8,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence",
+    "Development"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p><strong>Codex + GPT-5.5 = Autonomous dev loop unlocked!</strong></p><p></p><p><strong>What it is: </strong>An upgraded Codex powered by GPT-5.5 that can build, test, and fix apps across browser, files, and your computer.</p><p></p><p><strong>Problem → Solution: </strong>Manual dev loops (build → test → debug) are slow. Codex now automates this by interacting with apps like a real user, identifying issues, and fixing them.</p><p></p><p><strong>What’s different:</strong></p><ul><li><p>Not just code generation → full build + verify loop</p></li><li><p>Uses vision + browser interaction to test flows</p></li><li><p>Debugs via console &amp; network logs in real-time</p></li></ul><p><strong>Key features:</strong></p><ul><li><p>Browser automation: clicks, tests, screenshots, iteration</p></li><li><p>File generation: better spreadsheets, slides, docs in Microsoft Office &amp; Google Drive</p></li><li><p>In-app file viewer for faster iteration</p></li><li><p>Cross-app computer control (click, type, navigate)</p></li></ul><p><strong>Benefits:</strong></p><ul><li><p>Faster dev cycles</p></li><li><p>Higher-quality, tested outputs</p></li><li><p>Less manual QA/debugging</p></li></ul><p><strong>Who it’s for &amp; use cases: </strong>Devs, founders, and teams building apps → from frontend development to automated testing, debugging, and documentation workflows.</p><p></p><p>This is a big step toward <strong>fully autonomous coding agents</strong>! </p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a> </p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Codex was the core build partner behind <a href=\"http://GENYSAI.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>GENYSAI.com</strong></a>, the AI decision-runtime system I built and tested through the OpenAI Hackathon at the University of Utah.</p><p></p><p>I used Codex to ship nearly <strong>30,000 lines of production-grade code</strong> across architecture, UI, backend logic, decision records, routing flows, and debugging. The value was not just that it wrote code. The value was that it helped sustain a real engineering loop: plan the system, identify the files, implement changes, catch breakpoints, explain tradeoffs, and keep the build moving.</p><p></p><p>GENYS is built around a simple thesis: AI systems need a system of record. Every model input, policy rule, action, output, and outcome should become traceable, versioned, and reusable. Codex helped turn that thesis into a working software system instead of a static concept.</p><p></p><p>For founders and technical builders, that is the shift. Codex is not just autocomplete. It is closer to an execution layer for software development. Human judgment still matters for product taste, architecture, security, and what not to build. But Codex compressed the distance between idea and implementation in a way that materially changed what I could ship.</p><p></p><p>Strong recommendation, especially for founders building serious systems under real time pressure.</p><p></p><p>Built with Codex: <a href=\"http://GENYSAI.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>GENYSAI.com</strong></a></p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>cross-app coding agent is a sharp pivot from \"just generate code\" — curious how it handles long-running flows when the browser state drifts mid-task. does it re-plan or just retry?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "With GPT-5.5, Codex evolves into a true cross-app coding agent—navigating browsers, interacting with web apps, generating docs in Microsoft Office and Google Drive, and testing workflows like a real user. It sees, clicks, debugs, and iterates autonomously, bringing developers closer to reliable, end-to-end automated builds.",
+  "featured_at": "2026-04-24T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/42d06a08-8bb0-4720-aa1a-99105bfe34ab.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/11554c44-7db9-4c3e-b31a-c1fdd8e09c73.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9d53aa9d-f025-4ccd-95e0-3b6f38cf5f54.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/89bb0a05-eb05-487f-bed2-45a83e5715b7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/20e2892b-15a0-4aa7-bf4b-7385e1801dd1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ab2335db-aa74-4179-82a0-3042fda35f58.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ce0794dc-9a71-4935-beaa-5451cf729a6f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e13d7672-6fe4-4b27-bbac-b31be533d921.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/99dc21b5-c0ad-4282-9928-59de084818bc.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:20",
+  "landing_meta": "(取得失敗: HTTP 403)",
+  "landing_text": null,
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T04:00:21",
+  "description_ja": "Codex がブラウザ・ファイル・PCを横断し、ビルド・テスト・デバッグまで自律で回せるように進化。",
+  "summary_ja": "OpenAI Codex 3.0 は GPT-5.5 搭載の自律コーディングエージェント。ブラウザ操作・ファイル生成・実行ログ解析まで横断し、コード生成だけでなくテストとデバッグまで完結する開発自動化ツール。",
+  "tldr_ja": "本家OpenAIの主力で日本でも採用拡大中だが、個人開発者が同等品を作る余地は皆無。watch止まり、自分で作るのは no_go。",
+  "review_guide_ja": {
+    "what": "GPT-5.5 を核に据えた自律コーディングエージェント。従来の補完型コード生成に留まらず、ブラウザを実ユーザーのように操作してアプリを動かし、コンソール・ネットワークログを読んでバグを特定、自前で修正→再テストまで回す。Microsoft Office や Google Drive 上での資料生成、PC のクリック・タイピング操作にも対応するクロスアプリ型。macOS/Windows のデスクトップアプリと CLI、IDE 拡張で提供され、ChatGPT Plus/Pro/Business/Enterprise の各プランから利用枠が割り当てられる。Plus は 3 時間あたり最大160メッセージ、Pro は Plus の5倍、$200プランは20倍の枠。",
+    "for_who": "本格的なソフトウェアエンジニア、テックスタートアップの創業者、開発生産性を上げたい中堅以上の Web/SaaS 開発チーム。日本国内では既にメルカリ・サイバーエージェント・Ubie 等の大手・先進企業が Cursor/Devin と並列で導入を進めており、エンタープライズ層が主要ターゲット。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "GPT-5.5級のフロンティアLLMが必要で、個人や小規模チームでの再現は事実上不可能。OSSモデル＋エージェントフレームでも品質差は埋まらず、運用コストも個人運営では持続できない。"
+    },
+    "signals": [
+      "メルカリで Cursor コミュニティ500名超、Devin で E2E テスト自動化が実運用入り",
+      "サイバーエージェント3000人エンジニア組織で外部イベント経由の社内導入加速",
+      "日本の生成AI利用率54.7%、ChatGPT36.2%で開発支援用途も拡大中",
+      "ChatGPT Pro 月額16,800円プラン新設で日本市場での課金障壁を下げる動き",
+      "AI コーディング副業（Cursor/Claude Code 使用代行）に月10-50万円の需要"
+    ],
+    "concerns": [
+      "OpenAI 本家プロダクトで個人開発者の参入余地ゼロ、競合は Anthropic/Google/Microsoft/Cursor/Devin",
+      "Codex に GitHub トークン窃取の脆弱性が2026年3月に発覚、企業のソースコード入力は警戒継続",
+      "PLG 経由で本家に直接顧客が流れる構造、ラッパー型サードパーティは差別化困難",
+      "コモディティ化が2026年に本格化し、薄い付加価値のAIサービスは淘汰局面",
+      "個情法・契約上の秘密保持義務との抵触可能性、企業導入は法務確認が必須"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 9,
+        "reason": "ChatGPT 利用率36.2%・GitHub Copilot がシステム開発企業ツール2位、メルカリ・サイバーエージェント等大手がCursor/Devinを社内展開しMeetupに6000名応募。AIコーディング需要は顕在化済みで高い。"
+      },
+      "competition": {
+        "score": 1,
+        "reason": "OpenAI 本家・Anthropic Claude Code・Cursor・Devin・GitHub Copilot・Google Gemini 等が同領域で既にひしめき、ハイパースケーラー資本で殴り合っている飽和市場。個人参入の隙間は実質ゼロ。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "業界規制はないが、ソースコードを外部LLMに送る構造のため契約上の機密保持義務・個情法27条（第三者提供）への抵触可能性。2026年3月に Codex の GitHub トークン窃取脆弱性が報告され、企業導入時のセキュリティ評価コストは継続的に発生。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "本家 Codex は既に日本語自然言語指示に対応済みで、ローカライズの参入余地が薄い。UIメニュー・ドキュメント・サポート言語面で差別化を狙う余地はあるが、PMC バリューは限定的。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "本家プロダクトのため日本商習慣との衝突は少ないが、適合させる主体が個人開発者ではなく OpenAI 自身。請求書・印鑑・SI 経由販売など独自慣行はあるが、PLG 型でクレカ課金が中心となる SaaS の枠組みは既に確立済み。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "GitHub Copilot",
+        "url": "https://github.com/features/copilot",
+        "note": "国内システム開発企業利用ランキング2位。Microsoft 経由で法人導入が進み、メルカリ等での併用事例多数。Codex の最大の直接競合。"
+      },
+      {
+        "name": "Cursor",
+        "url": "https://cursor.com",
+        "note": "メルカリ社内 500名超のコミュニティ、Tokyo Meetup に6000名応募。IDE 統合型エージェントで日本人開発者の支持が厚い。"
+      },
+      {
+        "name": "Devin (Cognition)",
+        "url": "https://devin.ai",
+        "note": "メルカリでE2Eテスト自動化に運用投入、Ubie でも採用事例。フルマネージド自律エージェントとして法人有償導入が進む。"
+      },
+      {
+        "name": "Claude Code (Anthropic)",
+        "url": "https://www.anthropic.com/claude-code",
+        "note": "2026年初頭の調査で開発者支持率46%でトップ。CLI/エージェント型で Codex とほぼ同セグメントを争う。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（個情法）",
+        "impact": "ソースコード内に含まれる個人情報・顧客データが LLM API 経由で米国 OpenAI に送信される場合、27条の第三者提供・越境移転規制が論点。学習利用オプトアウト設定や API のデータ保持ポリシー確認が必須で、企業導入時の法務コストが発生する。"
+      },
+      {
+        "law": "不正競争防止法（営業秘密）",
+        "impact": "ソースコード自体が営業秘密の場合、LLM 入力により秘密管理性が失われるリスク。社内ガイドラインで利用範囲を制限する企業が多く、Codex/Cursor 系の本格導入時には DLP・監査ログ整備が必要。"
+      }
+    ],
+    "opportunity": "本家 Codex を作る側ではなく、本家を前提に成立する周辺市場に角度を絞るしかない。具体的には(1)日本企業向け Codex/Cursor 導入伴走 SI・教育コンテンツ、(2)国内法務要件を満たすゼロデータ保持プロキシ＋監査ログ SaaS、(3)Codex 出力を日本の業界固有規約（金融SIer のコーディング標準、医療システムのEDI等）に整える後処理ルール集／lint プラグイン、(4)Codex に渡す日本語仕様書テンプレや業務ドメイン特化のプロンプトパック。本体の競合になるのは絶望的だが、本体を活かす補完レイヤーには商機が残る。",
+    "rationale": "需要側は最大級に強く（demand=9）、日本でも導入事例・コミュニティが活況。一方で同領域は OpenAI 自身・Anthropic・Google・Microsoft・Cursor・Devin 等の超大手が殴り合う Red Ocean で、競合スコアは1まで沈む。規制は突出した障害はないが、ソースコード越境のリスクで企業導入時の摩擦は残る。ローカライズは本家側で既に対応済みで参入余地が薄い。総じて市場機会の総点は6（watch）で、本体プロダクトを作る選択はあり得ず、補完レイヤー・コンサル・教育・ガバナンス周辺で価値を出せるかを観察すべき領域。"
+  },
+  "business_viability": {
+    "business_viability_score": 2,
+    "axes": {
+      "monetization": {
+        "score": 2,
+        "reason": "本家 Codex が Plus(月20ドル)/Pro(100ドル)/Business 等で価格帯を押さえ、個人開発の代替品が ARPU を取れる余地が事実上ない。周辺サービスでも顧客の支払い意思は本家のサブスクに集約され、二重課金される枠は限定的。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "国内ITエンジニア約132〜144万人と TAM は大きいが、Codex 領域そのものは本家が直販でほぼ総取りする構造。個人開発者がアクセスできる残余 TAM はガバナンス補助・教育・ニッチ後処理に限られ、実質的に小さい。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "本家は ChatGPT 億ユーザーから自動的に流入し、Microsoft/Google/GitHub 等もディストリビューションを握る。個人がここに割り込む PLG 経路はほぼなく、Qiita/X 発信で取れるのは補完ツールの ARR 数百万円規模が現実的上限。"
+      },
+      "timing": {
+        "score": 1,
+        "reason": "本家・主要競合が既に2026年時点で完全展開済み。タイムウィンドウは既に閉じており、これから AI コーディングエージェント本体を作るのは確実に遅い。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "LLM を再学習・運営する場合は GPU コスト・推論コストが個人の体力を超える。API ラッパー型でも、本家のレート制限変更・モデル差し替え対応で常時メンテが必要で、24/7 監視に近い負荷。手離れは見込めない。"
+      }
+    },
+    "rationale": "事業成立性は5軸すべてが致命的に低く、合成スコアは2点。OpenAI 本家がそのまま競合になる Red Ocean で、ARPU・GTM・タイミング全てが詰みに近い。例外的に成立し得るのは(a)企業向けの Codex 導入研修コンサル（受託で年商数千万円〜）、(b)ソースコード越境を法務的に許容しないクライアント向けのゼロデータ保持プロキシ SaaS、(c)日本の業界規制（金融SIerコーディング規約、医療品質基準等）を満たす後処理 lint。これらは個人運営でも回るが、いずれも本家プロダクト自体ではなく周辺サービス。Codex 3.0 と同等品を作るというストレートな解釈であれば事業性ゼロで、no_go と判断するのが妥当。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 0,
+      "plans": [
+        "本体を作る選択肢は推奨しない（ARPU=0）",
+        "周辺コンサル受託で個人で動く場合: 月額顧問¥150,000-¥300,000/社",
+        "ゼロデータ保持プロキシ路線なら Business: ¥30,000/月/社、Enterprise: ¥150,000/月/社",
+        "教育コンテンツ路線なら Note/Zenn 有料記事 ¥1,000-¥3,000/本、もしくは法人研修 ¥500,000/回"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Codex 3.0 と同等の AI コーディングエージェントを個人開発で再現する想定の場合、現実的な顧客は存在しない。あえて挙げるなら、OpenAI Codex/Cursor/Devin 等の導入を検討する国内中堅 IT 企業（100〜1000名規模、AI 導入予算は確保しているがガバナンスや教育で外部支援が必要な層）。",
+      "target_count": 5000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "本体プロダクト製作は推奨しない（GTM 設計不能）",
+      "周辺コンサル路線なら Qiita/Zenn での Codex 実運用記事連載＋X 個人発信で見込み顧客獲得",
+      "ゼロデータ保持プロキシ路線なら情シス向けカンファレンス・JANOG/Developers Summit 等での登壇",
+      "教育路線なら Note 有料記事＋ Udemy 講座＋企業研修パッケージ販売",
+      "Cursor/Codex 公式 MCP/プラグインマーケットへの出品で配信レバレッジ"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "OpenAI 本家がすべてを内製化済みで、同等品の事業余地はゼロ。事業性スコア2、go_no_go は no_go。",
+      "ラッパー型・補助ツール型で参入しても、本家のアップデート・価格改定・規約変更で一夜にして事業が消える依存リスク。",
+      "ソースコード越境に伴う個情法・営業秘密管理上の論点があり、企業向け SaaS で扱う場合は法務・セキュリティ監査コストが個人運営の限界を超える。",
+      "コモディティ化フェーズに突入し、薄い付加価値の AI ツールは2026年中に淘汰される見立て。差別化軸の確立難度が極めて高い。",
+      "個人開発で LLM の推論コスト・運用コスト・サポートコストを継続支払いするのは現実的でなく、課金壁を超える前にバーンする可能性。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T10:00:00Z",
+  "review_guide_at": "2026-05-25T10:00:00Z",
+  "business_viability_at": "2026-05-25T10:00:00Z",
+  "advisor_view_at": "2026-05-25T10:00:00Z"
+}

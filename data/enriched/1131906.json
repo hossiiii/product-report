@@ -1,0 +1,249 @@
+{
+  "name": "GPT-5.5 by OpenAI",
+  "description": "OpenAI's smartest and most intuitive to use model yet",
+  "ph_url": "https://www.producthunt.com/products/openai/launches/gpt-5-5-by-openai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/FSHYJG6A5BGZUU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-26T07:01:00Z",
+  "upvotes": 479,
+  "comments": 13,
+  "topics": [
+    "API",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p><strong>GPT-5.5</strong> feels like a real shift toward agentic AI 🤯</p><p></p><p>It introduces a new class of agentic AI designed to execute complex, multi-step tasks autonomously instead of just assisting. It solves the core limitation of LLMs: needing constant human steering for real work.</p><p></p><p><strong>What makes it different?</strong></p><ul><li><p>Agentic workflow execution (plan → tool use → verify → iterate)</p></li><li><p>Maintains long context across systems &amp; tasks</p></li><li><p>Higher intelligence without latency tradeoff* (matches GPT-5.4 speed)</p></li><li><p>More token-efficient → better outputs at lower compute cost</p></li><li><p>Stronger autonomy in ambiguous, real-world scenarios</p></li></ul><p><strong>Key technical capabilities</strong></p><ul><li><p>State-of-the-art coding performance (Terminal-Bench: 82.7%)</p></li><li><p>Advanced tool usage &amp; computer operation (OSWorld: 78.7%)</p></li><li><p>Long-context reasoning up to 1M tokens (API)</p></li><li><p>End-to-end SWE task solving (SWE-Bench Pro: 58.6%)</p></li><li><p>Knowledge work benchmarks (GDPval: 84.9%)</p></li><li><p>High-performance agent workflows (Tau2 Telecom: 98%)</p></li></ul><p><strong>Features</strong></p><ul><li><p>Agentic coding (debugging, refactoring, testing, validation)</p></li><li><p>Autonomous research &amp; analysis loops</p></li><li><p>Spreadsheet + document generation</p></li><li><p>Cross-tool navigation (browser, software, APIs)</p></li><li><p>Scientific reasoning &amp; multi-step data analysis</p></li><li><p>Built-in safety systems + cyber safeguards</p></li></ul><p><strong>Availability</strong></p><ul><li><p>Available in <a href=\"https://www.producthunt.com/products/chatgpt\" target=\"_blank\" rel=\"noopener\">@ChatGPT by OpenAI</a> (Plus, Pro, Business, Enterprise)</p></li><li><p>Integrated deeply into <a href=\"https://www.producthunt.com/products/openai/launches/codex-2-0-by-openai\" target=\"_blank\" rel=\"noopener\">Codex</a> (CLI, IDEs, web, app) for agentic coding workflows</p></li><li><p>API access (Responses &amp; Chat Completions) coming soon with up to 1M context</p></li></ul><p><strong>Benefits</strong></p><ul><li><p>Ship features faster (hours instead of days)</p></li><li><p>Reduce debugging &amp; iteration cycles</p></li><li><p>Automate complex workflows end-to-end</p></li><li><p>Higher quality outputs with fewer retries</p></li></ul><p><strong>Who it’s for &amp; use cases: </strong>Developers, data scientists, researchers, startups, and enterprises for building full-stack apps, debugging large codebases, automating workflows, financial modeling, and advanced research analysis.</p><p></p><p>This isn’t just a better model, it’s a shift toward AI that can actually operate like a teammate across ChatGPT and Codex. </p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a> </p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>\"OpenAI's smartest and most intuitive to use model yet\" least intuitive sentence structure, did Ai write that?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>How well does GPT-5.5 handle messy real-world codebases with multiple files, failing tests, and incomplete documentation?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "GPT-5.5 is OpenAI’s most advanced model yet, designed to handle real-world work with greater autonomy, speed, and efficiency. It excels at coding, research, data analysis, and task execution — planning, using tools, and iterating with minimal guidance — making it a powerful partner for complex, multi-step workflows.",
+  "featured_at": "2026-04-26T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cc3181c1-7f68-4e66-9b01-1efb03af8f04.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bfa09f71-6340-4a0a-8851-5adb097ec773.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/74d6df01-1f3e-4fca-bab1-2a348c6a7233.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/01c1789a-2d35-4e5a-a97e-c3882c8c100b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/243d0da7-a671-4f3b-82a8-c96c737c2e04.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/53959620-1121-4d9e-8dc9-ac5456231200.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c7668ab3-bd6b-4833-9d17-8ffc269dc50e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/655a3c68-96f7-4b4d-9945-fddffe14ccd7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/db5d8e4c-ec91-44ae-bd2f-ae357f42a40f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d68302fd-69a0-4f16-aeca-ac2f92b2de2c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c3fe8882-f158-4128-881d-974b59dd89aa.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f0e106a8-e66a-42bc-bc53-5ea526f45436.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/cab3183e-6ed5-4f9d-811f-16832c8ba0f9.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T03:46:24",
+  "landing_meta": "(取得失敗: HTTP 403)",
+  "landing_text": null,
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T03:46:25",
+  "description_ja": "OpenAIの最新フラッグシップLLM。エージェント的に複数ステップ作業を自律実行する次世代モデル。",
+  "summary_ja": "GPT-5.5はOpenAIが2026年4月に公開した最新の基盤モデル。コーディング、リサーチ、ツール操作などをエージェント的に自律実行し、1Mトークンの長文脈と高いツール使用性能（OSWorld 78.7%等）を備える。ChatGPT・Codex・API経由で提供。",
+  "tldr_ja": "本家プロダクトそのもので個人開発は参入不可。ラッパー層で活用する立場、競合製品としての検討対象外。",
+  "review_guide_ja": {
+    "what": "OpenAIが提供する基盤LLM（フロンティアモデル）そのもの。Terminal-Bench 82.7%、OSWorld 78.7%、SWE-Bench Pro 58.6%等の高ベンチマークを示し、コーディング・自律リサーチ・ツール連携・1Mトークン長文脈推論を統合。ChatGPT（Plus/Pro/Business/Enterprise）、Codex（CLI/IDE/web）、API（Responses & Chat Completions）で提供される。典型ユースケースは複雑な多段タスクの自動実行、コードベース全体のリファクタ・デバッグ、エンドツーエンドのSWEタスク、長文脈リサーチ、ドキュメント/スプレッドシート生成、ブラウザ・OS横断のエージェント操作など。日本の個人開発者・小規模チームから見れば、これは「競合プロダクト」ではなく開発スタックの基盤コンポーネントであり、自社プロダクトに組み込んで活用する対象である。",
+    "for_who": "開発者、データサイエンティスト、研究者、スタートアップ、エンタープライズ。直接の顧客はChatGPT課金ユーザーとAPI利用開発者。日本においては「自分でGPT-5.5を作る」ではなく「GPT-5.5を組み込んだ垂直アプリ／ラッパー／業務SaaSを作る」立場の開発者が間接的な恩恵層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "本体は数兆円規模の事前学習・推論インフラを要する基盤モデル。個人・小規模チームでの再現は不可能。OSSモデル＋ファインチューンでも品質ギャップが大きい。"
+    },
+    "signals": [
+      "ChatGPT 週次9億ユーザー（2026年2月）と圧倒的トラフィック",
+      "エージェント実行性能の大幅向上（OSWorld 78.7%、Tau2 Telecom 98%）",
+      "1Mトークン長文脈APIにより業務系RAG/コードベース解析のラッパー余地拡大",
+      "OpenAI Japanの適格請求書発行事業者登録（2025年1月）で法人請求書対応済み",
+      "Codex統合によりエージェントコーディング系の二次プロダクト機会が拡張"
+    ],
+    "concerns": [
+      "本家プロダクトであり個人開発の参入余地はゼロ",
+      "API料金は1M入力$5・出力$30と高めで、薄利ラッパーは赤字リスク",
+      "本家ChatGPT・Codexが直接ユーザー層を吸収し、ラッパーの中抜きリスク",
+      "国産LLM（PLaMo 2.0、Stockmark-2-100B、NEC cotomi 等）はガバメント案件等で棲み分けが進む",
+      "AI事業者ガイドライン第1.2版（2026年3月）下で個人情報・プライバシー対応の負荷増"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 3,
+    "verdict": "no_fit",
+    "axes": {
+      "demand": {
+        "score": 3,
+        "reason": "GPT-5.5自体への需要は強い（ChatGPT週次9億ユーザー、日本も法人運用フェーズ）が、評価軸は『個人開発者が日本で同等需要に応えられるか』。本家LLMそのものを再現する需要に応える余地はほぼゼロのため低スコア。"
+      },
+      "competition": {
+        "score": 1,
+        "reason": "本家OpenAIが直接日本市場に提供しており、競合不在どころか自分が後発参入する位置に立てない。国産LLM（PLaMo 2.0、Stockmark、cotomi、Kozuchi）も存在し基盤モデル市場は完全に飽和。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "AI事業者ガイドライン第1.2版（2026年3月）下で基盤モデル提供者には重い遵守義務。個情法・著作権・越境移転対応も必要で、個人開発が満たすのは困難。本家は対応済みだが、模倣する立場では大きな障壁。"
+      },
+      "localization": {
+        "score": 2,
+        "reason": "ChatGPTは日本語UI・JPY/税込課金・適格請求書対応済みで、ローカライズで差別化する余地が本家側に残っていない。個人開発が埋めるUXギャップは事実上存在しない。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "OpenAI Japan経由で法人請求書・年間契約・国内リセラー販売も整備済み。商習慣面で個人開発が新規に取り得るギャップは小さい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Preferred Networks PLaMo 2.0",
+        "url": "https://www.preferred.jp/",
+        "note": "純国産フルスクラッチLLM。PFN・さくらインターネット・NICTで後継開発中。データ主権・国産需要のニッチを取りに行く位置付け。"
+      },
+      {
+        "name": "Stockmark-2-100B",
+        "url": "https://stockmark.co.jp/",
+        "note": "ビジネス特化日本語LLM。ハルシネーション抑止に注力し独自ベンチでGPT-4o超を主張。法人ビジネス文脈での競合。"
+      },
+      {
+        "name": "NEC cotomi / cotomi Act",
+        "url": "https://jpn.nec.com/LLM/",
+        "note": "商用比2倍速度を打ち出し、WebArena 80.4%のエージェント性能。SI案件・公共案件で棲み分け。"
+      },
+      {
+        "name": "Fujitsu Kozuchi",
+        "url": "https://www.fujitsu.com/jp/services/data-intelligence/kozuchi/",
+        "note": "業界特化型AIプラットフォーム。生成AI＋予測分析＋画像処理を統合し垂直特化で差別化。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "AI事業者ガイドライン（第1.2版／総務省・経産省、2026年3月）",
+        "impact": "AI開発者・提供者・利用者の責務を整理。リスクベースアプローチ具体化、AIエージェント／フィジカルAIの追加。本家OpenAIは対応可能だが、ラッパー提供側も「AI提供者」として遵守義務を負う。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "プロンプト・出力に個人情報が含まれる前提でプライバシーポリシー策定・公表が必要。ラッパー製品でも越境移転・委託先管理の整理が必須。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "学習データの適法性、出力の依拠性・類似性問題。基盤モデル本体は本家責任だが、ラッパー側もユーザーへの注意喚起と利用規約整備が必要。"
+      },
+      {
+        "law": "適格請求書等保存方式（インボイス制度）",
+        "impact": "OpenAI Japan合同会社が2025年1月に適格請求書発行事業者登録済み。法人顧客への請求書要件は本家側で充足。"
+      }
+    ],
+    "opportunity": "GPT-5.5そのものに個人開発で挑む機会はゼロ。代わりに開ける窓は、(a) 1Mコンテキスト＋エージェント性能を前提にした日本特化の業務SaaS（経理仕訳・契約書レビュー・行政申請書類自動生成等の重い縦割り業務）、(b) Codexエージェントを社内環境＋日本語コードコメント前提にラップした開発者向けツール、(c) AI事業者ガイドライン準拠の運用基盤（監査ログ・PII検知・プロンプト履歴管理）など、本家が深く踏み込まない『日本特有の規制・業務知識・SI要件』のレイヤーに限られる。",
+    "rationale": "需要は最大級・ローカライズも本家対応済みだが、これは『本家プロダクト』そのものであり、評価対象はあくまでGPT-5.5という基盤モデル自体である。日本の個人開発者にとってこのレイヤーで本家と競合することは技術的・資本的・データ的に不可能であり、市場機会としては『no_fit』が結論。本家を競合視するのではなく、自プロダクトに組み込むAPIとして扱うのが妥当。国産LLM勢（PFN・Stockmark・NEC・富士通）はデータ主権・公共・業界特化で棲み分けが進んでおり、個人開発者がこの土俵に入る余地もない。レポート上は機会軸では低スコアだが、これは『悪い製品』だからではなく『個人開発の検討対象でない』ためである点に注意。"
+  },
+  "business_viability": {
+    "business_viability_score": 1,
+    "axes": {
+      "monetization": {
+        "score": 1,
+        "reason": "個人開発者がGPT-5.5『本体』で課金する道は存在しない。本家OpenAIが全課金チャネル（ChatGPT Plus/Pro/Business/Enterprise/API）を独占。"
+      },
+      "market_size": {
+        "score": 1,
+        "reason": "TAMは巨大だがその100%を本家が押さえている。個人開発者が取り得る市場規模は実質ゼロ。"
+      },
+      "gtm": {
+        "score": 1,
+        "reason": "個人開発者が本家LLMをGTMする経路は存在しない。OpenAI APIを再販することは規約上も実態上も不可能。"
+      },
+      "timing": {
+        "score": 1,
+        "reason": "本家が既に投入済みで日本でも稼働中。猶予期間はゼロ。タイミング軸での評価は『既に手遅れ』。"
+      },
+      "solo_ops": {
+        "score": 1,
+        "reason": "そもそも個人運用の俎上に乗らない。LLM事前学習・推論インフラの維持は個人の射程外。"
+      }
+    },
+    "rationale": "事業成立性は全軸で最低水準。これはプロダクトの質の問題ではなく『個人開発者が手を出せる商品ではない』という構造的理由による。GPT-5.5は本家OpenAIの自社プロダクトであり、個人開発者にとっては『競合候補』ではなく『仕入れ先API』である。事業判断としてはこのまま競合視するのは時間の無駄で、レポート上は明示的にno_goとして除外し、代わりに『GPT-5.5を組み込むことで実現できる日本特化縦割り業務SaaS』のリサーチ枠に置き換える方が建設的。本枠での投資価値は皆無。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "個人開発として本プロダクトを再実装する選択肢は存在しない（基盤モデルは数兆円規模の事前学習が必要）。",
+        "課金プランは本家OpenAIが独占。ChatGPT Plus月額（JPY税込）、Pro、Business、Enterprise、APIトークン課金。",
+        "個人開発者の取りうる立場は『API顧客』としてGPT-5.5を仕入れて自プロダクトに組み込むのみ。"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "該当なし。個人開発で再現・販売可能な市場は存在しない。間接的に、GPT-5.5 APIを組み込んで日本特化の業務SaaSや開発者ツールを作るラッパー開発者であれば数千〜数万規模の対象になり得るが、本枠の評価対象はあくまで基盤モデル本体のため範囲外。",
+      "target_count": 0,
+      "capture_pct_year3": 0,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "競合視せず、自プロダクトの基盤APIとして採用する（GPT-5.5 APIは$5/M入力・$30/M出力でコスト管理が鍵）。",
+      "ラッパー側で勝負する場合は、日本語業務文書・規制対応・国内SaaS連携など本家が深追いしない縦割りに特化する。"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "個人開発で参入する余地が構造的に存在しない（基盤モデル本体）。誤って競合視すると時間と機会を浪費。",
+      "ラッパー戦略でも本家ChatGPT・Codexのネイティブ機能追加で機能が陳腐化するリスクが高い。",
+      "API料金転嫁を誤るとラッパー事業は赤字。1M入力$5・出力$30の前提で粗利設計が必須。",
+      "AI事業者ガイドライン第1.2版・個情法対応がラッパー提供者にも求められ運用コスト増。",
+      "OpenAI Japanの直販強化により法人案件も中抜きされやすい。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 2,
+  "japan_fit_at": "2026-05-25T00:00:00Z",
+  "review_guide_at": "2026-05-25T00:00:00Z",
+  "business_viability_at": "2026-05-25T00:00:00Z",
+  "advisor_view_at": "2026-05-25T00:00:00Z"
+}

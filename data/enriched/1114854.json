@@ -1,0 +1,234 @@
+{
+  "name": "KREV",
+  "description": "AI creative agents for ecommerce brands",
+  "ph_url": "https://www.producthunt.com/products/krev/launches/krev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/FQ7RRJ6JPK6TO2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-06T07:01:00Z",
+  "upvotes": 262,
+  "comments": 26,
+  "topics": [
+    "Marketing",
+    "Artificial Intelligence",
+    "E-Commerce"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋, I’m Modi, CTO of KREV. <br></p><p>I built KREV because ecommerce brands are forced to grow across too many disconnected tools, and with KREV 1.0 we’re starting by solving the creative bottleneck.<br></p><p>There are plenty of AI tools that can generate images, but most of them create without enough direction. The result often feels generic, over-styled, or disconnected from what a real brand would actually run.<br></p><p>KREV takes a different approach.<br></p><p>Instead of generating from a blank canvas, KREV is guided by real ad signals, winning creative patterns, and tracked brand data. That gives the system a much stronger starting point and helps it produce creative that feels far more intentional.<br></p><p>💡 Why that matters:<br></p><p>• Static ads work when the structure works. Hook, hierarchy, layout, product framing, and offer presentation all matter. KREV uses real creative patterns to generate statics that feel much closer to actual performance ads.<br></p><p>• Video ads give brands more room to show the product, use case, and emotion behind it. KREV helps generate video creatives that feel more like campaign assets, not just motion for the sake of motion.<br></p><p>• Product photos are not just about making something look nice. Under the hood, KREV breaks down the product itself, studies placement, lighting, and composition, and generates imagery that feels more directed and premium.<br></p><p>🔮 Where we’re headed:</p><p>The long-term vision is a single workspace where ad performance data across Meta, TikTok, Google, and more feeds directly into creative generation and more. Your campaigns inform your creatives, and your creatives improve your campaigns. One loop, one place.<br></p><p>🙏 We’re still early, but the product is live and improving fast. I’d love your honest feedback on what stands out, what feels missing, and where you think we should take it next</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The static ads from the Creative Agent are the best thing about KREV. Proper hierarchy, copy placement, layout structure — that's what separates you from every other AI image tool.</p><p></p><p>The problem I have with it is that: none of that is accessible via API.</p><p>POST /images gives me product photos. Great quality, but no headlines, no CTAs, no copy, no layout. The finished ads with text baked in only exist through the chat UI.</p><p></p><p>I'm building an automated creative pipeline for my e-commerce brand — agents generate briefs, produce ads, route approvals, push to Meta/Google/TikTok. KREV is the perfect rendering engine, but I can't have my agents chat through a UI.</p><p>What's missing:</p><p>POST /api/v1/ads</p><p>{</p><p>\"product_id\": \"...\",</p><p>\"headline\": \"Headline here.\",</p><p>\"cta\": \"Shop Now\",</p><p>\"platform\": \"meta_feed\",</p><p>\"style\": \"minimal_dark\"</p><p>}</p><p>→ Returns a finished static ad, same quality as the Creative Agent output.</p><p>That endpoint is the unlock. Every brand automating creative at volume needs this, not just the ones clicking through the UI.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Launching on your birthday is a bold move, congrats Modi. One thing I'm curious about — when you say it's guided by real ad signals, does that mean it pulls from actual Meta/TikTok performance data or is it more like trained patterns baked into the model?</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "KREV helps ecommerce brands turn a single product image into product photos, video ads, and launch-ready creative. Unlike generic AI tools, KREV is guided by real ad signals, proven creative patterns, and tracked brand data to generate assets that feel more intentional, on-brand, and performance-ready.",
+  "featured_at": "2026-04-06T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/bed5efab-77d9-48df-b692-f7edf474cc45.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0dbdaa31-d148-4e85-a112-ac1c20dbb443.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/708b8814-8092-4cfa-b961-7fbb4662d16e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/74826d26-77d9-4720-bf59-6e103a491b8c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/76d3ca64-baa6-45e4-ac0f-054dd64fc2fd.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c9c163f2-0de3-46d2-88e6-b98ad473cd52.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:51",
+  "landing_meta": "Krev AI | AI Employees for Ecommerce Growth — Hire AI employees on Krev AI to research your market, make content, launch ads, update your website, and post to social.",
+  "landing_text": "Krev AI | AI Employees for Ecommerce Growth Hire an AI team to grow your Hire an AI team to grow your ecommerce brand. Give Krev your product and goals. Your AI team turns brand context into campaigns that sell more. Get started 1.2M 237K Impressions Last 30 days $4,986 $1,553 Revenue This month 276 82 Products sold This week 1.2M 237K Impressions Last 30 days $4,986 $1,553 Revenue This month 276 82 Products sold This week Product of the Day 2nd Product Hunt 4.9/5 on G2 Built for ecommerce brands across DTC skincare Supplements Apparel Home goods Beauty Wellness Footwear Pet Outdoor Beverage DTC skincare Supplements Apparel Home goods Beauty Wellness Footwear Pet Outdoor Beverage THE PLATFORM A team of AI specialists to grow your ecommerce brand. Every brand has a different bottleneck. Krev gives you AI employees for the work that keeps growth moving, from research and content to ads, website updates, and social posts. Stop juggling, start delegating, and build a team that actually scales with you. Scout - Research & Market Intelligence Finds competitor ads, customer angles, market signals, and winning patterns before you brief creative. See Scout Luna - Creative Director Creates product photos, UGC-style assets, videos, and campaign visuals that stay tied to your brand. See Luna Kai - Performance Marketing Lead Turns products, creative, and campaign signals into ad plans, launch drafts, and pause/test/scale recommendations. See Kai Chloe - Social Content Strategist Builds social calendars, drafts captions, and turns product moments into posts your brand can keep publishing. See Chloe WHY KREV Your brand needs more than prompts. It needs an AI team that ships. Research, creative, ads, and social all pile up between product launches. Krev gives you AI employees that share context, keep momentum, and turn one product brief into work ready to launch. Photos that don't sell KREV Product page Off-brand shot Ads that don't make sales Weak Ad IG ad Generic copy. Cold buyer",
+  "pricing_signals": [
+    "pricing",
+    "$4",
+    "$1",
+    "$168",
+    "$3",
+    "$29/mo",
+    "$7",
+    "$12",
+    "$2",
+    "$14",
+    "$36"
+  ],
+  "landing_fetched_at": "2026-05-26T06:04:51",
+  "description_ja": "EC ブランド向けの AI クリエイティブエージェント。商品画像から広告・動画・SNS素材を自動生成。",
+  "summary_ja": "KREV は EC ブランド向けの AI チーム SaaS。リサーチ(Scout)、クリエイティブ(Luna)、広告運用(Kai)、SNS(Chloe)の 4 体の AI 担当が、1 枚の商品画像と簡易ブリーフからキャンペーン用素材一式を作る。Meta/TikTok/Google 配信を視野に入れた performance creative 指向。",
+  "tldr_ja": "AI クリエイティブ自動生成は国内も需要顕在だが Fotographer.ai 等が先行、後発の海外総合型は差別化と日本語UI/商習慣対応が必須で個人開発には荷が重い。",
+  "review_guide_ja": {
+    "what": "KREV は EC ブランド向けに 4 種類の AI エージェント (Scout/Luna/Kai/Chloe) を提供する統合プラットフォーム。1 枚の商品画像とブランド情報から、(1) 静止画広告(コピー/CTA/レイアウト込み)、(2) UGC 風動画、(3) 商品撮影風カット、(4) Meta/TikTok/Google の広告プラン下書き、(5) SNS 投稿カレンダーを生成。実際の高パフォーマンス広告パターンを学習データに使い、生成物が performance creative としてそのまま回せる品質を狙う点が特徴。チャット UI 中心で、API は商品画像生成 (POST /images) のみ公開、最終広告物の API は未提供 (PH コメントで指摘)。想定ユースケースは DTC スキンケア、サプリ、アパレル、ビューティ、ペット等の小〜中規模ブランドが、社内クリエイティブ・代理店費用を圧縮しながら週次で新規広告素材を投下するケース。",
+    "for_who": "海外 DTC ブランド・Shopify 中心の中小 EC 事業者 (年商数千万円〜数億円規模)、in-house クリエイター 0-1 名でクリエイティブ枯渇に悩むグロース担当、複数 SKU を高頻度に出稿する物販系副業セラー。日本では Shopify 上の DTC ブランド (約 3 万店) と BASE/STORES の上位層が候補。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "画像/動画生成モデルは API 利用で実装可能だが、過去広告パターンの学習データ整備と、コピー/レイアウト一貫性のあるエージェント設計が個人開発にはハードル。Fotographer.ai 等の既存ピース活用で MVP は可能。"
+    },
+    "signals": [
+      "Product Hunt 262 upvotes / G2 4.9 と外部評価が高い",
+      "Meta/TikTok の performance data 連動という方向性が今後の AI 広告のスタンダードになりつつある",
+      "API 公開要望コメントが具体的で、ヘッドレス向け需要が明確",
+      "1 枚画像→広告フルセットという入力負荷の低さが小規模ブランドに刺さる"
+    ],
+    "concerns": [
+      "海外 DTC 文脈 (英語コピー前提) で、日本の薬機法/景表法/ステマ規制下のコピー生成精度は未検証",
+      "Fotographer.ai (¥4,200/月) など国内競合が既に Shopify/カラーミー/Yahoo! 連携で先行",
+      "AdCreative.ai 等の総合型海外勢も既に日本上陸済みでポジションが渋滞",
+      "AI 生成画像をそのまま実商品広告に使う場合、景表法の優良誤認/ステマ規制への対応が運用負荷を上げる"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内 EC 向け生成 AI クリエイティブ市場は新日本製薬の Fotographer.ai 導入事例、ZOZOTOWN の niaulab 等で需要が顕在化。広告クリエイティブ AI のグローバル市場は 2025 年 33.7 億ドル→2030 年 98.1 億ドル予測 (CAGR 24%) と高成長で、日本でも 2026 年は動画広告自動生成が大型トレンド。ただし DTC 文脈の総合エージェント型はやや早い。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内では Fotographer.ai が Shopify/カラーミー/Yahoo! と連携済みで EC 画像領域を先取り。広告生成では AdCreative.ai が日本語対応で進出済み、∞AI も訴求軸発見〜生成〜効果予測を一貫提供。GliaCloud はジーニーと SSP 領域で連携。総合エージェント型は空白だが個別領域は飽和気味。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "2023 年 10 月施行のステマ規制 (景表法) と既存の優良誤認規制が AI 生成広告のコピー/ビジュアルにも適用。薬機法該当ジャンル (化粧品/サプリ/医薬品) ではコピー表現の機械生成リスクが大きい。著作権 (学習データ) は今のところ運用上の脅威は限定的。実装は可能だが、ジャンル特化の表現フィルタが必須。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI 日本語化と日本語コピー生成 LLM 切替は技術的に容易。一方で performance creative としての「日本人の購買心理に合うコピー」「日本ECで効くレイアウト/フォント」「縦書き/丸文字/ふりがな等の組版」は深い UX 調整が必要。海外パターン学習をそのまま流用すると違和感が出やすい。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の中小 EC は Shopify 上位 (約3.3万店) を除くと BASE (190万店)・STORES・楽天・Yahoo! が中心で、KREV のターゲット (Shopify DTC) は限定的。代理店経由文化が根強く、社内クリエイティブを AI に置換するセルフサーブ PLG は時間がかかる。ベンダーロックを嫌う日本中堅 EC への浸透難。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Fotographer.ai",
+        "url": "https://fotographer.ai/",
+        "note": "EC 商品画像 AI 生成。Shopify/カラーミー/Yahoo! コマースパートナー連携。Standard ¥4,200/月で無制限生成。新日本製薬の導入事例あり。画像領域では国内最有力。"
+      },
+      {
+        "name": "AdCreative.ai (日本展開)",
+        "url": "https://adcreative.ai/",
+        "note": "独自 LLM AdLLM を持つ広告クリエイティブ自動生成 SaaS。日本語対応済み・エクスチュア等の国内パートナー経由でも販売。広告生成領域では KREV と直接競合。"
+      },
+      {
+        "name": "∞AI (CINC 系)",
+        "url": "https://mu-ai.jp/",
+        "note": "訴求軸発見→クリエイティブ生成→効果予測→改善提案までを一貫自動化。国内代理店向けの広告 AI として導入実績多数。KREV の Kai/Luna に近いポジション。"
+      },
+      {
+        "name": "GliaCloud (日本パートナー)",
+        "url": "https://www.gliacloud.com/ja/",
+        "note": "AI 動画広告自動生成。ジーニーと SSP 領域で連携、日本市場で動画クリエイティブ生成のシェア獲得中。KREV の動画生成エージェントと競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法 (ステマ規制・優良誤認)",
+        "impact": "2023年10月施行のステマ規制と既存の優良誤認禁止により、AI 生成の商品画像/動画/コピーが実物と乖離した場合は措置命令対象。AI 生成と明示する義務は無いが、内容の正確性は事業者責任。生成プロンプト履歴の保管と人手チェックフローが運用必須。"
+      },
+      {
+        "law": "薬機法 (医薬品医療機器等法)",
+        "impact": "化粧品/サプリ/医薬部外品の広告コピーで効果効能表現を機械生成すると違反リスク。KREV の DTC スキンケア・サプリ・ウェルネス領域は薬機法該当が多く、表現フィルタの作り込みなしには日本での提供は危険。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "AI 生成画像の元データに第三者の商品画像/競合広告が含まれる場合、二次利用や類似性で紛争リスク。KREV は『real ad signals』を学習源と主張しており、日本の競合広告/著名キャラクター類似で問題化する可能性。"
+      }
+    ],
+    "opportunity": "国内独自の角度は (1) 薬機法/景表法を踏まえた日本向け表現フィルタを内蔵する『コンプライアンス AI クリエイティブ』、(2) 楽天/Yahoo!/BASE の商品 CSV を入力に LP バナーと商品画像を一括生成する『モール特化型』、(3) 縦書き・和文組版・丸文字フォント等の日本固有レイアウトに最適化したテンプレ集、(4) Shopify 連携で先行する Fotographer.ai が手薄な動画/コピー領域に絞る、の 4 つ。総合エージェントとしての差別化は難しいので、ニッチ領域への切り込みが現実的。",
+    "rationale": "需要 (7) は強いが、画像 (Fotographer.ai)・広告 (AdCreative.ai/∞AI)・動画 (GliaCloud) と各領域に国内向けの先行プレイヤーが揃っており、競合 (4) と商習慣 (4) が低い。規制 (6) は致命的ではないが薬機法該当ジャンルで運用負荷大。ローカライズ (5) は和文組版・日本人購買心理対応が必須で、海外テンプレ流用ではレベル感が合わない。海外総合型がそのまま日本進出してもポジション獲得は難しく、KREV のフォロワー的個人開発の角度はさらに厳しい。スコア 5 で skip 判定。日本攻略は (a) 法令対応フィルタ特化、(b) モール CSV→バナー特化、(c) Shopify Plus 規模の DTC 中堅向け絞り込みなど、明確なニッチが必要。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "国内 EC 事業者はクリエイティブ制作費 (撮影/外注代理店 月数万〜数十万円) との比較で SaaS ¥3,000〜¥30,000/月の課金は受容しやすい。Fotographer.ai が ¥4,200/月で実勢。一方、個人副業 EC セラーは ¥1,000〜¥3,000/月が現実的天井。総合エージェント型は高価格帯になり ARPU 確保はターゲット絞り次第。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内 EC 市場は 2026 年 USD 207B 規模で CAGR 10.4%。Shopify 日本店舗数は 2024 年 3 月で 32,933 店、BASE は 190 万店。Shopify DTC 中堅以上で『広告クリエイティブに月数千円〜数万円払う』層は数千〜1 万店規模と推定。十分大きいが、グローバル英語圏に比べると相対的に薄い。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "Shopify App Store 出品/Qiita Zenn note 連載/X EC 界隈インフルエンサーで PLG 経路はあるが、日本中小 EC は代理店経由のチャネル文化が根強い。Fotographer.ai は Shopify/カラーミー/Yahoo! 公式アプリ経由で先行流通。後発 KREV クローンが個人開発で同じ流通を確保するハードルは高い。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "国内競合 (Fotographer.ai/AdCreative.ai/∞AI/GliaCloud 連携) が既に各領域に展開済みで、海外本家 KREV も日本進出すれば 12〜18 ヶ月以内に追いつくと予想。時間窓は短く、参入余地が日々狭まる。2026 年の動画広告自動生成トレンドは既にピークに近い。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "DTC ブランド向け SaaS は CS 期待値が高く、ブランドガイド学習・SKU 増減対応・広告効果ダッシュボード問い合わせなど個人運用には負担大。生成失敗時のチケット対応・薬機法問い合わせ等を考えると 24/7 ではないが平日対応必須。完全自動化は難しい。"
+      }
+    },
+    "rationale": "需要は確かにあるが、各サブ領域に国内競合が既に陣取り、Shopify アプリストア等の流通も埋まっている。個人開発者が KREV の総合エージェントを真似てもポジショニングが取れず、ARPU ¥3,000〜¥5,000/月程度に抑えて 1,000 社獲得しても月商 ¥300〜500 万円が上限。差別化のためのジャンル特化 (薬機法対応・モール CSV 対応など) を選んでも、CS 負荷と継続的なモデル更新で個人運用は息切れしやすい。海外本家進出までの時間窓も短く、ビジネス成立性は 4 で no_go 寄りの consider。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 4800,
+      "plans": [
+        "Free: 月 10 画像生成・透かしあり",
+        "Starter ¥2,980/月: 月 100 画像、商品 5 SKU、Shopify/BASE 連携",
+        "Pro ¥9,800/月: 月 500 画像 + 動画 20 本、コピー生成、薬機法フィルタ",
+        "Business ¥29,800/月: 無制限 + ブランドガイド学習 + 個別サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内 Shopify 上位の DTC ブランド (スキンケア/アパレル/ウェルネス) と、楽天/Yahoo! の中堅セラーで広告クリエイティブを内製化したい層。個人副業 EC セラーは価格帯的に対象外。",
+      "target_count": 8000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 576000
+    },
+    "recommended_gtm": [
+      "Shopify App Store 公式出品 (日本ローカライズ + 薬機法フィルタ訴求)",
+      "Qiita/Zenn/note で『AI 広告クリエイティブを個人開発した話』連載 + 技術解説",
+      "X (旧 Twitter) で EC 界隈インフルエンサー (Shopify エキスパート/D2C ブランド代表) との接点形成と無料枠提供",
+      "BASE/カラーミー/Yahoo! コマースパートナー アプリストアへの相乗り出品",
+      "DTC ブランド向けカンファレンス (eC2C/DGDAY 等) でのスポンサー/LT"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Fotographer.ai が動画/コピー領域に拡張すれば、画像から動画/コピーまで一気通貫の国内王者が固まり、後発の入り込む余地が消える",
+      "海外本家 KREV または AdCreative.ai が日本語完全対応 + 薬機法対応で本格進出すると、機能・ブランド両面で劣位になり差別化困難",
+      "AI 生成広告に対する景表法の措置命令や薬機法違反事例が出ると、AI 生成コピーをそのまま使うこと自体が EC 事業者に避けられるリスク",
+      "Meta/TikTok/Google の広告 API ポリシーが AI 生成クリエイティブを制限・ラベリング義務化する方向に動くと、KREV 型エージェントの価値前提が崩れる",
+      "個人開発で薬機法フィルタの精度を保ち続けるのは非現実的で、誤生成によるユーザーの法的トラブルから運営者責任を問われる可能性"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

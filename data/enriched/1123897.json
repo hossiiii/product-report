@@ -1,0 +1,245 @@
+{
+  "name": "Fellow for iOS",
+  "description": "AI meeting notes for in-person meetings",
+  "ph_url": "https://www.producthunt.com/products/fellow-app/launches/fellow-for-ios?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/Y672G5PI6INWOO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-16T07:01:00Z",
+  "upvotes": 201,
+  "comments": 14,
+  "topics": [
+    "iOS",
+    "Notes",
+    "Meetings"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt! 👋</p><p>Today we're shipping one of the features our users have been asking for most: <strong>Fellow goes fully mobile. Recording, transcription, AI notes – all from your phone.</strong><br></p><p>Fellow was built on a simple belief: your meetings are some of the most sensitive conversations your company has. They deserve more than a bot with loose data practices. We built the most secure AI meeting agent — SOC 2 Type II, zero data retention, botless by default. We built that on desktop. Now it's also in your pocket.<br></p><p>Here's what's new:<br></p><p>🔴 <strong>Botless mobile recording</strong>: Hit the red button, and Fellow captures your meeting through your device's mic.&nbsp;</p><p><br>🤖 <strong>Ask Fellow on mobile</strong>: Our AI chief of staff is fully functional on the app. Ask questions about past meetings, generate follow-up emails, get instant insights from your phone.</p><p><br>📅 <strong>Full calendar &amp; agenda management</strong>: View upcoming meetings, edit agendas, toggle recording on or off, and show up prepared no matter where you are.</p><p><br>✅ <strong>Action items on the go</strong>: Accept, dismiss, or create action items between back-to-back calls.&nbsp;</p><p><br>🔍 <strong>Your full recording library, in your pocket</strong>: Every transcript, AI summary, and recap, accessible anywhere.</p><p>Available now on iOS (v1.6.0+). Android recording is coming very soon.</p><p><br>We built Fellow to be the most secure AI meeting agent — and now it goes wherever you do.&nbsp;</p><p><br>Would love to hear what the PH community thinks. 🙏</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Tried it this week already. Very helpful for in-person meetings. Congrats on the launch",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Always hated to set up a laptop just to get recording , getting summary with just one click is awesome and  will save a lot of time. Big release, congrats on the launch <a href=\"https://www.producthunt.com/@manuelabarcenas\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"manuelabarcenas\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@manuelabarcenas</a> </p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Fellow for iOS turns your phone into a powerful AI note taker. Record any meeting without a bot or computer: Fellow handles the transcription and AI note-taking automatically. Before meetings, prep with Ask Fellow, edit agendas, and set your recording preferences right from your calendar. Afterward, replay audio and video, read through transcripts and notes, and manage action items by accepting AI suggestions or creating your own.",
+  "featured_at": "2026-04-16T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/2fdff170-5959-40db-a2f5-53b77951c42b.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4ee561ed-c131-4cfb-a569-a9039c55afdf.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bd293fe9-eab5-498e-8938-11213bf46ffc.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a6e41064-25a7-4c03-b198-46b317f096e7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6b524fcc-b95d-4012-9243-3c436ae58a86.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/108166ec-a77d-48d7-88ab-da3efb74e8f1.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:29",
+  "landing_meta": "‎Fellow - AI Meeting Assistant App - App Store — Download Fellow - AI Meeting Assistant by Fellow Insights Inc on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Fellow - AI…",
+  "landing_text": "‎Fellow - AI Meeting Assistant App - App Store Fellow - AI Meeting Assistant The secure AI meeting agent Free Share 22 Ratings 3.3 Age Rating 4+ Years Category Productivity Developer Fellow Insights Inc Language EN English Size 19.5 MB iPhone, iPad Fellow is the most secure AI meeting agent, built for remote and hybrid teams to record, transcribe, and summarize their meetings without ever compromising on privacy and security. Here's how Fellow ensures every meeting is accurately and securely captured: AI NOTE-TAKER Fellow records, transcribes, and summarizes your meetings to capture decisions, outcomes, and next steps so you can stay focused on the conversation. Fellow's AI note-taker integrates with Google Meet, MS Teams, and Zoom, so you have an accurate record of every meeting, even the ones you skip. Meeting outcomes and notes are seamlessly synced with your CRM and project management tools. Record in-person meetings without a computer or a bot. Just hit the red button and Fellow captures everything. Get a full transcript, summary, and action items as soon as the meeting is done. No computer or bot required. AI MEETING ASSISTANT Get context and insights from any meeting you have access to using natural language. Generate documents, automate email follow-ups, memos, and CRMs instantly. Everything discussed becomes searchable, actionable, and ready to ship with a single click. AI ACTION ITEMS Ensure nothing falls through the cracks from every meeting, even the ones you don't attend. Fellow automatically surfaces and assigns action items based on discussions, so meeting follow-ups are fully automated. MANAGE YOUR CALENDAR AND UPCOMING MEETINGS Show up to every meeting prepared no matter where you are. View your full calendar, toggle recording on or off before meetings start, and edit agenda items on the go, so you always show up prepared and ready to contribute. Note: This app is meant to be used with an existing Fellow account. more Ratings & Reviews 3.3 out of 5 ",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "$8.99 / mo"
+  ],
+  "landing_fetched_at": "2026-05-26T04:34:30",
+  "description_ja": "対面ミーティング向けAI議事録iOSアプリ。ボットなしで録音・文字起こし・要約まで完結。",
+  "summary_ja": "iPhoneのマイクで対面会議を録音し、AIが文字起こし・要約・アクションアイテム抽出まで自動化するモバイル議事録アプリ。SOC2 Type II・ゼロデータ保持を売りに、Zoom/Meet/Teamsとも連携する。",
+  "tldr_ja": "国内AI議事録は競合飽和でNotta/Otolio/Plaudが先行、英語UIのFellowは個人開発で参入する余地はほぼ無く模倣も成立しづらい。",
+  "review_guide_ja": {
+    "what": "Fellow for iOSは、iPhoneのマイクで対面ミーティングを直接録音し、AIで文字起こし・要約・アクションアイテム抽出まで自動化するモバイル議事録アプリ。会議ボットを参加させない『botless』設計で、SOC2 Type II・ゼロデータ保持といったセキュリティを前面に出す。事前にカレンダーから議題編集や録音ON/OFF設定が可能で、会議後はAsk Fellowに自然言語で質問してフォローアップメール生成や過去議事録の検索もできる。Zoom/Google Meet/MS Teamsと連携し、CRMやプロジェクト管理ツールへ自動同期。Fellow既存アカウントが前提のコンパニオンアプリで、デスクトップ製品の補完として位置付けられている。",
+    "for_who": "リモート・ハイブリッド勤務でセキュリティ要件が厳しい企業の管理職、営業、コンサルタント、エグゼクティブ。特にPCを開かない外出先や対面商談・1on1で議事録を残したい中堅〜大企業ユーザー。法務・医療など機密性の高い会話を扱う層を強く意識。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "Whisper等の汎用ASR+LLM要約で機能複製は可能だが、SOC2 Type II取得・カレンダー/CRM連携・iOS安定運用を個人で揃えるのは負担大。"
+    },
+    "signals": [
+      "対面会議録音という用途特化でモバイルAI議事録の伸びと一致",
+      "PLAUD NOTEのMakuake2ヶ月2.7億円が示す『PC不要録音』への国内需要",
+      "SOC2 Type II・ゼロデータ保持を打ち出すセキュリティ訴求",
+      "PH 201 upvotes・既存Fellowユーザー基盤への横展開"
+    ],
+    "concerns": [
+      "App Store評価3.3/22件と低調で母艦SaaSの補完アプリ性が強い",
+      "日本語UI・日本語要約精度の検証情報が見当たらない",
+      "国内は議事録ツール43製品超の飽和市場で差別化が困難",
+      "ハードウェア型PLAUDが対面録音セグメントを急速に占有中",
+      "Free表記だがFellow本体は有償SaaSで実質的に課金ハードルが高い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "国内AI議事録市場は2026年で約380億円(前年比+42%)規模、boxil調査でも上位5社が58.3%占有と需要顕在。対面会議録音もPLAUD NOTEがMakuake2ヶ月2.7億円・NotePin2ヶ月3万台と強いシグナル。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Otolio(18.8%)・Notta(12.1%)・AI GIJIROKU(11.3%)・YOMEL・Rimo Voiceに加え、ScribeAssist・Plaud・Synclog・SACCA・tl;dv・Fireflies等43製品以上が乱立。対面録音も既に各社対応済みで参入余地は極小。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "最高裁判例で一方当事者録音は合法、個情法上も録音通知義務はない(個情委FAQ)。ただし録音データは個人情報該当で保存・安全管理・開示請求対応が必要。クラウド越境移転と個情法28条の説明義務がやや負担。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "Fellow本体は英語UIのみで日本語要約・話者識別精度の検証情報なし。日本語認識精度98%超を訴求するNotta・Rimo等と勝負するには日本語ASR(AmiVoice等)再選定とUI翻訳・敬語要約調整が必要で工数は重い。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "対面商談・1on1で議事録を残す習慣はあるがPCで議事録を取る文化や紙メモ依存も根強い。録音への心理的抵抗・事前告知マナーが強く、無断録音は信頼関係を損ないやすい。CRM連携先(Salesforce/HubSpot)以外kintone等国内SFAとの連携が必要。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Otolio (旧スマート書記)",
+        "url": "https://www.smartshoki.com/",
+        "note": "国内シェア1位18.8%(boxil 1690人調査)。エンタープライズ向けで月額¥10,000+AIパック¥15,000〜と高単価。対面会議にも対応。"
+      },
+      {
+        "name": "Notta",
+        "url": "https://www.notta.ai/",
+        "note": "国内シェア2位12.1%。Premium ¥1,185/月(年払)〜、日本語認識精度98.86%訴求。9.9億円調達済でiOS/Androidアプリも提供。"
+      },
+      {
+        "name": "PLAUD (Note / NotePin)",
+        "url": "https://jp.plaud.ai/",
+        "note": "ハードウェア型AIレコーダー世界No.1。Makuake2ヶ月2.7億円、NotePin2ヶ月3万台。対面録音セグメントを急速に占有。"
+      },
+      {
+        "name": "Rimo Voice",
+        "url": "https://rimo.app/",
+        "note": "純国産AI議事録。25万ユーザー・2000社、シェア6.8%。会議終了5分で議事録生成、医療・士業など機密寄り顧客に強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "録音音声から個人を識別可能であれば個人情報に該当。録音事実の通知義務はないが利用目的の公表・安全管理措置・開示請求対応が必要。"
+      },
+      {
+        "law": "個人情報保護法28条(越境移転)",
+        "impact": "FellowはSOC2 Type IIだが米国クラウド処理を伴うため、外国第三者提供に該当する場合は本人同意取得または相当措置の説明義務が発生。"
+      },
+      {
+        "law": "電気通信事業法(外部送信規律)",
+        "impact": "ユーザー音声を外部サーバへ送信する設計で、2023年改正の外部送信規律により利用者に対する通知・公表が必要となる場合あり。"
+      }
+    ],
+    "opportunity": "国内向けには『対面商談・1on1専用×日本語高精度×kintone/Salesforce日本ローカル連携×事前告知文テンプレ自動表示』のニッチ寄せが現実的な角度。法務・士業・医療など機密性が高くPLAUDのハード携行に抵抗のある層に絞り、AmiVoice相当の純国産ASR+LLM要約+敬語/専門用語辞書をiOS単体で提供する形なら隙間はある。ただしOtolio・Notta・PLAUDが既に同セグメントを押さえつつあり、個人開発で差を作るには『弁護士業務専用』『医師カルテ補助専用』など垂直特化以外の道はほぼ閉じている。",
+    "rationale": "需要は強く規制リスクも低めだが、国内AI議事録は43製品超の超レッドオーシャンで、対面録音セグメントもPLAUDが先行・Notta/Otolio/Rimoが追随済み。Fellow自体は英語UIのまま日本進出する見込みは薄く、海外SaaSの補完iOSアプリという位置付けで日本ユーザー獲得の優先度は低い。模倣で参入しても日本語精度・国内CRM連携・販売チャネルで先行勢に劣り、個人開発が建てる場所として推奨できない。verdictはskip。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "Notta ¥1,185/月、Otolio ¥25,000/月+α とARPUレンジは広く、議事録は法人で稟議が通りやすい一方、個人は無料枠で満足する傾向。Fellow本体$8.99/月相当だが日本人個人ユーザーの月額継続課金ハードルは中程度。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内議事録ツール市場380億円(2026)、従業員100名以上で導入率35%まで拡大。営業職・コンサル・士業・医療を含めTAMは数百万人規模だが、上位5社が58%を占めTAMから個人開発が取れるシェアは限定的。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "AI議事録は法人IT部門/情シス向けの稟議販売が主戦場でPLGも難しい。Qiita/Zenn/Xでの個人発信や無料枠誘導は可能だが、競合の広告投下量(Notta・Plaud)が大きく個人開発者のリーチでは埋没しやすい。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "本家Fellowは既にiOS出荷済み、国内Notta・Otolio・PLAUDが拡張中。猶予はほぼ無く、模倣参入する時間窓は閉じている。垂直特化(法務・医療)ならまだ1〜2年の余地あり。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "音声処理SaaSはASR/LLM APIコストとストレージ費用が嵩み、可用性SLA要求も中〜高。誤認識クレーム対応、PIIインシデント時の説明義務、SOC2取得要求等が発生し、個人運用は容易ではない。"
+      }
+    },
+    "rationale": "市場規模はあるがレッドオーシャンで、個人開発者が取れるシェアは1%未満。ARPUを取りに行く法人セグメントは稟議・SOC2/ISMS要件・SLAなど個人運営とミスマッチ、個人ユーザー向けは無料Notta/Plaud Lite等に価格圧で押される。GTMも法人ITチャネル必須で個人開発者の発信力だけでは届きにくい。タイミングも本家iOS出荷済みで遅く、参入余地は垂直特化(法務・士業・医療など狭い業界専用)に限られる。総合的に個人開発事業として狙う合理性は低い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 月60分まで録音・要約、保存7日",
+        "Personal: ¥1,500/月 月900分・無制限保存・敬語要約・kintone書き出し",
+        "Pro: ¥4,800/月 月3,000分・専門用語辞書・SOC2相当レポート・優先サポート",
+        "Team: ¥9,800/席/月(年契約) 共有ワークスペース・SAML SSO・監査ログ"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内の弁護士・税理士・社労士・コンサル・営業マネージャなど対面商談中心の専門職個人事業者+小規模事務所。PCを広げず守秘性の高い1on1議事録を残したい層。kintone/Salesforce日本リージョン利用が前提。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 375000
+    },
+    "recommended_gtm": [
+      "士業・医療・コンサル業界紙への寄稿+Qiita/Zenn技術発信のクロス展開",
+      "X(旧Twitter)で士業界隈インフルエンサーへのRT/レビュー依頼",
+      "PLG: Freeプランの60分体験+LINEログイン導線でCVR最大化",
+      "kintone/Salesforce AppExchange日本マーケットへのコネクタ掲載",
+      "対面会議事前告知テンプレ無料配布をリードマグネットに使う"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Notta・Otolio・PLAUDが既に対面録音セグメントを押さえつつあり、機能差別化と価格競争で個人開発が長期勝負しづらい。",
+      "ASR/LLM APIコストが録音時間にリニアに増え、Free誘導でユニットエコノミクスが崩れやすい。日本語精度を上げるとAmiVoice等の高額APIに依存。",
+      "個情法28条・電気通信事業法外部送信規律の対応文書整備、SOC2/ISMSの要求が法人顧客から出ると個人運営の限界を超える。",
+      "本家Fellow Insights Incが日本語対応・国内代理店経由で進出した瞬間、ブランド・SOC2 Type IIの優位で個人模倣品は淘汰される。",
+      "対面録音は事前同意マナーが厳しく、無断録音クレーム・名誉毀損訴訟リスクで個人開発者の法務負担が一気に増す。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

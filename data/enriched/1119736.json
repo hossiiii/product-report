@@ -1,0 +1,237 @@
+{
+  "name": "Nova Recruiter",
+  "description": "Agentic platform to find, contact and recruit top talent",
+  "ph_url": "https://www.producthunt.com/products/nova-recruiter/launches/nova-recruiter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/P5TFYUCSTBZAY3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-22T07:01:00Z",
+  "upvotes": 228,
+  "comments": 45,
+  "topics": [
+    "Human Resources"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>What was your worst hire?<br><br>The one that made you think: how did this even happen?<br><br>👇 Tell me your worst hire story. We read every one.</p>",
+      "votesCount": 180,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hi there! Excited to launch Nova Recruiter to the world through Product Hunt.<br><br>Since 2020, we have been building Nova, the network that connects the most talented people in the world.</p><p>Think of LinkedIn, but with a merit-based access.<br><br>We have scaled the community to +25,000 members after assessing +150,000 candidates, so we know quite well what top talent looks like and how to measure real merit, not just keywords.<br><br>To finance this network, we have delivered headhunting services for 6 years to some of the world's most demanding organizations. And, in this process, we realized that recruiters and founders lacked the right tools.</p><p></p><p>Traditional tools don't work to source top talent for 3 main reasons:<br>- Filters are based on keywords, not real merit<br>- Messaging is super limited to InMails, with very low reply rates<br>- The whole process of searching is super manual and hasn't almost change in the last 10 years.<br><br>So we are excited to bring an alternative built FOR RECTRUITERS, BY RECRUITERS. With everything we wished LinkedIn Recruiter had. An agentic platform to source top talent from over 800 million public profiles worldwide and has all the knowledged and experience from assessing +150,000 candidates for true merit these past 6 years.<br><br>It has 4 key benefits vs. traditional platforms:</p><ol><li><p>Better search results (thanks to a proprietary search engine, improved filters, talent scoring, and requirement matching)</p></li><li><p>Higher response rates (2–3x higher thanks to multichannel campaigns across LinkedIn, email, and Nova)</p></li><li><p>AI agents to automate the process (clients report +20h saved per process, +95% of the whole recruitment time).</p></li><li><p>More flexible, usaged-based pricing, adapted to the AI world</p></li></ol><p><br>So if you want a better way to source top talent, try it free now from the UI or from Claude or any other AI agent using our MCP.<br><br>Looking forward to getting your feedback.<br></p><p>🚀🚀🚀</p>",
+      "votesCount": 113,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is a great idea. Did you consider making a filter or a separate section for students and young graduates? <a href=\"https://www.producthunt.com/@ramon_rodriganez\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"ramon_rodriganez\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@ramon_rodriganez</a> <a href=\"https://www.producthunt.com/@andrea_marino1\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"andrea_marino1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@andrea_marino1</a> </p><p></p><p>I think it would be very helpful for students seeking for internship or a first job.</p>",
+      "votesCount": 21,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Nova Recruiter is the world's most advanced agentic platform to find, contact and recruit top talent. Built for recruiters, by recruiters, it allows you to search and contact candidates from +800 million public profiles worldwide. Compared to traditional platforms, it offers better filters (based on merit, not just keywords), higher reply rates (2-3x more thanks to multi-channel campaigns), AI agents to automate the sourcing workflow E2E (+95% of time saved), and usage-based pricing.",
+  "featured_at": "2026-04-22T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a6545721-dd68-4815-aa54-4b6ad7dfa680.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fb6a87f4-e4f8-4038-98c8-3b62fc7cdb55.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/13278a2c-698e-47bb-8bf9-626402599b71.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/122e743b-31af-47ea-9764-5946d26376a2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/420b6e17-65df-4603-b04e-5ec730b0588d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8706ec29-e261-4abd-a8ec-93fce0bb6f42.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9d2d4f2b-42f1-4c62-a789-9117f1691a43.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6a590b39-8ade-418d-a204-fb76b23c5fb1.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/95e8b185-14bf-4f8d-a1de-c9e64da8c8f8.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:00:32",
+  "landing_meta": "Nova - Nova Recruiter — The world's most advanced agentic talent sourcing platform. Discover the right talent instantly across 800M+ public profiles, ranked by merit. Connect with them with automated, multi-channel campaigns. For Recruiters, by Recruiters.",
+  "landing_text": "Nova - Nova Recruiter Clients Features MCP Pricing Security FAQs Top Talent Companies About Nova The Nova 111 List Try for free Top Talent Home Nova Stories Micro-communities Development About Nova Manifesto Code of Conduct Team Careers Blog Companies Nova Recruiter Case Studies The Nova 111 List Italy Spain Sweden UK Contact us info@novatalent.com Top Talent Companies About Nova The Nova 111 List Login Hire exceptional talent , while you sleep Search 800M+ profiles. Rank by merit, not keywords. Get 2.5x more replies. Save 98% of sourcing time (+20h / vacancy) with AI agents. Try for free Book a demo Watch our announcement video Discover the right talent across 800M+ profiles, ranked by merit Trusted by 200+ companies What recruiting teams say \"Nova Recruiter is enabling us to find and reach out to high-caliber candidates more effectively than LinkedIn or Juicebox. The merit-based scoring makes the tool unique when you really need world class talent.\" Josep Mingot, Prosper AI (YC S2023) \"Nova Recruiter is enabling us reach out to high-caliber candidates more effectively than LinkedIn Recruiter. It’s like having a modern sales tool with multi-channel sequences, applied to recruiting.\" Avinash Sukhwani, Co-founder at Payflow (YC S21) \"As an early-stage founder I can't afford an average-quality hire: we only recruit A-players. With Nova Recruiter, we're, hiring people who normally wouldn't even look at a company our size.\" Pablo Omenaca, Co-founder at Karumi (YC F25) \"We used to drown in back-and-forth emails, missed follow-ups, and candidates falling through the cracks. With Nova Recruiter, every step of the process is clear, nothing slips, and we've cut our time-to-hire in half.\" Alessandra Cestaro, Founder & CEO at Holifya \"Before Nova Recruiter, every hiring round felt like a race against the clock. Now the workflow runs on its own. Our team just steps in at the moments that actually matter\" Giorgio Tinacci, Founder & CEO at Casavo \"Nova Recruiter let us find and r",
+  "pricing_signals": [
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-05-26T04:00:33",
+  "description_ja": "8億件超の公開プロフィールから上位人材を見つけ、メリットで評価し多チャネルで自動接触するAIエージェント型採用ソーシング基盤。",
+  "summary_ja": "リクルーター向けにLinkedIn代替を狙うAIエージェント型ソーシング。8億プロフィールを独自スコアでランク付けし、LinkedIn/メール/Novaコミュニティの多チャネルでスカウト送信を自動化、MCP経由でClaude等からも操作可能。",
+  "tldr_ja": "LinkedIn普及未成熟+職業安定法でスカウト=有料職業紹介許可必須、個人開発はno_go。観察のみ推奨。",
+  "review_guide_ja": {
+    "what": "Nova Recruiterは「リクルーター向けLinkedIn Recruiter代替」を標榜するAIエージェント型タレントソーシングSaaS。8億件超の公開プロフィールDBに独自検索エンジンとメリットベース・スコアリングを載せ、JD/要件からAIが候補者を抽出・ランク付けする。スカウト送信はLinkedIn・メール・自社Novaネットワークを束ねるマルチチャネル・キャンペーン化されており、返信率2.5倍/工数98%削減を訴求。MCP対応でClaude/ChatGPT/Cursor等のAIアシスタントから自然言語で検索・キャンペーン起動が可能、使用量ベース課金。典型ユースケースは中小・スタートアップの非・大企業ブランド企業がAクラス人材を能動的に獲りに行く局面、社内採用担当が居ない/兼務の組織。",
+    "for_who": "海外（欧米中心）のシード〜シリーズB規模スタートアップの創業者・採用責任者、外資系の社内リクルーター、独立系ヘッドハンター。日本では外資系IT・グローバル展開企業の社内採用、LinkedInを積極活用するエンジニア/外資ターゲット採用に関わる人事/エージェントが主想定。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "コアは「8億公開プロフィールDB+メリットスコア+多チャネル送信基盤」。データ仕入れ(LinkedIn等)の法務リスク・規模・スコアモデル学習コーパスが個人で再現困難。"
+    },
+    "signals": [
+      "MCP対応でAIアシスタント経由のリクルーティング自動化という新領域",
+      "PHで初日180+upvote、200社以上の導入実績を訴求",
+      "LinkedIn Recruiterの返信率/UX不満が世界的に蓄積",
+      "Usage-based課金でPLG的に試せる設計",
+      "創業6年・25,000人コミュニティの実データを差別化に活用"
+    ],
+    "concerns": [
+      "LinkedInプロファイル依存度が高く、ToS/個情法/越境データの法務リスク",
+      "日本ではLinkedIn普及が限定的(約500万人/IT外資偏在)で独自データの価値が下がる",
+      "国内競合(BizReach・Wantedly・Green・HRMOS)が候補者DBを抑えており勝ち筋が薄い",
+      "「スカウト=あっせん」で職業安定法上の有料職業紹介許可リスクが付きまとう",
+      "個人開発者には致命的に重い：許可要件(資産500万+責任者)・CS負荷・SLA期待値"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "ダイレクトリクルーティング市場は2024年1.27兆円規模で需要は存在するが、AI×スカウトはROBOTOS+/スカウタブル/ROBOROBO等が既に席巻。「LinkedIn代替」需要は日本では限定的(LinkedIn JPユーザー約500万・IT外資中心)で、Nova独自の訴求が刺さる層は薄い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "BizReach(スカウト可能236M超)、Wantedly、Green、HRMOS、HERP、PeopleX、sonar ATS、Our AI面接など国内ATS/スカウト基盤が密集。さらに「AIスカウト代行」サービスが30社規模で乱立、月額1万円〜の低価格帯まで揃う飽和市場。"
+      },
+      "regulation": {
+        "score": 3,
+        "reason": "スカウト=あっせん行為とみなされれば職業安定法上の有料職業紹介事業許可(資産500万円以上×事業所数・職業紹介責任者必須)が必要。個情法でも候補者データの目的外利用・保有期間・本人同意の制約が厳しく、LinkedIn等の公開データ流用は越境含めグレー。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI日本語化は容易だが、本質は「日本人候補者DBがほぼ無い」点。LinkedIn日本ユーザーは限定的で、Wantedly/BizReach/Greenとデータ提携できなければ国内候補者検索が成立しない。スコアモデルも日本語職務経歴・年功序列文化に合わせ再学習が必要。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本は依然エージェント経由35%成果報酬モデルが主流。社内ソーシングよりエージェント丸投げ志向が強く、PLGで自社採用力を高める文化が薄い。外資・スタートアップ・IT界隈には親和性あるが、一般中堅企業ではメリットスコアの「実力主義」訴求も逆風。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "BizReach (ビズリーチ)",
+        "url": "https://www.bizreach.jp/",
+        "note": "国内最大級の即戦力ダイレクトリクルーティング。スカウト可能会員236M超(累計)、HRMOS採用と連携。法人がスカウトを送る側のデファクト。"
+      },
+      {
+        "name": "Wantedly",
+        "url": "https://www.wantedly.com/",
+        "note": "ビジョンマッチ型のスカウト/採用広報SaaS。スタートアップ・若手エンジニア層に強く、Nova類似のミッション訴求型UXが既に確立。"
+      },
+      {
+        "name": "Green",
+        "url": "https://www.green-japan.com/",
+        "note": "IT/Web系特化のダイレクトリクルーティング。登録120万人超、約半数がITエンジニア/デザイナー。Nova想定の上位人材帯にも被る。"
+      },
+      {
+        "name": "HRMOS採用 / HERP Hire",
+        "url": "https://hrmos.co/ats/",
+        "note": "国内ATSの双璧。HERPは月額29,800円〜のSaaS、HRMOSは見積制でビズリーチ連携。Nova機能の一部(AI評価/スカウト連携)を既に内蔵。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "職業安定法",
+        "impact": "スカウト=求人者の依頼で求職者を探し『あっせん』する行為は職業紹介に該当。有料で行うなら厚労大臣許可(資産500万円以上×事業所数、職業紹介責任者配置等)必須。SaaS提供のみでも『あっせん意思の介在』があれば該当する可能性、個人開発で法令充足は極めて困難。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "候補者の経歴・連絡先は要配慮性は無いが、利用目的の特定/通知、目的外利用禁止、不要時の遅滞ない削除義務がかかる。LinkedIn等海外公開データの収集・国内提供は越境移転・本人同意との関係でリスク。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "スカウトメール自動送信は『広告・宣伝』性と『同意取得』(オプトイン)の解釈次第で違反リスク。海外プロファイルから取得した連絡先への一斉送信は明確な同意取得が困難で、配信運用の設計に制約。"
+      }
+    ],
+    "opportunity": "日本特化で勝つなら(1)LinkedInではなくWantedly/Green/GitHub/Qiita/Zenn等のJP公開プロフィールを束ねたメリットスコア、(2)有料職業紹介許可保有のRPO/エージェントへSaaS提供しスカウト業務を生産性向上(=B2B2C回避)、(3)外資系日本法人・スタートアップに特化したLinkedIn運用代行ニッチ、(4)エンジニア採用に特化したGitHub/技術記事ベースのメリット評価、のいずれかへ収斂させる必要がある。ただし(1)〜(4)いずれもNovaのコア資産(8億プロフィールDB+欧米コミュニティ)が活きず、別物の設計が必要。",
+    "rationale": "総評として日本市場では『LinkedIn代替』というコア訴求が前提崩壊する。LinkedIn日本利用は約500万人・IT外資中心で、Nova独自データの大半が国内候補者と紐付かない。一方、国内のダイレクトリクルーティングはBizReach等が押さえ、AIスカウト/RPOは月額1万〜の代行で飽和、ATSはHERP/HRMOSが採用フロー全体を握る。さらに最大の障壁は法務で、スカウト=あっせんと解釈されれば職業安定法の有料職業紹介許可が必要(資産500万×事業所数)で、個人開発の参入はほぼ不可能。個情法・特電法も自動化スカウトに対し厳しい。国内独自開発の角度はあるがNovaコア資産は活かせず、海外プロダクトとして日本支社で攻めるか、ローカル特化の別プロダクトを作るかの二択。観察(skip)が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "ダイレクトリクルーティング/RPO予算はBizReach年数百万・エージェント成果35%等で大企業中心に潤沢。一方PLG・usage-basedで個人や小規模法人から月5〜10万円を取るのは可能だが、国内同価格帯の代替が多く価格優位は出しにくい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内ダイレクトリクルーティング市場2024年約1.27兆円・CAGR58.5%(2015-22)と大きい。ただしNovaが取りに行く『LinkedIn代替×AIソーシング』のサブセグメントは外資系日本法人・グローバル採用企業に限られ、対象数は数千社程度に縮む可能性。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "個人開発者がリーチ可能なチャネル(X発信/Qiita/プロダクトハント)で採用責任者・人事に届くのは難。日本の人事はWebマーケに反応が薄く、エージェント・人材紹介ネットワーク経由が主流。PLG成立にはトライアル登録→社内稟議の壁が高い。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "国内AIスカウト/AI面接(PeopleX、ROBOTOS+、AI採用ツール21社比較等)は2025〜26年に既に立ち上がっており、時間窓は閉じつつある。Nova本家が日本に来る可能性は低い(LinkedIn普及待ち)が、国内競合の方が速い。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "人材データ取扱・SLA・コンプライアンス(個情法・職安法・特電法)対応・候補者問い合わせ対応が継続発生。さらに有料職業紹介許可運用なら届出・帳簿・年次報告が必須。個人で24/7運用は実質不可能、要件抵触リスクが死活問題。"
+      }
+    },
+    "rationale": "事業性は厳しい。市場規模は1兆円超で大きく単価も高いが、(a)GTMの壁が高く個人開発者が法人人事に到達する経路が薄い、(b)国内競合がAIスカウト/ATS/RPOの全レイヤーを既に押さえている、(c)職業安定法上『スカウト=あっせん』判定で有料職業紹介許可が必要となり個人運営は資産500万×責任者配置で実質不能、(d)候補者データの個情法対応・特電法対応・候補者からの問合せ対応で運用負荷が極大、(e)ARPUは取れる余地があっても許可コスト・サポートコストで利益が消える。トータルで個人開発者の事業として成立する見込みは低く、参入するならRPO/許可保有エージェント向けの裏方SaaSに役割を限定する以外に活路がない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 0,
+      "plans": [
+        "個人開発者として国内で独自展開する場合は課金しない(open_source/参考実装)。本家Novaが進出してきた場合のARPU想定はSeed/Smallプランで¥30,000〜¥80,000/月、Proで¥150,000/月相当の使用量課金が現実的"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "外資系日本法人・グローバル展開スタートアップ・IT/エンジニア採用に積極的なシリーズA〜Cの社内採用担当(検索で根拠未確認の概算)。BizReach等の主流チャネルでは届かないLinkedIn活用層が中心。個人開発として独自展開はno_go判断のためARPU=0、よって月商目標=0。",
+      "target_count": 3000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "(参入推奨せず)観察のみ。本家Novaの日本進出/類似国内プロダクトの動向をPHとXで追う",
+      "どうしても触るなら自社採用ツールとしてNovaを利用し、知見をQiita/Zennで発信して個人ブランディング",
+      "RPO/有料職業紹介許可保有エージェントとパートナリングし、許可を借りて運用する場合のみ事業化可能性あり"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "職業安定法の有料職業紹介事業許可が必要な可能性が高く、個人開発者では資産要件(500万円以上×事業所数)・職業紹介責任者配置・厚労省届出を満たせず違法状態リスク",
+      "個情法での候補者データ取扱(目的特定・第三者提供・越境移転・削除義務)対応コストが重く、漏洩時のレピュテーション/制裁が致命的",
+      "LinkedIn公開プロフィールのスクレイピング/利用は米国判例上はグレー合法だがLinkedInのToS違反、訴訟・アクセス遮断リスク高",
+      "国内市場はBizReach/Wantedly/Green/HRMOS/HERP/AIスカウト代行が密集し新規参入の差別化余地が薄い、価格競争に巻き込まれ利益が出ない",
+      "本家Novaが日本進出した場合、欧米実績・データ規模で個人開発の国内コピーは即座に陳腐化"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-26T04:30:00Z",
+  "review_guide_at": "2026-05-26T04:30:00Z",
+  "business_viability_at": "2026-05-26T04:30:00Z",
+  "advisor_view_at": "2026-05-26T04:30:00Z"
+}

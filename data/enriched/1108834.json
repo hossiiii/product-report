@@ -1,0 +1,271 @@
+{
+  "name": "Recall 2.0",
+  "description": "Curate an AI that knows what you know. ",
+  "ph_url": "https://www.producthunt.com/products/recall-6/launches/recall-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/6ZWGLVRX6FQH4Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-14T07:01:00Z",
+  "upvotes": 257,
+  "comments": 29,
+  "topics": [
+    "Android",
+    "Productivity",
+    "Notes",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "0",
+      "name": "[REDACTED]",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>What started as a simple Hacker News post from Paul in November 2022, \"<a href=\"https://news.ycombinator.com/item?id=33425947\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">A tool to help you remember shit you are interested in</a>,\" has, three years later, transformed from a summarizing tool into a platform that brings your knowledge to the forefront.</p><p></p><p>Recall 2.0 isn't just a feature launch. There has been a series of updates building to this point. What we've envisioned is a place where people intentionally engage with their saved content, learn from it, and bring that knowledge to the center.</p><p></p><p>Everyone is looking to AI for answers. But with Recall, you can prioritize your own knowledge first and foremost. Choose to chat with your saved insights and invite the internet in as a supplement. That's the priority order we believe it should follow.</p><p></p><p>This update lets you get answers that no other AI can provide, as it is grounded in the sources you intentionally chose to save and the notes you specifically took. Ask questions, and Recall pulls from your curated knowledge base.</p><p></p><ul><li><p><strong>\"What did that sleep podcast say about melatonin timing? Find me the clip.\" </strong>[It pulls the exact moment where something was mentioned, and you can even play the clip inside Recall without breaking your flow.]</p></li><li><p><strong>\"Condense my last six months of research and notes into references with timestamps, page numbers, and quotes. Also see if any new studies are out.\"</strong> [Combine your personal knowledge and invite the internet in to see what is new and what you might be missing.]</p></li><li><p><strong>\"Pick a movie for tonight based on everything I've loved this year.\" </strong>[Just a fun one. Save all the movies you love to Recall, write your reviews, and then let Recall make a recommendation based on your own notes.]</p></li></ul><p>You get to choose the frontier AI model you prefer, including GPT 5.4, Claude, Gemini, and more. Switch mid-conversation to compare outputs. You are not locked in. You get the best of all the AI models in one place.</p><p></p><p>Several other highly requested features are launching:</p><ul><li><p><strong>API and MCP access:</strong> The community was clear about their needs here. Your knowledge can now be accessed from anywhere, whether you're building custom workflows or feeding it into your chatbot.</p></li><li><p><strong>Bulk actions for power users:</strong> With high content volume, you can now manage it all with just a few clicks. Generate summaries, tags, and connections for 100 pieces of content at a time.</p></li><li><p><strong>A UI overhaul: </strong>Everything you've seen in Recall from launch until now was homemade by our founders. We are finally getting closer to the intuitive, polished experience our users deserve. More to come.</p></li></ul><p>Since December, we have shipped a series of major upgrades:</p><ul><li><p>Our <a href=\"https://docs.recall.it/deep-dives/note-taking-in-recall\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">rich text block editor</a> lets you capture your notes and ideas with all the bells and whistles you need, including tables, to-do lists, and more.</p></li><li><p><a href=\"https://docs.recall.it/deep-dives/graph/overview\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Graph View 2.0</a> lets you interact with your knowledge visually, discover patterns, and find new connections.</p></li><li><p><a href=\"https://docs.recall.it/deep-dives/quiz-and-spaced-repetition\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Quiz 2.0 </a>reinforces learning and retention. It is not just about saving and interacting It references the exact point where something was mentioned and links to that video inside Recall, which you can play inside Recall. It doesn't break your flow.with content. It is about learning from it. This is about intentional knowledge building replacing mindless doomscrolling, with a personalized spaced repetition schedule. One of the best parts is that you can challenge friends publicly. Call out the folks dropping hot takes without receipts.</p></li></ul><p>We want to say a massive thank you to our <a href=\"https://discord.gg/BSYrT3UeGR\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Discord community</a>. Your feedback, bug reports, and feature requests have shaped Recall 2.0. This is only the beginning, a step toward the vision we are relentlessly iterating on and delivering.</p>",
+      "votesCount": 23,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Super amazing product, so proud of the team to keep delivering the best product for learning and managing personal knowledge. Great job everyone!</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations to our incredibly talented and passionate team. It's been a crazy few months working on this new launch, and I'm so proud to see how it's turned out. My personal favourite feature of this is the Agentic Chat. It makes it a lot easier for me rather than going back and tagging my content. I can just ask in the chat, which makes it a lot simpler.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "AI leveled the playing field. Intelligence has been commoditized. We believe the edge is your knowledge. Recall 1.0 was a place to store that knowledge. Summarized, organized and connected. Recall 2.0 turns that knowledge into your edge. AI grounded in everything you've saved and written. \"Condense my research, compare new studies, find the exact clip in my podcast.\" to “Pick a movie based on what I love” Talk to your knowledge, the internet, or both. You pick the model. API & MCP included.",
+  "featured_at": "2026-04-14T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/05a083af-a458-4997-823a-c5441d1c6d8f.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3819f331-0e47-4e74-9c10-97e890c54db8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0f208195-b212-4358-bcbf-b8cb3d2f2003.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/332acc9e-2a11-489f-b685-b49701ae9979.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f9b5d2ca-d726-4cd7-9468-c29cc3d9c772.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b67b0f62-4ad1-47f6-a627-b8a310469e67.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5677e25d-87d1-4e39-b737-e45cbc47511a.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/5c81f8ed-fa6d-461a-82ae-7c51201e9e17.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T04:34:25",
+  "landing_meta": "Recall - Your AI Knowledge Base — Recall is a personal AI knowledge base. Save, summarize, and chat with your articles, videos, podcasts, PDFs, and notes — with ChatGPT, Claude, or Gemini.",
+  "landing_text": "Recall - Your AI Knowledge Base AI gave everyone the same brain Your knowledge is your edge Save what matters. Write what you think. Curate an AI that knows what you know. GET STARTED it's free ADD CONTENT Your AI encyclopedia Trusted by 500,000+ professionals Answers no other AI can give you Your knowledge. The internet. The AI model of your choice. DISCOVER Why am I sleeping poorly? Check my journal and the podcast I saved on sleep + 12 online sources Chat with your knowledge Alcohol and your sleep Podcast Alcohol and your sleep My Daily Sleep Journals Note My Daily Sleep Journals Alcohol and your sleep Podcast Why We Sleep Book Intro to Large Language Models YouTube Interstellar 2014 Movie Founder Mode Blog Attention is all you need PDF My Daily Sleep Journals Note Atomic Habits Book Save anything in one click. We’ll take care of the rest Organized. Summarized. Connected. Science of Dreams Book JRE McConaughey Podcast Granny's Pavlova TikTok Dry Martini Blog Spaghetti Puttanesca Blog Thinking in Systems Book Ex Machina 2014 Movie Dune Part 1 2023 Movie Fight Club 1999 Movie Interstellar 2014 Movie Daily Sleep Journals Blog 2026 Fitness Goals Blog Product Hunt Checklist Blog Blue Zone Communities Wikipedia Why We Sleep Book Organization Effortlessly organized Your knowledge organizes itself with smart tags that get smarter over time. DISCOVER Technology Sam Altman · Lex Fridman YouTube The Verge AI Brain Fry Article CLI Programmers YouTube 4:48 / 2:23:56 Sam Altman · Lex Fridman YouTube 4:48 / 2:23:56 Sam Altman · Lex Fridman YouTube Concise Summary 2H OF CONTENT IN 30 SECONDS SUMMARISE Summarization Save hours every day Instant summaries you can read or listen to in a voice you can clone. DISCOVER AUGMENTED BROWSING Everything you save connects to everything you already know. Recall automatically links related ideas around as you browse",
+  "pricing_signals": [
+    "pricing",
+    "premium",
+    "$1"
+  ],
+  "landing_fetched_at": "2026-05-26T04:34:26",
+  "description_ja": "あなたの知識を学ぶAIをキュレーション。記事・動画・PDFを保存し対話できるパーソナル知識ベース。",
+  "summary_ja": "記事/動画/Podcast/PDFをワンクリックで保存し、自動要約・タグ付け・グラフ化した上で、GPT/Claude/Geminiから選んだLLMが自分のナレッジに基づいて回答するパーソナルAIナレッジベース。API/MCPも提供。",
+  "tldr_ja": "個人ナレッジ×AIは需要顕在だがNotebookLM/Notion AIが既に日本語対応し競合濃厚、個人開発は隙間特化のみ勝機。",
+  "review_guide_ja": {
+    "what": "Webクリッパー(Chrome/Firefox拡張)・モバイルアプリ・APIで記事/YouTube/Podcast/PDF/TikTok等を1クリック保存。Recall側で自動要約・タグ付け・関連リンク生成を行い、知識グラフ(Graph View 2.0)に統合。Agentic Chatで「保存済みコンテンツ＋Webを併用した質問」が可能で、回答はソースのタイムスタンプ・ページ番号付きで提示。リッチテキストエディタでノート作成、スペースドリピティション(Quiz 2.0)で記憶定着、Bulkアクションで100件単位の処理、API/MCPで外部ワークフロー連携。利用LLMはGPT 5.4/Claude/Gemini等から選択可能で会話途中の切替も可。",
+    "for_who": "リサーチ・学習・コンテンツ消費量が多い個人プロフェッショナル(学術・研究者・ナレッジワーカー・学生)で、ブックマーク/Read it laterの先に「自分のナレッジに対するAIチャット」を求めるユーザー。第2の脳(Second Brain)コンセプトに親和的な層。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "RAG構築自体はDify+n8nで数時間と容易だが、ブラウザ拡張/iOS/Android横断のキャプチャUX、Podcast/YouTubeの字幕抽出、知識グラフUI、SRS等の総合品質を個人で再現するのは中程度の難易度。"
+    },
+    "signals": [
+      "Trusted by 500,000+ professionals表記とPH 257 upvotes/29 commentsで一定の検証済み需要",
+      "API/MCP公開によりエコシステム(Claude/Cursor等)へ接続可能となり差別化",
+      "Agentic Chatで複数LLM切替を可能にした点が「ベンダーロック回避」ニーズに刺さる",
+      "Bulkアクションでヘビーユーザーの100件単位の処理を解放、価格設計と整合"
+    ],
+    "concerns": [
+      "Notion AI Q&A・NotebookLM・Mem AIなど無料or既存契約に内包される競合が日本でも普及",
+      "個人向けナレッジ管理は離脱が早く長期継続が難しいカテゴリ(課題はリテンション)",
+      "保存コンテンツの著作権・規約問題(YouTube/Podcastの全文抽出はグレー)",
+      "LLM API原価が利益を圧迫、Max $38/月でも利益確保は使用量次第"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Zenn/note/Qiitaで『個人ナレッジ×RAG』『NotebookLM活用』記事が活発、Recall AIを紹介するnote記事(kAI/Oneddy)が複数存在し関心は顕在。ただし第2の脳カテゴリは日本ではObsidian/Notion愛好家中心の限定的ファン層。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "NotebookLM(無料・日本語Audio Overview対応)、Notion AI Q&A(日本語14言語対応・¥3,150〜)、Mem AI、Obsidian+AIプラグイン、国内mebaLなど競合密集。Recall自身もApp Storeに日本語UIで参入済みで先行者優位はほぼ無い。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "保存対象が個人のメモ/Webコンテンツ中心で、個人情報保護法上の取扱事業者要件は軽い。ただし2026年改正でAI学習目的の個人情報利用緩和議論あり、ユーザーがセンシティブ情報を保存した際のクラウド処理同意取得は必要。著作権法は私的複製範囲なら問題薄。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "LLMがGPT/Claude/Gemini選択式で日本語要約・対話品質は既に実用域。本家アプリのiOS版が日本語UI対応済。残るのは縦書き/PDF日本語OCR/和書のメタデータ取得精度などのチューニング程度。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "個人課金SaaSは日本でも一定受容(Notion AI ¥3,150/月の前例)だが、月¥3,000超の個人向けナレッジツールに継続課金する層は薄い。年払い割引・学割など商習慣との相性は標準的。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "NotebookLM (Google)",
+        "url": "https://notebooklm.google/?hl=ja",
+        "note": "無料・日本語UI/Audio Overview/動画生成対応。Gemini Notebooks統合でモバイルからの追加が容易。個人ナレッジ×AIの事実上のデフォルト選択肢で、Recallの直接競合。"
+      },
+      {
+        "name": "Notion AI Q&A",
+        "url": "https://www.notion.com/ja/product/ai",
+        "note": "日本語対応、月¥3,150(年払)〜。Notion内ドキュメントを横断質問可能。既にNotionを使う層に対しスイッチコスト圧倒的に低く強力。"
+      },
+      {
+        "name": "Mem AI / Mem0",
+        "url": "https://mem.ai/",
+        "note": "音声入力+自動構造化+Mem Chatで自分のノートに質問可能。日本語紹介記事多数。個人ナレッジ×AIの先行プロダクトで認知あり。"
+      },
+      {
+        "name": "Obsidian + AIプラグイン",
+        "url": "https://obsidian.md/",
+        "note": "ローカルファースト・2,700+プラグイン・100+AIプラグイン。プライバシー重視の日本人ナレッジワーカーに根強い人気。月額不要のため価格競合力強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "保存コンテンツに第三者の個人情報が含まれる場合、利用目的の特定・通知義務が発生。LLM API送信時は越境移転(米国OpenAI/Anthropic)に同意要件あり。2026年4月閣議決定の改正でAI学習目的の規制緩和方向だが、サービス事業者は同意取得UI整備が必要。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "ユーザーが私的利用範囲を超えてWeb記事/Podcast全文をクラウドに保存・他者と共有する場合、複製権侵害リスク。サービス側はDMCA類似の権利侵害申立窓口とユーザーの私的利用範囲限定の利用規約で防御要。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "外部送信規律(2023年6月施行)の対象事業者となる可能性。LLM APIへのデータ送信を行う場合、利用者情報の外部送信を行う旨をプライバシーポリシー等で明示する義務あり。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては (1)和書/PDF日本語OCR・縦書き対応・引用フォーマット(学術論文/Kindle/青空文庫)の精度で差別化、(2)Obsidian/Notion vaultの双方向同期に特化したブリッジSaaSとしての位置取り、(3)資格学習(宅建/簿記/医師国家試験等)の教材を保存→Quiz生成のSRS特化版、(4)研究者/院生向けに国内文献DB(CiNii/J-STAGE)連携と引用整形機能、などNotebookLMが手薄な縦穴を掘る方向。汎用ナレッジベースとして真正面に挑むのは推奨しない。",
+    "rationale": "需要シグナルは確実にあり(Zenn/note記事・Recall AI紹介投稿の存在)個人ナレッジ×AIというカテゴリ自体は伸びている。しかし無料のNotebookLMが日本語Audio Overviewまで実装し『個人ナレッジに対する対話』の決定版になりつつある状況下、汎用カテゴリでRecallの代替を作るのは資本力/AIラボ規模の差で勝ち目が薄い。Recall本家も既に日本語UIで参入済みで、先行者優位もない。規制リスクは中程度、ローカリゼーションは技術的に容易、商習慣も標準的だが、競合密度が致命的で総合的に『真正面突破はskip、ニッチ縦穴ならwatch』が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "Notion AI ¥3,150/月、Recall本家$38/月の前例から月¥2,000-3,000の課金余地は存在。ただし日本の個人課金SaaSは月¥1,000-2,000帯が主戦場で、ナレッジ管理単体に¥3,000払う層は薄い。LLM API原価で粗利が圧迫されARPU確保が難しい。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "日本のホワイトカラー約3,000万人、うち情報整理ニーズが顕在化しているナレッジワーカー層は数百万規模と推定。ただし有料ナレッジツールに月¥2,000以上払う個人層は数万〜十万単位と限定的。市場規模統計の直接根拠は検索で未確認。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "Qiita/Zenn/note発信、X個人発信、Chrome Web Store/App Store経由のPLGは可能だが、無料NotebookLM/既存Notion AIに対する優位を発信し続ける必要がありCAC高め。ナレッジ管理は「使ってみないと価値が伝わらない」カテゴリで体験設計のハードルが高い。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "Recall本家がすでに日本語UI対応のiOSアプリを展開、NotebookLMが2026 I/Oで自律リサーチ・動画生成を実装、Notion AIが日本語精度を大幅向上と、本家とビッグテックが既に進出済み。猶予はほぼ無く参入タイミングとしては遅い。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "コンテンツキャプチャ(Web/Podcast/YouTube抽出)・LLM料金管理・ストレージコスト・ブラウザ拡張のメンテ(Chrome更新で頻繁に壊れる)・ベクトルDB運用と運用負荷は高め。SLA期待値も学習用途のため24/7必須ではないが、検索結果のリコール率に対するクレーム対応は重い。"
+      }
+    },
+    "rationale": "事業性は厳しい。日本人の有料ナレッジSaaS課金嗜好は標準だが、無料のNotebookLMと既契約のNotion AIが直接競合し、Recall本家の日本進出も完了済みでタイミング差はほぼゼロ。LLM API原価が粗利を圧迫し、個人開発者が月¥3,000で粗利を取れる帯域は限定的。GTMはPLG可能だが体験伝達コストが高く、Solo Opsはブラウザ拡張のメンテ負荷・各種コンテンツソースの仕様変化追従が継続的に発生。汎用ナレッジベースとして勝負する事業性は低く、明確な縦穴(資格学習・学術文献・縦書き和書など)に絞らないとARPU/CACが合わない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 月50件保存・GPT-4o miniのみ・基本要約",
+        "Pro: ¥1,980/月(年払¥1,500/月相当): 無制限保存・モデル選択・API",
+        "Power: ¥3,980/月: Bulk処理・MCP・優先サポート",
+        "学割: Pro 30% off(学生メール認証)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内で資格学習・研究・専門職向け学習を本気で行う個人(院生・研究者・士業学習者・専門書多読層)。NotebookLMでは物足りない『和書/論文/縦書きPDF/引用フォーマット』を求める層に絞る。汎用ユーザーは狙わない。",
+      "target_count": 200000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 1500000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiitaで『NotebookLMで足りない部分を自作した記録』連載",
+      "X個人発信(学術Twitter/資格垢インフルエンサー連携)",
+      "Chrome Web Store SEO(『PDF 要約 日本語』『論文 ナレッジ』キーワード)",
+      "noteで院生・研究者向けユースケース解説(引用整形/CiNii連携)",
+      "資格学校・大学院ゼミでの口コミ獲得(Free無制限のオファー)"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "NotebookLMが和書PDF/引用整形まで実装すれば差別化点が消滅、本家GoogleのI/O更新で半年単位で機能が追いつく",
+      "LLM API原価(GPT-5.4/Claude)が想定ARPU¥1,500を上回るヘビーユーザーが赤字化、トークン制限設計を誤ると粗利マイナス",
+      "ブラウザ拡張/Podcast/YouTube抽出が各プラットフォーム規約変更で頻繁に壊れる継続メンテ負荷",
+      "Recall本家が日本語ローカライズを深化(¥課金/和書対応)させた瞬間、個人開発の差別化点が消える",
+      "ナレッジ管理SaaSはアクティブ率が下がりやすく、解約率が高くLTVが伸びない構造的課題"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}

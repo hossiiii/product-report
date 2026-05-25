@@ -1,0 +1,224 @@
+{
+  "name": "Interactive Simulations in Gemini",
+  "description": "Gemini now lets you play with the concepts you ask about",
+  "ph_url": "https://www.producthunt.com/products/gemini-6/launches/interactive-simulations-in-gemini?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/XS63JGHVTSXRSG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-04-12T07:01:00Z",
+  "upvotes": 417,
+  "comments": 9,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Online Learning"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>Hi everyone!<br><br>It’s crazy how much faster we learn when we can actually touch the information. This small feature in <a href=\"https://www.producthunt.com/products/gemini-6\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"gemini-6\" target=\"_blank\" rel=\"noopener\">@Gemini</a> app is excellent for deeply understanding complex knowledge, or really information more broadly.<br><br>I have to say, the human brain is still deeply impressed by visuals and hands-on play. It just makes things stick so much better than reading a wall of text.<br><br>I asked Gemini to visually explain NASA's Artemis II mission…</p><img src=\"https://ph-files.imgix.net/6c9f5c7f-7083-4990-8a04-4353828aef2e.png?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p>…and already having fun with my kid this weekend :)</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<img src=\"https://ph-files.imgix.net/d3547961-d4e3-402e-810f-714bc2312bfd.png?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p>Wow, I am super novice at math and physics but I can barely understand how it works now with pictures. In my personal opinion, pictures are the most effective way to learn like super novice beginners. Nice Gemini! </p><p></p><p>I actually have used Gemini for more than at least 4years because I am huge fan of  Google. However Google lost the little bit of momentum and fresh,creative culture somewhat different from the 1st starter CEO. I personally missed them. </p><p></p><p>However this function is awesome! I actually cancelled today the Gemini pro because I was short of money. But I will reconsider to use it in the future. Great works Google! Go in right way sir. </p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "I am only getting images 😞. Kinda the same every other FMP does it.\n\nAm I doing something wrong? Actually using the keywords.",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Gemini can now transform complex topics into custom, interactive 3D visualizations directly within your chat. Instead of static text, get functional simulations you can manipulate in real-time. Just ask Gemini to “show me” or “help me visualize.”",
+  "featured_at": "2026-04-12T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/dec29bf9-44dc-4588-a3dd-a5b0190ef2d7.avif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0092dfa5-f36a-400e-b719-422f822e2fe2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/af98a198-9ffe-416a-87dd-48378a649f5c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/21967d36-86b2-436c-b31b-4659964e25c0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/691d8cf3-99db-4f7a-b442-6cde1e2c23e7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d7408825-46ed-4ee9-9014-fcff4b52e948.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3d544b5a-aba2-4d74-8f3d-05ef5a564f16.png"
+    }
+  ],
+  "ph_enriched_at": "2026-05-26T06:04:17",
+  "landing_meta": "Generate 3D models and interactive charts with the Gemini app — Gemini can now transform your questions and complex topics into custom and interactive visualizations.",
+  "landing_text": "Generate 3D models and interactive charts with the Gemini app Gemini can transform your questions and complex topics into custom and interactive visualizations — directly within your chat. Previously, responses were largely just text with static diagrams. Now, we’re delivering functional simulations that can help you better understand the topic you’re asking Gemini about. Whether you’re rotating a molecule or simulating a complex physics system, you can explore further with just one prompt. When exploring how the moon orbits the Earth, you aren't stuck with a fixed diagram. You can manually adjust sliders or input exact numbers for initial velocity and gravity strength to instantly see how those specific variables create a stable orbit. This feature is now rolling out globally to all Gemini app users. 1 Head to gemini.google.com and select the Pro model in the prompt bar, then ask Gemini to “show me” or “help me visualize” a complex concept so you can see for yourself. 1 Not yet available for Education and Workspace accounts POSTED IN: Related stories Let’s stay in touch. Get the latest news from Google in your inbox. Subscribe No thanks",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-05-26T06:04:18",
+  "description_ja": "Geminiが複雑な概念を対話型3Dシミュレーションに変換、チャット内で操作可能に",
+  "summary_ja": "Geminiアプリに追加された機能で、「見せて」と頼むだけで複雑な物理・化学・天文などの概念を、スライダーで変数を操作できるインタラクティブな3D可視化として生成する。Pro モデル向けに全ユーザーへ段階展開中。",
+  "tldr_ja": "本家Gemini/ChatGPT/Claudeが同機能を実装済みで個人開発の差別化余地ゼロ、教育系はatama+/Qubenaが寡占、skip推奨",
+  "review_guide_ja": {
+    "what": "Gemini Pro モデルに「show me」「visualize」と指示すると、分子構造・惑星軌道・二重振り子・物理法則・フラクタルなど複雑な概念を、チャット内でその場で操作可能な3Dモデル/インタラクティブ図表に変換する機能。スライダーで初速・重力など変数を変えて挙動を即時確認できる。実体は GeminiがHTML/CSS/JSコードを生成してiframeで実行する仕組みで、Canvas / Artifacts と思想は同じ。教師・学習者・個人開発者向けのプロトタイピング用途を想定。Education/Workspace アカウントは展開外。",
+    "for_who": "学習者(中高生〜大学生、社会人リスキリング)、教育コンテンツ制作者、自己学習で複雑概念を理解したい開発者、子供に説明したい保護者、概念を素早く可視化したいプロダクトマネージャー等。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "技術的にはThree.js + LLMでHTMLサンドボックス生成すれば作れるが、Gemini/ChatGPT/Claudeすでに同等機能を無料〜¥3,000/月で提供、個人開発でユーザーが乗り換える理由を作れない。"
+    },
+    "signals": [
+      "Qiita/HelenTech/ASCII/ITmediaなど主要日本テック媒体が即日記事化、関心度は高い",
+      "PhET日本語版が教員研修で既に普及、可視化教材ニーズの存在は実証済",
+      "OpenAI Canvas→Claude Artifacts→Gemini と3週間で出揃った=競争の激しさを示す",
+      "Education/Workspaceは未対応で、学校向け正式展開には時間差あり",
+      "Pro契約者向け先行=有料転換のドライバーとして本家が位置付け"
+    ],
+    "concerns": [
+      "本機能は単体プロダクトではなくGeminiアプリの一機能で、個人開発者が直接競合できる対象ではない",
+      "ChatGPT Canvas / Claude Artifacts と機能が事実上同等で、ユーザーは既に契約中のサービスで完結する",
+      "国内教育市場はatama+/Qubena/Monoxer/ClassiがB2B営業で既に押さえており、PLGで個人が侵食する隙が小さい",
+      "PhETという無料OSSが日本語訳済みで物理/化学の標準教材として教員研修で普及している",
+      "教育機関のIT調達は人脈・代理店経由が中心、個人開発者がリーチしづらい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Qiita・HelenTech・ASCII・ビジネス+IT・innovatopia等で発表当日に記事化され関心は確認できるが、可視化教材ニーズはPhET等で既に部分的に満たされており、爆発的な顕在需要というより便利機能の追加レベル。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "本家Gemini自身に加えChatGPT Canvas・Claude Artifactsが同機能、PhET(無料OSS日本語訳済)、AI教材ではatama+/Qubena/Monoxer/Classiが寡占、個人開発の差別化余地はほぼ無い。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "可視化教材自体に直接かかる規制はほぼ無し。個人情報を扱う場合は個情法、子供向けに広告を出すと景品表示法/特定電子メール法の通常配慮で済む。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "本家Geminiが既に日本語UI/出力に対応。指導要領準拠の用語(中3物理など)や和文プロンプト最適化など微調整は必要だが構造的に重い改修ではない。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "学校・塾の調達は紙資料/代理店経由が依然強く、汎用AI機能のPLGで届きにくい。個人/塾講師向けには浸透余地あるが大規模B2Bは人脈勝負。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Gemini (Google本家)",
+        "url": "https://gemini.google.com/",
+        "note": "対象プロダクトそのもの。Pro月額3,000円弱で日本でも全機能を日本語で利用可能。個人開発が乗り越える対象が本家になる根本構造。"
+      },
+      {
+        "name": "ChatGPT Canvas (OpenAI)",
+        "url": "https://chatgpt.com/",
+        "note": "2026年3月にインタラクティブ可視化拡充。日本でChatGPT Plus契約者多数。月額20ドルで類似機能を提供済。"
+      },
+      {
+        "name": "Claude Artifacts (Anthropic)",
+        "url": "https://claude.ai/",
+        "note": "HTML/JSアーティファクトをチャット内で即実行可能。日本のエンジニア層に人気で教育用途にも転用される。"
+      },
+      {
+        "name": "PhET (コロラド大学)",
+        "url": "https://phet.colorado.edu/ja/",
+        "note": "無料・OSSの理科シミュレーション。日本語訳済(高知工科大訳)、三重県等で教員研修教材として実績、文科省関連の学校でも使用例。"
+      },
+      {
+        "name": "atama+ (atama plus)",
+        "url": "https://www.atama.plus/",
+        "note": "国内AI個別最適化教材の代表格。約4,000教室で導入、学習塾・大学入学前教育まで拡大、フランチャイズも展開。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "学習履歴・解答ログを保存する場合は個情法対応必須。匿名化/利用目的明示/委託先管理(LLM API利用時)で通常運用範囲。"
+      },
+      {
+        "law": "景品表示法/特定電子メール法",
+        "impact": "教材として効果を訴求する場合は誇大表現NG。LINE等での販促配信は事前同意取得必須。標準的なEdTech運用と同等。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "教材化に既存教科書図版を学習元として使うとリスク。生成物の著作権帰属とユーザーへの利用許諾範囲を明示する利用規約整備が必要。"
+      }
+    ],
+    "opportunity": "本家機能の単純な模倣は不可。日本独自の角度を取るなら(a)文科省指導要領の単元名・用語に厳密準拠し中高教科書の章ごとに紐づくシミュレーションテンプレ集、(b)塾講師が授業中に5秒で出せる即時生成UI(板書連動)、(c)子供の理解度を可視化し保護者にレポーティングする家庭向け、のいずれかにスコープを狭める方向。PhETに無い「指導要領タグ付け×AI即時生成」が唯一の差別化軸。",
+    "rationale": "日本市場での需要シグナル(媒体反応・PhET実績・atama+普及)は確認できるが、対象プロダクト自体が世界トップ3社の汎用AIに既に内蔵された機能であり、個人開発者が直接代替する余地は実質的にない。日本独自の文脈(指導要領準拠、教科書連動、塾講師ワークフロー)に絞ればニッチは残るが、それも教育市場の調達慣行(代理店・教委ルート)に阻まれB2B営業負荷が大。市場機会としては『観察するが、本家機能の延長線では参入しない』が妥当。watch相当だが、事業として推奨する強さは弱め。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "ユーザーは既にChatGPT/Gemini/Claudeに月¥3,000程度払っており、同じ可視化を別途有料アプリで買う動機が薄い。塾向けB2Bなら教室単位課金は可能だが個人開発の射程外。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内教育産業約2.86兆円、EdTechは2027年に3,600億円見込みと大きいが、本機能の差別化領域(指導要領連動シミュ)に絞ると現実獲得は数千万〜数億円圏で中庸。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "Qiita/Zenn/Xでの個人発信は可能だが、本家ChatGPT/Geminiで同じことができる以上『なぜそれを使うか』を訴求できず、PLGコンバージョンは厳しい。学校B2Bは個人にハードル高。"
+      },
+      "timing": {
+        "score": 1,
+        "reason": "本家3社(Gemini/ChatGPT/Claude)が2026年3-4月に同機能を出揃わせた直後で、参入時間窓は事実上閉じている。後追いで勝つ材料が見当たらない。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "Webアプリ+LLM API+Stripeで構成すれば運用負荷は軽い。ただしLLM APIコストがARPU圧迫、サポート問合せは教育系で多くなりがちなので完全手離れは難しい。"
+      }
+    },
+    "rationale": "事業成立性は明確に弱い。最大の課題は『タイミング』で、本家3社が同機能を出揃わせた直後に個人開発が後追いするのは合理性に欠ける。日本独自レイヤー(指導要領タグ付け・教科書連動)に絞れば差別化は描けるが、その瞬間に顧客が学校/教委/塾本部というB2Bになり、個人開発のGTM適性が一気に落ちる。マネタイズも本家サブスクとのカニバリで突き抜けにくい。市場規模だけは教育産業全体として十分あるが、個人開発が現実に取れるパイは月商数十万〜数百万円圏。solo_opsだけが救いだが、それ単独では事業継続を正当化できない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 980,
+      "plans": [
+        "Free: 月10回までシミュレーション生成、指導要領タグなし",
+        "Personal: ¥980/月 無制限生成、教科書単元タグ付け、PDF/動画書き出し",
+        "Pro教師: ¥2,980/月 クラス共有URL、生徒理解度ダッシュボード、最大40名"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "中学・高校理科教員、個人指導塾講師、家庭学習で子の理解を補強したい保護者。学校B2Bは射程外として、PLGで個人課金できる教師/講師/保護者に絞る。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 245000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『指導要領XX単元をGeminiで可視化』連載、検索流入を3年積む",
+      "X(教員アカウント・塾講師アカウント)向け週1ショート動画で5秒生成を実演",
+      "noteで保護者向け『理科がわからない子に見せる5分シミュレーション集』連載",
+      "PhETを使っている教員コミュニティへの『AI即時生成版』としての差し込み"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "本家Gemini/ChatGPT/Claudeが指導要領タグ付けや教科書連動を自社で実装すると差別化が消える(時間窓6ヶ月程度を想定)",
+      "LLM APIコストが想定ARPU¥980を食い潰し赤字運用になるリスク。生成回数制限とプロンプト最適化が必須",
+      "教育系ユーザーは『誤答を表示するシミュレーション』に厳しく、品質クレーム対応負荷が個人運用を圧迫しがち",
+      "学校・塾本部の調達は代理店経由が支配的で、個人開発のPLGがB2Bに刺さらない可能性が高い",
+      "PhETという無料OSSの存在感が強く、有料化への心理障壁を作りやすい"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-05-25T12:00:00Z",
+  "review_guide_at": "2026-05-25T12:00:00Z",
+  "business_viability_at": "2026-05-25T12:00:00Z",
+  "advisor_view_at": "2026-05-25T12:00:00Z"
+}
