@@ -1,0 +1,244 @@
+{
+  "name": "SocialEcho 2.0",
+  "description": "AI social media copilot for teams and agents",
+  "ph_url": "https://www.producthunt.com/products/socialecho?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/CRXS4B2XRMZLD2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-01T07:01:00Z",
+  "upvotes": 388,
+  "comments": 132,
+  "topics": [
+    "Social Media",
+    "Marketing",
+    "SaaS"
+  ],
+  "makers": [
+    {
+      "id": "9198192",
+      "name": "Samuel Kuang",
+      "twitterUsername": "SocialEcho_2025",
+      "headline": "Co-founder of SocialEcho."
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt — Samuel here, one of the makers behind SocialEcho 👋</p><p></p><p>Most social tools help you schedule posts. But the real pain we kept hearing from growth teams was bigger: keeping content, engagement, and reporting consistent across many brands, accounts, and platforms.</p><p></p><p>So we built SocialEcho — an AI social media copilot for teams running sophisticated campaigns across multiple brands, accounts, and channels.</p><p></p><p>With SocialEcho, teams can:</p><p>→ See what’s trending and create on-brand content&nbsp;&nbsp;</p><p>→ Adapt one post for every platform&nbsp;&nbsp;</p><p>→ Publish, measure, and improve from one workspace&nbsp;&nbsp;</p><p>→ Manage comments, messages, and mentions in one inbox&nbsp;&nbsp;</p><p>→ Give AI agents secure access to social workflows through official APIs</p><p></p><p>The part we care about most: SocialEcho is built on official social APIs — no browser bots, no cookie injection, and no risky workarounds.</p><p></p><p>We’re building this for growth teams, agencies, brand marketers, and AI agent builders who need social operations to be safer, more consistent, and more automated.</p><p></p><p>🎁 Product Hunt launch offer: get up to $1,888 in bonus credits during launch week.</p><p></p><p>Question for you:</p><ul><li><p>Which part of social media ops would you trust an AI agent with first — content, publishing, engagement, or analytics?</p></li></ul><p></p><p>Roasts and feature requests are welcome. We’ll be here all day.</p>",
+      "votesCount": 13,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Is this you? Copying the same content to post across socials like X, Threads, and LinkedIn manually across three tabs?</p><p></p><p>Coz yeah, that's me. Still! 🤓</p><p></p><p>Which is why<a href=\"https://www.producthunt.com/@eexlkuang_se\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@eexlkuang_se</a> built <a href=\"https://www.producthunt.com/products/socialecho\" target=\"_blank\" rel=\"noopener\">@SocialEcho 2.0</a>: so your AI agent can do that, plus all the boring plumbing that maintaining a social presence requires these days: <strong>publish, monitor, analyze, and route social workflows across Facebook, Instagram, X, TikTok, YouTube, LinkedIn, Reddit, and more.</strong></p><p></p><p>SocialEcho actually adapts your content to fit the audience expectations of each platform, so you can start with the message, and SocialEcho will tune the posted format to not stand out like a slop-stained sore thumb.</p><p></p><p>SocialEcho didn’t start as just “another social scheduler.” Instead, it grew out of tens of thousands of cross-border sellers and agencies managing many brands, accounts, and languages at once. So platform-specific adaptation is at its core.</p><p></p><p>I appreciate they’re using <em>official social APIs</em> rather than sketchy browser-bot/cookie hacks (which are increasingly brittle thanks to the kind of <a href=\"https://blog.cloudflare.com/per-customer-bot-defenses/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Cloudflare defenses</a> Product Hunt and others are adopting). If you’re working with agents that need to handle social media, this is critical.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is interesting. What agent workflows are live today? Can they handle publishing, analytics, inbox triage, or all three?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "SocialEcho is an AI social media copilot for teams managing social campaigns across multiple brands, accounts, and channels. See what’s trending, create content that resonates, optimize posts for every platform, publish from one workspace, manage every conversation, and track what drives engagement. Built on official social APIs, SocialEcho gives AI agents like OpenClaw, Hermes, and custom automations a secure way to manage connected social accounts without brittle scraping or risky workarounds.",
+  "featured_at": "2026-06-01T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a46d573a-fa48-4dd6-a749-cc8e95c80938.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/54b054e6-c63e-4b07-ad9e-08170b816d53.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/83e8256c-9ab6-4e51-8280-08ebfe1c7f9c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e6e7b22f-cc7e-4267-b3ef-4e584c55413e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/39d9530e-4ff3-47c3-b06e-7d46b68cfda0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ab58a876-28de-40d6-ae87-df9de9cc404d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/72e55f8f-251a-4326-842a-e57e73aa486e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6b109679-38f3-4944-bc04-4c77c6941987.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0e4d0224-be4a-42f0-a218-6f953916f32c.png"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:18",
+  "landing_meta": "SocialEcho - All-in-One Social Media AI Workspace for Global Businesses — SocialEcho is the all-in-one social media AI workspace. Securely connect Facebook, Instagram, TikTok, YouTube, X, LinkedIn, Telegram via official APIs. Manage publishing, engagement, social listening, analytics, and AI automation in one place — built for creators, brand teams, and agencies. 7-day free trial, no credit card required.",
+  "landing_text": "SocialEcho - All-in-One Social Media AI Workspace for Global Businesses Live Now Get a 7-Day Free Trial Your Social Media AI Workspace Plan, engage, monitor, analyze, and automate with AI. Everything you need to grow your business. Start Your Free Trial 0 Active Users Worldwide 0 Posts Published 0 Platform Reliability One-Click Publish Launching to 10 platforms Live Facebook Instagram TikTok X YouTube LinkedIn Telegram Pinterest Reddit Threads 10 /10 AI Message Reply Comments · DMs · @mentions Auto @ Sophie How do I get the 30% discount? Thanks for asking! Use code WELCOME30 at checkout ✨ @ Marco Does it ship to Europe? Yes! Free EU shipping on orders over €50 🚀 AI is replying Post Monitoring 247 posts tracked · real time @nike Brand mention +43 MrBeast Competitor post +128 #summer24 Keyword trending +891 One-Click Publish Launching to 10 platforms Live Facebook Instagram TikTok X YouTube LinkedIn Telegram Pinterest Reddit Threads 10 /10 AI Message Reply Comments · DMs · @mentions Auto @ Sophie How do I get the 30% discount? Thanks for asking! Use code WELCOME30 at checkout ✨ @ Marco Does it ship to Europe? Yes! Free EU shipping on orders over €50 🚀 AI is replying Post Monitoring 247 posts tracked · real time @nike Brand mention +43 MrBeast Competitor post +128 #summer24 Keyword trending +891 Recognized by Leading Platforms P Why does managing social media get harder as you scale? Publishing becomes grunt work The same content has to be posted across multiple platforms manually, eating up 3–5 hours every day. Repetitive cross-posting drains your time Messages are scattered everywhere Comments and DMs are trapped in separate platform dashboards. Customers wait too long and opportunities slip away. Scattered messages, lost opportunities Data never tells the full story Each platform has its own format, so pulling reports takes days and decisions are based on guesswork. Fragmented data, blind decisions It's not a skills problem. It's a tools problem. Flexible Pricing, P",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "yearly plan",
+    "pricing",
+    "free plan",
+    "premium",
+    "$0",
+    "$10",
+    "$15",
+    "$6",
+    "$9",
+    "$11"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:18",
+  "description_ja": "チームとAIエージェント向けの、複数ブランド・複数SNSを横断管理するAIソーシャル運用コパイロット。",
+  "summary_ja": "Facebook/Instagram/X/TikTok/YouTube/LinkedIn等を公式APIで連携し、トレンド把握・投稿生成・各プラットフォーム最適化・公開・受信箱統合・分析を1ワークスペースで完結。AIエージェントに安全な社内SNS操作権限も付与できる、代理店・複数ブランド運用向けの統合ツール。",
+  "tldr_ja": "国内SNS運用ツールはSocialDog等で飽和、X API高額化も逆風。代理店向け多ブランド統合という角度なら検討余地だが個人開発では厳しい。",
+  "review_guide_ja": {
+    "what": "複数ブランド・複数アカウントのSNS運用を1ワークスペースに統合するAIコパイロット。主機能は(1)トレンド把握とオンブランドなコンテンツ生成、(2)1本の投稿を各プラットフォーム仕様に自動最適化、(3)Facebook/Instagram/X/TikTok/YouTube/LinkedIn/Telegram/Pinterest/Reddit/Threads等への一括公開、(4)コメント/DM/メンションを単一受信箱で管理しAI自動返信、(5)ブランドメンション・競合・キーワードのリアルタイム監視、(6)分析レポート。さらにOpenClaw等のAIエージェントに公式API経由で安全な操作権限を付与できる点が差別化。スクレイピングやCookie注入を使わず公式APIのみで動作する設計を強調。典型ユースは越境ECセラーや代理店が多ブランド・多言語アカウントを同時運用するケース。",
+    "for_who": "グロースチーム、SNS運用代理店、複数ブランドを抱えるブランドマーケター、SNS操作を自動化したいAIエージェント開発者。特に越境EC・複数言語アカウントを並行運用する事業者を主眼に設計されている。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "10プラットフォーム分の公式API審査・トークン管理・レート制限対応に加え、X APIは投稿課金や審査が重く、Meta系も都度レビューが必要。受信箱統合とAI返信の品質維持も継続工数が大きい。"
+    },
+    "signals": [
+      "PH初日で388 upvotes・132コメントと反応良好、越境EC/代理店という具体的な原体験ストーリーがある",
+      "公式APIのみ利用でスクレイピング規制・ボット対策の影響を受けにくい設計を明確に訴求",
+      "AIエージェントへのSNS操作権限付与という新しい需要層（agent builder）を取り込もうとしている"
+    ],
+    "concerns": [
+      "投稿スケジューラ+受信箱+分析という構成は世界的にもレッドオーシャンで差別化が薄い",
+      "10プラットフォームの公式API維持コスト（特にX APIの課金・審査）が個人/小規模では重い",
+      "AI自動返信は誤返信・ブランド毀損リスクがあり、無人運用の信頼性確保が難しい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内ソーシャルメディアマーケティング市場は2024年で約1.2兆円、運用支援/分析ツール向けだけでも451億円規模と需要は明確。複数SNS横断運用やAI投稿生成の需要シグナルも比較記事・ツール多数で顕在。ただしAIエージェント連携という尖った訴求への国内需要は未確認。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "SocialDog（国産シェアNo.1、登録100万超）、いいねAI（IT導入補助金対象・公式認定）、comnico、Hootsuite等が既に飽和状態。AI投稿生成ツールも2026年版比較で15製品以上が乱立。同一機能では完全な後発で参入余地が極めて狭い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "ステマ規制(景表法、2023/10施行)は広告主側の表示義務でツール自体は直接対象外だが、AI自動返信が販促表示を含むと運用者に表示義務が及ぶ。各SNS公式APIの利用規約遵守が必須で、X APIは2026年からURL付投稿に高額課金。法令そのものより各APIポリシーが実装制約。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI日本語化やAI生成文の自然な日本語対応は必要だが技術的には可能。一方、国内主力のX/Instagram/LINE/TikTok運用慣行への調整や、日本語特有のトーン&マナー学習（いいねAIが強みとする領域）まで詰めると相応のUX改修が要る。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のSNS運用は代理店への外注（月20〜100万円）や属人的な手運用が根強く、無人AIエージェント運用への信頼は低い。受信箱統合もLINE公式アカウント連携が国内では重要だが対応が薄く、商習慣フィットは限定的。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "SocialDog",
+        "url": "https://social-dog.net/",
+        "note": "国産SNS管理ツールのシェアNo.1、登録アカウント100万超。X中心に予約投稿・分析・複数アカウント管理。月額¥3,500〜¥48,000。日本語UIとX Enterprise API契約による安定運用が強み。"
+      },
+      {
+        "name": "いいねAI",
+        "url": "https://iine-ai.com/",
+        "note": "CHANGE社の国産AI SNS運用ツール。YouTube/Instagram/X/TikTok公式認定、日本語トーン学習が強み。月額1万円〜でIT導入補助金対象。作業時間93%削減を訴求し中小・店舗系に実績。"
+      },
+      {
+        "name": "Hootsuite",
+        "url": "https://www.hootsuite.com/",
+        "note": "海外発の主要マルチSNS一括管理。AI Writerで投稿生成、10アカウント運用可。機能は近いが日本語非対応がネックで国内浸透は限定的。SocialEchoの直接競合に最も近い海外勢。"
+      },
+      {
+        "name": "comnico Marketing Suite",
+        "url": "https://www.comnico.jp/",
+        "note": "国産の法人向けSNS一元管理。X/Instagram/Facebook/TikTok対応で投稿管理・効果測定。代理店・大企業向けに導入実績があり、複数ブランド運用という点でSocialEchoと競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法（ステマ規制）",
+        "impact": "2023/10施行。広告であることを隠した表示を規制。規制対象は表示内容を決定した広告主だが、AI自動返信やAI生成投稿が自社商品の販促を含む場合、運用者に広告表示明示の義務が及ぶ可能性。ツール側に表示ガード機能があると訴求材料になる。"
+      },
+      {
+        "law": "各SNS公式API利用規約（X API等）",
+        "impact": "法令ではないが実装上の最大制約。X APIは2026/4よりURL付投稿に1件$0.20、Enterprise料金は非公開・高額。Meta系も都度アプリレビューが必要。10プラットフォーム維持には継続的な審査対応とAPIコスト負担が発生。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "受信箱でDM・コメントを集約しAIで処理する際、ユーザーの個人情報を取り扱うため適切な取得・保管・委託管理が必要。海外サーバ利用時は越境移転の説明義務。実務上は対応可能だが、無人AI処理ではログ・同意管理を丁寧に設計する必要。"
+      }
+    ],
+    "opportunity": "正面からの汎用SNS管理ツールは飽和のため勝ち目が薄い。角度を変えるなら(1)国内代理店が複数クライアント・多ブランドを切り替え運用する「マルチテナント受託運用」特化、(2)LINE公式アカウント連携を国内必須機能として厚く対応、(3)いいねAIが弱い越境EC/多言語ブランドのトーン最適化、(4)AIエージェント（Claude/独自bot）に安全な社内SNS操作権限を付与するMCP的ニッチ、のいずれか。ただしどれも国内需要の根拠が薄く、まずは海外/越境セラー向けに作り込み、日本は二次市場と割り切るのが現実的。",
+    "rationale": "市場規模そのものは大きく需要は顕在（demand 7）だが、SocialDog・いいねAI・comnico・Hootsuite等で国内は完全な飽和市場（competition 2）であり、SocialEchoの機能構成は明確な後発・差別化不足。規制は景表法・各API規約が運用制約として効くが致命的ではない（regulation 6）。日本語化・トーン最適化と国内SNS（LINE等）慣行への対応で相応のローカライズ工数（localization 5）、外注文化・無人AI不信という商習慣の壁（business_custom 4）も重い。総じて日本を主戦場とする魅力は乏しく、参入するなら代理店向け多ブランド/越境ECという狭い角度に絞る必要があり、汎用ツールとしての日本市場フィットは skip 相当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "SNS管理ツールは月額課金が定着しており、SocialDog¥3,500〜、いいねAI¥1万〜と課金実績はある。法人・代理店なら相応のARPU確保は可能。ただし無料ツール乱立と機能横並びで価格競争に陥りやすく、後発が単価を取りにくい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "運用支援/分析ツール向け国内需要は451億円規模で、SNS運用を行う企業・代理店・個人事業主は多数。TAMは十分だが、既存大手が大半を押さえており後発が取れる残余市場は限定的。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PLG自体は可能（SocialDogが好例）だが、後発で同じQiita/X発信・無料枠戦略を取っても既存勢のブランド・SEO・補助金認定に埋もれる。代理店向けは人脈・実績が必要で個人開発者のリーチが難しい。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "汎用SNS管理・AI投稿生成はすでに本家(Hootsuite/Buffer)も国産勢も実装済みで時間窓はほぼ閉じている。AIエージェント連携という尖りも各社が追随中で、先行者利益はほとんど期待できない。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "10プラットフォーム分の公式API変更・障害・レート制限への即応、AI自動返信の誤動作監視、SLA期待の高い法人顧客対応が必要で、ほぼ24/7体制が要る。X API課金変動などコスト管理も継続負荷が大きく個人運用は極めて困難。"
+      }
+    },
+    "rationale": "課金嗜好(monetization 5)とTAM(market_size 6)は悪くないものの、後発ゆえGTMで既存勢のブランド・SEO・IT導入補助金認定に勝てず(gtm 4)、汎用SNS管理という時間窓はほぼ閉じている(timing 3)。最大の問題はsolo_ops 2で、10個もの公式APIの仕様変更・障害・課金変動への即応、AI自動返信の品質監視、法人顧客のSLA期待を個人/小規模で支えるのは現実的でない。X APIの2026年課金強化はランニングコストと運用負荷を直撃する。事業として日本で個人開発で立ち上げるのは難度が高く、business_viabilityは低評価。仮にやるなら対応プラットフォームを2〜3に絞り、無人AIではなく半自動の運用支援に振って運用負荷とリスクを下げる必要がある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 6000,
+      "plans": [
+        "Free: 1ブランド・月50投稿・2SNS連携・予約投稿のみ",
+        "Pro: ¥6,000/月 — 3ブランド・主要3SNS・AI投稿生成・受信箱統合",
+        "Agency: ¥30,000/月 — 多ブランド/マルチテナント・メンバー権限・分析レポート",
+        "Enterprise: 個別見積 — API従量分実費転嫁・SLA・専用サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内のSNS運用代理店・制作会社で、複数クライアントの多ブランドアカウントを横断運用する小〜中規模事業者。および越境EC・多言語アカウントを並行運用する事業者。汎用層は既存大手が押さえているため、代理店マルチテナント運用という狭い層に絞る。",
+      "target_count": 8000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 480000
+    },
+    "recommended_gtm": [
+      "X個人発信＋ビルドインパブリックで開発者/代理店層に認知（根拠: SocialDog等のPLG実例）",
+      "代理店・制作会社向けに多ブランド切替の実演デモと無料枠でランドエクスパンド",
+      "越境EC/多言語運用の事例コンテンツをnote/Qiitaで発信し既存ツールの空白を突く",
+      "IT導入補助金の対象認定取得を狙い中小・代理店の導入障壁を下げる（いいねAI先行例）"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "国内は完全飽和。SocialDog・いいねAI・comnico・Hootsuite等に対し機能差別化がなく、後発が認知・SEO・補助金認定で埋もれて顧客獲得できない。",
+      "10プラットフォーム分の公式API維持が個人/小規模に過大。X APIは2026/4よりURL付投稿課金、Enterprise非公開高額で、API仕様変更・障害対応に24/7体制が必要。",
+      "AI自動返信の誤返信・ブランド毀損リスク。無人運用への国内顧客の信頼が低く、品質監視を外せず手離れしない。",
+      "法人/代理店顧客はSLA・サポート期待が高く、個人運用ではカスタマーサクセス負荷を支えきれない。",
+      "APIコストが投稿量に連動して変動し、薄い後発ARPUでは粗利を圧迫して採算割れしやすい。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

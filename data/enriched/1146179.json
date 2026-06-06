@@ -1,0 +1,596 @@
+{
+  "name": "Oasis Browser for Mac",
+  "description": "A privacy-first AI browser you can train anonymously",
+  "ph_url": "https://www.producthunt.com/products/kahana?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/UHWTQ5ARCQU6DH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-27T07:01:00Z",
+  "upvotes": 281,
+  "comments": 83,
+  "topics": [
+    "Productivity",
+    "Privacy",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "9818798",
+      "name": "VRUKSHA JOSHI",
+      "twitterUsername": null,
+      "headline": "An enthusiast. "
+    },
+    {
+      "id": "9835671",
+      "name": "Krishna Samhitha",
+      "twitterUsername": null,
+      "headline": "Product Manager"
+    },
+    {
+      "id": "9807233",
+      "name": "Ruhani Vinzuda",
+      "twitterUsername": null,
+      "headline": "Animation Designer & Creative Builder"
+    },
+    {
+      "id": "4638268",
+      "name": "Adam Kershner",
+      "twitterUsername": "adam_kershner",
+      "headline": "Co-Founder @ Kahana"
+    },
+    {
+      "id": "8978030",
+      "name": "Likhitha Guggilla",
+      "twitterUsername": null,
+      "headline": "Kahana"
+    },
+    {
+      "id": "8978217",
+      "name": "RajRajeshwari Gaware",
+      "twitterUsername": null,
+      "headline": "Aspiring Product Manager "
+    },
+    {
+      "id": "8666575",
+      "name": "Hritik Chalse",
+      "twitterUsername": null,
+      "headline": "GTM"
+    },
+    {
+      "id": "8987194",
+      "name": "Mohammed Muneebuddin",
+      "twitterUsername": null,
+      "headline": ""
+    },
+    {
+      "id": "8991077",
+      "name": "Aishwarya Shetiya",
+      "twitterUsername": null,
+      "headline": "Product strategist focused on clarity"
+    },
+    {
+      "id": "8995386",
+      "name": "Sanku Rajshree Rao",
+      "twitterUsername": null,
+      "headline": "Everyday challenges → smart tools"
+    },
+    {
+      "id": "8998725",
+      "name": "Sonali Ankolikar",
+      "twitterUsername": null,
+      "headline": "Strategic storyteller"
+    },
+    {
+      "id": "8990780",
+      "name": "Pournami Pottekat",
+      "twitterUsername": null,
+      "headline": "product designer ✦ engineer"
+    },
+    {
+      "id": "9002345",
+      "name": "Astha Gupta",
+      "twitterUsername": null,
+      "headline": "Financial Analyst"
+    },
+    {
+      "id": "9002523",
+      "name": "Vedant Gupta",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "9003050",
+      "name": "Naveen Prashanna",
+      "twitterUsername": null,
+      "headline": "Techie"
+    },
+    {
+      "id": "9003168",
+      "name": "Revanth Ganga",
+      "twitterUsername": null,
+      "headline": "Data Scientist & Engineer"
+    },
+    {
+      "id": "9003444",
+      "name": "Udyan Sachdev",
+      "twitterUsername": null,
+      "headline": "AI/ML Specialist, Ex-HPE & Accenture"
+    },
+    {
+      "id": "9010026",
+      "name": "Palak",
+      "twitterUsername": null,
+      "headline": "Data Analyst and Storyteller"
+    },
+    {
+      "id": "9011644",
+      "name": "atharva joshi",
+      "twitterUsername": null,
+      "headline": "Building...."
+    },
+    {
+      "id": "9011467",
+      "name": "Rushyanth Nerellakunta",
+      "twitterUsername": null,
+      "headline": "AI/ML @ kahana"
+    },
+    {
+      "id": "8978364",
+      "name": "Shloka Hajare",
+      "twitterUsername": null,
+      "headline": "A curious case about startups "
+    },
+    {
+      "id": "9027604",
+      "name": "Shreyansh Agrawal",
+      "twitterUsername": null,
+      "headline": "Working at Kahana"
+    },
+    {
+      "id": "9034459",
+      "name": "Rishikes Ramachandran",
+      "twitterUsername": null,
+      "headline": "Project Manager"
+    },
+    {
+      "id": "9041345",
+      "name": "Rohan Mehere",
+      "twitterUsername": null,
+      "headline": "Product Manager | Sales Engineer"
+    },
+    {
+      "id": "9041724",
+      "name": "Dhruv Patel",
+      "twitterUsername": null,
+      "headline": "Building products that disrupt & delight"
+    },
+    {
+      "id": "9042883",
+      "name": "Nithish Sampath",
+      "twitterUsername": null,
+      "headline": "Product Manager"
+    },
+    {
+      "id": "9052158",
+      "name": "Afshaan Khan",
+      "twitterUsername": null,
+      "headline": "Learning.Analyzing.Building.Growing🧘🏻"
+    },
+    {
+      "id": "9053407",
+      "name": "Roshan kg",
+      "twitterUsername": null,
+      "headline": "Driving Product Growth"
+    },
+    {
+      "id": "9062616",
+      "name": "Saideep Pajjuri",
+      "twitterUsername": null,
+      "headline": "Building"
+    },
+    {
+      "id": "9101290",
+      "name": "Saket Sanjannagari",
+      "twitterUsername": null,
+      "headline": "Intern @ Kahana.co\n"
+    },
+    {
+      "id": "9105995",
+      "name": "Ashwin John",
+      "twitterUsername": null,
+      "headline": "M.S Computer Engineer | CSUF"
+    },
+    {
+      "id": "9121821",
+      "name": "Rohith Anthony AJ",
+      "twitterUsername": null,
+      "headline": "Business Analyst/Project Manager"
+    },
+    {
+      "id": "9139646",
+      "name": "navile mahesh",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "9142870",
+      "name": "Akansha",
+      "twitterUsername": null,
+      "headline": "Turning ideas into results!"
+    },
+    {
+      "id": "9165321",
+      "name": "Udit Agrawal",
+      "twitterUsername": null,
+      "headline": "Duke Fuqua MMS ’25 | Entrepreneur"
+    },
+    {
+      "id": "8866902",
+      "name": "Lokesh",
+      "twitterUsername": null,
+      "headline": "Aspiring Product Manager."
+    },
+    {
+      "id": "5589685",
+      "name": "Mukesh Basvekar",
+      "twitterUsername": null,
+      "headline": "Product Manager"
+    },
+    {
+      "id": "9387672",
+      "name": "Ravi Chandra Dasari",
+      "twitterUsername": null,
+      "headline": "Data Analyst @kahana"
+    },
+    {
+      "id": "9392328",
+      "name": "Srishti Goyal",
+      "twitterUsername": null,
+      "headline": "Business Enthusiast | Project Manager"
+    },
+    {
+      "id": "9392985",
+      "name": "Ankit Sai Allam",
+      "twitterUsername": null,
+      "headline": "Product-Focused Engineering Management"
+    },
+    {
+      "id": "9395971",
+      "name": "Ruturaj Marathe",
+      "twitterUsername": null,
+      "headline": "Software Engineer @Kahana"
+    },
+    {
+      "id": "9396209",
+      "name": "Ammemah Naeem",
+      "twitterUsername": null,
+      "headline": "2x Founder; AI Product & Project Manager"
+    },
+    {
+      "id": "9399224",
+      "name": "Yaseer Meera",
+      "twitterUsername": null,
+      "headline": "Product Manager."
+    },
+    {
+      "id": "9395872",
+      "name": "Hasan Bohra",
+      "twitterUsername": null,
+      "headline": "AI Solutions Engineer"
+    },
+    {
+      "id": "9435874",
+      "name": "Bharadwaj Manikandan",
+      "twitterUsername": null,
+      "headline": "Duke University | Ex-Duracell | Engineer"
+    },
+    {
+      "id": "9436102",
+      "name": "Saksham Mehta",
+      "twitterUsername": null,
+      "headline": "AI-focused product builder"
+    },
+    {
+      "id": "9436245",
+      "name": "Rashmi Kadwani",
+      "twitterUsername": null,
+      "headline": "Product & GTM operator"
+    },
+    {
+      "id": "9436321",
+      "name": "Archana Ramalingam",
+      "twitterUsername": null,
+      "headline": "Product Manager @ Kahana"
+    },
+    {
+      "id": "9444300",
+      "name": "Samyak Jain",
+      "twitterUsername": null,
+      "headline": "On the path to becoming a product leader"
+    },
+    {
+      "id": "9463330",
+      "name": "Lalith Avinash  Donkina",
+      "twitterUsername": null,
+      "headline": "Full Stack Developer, ML Enthusiast"
+    },
+    {
+      "id": "9483077",
+      "name": "Alisha Reji",
+      "twitterUsername": null,
+      "headline": "Making tech feel human :)"
+    },
+    {
+      "id": "9487831",
+      "name": "Preetika Singh",
+      "twitterUsername": null,
+      "headline": "Product Manager"
+    },
+    {
+      "id": "9507447",
+      "name": "Harika Kurra",
+      "twitterUsername": null,
+      "headline": "Exploring products!"
+    },
+    {
+      "id": "9527495",
+      "name": "Sudhire Rahul Karunkaran",
+      "twitterUsername": null,
+      "headline": "I build AI stuff"
+    },
+    {
+      "id": "9540599",
+      "name": "Hasitha Sigatapu",
+      "twitterUsername": null,
+      "headline": "Data Operational Analyst "
+    },
+    {
+      "id": "9557265",
+      "name": "Pallavi M",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "9741793",
+      "name": "Jaideep Kulkarni",
+      "twitterUsername": null,
+      "headline": "Co-founder and Storyteller."
+    },
+    {
+      "id": "9663666",
+      "name": "Sushma EVS",
+      "twitterUsername": null,
+      "headline": "Learning and Building"
+    },
+    {
+      "id": "9443043",
+      "name": "Niraj Patil",
+      "twitterUsername": null,
+      "headline": "Founder @ Zeno - AI Spend Management"
+    },
+    {
+      "id": "9656077",
+      "name": "Pruthvi Upadhya",
+      "twitterUsername": null,
+      "headline": "Student at JSSATE-B"
+    },
+    {
+      "id": "9336603",
+      "name": "Preethi B K",
+      "twitterUsername": null,
+      "headline": "Exploring AI"
+    },
+    {
+      "id": "2749742",
+      "name": "Jonathan Gans",
+      "twitterUsername": "Jonathan_Gans1",
+      "headline": "Venture Relations @ AngelList"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "We built Oasis because the browser stopped feeling like a calm place to think. It felt loud, scattered, and a little too eager to take more than it gave back. We wanted a refuge. A privacy first experience where the interface stays elegant, and AI is there to amplify you, not replace your judgment. Your data is your data. Period.\n\nAlong the way we kept returning to one idea: the browser should learn you, not the other way around. So we focused on a simple loop you can feel day by day. Teach Oasis what matters to you, correct it when it misses, and it gets smarter, faster, and more accurate for your real workflows.\n\nIf you try it, tell us what felt different in the first ten minutes. We are here for the honest feedback, and we are grateful you showed up on launch day.",
+      "votesCount": 29,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Super excited for launch of Oasis. I’ve worked on this browser from the very beginning, and seeing it reach Product Hunt is a really proud moment.</p><p>We set out to build a browser that feels different: no ads, privacy-first by design,  and AI-powered ergonomics that help users browse more comfortably and intelligently without adding unnecessary noise.</p><p>This has been a product shaped by a simple belief: the browser should work for the user, not against them. Can’t wait for people to try Oasis and hear what they think.</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>One thing I genuinely appreciate about Oasis is that it feels like it was designed to help me work, not compete for my attention. The zero ads part makes a bigger difference than I expected because there’s so much less visual noise pulling me in different directions.<br><br>I also get distracted pretty easily, and the overall aesthetic feels calm and intentional rather than overwhelming. It actually helps me stay aligned with what I’m supposed to be doing instead of opening 10 tabs and forgetting why I opened them in the first place..<br><br>Feels like a browser built to support focus, not distract from it..</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Oasis is a refuge from noisy, scattered browsing. Privacy comes first, in an elegant experience that AI makes feel lighter and more capable, not busier. Your data is your data. Period. As you train Oasis on what matters to you, it grows sharper, quicker, and truer to your everyday flow.",
+  "featured_at": "2026-05-27T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/b83aefb0-b6c2-408e-b4b8-9e4a0360e1d6.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5fb431eb-bf47-4ade-8e2b-b4f2338b70f7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/08452933-338f-4ad5-b94a-842f2eeb9eba.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b9d83428-f422-4d4d-95a1-50ea4e0c67f2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b4b999c7-12eb-4846-b8f2-f2bd54ebaa40.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/faf0b9ae-986f-45af-a6b0-e0ec5516bbe5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/65098048-e96a-4db3-b005-2908ff8cc57d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6b18dbb5-09d2-42a4-9cbd-bf81687d5d95.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2913854f-788e-44cc-8630-f43c39542ff3.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/ec6a6589-7b08-4604-b83c-fdc4916e519f.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:44",
+  "landing_meta": "Oasis Browser: Calm, secure browsing with AI | Kahana — Oasis Browser by Kahana offers calm, secure browsing with AI that understands your tabs and workflow, with focused work and enterprise-grade protection.",
+  "landing_text": "Oasis Browser: Calm, secure browsing with AI | Kahana Your online refuge Relaaax, you found the Oasis Fall in love with the privacy-first ai browser that you can train. Your personal data is sacred. By default, all interaction data is anonymized. See exactly what we collect · 5-min video Download Schedule a demo #4 Product of the Day on Product Hunt Thank you to everyone who supported Oasis on Product Hunt. See the launch page . Your Online Refuge. Your Terms. In a noisy, insecure web, we've built a sanctuary where your privacy is paramount, your focus is protected, and your data remains yours. Our promise: keep browsing calm, secure, and private so your focus stays on what matters. Forever. About Us Product details · For IT & teams 7,000+ Trusted Users Worldwide 108+ Countries served, and growing! 100% Ad-Blocking Controls Built for people who want transparency, peace of mind, and control over their data. Trusted by teams and organizations, large and small Testimonials Built for people who take privacy seriously Real stories from Oasis users on productivity, transparency, and a browser experience that finally feels right. Swipe Oasis is the first browser where things just clicked for me. Tried a bunch before, but none of them felt right. The UI, the overall experience genuinely on a different level. Oasis, the word itself reminds me of calm, peace, and serendipity, like finding a place of clarity in the middle of chaos. That's exactly how I felt when I first used the Oasis AI browser. Oasis is exactly what the Firefox platform has been missing. I love the privacy of Firefox, but I really missed having a built-in AI assistant right alongside my tabs like you see in Chrome. What stood out to me most was the idea of making browsing feel more agentic and action-oriented instead of just passive searching. The direction feels fresh, especially with how AI tools are evolving right now. I've been using Oasis for a bit now and what stands out to me is that it feels built ar",
+  "pricing_signals": [
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:45",
+  "description_ja": "匿名で学習させられる、プライバシー最優先のAIブラウザ",
+  "summary_ja": "Firefoxベースの広告ゼロ・プライバシー最優先デスクトップブラウザに、タブや作業文脈を理解するAIアシスタントを内蔵。ユーザーが教え込むほど自分の作業に最適化され、データは既定で匿名化される。Mac向けに提供。",
+  "tldr_ja": "国内はChrome56%/Safari25%で寡占、国産Floorpも存在。AIブラウザは本家無料勢が席巻し個人開発のブラウザ参入は非現実的、見送り。",
+  "review_guide_ja": {
+    "what": "Oasisはプライバシー最優先・広告ゼロを掲げるFirefoxベースのデスクトップブラウザ。タブや閲覧文脈を理解するAIアシスタントを標準内蔵し、要約・調べ物・タブ整理などをサイドバーから支援する。特徴は『学習させられる』点で、ユーザーが何が重要かを教え誤りを訂正するほど自分のワークフローに最適化される。インタラクションデータは既定で匿名化され、収集項目を可視化。典型用途は集中して情報収集・調査を行う知的作業者の作業環境。エンタープライズ／IT・チーム向けの管理機能も訴求し、世界7,000+ユーザー・108カ国で利用と主張。",
+    "for_who": "プライバシーと集中環境を重視する個人の知的作業者（リサーチャー、ライター、エンジニア、学生）。広告やトラッキングを嫌い、Chromeの監視性とFirefoxのAI不在の両方に不満を持つ層。加えてデータ管理・透明性を求める小～中規模チーム／IT部門も二次ターゲット。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "ブラウザ本体の開発はFirefox/Chromiumフォーク前提でも追従・ビルド負荷が極めて高く、個人での継続的維持は精神的負担が大きいとされる。AI統合も加わり再現は困難。"
+    },
+    "signals": [
+      "PH 281 upvotes・Product of the Day #4 と一定の海外関心",
+      "プライバシー最優先＋AI内蔵という明確なポジショニング",
+      "Firefoxの安心感とChrome的AI体験の両立というユーザー声",
+      "広告ゼロ・データ匿名化という分かりやすい訴求"
+    ],
+    "concerns": [
+      "ブラウザは乗り換えコストが極めて高く新規参入が困難",
+      "AIブラウザ領域はComet（無料）/Arc等の本家が先行",
+      "国産FloorpがFirefoxベースのカスタマイズUXで先行",
+      "個人開発でのブラウザ維持・AIインフラ運用は非現実的",
+      "課金導線が弱くマネタイズ経路が不透明"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "プライバシー関心やAIブラウザへの注目（Comet等の日本語解説多数）は存在するが、ブラウザ乗り換え需要は弱い。国内はChrome約56%・Safari約25%で寡占、広告ブロック利用も約22%に留まり、プライバシー特化ブラウザを能動的に選ぶ層は限定的。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Chrome/Safari/Edgeの寡占に加え、AIブラウザはComet（無料化済）・Arc・Braveが先行。さらに国産のFirefoxベース『Floorp』がカスタマイズ性で日本語UXの支持を獲得しており、同じFirefoxフォーク領域は実質飽和。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "ブラウザ提供自体に固有の許認可はない。ただしデータ送信を扱うため改正電気通信事業法の外部送信規律（2023年6月）への配慮が必要。プライバシー最優先設計はむしろ追い風で規制リスクは中程度に低い。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "UI翻訳に加え、日本語サイトの要約・全角/縦書き・国内検索エンジン・IME連携・日本語フォント描画など深いUX調整が必要。AIの日本語精度確保も要し、API中心の軽量ローカライズでは済まない。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "個人利用なら商習慣の障壁は小さいが、エンタープライズ向けはMDM/IT資産管理・セキュリティ監査・国産サポート要求が強く、海外無名ブラウザの法人採用ハードルは高い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Floorp（Ablaze）",
+        "url": "https://floorp.ablaze.one/",
+        "note": "日本の学生コミュニティAblazeが開発するFirefoxベース国産ブラウザ。垂直タブ・CSSカスタマイズ等で日本語ユーザーの支持を獲得。同じFirefoxフォーク×日本語UXで最も直接的な競合。"
+      },
+      {
+        "name": "Comet（Perplexity）",
+        "url": "https://www.perplexity.ai/comet",
+        "note": "AI標準内蔵ブラウザ。2025年10月以降基本無料、日本語解説記事多数で国内認知が急拡大。AIブラウザ価値訴求の本命で、Oasisの『AI内蔵』優位を無効化する。"
+      },
+      {
+        "name": "Arc / Brave",
+        "url": "https://brave.com/ja/",
+        "note": "Arcはデザイン志向で先行ファン層、Braveは広告ブロック・プライバシー特化で国内シェア約1.2%。プライバシーとモダンUX訴求が重複し差別化余地が狭い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "改正電気通信事業法（外部送信規律）",
+        "impact": "2023年6月施行。利用者端末から外部へ情報送信する際の通知・公表義務。ブラウザがテレメトリやAIクエリを外部送信する場合に該当しうる。Oasisのデータ匿名化方針は適合方向だが、国内提供時は送信先・項目の明示対応が必要。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "閲覧履歴・学習データを取得・保管する場合、利用目的明示・安全管理措置が必要。匿名化を徹底すれば負荷は限定的だが、AI学習用データの取扱い設計次第で対応コストが変動する。"
+      }
+    ],
+    "opportunity": "日本独自の角度があるとすれば『ブラウザ本体』ではなく、既存ブラウザ拡張として日本語特化のプライバシー＋AI機能（国内サイトのトラッキング可視化、日本語要約、IME/縦書き対応の調べ物支援）を提供する方向。ブラウザ刷新は乗り換え障壁が高いため、Chrome/Edge拡張やSafari機能拡張としてニッチを狙う方が個人開発では現実的。ただしこの領域もComet等のAI機能内蔵化で価値が薄れつつあり、機会は小さい。",
+    "rationale": "市場機会としては弱い。国内ブラウザ市場はChrome約56%・Safari約25%・Edge約11%の寡占で、ブラウザは最も乗り換えコストが高いソフトの一つ。プライバシーやAIブラウザへの関心は存在するものの、広告ブロック利用が約22%程度に留まる通り能動的にプライバシー特化ブラウザを選ぶ層は限定的。さらにAIブラウザ価値はComet（無料化）やArc/Braveが先取りし、Firefoxフォーク×日本語UXの席は国産Floorpが既に押さえている。規制面は外部送信規律・個情法への配慮で足りる程度で大きな障壁ではないが、深い日本語UXローカライズが必要。総じて需要・競合の両面で参入妙味が乏しく、見送り評価。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "ブラウザは無料が常識でChrome/Comet等が無料提供。日本人は無料ブラウザに課金する習慣がほぼなく、有料化はエンタープライズ機能（管理・監査）に限られる。個人向けARPU確保は困難で、寄付・スポンサー型が現実的（Floorpも同様）。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "国内ブラウザ利用者は広大だが、有料プライバシーAIブラウザに切り替え課金する実効TAMは極小。法人向けに絞っても海外無名ブラウザの採用は限定的で、収益化可能な市場は小さい。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "ブラウザは口コミ・レビュー依存で獲得に時間がかかる。Floorpは窓の杜・GIGAZINE等メディア露出で伸びたが、個人開発者がゼロから配信網と信頼を築くのは重く、PLGも乗り換え障壁で回りにくい。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "AIブラウザ競争は既に過熱。Perplexity Cometが無料化、Arc/Brave/Edge/ChromeもAI内蔵を急速展開中で、本家進出というより既に本家が市場を占有しつつある段階。時間窓はほぼ無い。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "Firefox/Chromiumフォークの追従ビルドは負荷が極めて高く『個人のメンタルとの殺し合い』とまで評される。加えてAI推論インフラのコスト・運用・障害対応が常時発生し、個人での継続運用はほぼ不可能。"
+      }
+    },
+    "rationale": "事業成立性は非常に低い。最大の障害は『ブラウザは無料が前提』という収益構造で、個人向けARPUはほぼ取れず、課金余地はエンタープライズ管理機能に限られるが海外無名ブラウザの法人採用ハードルは高い。GTMも乗り換え障壁とメディア依存で重く、PLGが回りにくい。タイミング面ではPerplexity Cometの無料化やChrome/Edge/Arc/BraveのAI内蔵により本家が既に市場を占有しつつあり時間窓が乏しい。決定打は運用負荷で、Firefoxフォークの追従ビルドだけでも個人には過酷とされ、これにAI推論インフラの常時運用が重なる。投資対効果・継続性のいずれも個人開発には不適合で、no_go相当。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 0,
+      "plans": [
+        "Free: 全機能・広告ゼロ・AI基本枠（ブラウザは無料が前提）",
+        "Pro（仮）: ¥1,000/月 AI利用枠拡大（個人課金は期待薄、根拠未確認）",
+        "Team/Enterprise: 要見積 管理・監査・SSO（唯一の現実的収益源だが採用ハードル高）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "プライバシーと集中環境を重視する国内の個人知的作業者（リサーチャー・ライター・エンジニア・学生）。Chromeの監視性とFirefoxのAI不在の双方に不満を持ち、能動的にブラウザを乗り換える少数の感度の高い層。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "窓の杜・GIGAZINE等の国内ソフト紹介メディア露出（Floorpの成功経路）",
+      "Qiita/Zenn/noteでのプライバシー×AI技術発信",
+      "X個人発信＋プロダクトハント日本コミュニティ",
+      "OSS化＋GitHub Sponsorsで開発支援を募る（収益化より継続性確保）"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "ブラウザ本体のフォーク追従・ビルド維持が個人には過酷で、Firefox/Chromiumの更新に追従し続けられず陳腐化する。",
+      "AIブラウザ価値をComet（無料）やChrome/Edge内蔵AIが先取りし、Oasis的プロダクトの差別化が成立しない。",
+      "ブラウザは無料が常識で個人向け課金が成立せず、収益源がエンタープライズに偏るが海外無名ブラウザの法人採用は困難。",
+      "AI推論インフラの常時運用コスト・障害対応が個人運用を圧迫し、ユーザー増がそのまま赤字拡大につながる。",
+      "国産Floorpが同じFirefoxベース×日本語UXの席を既に確保しており、後発の差別化余地が乏しい。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "japan_fit_at": "2026-06-06T02:26:04Z",
+  "review_guide_at": "2026-06-06T02:26:04Z",
+  "business_viability_at": "2026-06-06T02:26:04Z",
+  "advisor_view_at": "2026-06-06T02:26:04Z"
+}

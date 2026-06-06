@@ -1,0 +1,264 @@
+{
+  "name": "Fundraisly",
+  "description": "AI fundraising agent that finds investors and books meetings",
+  "ph_url": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/SH5BHT7UOKB2F5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-02T07:01:00Z",
+  "upvotes": 1093,
+  "comments": 268,
+  "topics": [
+    "Venture Capital",
+    "Artificial Intelligence",
+    "Fundraising"
+  ],
+  "makers": [
+    {
+      "id": "3688286",
+      "name": "Stepan Solodnev",
+      "twitterUsername": "stepansolodnev",
+      "headline": "Entrepreneur"
+    },
+    {
+      "id": "897531",
+      "name": "Dave Waiser",
+      "twitterUsername": null,
+      "headline": "Founder at Accumulator.co"
+    },
+    {
+      "id": "1966319",
+      "name": "Anna Mastykina",
+      "twitterUsername": null,
+      "headline": "CEO at Fundraisly.com"
+    },
+    {
+      "id": "6508951",
+      "name": "Alena Medvedeva",
+      "twitterUsername": null,
+      "headline": "Helping startups to raise / Fundraisly"
+    },
+    {
+      "id": "9750977",
+      "name": "Yauheni Savushkin",
+      "twitterUsername": null,
+      "headline": "Fundraisly CTO"
+    },
+    {
+      "id": "9737090",
+      "name": "Vlad Lobchenko",
+      "twitterUsername": null,
+      "headline": "Designer at Fundraisly"
+    },
+    {
+      "id": "9749152",
+      "name": "Uladzislau Sakalou",
+      "twitterUsername": null,
+      "headline": "Building fundraisly app"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt! 👋 I'm Anna, founder of Fundraisly.<br>I spent 2.5 years as an investment analyst at $600M+ AUM VC Fund, portfolio includes 10 unicorns. I reviewed thousands of pitch decks — and saw firsthand how broken fundraising is. Brilliant founders wasting months cold-emailing the wrong investors. Meanwhile, the right ones were just sitting in databases nobody knew how to use.<br><br>So I built what I wished founders had when they came to us: an AI agent that analyzes 300K+ investors and millions of deals to find exactly who's active, relevant, and likely to respond — in minutes, not months.<br><br>The results blew my own expectations:<br>🎯 60–70% open rates. We only reach investors who are actively investing in your space, not generic cold lists<br>📞 On average, founders conduct 20-40 qualified investor meetings within the first 90 days with funds actively investing in your space<br>💼 3k+ VC calls conducted in last 6 months with funds like a16z, Sequoia, Index Ventures<br>💰 $100M+ raised for founders through the platform<br><br>Fundraisly isn't a CRM or a database. It's an AI agent that does the entire investor research, outreach, and follow-up for you — so you can focus on building your company.<br>I'd love your feedback — especially from founders who've been through the fundraising grind. What was the most painful part for you? Happy to answer any questions! 🚀</p>",
+      "votesCount": 65,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Happy launch day. How fast does the first investor call usually show up?</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Honest question: what happens if investors just ignore the emails?</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Fundraisly: ultimate AI agent for fundraising. It analyzes 300K+ investors and millions of deals, identifies the relevant ones actively investing in your space, maps warm paths to them from your own network, then covers the rest with targeted cold outreach. The result: 20-40 qualified investor meetings. Built by founders who raised over $1B.",
+  "featured_at": "2026-06-02T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/50c29b3a-45e5-4eb3-82a6-247714b5e6d9.png",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/763e838e-65e6-4bf7-94a1-33198ee504a6.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b3c4e9db-cfb4-4f4a-b950-80cc0dbe693c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6050099c-b021-4617-b0f4-39cc6818a4ec.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ce0b4255-f41f-47f4-98bf-5f550850b254.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e2956c2b-ce4f-4593-a47f-dd85081c5c67.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ac0e769d-5b82-4fc8-8a2c-3e3017b0867e.png"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:00",
+  "landing_meta": "Fundraisly - Guided fundraising with investor meetings booked for you. — We put investor meetings on your calendar. Founders average 20–40 investor meetings within 90 days.",
+  "landing_text": "Fundraisly - Guided fundraising with investor meetings booked for you. $1.1B raised $1.1B raised across 200+ startups across 200+ startups rated rated 8.7/10 8.7/10 by founders by founders Get 10-50 qualified investor meetings on your calendar in 90 days Get 10-50 qualified investor meetings on your calendar in 90 days Get 10-50 qualified investor meetings on your calendar in 90 days Stop wasting 195+ hours on fundraising preparation Stop wasting 195+ hours on fundraising preparation Start my fundraising 3000+ investor meetings conducted with top-notch investors 3000+ investor meetings conducted with top-notch investors Find your ideal investor Find your ideal investor Find your ideal investor Access an always-fresh database of 300k+ investors . Our AI perfectly matches you with the right leads for your specific stage, market, and geography. Access an always-fresh database of 300k+ investors . Our AI perfectly matches you with the right leads for your specific stage, market, and geography. Aggregated from Aggregated from +13 more sources +13 more sources Warm intros for your network leverage Warm intros for your network leverage Warm intros for your network leverage We map hundreds of introduction paths. From auto-requesting warm intros on your behalf to utilizing unlimited connectors, we ensure you tap into your full professional network. Works seamlessly with Gmail, Outlook, and LinkedIn. We map hundreds of introduction paths. From auto-requesting warm intros on your behalf to utilizing unlimited connectors, we ensure you tap into your full professional network. Works seamlessly with Gmail, Outlook, and LinkedIn. Automate your cold outreach Automate your cold outreach Automate your cold outreach Launch a fully automated outreach campaign to 40k+ VC funds and decision-makers. We handle the initial engagement and schedule 10–50 investor calls directly into your calendar. Results guaranteed in 90 days. Launch a fully automated outreach campaign to 40k+ VC funds and d",
+  "pricing_signals": [
+    "$1.1",
+    "$500",
+    "$840",
+    "$170",
+    "$90"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:00",
+  "description_ja": "投資家を探し商談まで自動で取り付けるAI資金調達エージェント",
+  "summary_ja": "30万人超の投資家DBと数百万件のディール情報をAIが分析し、起業家のステージ・領域に合う投資家を抽出。ネットワーク経由の温かい紹介とコールドメールを自動運用し、90日で20〜40件の投資家商談をカレンダーに入れることを謳うサービス。",
+  "tldr_ja": "国内は紹介文化が強くコールドメールは特定電子メール法で制約、海外投資家網が刺さらず個人開発は不利",
+  "review_guide_ja": {
+    "what": "起業家のステージ・市場・地域をもとに、AIが30万人超の投資家データベース（13以上のソースを集約）から「今その領域に実際に投資している」相手を抽出する。自社ネットワークを解析して温かい紹介経路をマッピングし、Gmail/Outlook/LinkedIn連携で紹介を自動依頼。残りは4万件超のVC・意思決定者へのコールドアウトリーチで補完し、初回エンゲージメントからフォローアップまでAIが代行、投資家商談をカレンダーに直接予約する。典型ユースケースはシード〜シリーズAの起業家が、自前のコールドメール作業（謳い文句では195時間超）を削減し、90日で10〜50件の投資家ミーティングを獲得すること。CRMやDBではなく、調査・送信・追客まで一気通貫で行う『エージェント』を標榜する。",
+    "for_who": "外部資金調達を目指すシード〜アーリーステージのスタートアップ創業者。特に投資家人脈が乏しく、自力でのコールドメールやリスト作成に時間を割けない初回起業家。a16z・Sequoia・Index等の海外トップVCへのリーチを想定した設計で、グローバル・英語圏での調達を狙う層が中心。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "AIマッチング・メール自動送信・カレンダー連携自体は既存API（LLM＋メール/CRM連携）で再現可能。難所は30万人規模の鮮度ある投資家DBの構築・維持と、温かい紹介経路マッピングのデータ資産。"
+    },
+    "signals": [
+      "PHで1093 upvotes・268コメントと高い関心、資金調達の痛みは普遍的",
+      "創業者が$600M超AUMのVC出身でドメイン知見が強い",
+      "「商談をカレンダーに入れる」という成果直結の価値提案が明快",
+      "Gmail/Outlook/LinkedIn連携で既存ワークフローに乗せやすい"
+    ],
+    "concerns": [
+      "コールドメール自動化は国内で特定電子メール法（オプトイン原則）に抵触リスク",
+      "投資家DBが海外VC中心で、日本の投資家ネットワークには非対応の可能性大",
+      "『90日保証』のような成果保証はLP/投資家との関係上、国内では炎上しやすい",
+      "国内は紹介文化が支配的でコールドアプローチの受容度が低い",
+      "資金調達は年数千社規模のニッチ市場で国内TAMが小さい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "資金調達の負荷は国内起業家にも顕在し、StartupList等のマッチング需要は存在。ただし2025上半期の調達社数は1,209社（前年比24.7%減）と母数は小さく縮小傾向。コールドメールより紹介・イベント経由が主流で、本製品の中核価値（自動コールドアウトリーチ）への需要は限定的。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "StartupList（国内最大級・月16,500円）、FUNDINNO、Coral Capital、smartround、ANGEL PORT等が起業家×投資家マッチング領域を占有。純粋なAI自動アウトリーチ型は少ないが、紹介・コミュニティ型の既存プレイヤーが厚く、新規の入り込む余地は狭い。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "コールドメール自動送信は特定電子メール法のオプトイン原則に抵触リスク（公開アドレス・名刺交換等の例外はあるが大量自動送信はグレー）。投資勧誘・調達仲介に踏み込むと金融商品取引法（第二種金商業登録等）の論点も。純粋なマッチング留まりなら回避可能だが線引きが微妙。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI翻訳・メール文面の日本語化は容易だが、価値の中核である投資家DBを日本のVC・エンジェル向けに一から構築し直す必要がある。海外DBの流用ができず、ローカライズは表層でなくデータ資産レベルの作り直しが必要で負荷大。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "国内VC調達は知人・既存投資家・アクセラ経由の紹介文化が支配的。突然のコールドメールは敬遠されやすく、AI一括送信は投資家側の心証を損ねるリスク。商習慣との相性は根本的に低い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "StartupList（プロトスター）",
+        "url": "https://www.startuplist.jp/",
+        "note": "国内最大級の起業家・投資家マッチング。基本無料、自ら投資家を検索・連絡する場合は月16,500円。審査制DB＋会員限定ピッチイベント＋CSサポート。本製品と最も競合。"
+      },
+      {
+        "name": "FUNDINNO",
+        "url": "https://fundinno.com/",
+        "note": "日本初・国内シェアNo.1の株式投資型クラウドファンディング。個人投資家と企業をつなぐ。VC調達とは層が異なるが資金調達チャネルとして競合。"
+      },
+      {
+        "name": "Coral Capital（Coral Community/Demo Day）",
+        "url": "https://coralcap.co/",
+        "note": "投資先に160名超の投資家プラットフォームとDemo Dayを提供。コミュニティ型の紹介ネットワークで、国内の温かい紹介文化を体現する存在。"
+      },
+      {
+        "name": "smartround",
+        "url": "https://www.smartround.com/",
+        "note": "資金調達・株主管理SaaS。調達準備・資本政策のワークフロー支援。アウトリーチ自動化とは領域が異なるが調達ツールとして隣接競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定電子メール法",
+        "impact": "営業目的メールは原則オプトイン（事前同意）が必要。名刺交換・公開アドレス・既存取引先は例外だが、4万件規模への自動コールドアウトリーチは大量送信として違反リスクが高い。送信者表示・オプトアウト導線の明記も必須で、製品の中核機能が国内では制約される。"
+      },
+      {
+        "law": "金融商品取引法",
+        "impact": "純粋な起業家×投資家のマッチング・情報提供に留まれば登録不要のことが多いが、出資募集の勧誘や調達仲介に踏み込むと第二種金融商品取引業登録等が必要になり得る。成果報酬での調達仲介は特に論点で、機能設計次第で実装ハードルが上がる。"
+      }
+    ],
+    "opportunity": "日本独自の角度は『コールド送信の自動化』ではなく『国内の紹介文化を増幅するツール』への転換。具体的には(1)国内VC・エンジェル・CVCのステージ別・領域別データを精緻に整備し、起業家の既存人脈（共通の出資先・元同僚・アクセラ同期）から温かい紹介経路を可視化・依頼自動化に特化、(2)コールドメールは特商法・特電法準拠の公開窓口経由に限定、(3)ピッチ資料のAI添削や投資家別カスタマイズなど調達準備の生産性向上を軸に、規制グレーゾーンを避ける。ただし国内TAMが小さくニッチに留まる点は変わらず、機会の絶対量は限定的。",
+    "rationale": "資金調達の痛み自体は普遍的で起業家の関心は高いが、日本市場適合度は総じて低い。第一に国内VC調達は知人・既存投資家・アクセラ経由の紹介が支配的で、本製品の中核である大量コールドアウトリーチは商習慣と衝突し、特定電子メール法のオプトイン原則にも抵触リスクがある。第二に価値の源泉である30万人規模の投資家DBは海外VC中心で、a16z/Sequoia等への接続は日本の起業家には響かず、国内向けには投資家DBをデータ資産レベルで作り直す必要がある。第三にStartupList・Coral・FUNDINNO・smartround等の既存プレイヤーが紹介・コミュニティ型でこの領域を占有済み。第四に2025上半期の国内調達社数は1,209社（前年比約25%減）と母数が小さく縮小傾向で、TAMが薄い。日本では『海外調達を狙う英語圏志向スタートアップ向け』のニッチに限定する以外、独自開発の妙味は乏しく、verdict は skip。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "資金調達という高単価の成果に紐づくため理屈上は高ARPUを取りやすく、StartupListが月16,500円課金している実績もある。一方で『成果が出るまで払い続ける』性質で解約が早く、成果保証モデルは国内で炎上リスク。LTVが伸びにくい。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "国内で外部資金調達を行うスタートアップは年間2,000社前後（2025上半期1,209社）。アクティブに調達中の層に絞ると同時点で数千社規模のニッチ市場。リピート利用も調達ラウンドごとと低頻度で、TAMが構造的に小さい。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "起業家コミュニティはX/note/イベント等でリーチ可能でPLG的に攻めやすい面はある。一方、信頼が物を言う領域で実績・口コミがないと使われず、個人開発者が投資家DBの信頼性を担保するのは難しい。チャネルはあるが転換率に課題。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "AIアウトリーチ系は海外で既に複数登場し本家Fundraisly含め先行。国内でも紹介系プレイヤーが定着済みで、時間窓は広くない。AI調達エージェントというカテゴリ自体は新しいが、参入が遅れるほど差別化が困難。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "メール自動送信・DB鮮度維持・到達率/スパム対策・投資家からの苦情対応など運用負荷が高い。投資家DBの継続更新は手離れせず、レピュテーション管理（誤送信・トラブル）も発生。個人運用は重い。"
+      }
+    },
+    "rationale": "事業成立性も低い。最大の障壁は市場規模で、国内で外部調達を行うスタートアップは年間2,000社規模・アクティブ層は数千社というニッチで、しかも調達は低頻度のため反復課金が効きにくい。課金単価は成果直結で理屈上高く取れ、StartupListの月16,500円という参照点もあるが、成果が出れば離脱する性質と国内での成果保証への忌避感からLTVが伸びにくい。GTMは起業家コミュニティへのPLG的アプローチが可能な反面、信頼ドリブンな領域で実績のない個人開発者が投資家DBの品質・到達率を担保するのは困難。運用面ではDB鮮度維持・スパム/到達率対策・投資家からの苦情対応が常時発生し手離れしない。総合すると、痛みは本物だが市場が薄く、規制・商習慣・運用負荷が重なり、個人開発で持続的に伸ばすのは難しい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 15000,
+      "plans": [
+        "Free: 投資家リスト閲覧＋月5件まで紹介経路の可視化",
+        "Pro: ¥15,000/月 — 紹介経路自動マッピング＋ピッチAI添削＋月50件アウトリーチ（特電法準拠の公開窓口経由）",
+        "Team: ¥40,000/月 — 複数メンバー・CRM連携・投資家別カスタマイズ・優先サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "外部資金調達（シード〜シリーズA）を目指す国内スタートアップ創業者。特に投資家人脈が乏しい初回起業家、および海外VCも視野に入れる英語圏志向のチーム。アクティブに調達準備中の層が中心。",
+      "target_count": 3000,
+      "capture_pct_year3": 5,
+      "monthly_revenue_target_jpy": 2250000
+    },
+    "recommended_gtm": [
+      "X（旧Twitter）での起業家向け個人発信・調達ノウハウ連載",
+      "note/Zennで投資家リスト作成・ピッチ改善の知見コンテンツ",
+      "アクセラレータ・インキュベータとの提携（参加企業へ無料枠提供）",
+      "PLG: 投資家リスト閲覧の無料枠から有料機能へ転換",
+      "起業家コミュニティ・ピッチイベントでのスポンサー/登壇"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "特定電子メール法のオプトイン原則に抵触し、大量自動コールドアウトリーチが違法・スパム判定となるリスク。製品の中核機能を国内では大幅に制限せざるを得ない。",
+      "価値の源泉である投資家DBが海外VC中心で、日本市場向けには国内VC/エンジェル/CVCのデータをゼロから構築・維持する必要があり、個人開発では資産形成が困難。",
+      "国内TAMが年間調達社数2,000社規模・低頻度利用と構造的に小さく、反復課金が効きにくくスケールしない。",
+      "国内VC調達は紹介文化が支配的で、AIコールドアプローチが投資家の心証を損ね、起業家のレピュテーションを毀損するリスク。",
+      "投資勧誘・調達仲介に踏み込むと金融商品取引法（第二種金商業登録等）が必要になり、純粋マッチングとの線引きを誤ると実装・運用ハードルが急上昇。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

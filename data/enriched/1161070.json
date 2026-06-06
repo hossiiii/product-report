@@ -1,0 +1,231 @@
+{
+  "name": "superlog",
+  "description": "Make your product bug-free",
+  "ph_url": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/KQWSEFIXSXKGGW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-03T07:01:00Z",
+  "upvotes": 442,
+  "comments": 79,
+  "topics": [
+    "Open Source",
+    "Software Engineering",
+    "Developer Tools",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "9540841",
+      "name": "Arseniy Shishaev",
+      "twitterUsername": "arseniycodes",
+      "headline": "Co-founder and CTO at Superlog (YC P26)"
+    },
+    {
+      "id": "9107922",
+      "name": "Nicolo Magnante",
+      "twitterUsername": "nicolomagnante",
+      "headline": "Cofounder"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hello ProductHunt! This is Arseniy, co-founder of Superlog.</p><p></p><p>The world is changing. We are building more and more stuff, and sometimes it breaks. And clicking through UIs to set up monitoring, or to find root causes of bugs is so 2024. </p><p></p><p>When I hear a PagerDuty alert at 3 am, I fumble around to find my phone and silence it before it wakes up the entire neighborhood. It usually takes me a few minutes to remember which century it is (Mammoths? Genghis Khan? Ah, right, 500s on prod).</p><p></p><p>We don't have to do this to ourselves.</p><p></p><p>That's why we built Superlog. </p>",
+      "votesCount": 26,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Superlog is a must have that we use at all the startups we are building at Hexa ! Strong recommend to give it a try, it's WOW ! </p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>solid launch, solid problem, solid hunter! will give it a try and come back with a review! congrats on the launch guys</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Superlog is an open-source autonomous observability tool. It installs itself and fixes the bugs it finds. With a single prompt, it instruments your repository with OpenTelemetry and keeps it up-to-date. When something breaks, it groups noisy issues into a single incident and posts one mergeable PR in Slack. Unlike Datadog or Sentry, there's no setup, no alert fatigue, and no manual fixing. Your telemetry stays vendor-neutral, so you keep full control of your data.",
+  "featured_at": "2026-06-03T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/f5e16691-e739-48ba-9494-535f6a7ac36c.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b96a0489-5992-44ce-8158-f870c448472e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1980920c-d800-401b-97f2-d1e9e2fe7153.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c6d99662-508b-43cf-83e9-460db3018e4a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a6d9dde1-38ab-4fa0-b583-ef5ab02fa95f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/01335eb9-8b2d-42ac-86ab-6002a86650e4.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/215740d4-f08a-4311-b159-f076eb830677.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:04",
+  "landing_meta": "superlog",
+  "landing_text": "superlog",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-06-06T11:54:05",
+  "description_ja": "プロダクトをバグのない状態に保つ、自律型オブザーバビリティ・ツール",
+  "summary_ja": "OSSの自律オブザーバビリティツール。プロンプト一発でリポジトリをOpenTelemetry計装し、障害発生時はノイズを1インシデントに集約、修正PRをSlackに自動投稿する。テレメトリはベンダー中立で保持。",
+  "tldr_ja": "国内オブザーバビリティ需要は強いがDatadog/New Relic/Grafanaが先行、AI自動修正の差別化で隙間狙いは可だが本家追随リスク大",
+  "review_guide_ja": {
+    "what": "OpenTelemetryベースの自律型オブザーバビリティ/障害対応ツール。(1) プロンプト一発でリポジトリにOTel計装を自動挿入し、コード変更に合わせて計装を継続更新する。(2) 本番で異常が起きると、ノイズの多い大量アラートを1つのインシデントに集約し、ルートコーズを推定。(3) 修正案を1本のマージ可能なPRとしてSlackに自動投稿する。Datadog/Sentryと違い、セットアップ不要・アラート疲労なし・手動修正なしを謳う。テレメトリはOTel準拠でベンダー中立のため、データの主導権を保持できる。典型ユースケースは、SRE専任を置けないスタートアップ/小規模開発チームが、深夜のPagerDutyアラートや原因調査・修正の負荷を自動化したいケース。OSSであり自前ホストも可能。",
+    "for_who": "SRE/インフラ専任を持たないスタートアップや小規模開発チーム、個人開発者。OTel計装の手間や障害対応のオンコール負荷を減らしたい開発者。Datadog等の高コストやベンダーロックインを避けたい、データ主導権を重視するチーム。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "OTel計装の自動生成、アラートのインシデント集約、ルートコーズ推定、マージ可能なPR自動生成という一連のエージェント基盤が必要。LLM精度・誤修正対策・多言語/多フレームワーク対応が難所で、個人での完全再現は困難。"
+    },
+    "signals": [
+      "PH 442 upvotes / 79 comments と開発者の関心が高い",
+      "YC P26 採択スタートアップで資金・採用力あり",
+      "OSS かつベンダー中立(OTel)でロックイン回避・データ主導権を訴求",
+      "国内オブザーバビリティ市場は2024年度946億円規模で拡大基調",
+      "国内でもOTel採用事例(ヘンリー/SmartHR等)が増加し標準化が進行"
+    ],
+    "concerns": [
+      "Datadog/Grafana/New Relic等がAI自動調査/修正機能を続々実装中で差別化が消耗しやすい",
+      "誤った修正PRの自動投稿は本番事故に直結し、信頼獲得のハードルが高い",
+      "国内大企業はSIer経由導入・国産サポート要求が強く個人運用と相性が悪い",
+      "OSSのため収益化は有償クラウド/サポート依存で課金壁が厚い",
+      "本家(YC本体含む海外勢)の日本展開・競合の機能追随が速い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 7,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内オブザーバビリティ市場は2024年度946億円規模で拡大基調。OTel採用事例(ヘンリー/SmartHR)やconnpass勉強会も増え、障害対応・オンコール負荷自動化のニーズは顕在化。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "Datadogが国内シェア34.7%・約2,000社で1位。Grafanaも2025年日本進出、New Relic/Mackerelも厚い。本家がAI根因分析・自律調査を続々実装し、差別化が消耗しやすい飽和寄り市場。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "障害対応バックエンドツールゆえ電気通信事業法等の参入障壁は低い。テレメトリに個人データ混入時の個情法留意はあるが、OSS/セルフホストはむしろデータ保護で有利。実装を阻む規制は無い。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "OTel/API中心で構造化されており、UI・ドキュメント・Slack通知文言の日本語化が主。深いUX改修は不要で比較的容易。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "国内大企業のSIer経由導入・国産サポート要求・本番への自動修正PRへの慎重姿勢が個人/小規模運用と相性が悪く中庸。SMB/スタートアップ層には比較的フィット。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Datadog Japan",
+        "url": "https://www.datadoghq.com/ja/",
+        "note": "運用管理・オブザーバビリティ市場で国内シェア34.7%・1位(富士キメラ総研2024)。約2,000社導入。AI根因分析も実装済みで自律調査領域に直接重なる最大競合。"
+      },
+      {
+        "name": "Grafana Labs",
+        "url": "https://grafana.com/ja/",
+        "note": "2025年日本進出。OSS/セルフホスト+Cloudマネージド版、OTelネイティブ・AI搭載を訴求。JAXA/デンソー/CA等採用。OSS+ベンダー中立というsuperlogの主訴求と最も競合。"
+      },
+      {
+        "name": "New Relic 日本法人",
+        "url": "https://newrelic.com/jp",
+        "note": "データ量+ユーザー数のシンプル課金でフルスタック監視。日本語ドキュメント/サポートが充実し国内導入が厚い。OTel対応・AI機能も展開し中堅以上を押さえる。"
+      },
+      {
+        "name": "Mackerel (はてな)",
+        "url": "https://ja.mackerel.io/",
+        "note": "国産SaaS型監視・可観測性。無料枠+ホスト/従量課金で日本語サポートを武器に中小〜中堅で根強い。国内開発者に最も身近な選択肢でSMB層で競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "テレメトリ/ログにメールアドレスやアクセス元等の個人データが混入する場合、取得・保管・第三者提供(クラウド送信)の扱いに留意が必要。ただしOSS/セルフホスト構成ならデータを自社内に留められ、ベンダー中立設計はむしろ法対応上有利。SaaS提供時はデータ保管国・委託先管理の明示が求められる程度で、参入を阻む規制ではない。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "監視・障害対応SaaSは通信の媒介を主目的としないため原則として電気通信事業の登録/届出対象になりにくい。ログ中継の態様によっては外部送信規律(Cookie等)の論点が周辺で生じうるが、開発者向けバックエンドツールのため影響は限定的。実装を阻害する規制リスクは低い。"
+      }
+    ],
+    "opportunity": "国内独自の角度は3点。(1) 国産・日本語の障害対応自動化として、SRE専任を置けない国内SMB/スタートアップに『深夜オンコール削減+修正PR提案』を日本語で提供する。Datadog等は高機能だが高コスト/英語UIで、SMBには過剰・割高との声がある。(2) OSS+セルフホストでデータを国内に留める構成を、官公庁/金融/製造の『データ主権・国内保管』要件に合わせて訴求する(Grafanaの国内採用動向が追い風)。(3) 完全自動修正ではなく『日本語で根因を要約し、レビュー前提の修正PR下書きを出す』アシスト型に振り、誤修正リスクへの国内特有の慎重姿勢に合わせる。Qiita/Zenn/connpassでOTel文脈の発信が活発な今、日本語の導入ガイド+OSSコミュニティ形成で開発者の支持を先に取る隙はある。",
+    "rationale": "市場機会は中程度。需要面は強い:国内オブザーバビリティ市場は2024年度946億円規模で拡大基調、OTel採用事例(ヘンリー/SmartHR等)やconnpass勉強会も増え、障害対応・オンコール負荷の自動化ニーズは顕在化している(demand=7)。一方で競合は厳しく、Datadogが国内シェア34.7%・約2,000社で1位、Grafanaも2025年に日本進出、New Relic/Mackerelも厚い。さらにこれら本家はAI根因分析・自動調査機能を続々実装しており、superlogの『自律調査+修正PR』という差別化は本家の機能追随で消耗しやすい(competition=4)。規制は障害対応バックエンドツールゆえ該当法令の参入障壁は低く、OSS/セルフホストはむしろデータ保護で有利(regulation=9)。ローカライズはOTel/API中心で構造化されており、UI/ドキュメントの日本語化が主で容易(localization=8)。商習慣は、国内大企業のSIer経由導入・国産サポート要求・誤修正への慎重姿勢が個人/小規模運用と相性が悪く中庸(business_custom=5)。総じて『需要はあるが先行者と本家が強い』ため、独自開発よりまず観察推奨。"
+  },
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "OSS前提で課金はクラウド版/エンタープライズサポート/従量に依存。国内は無償OSSで自前運用する志向も強く課金壁は厚め。価値実感が早ければ月額課金は可能だが、誤修正リスクが信頼を損なうと有償転換率が落ちる。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内オブザーバビリティ市場は946億円規模(2024)で広さはあるが、監視を能動整備する層は中堅以上に偏り、個人/小規模が刺さる『専任なしチーム』のうち有償化する母数は限定的。TAMは中程度。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "OSS+開発者向けはPLG/GitHub Star/Qiita・Zenn・connpass・X発信など個人でも届くチャネルが機能しやすく、国内OSS収益化事例(mold等)もある。一方で有償転換は別途必要で中庸寄り。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "本家(Datadog/Grafana/New Relic)が同領域のAI自律機能を既に投入中で時間窓は狭い。YC勢含め海外競合の動きも速く、参入猶予は短い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "本番の障害対応・自動修正PRはミッションクリティカルで、誤検知/誤修正時の即応・SLA期待・問い合わせ対応が重く、個人での24/7運用継続は困難。手離れしにくい。"
+      }
+    },
+    "rationale": "事業成立性は低〜中程度。収益面はOSS前提でクラウド/サポート課金に依存し、国内の無償自前運用志向も相まって課金壁が厚い(monetization=5)。市場は946億円規模で広さはあるが、能動的に監視整備する層は中堅以上に偏り、個人/小規模の有償化母数は限定的(market_size=6)。GTMはPLG/GitHub Star/Qiita・Zenn・connpass・X発信など個人でも届くチャネルがあり国内OSS収益化事例(mold)もあるが有償転換は別課題(gtm=6)。タイミングは本家がAI自律機能を既に投入中で時間窓が狭い(timing=4)。最大の障壁はsolo_ops:本番障害対応・自動修正PRはミッションクリティカルで誤検知時の即応・SLA・サポート負荷が重く、個人の24/7運用は破綻しやすい(solo_ops=3)。総じて、開発者の関心と市場規模はあるものの、本家の追随速度と運用負荷の重さから個人開発での事業化は難度が高い。"
+  },
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 6000,
+      "plans": [
+        "OSS(セルフホスト): 無料・コア計装+インシデント集約",
+        "Cloud Starter: 約¥6,000/月(小規模チーム、ホスト/サービス数上限、修正PR下書き)",
+        "Team: 約¥30,000/月(Slack連携・複数リポジトリ・優先サポート)",
+        "Enterprise: 個別見積(国内保管・SLA・導入サポート、年額契約)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "SRE/インフラ専任を持たない国内スタートアップ・小規模開発チーム(Web/SaaS開発)。OTel計装の手間と深夜オンコール負荷を下げたい、Datadog等のコスト/英語UIを避けたい層。OSS志向の開発者・テックリード。",
+      "target_count": 20000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 1200000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita で OTel自動計装+障害対応自動化の日本語実装記事を連載しOSSへ誘導",
+      "GitHub OSS リリース+日本語READMEでStar獲得しPLGで無償ユーザー基盤を作る",
+      "connpass/オブザーバビリティ勉強会(SRE系)での登壇・LTで開発者認知を獲得",
+      "X(個人開発者・SREクラスタ)での継続発信とデモ動画拡散",
+      "無償OSS→Cloud有償枠への段階課金(PLGアップセル)"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家(Datadog/Grafana/New Relic)がAI根因分析・自律調査・自動修正を続々実装しており、差別化が短期で消耗する。本家の機能追随に対し個人/小規模では開発速度・営業力で劣後する。",
+      "本番環境への自動修正PRが誤っていた場合の事故・信頼失墜リスク。レビュー前提のアシスト型に留めないと、国内顧客の慎重姿勢と相まって導入が進まない。",
+      "OSS前提ゆえ有償転換が読みにくく、収益化が遅れて個人運用が続かない懸念。クラウド/サポート課金の設計と価値実感の速さが生命線。",
+      "障害対応はミッションクリティカルでSLA/即応期待が高く、個人での24/7運用は破綻しやすい。サポート負荷が事業継続の最大ボトルネック。",
+      "国内大企業はSIer経由・国産サポート・国内データ保管要求が強く、PLG単独ではエンタープライズ売上に届きにくい(根拠未確認の母数前提)。"
+    ],
+    "go_no_go": "consider"
+  },
+  "advisor_view_at": "2026-06-06T12:10:00Z",
+  "overall_score": 6
+}

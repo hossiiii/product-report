@@ -1,0 +1,268 @@
+{
+  "name": "SpotsNow",
+  "description": "Track who's advertising across podcasts w/ campaign insights",
+  "ph_url": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/IXZOC4RHEEXJVY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-28T07:01:00Z",
+  "upvotes": 497,
+  "comments": 66,
+  "topics": [
+    "Analytics",
+    "Advertising",
+    "Radio"
+  ],
+  "makers": [
+    {
+      "id": "9027584",
+      "name": "Abhishek Thory",
+      "twitterUsername": null,
+      "headline": "Founding Engineer @Spotsnow"
+    },
+    {
+      "id": "1985564",
+      "name": "Jeremy Boudinet",
+      "twitterUsername": null,
+      "headline": "Your boy."
+    },
+    {
+      "id": "9749336",
+      "name": "Aiza Arcilla",
+      "twitterUsername": null,
+      "headline": "Media & Campaign Ops"
+    },
+    {
+      "id": "9020223",
+      "name": "Dishant Miyani",
+      "twitterUsername": null,
+      "headline": "Developer by profession, I build things"
+    },
+    {
+      "id": "7500133",
+      "name": "Keshav Bagaade",
+      "twitterUsername": null,
+      "headline": "design engineer"
+    },
+    {
+      "id": "8970183",
+      "name": "Cam Pritchard",
+      "twitterUsername": null,
+      "headline": "CEO and cofounder of SpotsNow. "
+    },
+    {
+      "id": "7787508",
+      "name": "Sargam Poudel",
+      "twitterUsername": null,
+      "headline": "I make machine work the way I want"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋 Cam here, founder of SpotsNow.<br><br>Here's a thing that's always bothered me about podcast advertising: it's one of the only major ad channels where you can't easily answer the basic competitive questions. Who's advertising on my favorite show? What's BetterHelp actually spending on podcasts this quarter? Which new brands just started testing the channel? Which shows are over-indexed on CPG vs. fintech vs. DTC?<br><br>The data exists. But it's been locked behind enterprise contracts, the UIs feel like 2014, and there's no way to act on what you learn without leaving the tool and writing a bunch of emails.<br><br>SpotsNow is the version I wanted: Free access to podcast ad spend data across 60,000 shows, with a modern interface that doesn't make you fight it, and (the part I'm genuinely most excited about) a built-in marketplace of open inventory so the second you spot a show that fits your campaign, you can actually request a spot from the publisher right there.<br><br>A few things we'd love help with today:<br><br>1. If you research podcast ads: spotsnow.io is open. Pull up your favorite advertiser or your own brand. Tell us what you wish were there.<br>2. If you've built Competitor Intelligence tools: I'd love your read on our category taxonomy and confidence scoring - that's where we're investing next.<br>3. If you run a podcast or network: there's a free way to list open inventory and reach the buyers who are already researching shows like yours.<br><br>Huge thanks to the early users who stress-tested this when the dataset was a tenth of its current size. Today it goes wide. Roasts, questions, feature requests, all welcome. 🙏</p>",
+      "votesCount": 49,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Nice idea.</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on launching, Cam! Not coming at this as someone who's built competitive-intel tools, more as the \"researches podcast ads / pull up your brand\" person you mentioned. I'm getting an iOS app ready to launch and came at this as a would-be buyer: pulling up specific brands and shows works very well. And I'm excited to try the marketplace features too.</p><p>One observation that might be relevant to the taxonomy work you said you're investing in: my instinct as a buyer was to navigate by <em>theme</em> — \"relationships,\" \"dating,\" \"wellness\" — to find shows that fit my app. That's not how the tool thinks (it's organized around industry tags / specific advertisers, which makes sense once it clicks).</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Track who's advertising on every podcast, what they're spending, and where their campaigns are running — then buy open inventory directly from publishers, all in one place. The competitive intelligence layer for podcast ads.",
+  "featured_at": "2026-05-28T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/dd079df8-e8a8-428c-b263-4239b32c3ad8.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/98e060c1-583f-46e2-98ab-819228bb31fa.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/78191890-86f0-4fcc-8f9a-37c4867a32a4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6e75a758-c061-4f3d-af04-fcc83ef54c0d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1a0c6927-f5e1-491f-b4eb-4109cdc010c7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5a2f5b07-a58c-48b1-bd8e-c5d97829c0a2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b7b5d02d-4f31-4e52-afe9-867d3216b412.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/89a48407-b8e9-46e5-88c2-c29f356023cd.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ef11815f-02d5-43f6-a449-df32cf50957e.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/2e7552cc-9398-42df-bb3f-5ee8d5959567.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:22",
+  "landing_meta": "Podcast Advertising Platform | Run High Converting Podcast Ads – SpotsNow — Join over 20,000 brands using podcast advertising to drive revenue.",
+  "landing_text": "Podcast Advertising Platform | Run High Converting Podcast Ads – SpotsNow",
+  "pricing_signals": [
+    "$12",
+    "$11",
+    "$10",
+    "$16",
+    "$15",
+    "$14",
+    "$1",
+    "$19",
+    "$18",
+    "$22",
+    "$21",
+    "$20"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:23",
+  "description_ja": "どのブランドがどのポッドキャストに広告出稿し、いくら使っているかを追跡する競合分析プラットフォーム。",
+  "summary_ja": "6万番組以上のポッドキャスト広告出稿データを集約し、誰がどの番組にいくら出稿しているかを可視化する競合インテリジェンスツール。さらに番組の空き枠を発見して、その場でパブリッシャーに出稿を依頼できるマーケットプレイスを併設する。",
+  "tldr_ja": "ポッドキャスト広告の出稿額追跡が肝だが、国内は市場が小さく取引も非透明。データ基盤の構築が個人開発では困難で見送り推奨。",
+  "review_guide_ja": {
+    "what": "6万〜6.9万番組のポッドキャスト広告履歴と推定出稿額を集約し、「どのブランドがどの番組に、四半期にいくら出稿しているか」「新規に参入した広告主は誰か」「業界別の番組偏在」などを可視化する競合インテリジェンス基盤。無料でデータ閲覧でき、上位プラン(SpotsNow Pro)はAIキャンペーン設計・効果計測を提供。さらに番組の空き在庫(open inventory)を発見し、その場でパブリッシャーに出稿依頼を出せるマーケットプレイス機能を併設。典型ユースケースは、広告代理店やDTCブランドが競合の出稿動向を調べ、出稿先番組を選定し、直接買い付ける一連の流れ。価値の核は「広告出稿額を横断追跡したデータの蓄積」という参入障壁の高い情報資産にある。",
+    "for_who": "ポッドキャスト広告を出稿するDTC/D2C・SaaS・サブスク系ブランドのマーケター、広告代理店のメディアプランナー、競合の出稿動向を知りたい広告主。供給側としては番組・ポッドキャストネットワークの運営者(空き枠を販売したいパブリッシャー)。米国の活発なポッドキャスト広告市場を主対象とする。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "UI複製は容易だが、価値の本体は6万番組超の広告出稿履歴と推定額データの収集・名寄せ・推定パイプライン。この大規模データ基盤と推定モデルの構築・継続維持が極めて重く、個人開発では非現実的。"
+    },
+    "signals": [
+      "PH 497 upvotes / 66 comments と高い反応。創業者の課題定義(出稿額が不透明)が明快で共感を集めている",
+      "無料データ開放＋マーケットプレイスの両面戦略で、買い手と売り手の双方を集客するネットワーク効果を狙える",
+      "米国ポッドキャスト広告は2021年時点で56%超がホストリード等、出稿が活発で『誰がいくら使ったか』の需要が顕在"
+    ],
+    "concerns": [
+      "コメントでも指摘される通り、出稿額は『推定』であり精度・信頼性が常に問われる(taxonomy/confidence scoringが投資先)",
+      "価値の核がデータ収集基盤にあり、模倣困難な反面、新規参入者(個人含む)も同じ障壁に直面する",
+      "日本ではポッドキャスト広告が小規模かつ取引が代理店・アグリゲーター経由の相対取引中心で、追跡対象データが乏しい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 3,
+        "reason": "国内ポッドキャスト利用率は17.2%と成長中だが、広告市場は2024年で約4億ドルと小さく(デジタル音声広告全体でも2025年420億円規模/デジタルインファクト)、『競合がどの番組にいくら出稿したか』を調べたいという買い手側の需要は米国ほど顕在化していない。X/Qiita等での当該ニーズ言及も検索で確認できず。"
+      },
+      "competition": {
+        "score": 7,
+        "reason": "ポッドキャスト広告の出稿額を横断追跡する競合インテリジェンスツールは国内に見当たらず、直接競合は事実上不在。ただし出稿仲介はオトナル等のアドネットワークが担い、効果計測はPodsights等が存在。競合不在は需要不在の裏返しでもある。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "広告出稿データの収集・可視化が中心で、重い業規制は少ない。公開配信データの収集は不正競争防止法・著作権法・利用規約に留意が必要。広告表示は景品表示法・特定電子メール法の一般的順守で足り、参入障壁となる固有法令は確認されない。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UIの日本語化自体は容易。だが本質的なローカライズは『国内番組の広告出稿データ基盤を一から構築する』ことであり、これはUX調整の範疇を超える根本的なデータ整備を要する。表層の翻訳では価値が出ない。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "国内ポッドキャスト広告はホストリード/タイアップの相対取引が主流で、出稿額は非公開・属人的な代理店取引。米国型の『透明な出稿額の横断可視化』『セルフサーブで空き枠を即買い付け』という商習慣が根付いておらず、データ取得も困難。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "オトナル(Otonal)",
+        "url": "https://otonal.co.jp/podcast-audio-ad/",
+        "note": "国内最大級のポッドキャストアドネットワーク。500番組以上の在庫を束ね出稿仲介・ホストリード広告(PODCASTER PROMOTION)を提供。出稿『仲介』側で、競合出稿額の横断可視化ツールではない。"
+      },
+      {
+        "name": "Spotify / radiko(オーディオアド)",
+        "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01621/",
+        "note": "プラットフォーム自身の広告配信メニュー。Spotifyは国内1000万人超、radikoは会員データでターゲティング配信。各社の出稿実績を横断追跡する第三者ツールではない。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "不正競争防止法・著作権法・各配信プラットフォーム利用規約",
+        "impact": "公開配信や番組メタデータをスクレイピングして出稿額を推定する場合、規約違反やデータ取得手段の適法性が問題になりうる。出稿額『推定』の根拠データの収集方法に法的・契約的制約が生じる可能性がある。"
+      },
+      {
+        "law": "景品表示法・特定電子メール法",
+        "impact": "出稿仲介・マーケットプレイスを国内展開する場合の一般的な広告表示・営業メール規制。参入障壁となる固有規制ではなく、通常のSaaS運用で順守可能。"
+      }
+    ],
+    "opportunity": "国内で角度を付けるなら『出稿額の競合追跡』ではなく、データ基盤を持つアグリゲーター(オトナル等)と組み、番組×ブランドのタイアップ実績DBや空き枠マーケットプレイスに絞る方向。ただし出稿データはアグリゲーターの資産であり、第三者の個人開発者が独自に蓄積するのは非現実的。日本市場単独では、米国版のような『誰がいくら使ったか』の透明データ商品は需要・供給とも成立しにくく、独自開発の角度はほぼ見いだせない。むしろ国内番組制作者向けの『広告枠管理・販売ツール』など供給側SaaSに切り口を変える方が現実的だが、それはSpotsNowとは別物。",
+    "rationale": "SpotsNowの価値の核は『6万番組超の広告出稿額を横断追跡したデータ資産』であり、これは日本市場では二重の壁にぶつかる。第一に需要面: 国内ポッドキャスト広告は約4億ドル規模(2024)と小さく、買い手(広告主・代理店)の母数が少ないうえ、競合の出稿額を調べたいという顕在ニーズが検索で確認できない。第二に商習慣・供給面: 国内の出稿はホストリード/タイアップの相対取引が中心で出稿額は非公開、取得すべきデータ自体が市場に流通していない。競合ツールが不在(competition高)なのは需要不在の裏返しに過ぎない。規制面は軽いが、本質的ローカライズ=国内出稿データ基盤の構築という根本課題が残り、表層翻訳では価値が出ない。総じて日本市場では適合度が低く no_fit と判断する。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "本家は無料データ開放＋Pro有料＋マーケットプレイス手数料の複合モデル。国内では買い手母数が小さく、競合出稿インテリジェンスに月額課金する文化が薄い。代理店向け相対営業なら単価は取れるがPLGには乗らず、個人開発者がARPUを安定確保するのは難しい。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "国内ポッドキャスト広告市場は2024年約4億ドル、2030年でも約8.6億ドル予測と小さい。さらにツールの対象は『出稿する広告主・代理店』に限られ、企業運営ポッドキャストも推定150〜200番組規模。国内TAMはニッチで、専業で成立する規模に乏しい。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "X/note等での発信は可能だが、買い手は広告代理店・DTCブランドのメディア担当という狭く専門的な層で、PLGでの自然増は期待しにくい。実態は代理店への個別営業・人脈依存になりやすく、個人開発者がリーチできるチャネルは限定的。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "国内に直接競合は不在で時間窓自体はあるが、それは市場が未成熟で需要が立ち上がっていないため。本家SpotsNowが日本語化して進出する蓋然性も現時点で低く、緊急性も低い。検索で本家の日本進出計画は根拠未確認。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "価値の核が大規模な出稿データの収集・名寄せ・推定パイプラインの継続運用にあり、データ鮮度維持が必須。さらにマーケットプレイスはパブリッシャー/広告主双方のオペレーション(在庫確認・取引仲介)を伴い、手離れが悪く個人運用には重い。"
+      }
+    },
+    "rationale": "事業性は厳しい。市場規模が国内約4億ドル(2024)と小さいうえ、ツールの対象顧客は出稿する広告主・代理店という狭い専門層に限られ、TAMがニッチすぎる(market_size低)。課金面でも、競合出稿の透明データに月額を払う文化が国内では薄く、PLGに乗りづらいため代理店への相対営業に頼ることになりGTMが個人開発者向きでない(gtm/monetization低)。最大の難所はsolo_ops: 製品価値が『国内番組の広告出稿データ基盤の構築と継続更新』にあり、これは個人が一から作って維持できる代物ではない。加えてマーケットプレイス運営は双方向のオペ負荷を生む。国内に直接競合がいない(timingに余地)のは需要不在の裏返しであり、好機とは言い難い。総合的に、日本市場・個人開発の前提では事業として成立させるのは困難。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 0,
+      "plans": [
+        "Free: データ閲覧(国内データ基盤が前提だが構築困難なため実質提供不可)",
+        "Pro想定: ¥9,800/月程度(代理店・ブランド向け競合出稿分析)。ただし国内では課金需要が乏しく根拠未確認",
+        "Marketplace: 取引手数料(空き枠仲介)。国内取引が相対中心のため成立性低い"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "ポッドキャスト広告に出稿するDTC/SaaS/サブスク系ブランドのマーケター、および広告代理店のメディアプランナー。供給側として国内ポッドキャストネットワーク・番組運営者。いずれも狭く専門的な層。",
+      "target_count": 500,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "国内アグリゲーター(オトナル等)との提携交渉(ただしデータ資産は先方保有で困難)",
+      "X/note でのポッドキャスト広告ノウハウ発信(ただし買い手母数が小さく効果限定)",
+      "広告代理店メディアプランナーへの個別営業(人脈・相対依存)"
+    ],
+    "time_window_months": 24,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "致命的: 製品価値の核である『国内番組の広告出稿額データ基盤』を個人が構築・維持できない。出稿は相対取引で出稿額が非公開のため、追跡対象データが市場に流通していない。",
+      "需要不在: 国内ポッドキャスト広告市場が約4億ドル(2024)と小さく、競合の出稿額を調べたい買い手の顕在ニーズが検索で確認できない。専業で成立する規模に乏しい。",
+      "商習慣不適合: 米国型の透明な出稿額可視化・セルフサーブ買い付けが国内に根付かず、ホストリード/タイアップの代理店相対取引が主流。プロダクト前提が市場と噛み合わない。",
+      "運用負荷: データ更新パイプラインとマーケットプレイス双方のオペが重く、個人運用の手離れが悪い。",
+      "収益化困難: 透明データへの月額課金文化が薄く、PLGに乗らず代理店相対営業に依存するため個人ではARPU確保が困難。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T11:20:00Z",
+  "review_guide_at": "2026-06-06T11:20:00Z",
+  "business_viability_at": "2026-06-06T11:20:00Z",
+  "advisor_view_at": "2026-06-06T11:20:00Z"
+}

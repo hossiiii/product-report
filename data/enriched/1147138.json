@@ -1,0 +1,266 @@
+{
+  "name": "Coworker AI",
+  "description": "More AI for less spend with context-aware model routing",
+  "ph_url": "https://www.producthunt.com/products/coworker-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/RDCOGEXDF5HCNW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-27T07:01:00Z",
+  "upvotes": 219,
+  "comments": 49,
+  "topics": [
+    "Productivity",
+    "SaaS",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "5447875",
+      "name": "Alex Calder",
+      "twitterUsername": null,
+      "headline": "CEO at Village"
+    },
+    {
+      "id": "5485610",
+      "name": "Bradford Church",
+      "twitterUsername": null,
+      "headline": "Co-founder of Village Labs"
+    },
+    {
+      "id": "200079",
+      "name": "Nigel Koh",
+      "twitterUsername": "nigelkoh",
+      "headline": "Head of Business Operations at Coworker"
+    },
+    {
+      "id": "9558817",
+      "name": "Dhruv Kapadia",
+      "twitterUsername": null,
+      "headline": "@coworker.ai"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p></p><p>We keep hearing the same thing on repeat: enterprise AI token costs are exploding.</p><p></p><p>Orgs that were spending $500K/year in December are spending $15M/year in May.</p><p></p><p>And CFOs are starting to ask the same question: do we cut back AI spend, or cut heads?</p><p></p><p>Coworker gives organizations a third choice: <strong>more AI, less spend.</strong></p><p></p><p>Coworker delivers the same frontier-quality chat, cowork, and code for 80% less. We do that by pairing every task with the right context and model for the job - open or closed.</p><p></p><p>That means you get the same output quality as Opus 4.7, but 5x the tokens for the same spend versus Anthropic or OpenAI API rates across:</p><p></p><p><strong>Chat</strong> - grounded in your company's real context and a persistent knowledge graph</p><p><strong>Build</strong> - docs, decks, pdfs, real-time dashboards, apps or any artifact and share across your org</p><p><strong>Code </strong>- any arbitrary task in a virtual sandbox</p><p><strong>Agents</strong> - automate workflows end to end with long-running agents and complex triggers</p><p><strong>Meet</strong> - meeting summaries, transcripts, and follow-up actions via a meeting notetaker or ambient transcription</p><p><strong>Enterprise-ready</strong> - all models hosted in the US, SOC 2, pen-tested, 30+ enterprise connectors</p><p></p><p>We're getting things started by giving everyone who signs up this week 500 credits on us. And if you sign up in the next 24h you'll get an additional 200 credits.</p><p></p><p>Head over to <a href=\"https://Coworker.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Coworker.ai</a> - I can't wait to see what you build.</p><p></p><p>Alex</p>",
+      "votesCount": 25,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>congrats nigel and team!</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I'm Nigel, one of the team here.  👋</p><p></p><p>We're excited to bring <a href=\"https://Coworker.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Coworker.ai</a> to the world. Would love to hear from anyone who's already hit their AI spend wall, curious what the breaking point looked like for you/your org. And happy to answer any questions on how the credit system or model routing works under the hood!</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Same AI. 5x the tokens. Coworker provides deep company context and automatically routes to the right model for every task. More chat, cowork and code with the same spend.",
+  "featured_at": "2026-05-27T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/9dad5d31-51c7-4423-b0c3-9acfc580effe.svg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0a2774fc-94b1-4f73-9335-e6dc5daf9987.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/debe50c6-d08f-4b2f-875b-44718fcd65b4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/842c3b50-83ba-436a-89a9-90e9246c22ee.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/764a46e7-6f16-4997-a027-4f44180ea6ac.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/38a88f89-dbcf-4845-8437-375aa76aa621.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c2cdf1cb-9bea-46f1-84ff-ae59c913b123.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/04df25b5-265a-400f-94ea-f6fa5c1c7d00.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/33766901-70f8-4bba-b590-03da6c1c979e.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/bcdae8be-7f8f-4e86-8e68-2c247e566fb7.jpeg"
+    },
+    {
+      "type": "interactive_demo",
+      "url": "https://ph-files.imgix.net/748b66a3-699a-428a-8b6a-122cae844e26.png"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:53",
+  "landing_meta": "Chat, cowork, code. 80% cheaper. | Coworker AI — Coworker AI is the enterprise AI agent platform. Chat, cowork, and code with the right model for every task, your full company context, and 50+ connectors. Same frontier AI quality at a fraction of the cost.",
+  "landing_text": "Chat, cowork, code. 80% cheaper. | Coworker AI Right model. Right context. Any task. Chat, cowork, code. 80% cheaper. Coworker pairs every task with the right model and context to deliver frontier-quality chat, cowork, and code for 80% less than frontier API rates. Get started free Book a demo Enterprise ready · SOC 2 · 50+ connectors · US-hosted models PDF brochure Spreadsheet model Pipeline dashboard Board deck Agent builder Trusted by Do way more. Every surface you already love. Chat, cowork, code, agents, all connected to your company’s full context and routed to the right model for every task. Where is the Acme renewal at? Salesforce · Pulled opportunity record Gong · Scanned last 3 call transcripts Slack #cs-acme · Read thread w/ Maria Summary Acme is in legal review on the 3-year terms. Maria flagged budget cycle alignment as the only open item. Closing call is Thu 2pm with Procurement. Chat Ask anything across every system. Conversational AI with 50+ connectors ready out of the box: Slack, CRM, Jira, Gmail, Docs, BigQuery, Snowflake. Q4 board deck · 12 slides Slide 4 / 12 Net new ARR up 64% QoQ Cowork Polished artifacts on demand. Decks, docs, dashboards, financial models, branded PDFs, interactive apps. Editable, shareable, exportable. src/billing/refund.ts 1 export async function processRefund( 2 orderId: string, 3 reason: RefundReason, 4 ) { 5 const order = await db.orders.find(orderId); 6 + if (!order) throw new NotFoundError(); 7 return stripe.refunds.create({ 8 charge: order.chargeId, 9 reason, 10 }); 11 } Sandbox: tests pass · 1 file changed Code Frontier coding in cloud sandbox. Repo-aware with multi-file edits, sandboxed execution, and your full org context. Pipeline Hygiene Agent Live Trigger · Salesforce Opportunity stage = 'Negotiation' for 14+ days Action · Gong Pull last 3 call transcripts on the account Action · Slack #pipeline Post summary + next-best-action to the AE Last run · 2 minutes ago 12 runs today Agents Build once, runs forever. Lon",
+  "pricing_signals": [
+    "open-source",
+    "pricing",
+    "$1",
+    "$12",
+    "$18",
+    "$19",
+    "$2",
+    "$45",
+    "$46",
+    "$47"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:54",
+  "description_ja": "タスクに応じてAIモデルを自動振り分けし、同じ予算で5倍のトークンを使える法人向けAIプラットフォーム。",
+  "summary_ja": "チャット・資料作成・コーディング・エージェントを一体化した法人向けAIエージェント基盤。タスクごとに最適なモデル（OSS/商用）へ自動ルーティングし、社内コンテキストと50以上のコネクタを束ね、フロンティア品質を最大80%安く提供すると謳う。",
+  "tldr_ja": "エンタープライズAI需要は国内も急拡大だが、exaBase/Glean等の競合飽和＋米国データ保管＋重い法人営業で個人開発は不適合。",
+  "review_guide_ja": {
+    "what": "Coworker AIは「チャット／コワーク（資料生成）／コード／エージェント／会議要約」を一体化した法人向けAIエージェント基盤。中核はタスク単位のモデルルーティングで、用途ごとにOSS/商用モデルを自動選択し、永続的なナレッジグラフと50以上のコネクタ（Slack/Salesforce/Jira/Gmail/BigQuery/Snowflake等）で社内コンテキストに接続する。同等品質を最大80%安く、同予算で5倍のトークンを使えると訴求。典型用途は、社内横断検索＋要約、決算デッキ・財務モデル・PDFブローシャー等の成果物生成、サンドボックスでのリポジトリ横断コーディング、Salesforce商談の停滞検知→Gong要約→Slack通知のような長時間稼働エージェントによる業務自動化。SOC2取得・米国モデルホスティング・ペンテスト済みを掲げ大企業導入を狙う。",
+    "for_who": "AIトークン費が急増し（例：年$500K→$15M）CFOがコスト削減を迫る中堅〜大企業のIT/業務部門。Salesforce・Slack・Snowflake等を多用し社内データ横断のAI活用と費用最適化を同時に求める組織。日本では生成AIを全社／一部導入済みの法人（導入率6割超）が主対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "チャット/資料生成/コード/エージェント/会議要約の5面＋50超コネクタ＋ナレッジグラフ＋モデルルーティング＋サンドボックス＋SOC2を統合した重厚な基盤で、個人開発での再現は非現実的。"
+    },
+    "signals": [
+      "PHで219 upvotes・49コメントと法人AI基盤として高い反応",
+      "「AIトークン費の急騰」というCFOの実需に刺さるコスト訴求",
+      "国内の法人向け生成AI市場は2025年503億→2026年720億円と急拡大",
+      "モデルルーティング/LLMゲートウェイ領域はZenn/Qiitaでも比較記事が活発で関心高"
+    ],
+    "concerns": [
+      "国内はexaBase・Glean（アシスト経由）・各種法人ChatGPTで競合飽和",
+      "全モデル米国ホスティングは個情法の越境移転・外的環境把握義務に抵触懸念",
+      "SOC2/ISMS・SSO・監査ログ等エンタープライズ要件で参入障壁が高い",
+      "5面統合プロダクト＋24/7 SLAは個人運用では継続不能",
+      "OpenAI/Anthropic/MSが同等のコスト最適化を内製化すれば差別化消失"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "法人向け生成AI導入ソリューション市場は2024年330億→2025年503億→2026年720億円と急拡大。導入率は全社38.8%＋一部25.7%で6割超。トークン費高騰というコスト最適化ニーズも顕在で、需要シグナルは強い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "exaBase生成AI（月900円〜）、AIアシスタント with ChatGPT（400円〜で20モデル横断）、Glean（アシストが国内提供、社内横断検索）、各種法人ChatGPT、サテライトAIなど社内AI＋マルチモデル領域は飽和。コスト最適化文脈の競合も多数。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "AI新法は理念中心で直接規制は緩いが、全モデル米国ホスティングは個情法の越境移転・外的環境把握義務に直結。社内機密入力の学習利用リスクも論点。国内データレジデンシー対応なしでは大企業・金融で導入障壁になる。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "API/コネクタ中心で技術的接続は容易だが、日本語ナレッジグラフ精度・国内SaaS（サイボウズ/kintone/Slack日本語運用等）コネクタ・日本語成果物品質・UIの全面和訳が必要で、深いローカライズ工数が要る。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "国内大企業はISMS・国内データ保管・対面営業・PoC前提の長い稟議が標準。ID定額課金嗜好（従量課金回避）とも要調整。クレジット制・米国ホスティング・PLG前提は日本商習慣と摩擦が大きい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "exaBase 生成AI（エクサウィザーズ）",
+        "url": "https://exawizards.com/column/article/ai/generative-ai-for-business/",
+        "note": "1人月額900円〜の法人向け生成AI。セキュリティ・教育を両立し大企業・自治体に導入実績多数。社内AI活用の国内代表格で価格・信頼の両面で強い。"
+      },
+      {
+        "name": "AIアシスタント with ChatGPT",
+        "url": "https://blog.ai-assistant.jp/",
+        "note": "ChatGPT/Gemini/Claude等20モデル超を組織一括導入、1ユーザー400円〜の定額（文字数従量なし）。マルチモデル横断という点でCoworkerと直接競合。"
+      },
+      {
+        "name": "Glean（国内提供：アシスト）",
+        "url": "https://www.ashisuto.co.jp/product/category/knowledge/glean/",
+        "note": "SaaS横断のエンタープライズサーチ＋AIアシスタント＋エージェント。アシストが国内代理。社内コンテキスト×コネクタという中核価値がCoworkerとほぼ同一。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（越境移転・外的環境把握義務）",
+        "impact": "全モデルが米国ホスティングのため、個人データを米国サーバで取り扱うことになり、当該国制度の把握と安全管理措置・本人同意/基準適合体制が必要。国内データレジデンシー非対応のままでは金融・公共・大企業の調達要件を満たせず導入障壁になる。"
+      },
+      {
+        "law": "AI事業者ガイドライン／AI新法（2025年施行）",
+        "impact": "罰則中心ではなく自律的AIガバナンス重視で直接の参入規制は緩い。ただし入力禁止情報の明確化、承認業務限定、安全確認済みツールのみ許可など社内統制が前提となり、ベンダーには監査ログ・データ管理の説明責任が求められる。"
+      },
+      {
+        "law": "著作権法・営業秘密（不正競争防止法）",
+        "impact": "生成物の著作権・学習データの権利、社内機密・営業秘密の入力管理が論点。クラウド型は入力データの学習利用や外部漏洩リスクが指摘されており、学習不使用の明確な契約・テナント分離保証が法人導入の前提となる。"
+      }
+    ],
+    "opportunity": "全部入り基盤での正面勝負は不可。角度を絞るなら(1)国内データレジデンシー＋学習不使用を保証した「日本特化のモデルルーティング/コスト最適化ゲートウェイ」に限定し、tsuzumi/cotomi等の和製LLMや低コストOSSへの自動振り分けで日本語トークン費（英語比1〜3倍）を削減する文脈に特化、(2)kintone/サイボウズ/Slack日本語運用等の国内SaaSコネクタに振り切る、のいずれか。ただし全面プラットフォーム再現は個人開発の射程外で、現実解はニッチな部品提供（API利用の開発者向けLLMゲートウェイOSS等）に留まる。",
+    "rationale": "市場機会の総評：需要は文句なしに強い。国内法人向け生成AI市場は年率4〜5割で拡大し、トークン費高騰というコスト課題も顕在で、Coworkerの『同予算で5倍』訴求は刺さる素地がある。しかし市場機会としての魅力は競合飽和で大きく減じる。社内AI＋マルチモデル＋コネクタという中核価値は、exaBase・Glean（アシスト）・各種法人ChatGPT・サテライトAIが既に低価格（400〜900円/人）で押さえており、Coworkerが入る隙間は小さい。さらに全モデル米国ホスティングは個情法の越境移転・外的環境把握義務に抵触し、国内大企業・金融の調達要件（国内保管・ISMS）と衝突する。ローカライズも日本語ナレッジグラフ・国内SaaSコネクタ・成果物品質まで踏み込む必要があり浅くない。総じて『需要は強いが、競合・規制・商習慣の壁が高く、個人開発が独自に攻める角度は狭い』。verdictはskip。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "国内法人はエンタープライズAIに支払う実績あり（exaBase 900円/人、法人ChatGPT 400円〜）。ただし日本企業は従量・クレジット制より『ID定額・文字数従量なし』を好む傾向が強く、Coworkerのクレジット制はそのまま受け入れられにくく価格設計の作り込みが要る。"
+      },
+      "market_size": {
+        "score": 8,
+        "reason": "2025年末で生成AI業務導入企業41.3万社、市場503億→720億円規模。社内AI×コスト最適化のTAMは広大で、市場規模そのものはボトルネックにならない。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "大企業向けはSOC2/ISMS・SSO・監査ログ・PoC・長い稟議・対面営業が前提で、PLGで個人が獲得できる領域ではない。国内はアシスト等のSIパートナー経由が主流で、人脈・代理店網のない個人開発者のリーチ手段がほぼ無い。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "社内AI・マルチモデル・コスト最適化は既に競合だらけで、OpenAI/Anthropic/MS/Googleもモデルルーティングやキャッシュ・Batch割引を内製化中。時間窓は狭く、本家・ハイパースケーラーが同価値を巻き取る寸前。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "5面統合＋50超コネクタ＋サンドボックス＋ナレッジグラフ＋24/7のエンタープライズSLA＋セキュリティ運用は、個人運用では明らかに継続不能。CS・障害対応・コネクタ保守の負荷が極めて重い。"
+      }
+    },
+    "rationale": "事業性の総評：TAMと支払い意欲という『市場の器』は十分大きいが、個人開発者が事業として成立させる経路がほぼ無い。最大の壁はGTMと運用負荷。日本の大企業向けエンタープライズAIはSOC2/ISMSと国内データ保管、対面PoC、SIパートナー経由の販売が事実上の必須条件で、PLGで個人がリーチできる市場ではない。加えて5面統合プロダクトの開発・保守・24/7 SLA・50超コネクタの維持は一人では到底回らない。マネタイズも、日本企業がクレジット従量制よりID定額を好む嗜好と摩擦がある。タイミングも悪く、コスト最適化・モデルルーティングはハイパースケーラーと本家が内製化を進めており差別化が急速に薄まる。結論：器は大きいが、個人開発の射程ではこの全部入り基盤を成立させられない。business_viability_scoreは4。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 0,
+      "plans": [
+        "（個人開発での全部入り基盤事業化は非推奨。参考として角度を絞る場合のみ：）",
+        "Free: 月10万トークン相当の開発者向けLLMゲートウェイ無料枠",
+        "Pro: 従量 + 月額3,000円/開発者（コスト可視化・自動モデル選択）",
+        "Team: 月額30,000円〜（国内データ保管オプション・監査ログ）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "（全部入り基盤は非現実的。仮に角度を絞るなら）API利用でLLMコストに悩む国内の開発者・小規模SaaS事業者向けの『日本特化コスト最適化ゲートウェイ』。生成AIをプロダクトに組み込む国内スタートアップ／受託開発のエンジニア層。大企業エンタープライズ層は個人開発では到達不能。",
+      "target_count": 5000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 150000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiitaでのモデルルーティング・LLMコスト削減の技術連載（既に比較記事が活発な領域）",
+      "OSSとしてゲートウェイを公開しGitHub経由で開発者に浸透（PLG）",
+      "X（旧Twitter）での個人発信＋実コスト削減事例の公開",
+      "国内AIスタートアップコミュニティ・勉強会での露出"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "競合飽和：exaBase・Glean（アシスト）・各種法人ChatGPTが社内AI×マルチモデルを低価格で既に押さえ、全部入り基盤での参入余地がほぼ無い。",
+      "GTM不能：大企業向けはSOC2/ISMS・PoC・SIパートナー経由が必須で、人脈・代理店網のない個人開発者にリーチ手段が無い。",
+      "規制リスク：全モデル米国ホスティングは個情法の越境移転・外的環境把握義務に抵触し、国内保管非対応では金融・公共・大企業の調達を通せない。",
+      "運用破綻：5面統合＋50超コネクタ＋24/7 SLA＋セキュリティ運用は個人では継続不能で、障害・CS・コネクタ保守が事業を潰す。",
+      "陳腐化：コスト最適化・モデルルーティングはOpenAI/Anthropic/MS等が内製化を進めており、差別化が短期間で消失する。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T11:30:00Z",
+  "review_guide_at": "2026-06-06T11:30:00Z",
+  "business_viability_at": "2026-06-06T11:30:00Z",
+  "advisor_view_at": "2026-06-06T11:30:00Z"
+}

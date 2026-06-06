@@ -1,0 +1,255 @@
+{
+  "name": "Clipto",
+  "description": "Fully local, natural language search over terabytes of media",
+  "ph_url": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/Y5E7U6HB2KB5NG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-31T07:01:00Z",
+  "upvotes": 475,
+  "comments": 152,
+  "topics": [
+    "Mac",
+    "Productivity",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "7142115",
+      "name": "Henry Kang",
+      "twitterUsername": null,
+      "headline": "AI PhD exploring knowledge tools"
+    },
+    {
+      "id": "9553801",
+      "name": "Matthewwei",
+      "twitterUsername": null,
+      "headline": "Ops | Travel | AI Creator | Fitness"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>We've been honing Clipto's story for a few months. At the end of our last call <a href=\"https://www.producthunt.com/@henry_kang\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"henry_kang\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@henry_kang</a> proved the value of the product.</p><p></p><p>He and his team were out in the desert, <em>testing Clipto remotely</em>: minimal reception, terabytes of footage sitting on his laptop, and he needed to find a specific shot for the launch video.</p><p></p><p>He searched for: <em>\"the wide drone shot where the car enters the desert\"</em>.  </p><p>He didn't want \"a cinematic moment.\" Not a \"vibes\" search.</p><p></p><p>He <em>knew</em> he had the clip but in the pre-Clipto world, it would take hours of video scrubbing to find it. </p><p></p><p><strong>He found that clip in seconds using natural language to search over his own media, fully local. </strong></p><p><strong>Just like Google Photos — but nothing lives in the cloud.</strong></p><p></p><p>This isn't an easy problem to solve. Henry's been pursuing this direction for over twenty years, when at <a href=\"https://www.ri.cmu.edu/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">CMU's Robotics Institute</a> (my alma mater, FYI), he began pushing the limits of computer vision. He starting with indexing hundreds of images and then advanced to <em>millions of objects</em> — and watched recognition basically explode once memory scaled. </p><p></p><p>Clipto is in many respects the culmination of that work, pointed at your personal hard drive.</p><p></p><p>And it's quick: a modern M5 MacBook chews through ~2TB of video in about a day. Why not push yours through its paces?</p>",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hi Product Hunt! I’m Henry, founder of Clipto.</p><p></p><p><strong>Clipto gives you the ability to search in natural language over terabytes of media in seconds.</strong></p><p><strong>Think: Google Photos, but fully local.</strong></p><p></p><p>During my 20 years ago at <a href=\"https://www.ri.cmu.edu/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">CMU’s Robotics Institute</a>, I became obsessed with memory systems: <em>what if computers could actually remember what they’ve seen?</em></p><p></p><p>I trained robots to memorize <em>millions</em> of product images crawled from the Amazon catalog (the standard back then was to index 100s of images at a time), and discovered that <em>they could use that memory to recognize almost anything they encountered!</em></p><p></p><p><strong>By pushing computers beyond their conventional limits, I had unlocked an explosion in machine intelligence.</strong></p><p></p><p>Years later, the problem has become personal.</p><p></p><p>Our computers are full of valuable raw footage, interviews, recordings, and more, but most of that data is still painfully hard to search, revisit, or reuse. <strong><em>We are data-rich, but knowledge-poor.</em></strong></p><p></p><p>That’s why I built Clipto. Clipto helps you find what matters inside terabytes of video, audio, meetings, and files, <em>instantly</em>, turning hours of repetitive work into seconds.</p><ul><li><p>Find the wide drone shot where the cars enter frame.</p></li><li><p>Find the shot specifically in the moment the sandstorm arrives from hours of footage.</p></li><li><p>And find what you <em>know</em> is in there, without suffering through hours of scrubbing.</p></li></ul><p>Clipto's memory system live where your data already is: on your device, under your control, available anytime, even offline — so you can keep working wherever and whenever inspiration strikes.</p><p></p><p><strong>After two years of compressing, optimizing, distilling and orchestrating AI models to run entirely on-device, we are ready to share it with the Product Hunt community.</strong></p><p></p><p>It’s still early, and it’s still compute-heavy. Right now, Clipto works best on higher-performance Apple Silicon Macs (M1 Pro/Max/Ultra and newer) with 24GB+ RAM. If you have a compatible Mac, we’d love for you to try it.</p><p></p><p><strong>To celebrate our launch, we're offering 1 month free to anyone who signs up this week with code PHLNCH.</strong></p><p></p><p>I’ll be here in the comments all day and would genuinely love to hear about the strategies you've developed to find your content diamonds in your digital rough.</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Interesting. Local-first stops being a privacy story the second you can find a clip on your own drive faster than you'd find it in cloud storage. Question - what happens to the index when I rename or move a file in Finder after indexing? Does Clipto watch the filesystem?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Like Google Photos, but fully local. Turn the terabytes of video, audio, meetings, and files you work with into searchable memories, without uploading anything to the cloud. Clipto automatically tags people, dialogue, and scenes, so you can instantly find any moment buried in your media just by describing what you're looking for. It's fast too: on a MacBook Pro M5, Clipto indexed 2TB of videos in just 24 hours.",
+  "featured_at": "2026-05-31T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/307c181c-9d5c-4825-b49b-a2ccf4f23c2a.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5fadfc17-c301-4efd-98fe-33db9b34bd7f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/832c9a57-912a-429d-9e02-1d7985642438.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/da8510b0-4015-4ad4-82a3-b05c4d57e9f7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e5388a86-addc-465e-b93c-85555c45f522.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f57908bd-0356-4e45-87bd-33e780531125.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/30e4d0aa-a9f4-4a91-92dc-0682a45dfd81.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/78f6f37d-28df-4d0c-ab7e-20ca564d97fa.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c6ab0b36-8dec-4a49-a751-ceeaf5e135d8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/075403f1-4623-42b1-b6c6-f0c387b1b773.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e28eb555-a40f-4e45-917a-8f63bd8c841b.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/463437b5-0465-4b4c-b8ab-0c2c8a709062.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:18",
+  "landing_meta": "Clipto – AI Transcription, Video to Text & Knowledge Assistant for Mac — Turn audio and video into searchable knowledge with Clipto AI. Transcribe meetings, podcasts, and videos with 99% accuracy, identify speakers, generate summaries, and organize everything on your Mac.",
+  "landing_text": "Clipto – AI Transcription, Video to Text & Knowledge Assistant for Mac Fully local, natural language search over terabytes of media. Like Google Photos, but fully local. Download for Mac Optimized for M1+ Macs, 24GB+ memory, macOS 15+. Search for any moment, in plain English. What used to take hours now takes seconds. Find clips with unexpected precision. No scrubbing. No guessing. People Find anyone across your content. Search by name and jump to every moment they appear. Actions Search for what happens. Find moments like \"a handshake\" or \"a goal celebration\". Dialogue Search every spoken word. Jump straight to the exact moment it was said. Scenes Search by places, objects, or environments. Find moments like \"a city at night\" or \"a person in white\". Turn years of media into searchable library. Stop wasting hours manually organizing folders and naming files. Stay in the creative flow. Your knowledge layer, seamlessly integrated across the tools and AI you already use. Unified knowledge across your storage Keep your files where they are – Clipto understands them across Dropbox, Google Drive, NAS, or local folders. Built into your workflow Access Clipto directly inside tools like Premiere Pro, with more integrations coming soon. Work anywhere your inspiration takes you. No cloud. No upload. No compromise. No upload Your data stays on your device. Nothing is uploaded or stored in the cloud. Private by design All processing runs locally with full control over your data. Work anywhere Works perfectly even without an internet connection. Perfect for travel, field work, or working on the go. Let Clipto help with your creative workflow Apple Silicon Download Mac OS Scan qrcode iOS If you work with content every day, this is for you Trustpilot Photographer As a restaurant photographer in the UK, I shoot a huge volume of footage every day—food close-ups, cocktail pours, ambience shots. The hardest part was never shooting, it was digging through hard drives to find one specifi",
+  "pricing_signals": [
+    "free trial",
+    "free forever",
+    "subscription",
+    "monthly plan",
+    "yearly plan",
+    "pricing",
+    "free plan",
+    "premium",
+    "$9",
+    "$11",
+    "$0.00",
+    "$0.99"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:19",
+  "description_ja": "テラバイト級の映像・音声を全てローカルで自然言語検索できるMacアプリ",
+  "summary_ja": "ローカルPC上でAIが動画・音声・会議録の人物/会話/シーンを自動タグ付けし、クラウドに一切アップせず自然言語で目的の瞬間を瞬時に探せるMacアプリ。M5 Macで2TBを約24時間で索引化。Premiere Pro連携も。",
+  "tldr_ja": "需要は映像プロに顕在も国内に同型VideoTaggerが先行・日本語化済み、個人開発で差別化は難しく静観が筋",
+  "review_guide_ja": {
+    "what": "Apple SiliconのMac上で動作するローカルAIメディア検索アプリ。動画・音声・会議録・ファイルをデバイス上で索引化し、人物・発話内容・行動・シーン（場所/物体/環境）を自動タグ付けする。クラウドへ一切アップロードせずオフラインで完結。「砂嵐が来る瞬間」「車がフレームに入る空撮」といった自然言語で目的の瞬間を秒で特定できる。文字起こし（精度99%訴求）、話者識別、要約も持つ。Dropbox/Google Drive/NAS/ローカルフォルダ横断で索引化し、Premiere Pro内からも利用可能。典型用途は映像制作者の素材発掘、フォトグラファーの大量フッテージ管理、会議録の検索。M5 Macで2TBを約24時間で索引化。",
+    "for_who": "テラバイト級の生フッテージや収録物を抱える映像制作者・編集者・フォトグラファー・YouTuber。プライバシー上クラウド送信を避けたいプロ。高性能Apple Silicon Mac（M1 Pro/Max/Ultra以降・RAM 24GB+）を持つ層に限定される。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "オンデバイスで動くマルチモーダル映像理解モデルを2年かけて圧縮・蒸留した点が中核。個人がVLM/音声/索引パイプラインをMac上で実用速度に最適化する難度は高い。"
+    },
+    "signals": [
+      "PH 475 upvotes / 152 comments と高い反応で課題の普遍性を裏付け",
+      "完全ローカル処理によるプライバシー訴求が差別化軸として刺さっている",
+      "Premiere Pro連携など実ワークフロー組込みを志向",
+      "CMUロボティクス出身でCV20年の創業者という技術的信頼性"
+    ],
+    "concerns": [
+      "高性能Apple Silicon・24GB+ RAM必須で対象ハードが限定される",
+      "2TBで約24時間という索引化コストの重さ",
+      "国内に同型のVideoTagger（オンデバイス・日本語化済）が先行",
+      "ファイル移動/リネーム時の索引追従などUX未成熟がコメントで指摘"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "映像制作・配給業は売上2兆円超、制作部門従事者1.4万人規模で「過去素材を探せない」課題は実在。クリエイター人口も増加基調。ただし完全ローカルAI検索という具体ニーズの国内言及は限定的で、強い需要シグナルとまでは確認できず中庸。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内にオンデバイスAI動画タグ付けのVideoTagger（cliptagger.com、日本語UI・Mac/Win）が既に存在し、ほぼ同型。富士フイルムIMAGE WORKSやNTTドコモビジネスCIERTO等のDAMも法人向けに普及。競合は手薄ではない。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "処理が全てローカル完結でクラウド送信が無く、個情法のクラウド越境・第三者提供論点が原則生じない。映像内人物の肖像/プライバシー配慮は利用者責任だが、ツール提供者の規制リスクは低い。検索で特段の該当法令は未確認。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "Macネイティブアプリ＋自然言語検索のためUI翻訳と日本語音声の文字起こし/検索精度確保が要。構造は素直だが、日本語話者識別・固有名詞認識の品質はローカライズ作業として無視できない。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "プライバシー重視・データを社外に出したくない日本の制作現場・企業の志向と完全ローカルは相性が良い。一方で日本は買い切り志向が根強く、サブスク前提の課金は摩擦を生みうる。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "VideoTagger (cliptagger.com)",
+        "url": "https://cliptagger.com/ja/",
+        "note": "オンデバイスAIで動画を自動タグ付け・検索するMac/Winアプリ。日本語UI・30日無料試用。処理を全てPC上で完結しクラウド送信しない点までCliptoとほぼ同型の直接競合。"
+      },
+      {
+        "name": "富士フイルム IMAGE WORKS",
+        "url": "https://sp-jp.fujifilm.com/image_works/lp/",
+        "note": "画像・動画をアップするだけでAIが自動タグ付けするクラウド型ファイル管理・DAM。法人向けで月額15,000円〜。クラウド型である点でCliptoとは思想が異なるが用途は競合。"
+      },
+      {
+        "name": "NTTドコモビジネス CIERTO/Digital Asset",
+        "url": "https://www.nttcoms.com/service/digital-asset/dam/",
+        "note": "動画内容を解析しキーワード/タグを自動付与する法人向けDAM。大企業のアセット一元管理向けで予算規模が大きく、個人/小規模とは別レイヤー。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "処理が全てローカル完結のため、クラウド保管・越境移転・第三者提供の論点は原則発生しない。映像に写る個人の取り扱いは利用者側の責務で、ツール提供者の直接的な規制負荷は低い。"
+      },
+      {
+        "law": "著作権法・肖像権",
+        "impact": "索引化対象の映像素材の権利は利用者保有が前提で、ツール側のリスクは小さい。ただし他者著作物や写り込んだ人物の二次利用は利用者責任となる旨の明示が望ましい。"
+      }
+    ],
+    "opportunity": "完全ローカル処理は、クラウドに素材を出せない放送局・制作プロダクション・自治体/医療の映像現場という日本固有の強い制約とフィットする。先行のVideoTaggerに対しては、(1)Premiere Pro等の編集ソフト深連携、(2)日本語の話者識別・専門用語/固有名詞認識の精度、(3)NAS常設チームでの共有索引、で差別化余地がある。プライバシー監査を気にする法人へ「素材が一切外部送信されない」を監査対応文書込みで訴求できれば、クラウドDAMが取りこぼす保守的セグメントを狙える。",
+    "rationale": "課題（過去素材が探せない）は映像制作・フォトグラファー領域で実在し、完全ローカル＝規制リスク低・プライバシー訴求という日本適性の高い軸を持つ。一方、最大の問題は競合で、国内にオンデバイスAI動画タグ付けのVideoTaggerが日本語対応で先行しており、富士フイルム/NTT系のDAMも法人で普及済み。空白市場ではない。需要は顕在だが「ローカルAI映像検索」という具体カテゴリの国内言及はまだ限定的で爆発的な追い風とは言い難い。ローカライズは中程度（UI翻訳＋日本語音声精度）、商習慣はプライバシー志向と好相性だが買い切り選好という摩擦もある。総じて参入不可ではないが、先行者を上回る明確な差別化（編集ソフト連携・日本語精度・チーム共有）が無ければ厳しく、現時点はwatch。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "プロ向けの強い時短価値はあり月額¥1,000〜2,000台の課金は成立余地あり。ただ日本は買い切り選好が根強く、ローカルアプリにサブスクを課す摩擦は無視できない。VideoTaggerが価格基準を作る点も価格余地を圧迫。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "対象は高性能Apple Silicon＋24GB RAMを持つ映像プロ/フォトグラファーに限定。制作部門従事者は約1.4万人規模＋フリー編集者/YouTuberを加えても国内TAMは数万〜十数万人とニッチ。広範なホリゾンタル市場ではない。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "ローカルMacアプリは無料試用→DL課金のPLGが成立しやすく、X/YouTube/note等で映像クリエイターに直接リーチ可能。一方、対象が分散・ニッチで獲得効率は中程度。法人保守層はSI/監査対応が要り個人では届きにくい。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "オンデバイスVLMの低コスト化で類似プロダクトが世界・国内（VideoTagger）で既に出現済み。Clipto本体の海外展開や追随も速く、時間窓は広くない。先行者がいる中での後発参入になりやすい。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "処理が利用者デバイス上で完結しサーバ運用・24/7監視の負荷が小さく、個人運用と相性が良い。ただしApple Silicon世代・macOS更新・各種モデル更新への追従と、ファイル追従などUXサポートの継続対応は要する。"
+      }
+    },
+    "rationale": "事業性は中位以下。ローカル完結ゆえサーバ負荷が小さくsolo運用しやすく、無料試用からのPLGも回しやすいのは利点。だが致命的なのは市場の狭さで、対象は高性能Apple Silicon＋大容量RAMを持つ映像プロ/フォトグラファーに限定され、国内TAMはせいぜい数万〜十数万人規模。そこへVideoTaggerが日本語対応で先行し価格基準も作っているため、後発の個人開発が獲れるシェアは限定的。日本の買い切り選好はサブスクARPU確保の逆風。ニッチ×先行競合×課金摩擦の三重苦で、強い差別化が無い限り単独事業としての収益スケールは見込みにくい。プライバシー要件の厳しい法人特化など狭く深いニッチに振れば成立余地はあるが、その場合は監査対応・導入支援で手離れが悪化しsolo前提と衝突する。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 索引化100ファイル/月・基本検索のみ",
+        "Pro: ¥1,500/月（または買い切り¥12,000）索引無制限・話者識別・要約",
+        "Team: ¥4,000/月/席 NAS共有索引・編集ソフト連携"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "高性能Apple Silicon Mac（M1 Pro以降・24GB RAM+）を使い、テラバイト級の生フッテージを抱える映像制作者・編集者・フォトグラファー・YouTuber。クラウドに素材を出せない/出したくないプライバシー重視のプロを優先。",
+      "target_count": 50000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 750000
+    },
+    "recommended_gtm": [
+      "X/YouTubeで映像クリエイター向けに『過去素材を秒で発掘』実演動画を発信",
+      "無料試用→DL課金のPLG（クレカ不要トライアル）",
+      "Premiere Pro/DaVinci連携プラグインとして編集者コミュニティに浸透",
+      "note/Zennで完全ローカル＝素材非送信のプライバシー訴求記事",
+      "映像制作プロダクション/フォトスタジオへ監査対応文書付きで直接提案"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "国内同型のVideoTaggerが日本語対応で先行し価格基準も形成済み。後発の差別化が不十分だと顧客獲得もARPUも伸びず埋没する。",
+      "対象が高性能Apple Silicon＋大容量RAM＋映像プロに限定され国内TAMがニッチ。獲得シェアを楽観すると月商目標が崩れる（根拠未確認の母数前提）。",
+      "日本の買い切り選好によりサブスク課金に摩擦。LTV確保のための価格設計を誤ると無料層に滞留する。",
+      "オンデバイスVLMのコモディティ化が速く、Clipto本家や大手（Adobe/Apple標準機能化）の追随で時間窓が急速に閉じる恐れ。",
+      "法人保守層を深掘りすると監査対応・導入支援・SLA期待が発生し、solo運用の手離れ前提と衝突して継続が難しくなる。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T11:30:00Z",
+  "review_guide_at": "2026-06-06T11:30:00Z",
+  "business_viability_at": "2026-06-06T11:30:00Z",
+  "advisor_view_at": "2026-06-06T11:30:00Z"
+}

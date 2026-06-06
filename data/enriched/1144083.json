@@ -1,0 +1,269 @@
+{
+  "name": "Mailwarm 2.0",
+  "description": "The email warmup tool, upgraded for deliverability.",
+  "ph_url": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/SO3HRZHWMYKPDS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-04T07:01:00Z",
+  "upvotes": 572,
+  "comments": 104,
+  "topics": [
+    "Email",
+    "Email Marketing"
+  ],
+  "makers": [
+    {
+      "id": "9674812",
+      "name": "Daniel Nwankwo",
+      "twitterUsername": "Dan_xos",
+      "headline": "Community and Content Manager"
+    },
+    {
+      "id": "2422305",
+      "name": "Thami Benjelloun",
+      "twitterUsername": "ThamiBenjelloun",
+      "headline": "CEO mailX by mailwarm (YC S20)"
+    },
+    {
+      "id": "1147117",
+      "name": "Bengeekly",
+      "twitterUsername": null,
+      "headline": "Test. Build. Post."
+    },
+    {
+      "id": "7899478",
+      "name": "Othman Katim",
+      "twitterUsername": null,
+      "headline": "mailwarm (YC S20)"
+    },
+    {
+      "id": "9723727",
+      "name": "Manal Essalek",
+      "twitterUsername": null,
+      "headline": "Helping you reach the Inbox!"
+    },
+    {
+      "id": "9482880",
+      "name": "Naim Azoutar",
+      "twitterUsername": null,
+      "headline": "Helping teams build and scale "
+    },
+    {
+      "id": "3749277",
+      "name": "Karim Ben",
+      "twitterUsername": null,
+      "headline": "29yo, Full Stack Dev"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Like most founders, email has been our #1 sales channel since our first startup in Paris.</p><p>That’s what led us to build <a href=\"https://mailwarm.com/pricing\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>mailwarm</strong></a><strong> </strong>and work on email deliverability since 2020.<br><br>And one thing became clear very early: your emails don’t land in the inbox by magic.<br><br>Back in 2020, we launched Mailwarm here on Product Hunt as one of the first email warmup tools.<br>It became #1 Product of the Day 🏆 and since then, we’ve helped 10,000+ founders, sales teams, agencies, and businesses improve sender reputation and avoid the spam folder.<br><br>But over the years, we learned something important: Basic warmup is not enough anymore.<br><br>Teams need real engagement signals, monitoring, infrastructure checks, and sometimes a real deliverability expert to understand what’s happening and what to fix.<br><br>That’s why we built Mailwarm 2.0.<br><br>Not just the original email warmup tool. A premium email warmup and deliverability system built to give your emails the best chance of reaching the inbox.<br></p><p>If email is part of your growth, tell me in the comments how you’re using it. We’ll take a look and help you improve your inbox placement.</p><p></p><p></p>",
+      "votesCount": 25,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Thami, <br><br>Cool launch! Quick question: do you see Mailwarm as something companies should use long term or only when launching on new domain?</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt 👋<br></p><p>Years ago we launched the first Mailwarm right here. That launch started a beautiful journey for us, and I'm really grateful for it.<br></p><p>Now we are back. With more experience this time. We spent a lot of time listening to our customers, adding features they really asked for, and also removing the ones that only made things complex without real value.</p><p>And honestly this last part was our biggest fight inside the team. Where is the line between useful and too much? If you add too little, the product feels empty. If you add too much, it becomes the heavy thing you wanted to avoid in the first place.</p><p>So I'm curious, how do you draw this line as builders? Where do you stop adding? And what is one feature in your own product you think you should drop?<br></p><p>Mailwarm 2.0 is the answer we found. Simpler, sharper, built on everything we learned the first time. Would love to hear your feedback 🙏</p><p>And a big thank you to <a href=\"https://www.producthunt.com/@garrytan\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"garrytan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@garrytan</a> for hunting us.</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Most founders rely on email to grow, but emails don’t land in the inbox by magic. Mailwarm 2.0 is the premium email warmup and deliverability system built to give your emails the best chance of reaching the inbox. It combines automated warmup, real engagement, monitoring, infrastructure checks, and experts call available for every subscriber.",
+  "featured_at": "2026-06-04T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/888d6f15-746b-4604-bb33-290e1d26f460.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/71495cdc-aaf1-46db-b900-01c456b86229.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/abefe3ee-2e6b-4f81-8e8c-0137a5857a7c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/92cebd7f-723f-446e-adce-e3bbfc2cf916.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a20490dd-f872-4fc4-b442-40b148e1f67b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1e3cc2fe-8c48-48fc-8079-e6f074bb955b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/60b349c0-85e1-4ac3-a05c-fedd49b7255b.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/1bbf6a44-7bc6-4916-87c8-cc1852e46db0.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:00",
+  "landing_meta": "Email warmup - Avoid SPAM folder - mailwarm — Email warmup tool to avoid the spam folder and improve inbox placement. Since 2020, Mailwarm’s deliverability team builds sender reputation so emails reach the inbox.",
+  "landing_text": "Email warmup - Avoid SPAM folder - mailwarm Email warmup tool to avoid the spam folder Don't land in spam anymore. Mailwarm is an email warm up tool that improves sender reputation and email deliverability, ensuring your campaigns reach inboxes, get more responses, and convert better. Start Email Warmup Talk to an Email Expert 15+ years of expertise. Calls with experts in every plan. Mailwarm Warming Process Building sender reputation... 98 % Sending automated warm-up emails to improve deliverability Opens 75 % Replies 59 % Reputation 88 % Warming your domain and improving deliverability Your emails are being sent to real inboxes with positive engagement signals Before Warming After Trusted by 10,000+ teams, from startups to global enterprises Easy integration with your mailboxes and email platforms Mailwarm supports email warm up for Gmail, Outlook, Yahoo, Zoho, and major email service providers, including SendGrid and other SMTP-based platforms. Google Outlook Yahoo AWS SendGrid Mailgun Zoho Other From Spam Folder to Success See Why Teams Love Mailwarm Mailwarm team has significantly improved our email deliverability and helped us build a solid foundation for scaling outbound at Luvi. The team is reliable, efficient, and easy to work with. They have become an essential part of our growth stack. Rhai Goburdhun Founder & CEO , Luvi We increased by 31% our Microsoft inbox placement. We tried two warm-up tools before working with Mailwarm. The difference is night and day, these are actual experts, not a dashboard. William Mann CEO , Prime Match Recruiting Using it almost for 2 months, and grow my open rate more than 30%. Must have for everyone, who runs Cold outbound campaigns. Max Markarenko Founder & CEO , Docsify.net I ran a deliverability test on the domain you guys are warming up and the results are looking brilliant! Big fan of you guys' service :) Austin Monson Growth Strategy , AskWonder.com So far deliverability to Office365/exchange has improved for the mail",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing",
+    "$1",
+    "$11",
+    "$23",
+    "$40",
+    "$50",
+    "$2",
+    "$6"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:01",
+  "description_ja": "受信トレイ到達率を高める、進化したメールウォームアップツール。",
+  "summary_ja": "新規ドメイン/メールアカウントから自動でウォームアップメールを送受信し、開封・返信などの好意的エンゲージメント信号を蓄積して送信者レピュテーションを構築。迷惑メール行きを防ぎ受信トレイ到達率を改善する。専門家への相談付き。",
+  "tldr_ja": "国内はコールドメール文化が弱く特定電子メール法のオプトイン規制も重い。ウォームアップ単体需要は限定的でskip。",
+  "review_guide_ja": {
+    "what": "メールウォームアップツール。新しい送信ドメインやメールアカウントを、いきなり大量配信せず段階的に「温める」ことで、Gmail/Outlook/Yahoo/Zoho 等の受信側に信頼を蓄積し、迷惑メールフォルダ行きを回避する。具体的には実在の受信箱ネットワークと自動でメールを送受信し、開封・返信・重要マークといった好意的エンゲージメント信号を人間らしいパターンで生成、日次送信量を徐々に増やす。加えてレピュテーション監視、SPF/DKIM/DMARC 等のインフラ診断、全プランに到達率専門家との通話を付帯。典型ユースケースはコールドアウトバウンド営業、新規ドメイン立ち上げ、配信が spam に落ちた際の回復。2020 年から運用し 10,000 チーム以上の導入実績を訴求。",
+    "for_who": "コールドメールでアウトバウンド営業を行うスタートアップ創業者・セールスチーム・リード獲得代理店。新規ドメインやメールアカウントを多数立ち上げる事業者、メルマガ/トランザクションメールの到達率低下に悩む配信担当者。日本では BtoB アウトバウンド営業を IT 活用で行う比較的少数の企業層に限られる。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "送受信を行う実在の健全なメールアカウントネットワーク（lemwarm は2万ドメイン超）の構築が肝で、これが参入障壁。個人がゼロから信頼できる相互送受信網を用意するのは困難。コア技術自体は複雑でない。"
+    },
+    "signals": [
+      "PH で 572 upvotes / 104 comments と高反応、2020 年の初代も Product of the Day 獲得の実績",
+      "2024 年以降 Gmail/Yahoo の送信者ガイドライン（SPF/DKIM/DMARC 必須化）で到達率関心が世界的に上昇",
+      "メーカーは YC S20 出身で 10,000 チーム導入の運用知見あり",
+      "専門家通話を全プランに付帯し『ダッシュボードでなく人』という差別化"
+    ],
+    "concerns": [
+      "ウォームアップ単体は世界的にコモディティ化、Instantly/Smartlead は無制限ウォームアップを送信ツールに無料同梱",
+      "日本のコールドメールはオプトイン規制（特定電子メール法）と文化的抵抗で市場が小さい",
+      "国内では到達率対策が ESP(SendGrid/blastengine 等)に内包され単体ツール需要が薄い",
+      "ウォームアップネットワークによる人工的エンゲージメントは受信側 ESP のポリシー変更で無効化されるリスク"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "2024 年の Gmail/Yahoo ガイドライン（SPF/DKIM/DMARC 必須化）で『到達率』関心は国内でも上昇。ただしウォームアップ単体の需要は、コールドメール文化が弱くアウトバウンド営業の IT 活用が遅れる(CRM 導入率約34.8%)日本では限定的。到達率対策は配信システム側で済ますのが主流。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "国内に『ウォームアップ単体』専業はほぼ不在で直接競合は薄い。一方、Instantly/Smartlead/lemwarm 等の海外ツールが日本語UIなしでも流入可能で、SendGrid/blastengine 等の国内 ESP が IP ウォームアップを内包。隙間は存在するが代替手段が豊富。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "特定電子メール法のオプトイン規制が核心リスク。同意なき営業メール送信は原則禁止、違反は1年以下の懲役/100万円以下の罰金(法人最大3000万円)。ウォームアップ自体は合法だが主用途のコールドメール送信が法的にグレー〜違法になりやすく、需要の上流が規制で抑制される。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "コア機能はメールボックス連携(Gmail/Outlook/SMTP)とダッシュボードで構造的。UI とサイトの日本語化、専門家通話の日本語対応程度で足り、深い UX 改修は不要。技術的ローカライズ難度は低い。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本の BtoB はインバウンド・対面/電話・紹介中心で、見知らぬ相手へのコールドメールは『失礼』とされ忌避されやすい。ウォームアップ→大量コールドメールという海外の成長ハックが商習慣に根本的に合わない。relationship sales 文化との相性が悪い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "SendGrid (構造計画研究所 / Twilio)",
+        "url": "https://sendgrid.kke.co.jp/",
+        "note": "国内代理店経由で広く普及するメール配信基盤。IP ウォームアップを配信機能に内包し、到達率改善ニーズの多くを単体で吸収。ウォームアップ専用ツール需要を構造的に減らす。"
+      },
+      {
+        "name": "blastengine（ラクス系）",
+        "url": "https://blastengine.jp/",
+        "note": "API/SMTP リレー型の国内メール配信。IP ウォームアップや SPF/DKIM/DMARC 対応ノウハウを提供し、到達率改善を配信サービスとして提供。日本語サポートが強み。"
+      },
+      {
+        "name": "Instantly / Smartlead / lemwarm（海外）",
+        "url": "https://instantly.ai/email-warmup",
+        "note": "コールドメール送信ツールにウォームアップを無料同梱。日本語UIはないが個人開発者・先進セールスは直接利用可能。価格競争力が高く、単体ウォームアップの収益機会を侵食する。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定電子メール法",
+        "impact": "営業目的メールは原則オプトイン(事前同意)必須。名刺交換・公表アドレス・取引先等の例外を除き、同意なき送信は禁止。違反は1年以下の懲役または100万円以下の罰金、法人は最大3000万円。ツールの主用途であるコールドメール送信が国内では法的に制約され、需要の上流が抑えられる。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "送信先メールアドレスの取得・保管が個人情報の取扱いに該当。リスト購入や名簿の不適正取得は問題化しやすく、コールドメール運用全体のコンプライアンス負荷を上げる。ウォームアップツール自体への直接規制ではないが利用文脈で間接的に影響。"
+      },
+      {
+        "law": "Gmail/Yahoo 送信者ガイドライン(法令ではないが事実上の必須要件)",
+        "impact": "2024年2月以降 1日5,000通超の送信者は SPF/DKIM/DMARC・ワンクリック解除・苦情率0.3%未満が必須。Yahoo! JAPAN も認証なしメールを迷惑判定。到達率関心を底上げする追い風だが、対応の多くは認証設定や ESP 側で完結し単体ウォームアップ需要に直結しにくい。"
+      }
+    ],
+    "opportunity": "勝ち筋は『コールドメール用ウォームアップ』ではなく、規制適合な国内文脈に振った『到達率ヘルスチェック/モニタリング』への転換。具体的には(1)正規のメルマガ・トランザクションメール送信者向けに、新規ドメイン立ち上げ時の段階配信支援と SPF/DKIM/DMARC 自動診断、(2)Gmail/Yahoo ガイドライン準拠チェックと苦情率・到達率の継続監視ダッシュボードを日本語で提供。オプトインを前提とする正規配信者をターゲットにすれば法規制と商習慣の衝突を回避できる。ただし国内 ESP がこれらを内包するため、ESP に乗らない自社 SMTP 運用層という狭い隙間に限られる。ウォームアップネットワーク自体の構築障壁も高く、個人開発で本家機能を再現するより、診断・可視化 SaaS に絞るのが現実的。",
+    "rationale": "市場機会としては『追い風はあるが本丸の需要が薄い』。2024 年の Gmail/Yahoo ガイドラインで到達率関心は国内でも明確に上昇しており、SPF/DKIM/DMARC 対応や監視のニーズは顕在化している(demand を押し上げる要素)。しかし Mailwarm のコア価値である『ウォームアップ→コールドアウトバウンド』は、日本では特定電子メール法のオプトイン規制と、見知らぬ相手への営業メールを忌避する商習慣により需要の上流が細い。さらに到達率対策の大半は SendGrid/blastengine 等の国内 ESP に内包され、単体ウォームアップツールの居場所が構造的に狭い。ローカライズは構造化された連携中心で容易だが、ビジネスカスタムフィットが致命的に低く、規制も中程度のリスク。総合では『日本独自に作り込むより、到達率診断・監視へ用途を振り替えた限定的な隙間』に留まり、verdict は skip。本家がそのまま来ても日本で爆発的に伸びる地合いではなく、個人開発で正面から作る妙味は乏しい。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "海外では単体ウォームアップは月$29-49(lemwarm)とコモディティ価格化し、Instantly/Smartlead は送信ツールに無料同梱。国内も到達率関心は上がるが、ウォームアップ単体に月額を継続的に払う層は薄く、ARPU 確保の壁が厚い。診断 SaaS に振っても価格決定力は弱い。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内でコールドメール/アウトバウンドを IT で運用する企業は限られ(CRM 導入率約34.8%)、ウォームアップを能動的に求める層はさらに狭い。正規配信者向け到達率監視に広げても、多くは ESP 利用で完結し、自社 SMTP 運用の狭いニッチに TAM が限られる。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "対象が技術リテラシーの高いセールス/エンジニア層で、PH 的な反応(572 upvotes)が示すようにコンテンツ/SNS でリーチ可能。Qiita/Zenn での到達率・DMARC 解説や X 発信で PLG は成立しうる。ただしニッチゆえ流入総量は限定的。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "海外本家 Mailwarm は既に稼働 6 年で日本からも利用可能、Instantly/Smartlead 等も流入済み。ウォームアップ機能は送信ツールへの無料同梱が進み、単体での時間窓は実質ほぼ閉じている。新規参入の余地が小さい。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "ウォームアップは実在受信箱ネットワークの健全性維持・送受信監視が継続的に必要で、ブロックや ESP ポリシー変更への追随など運用負荷が中程度。診断 SaaS に絞れば手離れは良くなるが、到達率分野は誤検知対応の問い合わせも発生しやすい。"
+      }
+    },
+    "rationale": "事業性は中の下。プラス面は、対象顧客がエンジニア/セールスでコンテンツ起点の PLG が効きやすく(gtm=6)、2024 年ガイドラインで到達率テーマに関心が集まる点。マイナス面が重く、(1)単体ウォームアップは世界的に価格崩壊し送信ツールに無料同梱されるため収益化の壁が厚い(monetization=4)、(2)国内のコールドメール/アウトバウンド IT 運用層が薄く正規配信者は ESP で完結するため TAM が狭い(market_size=4)、(3)本家も競合も既に流入済みで時間窓がほぼ閉じている(timing=3)。運用も実在受信箱網の維持が必要で完全な手離れにはならない(solo_ops=5)。個人開発で正面からウォームアップ網を作るのは障壁が高く割に合わず、仮にやるなら『日本語の到達率/DMARC 診断・監視ツール』に絞り低 ARPU でも回るコスト構造にする必要がある。総合 5 でボーダー下、収益とタイミングの弱さが効いて no_go 寄りの consider 未満。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2500,
+      "plans": [
+        "Free: ドメイン1件の SPF/DKIM/DMARC 診断 + 到達率スコア表示",
+        "Pro: ¥2,500/月 ドメイン3件まで継続監視・苦情率/到達率トラッキング・Gmail/Yahoo ガイドライン準拠チェック",
+        "Team: ¥9,800/月 複数ドメイン・段階配信(ウォームアップ)支援・日本語サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "自社 SMTP/メール基盤を運用し、ESP に乗り切らない国内 BtoB スタートアップ・SaaS 事業者・正規メルマガ/トランザクションメール配信者。加えて IT 活用でアウトバウンド営業を行う先進的セールスチーム。オプトイン前提の正規配信者に限定。",
+      "target_count": 3000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 150000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn で Gmail/Yahoo 送信者ガイドライン・DMARC 対応・到達率改善の技術連載",
+      "X で個人開発者・セールスエンジニア向けに到達率 Tips を発信し無料診断へ誘導",
+      "無料の到達率/DMARC 診断ツールを入口にした PLG(Free→Pro 転換)",
+      "メール配信・MA を扱う SaaS との連携/相互送客"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "主用途のコールドメール送信が特定電子メール法のオプトイン規制に抵触しやすく、需要の上流が法的に細い。正規配信者向けに振り替えないと顧客基盤が立たない。",
+      "単体ウォームアップが世界的にコモディティ化し、Instantly/Smartlead が送信ツールに無料同梱。単体課金の継続が困難で ARPU を確保できない。",
+      "到達率対策が SendGrid/blastengine 等の国内 ESP に内包され、単体ツールの居場所が構造的に狭く TAM が限定。",
+      "ウォームアップネットワークによる人工エンゲージメントは受信側 ESP のポリシー変更(AI 検知強化等)で一夜にして無効化されるプラットフォームリスク。",
+      "本家 Mailwarm・海外ツールが既に日本から利用可能で時間窓がほぼ閉じており、後発の差別化余地が乏しい。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T11:56:47+09:00",
+  "review_guide_at": "2026-06-06T11:56:47+09:00",
+  "business_viability_at": "2026-06-06T11:56:47+09:00",
+  "advisor_view_at": "2026-06-06T11:56:47+09:00"
+}

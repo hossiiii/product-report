@@ -1,0 +1,210 @@
+{
+  "name": "Exstats",
+  "description": "Track your browser extensions and competitors in one place",
+  "ph_url": "https://www.producthunt.com/products/exstats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/NFCC7LFF4BSTGX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-30T07:01:00Z",
+  "upvotes": 227,
+  "comments": 18,
+  "topics": [
+    "Browser Extensions",
+    "Analytics",
+    "Developer Tools"
+  ],
+  "makers": [
+    {
+      "id": "9613142",
+      "name": "Artur",
+      "twitterUsername": "zerowaffl",
+      "headline": "Let products talk"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi Product Hunt 👋<br><br>I’m Artur, founder of Exstats.<br><br>I built Exstats because browser extension data is fragmented across Chrome Web Store, Microsoft Edge Add-ons, and Firefox Add-ons. If you’re building an extension, it’s hard to understand how your product is performing, what competitors are doing, which keywords matter, and how the market is changing.<br><br>Exstats brings all of that into one unified view.<br><br>With Exstats, you can:<br><br>* Track your extensions across Chrome, Edge, and Firefox<br>* Monitor competitors, ratings, reviews, rankings, and keyword positions<br>* Explore 280K+ browser extensions with advanced filters<br>* Follow store and category trends<br>* Get daily updates, exports, and alerts<br><br>It’s built for extension founders, indie makers, agencies, and teams that want better visibility into their market.<br><br>I’d love to hear your feedback, especially from anyone building or growing browser extensions. What would you want to track that extension stores don’t show today?<br><br>Thanks for checking it out.<br><br>Best,<br>Artur</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Most extension analytics tools stop at your own store listing. The competitor tracking angle is the more interesting half here. </p><p></p><p>How granular does it get on competitor data, are you pulling review sentiment and rating trends over time, or is it mostly install counts and category rankings? And does it cover both Chrome Web Store and Firefox/Edge, or Chrome only right now?</p><p></p><p>Congrats for the launch</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "Nice ship Artur 🚀 The competitor tracking angle is genuinely the more interesting half most extension analytics tools just give you a fancier view of your own store listing. Curious how the historical snapshots work in practice can you look back at how a competitor’s rating tanked over time after a bad update, or is it more “today vs last month” comparisons?",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Exstats unifies browser extension analytics and market research across Chrome, Edge, and Firefox. Track your products, competitors, reviews, rankings, keywords, and store trends in one place, with daily updates, history, exports, and alerts.",
+  "featured_at": "2026-05-30T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/7e310af9-8028-4843-a9fa-64797d23b91b.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2d4241b6-3fd3-4ae2-b1ac-f60b42244349.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a163eec6-4be5-424b-a4c3-bba78a2d4e4c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f9c556b6-cd5a-471e-a2dc-69277872c22e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6f572386-6002-45ec-85a6-920c9b18d54b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7fb599ee-e10f-46e9-bc13-8d1d23211134.png"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:43",
+  "landing_meta": "Exstats — Browser Extension Analytics for Chrome, Edge & Firefox — Monitor installs, ratings, reviews, and search rankings for 280,000+ browser extensions across Chrome, Edge, and Firefox. Updated daily.",
+  "landing_text": "Exstats — Browser Extension Analytics for Chrome, Edge & Firefox Built for extension developers Track your extensions and competitors across every store Monitor daily changes, compare performance, and get alerts across Chrome, Edge, and Firefox. Start Free Trial Free 7-day Pro trial · No credit card required Why extension analytics is hard today Extension stores weren't built for analytics. You're left guessing. No Historical Data Stores only show current numbers. You can’t see trends, spot drops, or understand what’s growing. No Alerts Ranking shifts, rating drops, competitor updates. Nothing notifies you. You find out when you check manually. No Single View Chrome, Edge, and Firefox each have their own dashboard. Comparing performance means switching tabs and spreadsheets. What you get Everything you need to track your extensions and competitors in one place. 280K + Extensions Tracked 365 + Days Days of History 6M + Reviews Collected Track performance Product Dashboard Group your extensions from Chrome, Edge, and Firefox into one product. Add competitors. See ratings, users, reviews, and category rank side by side with performance over time. Competitor comparison tables All reviews in one table Email & Slack alerts on any change Explore the market Extension Explorer Browse 280,000+ extensions with 30+ searchable fields, from ratings and installs to update frequency and category rank. Filter, sort, and combine any parameters to find exactly what you need. Multi-field search & sort Daily deltas (1D, 7D, 30D) Export to CSV & XLSX Track search rankings Keyword Tracking Add keywords and see where your extension ranks in each store. Track position changes over 1D, 7D, and 30D. See rank history over time. Generate keyword ideas with AI. Rank by store with daily changes Rank over time charts AI keyword suggestions Spot trends Store Trends Track how each store is evolving: total extensions, developers, users, and review activity over time. Find which categories and extensi",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing",
+    "premium",
+    "$10",
+    "$1",
+    "$3",
+    "$13",
+    "$21"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:44",
+  "description_ja": "Chrome/Edge/Firefox の拡張機能と競合を一元的に追跡する分析ツール",
+  "summary_ja": "Chrome・Edge・Firefox の拡張機能ストアを横断し、自社・競合拡張のインストール数/評価/レビュー/カテゴリ順位/キーワード順位を日次で収集・可視化。280K+ 拡張を横断検索でき、変化アラートと CSV/XLSX エクスポートを備えた拡張開発者向けの市場インテリジェンス SaaS。",
+  "tldr_ja": "拡張開発者向けの分析は英語圏が主戦場で Chrome-Stats 等が先行・飽和、国内需要は薄く個人開発の独自角度は乏しい",
+  "review_guide_ja": {
+    "what": "Chrome Web Store・Microsoft Edge Add-ons・Firefox Add-ons の 3 ストアを横断し、拡張機能のインストール数/評価/レビュー/カテゴリ順位/キーワード順位を日次収集して時系列で可視化する。自社拡張を 1 プロダクトにまとめ、競合を追加して横並び比較、レビューを 1 テーブルに集約、変化があれば Email/Slack でアラート。280K+ 拡張を 30+ フィールドで検索・ソートでき、1D/7D/30D の増減デルタや CSV/XLSX エクスポート、AI キーワード提案、ストア全体トレンド（拡張総数/開発者/ユーザー/レビュー量）も追える。典型ユースは、拡張ファウンダーが自社の順位低下や競合の動向を早期検知し、キーワード最適化や機能改善の意思決定に使うこと。",
+    "for_who": "ブラウザ拡張のファウンダー・個人開発者（インディーメーカー）、拡張を量産する代理店、拡張プロダクトを持つ小規模チーム。自社ストア管理画面では見えない時系列推移・競合比較・キーワード順位を必要とする層。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "UI とダッシュボードは標準的だが、3 ストア横断で 280K+ 拡張の日次データを継続収集・正規化するパイプラインとストレージ、レビュー 6M+ の蓄積が参入障壁。データ取得の安定運用が肝。"
+    },
+    "signals": [
+      "PH で 227 upvotes・コメントでも『競合追跡が面白い半分』と評価され、機能の刺さりどころが明確",
+      "Chrome のみでなく Edge/Firefox を横断する点が一部競合より広いカバレッジ",
+      "拡張開発者の課金実績は海外で存在（同カテゴリ $8〜49/月）",
+      "365 日履歴・6M レビュー蓄積という時系列データ資産"
+    ],
+    "concerns": [
+      "Chrome-Stats / Extension Radar / Extpose 等の先行競合が多数で差別化が薄い",
+      "データソースが各ストアの公開データ収集に依存し、ストア側の仕様変更や ToS リスクに脆弱",
+      "対象が拡張開発者という狭いニッチで、しかも本質的に英語圏グローバル市場",
+      "日本特有の需要・差別化要素がほぼ無い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "日本にも Chrome 拡張のインディー開発者コミュニティは存在し note/Zenn/Qiita で収益化記事が活発。ただし需要の中心は『拡張の作り方/収益化』で、競合分析・市場インテリジェンスへの言及は薄い。検索でも国内向け拡張分析 SaaS の話題はほぼ見られず、需要は限定的。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内専業競合は不在だが、これは需要が薄い裏返し。グローバルでは Chrome-Stats、Extension Radar、Extpose、Extension Ranker、ChromeWinner、Sensor Tower 等が先行し飽和気味。日本の開発者もこれら英語ツールを直接使うため実質競合は多い。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "扱うのは各ストアの公開データ中心で個人情報の取扱いは限定的、特商法・個情法とも重い制約は薄い。主リスクは法令でなくストア ToS とデータ取得の継続性。国内法上の参入障壁は低い。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "ダッシュボードと指標が中心で UI 文言の日本語化は容易。深い UX 改修や帳票・商習慣対応は不要。ただし対象顧客が英語前提のグローバル層のため、日本語化の事業的メリット自体が小さい。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "拡張開発者向けツールという性質上、日本商習慣（請求書/稟議/SI）への依存は薄く PLG と相性は悪くない。一方で日本のインディー開発者は買い切り/低単価志向が強く、ドル建て・継続課金の SaaS は受け入れに摩擦。検索で根拠は部分的、中庸評価。"
+      }
+    },
+    "existing_competitors_jp": [],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "収集対象は拡張ストアの公開メタデータ（インストール数・評価・レビュー等）が中心で、レビュー本文に含まれる個人名等の二次利用に留意すれば重い義務は発生しにくい。アカウント登録・課金に伴う最小限の個人情報管理で対応可能。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "サブスク課金を国内向けに提供する場合、特商法に基づく表記(事業者情報・解約条件等)が必要。SaaS では定型対応で済むため障壁は低い。"
+      },
+      {
+        "law": "著作権法・各ストア利用規約",
+        "impact": "法令というより Chrome Web Store / Edge / Firefox の公開データ収集が各ストア ToS に抵触しないかが実務上の最大論点。仕様変更やレート制限で収集が止まると製品が成立しない継続リスクがある。"
+      }
+    ],
+    "opportunity": "日本独自の角度はほぼ無い。あえて挙げれば、(1) 日本のインディー拡張開発者コミュニティ(note/Zenn/Qiita)に密着し『日本語の拡張収益化ナレッジ＋分析ツール』としてコンテンツ駆動で薄く獲得する、(2) 拡張に限らず Tampermonkey スクリプトや国内特化ストア需要など隣接ニッチへ広げる、程度。いずれも市場が小さく、英語圏の先行ツールに対する持続的優位を作りにくい。日本起点で作るより、最初から英語圏グローバル向けに作るのが筋。",
+    "rationale": "Exstats は拡張開発者向けの市場インテリジェンスという明確だが狭いニッチを突く良プロダクトで、Edge/Firefox 横断や 365 日履歴・6M レビューのデータ資産は評価できる。しかし日本市場フィットの観点では弱い。第一に需要が薄く、国内の関心は『拡張の作り方・収益化』に偏り、競合分析ツールへのニーズ顕在化が乏しい。第二に、このカテゴリは本質的に言語非依存の英語圏グローバル市場であり、日本の開発者も Chrome-Stats 等の英語ツールを直接使うため『日本向けにローカライズする意味』が小さい。規制・ローカライズ容易性は高いものの、それは事業機会の大きさを担保しない。国内専業競合の不在は好材料に見えて、実態は需要不足の裏返し。総じて日本市場を起点に独自開発する合理性は乏しく、verdict は skip。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "同カテゴリは海外で $8〜49/月のサブスクが成立し、拡張開発者は ROI が見えれば課金する層。一方、日本のインディー開発者は買い切り/低単価志向が強く継続課金への抵抗が大きい。国内単独では ARPU 確保に摩擦、グローバル課金前提なら現実的。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "対象は『拡張を公開し市場分析を欲する開発者』という二重に狭い層。CWS 全体で 19 万件規模の拡張があるが、有償の競合分析ツールに課金する開発者は世界でも限定的。国内に絞ると数百〜数千規模と推定(根拠未確認)で TAM はニッチ。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "PLG・無料トライアル・X/PH 発信で開発者に直接リーチでき、SI や人脈は不要なのは利点。ただし国内では拡張分析の検索需要が薄く、コンテンツ流入を作りにくい。獲得は英語圏(PH/Reddit/X)が主戦場になり、日本起点の優位は薄い。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "既に Chrome-Stats・Extension Radar・Extpose 等が先行し市場は飽和気味。本家の進出を待つ段階ではなく、すでに競合だらけ。新規参入の時間窓はむしろ閉じつつある。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "プロダクト UI 自体は手離れしやすいが、3 ストア×280K 拡張の日次データ収集パイプラインの維持・ストア仕様変更追随が継続コスト。データが止まれば価値が消える性質で、完全放置は不可。中程度の運用負荷。"
+      }
+    },
+    "rationale": "事業成立性は総じて弱い。最大の難点は市場規模で、対象が『拡張を公開し、かつ有償の市場分析に課金する開発者』という二重のニッチであり、TAM が小さい。GTM は PLG で開発者に直接届く点は良いが、日本国内では拡張分析の検索需要が薄く流入導線を作りにくいため、獲得の主戦場は結局 PH/Reddit/X など英語圏になる。マネタイズは海外実績($8〜49/月)があり成立余地はあるが、日本のインディー開発者の買い切り・低単価志向を踏まえると国内単独での ARPU 確保には摩擦。タイミングは Chrome-Stats 等の先行で既に飽和気味で、新規の時間窓は閉じつつある。運用はデータ収集パイプライン維持という継続負荷を抱える。結論として、日本の個人開発者がこれを国内市場向けに新規開発する事業合理性は低い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2000,
+      "plans": [
+        "Free: 自社拡張 1 件＋競合 2 件まで、履歴 30 日、週次更新",
+        "Pro: ¥1,500/月 — 拡張 5 件・競合無制限・日次更新・アラート・CSV/XLSX エクスポート",
+        "Agency: ¥6,000/月 — 複数プロダクト管理・キーワード追跡拡張・API"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内で Chrome/Edge/Firefox 拡張を継続的に公開・運用し、順位やレビュー・競合動向を気にするインディー開発者・小規模スタジオ・代理店。note/Zenn/Qiita で拡張収益化を発信する層が中心。",
+      "target_count": 3000,
+      "capture_pct_year3": 3,
+      "monthly_revenue_target_jpy": 180000
+    },
+    "recommended_gtm": [
+      "Product Hunt / Reddit(r/chrome_extensions 等)など英語圏での PLG 発信を主軸に",
+      "X(旧Twitter)での拡張開発者向け個人発信・ビルドインパブリック",
+      "Zenn/Qiita/note で日本語の『拡張の収益化・順位最適化』ナレッジ連載からの流入",
+      "無料枠(自社1件＋競合数件)で導入障壁を下げる PLG",
+      "拡張開発系コミュニティ/Discord でのレビュー収集・口コミ"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "市場が二重ニッチで TAM が小さく、国内単独では事業として成立しにくい。グローバル前提でも先行競合に対する持続優位を作りにくい。",
+      "Chrome Web Store/Edge/Firefox の公開データ収集に全面依存し、ストア仕様変更・レート制限・ToS 変更でデータ供給が止まれば製品価値が即消失する。",
+      "Chrome-Stats・Extension Radar・Extpose 等の先行競合が機能・価格(月8ドル〜)で先行しており、後発の差別化余地が乏しい。",
+      "日本のインディー開発者は買い切り・低単価志向が強く、ドル/継続課金の市場インテリジェンス SaaS への課金転換率が低い見込み。",
+      "データパイプラインの継続運用が必須で完全な手離れができず、個人運用での保守負荷が読みにくい。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T11:20:00Z",
+  "review_guide_at": "2026-06-06T11:20:00Z",
+  "business_viability_at": "2026-06-06T11:20:00Z",
+  "advisor_view_at": "2026-06-06T11:20:00Z"
+}

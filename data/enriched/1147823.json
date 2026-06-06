@@ -1,0 +1,249 @@
+{
+  "name": "Powabase",
+  "description": "Build AI apps with Postgres, RAG, and agents",
+  "ph_url": "https://www.producthunt.com/products/powabase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/6BBPF3XTDL5C2Y?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-27T07:01:00Z",
+  "upvotes": 444,
+  "comments": 73,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence",
+    "Database"
+  ],
+  "makers": [
+    {
+      "id": "4339693",
+      "name": "Hunter Zhao",
+      "twitterUsername": null,
+      "headline": "Founder of Powabase."
+    },
+    {
+      "id": "3386554",
+      "name": "Michael Chang",
+      "twitterUsername": null,
+      "headline": "Software Engineer at Powabase.ai"
+    },
+    {
+      "id": "9771185",
+      "name": "Xin Chen",
+      "twitterUsername": null,
+      "headline": "Founding engineer of Powabase.ai"
+    },
+    {
+      "id": "9724725",
+      "name": "Tony Zhang",
+      "twitterUsername": null,
+      "headline": "Backend for AI apps. Built for agents."
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p></p><p>I'm Hunter, co-founder of <a href=\"https://powabase.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Powabase</strong></a>. We've been running an AI dev shop since ChatGPT first came out, and after many client projects we noticed the same pattern repeating itself. Nearly every AI-native app ends up needing the same stack: Postgres, a vector store, RAG pipelines, an agent runtime, memory, auth, and file storage. </p><p></p><p>Today you stitch that together from 6–8 tools, write a lot of glue code, and then watch your coding agent burn tokens navigating it. We've built ~100 production AI apps across regulated industries — finance, insurance, education, government — and the infra glue was always the slowest, most expensive part.</p><p></p><p>So we abstracted it into a unified backend. Powabase is the backend we wished we'd had — and now every new AI project we take on ships in a fraction of the time.</p><p></p><p><strong>Powabase is that whole stack as one platform:</strong></p><ul><li><p>Postgres + pgvector + file storage, provisioned per project in one click</p></li><li><p>Standard Supabase features like auth and realtime</p></li><li><p>A context engineering layer with multiple RAG algorithms that hits <strong>98.7% on FinanceBench</strong></p></li><li><p>Supports OpenAI, Anthropic, Google, or open-source LLMs via OpenRouter</p></li><li><p>Multimodal embeddings, rerankers, OCR, web search, web scraping all included without separate third party API keys or integrations</p></li><li><p>ReAct multi-agent orchestration with prebuilt tools (web search, database r/w, sandboxed code execution, etc.) and support for custom tool integrations via API and MCP</p></li><li><p>N8n-like visual agent workflow builder for deterministic logic; built-in copilot can help you craft workflows using natural language</p></li><li><p>Full observability in agent reasoning, token usage, RAG context, tool calls, workflow executions, and system errors</p></li><li><p>Optimized for coding agents like Claude Code — clean primitives, predictable APIs, token-efficient by design</p></li></ul><p>AI apps deserve their own backend abstraction, not a Frankenstein of generic infra + LLM wrappers. Supabase made Postgres easy to use; we want to do that for the full AI-native stack.</p><p></p><p>It's free to start, and our <a href=\"https://cookbook.powabase.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">cookbook</a> + <a href=\"https://github.com/powabase-ai/cookbook\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">example apps</a> are open source on GitHub. We plan to open source a self-hosted version after early access period ends, likely around late June / July 2026.</p><p></p><p>I'll be in the comments all day with <a href=\"https://www.producthunt.com/@tonyzhangcy\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@tonyzhangcy</a> , <a href=\"https://www.producthunt.com/@xin_chen17\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@xin_chen17</a> , and <a href=\"https://www.producthunt.com/@michael_t_chang\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@michael_t_chang</a> . Tear it apart — what's missing, what's confusing, what would make you actually try it. 🙏</p><p></p><p>Early access users get free lifetime benefits — try it at <a href=\"http://app.powabase.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">app.powabase.ai</a> and tell us what you build 🚀</p>",
+      "votesCount": 32,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>the 6-8 tools stitched together with glue code is painfully accurate. every AI project starts clean and ends up as a frankenstein of integrations within a month. unified backend makes sense if it actually reduces that sprawl</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Postgres + RAG + agents is a useful bundle if it reduces the number of glue decisions teams have to make early.</p><p>The question I’d have is where Powabase draws the line between prototype convenience and production control: evals for retrieval quality, prompt/version history, permissions, and audit logs. Those are usually the pieces teams discover they need right after the first demo works.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Powabase is a backend-as-a-service for AI-native applications, combining Postgres, RAG, agents, memory, workflows, and automation primitives in one platform. It helps agencies and in-house IT teams build new AI apps or add AI automation to existing products without stitching together fragmented infrastructure. Designed to work seamlessly with modern coding agents, Powabase helps teams ship faster while building more robust, token-efficient systems.",
+  "featured_at": "2026-05-27T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/bc1bdf28-9b59-4509-9db7-3b604380fb3b.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6e304c87-40be-4f43-9e9a-5b2c4a06c609.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c35f126a-a18f-421d-9493-ce0403d548b2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/78d3c897-a4a1-42a8-accb-33e4a995e078.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8916d5bc-7bfc-4079-9e8d-9905aa587dc5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bc033151-9c13-4fbe-a7fc-6658decff5c4.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/0c756a03-cfe9-48be-b014-f69cd25c7e82.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:25",
+  "landing_meta": "Powabase — Postgres, RAG, and agents. One backend. — Every project gets its own Postgres, storage, auth, realtime, and an agent runtime. Documents extract, embed, and index on upload. Agents call tools over HTTP or MCP. Self-host it or use ours.",
+  "landing_text": "Powabase — Postgres, RAG, and agents. One backend. Trusted by F1000 enterprises Postgres, RAG, and agents. One backend. Powabase is the all-in-one development platform for AI apps. Comes with RAG, agents, drag & drop workflows. Fine-tuned for AI coding agents. Start a project Read the docs Up to 70% token savings on optimized agent setups 2–4× lower build cost for AI applications 1 week to MVP from zero to a working product Trusted by teams at BACKEND The BaaS part. Postgres with RLS, a first-class auth service, object storage, and realtime. Access it through PostgREST, the REST/GraphQL-style API, or a direct database connection. RETRIEVAL RAG, out of the box. Upload PDFs, images, office files, or URLs — Powabase extracts, chunks, embeds, and indexes them. Built-in OCR 91% accuracy (OlmOCR-Bench). RAG pipeline 98.7% accuracy (FinanceBench). BM25, pgvector, hybrid search, and SOTA rerankers included. Handles multimodal content indexing. AGENTS Agents, with tools. Define ReAct orchestrations with multiple LLMs, knowledge bases, and tools. Runs stream over SSE with fully logged retrieval events, tool calls, token deltas, and citations. Sessions track multi-turn state. Use built-in tools like web search and code execute or add your own tools over HTTP or MCP. WORKFLOWS Workflows, visual and callable. Build multi-step agent workflows by dragging and connecting blocks: triggers, conditions, agents, HTTP calls, code. Ask the natural-language copilot to design the flow for you. Deploy a workflow and turn it into an HTTP endpoint. ARCHITECTURE Your own stack. Tuned for AI. Every Powabase project gets a fully isolated stack — your own Postgres, your own Realtime, your own Storage. No shared logical databases, no noisy-neighbor risk, and SOC 2 / HIPAA compliance assumptions hold by default. The underlying compute is engineered for AI workloads: retrieval, rerank, and the agent runtime are co-located, so RAG stays hot and agent loops stay short. ISOLATION Isolated Postgres + Re",
+  "pricing_signals": [
+    "open source",
+    "self-hosted",
+    "pricing",
+    "$1",
+    "$7",
+    "$11",
+    "$34",
+    "$58"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:26",
+  "description_ja": "Postgres・RAG・エージェントを1つにまとめたAIアプリ向け統合バックエンド",
+  "summary_ja": "AIアプリ開発に必要なPostgres、ベクトル検索/RAG、認証、ストレージ、ReActエージェント、可視ワークフローを1プラットフォームに統合したBaaS。6〜8個のツールを繋ぐグルーコードを排し、コーディングエージェント向けに最適化。Supabaseの「AIネイティブ版」を狙う。",
+  "tldr_ja": "Supabase/Dify等のグローバル本家が日本でも先行する開発者インフラ領域。個人開発で正面勝負は困難、追うべきでない。",
+  "review_guide_ja": {
+    "what": "AIアプリ開発に必要なバックエンド一式を1つに束ねたBaaS。プロジェクトごとに独立したPostgres(RLS)・pgvector・オブジェクトストレージ・認証・Realtimeを1クリックで払い出し、PDF/画像/Office/URLをアップロードすると自動で抽出・チャンク化・埋め込み・索引化しRAGを構成(OCR 91%、FinanceBench 98.7%、BM25/ハイブリッド検索/リランカー内蔵)。OpenAI/Anthropic/Google/OSS LLMをOpenRouter経由で利用でき、ReActマルチエージェントのオーケストレーション、Web検索やコード実行などの組込ツール、HTTP/MCP経由のカスタムツール連携に対応。n8n風のドラッグ&ドロップでワークフローを組みHTTPエンドポイント化できる。トークン使用量・RAGコンテキスト・ツール呼び出し等の可観測性も提供。典型用途は社内RAGチャット、ドキュメントQ&A、業務自動化エージェントの本番構築。",
+    "for_who": "AI受託開発会社・社内ITチーム・AIネイティブSaaSを作るスタートアップ/個人開発者。金融・保険・教育・行政など規制業界向けに本番AIアプリを量産する開発者を主に想定。Supabase的なBaaSにRAGとエージェント基盤を足したものを求める層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "Postgres管理・マルチテナント分離・RAGパイプライン・エージェント実行基盤・可視ワークフロー・課金/認証を統合運用する必要があり、個人での再現は極めて重い。各要素はOSSで存在するが束ねた本番品質の提供が難所。"
+    },
+    "signals": [
+      "PH444票/73コメントと開発者の関心は高い",
+      "Supabaseの認識(Firebase代替BaaS)が日本でも定着し市場文脈は伝わりやすい",
+      "セルフホスト/OSS版を予定しベンダーロックイン懸念を緩和",
+      "コーディングエージェント(Claude Code等)最適化という時流に乗った訴求",
+      "RAG精度ベンチ(FinanceBench 98.7%)など具体的な数値訴求"
+    ],
+    "concerns": [
+      "Supabase(450万開発者)・Dify(GitHub 12.6万star、リコーが国内エンタープライズ販売)等の本家が日本でも先行",
+      "インフラ層のため24/7のSLA・データ堅牢性が必須で個人運用に不向き",
+      "規制業界訴求だが日本ではデータ国内保管・ISMAP等の追加要件が壁",
+      "個人開発者がグローバル本家と差別化できる角度が乏しい",
+      "本番移行時に必要な評価/監査ログ/権限管理の成熟度が未知数(コメントでも指摘)"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内生成AI市場は2024年に1,000億円超、IDCは2028年8,028億円(CAGR84.4%)と予測。RAG/エージェント基盤への需要は顕在で、Dify・Supabaseの日本語記事も多数。ただし需要の受け皿は既存本家に集中しており新規BaaSへの渇望は限定的。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Supabase(世界450万開発者)が日本でもBaaS標準として定着、DifyはGitHub12.6万star+リコーが国内販売、国産はヘッドウォータース・Allganize・JAPAN AI等が乱立。グローバル+国内ともに飽和し競合不在とは程遠い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "ソフトウェア基盤自体に固有規制は少ないが、規制業界(金融/保険/行政)を顧客に据える設計上、個情法の越境移転・外的環境把握義務、政府系ではISMAP登録とデータ国内保管が要求される。海外運営のままでは規制業界訴求が弱まる。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "API/構造化中心の開発者向けプロダクトでUIの日本語化負荷は中程度。ただしOCRやRAGの日本語ドキュメント精度、日本語埋め込み/リランカーの最適化、和文契約書等への対応が品質面で問われる。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "開発者向けPLGは商習慣依存が小さい一方、規制業界の本番採用には国内法人・サポート体制・国内データセンターが事実上要求される。クラウド調達の保守性嗜好も逆風で、海外個人運営との相性は中庸。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Supabase",
+        "url": "https://supabase.com/",
+        "note": "Firebase代替のOSS BaaS。Postgres+認証+ストレージ+Realtime+pgvectorを提供し、日本語解説記事も多数で開発者標準として定着。PowabaseはこれのAIネイティブ拡張を標榜するが本家もAI機能を拡充中。"
+      },
+      {
+        "name": "Dify (LangGenius)",
+        "url": "https://dify.ai/",
+        "note": "GitHub12.6万star超のOSS LLMアプリ基盤。RAG/エージェント/可視ワークフローを備え機能重複が大きい。リコーが2024年12月に国内エンタープライズ販売・構築パートナー契約を締結し日本市場で先行。"
+      },
+      {
+        "name": "ヘッドウォータース (SyncLect Generative AI)",
+        "url": "https://www.headwaters.co.jp/service/ai_agent.html",
+        "note": "国産AIエージェント/RAG構築プラットフォーム及び受託。規制業界向け本番構築という同一ターゲットを国内体制で押さえる。"
+      },
+      {
+        "name": "Allganize (Alli LLM App Market)",
+        "url": "https://www.allganize.ai/ja/agent",
+        "note": "法人向け生成AI/AIエージェントプラットフォーム。ノーコードエージェントビルダーと100超のAIアプリ連携を提供し、国内エンタープライズに浸透。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法(越境移転・外的環境の把握)",
+        "impact": "顧客の個人データが海外サーバに保存される場合、提供事業者/サーバ所在国の制度把握と安全管理措置、本人への情報提供が必要。海外運営のままでは国内顧客の導入ハードルとなり、データ国内保管リージョンの用意が事実上求められる。"
+      },
+      {
+        "law": "ISMAP / 政府情報システムのクラウド利用基準",
+        "impact": "行政・公共を顧客にする場合、ISMAP登録クラウドからの調達が原則で、ISO/IEC27017・27018認証と日本国内データ保管が条件。Powabaseが掲げる行政向け訴求は国内では登録・認証取得なしには成立しにくい。"
+      }
+    ],
+    "opportunity": "正面からSupabase/Difyの代替を狙うのは個人開発では非現実的。角度を変えるなら(1)日本語ドキュメントに特化したRAGパイプライン(和文OCR・日本語埋め込み/リランカー・契約書/稟議書テンプレ)を薄く載せる、(2)国内リージョン+ISMAP相当の準拠を売りに規制業界の中小向けに絞る、(3)Dify/Supabase上で動く日本語特化のRAG/エージェント・アドオンやテンプレ集として寄生する、のいずれか。基盤フルスタックの自作ではなく、本家の上に日本語/法令準拠の薄い層を載せる戦略が現実的。",
+    "rationale": "需要(国内生成AI市場の急拡大、RAG/エージェント基盤への関心)は本物だが、その需要の受け皿はSupabase・Difyという資金力あるグローバル本家と、ヘッドウォータース/Allganize/JAPAN AI等の国内勢で既に埋まっている。Powabaseの提供価値(統合BaaS+RAG+エージェント)は機能重複が大きく、個人開発者が同領域で正面から差別化する余地は乏しい。規制業界を主戦場に据える設計は、日本では個情法の越境移転・ISMAP・国内データ保管という追加要件に直面し、海外個人運営とは相性が悪い。総じて市場機会としては『需要は強いが競合飽和+規制要件で参入困難』。日本独自に挑むなら本家の代替ではなく、日本語RAG精度や法令準拠という狭い差分に絞った薄いアドオン型に限り検討余地がある。verdictはskip。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "開発者インフラは従量+月額が定着し課金壁は低め(Supabase Pro $25/月、実勢$35-300/月)。ただし無料/OSS慣れした層が多く、本家が無料枠で先行する中で個人が有料ARPUを確保するのは容易でない。規制業界B2Bなら単価は上がるが営業負荷が増す。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内生成AI市場2028年8,028億円予測と地合いは良く、AIアプリを作る開発者/受託/社内IT母数も拡大中。ただし『BaaSを乗り換える層』に絞ると実TAMは縮小し、個人が獲得可能な範囲はニッチ。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "開発者向けはQiita/Zenn/X/OSSでPLG到達が可能で、Supabase/Difyの国内記事流入も狙える。一方インフラ層は信頼構築に時間がかかり、規制業界B2Bは結局SI/紹介経由になりやすく個人リーチは限定的。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "本家Supabaseは既に日本で定着、Difyはリコーが国内販売中で本家進出は『来る寸前』ではなく『既に来ている』状態。時間窓はほぼ閉じており、後発個人が取れる余白は小さい。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "本番アプリのバックエンドという性質上、データ堅牢性・可用性・24/7のSLAが必須。マルチテナントPostgresやエージェント実行基盤の運用は個人には過重で、障害時の信用毀損リスクも甚大。手離れは困難。"
+      }
+    },
+    "rationale": "事業成立性は厳しい。最大の問題はtiming(本家が既に日本に浸透済み)とsolo_ops(本番バックエンドの24/7運用が個人に過重)。課金嗜好(monetization)とTAM(market_size)は中庸で、開発者向けPLGというGTM自体は個人でも回せるが、インフラの信頼構築に時間がかかり規制業界に踏み込むほど営業/サポート負荷が跳ね上がる。フルスタックBaaSとしての自作・運用を個人で継続するのは現実的でなく、もし挑むなら基盤は本家(Supabase/Dify)に乗り、日本語RAG精度や法令準拠といった薄い差分だけを提供する『運用負荷の小さいアドオン型』に絞らない限り、継続は難しい。総合的に事業性スコアは低く、no_go寄りのconsider。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 4000,
+      "plans": [
+        "Free: 個人/PoC向け。月間処理ドキュメント数とエージェント実行回数に上限",
+        "Pro: ¥4,000/月。本番小規模、日本語RAG精度最適化・国内リージョン選択可",
+        "Business: ¥40,000/月〜。規制業界向け、監査ログ・権限管理・SLA・国内データ保管"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本語ドキュメントの社内RAG/業務エージェントを内製したい中小〜中堅企業の社内ITチーム、およびAI受託の小規模開発会社。Supabase/Difyを使いつつ日本語精度や国内データ保管に不満を持つ層に限定。",
+      "target_count": 3000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 180000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで日本語RAG精度・和文OCR比較記事を連載しオーガニック流入を獲得",
+      "GitHubでOSSの日本語特化RAGテンプレ/アドオンを公開しSupabase/Difyユーザーを取り込む",
+      "X個人発信でコーディングエージェント(Claude Code)連携の実装デモを継続発信",
+      "AI受託の小規模開発会社にニッチ機能として横展開(口コミ/紹介)"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "本家Supabase/Difyが日本で既に定着し、機能重複が大きく差別化余地が乏しい。Difyはリコー経由で国内エンタープライズに浸透済みで後発の個人が取れる余白は小さい。",
+      "本番アプリのバックエンドとしてデータ堅牢性・24/7可用性・SLAが必須。マルチテナントPostgres+エージェント基盤の運用は個人には過重で、障害は致命的な信用毀損に直結する。",
+      "規制業界を主戦場にする場合、個情法の越境移転対応・ISMAP登録・国内データ保管が事実上要求され、海外/個人運営のままでは導入が進まない。",
+      "OSS/無料慣れした開発者層が多く、本家が無料枠で先行する中で個人が有料ARPUを確保しにくい。",
+      "基盤フルスタックの自作は開発・保守工数が膨大で、本家のリソースとアップデート速度に個人が追随し続けるのは非現実的。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T11:20:00Z",
+  "review_guide_at": "2026-06-06T11:20:00Z",
+  "business_viability_at": "2026-06-06T11:20:00Z",
+  "advisor_view_at": "2026-06-06T11:20:00Z"
+}

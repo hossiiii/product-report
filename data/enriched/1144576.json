@@ -1,0 +1,278 @@
+{
+  "name": "Wingbits AI",
+  "description": "AI agents for real-time aircraft monitoring and alerts",
+  "ph_url": "https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/YHETQGWHA4NYM6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-30T07:01:00Z",
+  "upvotes": 265,
+  "comments": 47,
+  "topics": [
+    "API",
+    "Artificial Intelligence",
+    "Maps"
+  ],
+  "makers": [
+    {
+      "id": "9450688",
+      "name": "Alex Lungu",
+      "twitterUsername": null,
+      "headline": "Co-founder at Wingbits"
+    },
+    {
+      "id": "9835004",
+      "name": "Yanal H",
+      "twitterUsername": null,
+      "headline": "Head of Market Expansion @Wingbits"
+    },
+    {
+      "id": "9346534",
+      "name": "Nica Andren",
+      "twitterUsername": null,
+      "headline": ""
+    },
+    {
+      "id": "6876176",
+      "name": "Fritiof Gure",
+      "twitterUsername": null,
+      "headline": ""
+    },
+    {
+      "id": "9450482",
+      "name": "Mikael Sundberg",
+      "twitterUsername": null,
+      "headline": "Hello!"
+    },
+    {
+      "id": "1757815",
+      "name": "Aaron Shaw",
+      "twitterUsername": null,
+      "headline": "Hardware Lead at Wingbits"
+    },
+    {
+      "id": "9449925",
+      "name": "Pelle Sandström",
+      "twitterUsername": null,
+      "headline": "Founding Ops @ Wingbits"
+    },
+    {
+      "id": "9453373",
+      "name": "Max",
+      "twitterUsername": null,
+      "headline": "\n\n"
+    },
+    {
+      "id": "9450778",
+      "name": "Erik Magnusson",
+      "twitterUsername": null,
+      "headline": "Software engingeer"
+    },
+    {
+      "id": "9255923",
+      "name": "Savannah Lee",
+      "twitterUsername": null,
+      "headline": "Head of Growth @ Wingbits"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋<br></p><p>I'm Alex, co-founder of Wingbits.<br></p><p>For the last two years we've built a completely new flight tracking network: 6000 antennas across 120 countries, generating terabytes of data daily, with Spire Global and Korean Air as customers. Until now, gaining insights from this data required a data science team. Now we're launching <a href=\"http://Wingbits.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Wingbits.ai</a> so everyone else can easily get answers too.<br><br>It's made for reporters, prediction markets, competitive analysts, route planners, aviation enthusiasts. Anyone can extract geopolitical or operational insights by just asking in plain English.<br><br>No code, no data processing, no infrastructure.</p><p><br>A few things you can do today:</p><ul><li><p>Ask \"where is Air Force One right now?\" and get a live map link to track it</p></li><li><p>\"Which private jets visited Davos last weekend?\" or \"Mar-a-Lago last Saturday?\"</p></li><li><p>Spin up agents that send alerts to Slack, email, Telegram, or Teams the moment something matches your criteria</p></li><li><p>Compare GPS jamming events across regions, or</p></li><li><p>Get scheduled reports or analysis on things like competitor routes</p></li></ul><p>PH community gets a free tier, or 1 month of Pro free with code <strong>HUNTERS</strong>.<br></p><p>Let me know - what's one thing you've always wanted to know about aviation, but never had the tools for?<br></p><p>— Alex</p>",
+      "votesCount": 40,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is awesome! <br><br>\"How many helicopters are flying over Sweden right now\" gives me a deep and detailed answer - I will spend way to much time with this... 🤓<br><br></p>",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Real-time ADS-B data processing at scale is genuinely hard. The fan-out problem for alert subscriptions when flight state changes happen fast is nontrivial. We've wrestled with similar event-driven architectures for customer health signals where latency matters. Are you processing raw Mode S data directly or using a provider like ADS-B Exchange? How do you handle alert deduplication when a flight triggers multiple geofence conditions simultaneously?</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Create agents that monitor airspace activity 24/7 - military aircraft in a region, private or government jets, a GPS-jamming spike, or a travelling friend or family member - and get alerts the moment something relevant happens. Or just ask anything about what's flying right now. Powered by our own independent network of 5,600+ antennas across 120 countries. No code, no data engineering, no terabytes to store.",
+  "featured_at": "2026-05-30T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a8a2bd70-3470-402a-8860-37961526e119.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/279df08f-4128-4484-828d-e5601ef2d982.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6e1c948a-3e2c-4cec-918d-32628be4acc3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ecb3bc79-6d61-4a8d-a493-6b04f7229b80.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8520e72f-15e3-43e2-8135-ac74cdc8b268.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/3367a826-3ba2-44fd-a96c-e7f5d9bab5c9.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:37",
+  "landing_meta": "Wingbits AI | Agents that Scan the Sky & Send Real-Time Alerts — Set up personal AI agents that monitor global aircraft activity 24/7. Get real-time alerts, daily insights or deeper analysis pushed automatically straight to your Inbox, Slack or phone.",
+  "landing_text": "Wingbits AI | Agents that Scan the Sky & Send Real-Time Alerts The smartest way to explore the sky. Monitor airspace 24/7 with real-time alerts. C r e a t e A I a g e n t s t h a t m o n i t o r r e a l - t i m e a i r c r a f t , f l e e t s o r e n t i r e r e g i o n s , w i t h i n s t a n t p u s h a l e r t s t o S l a c k , T e a m s , o r y o u r i n b o x . Set up your free agent Powered by How it works Ask the sky anything. Get alerts on what matters. Step 1 Tell your Ai agent what you want them to do. Tell them to track a specific aircraft, a whole geographic region or even entire fleets. Step 2 The agent runs in the background. Automate your workflows and let your agent take care of your manual querying, searching and monitoring. Step 3 Alerts & reports automatically delivered. Get alerts, custom reports or analysis pushed to Slack, Teams or your inbox. Personal agents that work for you 24/7 Breaking News “Alert me in the event of GPS jamming events across the Gulf region\" Try it out Airport Ops “Give me daily report of delays and diversions at JFK airport” Try it out VIP Monitoring “Notify me when any aircraft from this VIP list becomes active” Try it out Investigations & Reporting “Monitor helicopter activity over Beverly Hills and inform me if activity spikes” Try it out Ask the sky real-time questions Explore the live map to see aircraft filters, GPS jamming, TCAS alerts and more Filter by aircraft type, altitude, historic, operator history, seats, engines and get historical playback. See live map Ask the sky real-time questions Explore the live map to see aircraft filters, GPS jamming, TCAS alerts and more Filter by aircraft type, altitude, historic, operator history, seats, engines and get historical playback. See live map seamless integration Connect the tools or platforms you already use, or request a custom set-up Pricing plans Custom agents for you or your whole organisation Explorer Free forever 20 chat messages 1 pre-built agent Manual runs o",
+  "pricing_signals": [
+    "free trial",
+    "free forever",
+    "pricing",
+    "$0",
+    "$49 / mo",
+    "$25 / mo",
+    "$249 / mo",
+    "$99 / mo"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:38",
+  "description_ja": "リアルタイム航空機監視とアラートを行う AI エージェント",
+  "summary_ja": "自社の世界規模 ADS-B アンテナ網（120カ国5,600基超）を背景に、自然言語で「今どこを何が飛んでいるか」を質問でき、特定機・地域・艦隊を24時間監視して Slack/メール/Teams へアラートやレポートを自動配信する AI エージェント SaaS。",
+  "tldr_ja": "価値の源泉は独自アンテナ網で個人開発は再現不可、Flightradar24 寡占。日本需要も航空マニア中心のニッチで no_go。",
+  "review_guide_ja": {
+    "what": "120カ国に5,600基超のアンテナを持つ独自 ADS-B 受信網を背景に、航空機のリアルタイム/過去位置データを自然言語で扱える AI エージェント。「今エアフォースワンはどこ?」「先週ダボスに来たプライベートジェットは?」といった質問に地図リンクや分析で回答。特定機・VIPリスト・地域・艦隊を24時間バックグラウンド監視し、条件一致時に Slack/メール/Telegram/Teams へプッシュ通知。定期レポートや競合ルート分析、GPSジャミング/TCAS イベント比較も可能。報道機関・予測市場・競合分析・ルートプランナー・航空マニアを想定顧客とし、コード・データ処理・インフラ不要で使える点を訴求する。Spire Global や大韓航空を既存顧客に持つ。",
+    "for_who": "航空 OSINT を行う報道機関・調査記者、予測市場プレイヤー、航空会社/空港の競合・運航分析担当、ルートプランナー、そして航空マニア・ウォッチャー個人。プライベートジェットや軍用機・政府専用機の動きを追う層が中核。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "価値の中核が独自の世界規模 ADS-B アンテナ網（5,600基超）と大規模リアルタイムデータ基盤にあり、個人開発者がデータ層を再現するのは不可能。AI 問い合わせ層だけ作っても外部データ依存になる。"
+    },
+    "signals": [
+      "PH で265 upvotes/47コメントと反応良好、Spire Global・大韓航空という実顧客を提示",
+      "自然言語UIでデータサイエンスチーム不要という明確な価値提案",
+      "GPSジャミング・軍用機監視など地政学リスク高まりで需要が伸びる領域",
+      "プライベートジェット追跡は富裕層/著名人報道で海外実績のあるユースケース"
+    ],
+    "concerns": [
+      "中核価値が自社アンテナ網=ハード資産で、ソフト単体の差別化が薄い",
+      "Flightradar24 が無料〜有料で市場を寡占、AI レイヤーは容易に追随される",
+      "VIP/プライベートジェット追跡はプライバシー・報道倫理・規制面の論点を抱える",
+      "日本での有償ニーズは航空マニア中心でニッチ、法人需要が読みにくい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "Flightradar24 が日本でも航空マニア・旅行者に広く浸透し追跡需要自体は存在。中国機の領空接近・GPSジャミング等で監視ニーズの社会的関心も上昇。ただし自然言語AIエージェントとして金を払う層は限定的で、需要の顕在性は中庸。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Flightradar24・FlightAware・ADS-B Exchange 等が地球規模のデータ網で寡占。Wingbits 自身も含め強力な海外プレイヤーが既に日本で利用されており、データ層で勝負する余地はほぼ無い。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "ADS-B は放送型信号で個人受信・利用に明確な違法性は確認されておらず（総務省/司法とも公式見解未表明）、データ提供サービス自体の規制は軽い。ただし政府専用機・VIP追跡はプライバシーや安全保障上の論点が残る。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "自然言語チャット中心で UI 改修は軽く、日本語化は LLM のプロンプト/出力対応で比較的容易。航空データ自体は国際標準で日本特有の構造変更も少ない。深い UX 改修は不要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "B2C マニア層は海外SaaSにも抵抗が少ない一方、法人(報道・空港・航空)は国内代理店・与信・請求書払い・サポート体制を求める傾向。個人開発が法人商習慣に乗るのは難しく中庸。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Flightradar24",
+        "url": "https://www.flightradar24.com/",
+        "note": "スウェーデン発の世界最大手フライトトラッカー。日本でもマニア・旅行者に浸透し App Store 上位。無料〜Business($49.99/月 約5,499円)で実質的な市場標準。"
+      },
+      {
+        "name": "FlightAware",
+        "url": "https://flightaware.com/",
+        "note": "米国系の老舗フライト追跡/航空データ API 提供。法人向けデータ販売・運航分析で実績。日本の航空関連事業者も利用。"
+      },
+      {
+        "name": "ADS-B Exchange",
+        "url": "https://www.adsbexchange.com/",
+        "note": "フィルタ無し(軍用機/政府機も非除外)のオープンADS-Bデータで知られ、OSINT用途で支持。Wingbits の AI が差別化を狙う元データ自体を提供する存在。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "電波法",
+        "impact": "ADS-B(1090MHz)は航空機が放送する位置信号で、傍受・趣味受信自体に明確な違法判断は出ていない（総務省・司法とも公式見解未表明、検索で根拠未確認の灰色領域）。データ配信サービス運営に直接の許認可は確認されないが、グレーである点に留意。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "機体登録情報からプライベートジェット所有者(個人・著名人)が特定され得る場合、所有者情報の取得・公開がプライバシー/個情法上の論点になり得る。VIP追跡機能は国内提供時に配慮が必要。"
+      },
+      {
+        "law": "不正競争防止法",
+        "impact": "政府専用機・自衛隊機等の動静を継続監視・公開する用途は安全保障・報道倫理上の批判リスクがあり、直接の刑事規制は確認されないが運用方針として慎重さが求められる。検索で確定的根拠は未確認。"
+      }
+    ],
+    "opportunity": "日本独自の角度を取るなら、グローバルなデータ網勝負を避け、日本周辺空域に特化した「監視 × 通知」のニッチ運用に限定するのが現実的。例: 中国機の領空接近・スクランブル関連、自衛隊機/政府専用機の公開可能範囲の動向、国内空港の遅延/ダイバート速報を日本語でまとめ X/note 発信する報道補助ツール。ただしデータは Flightradar24/ADS-B Exchange の API/受信に依存せざるを得ず、利用規約・コスト・グレー法務がボトルネック。Wingbits 本体が日本語対応すれば即座に陳腐化するため、独立事業としての持続性は低い。",
+    "rationale": "市場機会としては「需要は薄く存在するが、参入余地が乏しい」典型。Flightradar24 を筆頭に世界規模のアンテナ網を持つ寡占プレイヤーが既に日本市場で使われており、本プロダクトの中核価値（5,600基超の自社受信網）は個人開発者が再現不可能なハード資産だ。差別化点である自然言語AIレイヤーは技術的に追随容易で、本家の多言語化で即座に陳腐化する。日本固有の需要シグナル（中国機接近・GPSジャミング・富裕層ジェット報道）は確かにあるが、対象は航空マニアと一部報道/防衛ウォッチャーに限られ、有償化のボリュームが小さい。規制は ADS-B 受信のグレーさを除けば比較的軽いものの、VIP/政府機追跡はプライバシー・安全保障の論点を抱える。総じて、海外本家が圧倒的に強く、国内独自開発の角度は細く、verdict は skip が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "航空追跡は Flightradar24 が無料〜180円/450円/5,499円という安価な階段を既に提示し、価格アンカーが低い。マニア層は無料で満足しがち、有償転換率は低い。法人課金($49〜$249/月相当)は可能だが顧客数が薄く ARPU 確保は難しい。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "国内 TAM はニッチ。航空マニアは数万〜十数万人規模、有償化はその一部。報道機関・空港・航空会社の運航/競合分析需要は社数が限られ、自然言語ツールへの予算化も未確立。広大とは言えない。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "B2C は X/note/Qiita 等で航空マニアコミュニティに PLG リーチ可能で、個人開発者が届く余地はある。一方、収益性の高い法人(報道・空港)はSI/人脈・既存ベンダー依存で個人が食い込むのは困難。チャネルは半々。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "Wingbits 本体が既にグローバル展開しており、日本語対応すれば直接競合。Flightradar24 等も AI クエリ機能を実装しつつあり、時間窓はほぼ無い。後発の個人開発が割り込む猶予は極めて短い。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "リアルタイム ADS-B 取り込み・アラート fan-out・低レイテンシ監視は24/7稼働とデータ品質維持が必須で、PHコメントでも処理難度が指摘される。外部データAPI依存ならコスト/規約リスク、自前なら運用負荷が重く手離れしない。"
+      }
+    },
+    "rationale": "事業成立性は厳しい。最大の障壁は中核データ層を個人開発者が保有・再現できないこと。Flightradar24/ADS-B Exchange の API に依存すれば、利用規約・従量コスト・再配布制限が常時リスクとなり、価格決定権も握れない。収益面では本家が無料〜数百円という極めて低い価格アンカーを敷いており、日本人マニア層の課金嗜好（無料志向が強い）と相まって ARPU 確保が難しい。収益性が高いのは報道・空港・航空会社等の法人だが、社数が少なく、国内法人は代理店・請求書払い・サポート体制を求めるため個人開発の手に余る。さらにリアルタイム監視は24/7の運用負荷が重く手離れしにくい。タイミングも最悪で、Wingbits 本体や既存大手がいつでも日本語/AI機能を展開できる。総合的に、個人開発で持続的収益を得るのは困難であり no_go 寄りと判断する。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 800,
+      "plans": [
+        "Free: 月20問・監視エージェント1つ（手動実行）。マニア入口でリスト獲得",
+        "Pro: ¥1,500/月。監視エージェント複数・Slack/メール通知・履歴再生。Flightradar24 有償帯に価格を寄せる",
+        "Team/法人: ¥30,000/月〜。報道・空港向けに日本語レポート/API。ただし個人開発では提供難度高"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "日本周辺空域に関心を持つ航空マニア・ウォッチャー個人、および中国機接近・GPSジャミング・富裕層ジェットを追う一部の調査記者/OSINT愛好家。中核は趣味層で、法人需要は限定的。",
+      "target_count": 30000,
+      "capture_pct_year3": 1,
+      "monthly_revenue_target_jpy": 240000
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)で日本周辺空域の監視速報を発信し無料枠へ誘導（航空クラスタは活発）",
+      "note/Qiita/Zenn で ADS-B・自然言語クエリの技術解説記事を連載しPLG流入",
+      "航空マニア向けコミュニティ・掲示板での口コミ獲得",
+      "中国機接近やスクランブル等の話題時にデータ可視化をニュースレター配信"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "中核データ層（世界規模 ADS-B 受信網）を個人開発者が保有できず、外部API依存になる。利用規約変更・従量コスト・再配布制限で事業基盤が常に他社に握られる。",
+      "Flightradar24 等が無料〜数百円の低価格アンカーを敷いており、日本のマニア層の無料志向と相まって有償転換が進まず ARPU を確保できない。",
+      "Wingbits 本体や既存大手がいつでも日本語/AIクエリ機能を展開でき、時間窓がほぼ無い。後発の差別化が持続しない。",
+      "リアルタイム監視・アラート fan-out は24/7稼働とデータ品質維持が必須で、個人運用では手離れせず障害対応リスクも高い。",
+      "VIP・政府専用機・自衛隊機の追跡公開はプライバシー(個情法)・安全保障・報道倫理の論点を抱え、炎上・批判リスクがある。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T11:30:00Z",
+  "review_guide_at": "2026-06-06T11:30:00Z",
+  "business_viability_at": "2026-06-06T11:30:00Z",
+  "advisor_view_at": "2026-06-06T11:30:00Z"
+}

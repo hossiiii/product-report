@@ -1,0 +1,273 @@
+{
+  "name": "AppWizzy",
+  "description": "Rent a private VM with Codex to build production apps",
+  "ph_url": "https://www.producthunt.com/products/appwizzy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/NECI5AIKGC3BCC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-04T07:01:00Z",
+  "upvotes": 201,
+  "comments": 35,
+  "topics": [
+    "Software Engineering",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "860439",
+      "name": "Philip Daineka",
+      "twitterUsername": "flatlogic",
+      "headline": "CEO at Flatlogic"
+    },
+    {
+      "id": "4705090",
+      "name": "Alesia Sirotka",
+      "twitterUsername": null,
+      "headline": "Marketing Manager"
+    },
+    {
+      "id": "3976018",
+      "name": "Kevin McKeand",
+      "twitterUsername": null,
+      "headline": "Founder, investor, advisor and coach "
+    },
+    {
+      "id": "2227907",
+      "name": "Alexsandr Rubanau",
+      "twitterUsername": "Blarior",
+      "headline": "Full-stack Product Engineer"
+    },
+    {
+      "id": "3848655",
+      "name": "Erik Kalmykov",
+      "twitterUsername": null,
+      "headline": "Chief Delivery Officer"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hi Product Hunt\n\nI am Philip Daineka, founder of AppWizzy.\n\nI have been building software for around 16 years and running Flatlogic, our software development company, for 13+ years. Over that time, we have delivered many client projects and spent hundreds of thousands of hours building real business software: SaaS products, CRMs, ERPs, admin panels, portals, internal tools, and custom web apps.\n\nOne thing I have learned very clearly:\n\nMaking a prototype is easy. Shipping and maintaining production software is the hard part.\n\nThat's why I've always been skeptical of many vibe-coding platforms. They are impressive for quick demos, but I would not start a serious client project on something that only gives me a front-end preview, hides the infrastructure, or locks the app into a platform that is hard to control later.\n\nSo we built AppWizzy.\n\nAppWizzy gives you a private dedicated VM with Codex installed, where you can build, run, and host production web apps by chatting with AI.\n\nThe key difference is that your app does not just get generated and exported somewhere. It lives in the same cloud environment where it was built. You get a real development machine, real backend capability, database support, hosting, source code access, different environment, and much more control over the stack - basically, everything you can do when you do indeed have full control over your VM.\n\nAppWizzy started from our internal tooling at Flatlogic and has now become a standalone product.\n\nWe are also working on vertical production-ready templates for different use cases, so users can start from a strong foundation instead of a blank page and ship faster from day one.\n\nFor the Product Hunt launch, we are offering 20% off. Use promocode: APPWIZZY-LAUNCH2026\n\nI would love feedback from founders, developers, agencies, and anyone who has tried vibe-coding tools but eventually hit the question:\n\n\"Okay, nice demo... but how do I turn this into a real production app?\"\n\nThanks for checking out AppWizzy!\nPhilip",
+      "votesCount": 36,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Cool project! I wanted to know, is there any reason why Codex was chosen over Claude? Why not both options?</p>",
+      "votesCount": 10,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Really proud to be part of the team behind Appwizzy! 🚀 <br><br>I have seen how much work, care and energy went into building this product, and it's amazing to finally share it with the community. <br><br>We created Appwizzy to make app creation faster and less overwhelming for founders and teams, and I'm excited to see how people use it. <br><br>Would love your feedback and thanks so much for the support!</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "AppWizzy gives you a private VM with Codex installed where you build, run, and host production web apps by chatting with AI. Your code is yours, the workspace persists, and the app lives in the same environment where it was created. Pay only for AI usage, hosting days, and optional templates",
+  "featured_at": "2026-06-04T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/24f8eee5-0e07-4d53-99cb-85d98d249db6.png",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/c7f9cbb7-5dc3-4d7d-909a-afa2e5aec1e6.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bfb233b5-074d-4280-8448-cfbf8f8b73e9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c14ecfe4-afaf-403d-a312-98f4cf326f6b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e28af4b6-a92d-4c77-8e9f-57ec0c51006a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e924c49a-8d44-4d52-9d66-15488adab8a6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7a8152e1-45d1-4e3c-8a6a-2124bfe9ecc0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/780f997c-8472-4804-b514-017486dce86e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b57f7551-7356-4fdf-95a5-877a29c49014.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9828fb2d-79c2-4e10-ba01-f112edd7610a.png"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:40",
+  "landing_meta": "AppWizzy - build scalable apps and websites with AI. Professional vibe-coding platform — Build scalable web apps and websites with AI that serve you for years. Professional vibe-coding platform. Perfect to build SaaS, intenal tool, AI tool, business app, etc",
+  "landing_text": "AppWizzy - build scalable apps and websites with AI. Professional vibe-coding platform 🚀 AppWizzy is launched on Product Hunt TODAY 😎 Help us climb the charts 🙌 Upvote now🚀 × 1,266+ companies use Build Scalable Apps & Websites with AI Professional vibe-coding platform to create apps that serve you for years The AI builder is loading… \"Other vibe‑coding tools feel like a toy IDE. AppWizzy provisions a real machine and bills only what you use.\" - Alexey V., former software engineer @ Google Watch Short Intro App Preview A platform-hosted dual-compatible OpenAI/Anthropic proxy API with fixed Bearer auth and... about 2 hours ago Online Code Agent IDE Code Editor Online: Maximize coding efficiency with built-in coding agent and largest p... 1 day ago Linux CLI Playground Linux CLI Playground: Master Linux and Development Skills in an Interactive Testing Env... 1 day ago Qweli Accounting Suite Xero-like multi-tenant accounting suite for invoicing, bills, expenses, payments, bank ... 1 day ago Tour Builder Platform Platform to build, preview (stage), and publish offline-ready interactive tours on proj... 26 days ago education-support-management (1) TaskMaster app streamlines project management for teams, enhancing productivity and col... about 1 month ago Business Events Calendar Secure Event Calendar: Embed to showcase daily business locations with clickable detail... 2 months ago Lili Records Radio Lili Records Radio web app delivers seamless streaming for radio enthusiasts, accessibl... 2 months ago Coach Website ICF Certified Executive Coach empowers professionals to unlock potential with personali... 2 months ago Mileage Log Tracker MileageTrack: Effortlessly log, review, and report IRS-compliant business mileage from ... 2 months ago Benefits (why teams switch) Professional-like development environment for production-ready applications Real Dev VM(app-agnostic) Your app runs on your chosen stack ( PHP, Python, Node/Next, Postgres, MySQL ). We don’t confine you to a t",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "free plan",
+    "premium",
+    "$1",
+    "$0/mo",
+    "$20.0/mo",
+    "$50.0/mo",
+    "$140"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:42",
+  "description_ja": "Codex入りの専用VMを借りて、AIとの会話で本番用Webアプリを構築・ホスティングできるプラットフォーム",
+  "summary_ja": "Codexを導入した専用クラウドVMを提供し、自然言語の対話だけで本番運用可能なWebアプリを構築・実行・ホスティングできる「プロ向けvibe-codingプラットフォーム」。コードは自分のものとして保持でき、AI利用・稼働日数・テンプレートに対し従量課金する。",
+  "tldr_ja": "vibe-coding需要は国内も急成長中だが、Cursor/Replit/Lovable等が既に日本で普及済みのレッドオーシャン。VM+ホスティング運用は個人には重く、国産クローンでの勝機は薄い。",
+  "review_guide_ja": {
+    "what": "AppWizzyはOpenAI Codexを導入した専用クラウドVMを各ユーザーに払い出し、チャットによる自然言語指示でWebアプリを構築・実行・ホスティングまで一気通貫で行えるプラットフォーム。生成物をエクスポートする他のvibe-codingツールと異なり、開発した環境そのままで本番運用でき、ソースコード所有権・DB(Postgres/MySQL)・任意スタック(PHP/Python/Node/Next)・サーバ制御権をユーザーに残す点が訴求。典型ユースケースはSaaS・社内ツール・AIツール・業務アプリのプロトタイプから本番投入まで。垂直特化テンプレートも整備中で白紙から始めず高速にshipできるとする。母体は受託開発企業Flatlogicの社内ツールから派生。",
+    "for_who": "プロトタイプ止まりのノーコードに不満を持ち本番運用・インフラ制御を求める創業者・個人開発者・受託開発エージェンシー。コードの所有権とスタック自由度を重視する準エンジニア層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "VM払い出し・常時ホスティング・コーディングエージェント統合・課金基盤を個人で構築し24/7運用するのは技術・運用負荷とも重い。Codex等LLM API原価も嵩む。"
+    },
+    "signals": [
+      "PH初日でupvote201・コメント35と一定の関心",
+      "受託13年のFlatlogic母体で本番運用ノウハウあり",
+      "国内vibe-coding/ノーコード市場は急成長(LCNC+生成AI市場2028年2,701億円見込)",
+      "コード所有権・スタック自由度という差別化軸を明示"
+    ],
+    "concerns": [
+      "Cursor/Replit/Lovable/Bolt/Google Antigravity等が既に日本で普及済みの激戦区",
+      "VM+ホスティング+従量課金は国内の安価なレンタルサーバ文化と価格競合",
+      "Codex単一依存(Claude非対応)への不満がコメントで既出",
+      "常時稼働ホスティング提供はSLA・障害対応で個人運用に不向き"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "vibe-coding/ノーコードへの関心は国内でも顕在化。検定開始やQiita/Zenn/note記事が多数あり、LCNC+生成AI開発市場は2028年に2,701億円(CAGR17.1%)見込みで需要は強い。ただし「本番VM+ホスティング込み」の具体ニーズの国内シグナルまでは未確認。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Cursor・Replit・Bolt・Lovable・v0・Google Antigravity・Windsurf等が既に日本で広く認知・記事化されたレッドオーシャン。資金力・コミュニティで圧倒的に劣後し、AppWizzyの差別化(VM所有)は一般ユーザーに伝わりにくい。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "サーバ/VM貸与(ホスティング・PaaS)は他人の通信を媒介しないため電気通信事業の登録・届出は原則不要(総務省解釈)。ユーザー間通信機能を持つアプリを載せる場合は別途検討が要るが、プラットフォーム自体の規制リスクは低い。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UIは管理画面+チャット中心で日本語化自体は容易だが、コーディングエージェントの日本語プロンプト精度・生成コードのコメント・ドキュメント整備が品質を左右。深いUX改修は不要だが言語品質チューニングは要する。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "個人開発者・小規模チームには馴染むが、日本企業はセキュリティ・国内データセンター・実績を重視し、海外スタートアップの本番ホスティングへの信頼障壁は高い。商習慣との根本不適合はないが導入は保守的。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Replit",
+        "url": "https://replit.com/",
+        "note": "ブラウザ完結のフルスタック開発+ホスティング+Replit Agent。VM+ホスティング+AIという最も近い競合で日本でも記事多数。"
+      },
+      {
+        "name": "Lovable",
+        "url": "https://lovable.dev/",
+        "note": "自然言語からモダンUIアプリを生成。デザイナー・起業家・PMに人気でvibe-codingの代表格。日本でも比較記事が定番化。"
+      },
+      {
+        "name": "Cursor",
+        "url": "https://cursor.com/",
+        "note": "国内エンジニアに最も浸透したAIコーディングIDE。本番運用は自前だが開発体験で圧倒的支持。"
+      },
+      {
+        "name": "Bolt (StackBlitz)",
+        "url": "https://bolt.new/",
+        "note": "自然言語からアプリ生成+デプロイ。非エンジニア前提のvibe-codingツールとして日本でも認知拡大。"
+      },
+      {
+        "name": "Google Antigravity / Windsurf",
+        "url": "https://antigravity.google/",
+        "note": "大まかな指示で複数ファイルを自律生成・修正するエージェント型。Google資本の脅威で2026年に国内記事増。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "電気通信事業法",
+        "impact": "VM/サーバ貸与・ホスティング・PaaSは『他人の通信の媒介』に当たらず登録・届出不要(総務省解釈)。ただしユーザー同士のメッセージ機能等を備えるアプリを提供する場合は届出要否を個別判断。プラットフォーム本体のリスクは低い。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "ユーザーのコード・DBに個人データが含まれる場合、AppWizzyは委託先(クラウド)として安全管理措置・越境移転の説明責任を負う。国外DC利用時は越境移転の明示が必要で、国内企業の警戒材料になりうる。"
+      }
+    ],
+    "opportunity": "国内独自の角度があるとすれば『本番運用までの伴走』を日本語で提供する点。海外大手は英語UI・海外DC・セルフサーブが基本で、(1)国内リージョン/さくら・ConoHa等と組んだ低価格ホスティング、(2)日本語での障害対応・セキュリティ説明、(3)受託や情シス向けの社内ツール特化テンプレート+導入支援、を束ねれば中小・地方企業の『内製化したいがインフラが不安』層に刺さる余地はある。ただしこれはAppWizzy自体の輸入ではなく、国産での再構築+人手の伴走が前提で、PLG単体では大手に飲まれる。",
+    "rationale": "需要(vibe-coding/内製化)は国内でも明確に伸びており市場の方向性は正しい。しかしカテゴリは既にCursor・Replit・Lovable・Bolt・Google等が席巻するレッドオーシャンで、AppWizzyの差別化『VM所有・本番ホスティング・スタック自由度』は技術理解の浅い一般ユーザーには伝わりにくく、理解する上級層は自前インフラで十分まかなえる。規制面はホスティング業として軽いが、国内企業は海外スタートアップへの本番運用委託に保守的で、国内DC・実績・日本語サポートが信頼の前提になる。総じて『市場はあるが先行者が強く、輸入そのままでは勝ち筋が薄い』カテゴリ。国産で勝つなら大手が薄い中小・地方の内製化支援を日本語の伴走込みで攻めるニッチに限定すべきで、汎用vibe-codingプラットフォームとしての参入はskip推奨。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "AI利用+稼働日数+テンプレートの従量課金は原価(LLM API・VM)が嵩み粗利が薄い。国内は月額千円台の安価なレンタルサーバ文化が根強く、VM+AI込みの従量課金は割高に映りやすい。買い切り/定額嗜好も強く課金壁は厚め。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内LCNC+生成AI開発市場は2028年2,701億円(CAGR17.1%)と十分大きいが、その中で『本番VM+AIホスティング』を求める個人開発者・小規模チームに絞るとTAMは限定的。市民開発の主流は社内のPower Platform等で別流路。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "個人開発者でもQiita/Zenn/X発信・PLG無料枠でリーチ可能なPLG適性カテゴリ。ただし同じチャネルを大手が潤沢な予算とコミュニティで占有しており、無名の後発が声を届けるのは難度高。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "本家相当(Replit/Lovable/Bolt/Google)が既に日本で稼働・普及済みで時間窓はほぼ閉じている。先行者優位が確立し、後発が割って入る猶予は極めて小さい。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "VM払い出し・常時ホスティング・課金・障害対応を担うため24/7監視とSLA期待が発生し、個人運用の手離れは困難。LLM API原価管理・不正利用対策・データ責任も重く継続負荷が高い。"
+      }
+    },
+    "rationale": "事業性は厳しい。課金面はLLM・VM原価が利益を圧迫し、安価なレンタルサーバ文化を持つ国内ではVM込み従量課金が割高に映る。市場全体は大きいが『本番VM+AIホスティング』狙いに絞ればTAMは細り、市民開発の主流は社内プラットフォーム経由で別流路。GTMはPLG適性こそあるが同チャネルを資金力のある大手が占有。タイミングは最悪で、本家級が既に日本で普及しており参入の時間窓は閉じている。最大の難所はsolo_opsで、ホスティング提供は常時稼働・障害対応・データ責任を伴い個人継続は事実上困難。総合すると、個人/小規模が汎用vibe-codingプラットフォームとしてこの座組を再現・運用するのは原価・運用・競争のすべてで不利で、no_go寄りのconsider止まり。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: 試用VM(短時間)+少量AIクレジット、ホスティング無し",
+        "Starter: ¥2,000/月 + AI/稼働日数の従量課金",
+        "Pro: ¥6,000/月 + 専用VM・常時ホスティング枠",
+        "Agency/Business: ¥30,000/月〜 複数プロジェクト・チーム・優先サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "本番運用とインフラ制御を求める国内の個人開発者・準エンジニア・小規模受託エージェンシー。ノーコードのプロトタイプ止まりに不満を持ち、コード所有権とスタック自由度を重視する層。中小・地方企業の内製化担当も周辺ターゲット。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 750000
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『本番運用まで持っていくvibe-coding』連載でSEO+信頼獲得",
+      "Xで実アプリのビルド過程を図解・短文で継続発信(ノウハウ系と宣伝系を交互)",
+      "PLG無料枠で試用→従量課金へ自然移行",
+      "国内ホスティング(さくら/ConoHa等)と提携し低価格・国内DCで信頼補強",
+      "中小・地方の内製化支援として情シス/受託向けに業務アプリテンプレ+伴走提供"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Replit/Lovable/Bolt/Google等の先行大手が日本で既に普及済みで、無名後発が差別化を伝えきれず埋没するリスク。資金力・コミュニティで構造的に劣後する。",
+      "VM・常時ホスティング提供は24/7監視・障害対応・SLA期待を生み、個人運用が事実上破綻するリスク。データ消失や障害は信用を即毀損する。",
+      "LLM API(Codex)とVMの原価が従量課金の粗利を圧迫し、国内の安価レンタルサーバ相場と比較され価格競争力を失うリスク。",
+      "海外スタートアップへの本番運用委託に日本企業は保守的で、国内DC・実績・日本語サポートが無いと法人需要を取り込めないリスク。",
+      "Codex単一依存でモデル選択の柔軟性が無く(Claude非対応への不満が既出)、モデル価格/性能変動に経営が左右されるリスク。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

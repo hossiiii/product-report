@@ -1,0 +1,248 @@
+{
+  "name": "Vokal",
+  "description": "A collaboration space for 10x teammates with their Al agents",
+  "ph_url": "https://www.producthunt.com/products/vokal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/M46FM3WQQTJPUQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-02T07:01:00Z",
+  "upvotes": 451,
+  "comments": 50,
+  "topics": [
+    "Productivity",
+    "Messaging",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "9051358",
+      "name": "Zhen Han",
+      "twitterUsername": "ZhenHan261538",
+      "headline": "Founder @Vokal @Appifex"
+    },
+    {
+      "id": "9577566",
+      "name": "Kai Sun",
+      "twitterUsername": null,
+      "headline": "Co-founder @Vokal"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>I keep coming back to this line from <a href=\"https://www.producthunt.com/@zhen_han\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"zhen_han\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@zhen_han</a> : <strong>“Vokal is the collaboration space for 10x teammates and their AI agents.”</strong></p><p></p><p>Vokal is built for the weird handoff problem that shows up once everyone on a team has their own agent stack: Claude Code in one terminal, Codex somewhere else, Cursor over here, support prompts in another tab, then a bunch of copy-paste into Slack.</p><p></p><p>The product treats agents less like private sidekicks and more like teammates with roles, owners, permissions, memory, and a unified event log. So, <strong>a 10x teammate is a human who works with a crew of agent helpers</strong>. </p><p></p><p>And the flow looks like this:</p><p></p><p><strong>Humans set goals </strong>→<strong> agents do work </strong>→<strong> humans review </strong>↺</p><p></p><p>That feels like the right frame: not “another AI chat app,” but infrastructure for the awkward middle stage where startups are already working with agents… just not together. <em>Yet</em>.</p>",
+      "votesCount": 20,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p></p><p>I’m Zhen, founder of Vokal. Before Vokal, I worked on Meta and Google, and I’ve spent years thinking about how humans and AI systems should work together.</p><p></p><p><strong>Vokal is a collaboration space for 10x teammates and their AI agents.</strong></p><p></p><p>We built Vokal because AI agents have made individual builders much faster, but software is still built by teams.</p><p></p><p>Today, a founder may use ChatGPT for strategy, an engineer may use Claude Code or Codex in a terminal, another teammate may use Cursor, and support or marketing may use their own AI workflows. The work is real, but the context is scattered: prompts, screenshots, decisions, PR notes, customer issues, docs, and follow-ups move through copy-paste handoffs.</p><p></p><p>Vokal gives humans and agents one shared workspace so the team can align the goal, assign the right agent, watch the work, review in context, and save useful outputs for the next run.</p><p></p><p><strong>Here’s how it works:</strong></p><ol><li><p>Bring teammates and agents into one shared workspace.</p></li><li><p>Connect local or cloud agents like Claude Code, Codex, Hermes, OpenCode, MCP/custom ACP agents, or cloud agents.</p></li><li><p>Give each agent a name, role, owner, permissions, app access, and memory scope.</p></li><li><p>Run work in channels with tasks, docs, routines, Memory, and Knowledge Base attached.</p></li><li><p>Nudge the work in context and save useful outputs so the next teammate or agent can start from what the team already learned.</p></li></ol><p></p><p><strong>Why startups use Vokal:</strong></p><ul><li><p><strong>Make agent work multiplayer:</strong> agents work where teammates can see goals, blockers, outputs, and decisions.</p></li><li><p><strong>Turn agent spend into usable work:</strong> runs have shared context, ownership, review history, and saved output.</p></li><li><p><strong>Stop rebuilding context:</strong> prompts, corrections, decisions, docs, tasks, and useful outputs can become reusable Memory or Knowledge Base.</p></li><li><p><strong>Bring your own agents:</strong> use the AI tools your team already relies on instead of switching to one model or one runtime.</p></li><li><p><strong>Keep humans in control:</strong> roles, owners, permissions, app grants, visible activity, and review paths stay explicit.</p></li></ul><p></p><p>Most AI tools make one person faster. Vokal is for the part that comes next: helping a whole startup work with agents as a team.</p><p></p><p>🎁 For Product Hunt, use code 10XTEAMMATES to get 1 month free.</p><p></p><p>We’d love feedback from founders and teams already using multiple agents across product, engineering, support, ops, or launch work.</p>",
+      "votesCount": 20,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>You've nailed the exact friction point that kills momentum for distributed teams. Having agents and humans in the same thread means context stays intact and decisions move faster, not slower. That unified view is going to be table stakes for any serious collab tool.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Your Codex and my Codex can’t talk, so we play human telephone in Slack: copy prompts, paste summaries, ask for reviews, and lose the run. Vokal brings 10x teammates and their agents into one live workspace in minutes, whether they run local Codex, Claude Code, or Hermes — or in the cloud. Name your agents, give them roles, access, and memory, and work will happen in a shared collaboration space instead of through copy-paste handoffs.",
+  "featured_at": "2026-06-02T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/4d54d60c-8a96-4dae-82df-b6036c1430ae.svg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c469fcb1-fb6b-48a3-8a57-99807898f8d9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7f68a7d4-1941-4cb7-8697-f99cee32486a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9d3ae60b-b5dd-43e4-b7af-7988dd341156.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f68a2708-5570-4992-9d07-68a59ef70e8d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2ed52519-a3df-436c-84a5-a544a6fb1ce7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8553b9ed-efa2-4f84-99d5-e6f066288719.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/de40c22d-f163-4801-8d89-92f1649c5256.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f8849d9b-31b8-4933-979c-4189d71b7e1b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9acac8c1-8847-49b6-ac6f-bf8d16c5c48f.png"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:07",
+  "landing_meta": "Vokal - The operating layer for human-agent work — Vokal is the operating layer for human-agent work: align requests, run agents in the open, review with source context, and preserve decisions for the next project.",
+  "landing_text": "Vokal - The operating layer for human-agent work Skip to content A collaboration space for 10x teammates with their AI agents For founders and product teams building with AI agents. Run agent work where the team can see it, review it, and reuse what matters. See the product # vokal-development Live Sally Eng Lead Migration's blocked on the read replica. @John scoped DB access? John Founder Granted a time-boxed db.prod credential. @Cosmo go. Cosmo John's SWE Agent Applied. Tests green. @Pixel can you sanity-check the schema diff before I open the PR? Pixel Sally's QA Agent Reviewed - diff matches the ticket, no breaking columns. Cosmo John's SWE Agent Opening PR #418 . Works with Claude Code · Codex · Hermes · OpenCode · MCP / custom ACP · Cloud agents See it in action Product demo Humans and agents, working as teammates. Vokal product moments Step 1 Create an agent profile Step 2 Add to the team channel Step 3 Collaborate in the open Why now AI made output cheap. Coordination got expensive. Agent output is now easy to create. The expensive part is keeping work aligned, reviewed, controlled, and reusable across the team. Scattered work Vokal 01 Duplicate runs Shared context 02 Lost decisions Decision memory 03 Late review Source-backed review 04 Unsafe handoffs Scoped access Human + agent teams need shared visibility. Agent work is easier to trust when teams can see it, review the sources, manage handoffs, and reuse what was learned. Use cases What Vokal can own for your team. Each example shows the context to gather, the owner or reviewer, and the work product the team can review. Sales Security questionnaire Turns buyer questions, prior answers, source docs, and account context into a response your owner can review. Buyer questions Source docs Owner review Output Reviewed response Support Customer escalation Keeps the ticket, customer history, product context, and assigned owner together until the reply is ready. Ticket Product context Owner Output Escalation brief",
+  "pricing_signals": [
+    "pricing",
+    "$1",
+    "$5",
+    "$8",
+    "$2",
+    "$16",
+    "$25",
+    "$26",
+    "$13",
+    "$23",
+    "$27",
+    "$3"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:08",
+  "description_ja": "10x人材とそのAIエージェント群のための共同作業スペース",
+  "summary_ja": "Claude Code・Codex・Cursor 等バラバラに使われるAIエージェントを役割・権限・メモリ付きで1つの共有ワークスペースに集約し、人間とエージェントがチームとして目標設定・実行・レビューを行えるようにするコラボツール。",
+  "tldr_ja": "需要は国内でも顕在だがSlack/Salesforce・OpenAI・Claude Code本体が同領域を急速に内製化中、個人開発は時間窓が極小で厳しい",
+  "review_guide_ja": {
+    "what": "複数のAIコーディング/業務エージェント（Claude Code、Codex、Hermes、OpenCode、MCP/ACPカスタム、クラウド型）を1つの共有ワークスペースに接続し、各エージェントに名前・役割・オーナー・権限・アプリアクセス・メモリスコープを付与する。人間とエージェントが同じチャンネルで会話し、タスク・ドキュメント・定型処理(routines)・Memory・Knowledge Baseを紐付けて作業。『人間が目標設定→エージェントが実行→人間がレビュー』のループを共有文脈の中で回す。典型ユースケースはエンジニアの並列開発・PRレビュー、セールスのセキュリティ質問票回答、サポートのエスカレーション対応など、複数人と複数エージェントの引き継ぎが発生する業務全般。",
+    "for_who": "AIエージェントを複数併用し始めたスタートアップ・プロダクトチーム（エンジニア、創業者、サポート、マーケ）。特に各メンバーが個別にClaude Code/Codex/Cursorを使っており、Slackコピペで文脈を手渡ししている小〜中規模チームが主対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "ローカル/クラウド両対応のエージェント接続、ACP/MCP統合、権限・メモリ管理、リアルタイム共同編集UIを束ねる必要があり、技術範囲が広い。MVPでも個人での実装負荷は高い。"
+    },
+    "signals": [
+      "PH 451 upvotes・50コメントと初動の関心は高い",
+      "Meta/Google出身創業者で技術的信頼性がある",
+      "『エージェント間のコピペ引き継ぎ』という課題は国内でも複数のテックブログで言及される実在の痛み",
+      "BYO(Bring Your Own)エージェント方針でモデルロックインを回避"
+    ],
+    "concerns": [
+      "Slack/Salesforce(agentic OS)、OpenAI Workspace Agents、Claude Code純正Agent Teamsが同じ問題を内製化中で正面衝突",
+      "既にSlackスレッド上でエージェントを常駐させる運用が日本でも普及し始めており差別化が薄い",
+      "ローカルエージェント接続・権限管理・常時稼働は個人運用の負荷が極めて高い",
+      "プロダクト単体のスイッチングコストが高く、チーム全体の移行ハードルが大きい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内でもClaude Code/Codexの複数併用が進み、NTTデータ・Tabelog・Plaid等がSlack上でエージェントを協働させる事例を公開。『各自が頭の中で文脈を組んでAIに渡すので出力が散る』という痛みが明文化されており、需要シグナルは中〜やや強。ただし痛みの大半はSlack内で解消され始めている。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Slack(Salesforce)が30機能追加で『agentic OS』化、OpenAIがWorkspace Agents投入、Claude Code本体がAgent Teamsを純正搭載。国内でもNomatica・ジーニー等のマルチエージェント基盤が乱立。同領域は既に巨大プレイヤーと多数のスタートアップで混雑しており競合は極めて多い。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "開発者向けコラボSaaSで特段の業法規制はなし。該当するのは個人情報保護法（顧客データ・チャット内容の取扱い）と、エージェント経由のコード/認証情報アクセスに伴う情報セキュリティ要件程度。規制リスク自体は低い。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UI日本語化は構造的に容易だが、本質はチーム運用ワークフローへの組み込みでありUXローカライズより商習慣適合が問われる。日本語でのエージェント指示・ナレッジ蓄積の品質確保も要調整。中程度。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "スタートアップ層には馴染むが、日本の大半の企業はSI依存・Slack/Teams既存運用が強く、新規ワークスペースへの移行は商習慣的に重い。エージェントにコード/権限を委譲する運用への心理的抵抗も国内では大きめ。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Slack (Salesforce) / Agentforce",
+        "url": "https://www.salesforce.com/slack/native-ai/",
+        "note": "既存チャットにAIを全面統合し『人間とエージェントが同じ会話空間で働くagentic OS』を標榜。Vokalの提案価値と正面から競合し、国内導入基盤も圧倒的。"
+      },
+      {
+        "name": "Nomatica（博報堂テクノロジーズ）",
+        "url": "https://www.nomatica.hakuhodo-technologies.co.jp/",
+        "note": "異なる専門性のAIエージェントが相互連携する共創型業務支援。日本企業向けマルチエージェント基盤として商品開発・マーケ・経営企画を支援。"
+      },
+      {
+        "name": "ジーニー 日本語特化型自律AIエージェント",
+        "url": "https://geniee.co.jp/",
+        "note": "ノーコードでエージェント構築、プリセットで即投入、MCP外部連携も備える統合プラットフォーム。国内チーム向けエージェント協調管理で競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "チャンネル上の会話・顧客サポートチケット・社内ドキュメントに個人情報が含まれるため、データ保管場所・第三者(LLMベンダー)提供の整理と委託先管理が必要。国内顧客は保管リージョンやLLMへの送信範囲を問う傾向があり、対応コストは生じるが致命的ではない。"
+      },
+      {
+        "law": "不正競争防止法（営業秘密）",
+        "impact": "エージェントにコード・認証情報・顧客データへのアクセス権を与える設計上、営業秘密の漏えい・管理不備が問われうる。権限スコープと監査ログでの管理体制提示が国内エンタープライズ販売の前提になる。"
+      }
+    ],
+    "opportunity": "勝ち筋があるとすれば『日本のSI/受託開発・複数ベンダー混在プロジェクトに特化したエージェント協働の監査・権限・引き継ぎ層』への絞り込み。国内開発は発注元・元請け・複数下請けが入り乱れ、誰のエージェントがどのコードにアクセスしたかの監査要求が強い。Slack/OpenAIの汎用agentic OSが手薄なこの監査・権限・責任分界点にフォーカスし、日本語ナレッジ蓄積と組み合わせれば隙間は残る。ただし汎用『エージェント版Slack』としての真っ向勝負は本家進出で消耗する公算が高い。",
+    "rationale": "課題（エージェント間のコピペ引き継ぎ、文脈散逸）は国内でも実在し需要は顕在化しつつある。しかしこの痛みは既にSlackスレッド常駐やClaude Code純正Agent Teamsで部分的に解消され始めており、さらにSalesforce/Slackの『agentic OS』、OpenAI Workspace Agentsという巨大プレイヤーが同じ土俵に降りてきている。国内でもNomatica・ジーニー等のマルチエージェント基盤が乱立。規制リスクは低くローカライズも技術的には容易だが、商習慣面で新規ワークスペースへの移行・エージェントへの権限委譲は重い。総じて『機会は存在するが競合密度と本家内製化が決定的に不利』で、汎用プロダクトとしては様子見(watch)。生き残るなら国内SI/監査ニッチへの徹底特化が条件。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "開発者・スタートアップ向けSaaSの月額課金自体は国内でも成立し、ランディングのpricing signal($5〜$27)からシート課金前提とみられる。ただしエージェント実行コスト(LLM API)を誰が負担するか不透明で、ツール課金とAPI課金の二重負担に国内チームは抵抗しやすく、ARPU確保はスムーズとは言い難い。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内ITエンジニア約144万人・ソフトウェア事業所約1.5万だが、『複数AIエージェントを日常的に併用し共有ワークスペースに金を払う』層は現時点でその一部のアーリーアダプターに限られる。TAMは中長期で拡大余地はあるが、現状の有償化可能母数はニッチ寄り。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "対象が開発者であるためQiita/Zenn/X発信とPLG無料枠でリーチ可能なのは個人開発の追い風。国内でも個人開発SaaSが情報発信経由で顧客獲得した実例は多い。ただしチーム製品ゆえ単独ユーザー獲得では収益化せず、チーム導入の意思決定ハードルが高い点が減点要因。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "Slack/Salesforce・OpenAI・Anthropic(Claude Code Agent Teams)が2025末〜2026にかけ同領域を相次ぎ内製化済み。『本家進出まで数年』どころか既に本家が同じ製品を出荷しており、時間窓はほぼ閉じている。最も厳しい軸。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "ローカル/クラウドエージェント接続、リアルタイム共同編集、権限・認証情報管理、常時稼働インフラを束ねる必要があり、SLA期待値も法人相手で高い。障害時の影響が顧客の本番開発に直結するため24/7監視に近く、個人運用の手離れは極めて悪い。"
+      }
+    },
+    "rationale": "事業性は厳しい。最大の問題はtiming——『humans + agents in one workspace』という提案価値そのものを、Slack(Salesforce)・OpenAI・Anthropicが既に純正機能として出荷しており、個人開発者が先行者利益を取る時間窓がほぼ存在しない。マネタイズもツール課金+LLM API課金の二重負担構造が国内チームの財布感覚と合いにくく、ARPU確保に壁。有償母数となる『複数エージェント常用チーム』は現状ニッチで、TAMの本格拡大は数年先。GTMは開発者向けゆえQiita/Zenn/PLGでリーチ可能な点だけは前向きだが、チーム単位の導入意思決定が重く単独獲得は収益に直結しない。さらに法人向けの権限・認証情報管理・常時稼働は個人運用の負荷が極端に高く、solo_opsも低い。総合してviability_score=4、汎用プロダクトとしては成立性が乏しい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2000,
+      "plans": [
+        "Free: 1チャンネル・エージェント2体まで・メモリ容量制限",
+        "Pro: ¥2,000/シート/月（権限管理・Knowledge Base・履歴保持）",
+        "Team/Business: ¥4,000〜/シート/月（監査ログ・SSO・SLA・優先サポート）",
+        "※LLM API実行費はBYOキーでユーザー負担を基本とする"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "複数のAIコーディング/業務エージェントを日常併用する国内スタートアップ・プロダクトチーム（エンジニア＋創業者＋サポートの小〜中規模）。特にSI/受託で複数ベンダーが混在し、エージェントのアクセス監査・引き継ぎ要求が強い開発現場。",
+      "target_count": 3000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 120000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita で『複数エージェント協働・コンテキスト引き継ぎ』の実践知を連載しPLG無料枠へ誘導",
+      "X(旧Twitter)で個人開発者・スタートアップCTO層に発信",
+      "Claude Code/Codex 等のMCP/ACPエコシステムにプラグインとして露出",
+      "国内SI/受託開発の監査・権限ニッチに絞ったケーススタディ営業",
+      "PH/海外コミュニティでの初動を国内テックメディアに二次展開"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家内製化リスク：Slack/Salesforce・OpenAI・Anthropic(Claude Code Agent Teams)が同領域を純正出荷済みで、汎用機能では正面から潰される時間窓がほぼ閉じている。",
+      "二重課金リスク：ツール月額に加えLLM API実行費が積み上がり、国内チームのコスト感覚と合わずチャーン・非導入の主因になりうる。",
+      "運用負荷リスク：ローカル/クラウドエージェント接続・認証情報管理・常時稼働を法人SLA水準で維持する必要があり、個人運用は24/7監視に近く破綻しやすい。",
+      "セキュリティ/信頼リスク：エージェントにコード・認証情報・顧客データへのアクセスを委譲する設計上、国内エンタープライズは個情法・営業秘密管理・監査ログを厳しく問い導入が遅延する。",
+      "需要吸収リスク：痛み自体はSlackスレッド常駐運用やCLI純正機能で代替が進み、新規ワークスペースへ移行する動機が弱い。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

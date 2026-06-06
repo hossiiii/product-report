@@ -1,0 +1,228 @@
+{
+  "name": "Mina Meeting Assistant",
+  "description": "Your AI Teammate now responds and executes during your calls",
+  "ph_url": "https://www.producthunt.com/products/mina-meeting-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/BPRGIOPD7QOOVH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-01T07:01:00Z",
+  "upvotes": 467,
+  "comments": 134,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "No-Code"
+  ],
+  "makers": [
+    {
+      "id": "9763181",
+      "name": "Ramesh Naidu Pediredla",
+      "twitterUsername": "rameshpediredla",
+      "headline": "Growth @ Mina"
+    },
+    {
+      "id": "9405071",
+      "name": "Sridhar Muppidi",
+      "twitterUsername": null,
+      "headline": "entrepreneur - Voice AI & Mobile Games"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p></p><p>I am Sridhar, co-founder of Mina AI.&nbsp;</p><p></p><p>I’m excited to introduce Mina, an AI Meeting Assistant designed to actively participate in meetings instead of just recording them.&nbsp;</p><p></p><p>Most meetings today still end the same way: Forgotten decisions, scattered follow-ups, missing context, and hours of manual work afterward. Existing meeting tools mostly act as passive note takers. They transcribe conversations, generate summaries, and stop there.</p><p></p><p>We wanted to build something fundamentally different. <strong>Mina acts like an actual AI teammate inside your meetings.</strong></p><p></p><p><strong>It can:</strong></p><ul><li><p>respond during meetings in real time</p></li><li><p>pull live context from your connected tools</p></li><li><p>capture decisions automatically</p></li><li><p>generate summaries, proposals, and follow-ups live</p></li><li><p>assign action items</p></li><li><p>update CRMs, tickets, and workflows</p></li><li><p>retain memory across meetings and conversations</p></li></ul><p>What makes Mina different is flexibility.</p><p></p><p>Instead of being a single-purpose assistant, <strong>Mina can be configured into different workflow-specific teammates:</strong></p><ul><li><p>a proactive moderator</p></li><li><p>a quiet assistant</p></li><li><p>a Scrum facilitator</p></li><li><p>a customer-facing copilot</p></li><li><p>or a completely custom workflow assistant</p></li></ul><p></p><p><strong>Mina integrates with 200+ tools</strong> including Slack, HubSpot, Salesforce, Jira, Notion, Google Meet, Zoom, Microsoft Teams, Linear, GitHub, and more.&nbsp;</p><p></p><p><strong>Some common use cases:</strong></p><ul><li><p>sales calls &amp; demos</p></li><li><p>standups &amp; sprint reviews</p></li><li><p>customer success reviews</p></li><li><p>hiring interviews</p></li><li><p>brainstorming sessions</p></li><li><p>leadership syncs</p></li><li><p>project discussions</p></li><li><p>training &amp; onboarding sessions</p></li></ul><p></p><p>The biggest shift we noticed internally: Meetings stop becoming documentation exercises and start becoming places where actual work gets done.</p><p></p><p>We’ve been testing Mina with founders, operators, and teams for months, and today we’re excited to open it up to the broader Product Hunt community.</p><p></p><p>Product Hunt users also get additional free credits today to explore Mina.&nbsp;</p><p></p><p><strong>Claim your additional free credits here</strong>: <a href=\"https://getmina.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://getmina.ai/</a>&nbsp;</p><p></p><p>If there’s a workflow, meeting type, or custom assistant you’d like to build with Mina, drop it in the comments. I’d genuinely love to help you set it up and hear your feedback.</p><p></p><p>Would love your support, feature requests, and ideas ❤️</p><p></p><p>- Sridhar</p>",
+      "votesCount": 53,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>what's been the most surprising use case customers have built so far?</p>",
+      "votesCount": 13,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>What does \"Skills\" mean here in practice: user-defined templates, or pre-built integrations?</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Mina is an AI meeting assistant that actively participates in meetings, responds in real time, pulls context from your tools, and helps move work forward while the conversation is still happening. Unlike traditional meeting tools, Mina can speak during calls, use skills, generate outputs, and support sales calls, interviews, standups, customer conversations, and team workflows before, during, and after meetings.",
+  "featured_at": "2026-06-01T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/4a7fea51-7b89-4347-9455-8423058ba07a.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ba75f4a1-d72e-4f8e-8ea5-a4cf83867d86.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d626578e-fd22-4d24-ab9e-49bfa28b3993.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/36be11c8-83bd-4759-8654-2f0c6092e9af.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c0a826c3-056f-47c5-a8c2-a55f2f6ed2ad.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e977cbc8-ae9d-4603-8b5a-72148d94d50a.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/2bf631bc-16da-4618-bef6-1ae3dac38df7.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:09",
+  "landing_meta": "Mina - AI Meeting Assistant | Talks, Listens & Works for You — Mina, your AI Meeting Assistant - listens, speaks, follows directions & executes tasks live to make every meeting more productive.",
+  "landing_text": "Mina - AI Meeting Assistant | Talks, Listens & Works for You",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-06-06T11:54:10",
+  "description_ja": "通話中にリアルタイムで応答しタスクを実行する、AIチームメイト型の会議アシスタント。",
+  "summary_ja": "会議を録音・要約するだけの受動的ツールと違い、会議中にリアルタイムで発言・回答し、接続ツールから文脈を取得して決定事項やアクション項目を記録、CRM/チケット更新まで実行するエージェント型AI。200以上のツール連携と、用途別に設定できるワークフロー特化アシスタントが特徴。",
+  "tldr_ja": "AI議事録は国内需要顕在だがNotta/Rimo/Zoom Companion 3.0で飽和、能動発言の差別化も本家に追われ個人開発は厳しい。",
+  "review_guide_ja": {
+    "what": "会議中に能動的に参加するAIアシスタント。録音・文字起こし・要約に留まる従来ツールと異なり、(1)会議中にリアルタイムで音声応答、(2)Slack/HubSpot/Salesforce/Jira/Notion等200以上の接続ツールから生きた文脈を取得、(3)決定事項やアクション項目を自動記録・割当、(4)CRM・チケット・ワークフローをライブ更新、(5)会議をまたいだメモリ保持、を行う。用途別に『能動的モデレーター』『静かなアシスタント』『Scrumファシリテーター』『顧客対応コパイロット』等のワークフロー特化テンプレートに設定可能。営業デモ、スタンドアップ、CS定例、採用面接、ブレストなど幅広い会議に対応する。",
+    "for_who": "オンライン会議が業務の中心となる法人・チーム。特に営業（商談・デモ）、カスタマーサクセス、プロダクト/開発（スタンドアップ・スプリントレビュー）、採用面接など、会議後のCRM更新やフォローアップ作業が多い職種。SaaSを日常利用するスタートアップ〜中堅企業のナレッジワーカーが主対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "低遅延のリアルタイム音声入出力（STT/TTS）、200+ツールへのライブ書込み連携、会議横断メモリの構築が必要で、個人開発では技術的にもインフラ運用負荷的にも再現が重い。"
+    },
+    "signals": [
+      "PH で 467 upvotes・134 コメントと反応良好",
+      "『録音するだけ』のメモ取りから『会議中に作業を進める』への明確なポジショニング転換",
+      "200以上のツール連携とワークフロー別テンプレートという拡張性",
+      "Voice AI 経験のある共同創業者による実装"
+    ],
+    "concerns": [
+      "AIが会議中に発言・実行することへの心理的抵抗（特に日本の対面/商談文化）",
+      "Zoom AI Companion 3.0 等の本家がエージェント型へ進化し差別化が消失するリスク",
+      "リアルタイム音声の日本語精度が国産勢（Notta/Rimo）に劣後する懸念",
+      "CRM等への自動書込みの誤動作・監査要件"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内AI議事録市場は2026年に約380億円（前年比+42%）、従業員100名以上で導入率約35%と需要は顕在。ただし需要の中心は『録音・要約』であり、Minaの差別化点である『会議中の能動発言・実行』への国内需要シグナルは現時点で限定的。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Notta（日経225の約72%が導入）、国産Rimo Voice（日本語精度97%）、tl;dv、Fireflies が乱立。さらにZoom AI Companion 3.0 がリアルタイム応答・自律タスク実行へ進化し、Minaの能動エージェント領域に直接侵食。飽和市場。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "録音は会話当事者の片方が同意すれば合法（判例確立）。個情法は利用目的の通知・公表を求めるが録音告知は法的義務ではない。能動発言・CRM自動書込みは個人データ取扱いの管理が要点だが、参入を阻む強い規制は無し。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UIの日本語化自体は容易だが、本製品の核はリアルタイム音声の認識・生成。日本語の低遅延STT/TTS精度が競争力を左右し、国産勢が築いた日本語精度（97-98%）の壁を越えるUX調整は深く重い。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "会議後の議事録・CRM更新を省く価値は国内でも歓迎されうる。一方、AIが会議中に発言・割当・実行する能動性は、合意形成や対面を重んじる日本の商談・社内会議文化と摩擦を生む可能性があり中庸。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Notta",
+        "url": "https://www.notta.ai/",
+        "note": "日本語認識精度98%超、日経225企業の約72%が導入とされる国内最有力。個人月1,200円〜、法人プラン有。AI要約・タスク抽出に強く、価格競争力が高い。"
+      },
+      {
+        "name": "Rimo Voice",
+        "url": "https://rimo.app/",
+        "note": "株式会社Rimoの国産AI議事録。日本語特化で精度97%、国内サーバーで機密会議向けに信頼。個人月1,650円〜。日本語UX/サポートで強い。"
+      },
+      {
+        "name": "Zoom AI Companion",
+        "url": "https://www.zoom.com/en/products/ai-assistant/",
+        "note": "3.0でカスタムAIエージェント・リアルタイム応答・自律タスク実行へ進化。Zoom同梱で追加課金不要に近く、Minaの『能動エージェント』領域に直接競合。"
+      },
+      {
+        "name": "tl;dv / Fireflies",
+        "url": "https://tldv.io/",
+        "note": "海外発のAI議事録。無料枠が手厚く国内でも普及。録画ハイライト・要約に強み。日本語対応はするが日本語精度では国産勢にやや劣る。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "会議音声・発言は個人を識別可能なら個人情報に該当し、利用目的の通知・公表義務が生じる。Minaは200+ツールへ会議内容を書込み・連携するため、第三者提供・委託の整理とプライバシーポリシー整備が必須。録音告知自体の法的義務はないが運用上は告知が望ましい。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "通信内容を媒介・保存するクラウドサービスとして外部送信規律（Cookie等の通知）や、外国にある第三者への個人データ越境移転の同意取得が論点になりうる。海外SaaSのままの提供ではデータ保管地・委託先の開示対応が必要。"
+      }
+    ],
+    "opportunity": "国内独自の角度は『日本語×能動エージェント』の精度と商習慣適合。具体的には、(1)日本語の低遅延STT/TTSに特化し、敬語・社内用語・専門語の認識精度で差別化、(2)発言は控えめに、会議後のCRM/Slack/勤怠/稟議システム等への自動書込みに価値を寄せた『静かな実行係』ポジション、(3)国内サーバー保管・SOC2/ISMS対応で機密会議の不安を解消、(4)Salesforce/HubSpotだけでなくkintone・サイボウズ・楽楽精算等の国産業務SaaS連携。ただし本家Zoom/Notta/Rimoが先行する領域のため、ニッチな職種別ワークフロー（例: 国内不動産仲介の商談、医療MRの面談記録）への垂直特化が現実的。",
+    "rationale": "AI議事録という上位カテゴリの国内需要は強く（市場約380億円・大企業導入率35%）、Minaの『会議中に作業が進む』という体験価値も論理的には刺さる。しかし市場機会としては competition が致命的に弱い。Notta（日経225の72%）とRimo（国産・日本語97%）が法人を押さえ、決定打としてZoom AI Companion 3.0 が同梱・追加課金不要でリアルタイム応答と自律タスク実行へ踏み込み、Minaの差別化軸そのものを本家が無償領域に取り込みつつある。日本語リアルタイム音声の精度という localization の壁も高い。規制は軽く参入障壁にはならない。総じて、横展開での新規参入は不利で『watch』。勝ち筋があるとすれば、国産業務SaaS連携や職種特化の垂直ニッチに絞り、能動発言よりも『日本語精度＋会議後の自動実行』へ価値を寄せた差別化のみ。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "国内は議事録ツールに個人1,200〜1,650円/月、法人2.5万〜10万円/月を支払う相場が確立し課金嗜好は良好。Minaも月額SaaSでARPU確保は可能。ただしNottaの価格競争力（半額〜1/10）が値付けの天井を抑え、能動エージェント分のプレミアムを取れるかは不透明。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内法人約207万社、クラウド利用企業64.7%、オンライン会議は定着。ナレッジワーカー母数は大きくTAMは十分広い。ただし能動エージェントに対価を払う層は会議多発の営業/CS/開発職に偏り、実効SAMは全体より絞られる。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PLG（無料枠→有料）自体は可能だが、AI議事録は既にレッドオーシャンで広告・SEOの獲得単価が高騰。法人の機密会議導入は情シス審査・セキュリティ要件が壁になり、個人開発者が無人で法人を獲得するのは難しい。差別化メッセージの伝達コストも大きい。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "既に競合多数で、本家Zoomがエージェント型（3.0）へ進出済み。Microsoft Teams Copilot も同方向。時間窓はほぼ閉じかけており、能動エージェントの新規性で先行者利益を取れる猶予は短い。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "リアルタイム音声処理の低遅延・高可用、会議中の誤発言/誤実行への責任、200+ツールのライブ書込み連携の保守、法人のSLA・セキュリティ問合せ対応が重く、個人での無人運用は極めて困難。24/7監視に近い負荷。"
+      }
+    },
+    "rationale": "事業成立性は厳しめ。課金嗜好（monetization）とTAM（market_size）は良好で、母集団としての国内ナレッジワーカー市場は十分大きい。しかし solo_ops が決定的に低い。本製品はリアルタイム音声I/Oと200+ツールへのライブ書込みを核とし、会議中の誤発言・CRM誤更新が直接事故になる性質上、高可用インフラ・監視・法人セキュリティ対応が不可欠で、個人運用の手離れは望めない。GTMもレッドオーシャン化した市場での法人獲得が難しく、timing も本家のエージェント化により窓が閉じつつある。総合的に、横展開クローンとしての個人開発事業化は推奨しにくい。やるなら、能動発言を捨て『日本語精度＋会議後の自動実行＋国産SaaS連携』に絞った職種特化の薄い垂直プロダクトとし、運用負荷とSLA期待値を意図的に下げる設計が前提。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 4000,
+      "plans": [
+        "Free: 月5会議まで・要約と会議後の自動書込み基本機能",
+        "Pro: ¥2,000/月・無制限会議、日本語要約、Slack/Notion連携",
+        "Team: ¥4,000/ユーザー/月・CRM自動更新、ワークフロー特化テンプレート、メモリ保持",
+        "Business: ¥30,000〜/月・国内データ保管、SSO、監査ログ、優先サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "オンライン会議が業務の中心で、会議後のCRM/議事録更新作業が多い国内スタートアップ〜中堅の営業・カスタマーサクセス・開発チーム。SaaSを日常利用しPLGで自走導入できるテックリテラシーの高いチームに限定。",
+      "target_count": 50000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 4000000
+    },
+    "recommended_gtm": [
+      "PLG 無料枠（日本語要約＋会議後の自動書込み）でボトムアップ獲得",
+      "X / note での個人発信と、営業/CS職向けの具体ユースケース実演",
+      "Zenn/Qiita で API・連携の技術記事を出し開発者チームへ浸透",
+      "kintone・サイボウズ等の国産業務SaaSアプリストア/連携経由での露出",
+      "特定職種（国内営業・採用面接）に絞った導入事例コンテンツ"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "本家侵食: Zoom AI Companion 3.0 / Teams Copilot がリアルタイム応答・自律タスク実行を同梱・実質無償提供し、能動エージェントの差別化が短期で消失する。",
+      "運用負荷: リアルタイム音声の低遅延・高可用と200+ツールへのライブ書込み保守、会議中の誤発言/誤実行対応、法人SLA問合せが重く個人運用が破綻する。",
+      "日本語精度の壁: 国産Notta/Rimoが築いた日本語認識97-98%に対しリアルタイム音声で劣後すると、コア体験で勝てない。",
+      "受容性: AIが会議中に発言・実行する能動性が日本の商談/社内会議文化と摩擦を生み、導入の心理的ハードルが高い。",
+      "コンプライアンス: 会議内容の外部SaaS送信・越境移転に伴う個情法/電通法対応、機密会議の情シス審査が法人導入の足かせになる。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T03:09:29Z",
+  "review_guide_at": "2026-06-06T03:09:29Z",
+  "business_viability_at": "2026-06-06T03:09:29Z",
+  "advisor_view_at": "2026-06-06T03:09:29Z"
+}

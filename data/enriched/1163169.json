@@ -1,0 +1,244 @@
+{
+  "name": "Minimi",
+  "description": "Your ambient memory for Claude",
+  "ph_url": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/SIMPLUAHCBBLII?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-05T07:01:00Z",
+  "upvotes": 361,
+  "comments": 92,
+  "topics": [
+    "Productivity",
+    "Artificial Intelligence",
+    "Tech"
+  ],
+  "makers": [
+    {
+      "id": "5288717",
+      "name": "Jay Gadekar",
+      "twitterUsername": null,
+      "headline": "Co-founder, Shram"
+    },
+    {
+      "id": "5237678",
+      "name": "Ojasvika Sahu",
+      "twitterUsername": "Ozacle23",
+      "headline": "Co-founder, Shram"
+    },
+    {
+      "id": "9863204",
+      "name": "Vineet Gupta",
+      "twitterUsername": null,
+      "headline": "Head of Engineering, Shram"
+    },
+    {
+      "id": "5380723",
+      "name": "Niket Raj Dwivedi",
+      "twitterUsername": null,
+      "headline": "Founder/CEO- Medial."
+    },
+    {
+      "id": "9863228",
+      "name": "Dhanishta Likhar",
+      "twitterUsername": null,
+      "headline": "A Generalist"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "I've been living inside Claude for most of my workday, and the one thing that always frustrated me was having to re-explain myself every single session. \"Here's what I'm working on. Here's what happened in my last meeting. Here's the email thread you need to know about.\"\n\nMinimi fixes that. It sits quietly on my Mac, reading what I read, hearing what I hear - and then feeds all of that to Claude as live context. So when I open a new chat and ask \"what should I follow up on from this morning?\", Claude already knows. No briefing. No copy-paste. Just the answer.\n\nA few things I love about Minimi:\n\n1. On-device memory - your context never leaves your Mac (the vector DB lives locally). We benchmark at 54% on BEAM vs the previous SOTA's 36%.\n\n2. MCP-native - one link, paste it into Claude's custom connector, done. No new app to live in.\n\n3. Granular control - you pick which apps it can see. Pause anytime.\n\nIf you use Claude and you work on a Mac, this is a no-brainer install. Three steps and it just works.",
+      "votesCount": 25,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Minimi catches literally everything. Claude basically now has my personal context and knows everything. Helps across the workday. Remembers weeks of conversations and makes work way more productive than earlier. I can ask it \"What are the tasks I should handle urgently\" and it knows. I can ask it \"Who all did I talk to today\" and it will tell me the names, platform the conversation happened on and the context. I also use it to remember followups. Really deep use-case. </p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>the context bottleneck is real. most bad AI output i see is a missing-context problem, not a model problem, so this direction makes a lot of sense. the part id be curious about is signal vs noise. passively capturing everything across docs/calls/tabs is powerful, but the risk is feeding Claude confidently-irrelevant context. how you decide what's actually worth surfacing feels like the real moat here. on-device + private is a smart trust call too. nice work.</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Every great Claude response starts with context. Minimi listens across your Mac - docs, calls, messages, tabs - and gives Claude the full picture. No prompting. All on-device and private.",
+  "featured_at": "2026-06-05T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/263c1485-e028-41c9-a635-559fbc18e830.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a620a4e0-e814-4817-bc77-3b64de305485.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8192e656-b12a-435d-aa20-77bb103f46b6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/43f96bd5-851f-4268-983d-ce7321d37a86.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3845e67a-18cd-44f1-938a-245198927cae.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e6ac7935-1414-4514-8972-b338dddacbbd.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/26798396-6e55-4eaf-aade-6a9639bdf466.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:08",
+  "landing_meta": "Minimi: Your ambient memory for Claude — Give your Claude context of everything that you have even read, said or heard on your Mac.",
+  "landing_text": "Minimi: Your ambient memory for Claude Claude now knows what you did today Claude now knows what you did today Minimi quietly captures everything on your Mac - every tab, doc, call, and Slack thread, and feeds it to Claude as live context Minimi quietly captures everything on your Mac - every tab, doc, call, and Slack thread, and feeds it to Claude as live context Download for Mac Made with by Team Shram TRUSTED BY FOLKS AT Claude can answer Claude can answer Who sent me the screenshot about the bug? Find that article I was reading last tuesday What did I promise to send by Friday? What did we decide in yesterday's meeting? Who sent me the screenshot about the bug? Find that article I was reading last tuesday What did I promise to send by Friday? What did we decide in yesterday's meeting? What did I actually do today? Show me everything I've read about this topic How has my thinking on this changed? What were the action items from this morning's call? What did I actually do today? Show me everything I've read about this topic How has my thinking on this changed? What were the action items from this morning's call? What was I worried about a month ago? Where did I leave off on this? What have I been quietly avoiding? What should I focus on right now? What was I worried about a month ago? Where did I leave off on this? What have I been quietly avoiding? What should I focus on right now? How it works How it works 1 Install & Forget Install & Forget Download the app, sign in, and Minimi icon appears in your tray 2 Connect to Claude Connect to Claude Copy the MCP link and paste it in Claude's custom connector 3 Start chatting Start chatting Start a new chat with Claude and ask it to use Minimi to answer Ask Claude for anything Ask Claude for anything Claude knows everything you have read, said or heard Download for Mac Our memory Our memory On-device and super-accurate On-device and super-accurate On-device and super-accurate Your memory lives on your Mac, where it's saf",
+  "pricing_signals": [],
+  "landing_fetched_at": "2026-06-06T11:54:09",
+  "description_ja": "Mac 上の見聞きした全てを記録し、Claude に文脈として渡す常駐型メモリ",
+  "summary_ja": "Mac に常駐し、開いたタブ・ドキュメント・通話・Slack などを受動的にキャプチャしてオンデバイスのベクトル DB に蓄積。MCP 経由で Claude に接続すると、過去の文脈を踏まえた回答が得られる。",
+  "tldr_ja": "MCP 連携の常駐メモリは JP 開発者に需要あり、だが Claude 純正メモリが全ユーザー開放済みで時間窓が極小・常時監視のプライバシー懸念も大",
+  "review_guide_ja": {
+    "what": "Mac のメニューバーに常駐し、ユーザーが許可したアプリ上の活動（閲覧したタブ、編集ドキュメント、通話音声、Slack スレッド等）を受動的にキャプチャ。オンデバイスのベクトル DB に蓄積し、MCP のカスタムコネクタとして Claude に1リンクで接続する。Claude 側から「今朝のフォローアップは？」「昨日の会議で何を決めた？」「金曜までに何を送ると約束した？」といった質問に、過去数週間の文脈をもとに回答できる。データは端末外に出ない設計で、キャプチャ対象アプリを個別に選択・一時停止可能。BEAM ベンチで 54%（従来 SOTA 36%）と主張。典型用途は ToDo の抽出、会話相手・経緯の想起、フォローアップ管理、自分の活動ログの振り返り。",
+    "for_who": "Claude を日常の業務ハブとして Mac 上で多用するナレッジワーカー、コンサル、開発者、PM。セッションごとに文脈を再説明する手間を嫌い、過去の活動を AI に横断検索させたい個人ユーザーが主対象。MCP を自分で設定できるリテラシー層。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "MCP サーバ実装と Mac 常駐キャプチャ（画面 OCR・音声・各アプリ連携）は実装可能だが、低ノイズで高精度な想起、オンデバイスのベクトル検索最適化、安定した常駐動作の作り込みが差別化点で工数大。"
+    },
+    "signals": [
+      "PH で 361 upvotes / 92 comments と高い初動反応",
+      "Claude/MCP のエコシステムに正面から乗る設計で参入摩擦が低い",
+      "オンデバイス完結のプライバシー訴求がトラスト要素として機能",
+      "「文脈不足こそ AI 出力の最大の課題」というコメント評価が示す課題の普遍性"
+    ],
+    "concerns": [
+      "Claude 純正の長期メモリが 2026 年 3 月に全ユーザー開放済みで価値の重複",
+      "全活動を常時キャプチャするモデルの心理的・法的プライバシー懸念",
+      "signal vs noise（無関係な文脈の混入）の制御がコメントでも指摘される本質的難所",
+      "Mac 専用かつ Claude 依存で、プラットフォーム側の仕様変更に脆い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Claude/MCP の利用は Qiita/Zenn/note で活発に共有されており JP 開発者の関心は高い。Rewind/Limitless 等のパーソナル AI メモリも JP メディアで紹介され概念認知はある。ただし常駐キャプチャ型メモリの明確な需要規模シグナルは検索で未確認で中庸。"
+      },
+      "competition": {
+        "score": 7,
+        "reason": "「Mac 常駐で受動キャプチャ→MCP で Claude に文脈供給」という直接競合は国内で確認できず。隣接に Notta（文字起こし）、Obsidian/Tolaria（AI 向け vault）等があるが用途が異なる。ただし最大の競合は国産他社でなく Claude 純正メモリ。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "オンデバイス完結なら電気通信事業法 外部送信規律の対象外になりうるが、サインインや更新で送信があれば該当余地。会議音声・他者情報の常時キャプチャは個情法上の取得・管理義務、無断録音のプライバシー侵害リスクを伴い、業務利用で論点化しやすい。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "中核は MCP サーバ＋オンデバイス処理で UI 露出は最小。メニューバー文言・設定画面・OCR/音声の日本語精度対応が主で、深い UX 改修は不要。日本語の OCR・文字起こし精度確保が実務的な要点。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "個人の生産性ツールとして商習慣の壁は低い。一方で職場 PC への常駐キャプチャは情シス・セキュリティ規程の承認が要り、法人導入では日本企業の慎重な情報管理文化と摩擦。個人利用前提なら相性は中程度。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Notta",
+        "url": "https://www.notta.ai/",
+        "note": "国内で普及する AI 文字起こし・議事録 SaaS（個人 ¥1,317/月〜）。会話の記録・要約という点で重なるが、常駐キャプチャや Claude への MCP 文脈供給は非対応で用途が異なる。"
+      },
+      {
+        "name": "Obsidian / Tolaria 系 PKM",
+        "url": "https://obsidian.md/",
+        "note": "ローカル Markdown のセカンドブレイン。AI 連携 vault（Tolaria 等）が文脈供給層として登場。手動蓄積中心で受動キャプチャではない点が Minimi と異なる。"
+      },
+      {
+        "name": "Claude 純正メモリ（Anthropic）",
+        "url": "https://www.anthropic.com/",
+        "note": "競合は国産ではなくプラットフォーム本体。Chat/Project/API の3層メモリを 2026 年 3 月に全プラン開放済み。会話横断の記憶を無料で内包し Minimi の価値と重複。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "会議音声・チャット・画面に映る第三者の情報を常時取得するため、識別可能な個人情報の取得・利用目的の明示・安全管理義務が発生しうる。オンデバイス保存でも漏えい時の責任は残り、業務文脈では取得同意の論点が大きい。"
+      },
+      {
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "完全オンデバイスなら対象外となりうるが、サインイン・ライセンス認証・テレメトリ等で端末情報を外部送信する実装があれば、送信情報の内容・送信先・目的の通知/公表または同意取得が必要になりうる。"
+      },
+      {
+        "law": "プライバシー権（無断録音の判例リスク）",
+        "impact": "日本では秘密録音自体は直ちに違法ではないが、目的・態様・第三者への開示次第でプライバシー侵害が認定された判例があり、損害賠償リスク。常時音声キャプチャは相手の同意取得運用を促すべき。"
+      }
+    ],
+    "opportunity": "国内独自の角度は、(1) 日本語の OCR・会議文字起こし精度に最適化し「日本語で正確に想起できる常駐メモリ」を打ち出す、(2) Claude 純正メモリが弱い「会話の外（自分の PC 活動・閲覧・通話）」の文脈に特化して住み分ける、(3) プライバシー懸念が強い日本市場でオンデバイス完結を前面に出し、情シス向けに「データが端末外に出ない監査可能な設計」を訴求する点。個人開発者・PM・コンサルなど Claude ヘビーユーザーの個人利用に絞れば、純正メモリと補完関係を築ける余地がある。",
+    "rationale": "市場機会としては中庸。Claude/MCP の JP 利用は活発で、パーソナル AI メモリ概念の認知もあるため需要素地はある。国産の直接競合も見当たらず、競合軸は良好。一方で最大の脅威は国産他社でなく Claude 純正メモリ（2026 年 3 月に全プラン開放）で、コア価値が重複する点が機会を縮める。規制面は完全オンデバイスなら軽いが、他者情報の常時キャプチャに伴う個情法・プライバシー論点が業務利用での導入摩擦になる。ローカライズは MCP/オンデバイス中心で容易だが、日本語 OCR・文字起こし精度が実用性を左右する。総じて「即時参入の build」ではなく、純正メモリとの住み分けとプライバシー設計を検証しながら様子を見る watch が妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "国内の個人向けノート/議事録 SaaS は月 ¥1,000〜1,500 が相場（Notta ¥1,317）で、AI メモリに月額課金する素地はある。一方で Claude 純正メモリが無料で類似価値を提供するため、有料化には明確な上乗せ価値が必須で課金壁は中程度。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "対象は Mac 上で Claude を多用するナレッジワーカーという二重の絞り込みで、国内 TAM は限定的。Claude 有料利用者かつ Mac かつ MCP 設定可能層となるとニッチ。検索で具体的母数の根拠は未確認のため低めに見積もる。"
+      },
+      "gtm": {
+        "score": 7,
+        "reason": "PLG 適性は高い。MCP 1リンクで導入完了する低摩擦設計、Claude エコシステム・PH・Qiita/Zenn/X での個人発信と相性が良く、個人開発者が到達可能なチャネルが揃う。SI や人脈は不要。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "時間窓が極小。Claude 純正メモリは既に全プラン開放済みで、Anthropic が会話外の文脈やデスクトップ連携に踏み込めばコア価値が即座に陳腐化しうる。本家が同領域に最も近い位置におり猶予は短い。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "オンデバイス完結なら個人情報をサーバ保持せず運用負荷は抑えられるが、macOS/各アプリ/Claude MCP 仕様変更への追従、常駐アプリの安定性サポート、OCR/音声精度の継続改善が必要で手離れはしにくい。"
+      }
+    },
+    "rationale": "事業成立性はやや低め。GTM は MCP のワンクリック導入と Claude/個人発信チャネルで PLG が成立しやすく明確な強み。課金も国内の議事録/メモ SaaS 相場（月 ¥1,000〜1,500）があり不可能ではない。しかし致命的なのは timing と market_size。Claude 純正メモリが既に全ユーザーへ無料開放されており、本家がデスクトップ文脈に踏み込めばコア価値が消える構造的リスクを抱える。対象も『Mac×Claude ヘビーユーザー×MCP 設定可能』と三重に絞られ TAM が薄い。運用も常駐アプリ＋外部仕様追従で完全な手離れには至らない。住み分け（会話外の活動文脈・日本語精度・オンデバイス監査性）を磨けば隙間は残るが、単独で大きな事業に育てるより、本家が踏み込むまでの短期窓を取りに行く戦い方になる。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1200,
+      "plans": [
+        "Free: キャプチャ対象3アプリまで／直近7日間の想起",
+        "Pro: ¥1,200/月 全アプリ・無制限期間・音声文字起こし込み",
+        "Team: ¥2,500/ユーザー/月 共有メモリ・管理者によるキャプチャ範囲制御（将来拡張）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Mac を主機とし Claude(Pro/Max) を日常業務で多用するナレッジワーカー・PM・コンサル・個人開発者で、MCP を自力設定できるリテラシー層。会話外の自分の PC 活動・通話・閲覧履歴まで AI に想起させたい個人ユーザー。",
+      "target_count": 50000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 900000
+    },
+    "recommended_gtm": [
+      "Claude/MCP コミュニティと PH での露出（英語圏初動を JP に波及）",
+      "Qiita/Zenn 連載: 『Claude に PC 活動を記憶させる MCP メモリ構築』",
+      "X 個人発信＋デモ動画（想起クエリの実演で課題訴求）",
+      "PLG: MCP ワンクリック導入＋Free 枠からの自然転換",
+      "オンデバイス/プライバシー設計を前面にした情シス向けホワイトペーパー"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "Claude 純正メモリ（全プラン開放済み）およびデスクトップ文脈連携の拡張により、コア価値が即時に陳腐化するプラットフォーム依存リスク。",
+      "全活動の常時キャプチャに対する心理的・法的プライバシー懸念。会議音声で他者情報を取得する場合、個情法・無断録音のプライバシー侵害リスクが業務導入の壁になる。",
+      "signal vs noise の制御失敗で『自信ありげに無関係な文脈』を Claude に渡し、回答品質を逆に劣化させる本質的難所。",
+      "macOS/各アプリ/Claude MCP の仕様変更への追従コストが個人運用に重くのしかかる。",
+      "対象が Mac×Claude×MCP 設定可能層に三重に絞られ、国内 TAM が薄く有料転換母数が不足するリスク。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

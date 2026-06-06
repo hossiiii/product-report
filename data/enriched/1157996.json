@@ -1,0 +1,200 @@
+{
+  "name": "Openstatus MCP Health Checker   ",
+  "description": "Test MCP servers like a real AI client, not just a ping",
+  "ph_url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/JMCEEBGQ3PMHF4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-30T07:01:00Z",
+  "upvotes": 207,
+  "comments": 13,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "Artificial Intelligence",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "1667727",
+      "name": "Thibault Le Ouay",
+      "twitterUsername": null,
+      "headline": "building openstatus.dev 🫖"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt! 👋\n\nMax and I are super excited to share this with you today.\n\nAs we've been diving into the Model Context Protocol (MCP) and building for AI agents, we kept running into the same frustrating issue: a standard 200 OK from an HTTP ping doesn't mean your AI client can actually connect. If the JSON-RPC handshake fails, or if the tools/list returns empty, your agent completely breaks.\n\nWe built the MCP Server Health Check to solve this. It's a free, zero-install tool that tests your endpoint exactly how a real AI client (like Claude Desktop or Cursor) would.\n\nInstead of a basic uptime check, it performs a true protocol-level validation:\n\n    Real Handshakes: It runs the full spec-defined initialize, ping, and tools/list sequence.\n\n    Zero-Friction Debugging: You can click into any step to inspect the exact JSON-RPC payloads, negotiated versions, and session IDs.\n\n    Smart Auth: If your server is locked down, it parses RFC 9728 headers on a 401 to show you exactly where to fetch your auth token.\n\nIt’s completely open-source, just like the rest of our synthetic monitoring gear at OpenStatus.\n\nGive it a spin with your own MCP endpoints (or test it out with a public one like [<a href=\"https://hf.co/mcp](https://hf.co/mcp)\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://hf.co/mcp](https://hf.co...</a>) and let us know what you think. We’ll be hanging out in the comments all day to answer your questions and hear your feedback! 🚀",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Launched our MCP server 2 days ago - Open status comes at the right time.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>when you say \"like a real ai client\" does it go through initialize → list-tools → actually call a tool, or stop at the handshake? in my experience the gap between \"server responds to initialize\" and \"tools actually execute correctly\" is where most bugs hide</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Most monitors just send an HTTP ping. But a 200 OK is useless if the JSON-RPC handshake fails. Our tool is different because it performs a true protocol-level check, acting exactly like a real AI client. Key features: Full Handshake: Executes the spec-defined initialize, ping, and tools/list sequence. Deep Visibility: Inspect exact JSON-RPC payloads and negotiated versions. Smart Auth: Parses RFC 9728 headers on 401s to surface exact token requirements.",
+  "featured_at": "2026-05-30T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/0e2ad93f-784c-4e3b-991c-d44781378e3a.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d3eb6dc9-29bf-4cea-aaf6-544828ba01e8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/685509f9-68db-4d23-9ca4-ca12a92f0c7e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d7d493e8-d2ed-4420-bc98-2c7e3d6e08fd.png"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:45",
+  "landing_meta": "MCP Server Health Check | openstatus — Free online MCP server health check. Test JSON-RPC initialize, ping, and tools/list handshake from your browser — no install, no signup.",
+  "landing_text": "MCP Server Health Check | openstatus play [copy link] ▲ MCP Server Health Check Free online MCP server health check. Test JSON-RPC initialize, ping, and tools/list handshake from your browser — no install, no signup. Submit No idea where to start? Try https://hf.co/mcp or https://mcp.context7.com/mcp . Content-Type: application/json and Accept: application/json, text/event-stream are sent on every request. Add header GOOD WARN AUTH DOWN Step Latency Notes 1. initialize — — 2. ping — — 3. tools/list — — Run a check to see results. Monitor MCP servers continuously? Read the monitoring guide . What is an MCP server health check? An MCP server health check verifies that a Model Context Protocol endpoint behaves the way an AI client expects when it first connects. It is not a plain HTTP ping — it speaks JSON-RPC, runs the spec-defined handshake, and confirms the server actually exposes the tools it promises. A failing MCP health check tells you the server is unreachable, returning the wrong content type, missing required JSON-RPC methods, or expecting an auth header you haven't provided. A passing check tells you the server is ready to serve AI clients like Claude Desktop, Claude Code, Cursor, Continue, or your own agent. How to test your MCP server Paste your MCP server URL. Any Streamable HTTP endpoint works — for example https://hf.co/mcp or your own deployment. Add an Authorization header if the server requires it. Public servers can be tested with no headers. Run the check. Openstatus sends the JSON-RPC initialize , ping , and tools/list calls in the same order an MCP client would. Inspect each step. Click any row in the result table to open the exact JSON-RPC request and response that openstatus sent and received — along with the per-step latency, negotiated protocol version, server info, and session id. The whole flow takes about 30 seconds and never leaves your browser session — the only data persisted is the report you explicitly choose to share. What this tool ",
+  "pricing_signals": [
+    "open-source",
+    "pricing",
+    "$1",
+    "$8",
+    "$16",
+    "$37"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:46",
+  "description_ja": "MCPサーバーを単なる疎通確認ではなく、本物のAIクライアントと同じ手順でテストする無料ツール",
+  "summary_ja": "MCPサーバーのエンドポイントに対しJSON-RPCのinitialize/ping/tools-listハンドシェイクをブラウザから実行し、AIクライアント視点で正常稼働を検証する無料・インストール不要のツール。OpenStatusの合成監視製品のリードマグネット的な公開ツール。",
+  "tldr_ja": "MCP開発は国内でも活発だが本体は無料OSSの集客用ツールで単体収益化は困難。監視SaaSへの導線として既存大手と競合する。",
+  "review_guide_ja": {
+    "what": "MCP（Model Context Protocol）サーバーのエンドポイントURLを貼り付けると、ブラウザからJSON-RPCのinitialize→ping→tools/listというAIクライアント本来のハンドシェイク順序でリクエストを送り、各ステップのレイテンシ・ネゴシエートされたプロトコルバージョン・session id・生のJSON-RPCペイロードを確認できる無料ツール。401時はRFC 9728ヘッダを解析し必要な認証トークンの所在を提示する。HTTP 200では分からない『AIクライアントが実際に接続できるか』を検証する。典型ユースケースはMCPサーバー公開前の動作確認、tools/listが空になる不具合の切り分け、認証設定のデバッグ。OpenStatof（OSS合成監視）の常時監視機能への入口として位置づけられる無料・インストール不要・サインアップ不要の単発チェッカー。",
+    "for_who": "MCPサーバーを自作・公開する開発者、AIエージェント基盤を運用するチーム、Claude Desktop/Cursor/Claude Code等向けにツールを提供するSaaSベンダー。MCPの普及に伴いエンドポイント疎通を頻繁に検証したい個人開発者・小規模チームが主対象。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "JSON-RPCハンドシェイクを順に投げて結果を表示するだけで、MCP仕様は公開済み。OSSで参照実装も存在するため技術的な再現は容易。差別化はUXと監視SaaSへの連携に依存する。"
+    },
+    "signals": [
+      "MCP開発は国内Qiita/Zennで自作入門・リモートMCP開発ガイド等の記事が活発で、検証ニーズは顕在化しつつある",
+      "PH 207 upvotes・コメントで『MCPサーバーを2日前に公開したばかりでタイミングが良い』と実需の声",
+      "無料・サインアップ不要・ブラウザ完結という低摩擦設計で初回利用障壁が極めて低い",
+      "OpenStatusという既存OSS合成監視製品のリードマグネットとして設計され、本体への導線が明確"
+    ],
+    "concerns": [
+      "本体が無料OSSの単発チェッカーで、それ自体には課金ポイントが存在しない",
+      "継続監視・課金は親製品OpenStatusに依存し、そこはDatadog/New Relic/Sentry/Mackerel等と競合する飽和領域",
+      "MCP仕様準拠のチェックは技術的に容易で、模倣・コモディティ化しやすい",
+      "対象がMCPサーバー開発者という極めてニッチな母集団で、国内TAMが小さい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "MCPサーバー開発は国内でもQiita/Zenn/noteに自作入門やリモートMCP開発ガイド等の記事が多数あり関心は明確。ただし『ヘルスチェック単体』への需要は監視ニーズに従属し顕在度は中程度。母集団がMCP開発者に限られる点も需要規模を抑制する。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "MCP専用ヘルスチェッカー単体の直接競合は現状少ないが、Sentryが既にMCPサーバー監視を提供し、Datadog/New Relic/Mackerel等の合成監視大手が機能取り込み可能。無料ツールとしては競合薄、事業としては監視レッドオーシャンに接続される。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "開発者向け技術検証ツールで個人情報・決済・通信事業等の規制該当はほぼ無い。エンドポイントURL・認証トークンをブラウザ内処理しサーバー保存しない設計のため個情法リスクも限定的。規制障壁は実質ない。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "JSON-RPC・プロトコル中心の機能で深いUX改修は不要。UIとドキュメントの日本語化で対応可能。ただし対象が技術者で英語UIへの耐性も高く、ローカライズの費用対効果はそれほど大きくない。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "開発者個人がブラウザで即試す利用形態は国内エンジニア文化と相性良好。一方で監視SaaSの法人導入は稟議・年間契約・サポート期待が絡み、個人開発者が法人売りする際の商習慣ハードルは中程度。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Mackerel（はてな）",
+        "url": "https://ja.mackerel.io/",
+        "note": "国内発のSaaS型サーバー監視。外形監視・CRE体制を持ち、MCP/AI関連の検証機能を取り込めば最も近い国内競合になりうる。現状MCP専用チェックは未提供。"
+      },
+      {
+        "name": "New Relic（日本法人）",
+        "url": "https://newrelic.com/jp",
+        "note": "外形監視（Synthetic Monitoring）を無料枠付きで提供。国内導入実績が厚く、MCPエンドポイント監視を機能拡張で吸収できる立場。プロトコル検証単体は未対応。"
+      },
+      {
+        "name": "Sentry（日本展開）",
+        "url": "https://sentry.io/",
+        "note": "MCPサーバー監視機能を提供開始しており、クライアント・ツール・リクエスト追跡が可能。MCP領域で最も直接的に重なる既存プレイヤー。"
+      }
+    ],
+    "regulatory_findings": [],
+    "opportunity": "国内独自の角度は薄い。あえて狙うなら、日本語MCP開発コミュニティ（Qiita/Zenn）に密着し『MCPサーバー公開前の検証・デバッグ手引き＋日本語UI』をセットで提供する切り口。JAXA等の公的機関や国内SaaSがMCPサーバーを公開する流れに合わせ、tools/list検証やOAuth2.1/RFC9728認証デバッグを日本語で丁寧に支援すれば差別化余地はある。ただし本質は無料ツールで、収益は常時監視SaaSに依存するため、国内向けに作るなら『監視のローカル代替』として組み立てる必要があり、その時点でMackerel等と正面衝突する。",
+    "rationale": "MCP開発の関心は国内で確実に立ち上がっており（自作入門・リモートMCP開発ガイドの記事多数、JAXAのMCP公開等）、ヘルスチェックの技術需要そのものは存在する。規制リスクはほぼ無く、プロトコル中心でローカライズも容易。一方で本プロダクトはOpenStatusのリードマグネットたる無料・OSS・単発チェッカーであり、これ単体は日本市場でも収益化できない。継続監視・課金に進むと国内Mackerelや日本展開済みのNew Relic・Sentry・Datadogという飽和領域に入り、競合観点のスコアを押し下げる。対象がMCPサーバー開発者という極小母集団に限られる点もjapan_fitを中庸に留める要因。総じて『市場機会は中、watchが妥当』。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "国内開発者はフリーミアム嗜好が強く（基本無料＋追加課金が高採用率）、無料・サインアップ不要の単発チェッカーから直接ARPUを取るのは極めて困難。課金は継続監視SaaSに転換しないと成立せず、その壁は厚い。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "対象がMCPサーバーを自作・運用する開発者という極小ニッチ。国内のMCPサーバー運用者数の公的統計は検索で根拠未確認だが、現時点では数千〜数万規模と控えめに見るのが妥当で、TAMは小さい。"
+      },
+      "gtm": {
+        "score": 7,
+        "reason": "無料ブラウザツール＋OSSはPLGと相性が良く、Qiita/Zenn/X発信や本家OpenStatusのコンテンツ導線で個人開発者でもリーチ可能。集客自体のチャネルは豊富で再現性が高い。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "MCPは2025-2026に急拡大しStreamable HTTPで仕様が安定。検証ニーズは今が立ち上がりだが、Sentry等が既にMCP監視に参入済みで、Datadog/New Relicの機能取り込みも時間の問題。時間窓は広くない。"
+      },
+      "solo_ops": {
+        "score": 6,
+        "reason": "単発チェッカーはブラウザ完結・状態保持最小で運用負荷は軽い。一方、継続監視SaaSへ発展させると28拠点級のプローブ運用・SLA・24/7監視が必要となり個人運用は急に重くなる。無料ツール段階に留めれば手離れは良い。"
+      }
+    },
+    "rationale": "事業として最大の問題は『単体で課金できない』こと。本体は無料・OSS・サインアップ不要の集客用チェッカーであり、収益は常時監視SaaS（OpenStatus本体）への転換に完全依存する。国内開発者のフリーミアム嗜好を踏まえると無料ツールからの直接マネタイズは難しい。市場規模もMCPサーバー運用者という極小ニッチで、国内TAMは限定的。GTMはPLG・Qiita/Zenn発信で個人でもリーチ可能と良好だが、出口の課金商品が監視レッドオーシャン（Mackerel・New Relic・Sentry・Datadog）に直結し、timingも本家・大手の機能取り込みで狭まる。個人開発者がこの題材で独立した事業を立てるのは難度が高く、business_viabilityは低め。無料ツールで集客し別の有料プロダクトに繋ぐ『マグネット』としてのみ意味を持つ構造。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "無料: MCPサーバーのヘルスチェック（initialize/ping/tools-list）をブラウザから無制限に実行・OSS自己ホスト可",
+        "（収益化する場合の出口）有料: 継続監視・アラート・履歴保持の監視SaaSへ転換し月額課金。ただし本ツール単体ではなく別製品扱い"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "MCPサーバーを自作・公開・運用する国内の個人開発者および小規模チーム（Claude Desktop/Cursor/Claude Code向けツール提供者、社内AIエージェント基盤運用者）。Qiita/Zennで情報収集する技術者層が中心。",
+      "target_count": 5000,
+      "capture_pct_year3": 5,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Qiita/Zennで『MCPサーバー公開前チェックリスト＋デバッグ手順』記事を連載し無料ツールに送客",
+      "X（旧Twitter）で国内MCP開発者コミュニティに向けた個人発信",
+      "OSSとしてGitHub公開し、MCP関連リポジトリのREADMEやAwesome系リストへの掲載狙い",
+      "本家OpenStatus等の合成監視SaaSへの無料枠経由PLG導線（収益化する場合）"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "単体で課金不可：無料・OSS・サインアップ不要の設計上、このツールから直接収益が立たず、出口の有料監視SaaSは別途構築が必要。",
+      "コモディティ化：MCP仕様準拠のハンドシェイク検証は技術的に容易で、本家OpenStatusや大手監視（Sentry/Datadog/New Relic）が同等機能を無料取り込みすると差別化が消える。",
+      "極小TAM：対象がMCPサーバー運用者という限定母集団（国内数千〜数万規模、根拠未確認）で、有料転換しても売上規模が小さい。",
+      "出口市場の飽和：継続監視へ進むと国内Mackerelや日本展開済み大手と正面競合し、個人開発では獲得・サポートで不利。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T11:20:00Z",
+  "review_guide_at": "2026-06-06T11:20:00Z",
+  "business_viability_at": "2026-06-06T11:20:00Z",
+  "advisor_view_at": "2026-06-06T11:20:00Z"
+}

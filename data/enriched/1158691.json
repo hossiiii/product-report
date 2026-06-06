@@ -1,0 +1,216 @@
+{
+  "name": "Step 3.7 Flash",
+  "description": "Flash-speed agents model that can see and act",
+  "ph_url": "https://www.producthunt.com/products/step-3-5-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/VAWQFMEA3FMTG3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-30T07:01:00Z",
+  "upvotes": 186,
+  "comments": 4,
+  "topics": [
+    "Open Source",
+    "Artificial Intelligence",
+    "GitHub",
+    "Development"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>Hi everyone!<br><br>Step 3.7 Flash is basically an efficiency-first model for real-world agents.<br><br>It’s fast (up to 400 TPS), handles vision + tool use quite well, and stays relatively stable on longer agent runs. Also plays nicely with common harnesses like <a href=\"https://www.producthunt.com/products/claude-code\" target=\"_blank\" rel=\"noopener\">@Claude Code</a>, <a href=\"https://www.producthunt.com/products/clawdbot-2\" target=\"_blank\" rel=\"noopener\">@OpenClaw</a> and <a href=\"https://www.producthunt.com/products/kilocode\" target=\"_blank\" rel=\"noopener\">@Kilo Code</a>. <br><br>The <a href=\"https://huggingface.co/collections/stepfun-ai/step-37-flash\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">weights</a> are also open under Apache 2.0.<br><br>Love this kind of Flash model: not trying to be the biggest, but trying to be the one agents can actually run a lot.</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><a href=\"https://www.producthunt.com/products/step-3-5-flash\" target=\"_blank\" rel=\"noopener\">@Stepfun</a>'s Step 3.7 Flash is one of the best open-weight models you can run right now.</p><p></p><p>Perfect timing to play with Kilo's new VS Code extension launched <a href=\"https://www.producthunt.com/products/kilocode/launches/kilo-code-v7-for-vs-code\" target=\"_blank\" rel=\"noopener\">this month</a>.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The efficiency first angle makes sense for agents. In real workflows, speed and stable tool use can matter more than raw model size. How does Step 3.7 Flash perform when a task needs multiple tool calls plus vision in the same run?</p>",
+      "votesCount": 0,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "An Apache 2.0 open-weight Flash model for real-world agents. Step 3.7 Flash combines vision, coding, search, tool use, 256K context, ~11B active params, and up to 400 TPS.",
+  "featured_at": "2026-05-30T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/aa8a3685-a958-4d2c-93db-5d5787887f36.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ba3df7fa-39eb-4ea2-a18f-da48c18b7877.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1bbc18de-875f-4b98-a5f2-a74ec3108aa1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4dabee3b-962b-4258-97bd-844557b65d0f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0443b5de-92ba-4724-ad1f-07ae47b76af6.png"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:51",
+  "landing_meta": "Step 3.7 Flash — A high-efficiency Flash model for Real-World",
+  "landing_text": "Step 3.7 Flash — A high-efficiency Flash model for Real-World 2026-05-29 Step 3.7 Flash The new frontier is agent efficiency. A high-efficiency Flash model for real-world agents. Multimodal Understanding & Action｜Web & Visual Search Enhancement｜Reliable Tool Use & Orchestration｜Agent Ecosystem Compatibility GitHub HuggingFace ModelScope Key Features Native Multimodal Understanding & Acting Understands images across the full range — product UIs, documents, charts, and natural scenes — then writes code or calls tools to act on what it sees. Web & Visual Search Enhancement Web search reaches further — more sources, deeper follow-up. Visual search recognizes what other systems don't — long-tail entities, freshly emerged concepts. Reliable Tool Use & Orchestration Drives terminals, browsers, Office tools, search, and beyond — staying coherent however long the run gets. Less drift, fewer broken toolcalls, fewer failed runs. Agent Ecosystem Compatibility Works with mainstream harnesses (Claude Code, KiloCode, Hermes Agent, OpenClaw) and Skills — lower integration cost, less workflow rewiring. Agentic Coding SWE-Bench Pro 65 35 5 56.3 Step 3.7 Flash Score: 56.3 Params: 196B 51.3 Step 3.5 Flash Score: 51.3 Params: 196B 55.6 DeepSeek V4 Flash Score: 55.6 Params: 284B 55.1 Gemini 3.5 Flash Score: 55.1 Params: Unknown 58.6 GPT 5.5 Score: 58.6 Params: Unknown 64.3 Claude Opus 4.7 Score: 64.3 Params: Unknown Terminal-Bench 2.1 85 43 0 59.5 Step 3.7 Flash Score: 59.5 Params: 196B 53.4 Step 3.5 Flash Score: 53.4 Params: 196B 62.0 DeepSeek V4 Flash Score: 62.0 Params: 284B 76.2 Gemini 3.5 Flash Score: 76.2 Params: Unknown 82.7 GPT 5.5 Score: 82.7 Params: Unknown 69.4 Claude Opus 4.7 Score: 69.4 Params: Unknown Multimodal SimpleVQA (with Tool) 80 78 75 79.2 Step 3.7 Flash Score: 79.2 Params: 196B 78.2 GLM 5V Turbo Score: 78.2 Params: Unknown 78.2 Kimi K2.6 Score: 78.2 Params: 1T 79.1 GPT 5.5 Score: 79.1 Params: Unknown V* (with Python) 97 91 85 95.3 Step 3.7 Flash Score: 95.3 Params:",
+  "pricing_signals": [
+    "open-source",
+    "$0.19",
+    "$1.76",
+    "$0.12"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:52",
+  "description_ja": "見て操作できる、エージェント向け高速オープンウェイトモデル",
+  "summary_ja": "StepFun（中国）が公開した Apache 2.0 のオープンウェイト LLM。196B 総パラメータ・約11B アクティブの疎 MoE 構成で、ビジョン・コーディング・検索・ツール実行に対応し最大400TPS。Claude Code 等のエージェント基盤と連携する効率重視モデル。",
+  "tldr_ja": "個人がフロンティアLLM本体を再現するのは不可能。日本ホスティング/エージェント化も国産勢と中国製忌避が壁、skip 寄り",
+  "review_guide_ja": {
+    "what": "StepFun が公開した Apache 2.0 オープンウェイト LLM「Step 3.7 Flash」。196B 総パラメータの疎 MoE（アクティブ約11B）で、画像理解・コーディング・Web/ビジュアル検索・ターミナル/ブラウザ/Office 操作などのツール実行を最大400TPS で行う。256K コンテキストを持ち、長いエージェント実行でもツールコール破綻が少ない安定性を売りにする。Claude Code・KiloCode・Hermes Agent・OpenClaw 等のエージェントハーネスと互換。典型ユースケースはコーディングエージェント、マルチモーダル業務自動化、社内文書/UI を見て操作する RPA 的エージェントの基盤モデルとしての組み込み。weights が公開されているため自己ホスト推論・ファインチューニングが可能。",
+    "for_who": "オープンウェイトを自前 GPU で動かす AI 開発者・推論基盤事業者、コーディング/業務自動化エージェントを構築する開発者、機密データをクラウドに出せずオンプレ LLM を求める企業（医療・金融・製造）。最終消費者向けではなく、開発者・インフラ層向けのコンポーネント。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "196B 級フロンティアモデルの学習は数億円規模の GPU と専門チームが必須で、個人開発者がモデル本体を再現することは不可能。可能なのは『この weights を使った上位アプリ/推論サービス』の構築のみ。"
+    },
+    "signals": [
+      "Apache 2.0 で商用利用・改変・自己ホスト可、ライセンス障壁なし",
+      "効率重視（約11B アクティブ・400TPS）で個人の GPU でも比較的回しやすい",
+      "Qiita・note 等の日本語技術コミュニティで STEP3 系が既に話題化",
+      "Claude Code など主要エージェントハーネスと互換で組み込みコストが低い"
+    ],
+    "concerns": [
+      "プロダクト本体はモデルであり、個人開発の『作る』対象にならない（使う対象）",
+      "中国（StepFun）製モデルは日本の官公庁・大企業でセキュリティ/調達上忌避されやすい",
+      "オープンウェイト LLM は多数が無料公開され急速にコモディティ化・陳腐化する",
+      "上位の推論ホスティング事業は さくら/GMO/NEC/リコー 等の資本集約型インフラ勝負"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "オープンウェイト LLM・ローカル LLM・エージェントへの関心は国内で高く、Qiita/note/Zenn でローカル LLM 比較やオンプレ運用記事が多数。機密データをクラウドに出せない医療・金融・製造でオンプレ推論需要は顕在。ただし特定モデル『Step 3.7 Flash』自体への日本語需要シグナルは限定的で、汎用的なオープンウェイト需要の一部に留まる。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "モデル層は GPT-OSS・Qwen3・DeepSeek・Llama・国産（NEC cotomi、リコー）など飽和。日本語性能では国産/Qwen 系が優位。上位の推論ホスティングも さくらインターネット・GMO GPU クラウド・ABEJA 等が資本投下済み。個人が差別化できる隙間は狭い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "モデルの自己ホスト自体に直接の業法規制はなく Apache 2.0 で法的障壁は低い。ただし中国製 AI は サイバーセキュリティ法・国家情報法を背景に政府アクセスリスクが指摘され、官公庁調達・大企業導入で実質的に忌避される。個情法対応はオンプレ運用ならむしろ有利。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "モデル/API 中心なので翻訳 UX 改修は軽いが、日本語生成品質のチューニング（追加学習・日本語評価）には専門コストが必要。個人がフルファインチューニングで日本語最適化するのは GPU・データ面でハードルが高く、容易とは言えない。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "オンプレ志向・データ主権重視という日本企業の保守的な購買嗜好とは方向性が合うが、中国製であること、サポート体制への期待値の高さ（国産・大手志向）から、個人開発者が法人へ直販するのは商習慣的に不利。検索で根拠未確認の部分も含み中庸評価。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "NEC cotomi",
+        "url": "https://jpn.nec.com/cotomi/",
+        "note": "日本語最適化 LLM。ELYZA Tasks 100 や Japanese MT-Bench で GPT-4 同等精度を主張し高スループットを訴求。法人オンプレ/RAG 基盤を一体提供し、国産・サポート体制で信頼を獲得。"
+      },
+      {
+        "name": "リコー オンプレLLMスターターキット",
+        "url": "https://jp.ricoh.com/technology/ai/LLM",
+        "note": "オンプレ LLM パッケージで2025年日経優秀製品・サービス賞 最優秀賞を受賞。機密データを外部に出さない法人向け導入支援で、Step 系自己ホストと同じ需要を国産ブランドで押さえる。"
+      },
+      {
+        "name": "さくらインターネット 高火力 / GMO GPU クラウド",
+        "url": "https://ai.sakura.ad.jp/",
+        "note": "国産 GPU クラウド。オープンウェイトの自己ホスト推論基盤を提供し、経産省支援も受ける。Step 3.7 Flash を載せた推論サービスを作るなら直接競合する資本集約型プレイヤー。"
+      },
+      {
+        "name": "オープンウェイト各種（GPT-OSS / Qwen3 / DeepSeek）",
+        "url": "https://huggingface.co/",
+        "note": "同じく Apache 2.0 等で公開される代替モデル群。日本語性能では Qwen3 が社内 FAQ/文書検索で評価が高く、Step 3.7 Flash は数あるオープンウェイトの一つに過ぎずスイッチングコストはほぼゼロ。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "オープンウェイトをオンプレ/自己ホストで運用すれば個人データを外部送信せず処理でき、むしろ個情法対応上は有利。クラウド API 提供形態にする場合は委託先管理・越境移転（推論サーバの所在）に注意が必要だが、自己ホスト前提なら障壁は低い。"
+      },
+      {
+        "law": "経済安全保障・政府調達ガイドライン（中国製AIの取扱い）",
+        "impact": "中国（StepFun）製モデルは サイバーセキュリティ法・国家情報法を背景にデータアクセスリスクが指摘され、官公庁・重要インフラ・大企業の調達で実質的に排除されやすい。weights をオンプレで隔離運用すれば技術的リスクは低減できるが、ブランド忌避という事業上の障壁は残る。"
+      },
+      {
+        "law": "著作権法・AI生成物の表示義務動向",
+        "impact": "生成物の権利帰属やAI生成表示を巡る規制が国内外で強化傾向。エージェント生成物を提供するサービス形態なら出力責任・表示対応が必要だが、モデル自己ホスト自体への直接規制ではなく影響は限定的。"
+      }
+    ],
+    "opportunity": "個人開発者がモデル本体を作ることは不可能なため、機会は『Step 3.7 Flash（や同等オープンウェイト）を使った上位アプリ』に限られる。具体的には、(1) 日本語業務に特化したコーディング/業務自動化エージェントを薄く構築し PLG で配布、(2) 機密データをオンプレで処理したい中小企業向けに、画面操作（マルチモーダル）を見て動かす RPA 的エージェントをパッケージ化。中国製忌避を回避するため、モデルは差し替え可能な抽象化層にして『国産/任意モデルを選べる』設計が現実的な角度。モデル選定自体を売りにするのではなく、日本語の業務ワークフロー・プロンプト・UI 層で差別化する。",
+    "rationale": "本プロダクトは Apache 2.0 のオープンウェイト・フロンティア LLM であり、個人開発者にとって『作る対象』ではなく『使う部品』である。日本ではローカル LLM・オンプレ推論・エージェントへの需要は顕在化しているが、モデル層は GPT-OSS/Qwen3/DeepSeek/国産（NEC・リコー）で飽和し、日本語性能では国産・Qwen 系が優位。さらに中国製モデルは経済安全保障・情報法リスクから官公庁・大企業で忌避されやすく、ブランド面の障壁が大きい。上位の推論ホスティングは さくら/GMO の資本集約型勝負で個人が入る余地は薄い。唯一の現実的角度は『モデルを差し替え可能にした日本語特化エージェントアプリ』だが、それは Step 3.7 Flash 固有の機会ではなく汎用オープンウェイト機会の一部。総じて市場機会としては skip 寄りで、特定モデルへの賭けは推奨しない。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "モデル自体は無料公開のため直接課金できない。収益化は上位の推論ホスティング（従量）か業務エージェント SaaS（月額）に限られる。日本の個人開発 SaaS は月額980〜3,000円のマイクロ SaaS が現実的だが、AI 推論は GPU 原価が重く粗利を圧迫し、ARPU 確保は容易でない。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "オンプレ LLM・業務エージェントの国内 TAM は拡大中で広いが、個人開発者が到達できるのは中小企業のニッチ業務に絞られる。大企業/官公庁は国産・大手 SI が押さえ、中国製モデル忌避もあり実質到達可能市場は限定的。検索で具体的な対象社数の根拠は未確認のため中庸。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "Qiita/Zenn/X での発信や PLG 無料枠での配布は個人でも可能で、エージェント系は技術コミュニティでバズりやすい。一方、オンプレ/機密データ案件は法人の信頼・サポート体制・SI 連携が必要で、個人直販は難しい。PLG とエンプラ営業のどちらに寄せても片手落ちになりやすい。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "オープンウェイト LLM は数ヶ月単位で新モデルが出て急速にコモディティ化・陳腐化する。Step 3.7 Flash も既に多数の代替の一つで、本家・競合・国産が同領域に密集。時間窓は狭く、特定モデルに依存した事業は寿命が短い。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "自己ホスト推論を提供する場合 GPU インフラの常時稼働・監視・障害対応が必要で個人運用負荷は重い。法人向けはオンプレ導入支援・サポート SLA 期待値も高い。マネージド API に乗せて薄いアプリに徹すれば負荷は下がるが、その分差別化と粗利が薄くなる。"
+      }
+    },
+    "rationale": "事業成立性は厳しい。モデル本体は無料・差し替え可能なコモディティ部品であり、個人開発者の収益源にならない。収益化の現実解は (a) オープンウェイトを載せた推論ホスティング、または (b) 日本語業務特化のエージェント SaaS だが、(a) は さくら/GMO/NEC 等の資本集約型インフラ勝負で個人は不利、GPU 原価が粗利を圧迫し常時運用負荷も重い。(b) は PLG で配布可能だが、法人の機密データ案件は信頼・サポート・SI が必要で個人直販が難しく、しかもどのモデルを使うかは差別化要因にならない。加えてオープンウェイトは陳腐化が速く時間窓が狭い。マイクロ SaaS として月額数百〜数千円を狙うなら、モデル選定ではなく日本語ワークフロー/プロンプト/UI 層で勝負すべきで、Step 3.7 Flash 固有の事業機会は乏しい。total では no_go 寄り。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2000,
+      "plans": [
+        "Free: モデル差し替え可・基本エージェント機能、月100実行まで",
+        "Pro: ¥2,000/月 — 実行回数拡張・日本語業務テンプレート・優先サポート",
+        "Team: ¥10,000/月 — 複数ユーザー・オンプレ/自己ホスト構成ガイド・社内データ連携"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "オープンウェイトを自己ホストしたい国内 AI 開発者・受託開発者、および機密データをクラウドに出せずオンプレ業務自動化を求める中小企業（製造・士業・医療事務など）。モデルを差し替え可能にした日本語特化エージェントアプリの利用者。大企業/官公庁は国産・大手SIが押さえるため除外。",
+      "target_count": 5000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 200000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn でオープンウェイト自己ホスト・日本語エージェント構築の技術連載",
+      "X 個人発信でコーディングエージェント/業務自動化のデモを継続露出",
+      "PLG 無料枠（モデル差し替え可）でまず開発者に触らせ Pro へ転換",
+      "GitHub で OSS テンプレート公開しスター経由の流入を作る",
+      "中小企業向けはオンプレ導入の伴走で受託→プロダクト化の順で攻める"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "プロダクト本体がオープンウェイトモデルであり、個人開発者の『作る』対象にならない。収益化は上位アプリ/ホスティングに限られ、本レポートの『日本独自開発』前提と根本的に噛み合わない。",
+      "オープンウェイト LLM は数ヶ月で新モデルに置き換わり急速に陳腐化。Step 3.7 Flash 固有に賭けると事業寿命が極端に短く、常にモデル追従コストが発生する。",
+      "中国（StepFun）製モデルは経済安全保障・情報法リスクで官公庁・大企業に忌避され、最も支払い能力の高い顧客層へ到達できない。",
+      "自己ホスト推論を売るなら さくら/GMO/NEC/リコー 等の資本集約型インフラと正面衝突し、GPU 原価が粗利を圧迫。個人では価格・信頼・SLA で勝てない。",
+      "推論サービスは GPU 常時稼働・障害対応・法人サポートの負荷が重く、個人の手離れ運用が困難。マネージド API に逃げると差別化と粗利が消える。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T11:30:00Z",
+  "review_guide_at": "2026-06-06T11:30:00Z",
+  "business_viability_at": "2026-06-06T11:30:00Z",
+  "advisor_view_at": "2026-06-06T11:30:00Z"
+}

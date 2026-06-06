@@ -1,0 +1,248 @@
+{
+  "name": "Revolte",
+  "description": "AI for Software Engineering",
+  "ph_url": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/CNX6O53DMUYXTF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-28T07:01:00Z",
+  "upvotes": 290,
+  "comments": 57,
+  "topics": [
+    "Software Engineering",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "6305492",
+      "name": "PRIYANKA MANDAL",
+      "twitterUsername": "MandalPriy199",
+      "headline": "🦄Launching Lancepilot.com 🔥"
+    },
+    {
+      "id": "3510909",
+      "name": "Rajagopalan Raghavan",
+      "twitterUsername": null,
+      "headline": "👋  Co-founder and CEO of Revolte"
+    },
+    {
+      "id": "9720270",
+      "name": "Parthasarathi Raghavan",
+      "twitterUsername": null,
+      "headline": "Co-founder & CTO at Revolte"
+    },
+    {
+      "id": "9675081",
+      "name": "Watson",
+      "twitterUsername": null,
+      "headline": "Build the system where software ships"
+    },
+    {
+      "id": "9675486",
+      "name": "Antony Raj Richard",
+      "twitterUsername": null,
+      "headline": "Engineering Lead at Revolte"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p>&nbsp;</p><p>Raj here, founder &amp; CEO of Revolte.</p><p>&nbsp;</p><p>For years, I’ve built and worked with engineering teams where the same pattern kept showing up:</p><p>&nbsp;</p><p>Writing code was rarely the only bottleneck.</p><p>&nbsp;</p><p>The real drag was everything around the code: setting up environments, running tests, managing deployments, fixing broken builds, triaging incidents, checking quality, and keeping delivery moving across disconnected tools.</p><p>&nbsp;</p><p>Coding assistants have made developers faster inside the IDE.</p><p>But software delivery is much bigger than the IDE.</p><p>&nbsp;</p><p>That’s why we built Revolte.</p><p>&nbsp;</p><p>Revolte is AI for Software Engineering, an agentic platform that helps engineering teams move from intent to production with humans in control.</p><p>&nbsp;</p><p>Give Revolte a ticket or requirement, and its agents can help plan the implementation, work against your actual codebase, generate code, run checks, create the PR, support deployment, monitor runtime behavior, and surface what needs attention.</p><p>&nbsp;</p><p>But the important part is this:</p><p>&nbsp;</p><p>Revolte does not remove engineering judgment.</p><p>&nbsp;</p><p>Every meaningful change goes through human review. Engineers see the diff, the reasoning, the checks, and the rollback path before anything moves forward.</p><p>&nbsp;</p><p>We built it this way because production software cannot run on blind automation. It needs context, governance, and control. Our belief is simple:</p><p>&nbsp;</p><p>AI should not just help engineers type faster.<br>AI should help engineering teams ship better software faster.</p><p>&nbsp;</p><p>Revolte is built for teams that want more delivery throughput without adding more delivery chaos.</p><p>&nbsp;</p><p>We’d love for you to try it, break it, test it on something real, and tell us where it falls short.&nbsp;</p><p>&nbsp;</p><p><a href=\"https://revolte.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://revolte.ai/</a></p><p>&nbsp;</p><p>And if you’re an engineering leader thinking about how agents can safely enter your SDLC, I’d be happy to talk through the governance side with you.</p><p>&nbsp;</p><p>Thanks for checking us out,</p><p>Raj.</p>",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Greetings Product Hunt 👋 this is <strong>Watson</strong> from <a href=\"https://www.producthunt.com/products/revolte\" target=\"_blank\" rel=\"noopener\">@Revolte</a></p><p> </p><p>One thing we kept hearing from engineering teams was this:</p><p>AI helps teams write more code. <strong>But WHY shipping software to production still feels painfully operational </strong>— and WHY no serious engineering team fully trusts AI near production yet.<br></p><p><strong>The hardest balance in AI software delivery today :</strong></p><ul><li><p>Too much approval, and the product becomes another workflow layer engineers have to babysit.</p></li><li><p>Too much autonomy, and no serious team will trust it near production.</p></li><li><p>Automation should handle the repeated delivery work<br>environment setup, test runs, build management, deployment support, runtime monitoring, and coordination.</p></li><li><p>Human judgment should stay where it matters: code merges, production changes, infra-sensitive decisions, security-sensitive changes, and rollback paths.</p></li><li><p><strong>This balance is the product. </strong>We went through many versions before landing on the current model.</p></li></ul><p>And honestly, that’s where <strong>a lot of AI ROI still gets stuck</strong> inside real engineering organizations.</p><p></p><p>We believe the future isn’t just AI generating code — or engineers manually coordinating every step around software delivery forever.</p><p></p><p><strong>It’s intelligent execution systems continuously carrying delivery work forward</strong> while engineers stay focused on architecture, reliability, product thinking, and technical judgment.</p><p></p><p>That’s the balance we’ve thought deeply about while building Revolte — and where the compounding value really starts.</p><p>Would genuinely love feedback from the PH community ❤️</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations to Raj and the Revolte team on the launch 🚀</p><p><br>I hunted Revolte because it’s one of the few AI engineering platforms I’ve seen that looks beyond code generation and focuses on the real bottleneck: getting software safely from intent to production.</p><p><br>A lot of AI dev tools make engineers faster inside the IDE. That matters, but it doesn’t solve the full delivery problem. The hard part is everything around the code, planning the change, understanding the existing codebase, running the right checks, creating the PR, supporting deployment, watching what happens at runtime, and knowing what to do when something breaks.</p><p><br>That’s where Revolte feels different to me. </p><p><br>Their bet is not that AI should blindly replace engineering judgment. It’s that agents can take on more of the SDLC heavy lifting if the trust model is designed properly, with the right approval gates, visibility into the diff and reasoning, quality and security checks, and rollback paths where they matter.</p><p><br>That’s the version of AI for software engineering I can actually see moving into real production codebases.<br>Two things I’d encourage people here to look at closely: the per-service pricing model, which is very different from the usual per-seat AI tooling model, and the CLI/workflow experience, because engineering teams don’t want another SaaS dashboard unless it genuinely removes work.</p><p><br>Excited to see how the Product Hunt community responds to this.</p><p><br>Raj and team have clearly thought deeply about where AI belongs in the software delivery lifecycle. Looking forward to the discussion.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Revolte is for engineering teams to turn intent into production-ready software faster, safer, and with more control. Its agents plan changes, generate code, run quality and security checks, create PRs, support deployment, monitor runtime behavior, and surface risks early. Engineers approve the important decisions. Revolte handles the delivery heavy lifting. Built for higher delivery throughput across SDLC, stronger governance, and more value shipped per engineer.",
+  "featured_at": "2026-05-28T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/dee4d70a-480f-46f4-8fd2-726dc3d35ed2.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c4ed5948-91ae-4146-9b6f-9b72bf7f1e31.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/429f6371-51c5-40e0-9f12-7b5e1465600c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/487f426b-3595-417e-a377-62306a9feb8f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3aaed598-75a3-433d-bbbc-aede00589b10.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/09fe911f-1aae-4ba0-83ff-24c32b84fc1d.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/175b7990-c21a-4587-bebf-9f1736c8ca64.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:39",
+  "landing_meta": "AI for Software Engineering | Revolte — Revolte is an AI platform for software engineering that executes development, testing, deployment, and runtime operations from intent to production.",
+  "landing_text": "AI for Software Engineering | Revolte A New era of ai sdlc, built for humans AI for Software Engineering Revolte executes the software delivery lifecycle from intent to production Get Started Trusted by engineers from Real outcomes from engineering teams using Revolte. 10X Faster Release Cycles 85% Faster Testing and Deployment Workflows 40% Reduction in Production Incidents How It Works How Revolte Executes Software Delivery. Engineers define requirements and approve outcomes. Revolte executes development, testing, deployment, and runtime operations across the software delivery lifecycle. Jira Git Figma Code generated and committed in Git Agentic Workflow Code assured and merged in Git Developer-in-loop with CLI Application tested & deployed live Review & Release Production deployment Runtime Observability Delivery Intelligence FinOps Use Cases Where Revolte Creates Impact From building new applications to operating complex production systems, Revolte helps engineering teams execute software delivery with speed, consistency, and control. Build New Applications • • • Develop new systems faster with AI executing development, testing, and deployment Workflows from the start. Searching Knowledge Exploring Metrics Checking logs Navigating infra and code Updating investigation report Know more Build Migrate Legacy Applications • • • Modernize legacy systems by automating refactoring, testing, and Deployment workflows across existing codebases. Analysing legacy codebase Mapping dependencies Refactoring modules Running migration tests Deploying to staging Know more Migrate Operate Production Systems • • • Monitor, triage, and resolve production issues with AI agents that Continuously maintain delivery workflows. Monitoring system health Triaging alerts Resolving incidents Updating runbooks Notifying stakeholders Know more Operate Evolve Existing Applications • • • Ship features faster by letting Revolte handle development workflows while engineers focus on product decision",
+  "pricing_signals": [
+    "pricing",
+    "$1",
+    "$3",
+    "$42",
+    "$4"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:41",
+  "description_ja": "ソフトウェアエンジニアリングのためのAI。要件から本番までをエージェントが実行する開発プラットフォーム。",
+  "summary_ja": "チケットや要件を渡すと、AIエージェントが計画・コード生成・テスト・PR作成・デプロイ支援・実行監視までSDLC全体を実行し、コードマージや本番変更など重要判断は人間が承認する開発実行プラットフォーム。",
+  "tldr_ja": "AI開発需要は国内で顕在だがDevin/Cursor/Copilot等が飽和、本番監視を伴う重量級SDLC基盤で個人開発は不可。",
+  "review_guide_ja": {
+    "what": "Revolteはソフトウェア開発ライフサイクル（SDLC）全体をエージェントが実行する開発プラットフォーム。チケットや要件を渡すと、AIが既存コードベースに対して実装計画→コード生成→品質/セキュリティチェック→PR作成→デプロイ支援→ランタイム監視→リスク検知までを実行する。コードマージ・本番変更・インフラ/セキュリティ機微な変更・ロールバックなど重要判断は必ず人間がレビュー・承認する『human-in-the-loop』設計。Jira/Git/Figma連携、CLI中心のワークフロー、ランタイムオブザーバビリティ、FinOpsを統合。典型ユースケースは新規アプリ開発、レガシー移行、本番システム運用（監視・トリアージ・インシデント解決）、既存アプリの機能追加。課金はper-seatではなくper-service型。",
+    "for_who": "AIによるデリバリースループット向上とガバナンス両立を求めるエンジニアリングチーム・組織。SDLCの定型作業（環境構築・テスト実行・ビルド管理・デプロイ・運用監視）を自動化しつつ、エンジニアはアーキテクチャ・信頼性・技術判断に集中したい中〜大規模開発組織が主対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "コード生成だけでなくCI/CD・デプロイ・ランタイム監視・インシデント対応まで含む統合基盤。Jira/Git/Figma連携と本番環境への安全な実行・ロールバックを伴い、個人での再現・運用は極めて困難。"
+    },
+    "signals": [
+      "PHで290 upvote / 57コメントと反応良好、SDLC全体カバーという差別化が評価されている",
+      "per-service課金はper-seat主流のAIコーディング市場で差別化軸",
+      "human-in-the-loopによるガバナンス重視は日本企業の本番AI慎重姿勢と合致",
+      "国内AIエージェント基盤市場は2024年度1.6億円→2029年度135億円と80倍超の急成長予測"
+    ],
+    "concerns": [
+      "Devin・Cursor・Copilot・Claude Code・JAPAN AI等が既に飽和、SDLC全域でも競合が拡張中",
+      "本番デプロイ・ランタイム監視・インシデント対応を含むため24/7運用負荷が高く個人運用不可",
+      "ランディングの『10X』『85%』等の数値は自社主張で第三者検証なし",
+      "深い既存システム連携と組織導入が前提でPLG型の手離れ販売が困難",
+      "Cognition（Devin）が2026年4月に日本法人設立予定で本家進出が既に進行中"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "2025年は『AIエージェント元年』とされ自律実行が標準搭載化。Devin導入で工数29〜75%削減の国内事例あり、AIエージェント基盤市場は2024年度1.6億円→2029年度135億円と80倍超の成長予測。AI開発支援への需要は明確に顕在。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "Devin（Cognition、2026/4日本法人設立予定）、Cursor、GitHub Copilot、Claude Code、Tabnine、JAPAN AI等が既に飽和。コーディング補完からSDLC全域・PRレビュー・並列エージェントへ各社が拡張中で、Revolteのポジションは強豪に挟まれる。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "B2B開発ツールで該当する強い業法規制はなし。検索で根拠未確認だが、AI生成コードの責任分界・ガバナンス（経産省ガイドライン、NTTデータのホワイトペーパー等）が論点化しており、本番適用時の責任設計が間接的な障壁となる程度。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "CLI・Git/Jira連携中心で構造化されており翻訳負荷は中程度。ただしダッシュボードUI・ドキュメント・ガバナンス文言の日本語化に加え、日本企業の本番慎重姿勢に合わせた承認フロー/監査ログのUX調整が必要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "human-in-the-loopと承認ゲート重視は日本のSI・大企業の慎重な本番運用文化と合致する一方、受託開発が情報サービス業売上の約50%を占める国内では『本番への自律デプロイ』への抵抗が強く、PoC止まりになりやすい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Devin (Cognition)",
+        "url": "https://www.ulsconsulting.co.jp/devin/",
+        "note": "自律型AIソフトウェアエンジニア。チケットから計画→コード→テスト→PRを自律実行。per-service型（ACU課金）でRevolteと最も近い。DeNA等の国内導入事例があり2026/4に日本法人設立予定で本家進出が進行。"
+      },
+      {
+        "name": "GitHub Copilot",
+        "url": "https://aipicks.jp/mag/github-copilot-guide-2026",
+        "note": "Copilot CLI・Enterpriseで国内エンタープライズ導入が最も普及。50名以上の企業ではCopilot Enterpriseが軸となる例が増加。SDLC連携・PRレビュー機能も拡張中。"
+      },
+      {
+        "name": "Cursor",
+        "url": "https://www.nxcode.io/resources/news/cursor-vs-claude-code-vs-github-copilot-2026-ultimate-comparison",
+        "note": "AIネイティブIDE。v3.3でPRレビュー統合・並列エージェント実行を実装しSDLC領域へ拡張中。Teamsプラン月$40で国内チーム利用も定番化。"
+      },
+      {
+        "name": "JAPAN AI",
+        "url": "https://japan-ai.co.jp/media/6907/",
+        "note": "国産のエンタープライズ向けコード生成/AI基盤。日本語精度・国内サポート・機密対応を武器に大企業導入候補として定着しつつあり、ローカル優位で競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "なし（B2B開発ツール）",
+        "impact": "個情法・特商法等の強い直接規制は該当しない。ただしAI生成コードの責任分界・ガバナンス（経産省AIガイドライン、NTTデータの商用システム開発ガバナンスWP等）が論点化しており、本番デプロイを担う性質上、導入企業側の内部統制・監査要件への適合が販売条件となる。検索で具体的な法的拘束は根拠未確認。"
+      }
+    ],
+    "opportunity": "国内独自の角度は『日本のSI・大企業の本番ガバナンス文化に深くフィットした、承認ゲート/監査ログ/責任分界が明示された日本語SDLCエージェント』。経産省ガイドラインやNTTデータのガバナンスWPに準拠したテンプレート、Backlog等の国産チケット連携、SES/受託の多重下請け構造に合わせたレビュー権限設計などローカル特化なら隙間はある。ただし開発・運用負荷が巨大で個人開発者には不向き。個人なら全域SDLCではなく『AI生成PRのレビュー支援』『テストコード生成』等の単機能に絞るのが現実的。",
+    "rationale": "市場機会としては需要は強い（demand 8）。2025年のAIエージェント元年を経て自律実行が標準化し、国内でもDevin導入による工数29〜75%削減事例や基盤市場80倍成長予測など追い風は明確。規制も直接的な業法は薄く（regulation 8）、API/CLI中心で翻訳負荷も中程度（localization 6）。一方で最大の問題は競合の飽和（competition 2）。Devin・Cursor・Copilot・Claude Code・Tabnine・JAPAN AIが既に市場を覆い、いずれもコーディング補完からSDLC全域・PRレビュー・並列エージェントへ拡張中で、Revolteの『intent→production全域』というポジションはまさに激戦区。さらに本番自律デプロイへの日本企業の抵抗（business_custom 5）でPoC止まりになりやすい。総じて『需要はあるが個人が新規参入する市場機会としては競合過密』。verdict=watch。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "B2B開発ツールはper-seat $10〜40/月、Devin型per-service（ACU）課金など一定のARPUは確保可能。ただし本番デプロイを担う基盤は導入ハードルが高く、無料枠から有料転換するPLG的な薄い課金が効きにくく、エンタープライズ商談前提でARPU確保まで時間を要する。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内ソフトウェア業は事業所15,249・従業者67.6万人と母数は大きく、AIエージェント基盤市場も2029年度135億円予測。ただしSDLC全域を本番まで任せる重量級基盤を採用できるのは一定規模以上の開発組織に限られ、実効TAMはコーディング補助より狭い。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "本番環境への深い連携・ガバナンス・組織導入が前提で、PLGの無料枠経由での自走獲得が困難。エンタープライズ営業・PoC伴走・SIパートナー連携が必須となり、個人開発者がリーチできる販売チャネルが乏しい。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "既に競合だらけで、Cognition（Devin）が2026/4に日本法人設立予定と本家進出が進行中。Cursor/Copilotも同領域へ機能拡張中で時間窓はほぼ閉じかけ。今から個人が全域SDLC基盤で参入する余地は乏しい。"
+      },
+      "solo_ops": {
+        "score": 1,
+        "reason": "プロダクトの中核がランタイム監視・インシデントトリアージ・本番デプロイ支援であり、SLA期待値が高く24/7監視が不可避。顧客の本番障害に直結するため、個人による手離れ運用は構造的に不可能。"
+      }
+    },
+    "rationale": "事業成立性は低い（score 3）。課金（monetization 5）は一定のARPU確保余地があるものの、本番デプロイを担う重量級基盤ゆえに無料枠からの薄い自走課金が効かず、エンタープライズ商談前提でリードタイムが長い。市場規模（market_size 6）は母数こそ大きいが、SDLC全域を本番まで任せられる組織は限られ実効TAMは狭い。決定的に厳しいのがGTM（2）・タイミング（2）・solo_ops（1）。深い既存システム連携と組織導入が前提でPLGが成立せず、個人開発者がリーチ可能なチャネルが乏しい。さらにDevinの日本法人設立（2026/4予定）など本家進出が進行し時間窓は閉じかけ。最大の障壁はランタイム監視・インシデント対応・本番デプロイという中核機能が24/7のSLAを要求する点で、個人の手離れ運用が構造的に不可能。事業としては個人開発者の射程外。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 50000,
+      "plans": [
+        "Free: 月数回のレビュー支援トライアル（PoC誘導用）",
+        "Team: ¥30,000/月〜（小規模チーム、PRレビュー/テスト生成中心）",
+        "Usage: タスク稼働量に応じた従量課金（Devin型ACU課金を踏襲）",
+        "Enterprise: 個別見積（本番デプロイ連携・ガバナンス・監査ログ・SLA付き）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AIによる開発効率化とガバナンス両立を求める国内の中〜大規模エンジニアリング組織（事業会社の開発部門・受託/SIer）。ただし本番自律デプロイへの抵抗が強くPoC止まりリスク大。個人開発で狙うなら全域SDLCではなく『AI生成PRレビュー支援』『テストコード自動生成』等の単機能セグメントに限定。",
+      "target_count": 3000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 750000
+    },
+    "recommended_gtm": [
+      "（個人で挑むなら）全域SDLCを諦め、AI生成PRレビュー/テスト生成の単機能でQiita・Zenn連載から無料枠PLG",
+      "X個人発信で開発エージェント運用知見を発信しトライアル誘導",
+      "Backlog等の国産チケット連携でローカル差別化",
+      "本家版（全域SDLC）はエンタープライズ営業・PoC伴走・SIパートナー連携が必須で個人非推奨"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "中核機能のランタイム監視・インシデント対応・本番デプロイ支援が24/7のSLAを要求し、個人の手離れ運用が構造的に不可能。顧客の本番障害に直結するため賠償・信頼リスクも大。",
+      "Devin・Cursor・Copilot・Claude Code・JAPAN AI等が飽和し、いずれもSDLC全域へ拡張中。Cognitionの日本法人設立（2026/4予定）で本家進出も進行し時間窓が閉じかけ。",
+      "本番環境への深い連携・組織ガバナンス導入が前提でPLGが成立せず、個人がリーチできる販売チャネルが乏しい。エンタープライズ営業・PoC伴走が必須。",
+      "ランディングの『10X』『85%削減』『40%インシデント削減』等は自社主張で第三者検証なし。実効果が出ないとPoCで離脱され、ARPU確保前にリードタイムだけ消費するリスク。",
+      "AI生成コードの責任分界・ガバナンス（経産省ガイドライン等）が論点化し、本番適用には導入企業の内部統制適合が販売条件化。個人では対応コストが過大。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T11:20:00Z",
+  "review_guide_at": "2026-06-06T11:20:00Z",
+  "business_viability_at": "2026-06-06T11:20:00Z",
+  "advisor_view_at": "2026-06-06T11:20:00Z"
+}

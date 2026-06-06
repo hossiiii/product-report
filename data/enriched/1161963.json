@@ -1,0 +1,215 @@
+{
+  "name": "Hermes Desktop",
+  "description": "The agent that grows with you",
+  "ph_url": "https://www.producthunt.com/products/hermes-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/T2RBMD4EF5MIAF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-03T07:01:00Z",
+  "upvotes": 205,
+  "comments": 13,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "Artificial Intelligence",
+    "GitHub"
+  ],
+  "makers": [],
+  "top_comments": [
+    {
+      "body": "<p>On the heels of the <a href=\"https://www.producthunt.com/p/windsurf/rip-windsurf-2\" target=\"_blank\" rel=\"noopener\">demise of Windsurf</a>, clearly the future is agents writing software, not humans.</p><p></p><p>Which is why Hermes Desktop is very interesting.</p><p></p><p>It combines elements of <a href=\"https://www.producthunt.com/products/claude-code\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"claude-code\" target=\"_blank\" rel=\"noopener\">@Claude Code</a>  or <a href=\"https://www.producthunt.com/products/openai-codex-cli\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"openai-codex-cli\" target=\"_blank\" rel=\"noopener\">@OpenAI Codex CLI</a> with that of <a href=\"https://www.producthunt.com/products/clawdbot-2\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"clawdbot-2\" target=\"_blank\" rel=\"noopener\">@OpenClaw</a> ... and supports a large number of connectors out of the box: </p><img src=\"https://ph-files.imgix.net/c2b1df9b-d66f-406c-831e-f8e84111ef6e.png?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p></p><p>Not to mention is <a href=\"https://github.com/NousResearch/hermes-agent\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">open source</a> and MIT licensed...!</p><p></p><p>Looks like another contender has entered the stage!</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Yesterday, while configuring the Hermes agent on my dedicated server, I started wondering if there’s a desktop orchestration tool for managing multiple hermes agents running on different instances.</p><p></p><p>I tried Hermes Desktop, but it doesn’t seem to support that use case yet.</p><p></p><p>Has anyone found a good solution for this?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Most local agent setups collapse the moment you point them at a real codebase because the context window fills up and the tool calls start going sideways. Curious how Hermes handles repo-scale tasks where the relevant code is spread across a dozen files. Does it do any chunking or retrieval to stay under the limit, or does it lean on you to scope things down manually before handing off?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Hermes Desktop — the open-source agent that grows with you, now a native app for macOS, Windows, and Linux. By Nous Research.",
+  "featured_at": "2026-06-03T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/2821ebd9-bae7-4a9e-99b2-8d9487548f21.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/904098e8-419c-4692-bb23-3191bd29c78e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f2506712-39ca-4081-b980-683059faeb30.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/35120550-27e8-4a63-953a-6bdd380994f5.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/2550e0b4-44ef-42f1-aa11-4215a2f237d8.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:47",
+  "landing_meta": "Hermes Desktop | Nous Research — Hermes Desktop — the open-source agent that grows with you, now a native app for macOS, Windows, and Linux. By Nous Research.",
+  "landing_text": "Hermes Desktop | Nous Research macOS 12+ Mac OS Download Windows 10/11 Windows Download Any distro Linux Install via terminal Feature Preview #1 Connect Lives Everywhere Telegram, Discord, Slack, WhatsApp, Signal, Email, CLI — and a growing list of platforms. One agent, one memory, every surface. #2 Remember Persistent Memory It learns your projects, auto-generates skills, and never forgets how it solved a problem. #3 Schedule Focused Automation Natural-language scheduling for reports, backups, and briefings — running unattended through the gateway, focused every time. #4 Delegate Tasks Multiplied Isolated subagents with their own conversations, terminals, and Python RPC scripts for zero-context-cost pipelines. #5 Search Browse the Web Web search, browser automation, vision, image generation, text-to-speech, and multi-model reasoning. #6 Experiment Isolated Sandboxing Five backends — local, Docker, SSH, Singularity, Modal — with container hardening and namespace isolation. Hermes",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "subscription",
+    "$1",
+    "$5",
+    "$14",
+    "$17"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:47",
+  "description_ja": "あなたと共に成長する、自己成長型のオープンソースAIエージェント",
+  "summary_ja": "Nous Research製のMITライセンスOSS自律AIエージェントのネイティブデスクトップアプリ。Telegram/Slack/Discord等に接続し、永続メモリとスキル自動生成、サブエージェント委譲、サンドボックス実行を備える。Mac/Windows/Linux対応。",
+  "tldr_ja": "OSS本体は無料で個人開発の余地は周辺ホスティング/支援のみ。だがGMOペパボが国内マネージドHermesを月1,200円で先行、隙間は狭い。",
+  "review_guide_ja": {
+    "what": "Nous ResearchのOSS自律エージェント「Hermes Agent」のネイティブGUIクライアント（Electron+React+Pythonバックエンド、CLI版とコア共有）。Telegram/Discord/Slack/WhatsApp/Signal/Email/CLIを単一ゲートウェイで束ね、1つのエージェント・1つの記憶を全チャネルで共有する。永続メモリでプロジェクトや解決手順を蓄積し、スキルを自動生成・再利用。自然言語スケジューリングでレポート/バックアップ/ブリーフィングを無人実行。独立したターミナルとPython RPCを持つサブエージェントへタスク委譲。Web検索・ブラウザ自動化・画像生成・TTS・マルチモデル推論。実行はlocal/Docker/SSH/Singularity/Modalの5バックエンドでサンドボックス分離。Nous Portal経由で300以上のモデルにアクセス可能。MITライセンス、GitHub約18万スター。",
+    "for_who": "ローカルで動く自律AIエージェントを常駐させたい開発者・パワーユーザー。複数メッセージングアプリを単一エージェントで横断したい個人、定型業務（レポート/バックアップ/監視）を無人自動化したいエンジニア、自己ホスト前提でデータをローカルに保ちたいプライバシー志向層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "永続メモリ・スキル自動生成・サブエージェント委譲・5種サンドボックス・300超モデル接続を統合した本体はOSSで完成済み。同等品の再実装は大規模で、本家MIT版に対抗する意義が薄い。"
+    },
+    "signals": [
+      "GitHub約18万スターの人気OSSエージェントの公式GUI、PH205票",
+      "Telegram/Slack/Discord/WhatsApp/Signal等を単一記憶で横断する設計",
+      "永続メモリ+スキル自動生成による自己成長が差別化軸",
+      "Mac/Windows/Linuxネイティブ対応でターミナル不要に",
+      "MITライセンスで商用ホスティング/改変が自由"
+    ],
+    "concerns": [
+      "本体が無料OSSのため直接課金は困難、収益はホスティング/支援に限られる",
+      "GMOペパボが国内マネージドHermesを月1,200円で先行提供済み",
+      "自律実行・外部連携によるプロンプトインジェクション等セキュリティリスク",
+      "コメントで複数インスタンスのオーケストレーション未対応・大規模コードベースでの破綻が指摘",
+      "Nous Researchという資金力ある海外組織が本家、個人が割って入る余地が狭い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内対話型AI市場は2025年約8.5億ドル・CAGR16.6%で拡大、AIエージェントは『元年』と報じられ需要は顕在化。窓の杜やGMOがHermesを記事化・サービス化しており関心は確認できる。ただし自己ホスト型自律エージェントを常駐させる層は開発者中心でマス需要には未到達。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "本体はNous Research（資金力ある海外OSS）が本家。さらにGMOペパボが2026年4月に『ロリポップ！AIエージェントクラウド』で国内初のマネージドHermes/OpenClawホスティングを月1,200円で開始済み。個人が狙える周辺ニッチの主要部分は既に埋まりつつある。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "ツール自体に直接の業法規制はないが、自律実行・外部メール送信・各種SaaS連携を伴うため個人情報保護法（取扱・越境移転）とプロンプトインジェクション等のセキュリティ責任が論点。PwC等はHuman-in-the-loopを推奨。重い許認可は不要だが運用責任は重い。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "本体はOSS・API/CLI中心でUI翻訳とドキュメント整備は比較的容易。LINE等の国内チャネルやNous Portal以外の国内LLM接続を足す程度で日本語UXは成立。ただしメモリ/スキルの日本語精度や国内モデル接続は追加検証が必要（検索で根拠未確認）。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "個人・開発者向けセルフホスト文化との相性は中庸。日本企業は自律エージェントの無人実行に慎重で承認フロー（Human-in-the-loop）を求める傾向が強く、B2Bでは商習慣の壁。個人開発者・パワーユーザー層なら受容されやすい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ロリポップ！AIエージェントクラウド（GMOペパボ）",
+        "url": "https://lolipop.jp/ai/agent-cloud/",
+        "note": "2026年4月にOpenClaw、続いてHermes Agentに国内初対応したマネージドホスティング。月額1,200円でサーバ構築不要、管理画面から連携設定。個人が狙う『日本語化ホスティング』ニッチを大手が先取り。"
+      },
+      {
+        "name": "OpenClaw（競合OSSエージェント）",
+        "url": "https://openclaw-ai.net/en",
+        "note": "LINE/Teams/Slack/Telegram等多数チャネル対応の自己ホスト型OSS personal AI agent。Hermesと機能領域が重複し、国内Qiita/GMO記事でも頻繁に比較される直接の代替選択肢。"
+      },
+      {
+        "name": "Claude Code デスクトップ版（Anthropic）",
+        "url": "https://code.claude.com/docs/ja/overview",
+        "note": "国内記事多数・日本語UIで普及。コーディング自律エージェント用途では強力な競合。Hermesの『汎用パーソナルエージェント』とは射程が異なるが開発者の時間とサブスク予算を奪い合う。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "エージェントがメール/メッセージ/SaaSの個人データを横断取得・記憶するため、取得・保管・第三者提供・越境移転（海外LLM/Modal等）の管理責任が発生。ホスティング事業として提供する場合は委託先管理と安全管理措置の整備が必須。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "メッセージ送受信を媒介するゲートウェイをSaaSとして第三者に提供する形態では電気通信事業の届出要否が論点になり得る。自己利用OSS配布のみなら影響は限定的（検索で確定的な解釈は未確認、低めに評価）。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "自律スケジューリングで広告/通知メールを無人送信する用途に転用される場合、同意取得・送信者表示・オプトアウトの遵守義務が利用者側に生じる。ツール提供者は規約での注意喚起が望ましい。"
+      }
+    ],
+    "opportunity": "本体はMIT OSSで完成度が高く、個人開発で『Hermesクローンを作る』筋は薄い。日本独自の角度は周辺レイヤーに限られる—(1)LINE等の国内チャネルや国内LLM（国産モデル/Azure OpenAI東日本）への接続アダプタ、(2)日本語ドキュメント/スキルテンプレ集、(3)中小企業向けにHuman-in-the-loop承認フローやログ監査を足したマネージド運用。ただし(3)の中核はGMOペパボが月1,200円で先行済みのため、差別化は『業種特化スキルパック』や『国内コンプライアンス対応（個情法・監査ログ）』など極めて狭い領域に絞る必要がある。",
+    "rationale": "市場機会の総評: 国内のAIエージェント需要は拡大基調で関心も顕在化しているが、Hermes Desktop固有の事業機会は構造的に弱い。理由は二点。第一に本体がNous Researchの無料MIT OSSであり、個人が同等品を再実装する意義も、本体の上に独自課金を載せる正当性も乏しい。第二に最も自然な国内ニッチである『日本語マネージドホスティング』をGMOペパボが2026年4月に国内初対応として月1,200円で押さえてしまった。残る角度は国内チャネル接続・日本語スキルパック・コンプライアンス特化運用など極めて狭く、いずれも大手の追随で容易に消える。規制は重い許認可こそ無いが、個人データ横断と自律実行の責任が個人運用には重い。総じて『watchはしても本格参入はskip』が妥当で、参入するなら超ニッチな業種特化に限定すべき。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "本体が無料OSSのため直接課金は不可。収益はホスティング/サポート/受託に限られ、HuggingFaceやRed Hat型のモデルが必要だが個人規模では構築困難。日本のユーザーは無料OSSをセルフホストする選択肢が常にあり、課金壁が厚い。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内AIエージェント市場は拡大中だが、Hermesをわざわざマネージド/特化サービスで使う有料層は開発者・パワーユーザー中心で限定的。マスのパーソナルアシスタント需要は音声/大手スマホ統合に流れ、自己ホスト型OSS常駐の有料TAMはニッチ。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "対象が開発者層のためQiita/Zenn/X/note等のPLG的チャネルでリーチは可能。OSS本体の知名度（GitHub約18万スター）に相乗りした記事/テンプレ配布は有効。ただし無料代替が常にあり、有料転換のフックを作りにくい。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "時間窓はほぼ無い。本家Nous Researchが活発に開発し、GMOペパボが国内マネージドを既に提供開始済み。OpenClaw等競合OSSも国内記事化が進む。後発の個人が差別化を確立する前に大手・本家が空白を埋める可能性が高い。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "自律実行・外部連携・サンドボックス運用を有料提供する場合、セキュリティ（プロンプトインジェクション）と稼働監視の負荷が高くSLA期待も生じる。コンテンツ/テンプレ配布の手離れは良いが、ホスティング提供は個人24/7監視に近く継続が苦しい。"
+      }
+    },
+    "rationale": "事業性の総評: 事業として極めて成立しにくい。最大の障壁はマネタイズで、本体が無料MIT OSSである以上ユーザーは常にセルフホストを選べ、課金は『手間の肩代わり（ホスティング）』か『サポート/受託』に限定される。その肩代わり領域はGMOペパボが月1,200円・サーバ構築不要で国内初対応として既に占有し、本家もNous Portalで300超モデルを束ねるエコシステムを握る。個人開発者が差し込める余地は国内チャネルアダプタ・日本語スキルパック・業種特化コンプライアンス運用など狭く、いずれも有料転換のフックが弱い。GTMはOSSの知名度を借りた発信で開発者にリーチできる点だけが救いだが、無料代替の存在で収益化に直結しない。タイミングも本家・大手の活発な動きで窓が狭い。運用はホスティング提供だと監視負荷が重い。結論として継続的事業化は難しく、やるなら無償発信で信用を作り受託/スポンサーに繋げる程度に留めるのが現実的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "本体: MIT OSS無料（課金しない）",
+        "もし収益化するなら: 日本語スキルパック/テンプレ集を買い切り ¥1,000〜3,000 で配布（任意）",
+        "受託/個別構築サポート: スポット ¥50,000〜（案件ベース、安定収益化は期待しない）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Hermes/OSS自律エージェントを常駐させたい国内の開発者・パワーユーザー、および自己ホストでデータをローカルに保ちたいプライバシー志向の個人。無料セルフホストとGMOマネージドの双方に流れやすく、有料の独自付加価値を払う層は限定的。",
+      "target_count": 30000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn連載でHermes Desktopの日本語セットアップ・実用ワークフローを発信",
+      "X個人発信でスキル自動生成/サブエージェント活用の実例を共有",
+      "GitHubで日本語スキルパック/接続アダプタをOSS公開し本体スター層に相乗り",
+      "noteで自律エージェント運用のセキュリティ注意点をまとめ信用を構築"
+    ],
+    "time_window_months": 3,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本体が無料MIT OSSで直接課金不可。収益はホスティング/受託に限られ安定事業化が極めて困難。",
+      "GMOペパボが国内マネージドHermes/OpenClawを月1,200円で先行提供済み。中核ニッチを大手が占有し個人の差別化余地が狭い。",
+      "本家Nous Researchが資金力をもって活発に開発・Portal提供。後発個人が機能/エコシステムで追随されすぐ陳腐化。",
+      "自律実行・外部連携によるプロンプトインジェクションや誤操作リスク。有料提供時はセキュリティ責任とSLA負荷が個人運用を圧迫。",
+      "個人情報の横断取得・海外LLM/Modal経由の越境移転に伴う個情法対応責任が利用者・提供者双方に発生。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

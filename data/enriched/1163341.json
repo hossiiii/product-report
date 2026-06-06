@@ -1,0 +1,259 @@
+{
+  "name": "Leni",
+  "description": "The world’s most accurate AI for investors",
+  "ph_url": "https://www.producthunt.com/products/leni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/FFWCFWSDY3ELXY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-05T07:01:00Z",
+  "upvotes": 339,
+  "comments": 59,
+  "topics": [
+    "Investing",
+    "Artificial Intelligence",
+    "Data & Analytics"
+  ],
+  "makers": [
+    {
+      "id": "3445077",
+      "name": "Arunabh Dastidar",
+      "twitterUsername": "arunabh_D",
+      "headline": "Building the most accurate AI on earth."
+    },
+    {
+      "id": "9883024",
+      "name": "Zain Nathoo",
+      "twitterUsername": null,
+      "headline": "Co-Founder @ Leni · AI analyst"
+    },
+    {
+      "id": "4623513",
+      "name": "Gaurav Madani",
+      "twitterUsername": "gauravmadani23",
+      "headline": "Co-founder at Leni.co"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋<br></p><p>I’m <strong>Arunabh</strong>, Co-Founder &amp; CEO of <strong>Leni</strong>.</p><p></p><p><strong>Three years ago, we started with a simple observation:</strong></p><p></p><p>The smartest people in investing were spending an absurd amount of time moving data between systems, fixing spreadsheets, validating reports, and checking the outputs of tools that were supposed to save them time.</p><p></p><p>Everyone was talking about AI.</p><p></p><p>But when real money was involved, most professionals still didn't trust it.</p><p></p><p>And honestly, they were right.</p><p></p><p><strong>In high-stakes work, \"mostly correct\" isn't good enough.</strong></p><p></p><p>A wrong number, a missed assumption, or a hallucinated fact can cost millions.</p><p></p><p>So instead of building another chatbot, we spent years working alongside sophisticated investors, operators, lenders, and asset managers to understand what trustworthy AI actually looks like.</p><p></p><p>Since then, we've supported <strong>more than $80B in assets</strong>, processed <strong>over 100 million rows of investment data every day</strong>, built proprietary verification systems, and tested relentlessly against real-world workflows.</p><p></p><p><strong>The result is Leni.</strong></p><p></p><p>THE most reliable and accurate AI infrastructure platform for investors and back office work that can analyze hundreds of files simultaneously, reason through complex tasks, validate its outputs, and deliver finished work instead of just generating responses.</p><p></p><p><strong>In independent testing, Leni now ranks among the top AI systems for spreadsheet analysis, reasoning, and resistance to hallucinations.</strong> That work also led to our selection as one of the few companies invited to Google's Gemini Forum, where we've had the opportunity to collaborate with the <strong>DeepMind</strong> team.</p><p></p><p>But what excites me most isn't a benchmark result.</p><p></p><p><strong>It's seeing professionals finally trust AI with the work that actually matters.</strong></p><p></p><p>Huge thank you to our team, customers, advisors, investors, and everyone who helped us get here.</p><p></p><p>We’re excited to finally put Leni and its API portal into the hands of the broader Product Hunt community and see what you build with it.</p><p></p><p>We'll be here all day answering questions, gathering feedback, and learning from the community.</p><p></p><p>My team and I are here all day. Ask us anything 🙌</p><p></p><p>P.S. 🎁 Exclusive for the Product Hunt community: Try <a href=\"https://Leni.co\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Leni.co</a> directly on the platform or via APIs today with code PHLENI to get 90% off your 1st month's subscription on any plans, valid till the end of the day!</p>",
+      "votesCount": 36,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><a href=\"https://www.producthunt.com/@arunabh_dastidar\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"arunabh_dastidar\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@arunabh_dastidar</a>  Congrats on the launch!! </p><p></p><p>Two things I'm curious about. The model-agnostic routing, how does Leni decide which LLM handles what? Is it task-based, like one model for number-crunching and another for writing memos, or something more dynamic? And does the user get any say in that or is it fully behind the scenes?</p><p></p><p>Also, as a founder myself, I'm curious how you got the first few institutional customers to actually trust AI with real money decisions. That's probably the hardest cold start problem in enterprise AI. Did you have to start with low-stakes work and earn your way up, or did one customer go all in early?</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hello Product Hunt, excited to be live today with Leni. I'm Gaurav, co-founder at Leni. <br><br>Leni is an accuracy-first AI platform for investment finance and real estate teams. It helps you go from messy documents &amp; siloed systems to structured, verifiable answers with analysis you can actually trust.<br><br><br>AI tools optimize for fluent responses. Leni obsesses over accuracy. <br><br>• With verification layers that validate outputs instead of \"guessing.\"<br>• Decision traces so you can see how an answer was formed and what it was grounded in<br>• A context graph + Unified Data Model (UDM) that keeps information consistent across documents, models, and entities<br>• A focus on retrieval + extraction (getting the right facts) before generation (writing the response)<br><br><br>If you work in investments, asset management, credit, capital markets, valuation, or any workflow where a single wrong number can derail a deal, Leni is for you.<br><br><br>Over the years, especially in the last 6 months, it's been rewarding to see skeptics become believers. Teams that started with us as an experiment now rely on Leni for mission-critical work. That trust came from obsessing over accuracy, building robust verification systems, and learning through real implementations.<br><br><strong>We'd love feedback from the Product Hunt community:</strong><br></p><ol><li><p>What workflow are you trying to make \"AI-native\" today?</p></li><li><p>Where do existing tools break down on trust/accuracy?</p></li></ol><p>Thanks to our customers, team, advisors, investors, and early supporters who believed in us before this became obvious.<br><br>We're here all day so fire away with questions 🙌<br><br>P.S. 🎁 Exclusive for the Product Hunt community: Try <a href=\"http://Leni.co\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Leni.co</a> directly on the platform or via APIs today with code PHLENI to get 90% off your 1st month's subscription on any plans, valid till the end of the day!</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Leni is the most accurate and verifiable AI for serious investment work. Built on 21,000+ decision traces and processing 100M+ rows daily, it delivers finance-grade outputs with full auditability through source links, timestamps, and grounded comps. Leni outperforms GPT, Claude, and Manus on independent benchmarks for accuracy, modeling, and valuation while giving teams the trust they need when millions are on the line. Leni is part of Google Startups and a serious machine for investors.",
+  "featured_at": "2026-06-05T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/b65a533c-d4cf-4bf3-8528-e57802c16a9e.webp",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0cc77175-bf74-412d-9882-428247aa87c1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9808b458-52f3-42c2-ae15-96f4f4d5bcba.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/365100fe-9614-4696-a06f-91afbd8e6d52.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/055ce128-3bd9-4a34-8306-2425000599d7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5969a82e-ed5b-4417-a57e-a7c4d055a5f1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a82f1b8f-2998-4351-bd76-25f1b21092b9.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/320d65f5-c323-4658-8559-0a380593db03.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:11",
+  "landing_meta": "Secure & Accurate AI for Investors | Leni — Discover Leni: Purpose-built AI for Serious Investors in CRE & PE. Streamline underwriting, reporting, and decision-making. The most secure and accurate AI for investment work.",
+  "landing_text": "Secure & Accurate AI for Investors | Leni Meet Leni – The World's Most Accurate AI for Investors. Loved by over 10K ambitious professionals and world-class teams. Try now Costly AI mistakes are becoming common in Back office work that need to be trusted AI Infrastructure built for Accurate, Verifiable Work The key built-in processes that Leni's platform handles to deliver reliable work every time Industry Context & Integrations Leni has industry context. It is built to connect your documents, emails, and the widest range of industry-specific systems, including Yardi, Entrata, ResMan, RealPage, Appfolio, and more, so you don't have to explain your world. Security & Safety AI for serious work must be safe, not just smart. Leni uses containerized popular models with strong guardrails to protect sensitive data, enabling teams to operate with confidence. Leni is loved by users who value security. Accuracy & Precision A strong architecture does not just generate. It verifies. Leni uses structure, checks, and multi-agent collaboration to reduce errors and hallucinations, producing work you can trust. Leni stands out for tasks that require accuracy. Model Agnostic You do not need to pick one model and live with its limits. Leni routes work across models under the hood, or lets you select your favourite LLM so you get better outputs and lower cost without rebuilding your workflow. Persistence Leni is loved by serious investors looking for finished products rather than back-and-forth. It understands your needs, it self-prompts, keeps context, and gets tasks done, so workflows keep moving and actually save time. Institutional Context Graph Decisions made through Leni are captured as a structured trace and added to a growing, fully private context graph for your organization. Over time, that graph becomes your firm's institutional memory across assets, operators, and market cycles. Leading Across Independent Benchmarks Independently evaluated against top Al platforms across rea",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "$1",
+    "$8",
+    "$11",
+    "$2",
+    "$16",
+    "$22",
+    "$27",
+    "$20",
+    "$23",
+    "$29"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:13",
+  "description_ja": "投資のプロ向け、誤りを検証する高精度AI基盤。資料分析から評価・レポートまで自動化。",
+  "summary_ja": "Leniは不動産投資（CRE）・PE・クレジット・資産運用チーム向けのAI基盤。乱雑な書類や分断システムから、出力を多段検証し根拠リンク付きで監査可能な「完成物」を生成する。ハルシネーション耐性と正確性を最優先に設計されている。",
+  "tldr_ja": "高精度投資AIは需要あるが日本の機関投資家販売はFISC/ISMAP審査が必須で個人開発は事実上不可、見送り推奨。",
+  "review_guide_ja": {
+    "what": "投資・金融プロ向けの「正確性最優先」AI基盤。契約書・財務諸表・運用レポートなど数百ファイルを同時に読み込み、抽出→検証→生成の順で処理し、根拠リンク・タイムスタンプ・比較対象（comps）付きの監査可能な成果物を返す。多段検証レイヤーとマルチエージェント協調でハルシネーションを抑制、モデルアグノスティック（裏で複数LLMをルーティング、ユーザー選択も可）。組織ごとの意思決定トレースを蓄積する「Institutional Context Graph」で社内ナレッジを資産化。Yardi/Entrata/RealPage/AppFolio等の不動産業務システムと連携。典型用途はアンダーライティング、バリュエーション、デューデリ、運用レポート作成、バックオフィス業務の自動化。API portalも提供。",
+    "for_who": "不動産投資（CRE）、PE、クレジット/レンディング、キャピタルマーケット、バリュエーション、アセットマネジメントのプロフェッショナル・運用チーム。1つの数値ミスがディールを壊しうる高ストイクな業務に従事する層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "LLMラッパー自体は容易だが、金融グレードの検証レイヤー・21000件超の意思決定トレース・業務システム統合・$80B運用の実績による信頼が参入障壁。コア価値の再現は難しい。"
+    },
+    "signals": [
+      "PH 339 upvotes / 59 comments と高関心",
+      "$80B超の資産運用を支援、日次1億行超を処理という実績訴求",
+      "GPT/Claude/Manusを独立ベンチで上回ると主張、Google Gemini Forum選出",
+      "Yardi等の不動産業務システムとの統合済み",
+      "監査可能性（decision trace・source link）を前面に出した設計"
+    ],
+    "concerns": [
+      "金融機関販売はFISC安全基準/ISMAP対応が事実上の前提で個人開発の障壁が極めて高い",
+      "「世界一正確」等の主張は独立検証が難しくマーケ色が強い",
+      "高ストイク業務ゆえ導入には長い信頼構築（PoC→本番）が必要",
+      "本家含む潜在競合が多く、データ・統合・実績が勝負の資本集約領域",
+      "日本語の金融特有文書（IM・登記・信託指図等）への精度は未検証"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "金融庁が『チャレンジしないリスク』を掲げAI活用を後押しし、野村やアセマネOne等が独自AIエージェントを開発、PEのDD自動化やAidiligence等も登場。投資・金融業務のAI化需要は顕在化しつつある。ただし顧客はごく一部の機関に限られる。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "投資・金融特化の正確性重視AIは国内では発展途上だが、Aidiligence（Herix）、野村の銘柄分析AIエージェント、NTTデータ/松尾研系、リーガル領域のLegalOn/MNTSQ等が隣接領域を固めつつある。完全空白ではない。"
+      },
+      "regulation": {
+        "score": 3,
+        "reason": "金融機関導入にはFISC安全基準・ISMAP準拠が事実上の必須要件。個情法・監督指針も絡む。金融庁はAI推進姿勢だが3線防衛等のAIガバナンス整備が求められ、実装・認証ハードルが極めて高い。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "API/構造化中心で技術的な日本語化は比較的容易だが、日本特有の金融文書（IM、信託指図、登記、和文会計）への抽出・検証精度の作り込みが重く、UXより精度面のローカライズ負荷が大きい。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の機関投資家は対面・SI型導入、長期PoC、ベンダー信用審査を重視。クラウド/SaaSへのデータ預けに依然慎重で、個人開発ベンダーへの発注は商習慣上極めて起きにくい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Aidiligence（株式会社Herix）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000162435.html",
+        "note": "M&A/投資のDDを自動化するAI SaaS。契約書・財務諸表からリスク抽出し、IM・DDレポートのドラフトを自動生成。Leniのデューデリ/バリュエーション用途と直接競合しうる国内プレイヤー。"
+      },
+      {
+        "name": "野村ホールディングス（株式ファンダメンタルズ分析AIエージェント）",
+        "url": "https://www.nomuraholdings.com/jp/news/nr/nhi20260331.html",
+        "note": "大量テキストを高速処理し財務分析を行う社内向けAIエージェントを開発。大手金融が自前で投資分析AIを内製化する動きを示し、外部SaaS導入の余地を狭める。"
+      },
+      {
+        "name": "Prop Tech plus / RESPORTクラウド",
+        "url": "https://proptech.plus/service/",
+        "note": "上場・私募REIT運用会社向けにPM/AM/FM業務統合プラットフォームを提供。不動産証券化業務の国内標準的DX基盤で、CRE運用領域の販路・関係を既に押さえている。"
+      },
+      {
+        "name": "LegalOn Technologies / MNTSQ",
+        "url": "https://legalontech.jp/",
+        "note": "契約書AIレビューの国内大手。投資AIではないが、金融グレードの正確性・監査性を訴求するAI SaaSの近接競合かつ料金・営業の比較対象（月¥1万〜10万/ユーザー帯）。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "FISC安全対策基準 / ISMAP",
+        "impact": "金融機関へのSaaS提供は金融庁監督指針・FISC安全基準への準拠が事実上の前提。政府/金融取引にはISMAP登録が要件化されつつあり、認証取得には監査・体制整備の多大なコストと時間が必要。個人開発者にとって最大の参入障壁。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "投資先・取引先の個人/企業情報を扱う場合、安全管理措置・委託先監督・越境移転規制が適用。コンテナ化やデータ所在地（国内リージョン）の明示が顧客審査で問われる。"
+      },
+      {
+        "law": "金融商品取引法 / 監督指針",
+        "impact": "運用判断や投資助言に直接踏み込む出力は金商法上の助言・運用業に該当しうる。Leniは『支援ツール』の位置づけが必要で、出力の責任分界・記録保存（監査トレース）が重視される。"
+      },
+      {
+        "law": "金融庁AIディスカッションペーパー（第1.1版, 2026）",
+        "impact": "金融庁はAI活用を推進する一方、3線防衛によるAIガバナンス・説明責任・モデルリスク管理を求める。導入側に重い統制負荷が課され、ベンダーは説明可能性・検証エビデンスの提供を求められる。"
+      }
+    ],
+    "opportunity": "日本独自の角度があるとすれば、Leniが手薄な「和文金融文書」への特化だ。信託指図書・登記簿・私募IM・和文会計帳票・賃貸借契約など、日本固有フォーマットの抽出→検証→レポート化に絞れば本家との差別化余地はある。ただし顧客が機関投資家である限りFISC/ISMAPの壁は不可避。現実的にはSaaS本体で機関を狙うより、(1)RESPORTやProp Tech plus等の既存業務基盤への組み込み部品（OEM/API）として提供する、(2)規制の緩い不動産個人投資家・中小不動産会社向けの「物件資料要約・収支検証」ライト版に降りる、の二択が個人開発で現実的な切り口。",
+    "rationale": "市場機会としては『需要は確かに立ち上がっているが、到達可能性が乏しい』典型例。金融庁のAI推進姿勢、野村・アセマネOne・PEファンドのAI内製/活用の動きにより、投資業務のAI化ニーズ自体は顕在化している。しかし顧客はJ-REIT運用会社（上場約64＋私募）、PE、クレジット、銀行・証券といったごく限られた高規制セグメントに集中し、導入にはFISC安全基準・ISMAP準拠、長期PoC、ベンダー信用審査が伴う。隣接領域ではAidiligence、野村の内製AI、Prop Tech plus、LegalOn/MNTSQ等が既に布陣し、空白市場とは言い難い。和文金融文書特化という差別化余地はあるが、規制・商習慣・営業到達のすべてが個人開発者に不利。総合的には『機会はあるが個人では取りにくい』としてskip相当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "金融プロ向けは支払い余力が高く、LegalOn帯（月¥1万〜10万/ユーザー）が示すように高ARPUが狙える。課金嗜好も法人サブスクで成立しやすい。ただし高単価ゆえ稟議・相見積もり・年契約が前提で、課金到達までのリードタイムが長い。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "TAMが薄い。J-REIT運用会社は上場約64社＋私募、PE/クレジット/アセマネを足しても国内の到達対象は数百〜せいぜい数千社規模。高ARPUでもユーザー総数の天井が低く、ニッチ寄り。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "機関投資家向けは対面・SI型・人脈ドリブンで、PLGがほぼ効かない。CTC/NTTデータ等の金融ITベンダー経由の販路が支配的。個人開発者が無料枠やコンテンツ発信で機関に到達するのは極めて困難。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "金融AIは2025〜26年が立ち上がり期で時間窓は残るが、野村等の内製化やAidiligence等の先行、海外勢の参入意欲を考えると余裕は中程度。規制対応の遅れが逆に参入を遅らせる側面もある。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "ミッションクリティカルな金融業務ゆえSLA・監査対応・セキュリティ問い合わせ・モデル更新の説明責任が重く、24/7に近い運用とカスタマーサクセスが要求される。個人での手離れ運用は現実的でない。"
+      }
+    },
+    "rationale": "事業成立性は厳しい。単価面（monetization）とタイミングは悪くないが、それ以外が個人開発に逆風。第一にTAMが薄い：高規制ゆえ顧客は機関投資家中心で、国内到達対象は数百〜数千社規模に留まる。第二にGTMが致命的：機関金融の調達は対面・SI・既存ITベンダー経由が支配的でPLGが効かず、個人がコールドで到達する術がほぼない。第三に運用負荷：ミッションクリティカル業務のためSLA・監査・セキュリティ審査対応が常時発生し、ソロでの手離れ運用は不可能に近い。高ARPUは魅力だが、それは裏を返せばFISC/ISMAP対応・長期PoC・信用審査という重い前提条件の対価。資本・人員・信用を持つ組織なら勝負できるが、個人開発者の事業としては成立しにくい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "annual",
+      "arpu_jpy": 36000,
+      "plans": [
+        "Starter: ¥30,000/月（1ユーザー・基本の資料要約と収支検証、不動産個人投資家/中小向けライト版）",
+        "Pro: ¥100,000/月（チーム・DDレポート自動生成・監査トレース）",
+        "Enterprise: 個別見積（FISC/ISMAP対応・SSO・データ国内リージョン・オンプレ/専用環境）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "現実的に個人開発で狙うなら、規制の緩い中小不動産会社・不動産個人投資家向けの『物件資料要約＋収支検証』ライト版。機関投資家（J-REIT運用会社・PE・クレジット）は本来のターゲットだが個人では到達困難なため対象外とする。",
+      "target_count": 3000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 1080000
+    },
+    "recommended_gtm": [
+      "ライト版に降り、中小不動産会社・個人投資家にPLG（無料枠→Starter）で展開",
+      "RESPORT/Prop Tech plus等の既存不動産DX基盤へのAPI/OEM組み込み提案",
+      "note/X/Qiitaで『物件資料AI要約・収支検証』の実例コンテンツ発信",
+      "機関を狙う場合はCTC/NTTデータ等の金融ITベンダーとの協業前提（個人では非推奨）"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "金融機関販売の前提となるFISC安全基準/ISMAP対応・セキュリティ審査が個人開発では事実上クリア不可能で、本来の高ARPU市場に到達できない。",
+      "GTMが対面・SI・既存ITベンダー経由に支配され、PLGが効かず個人がコールドで機関顧客に到達する手段がほぼない。",
+      "ミッションクリティカル業務ゆえSLA・監査・モデル説明責任・問い合わせ対応が常時発生し、ソロ運用が破綻しやすい。",
+      "野村等の内製化、Aidiligence/Prop Tech plus等の先行、海外本家の参入で、差別化前に競争が激化する恐れ。",
+      "ライト版に降りると一転して低ARPU・薄いTAMとなり、収益規模が個人事業として物足りなくなる二律背反。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

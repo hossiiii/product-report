@@ -1,0 +1,246 @@
+{
+  "name": "folk",
+  "description": "the AI in your texts that gets stuff done",
+  "ph_url": "https://www.producthunt.com/products/folk-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/UH6J63SRBAI3YO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-01T07:01:00Z",
+  "upvotes": 303,
+  "comments": 70,
+  "topics": [
+    "Productivity",
+    "Messaging",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "9306925",
+      "name": "Aikhan Jumashukurov",
+      "twitterUsername": "jumashukurov",
+      "headline": "random dev that loves drain"
+    },
+    {
+      "id": "6979255",
+      "name": "Arlan Rakhmetzhanov",
+      "twitterUsername": "arlanrakh",
+      "headline": "ceo @ nozomio"
+    },
+    {
+      "id": "9870059",
+      "name": "Chenxin Yan",
+      "twitterUsername": null,
+      "headline": "Founding Engineer @ Nozomio"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Yoo Product Hunt 👋</p><p></p><p>I'm Arlan. I dropped out of high school, did research at Stanford at 16, built multiple apps, went through Y Combinator, and have raised over $6M.</p><p></p><p>I spent the last year going deep on context and memory. I tried everything out there, and two things kept bothering me. First, none of them actually grow with you. They're smart in the moment, but tomorrow they don't remember yesterday. You're always re-explaining yourself, always starting over.</p><p></p><p>Second, none of them are actually proactive. You're always the one going to them, they never come to you. A lot of tools claim to be proactive, but really it's just a cron job firing on a schedule, and a timer isn't proactivity. Real proactivity is showing up at the right moment on its own, texting you exactly when something matters, without you setting anything up.</p><p></p><p>Folk is different. It lives inside the messaging apps you already use and it's built from the ground up to integrate into your life, not just assist when you ask.</p><p></p><p>Here's what that looks like in practice:</p><ul><li><p><strong>It knows where you are.</strong>&nbsp;Folk tracks your location and acts on it. Walk past a grocery store with items on your list? It'll ping you. It's not a map, it's context.</p></li><li><p><strong>It joins your meetings.</strong>&nbsp;Folk's notetaker drops into every Google Meet, transcribes everything, and builds on what it learns so it always knows your world.</p></li><li><p><strong>It remembers everything and gets smarter over time.</strong>&nbsp;Folk builds a growing memory of your life. The longer you use it, the more it knows you. That's the whole point.</p></li><li><p><strong>It's multiplayer.</strong>&nbsp;This is the part I'm most excited about. Add friends who are already on Folk, and your folk and theirs can do things for each other, like book a table, share a doc, or check a calendar. One way, and only ever with a tap to approve.</p></li></ul><p>And it does real things like research, coding help, date planning, booking restaurants, and tracking flights, all from the chat thread you're already in.</p><p></p><p>We're giving Product Hunt users 15% off today with code FOLK.</p><p></p><p>Two questions I'd genuinely love your take on:</p><ul><li><p>What part of your life do you most wish an AI could just handle for you?</p></li><li><p>What would make you actually trust an AI with something personal?</p></li></ul><p>Thanks for being here 🙏 Arlan</p>",
+      "votesCount": 16,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I'm pretty into the iMessage -&gt; Assistant workflow and am currently using <a href=\"https://www.producthunt.com/products/poke-by-interaction-co\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"poke-by-interaction-co\" target=\"_blank\" rel=\"noopener\">@Poke.com</a> pretty heavily. How does Folk compare and differentiate from other assistants like Poke? </p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>the 'gets smarter with every conversation' claim is the one I'd want to pressure test. most AI assistants that claim this either mean they store a growing context file or they fine-tune on your data, and those are very different things with very different privacy and quality implications. what's actually happening under the hood when Folk learns from you and where does that data live</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Folk is your AI friend that lives in any messaging app: iMessage, Telegram, Discord, and more. It joins meetings, plans your date, knows where you are, and gets smarter with every conversation. The longer you use it, the more it knows you. And now it's multiplayer, so you and your friends can team up and reach your goals together.",
+  "featured_at": "2026-06-01T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/9cfcb865-06d6-4783-b1c0-b57ca56fb72d.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2b8c3b9c-cc0a-4e72-baf7-d7a7c2d719af.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1d489a91-579b-4eef-aa73-3836e978b4cd.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d2924c77-5928-45cd-9463-b0eace1623be.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/391b90cb-fed2-4008-b1ab-0abd71034c39.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/84e59f36-8397-411a-a60f-d42af7450b15.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ee0aaa27-a31c-4d3a-bf06-baf9d82b0323.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/656ba812-9fd6-436f-8042-bea3f922848d.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:29",
+  "landing_meta": "Folk — Folk is a personal AI that lives in your iMessage and Telegram. Books tables, tracks flights, drafts texts, remembers everything. The best alternative to Poke, OpenClaw, and ClawdBot. Free trial, $20/mo.",
+  "landing_text": "Folk try folk folk not replying? get a new number the AI in your texts that gets stuff done it tracks flights, joins meetings, researches anything, and teams up with your friends' folk. try folk free for 3 days. no commitment. msgs folked q w e r t y u i o p a s d f g h j k l z x c v b n m 123 people who let folk run their week real ways people are already letting folk watch, plan, and handle things from chat “ i thought this was just an email assistant, but it's so hackable that i made it SSH into my laptop through my phone to monitor my RL finetuning jobs 24/7. ” Ben Aratame co-founder, Instinct · ex-Cluely just subscribed to max plan Delivered Date night “ Used Folk to plan an entire date night with my girlfriend from start to finish. It picked the restaurant, handled the booking, planned the schedule, and texted me updates the whole time. Genuinely feels crazy lmao ” Apartment hunt · alerts “ Folk helped me find an apartment by setting up constant alerts for new listings across every housing platform: Zillow, FB Marketplace, Redfin. I was one of the first to tour my dream apartment and ended up landing it. ” people who let folk run their week real ways people are already letting folk watch, plan, and handle things from chat “ i thought this was just an email assistant, but it's so hackable that i made it SSH into my laptop through my phone to monitor my RL finetuning jobs 24/7. ” Ben Aratame co-founder, Instinct · ex-Cluely just subscribed to max plan Delivered Date night “ Used Folk to plan an entire date night with my girlfriend from start to finish. It picked the restaurant, handled the booking, planned the schedule, and texted me updates the whole time. Genuinely feels crazy lmao ” Apartment hunt · alerts “ Folk helped me find an apartment by setting up constant alerts for new listings across every housing platform: Zillow, FB Marketplace, Redfin. I was one of the first to tour my dream apartment and ended up landing it. ” “ i thought this was just an email ",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing",
+    "premium",
+    "$20/mo",
+    "$5/mo",
+    "$1",
+    "$5",
+    "$14"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:30",
+  "description_ja": "あなたのチャットに住み、用事を片付けてくれるAIアシスタント",
+  "summary_ja": "iMessageやTelegramなど既存のメッセージアプリ内に常駐し、レストラン予約・フライト追跡・会議の文字起こし・調査などを代行する個人向けAIエージェント。位置情報や会話を記憶して能動的に通知し、友人同士のfolkが連携する「マルチプレイヤー」機能も持つ。",
+  "tldr_ja": "iMessage前提だが日本はLINE一強。LINE版に作り替えても本家LINE AIエージェントと正面衝突し個人開発は厳しい",
+  "review_guide_ja": {
+    "what": "iMessage・Telegram・Discordなど既存メッセージアプリ内に常駐するチャット型AIエージェント。ユーザーが話しかけるだけでレストラン予約、フライト追跡、Google Meet参加と文字起こし、リサーチ、コーディング補助、デート計画などを代行する。位置情報を取得し『リスト中の食材がある店の前を通ったら通知』のような能動的アクションを行う点が特徴。会話を継続的に記憶し使うほどパーソナライズが進む。さらに友人同士のfolkが互いに予約・ドキュメント共有・カレンダー確認を代行し合う『マルチプレイヤー』機能を持つ。アプリのインストール不要で、普段のトークスレッドからそのまま使える。料金は3日間無料トライアル後 $20/月が中心で、$5/月などの下位プラン示唆もある。",
+    "for_who": "iMessageやTelegramを日常的に使う英語圏の個人ユーザー。タスク代行・スケジュール調整・予約を会話だけで済ませたいプロダクティビティ志向の層、AIエージェントのアーリーアダプター。日本では同等の常駐先がLINEに偏るため、想定顧客はそのまま移植できない。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "LLM＋ツール連携(予約・カレンダー・位置情報)とメッセージAPI接続自体は個人でも実装可能。ただし能動的通知の品質、記憶基盤、各種予約先との連携網の構築が重く、本家水準の再現は容易でない。"
+    },
+    "signals": [
+      "iMessage常駐型のPoke($300M評価)に続く明確なトレンドで、AppleがiMessage上のサードパーティAIエージェントを初承認した直後のローンチ",
+      "PH 303 upvotes・70コメントと反応良好、トップコメントでPokeとの比較質問が出るほどカテゴリ関心が高い",
+      "予約・フライト追跡・会議文字起こしなど『実行系』タスクに踏み込んでおり、単なるチャットボットと差別化",
+      "友人同士のfolk連携(マルチプレイヤー)というネットワーク効果の角度を持つ"
+    ],
+    "concerns": [
+      "iMessage/Telegram前提で、日本では普及率92.5%のLINEに常駐できなければユーザー導線が成立しない",
+      "位置情報の常時取得・会話の永続記憶はプライバシー懸念が強く、トップコメントでも『データの所在』が突っ込まれている",
+      "予約・代行の実行網は国・言語ごとに作り込みが必要で、日本のレストラン/交通予約への対応コストが大きい",
+      "能動的プッシュ通知の精度が低いとスパム化しチャーンに直結する"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "AIエージェントによる予約・タスク代行への関心は楽天トラベルAIホテル探索やGoogleのエージェント型予約など顕在化しつつあり、AI秘書記事も多数。一方でGoogleのエージェント予約は2026年5月時点で日本未対応など、実行系の国内需要はまだ立ち上がり段階。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "プラットフォーマーのLINEヤフーが無料のLINE AI・AIエージェント『Agent i』をLINEトーク内に統合中で、メッセージ常駐型AIの最有力ポジションを自社で押さえつつある。個人開発が同じ土俵で戦うのは極めて不利。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "位置情報の常時取得は個人情報保護法上、提供目的を超える取得に明示的・個別同意が必要。会話の永続記憶や会議文字起こしも要配慮情報や第三者の音声を含みうる。2026年版AI事業者ガイドラインも自律エージェントを対象化しており、設計負荷あり。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UIの日本語化は容易だが、本質は常駐先をiMessageからLINEへ移植する必要があり、さらに予約・交通・店舗連携を国内事業者向けに作り直す必要がある。深いUX/連携改修が前提。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本では個人連絡はLINE中心でiMessage/Telegram文化が薄く、見知らぬAIに位置情報や予約代行を委ねる心理的ハードルも高い。能動プッシュは『お節介』と受け取られやすく商習慣・生活感覚との相性は限定的。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "LINE AI / Agent i（LINEヤフー）",
+        "url": "https://www.lycorp.co.jp/ja/news/release/020366/",
+        "note": "LINEトーク内に統合される無料の生成AI・AIエージェント。9,500万MAUのLINEを直接握るプラットフォーマーで、メッセージ常駐型AIの最有力。個人開発の正面競合になりうる存在。"
+      },
+      {
+        "name": "Poke（The Interaction Company）",
+        "url": "https://poke.com/",
+        "note": "iMessage/SMS/Telegram常駐の先行プロダクト。Apple公認の初iMessage AIエージェントで評価額$300M。日本専用展開は未確認だが、英語圏ユーザーには既に到達しており直接の比較対象。"
+      },
+      {
+        "name": "Notta等のAI秘書アプリ群",
+        "url": "https://www.notta.ai/blog/ai-secretary-apps",
+        "note": "国内で『AI秘書』として認知される文字起こし・スケジュール・タスク支援ツール群。常駐先はメッセージアプリではないが、タスク代行ニーズの受け皿として一部競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "位置情報は識別情報と紐づくと個人情報、単体でも蓄積で自宅・勤務先特定なら該当しうる。アプリ提供目的を超える位置情報取得は個別・明示同意が原則。会話・会議音声の永続記憶も第三者の個人情報や要配慮情報を含むリスクがあり、取得・保管・国外移転の設計負荷が大きい。"
+      },
+      {
+        "law": "電気通信事業法（外部送信規律）",
+        "impact": "利用者情報を外部送信するアプリ・サービスは外部送信規律の対象となりうる。位置情報・連絡先・会話履歴を外部送信する場合、送信先や項目の通知・公表など利用者への明示が必要になる可能性がある。"
+      },
+      {
+        "law": "AI事業者ガイドライン（2026年版）",
+        "impact": "総務省・経産省が自律型AIエージェント・予約代行を明示的に対象化。法的拘束力は強くないが、予約確定や決済を伴う代行を行う場合、リスク管理・ガバナンス整備が事実上求められ、個人開発では対応負荷となる。"
+      }
+    ],
+    "opportunity": "正攻法で勝つ角度は薄いが、隙間はLINEヤフーの汎用AIが手を出しにくい『特定ドメイン特化のLINE常駐エージェント』。例えば飲食予約に絞り食べログ/ぐるなび連携で予約完結、あるいは出張者向けに国内交通・宿の追跡通知に特化するなど、汎用秘書ではなく縦に深い一機能で差別化する。位置情報や永続記憶という重い機能は外し、ユーザー起点の明示リクエストに絞れば規制・運用負荷も下げられる。ただし本家folk/Pokeの日本進出やAgent i拡張で時間窓は短く、機会としては『watch』寄りの限定的なもの。",
+    "rationale": "市場機会としては弱い。日本は個人メッセージがLINE92.5%・9,500万MAUに一極集中し、iMessage/Telegram前提のfolkは導線がそのまま成立しない。常駐先をLINEへ移植しても、プラットフォーマーのLINEヤフー自身が無料のLINE AI・Agent iでメッセージ常駐型AIの最有力ポジションを取りに来ており、個人開発が正面で戦うのは構造的に不利。AIエージェントによる予約・タスク代行への関心自体は楽天/Googleの動きで顕在化しつつあるが、Googleのエージェント予約が日本未対応など実行系の国内成熟はこれから。加えて位置情報常時取得・会話永続記憶は個人情報保護法・外部送信規律・AI事業者ガイドラインの複合的な対応を要し、個人開発の負荷とプライバシー不信を高める。特定ドメインに縦に深く絞れば隙間は残るが、汎用秘書としての日本展開はskip妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "国内の個人向け生成AIサブスクは月2,000〜3,000円が中心レンジで、$20/月相当の課金は不可能ではない。ただしLINE AI等の無料代替が強く、有料化の壁は厚い。個人開発LINE botは月300円程度の小額課金が実例で、高ARPU維持は難しい。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "LINEは9,500万MAUと母数は巨大で、タスク代行・AI秘書ニーズも全国規模。ただし『有料でAIに位置情報・予約を委ねる』層は当面ごく一部に絞られ、実効TAMは母数比でかなり小さくなる見込み。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "LINE Messaging APIで個人がbotを作り友だち追加で配布する導線はあるが、能動プッシュは無料1,000通までで以降課金と制約が重い。本プロダクトの肝である『能動的に話しかける』体験ほどコストがかさみ、PLGでの拡大が難しい。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "AppleがiMessage AIエージェントを初承認しPokeが先行、本家folkもローンチ直後で、LINEヤフーもAgent iを今まさに展開中。メッセージ常駐型AIは各社が同時に張る激戦領域で、個人開発にとって時間窓は狭い。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "能動的通知・会議参加・予約代行・永続記憶という常時稼働かつ実行系の機能群は、誤通知・予約失敗・障害が即チャーン/クレームに直結。位置情報・音声を扱うため監視と問い合わせ対応の負荷が高く、個人での24/7運用継続は困難。"
+      }
+    },
+    "rationale": "事業成立性は低い。母数となるLINEのユーザー規模は巨大だが、本プロダクトの核である『能動プッシュ・位置情報・予約代行・会議参加』はいずれも個人運用の負荷とコストを押し上げる要素ばかりで、PLGとも噛み合わない。LINEの能動プッシュは無料枠1,000通で以降課金のため、能動的に話しかける体験ほど経済性が悪化する。マネタイズは国内個人向けAIサブスク相場$20/月相当が一応成立しうるものの、LINE AI等の無料代替と本家の参入で価格・チャーン圧力が強い。さらに実行系機能は誤作動が即クレーム化し、位置情報・音声の取り扱いで問い合わせ・障害対応が発生するため、個人での継続運用は現実的に厳しい。汎用秘書として日本で立ち上げるのは事業性が乏しく、やるなら機能を絞った縦特化が前提。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 月の対話・リクエスト数に上限を設けた無料枠（友だち追加で利用開始、能動プッシュは控えめ）",
+        "Pro: ¥1,500/月（無制限対話＋特定ドメインのタスク代行1機能を解放）",
+        "年額: ¥15,000/年（月額比2ヶ月分割引、解約抑止用）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "LINEを日常利用する個人のうち、飲食予約や国内出張の交通・宿手配を会話で済ませたいプロダクティビティ志向のアーリーアダプター。汎用秘書ではなく特定ドメイン（例: 飲食予約）に絞ったLINE常駐エージェントの有料ユーザー。",
+      "target_count": 30000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 135000
+    },
+    "recommended_gtm": [
+      "LINE Messaging APIでbotを公開し、QR/URLによる友だち追加で配布（PLGの起点）",
+      "Zenn/Qiitaでの個人開発・実装記事連載（LINE bot×AIは既に読者層が厚い）",
+      "X個人発信でデモ動画（予約完結の一発芸）を拡散",
+      "特定コミュニティ（出張族・グルメ層）向けの限定機能訴求",
+      "noteで『使い込みログ』を出し信頼とプライバシー透明性を担保"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "LINEヤフーが無料のLINE AI・Agent iでメッセージ常駐型AIを自社展開しており、プラットフォーマーに正面から潰されるリスク。汎用秘書として被ると勝ち目が薄い。",
+      "iMessage/Telegram前提の本家設計をLINEへ移植する必要があり、能動プッシュは無料1,000通で以降課金と、核機能ほど経済性が悪化する構造的制約。",
+      "位置情報常時取得・会話/会議音声の永続記憶が個人情報保護法・電気通信事業法の外部送信規律に抵触しやすく、同意設計・データ管理の負荷とユーザー不信が大きい。",
+      "予約・代行など実行系の誤作動（予約失敗・誤通知）が即クレーム/チャーン化し、個人での24/7監視・問い合わせ対応が継続困難。",
+      "本家folk・Pokeの日本進出やAI事業者ガイドラインの規制強化で、立ち上げ前に時間窓が閉じるリスク。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T03:09:09Z",
+  "review_guide_at": "2026-06-06T03:09:09Z",
+  "business_viability_at": "2026-06-06T03:09:09Z",
+  "advisor_view_at": "2026-06-06T03:09:09Z"
+}

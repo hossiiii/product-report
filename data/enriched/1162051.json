@@ -1,0 +1,250 @@
+{
+  "name": "Replicas",
+  "description": "Run Claude Code and Codex in the cloud",
+  "ph_url": "https://www.producthunt.com/products/replicas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/D44IQTTKSR3U2U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-03T07:01:00Z",
+  "upvotes": 223,
+  "comments": 29,
+  "topics": [
+    "Software Engineering",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "8352628",
+      "name": "Connor Loi",
+      "twitterUsername": null,
+      "headline": "founder + ceo @ Replicas"
+    },
+    {
+      "id": "2869845",
+      "name": "Kavin Desi Valli",
+      "twitterUsername": "kavinvalli",
+      "headline": "Software Engineer"
+    },
+    {
+      "id": "9877141",
+      "name": "Gateek Chandak",
+      "twitterUsername": null,
+      "headline": "Software Engineer @ Replicas"
+    },
+    {
+      "id": "9435014",
+      "name": "Saai Arora",
+      "twitterUsername": null,
+      "headline": "CTO @Replicas (YC P26)"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt! 👋\n\nI'm Connor, CEO of Replicas, here with my co-founder Saai. We're super excited to finally share Replicas with this community.\n\nWhy we built this\n\nLike many of you, we think the future of software engineering is delegating to fleets of cloud agents. Engineers are already using their preferred harnesses: Claude Code, Codex, Opencode, Pi, and others everyday. But back then, no one had made a good way to use them on cloud.\n\nEvery existing solution either locks you into one specific harness, or forces you to run agents locally on your machine. That means your agent stops the moment you close your laptop. And if you want multiple agents running at once, you're left wrangling git worktrees, hoping your computer doesn't crash, and buying a clamp to keep your computer open.\n\nWhat Replicas does\n\nReplicas runs your agents in isolated cloud VMs. Each one gets its own full dev environment, installs your dependencies, spins up your database, and runs your actual codebase locally inside the sandbox. It works with Claude Code, Codex, OpenCode, and more. You bring your own API keys or subscriptions, so you only pay for the infrastructure.\n\nTrigger it from wherever you already live: mention @replicas in a GitHub PR, ping it in Slack, assign a Linear issue, or hit the API. You come back to a PR ready to review.\n\nWhat we've seen\n\nWe dogfood this hard: 95% of our own lifetime PRs were shipped with Replicas, and we haven't opened a single one without it in the last 3 months. Our customers average 30% of PRs through it too; teams like Mintlify, Knowunity, and Composio.\n\nThe use cases have gone way beyond what we initially imagined: personalized code review, automated code quality checks in CI, security reviews and pentests, auto-triaging issues, and teams running around-the-clock on-call support engineers.\n\nThis is just the beginning of what's possible when you can run agents in parallel, in the background, around the clock.\n\nWe'd love to hear how you're thinking about AI agents in your stack! Drop a comment or just come say hi, we're here all day. 🙏",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Oh, so excited to see you guys launching!</p><p>I’ve been using replicas for all my PR reviews. They have a great set of automations and my agent auto resolves. </p><p></p><p>Not to meant really frictionless integrations with Linear and Slack. I do most a lot of coding tasks from Slack now.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations on the launch!<br></p><p>We use replicas in our day-to-day work to develop multiple features in parallel. It also enables us to do multiplayer, where the product and engineering teams hand off the session back and forth as the development progresses.<br></p><p>We absolutely love the fact that it doesn't lock us into a bad in-house harness, since they just allow us to use the ones from big AI labs. This is a huge benefit, because it means the features that the labs come up with are available right away — we don't have to wait months for the in-house harness to catch up. Another super nice thing is that we're able to preview the work live directly in Replicas via remote desktop or use SSH.<br></p><p>Cloud agents are the next big thing in the AI coding world, and Replicas is the best one out there right now. Excited to see where it ends up!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Run background coding agents from anywhere. Spawn Claude Code or Codex in a VM with code and tooling ready to go. Hand off tasks from Slack, Linear, or GitHub Replicas runs Claude Code, Codex, or any coding agent in the cloud. Agents run in isolated VMs with real dev environments, and you can bring your own subscriptions and API keys. Trigger tasks from Slack, Linear, or GitHub and come back to a PR ready to review.",
+  "featured_at": "2026-06-03T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/475c1bf8-371d-429a-ae87-87b22a2048d0.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1c663a8d-ddef-43dc-8574-f422ad25b8c3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/930e7cac-5fdd-4fb4-b8a9-e712da6d5600.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c4729f4a-4a97-4f53-9f95-1fde39c68230.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0ff71b70-0ea2-41ad-8c89-c72f79fa9898.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e5b27390-51e3-4689-9733-56fe25c073e5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1c75b624-399e-4e8d-9b5f-428c55dfb485.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0dea860f-f2ea-49b1-b7d5-cf2a8f209641.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8832d09f-46bb-4be2-9d82-ec27ee554831.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/16ce10a3-0d74-4963-ab0f-264b0c20d6d2.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:39",
+  "landing_meta": "Replicas | Background Coding Agents for Engineering Teams — Run background coding agents from anywhere. Spawn Claude Code or Codex in a sandbox with code and tooling ready to go. Hand off tasks from Slack, Linear, and GitHub integrations.",
+  "landing_text": "Replicas | Background Coding Agents for Engineering Teams Announcing our Product Hunt launch — please upvote! View on Product Hunt Backed by Y Combinator The Background Coding Agent Delegate to coding agents that work in sandboxed development environments. Get Started How It Works update-changelog $ replicas connect update-changelog feat/analytics + 1247 - 89 fix-auth-race $ replicas connect fix-auth-race fix/auth-middleware + 12 - 456 refactor-ml-jobs $ replicas connect refactor-ml-jobs refactor/data-processing + 3412 - 2178 update-changelog $ replicas connect update-changelog feat/analytics + 1247 - 89 fix-auth-race $ replicas connect fix-auth-race fix/auth-middleware + 12 - 456 refactor-ml-jobs $ replicas connect refactor-ml-jobs refactor/data-processing + 3412 - 2178 update-changelog $ replicas connect update-changelog feat/analytics + 1247 - 89 fix-auth-race $ replicas connect fix-auth-race fix/auth-middleware + 12 - 456 refactor-ml-jobs $ replicas connect refactor-ml-jobs refactor/data-processing + 3412 - 2178 update-changelog $ replicas connect update-changelog feat/analytics + 1247 - 89 fix-auth-race $ replicas connect fix-auth-race fix/auth-middleware + 12 - 456 refactor-ml-jobs $ replicas connect refactor-ml-jobs refactor/data-processing + 3412 - 2178 update-changelog $ replicas connect update-changelog feat/analytics + 1247 - 89 fix-auth-race $ replicas connect fix-auth-race fix/auth-middleware + 12 - 456 refactor-ml-jobs $ replicas connect refactor-ml-jobs refactor/data-processing + 3412 - 2178 update-changelog $ replicas connect update-changelog feat/analytics + 1247 - 89 fix-auth-race $ replicas connect fix-auth-race fix/auth-middleware + 12 - 456 refactor-ml-jobs $ replicas connect refactor-ml-jobs refactor/data-processing + 3412 - 2178 update-changelog $ replicas connect update-changelog feat/analytics + 1247 - 89 fix-auth-race $ replicas connect fix-auth-race fix/auth-middleware + 12 - 456 refactor-ml-jobs $ replicas connect refactor-ml-jobs refacto",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "$1",
+    "$7",
+    "$13"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:40",
+  "description_ja": "Claude Code や Codex などのコーディングエージェントをクラウド上で並列実行できる開発基盤",
+  "summary_ja": "ユーザーのコードベースを隔離されたクラウドVMに展開し、Claude Code・Codex・OpenCode 等のエージェントをバックグラウンドで実行する。Slack・Linear・GitHub・API から指示を投げ、レビュー可能なPRが返ってくる。BYO鍵で、課金はインフラ分のみ。",
+  "tldr_ja": "クラウド型コーディングエージェント需要は日本も顕在だが、Devin日本法人・Cursor等が先行し時間窓ほぼ閉、VM運用負荷も重く個人開発は不利。",
+  "review_guide_ja": {
+    "what": "ユーザーのリポジトリを隔離されたクラウドVMに展開し、依存関係インストール・DB起動まで含む実動環境を用意した上で、Claude Code / Codex / OpenCode などのコーディングエージェントをバックグラウンドで並列実行する基盤。harness（エージェント本体）にロックインせず、APIキーやサブスクはユーザー持ち込み（BYO）で、課金対象はインフラのみ。GitHubのPRで @replicas メンション、Slackでの依頼、Linearのissueアサイン、API直叩きなど既存ワークフローからトリガーでき、完了するとレビュー可能なPRが返る。典型用途はPRレビュー自動化、CIでのコード品質チェック、セキュリティレビュー、issueの自動トリアージ、常時稼働のオンコール対応。リモートデスクトップ/SSHで作業中セッションを直接プレビューでき、人と人/AIのハンドオフ（マルチプレイヤー）も可能。自社では生涯PRの95%をReplicas経由で出荷、顧客平均でもPRの30%が本サービス経由とされる。",
+    "for_who": "複数機能を並行開発するスタートアップ〜中規模エンジニアリングチーム、PRレビューやCIチェックを自動化したいDevOps/プラットフォームチーム、ローカルマシンを開けっ放しにせずバックグラウンドでエージェントを回したい開発者。harnessの選択自由度とBYO鍵を重視する技術志向の組織が中心。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "隔離VMのオーケストレーション、各リポジトリの環境再現、ネットワーク制御、複数harness対応、Slack/Linear/GitHub連携を統合する必要があり、個人での実装・継続運用は難度が高い。"
+    },
+    "signals": [
+      "YC（P26）採択、MintlifyやComposio等の実顧客あり",
+      "harnessにロックインしないBYOアーキテクチャで本家ラボの新機能を即利用できる差別化",
+      "PRレビュー・CI品質チェック・オンコール等、コーディング超えのユースケース拡張"
+    ],
+    "concerns": [
+      "Devin（Cognition日本法人）・Cursor Background Agents・Claude Code on web 等の強力な先行プレイヤーと正面競合",
+      "顧客のソースコードを外部VMで実行するため機密性・セキュリティ要件が厳しく日本企業の審査ハードルが高い",
+      "隔離VMを24/7で安全に運用する基盤は固定費・監視負荷が重く個人運用に不向き"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "Cursor Background Agents や Devin、Claude Code on web に関する日本語記事・導入事例が多数あり、クラウド/バックグラウンド型コーディングエージェントへの需要は国内でも明確に顕在化している。Zenn/Qiita/note でも比較記事が活発。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Cognition（Devin）が日本法人を設立しSHIFTとマスターパートナー契約、DeNA・みずほ等が導入済み。Cursor、Claude Code on web も国内で広く認知。クラウド実行のコーディングエージェント領域は既に強力な海外勢で混み合う。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "開発者ツールで日本固有の業法規制は薄いが、顧客のソースコードを外部VMで実行するため、コードに個人情報が含まれる場合は個情法、メッセージ連携で特定電子メール法等に軽く触れうる。致命的障壁ではない。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "API・GitHub/Slack/Linear連携・CLI中心で、UI日本語化は限定的で済む。エンジニアは英語UIへの耐性も高く、深いUX改修は不要。ドキュメント/サポートの日本語対応が主な作業。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "BYO鍵・PR/issueベースのワークフローは国内の開発現場とも親和。一方、ソースコードを外部クラウドに出すことへの稟議・情報セキュリティ審査は日本企業で重く、商習慣上の導入摩擦が残る。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Devin（Cognition AI 日本法人 / SHIFT・ウルシステムズ等パートナー）",
+        "url": "https://www.shiftinc.jp/news/20251014_cognition_ai/",
+        "note": "完全自律型クラウドAIエンジニア。Cognitionがアジア初の日本法人を設立、SHIFTがマスターパートナー、DeNA・みずほ証券が導入済み。$20プランから提供しエンタープライズ展開で先行。"
+      },
+      {
+        "name": "Cursor Background Agents",
+        "url": "https://uravation.com/media/cursor-background-agents-complete-guide-2026/",
+        "note": "隔離VM上で自律的にコードを書きPRを出すクラウドエージェント。自社PRの30%超をエージェントが作成。日本語の解説・導入事例記事が多数で国内認知が高い。"
+      },
+      {
+        "name": "Claude Code on the web（Anthropic）",
+        "url": "https://code.claude.com/docs/ja/overview",
+        "note": "Anthropic管理のクラウドVM上でClaude Codeを実行。複数セッション並行実行・定期タスクのスケジュール対応。Replicasと用途が直接重なる本家機能で、日本語ドキュメントも整備。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "顧客リポジトリやDBダンプに個人情報が含まれる場合、外部クラウドVMでの処理・保管が個情法の委託/越境移転規律の対象となりうる。VMのリージョン選択（国内保管）と委託先管理体制の明示が国内企業導入の前提条件になる。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "Slack等を介したメッセージ/通知の中継態様によっては電気通信事業の届出該当性を検討する余地があるが、SaaS本体機能としての影響は限定的で致命的障壁ではない（検索で具体的該当判断は根拠未確認）。"
+      }
+    ],
+    "opportunity": "国内独自の角度は「ソースコードを外部に出せない日本企業向けの、閉域・国内リージョン特化のセルフホスト型/VPC内実行」。金融・公共・SIなど情報セキュリティ審査が厳しい層は海外SaaSをそのまま使えず、国内データセンター完結・監査ログ・SOC/ISMS整備を売りにすれば差別化余地がある。加えて、Devin等の本家harnessロックインを嫌う層に対し、複数harnessをまとめて国内サポート付きで提供する代理店的ポジションも考えられる。ただし基盤運用が重く、個人開発より受託/SI連携型のビジネスに寄る。",
+    "rationale": "需要面ではクラウド/バックグラウンド型コーディングエージェントは日本でも明確に立ち上がっており、Zenn/Qiita/noteでの比較記事や企業導入事例が示すとおり市場は顕在。しかし競合面が極めて厳しい。Cognition（Devin）はアジア初の日本法人を設立し、SHIFTとのマスターパートナー契約、DeNA・みずほ証券といった大手顧客を確保。Cursor Background AgentsやClaude Code on webも国内認知が高く、Replicasと用途が直接重なる。ローカライズはAPI/連携中心で容易、規制も開発者ツールとしては軽微（コード内個人情報の扱いが主論点）。商習慣面では、ソースコードを外部クラウドへ出すことへの情報セキュリティ審査・稟議が重く、国内企業導入の摩擦が残る。総じて市場機会自体は存在するが、海外勢が既に日本法人・パートナー網を敷いた後発参入であり、独自の角度（国内閉域・harness非ロックイン+国内サポート）を打ち出さない限り埋もれるリスクが大きい。verdict は watch。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 7,
+        "reason": "法人向け開発ツールで経費決済が効き、月額5,000〜30,000円帯は法人にとって小さくチャーンも低い。BYO鍵でインフラ課金のみなので価格訴求もしやすい。ARPU確保自体は現実的。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "日本のITエンジニアは世界4位規模（おおよそ百数十万人）で母数は大きいが、クラウドVMでエージェントを並列運用する先進的開発チームは一部。実際に有償化できる層は相対的にニッチで、海外勢と取り合いになる。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "Zenn/Qiita/X等の技術発信でPLG的に開発者へリーチは可能だが、ソースコードを預ける性質上セキュリティ審査・稟議が必要で、純PLGだけでは法人契約に届きにくい。エンタープライズはSI/パートナー経由が要る。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "Devinが日本法人とマスターパートナーを擁し、Cursor・Claude Code on webも本家機能として同領域を提供済み。本家進出までの猶予がほぼ無く、むしろ既に競合飽和状態で時間窓は閉じかけ。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "顧客コードを実行する隔離VMを24/7で安全に運用する必要があり、ネットワーク制御・セキュリティ・障害対応・固定インフラ費の負担が重い。法人顧客はSLAやインシデント対応も期待し、個人での手離れ運用は困難。"
+      }
+    },
+    "rationale": "課金面は良好で、法人向け開発ツールは経費決済・低チャーン・高単価が見込め、BYO鍵でインフラ実費のみという構造は価格訴求もしやすい。市場規模も母数（国内ITエンジニア世界4位）は大きいが、クラウドVMで並列エージェントを回す先進チームは一部で、有償化可能層は海外勢と奪い合いになる。GTMはZenn/Qiita/X発信でPLG的に開発者個人へは届くものの、ソースコードを外部に預ける性質上、法人化にはセキュリティ審査・稟議が必須でSI/パートナー経由が要る。最大の弱点はタイミングと運用負荷。Devinが日本法人＋マスターパートナー、CursorやClaude Code on webも本家機能で同領域を抑えており時間窓はほぼ閉。さらに顧客コードを動かす隔離VMの24/7運用・セキュリティ・SLA期待は個人運用に根本的に不向き。事業性スコアは5にとどまり、個人開発として正面から挑むのは厳しい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: 月数回のエージェント実行・短時間VM（PLG入口用）",
+        "Pro: ¥3,000/月 個人開発者・小規模向け、並列数とVM時間に上限",
+        "Team: ¥30,000/月〜 複数席・GitHub/Slack/Linear連携・優先実行",
+        "Enterprise: 個別見積 国内リージョン/閉域・監査ログ・SLA・セキュリティ審査対応"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "クラウドVMで並列エージェントを回す先進的な国内スタートアップ〜中規模エンジニアリングチーム、およびharnessロックインを嫌い複数エージェントを併用したい開発者・プラットフォームチーム。情報セキュリティ審査を通せる、または国内閉域要件を持つ層。",
+      "target_count": 3000,
+      "capture_pct_year3": 1,
+      "monthly_revenue_target_jpy": 90000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita で「複数harness並列運用」「PRレビュー自動化」等のニッチ課題記事を蓄積しSEO流入を獲得",
+      "X での個人発信とOSS連携デモで技術志向の開発者にリーチ",
+      "無料枠（短時間VM）によるPLGで個人→チーム課金への転換",
+      "国内閉域/VPC内実行を武器に、SI・受託開発企業とのパートナー販売で法人を開拓"
+    ],
+    "time_window_months": 3,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "Devin（日本法人＋SHIFTマスターパートナー、DeNA・みずほ導入）やCursor、Claude Code on web が同領域を本家機能・国内体制で先行しており、後発の個人開発が認知・信頼で勝ちにくい。",
+      "顧客のソースコードを外部VMで実行するため、機密漏洩・サプライチェーン攻撃のリスクが高く、国内企業のセキュリティ審査・稟議を通すハードルが極めて高い。",
+      "隔離VMを24/7で安全運用する基盤は固定インフラ費・監視・障害対応・SLA期待が重く、個人での継続運用が現実的でない。",
+      "BYO鍵でインフラ課金のみという薄いマージン構造のため、VM運用コストが利益を圧迫しユニットエコノミクスが崩れやすい。",
+      "本家harness（Claude Code on web 等）がクラウド実行を内製化し続ければ、ラッパー的ポジションの存在意義が急速に縮小する。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

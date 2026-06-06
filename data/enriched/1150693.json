@@ -1,0 +1,252 @@
+{
+  "name": "Databox MCP",
+  "description": "Chat with your business data inside Claude, ChatGPT and more",
+  "ph_url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/QOQ2YENIDC56TM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-01T07:01:00Z",
+  "upvotes": 360,
+  "comments": 59,
+  "topics": [
+    "Productivity",
+    "Analytics",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "9369419",
+      "name": "Ziga Potocnik",
+      "twitterUsername": null,
+      "headline": "Product | Growth | AI"
+    },
+    {
+      "id": "29516",
+      "name": "Davorin Gabrovec",
+      "twitterUsername": "davorin",
+      "headline": "Founder & CPO at Databox"
+    },
+    {
+      "id": "9417002",
+      "name": "Marcel Mumel",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "7810037",
+      "name": "Tadej",
+      "twitterUsername": null,
+      "headline": "Software engineer"
+    },
+    {
+      "id": "82707",
+      "name": "Peter Caputa",
+      "twitterUsername": "pc4media",
+      "headline": null
+    },
+    {
+      "id": "9582664",
+      "name": "Pete Caputa",
+      "twitterUsername": null,
+      "headline": "Databox CEO.  AI-powered data analysis."
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>We built Databox MCP because of a pattern we kept seeing: teams were doing their thinking in Claude and ChatGPT, but their actual performance data lived elsewhere. So they'd export it, paste it in, and hope the AI understood it. It didn't. The data was already in Databox, connected, defined, with all the historical context. It just wasn't reachable from the tools where people were actually working. MCP closes that gap. One connection, and your AI can talk about your real numbers instead of guessing.<br></p><p>This is the part that matters more than people realize. An AI is only as good as the data layer underneath it. Databox isn't a pile of raw exports; it's a governed semantic layer: metrics defined once and consistently, data cleaned and modeled across all your sources, with the historical context that tells you whether a number is actually good or bad. That's the difference between an answer you can act on and a confident guess you have to double-check.<br></p><p>Asking questions and getting trusted answers is the obvious first use. What I'm most excited about is what comes next: workflows that act on the data on their own. Performance management, monitoring, and decisions that trigger automatically. Your AI stops being something you ask and starts being something that keeps the business moving week to week.<br></p><p>Proud of the team for shipping it.</p>",
+      "votesCount": 13,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hi Product Hunt! 👋<br></p><p>I'm Pete from the Databox team, and today we're excited to share something we've been building for a while: <strong>Databox MCP.</strong><br></p><p>Every team we talk to uses AI for writing, planning, and thinking through problems. When it comes to performance data, teams are still piecing it together by hand. Someone asks \"why did my ad cost spike last week?\" and answering takes 20 minutes of combing through multiple dashboards, adjusting date ranges and filters.<br></p><p>Some teams have shortcut this by uploading a CSV to Claude. The answer sounds confident, but it’s built on context that the AI doesn’t have. No metric definitions. No historical trends. No understanding of how their business measures success. The answers are hard to trust, and even harder to act on.<br></p><p>Databox MCP closes that gap.&nbsp;<br></p><p>Databox connects to all of your tools, then it feeds the AI tools with data, analysis and insights. You ask questions in plain language, and the answers come grounded in your real business data: your metric definitions, your historical context, and the way your team measures success.<br></p><p>Here are a few things you can do with it:&nbsp;</p><ul><li><p><strong>Get fast answers without leaving your AI tools:</strong> Ask \"why did ad cost spike last week?\" and your AI pulls the answer from your trusted data, and gives you a written explanation with visual context.&nbsp;</p></li><li><p><strong>Point your AI at any of your dashboards:&nbsp; </strong>&nbsp;Say \"analyze my Google Ads dashboard\" or \"summarize my client reporting dashboard,\" and your AI knows which metrics to pull. You skip the setup work that usually goes into every AI prompt.</p></li><li><p><strong>Push new data into Databox from your AI: </strong>Upload a CSV or pull from an API in your AI conversation, and your AI sends it to Databox as a clean, structured dataset. Analyze it the same minute alongside the metrics you already track.</p></li><li><p><strong>Rely on Databox for mathematical analysis: </strong>Whether it's simple things like understanding wether an increase in a number is good or bad, or more complicated things like calculating correlations or detecting anomalies, Databox is doing the math the same every time.  </p></li><li><p><strong>Turn recurring work into workflows: </strong>Connect MCP to n8n or Make, and your recurring AI analysis runs on its own. Schedule the Monday performance summary, trigger alerts when key metrics change, and send executive summaries that arrive with the context built in.</p></li></ul><p>We soft-launched it in February, and the most interesting thing has been watching what customers do with it. Rick Kranz used the Databox MCP with Claude to turn traffic, search, and CRM data into weekly content creation recommendations. He even made the <a href=\"https://ai-marketinglabs.com/claude-cowork-skill-growth-dashboard%20&nbsp;\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">skill available for others to download</a>. Agency operations leaders like Gary Magnone started using it to <a href=\"https://databox.com/how-to/identify-the-root-cause-of-kpi-spikes-faster-with-ai-powered-analysis)\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">spot the root cause of KPI spikes</a> in minutes instead of hours. High volume digital advertising agency owners like (like Kamil Rextin) used it to <a href=\"https://databox.com/how-to/create-paid-media-benchmarks\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">build paid media benchmarks from client data</a>.  Island, a software development firm used it <a href=\"https://www.linkedin.com/posts/marketingagency-clientreporting-aiagents-share-7459669857157132289-XHhO/&nbsp;\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">to automate data analysis for 25 leading online publications</a>, cutting reporting time by 96%! <br></p><p>It takes 60 seconds to connect and is available on all paid Databox plans.&nbsp;<br></p><p>We'd love your input 👇<br></p><p><strong>What's the one performance question your team asks every week - but still takes too long to answer?</strong><br></p><p>Thanks for checking it out 🙏</p>",
+      "votesCount": 12,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Sounds very interesting. <br><br>I actually do upload a google sheet of my company stats which includes revenue and marketing data. I have a Claude Project that analyzes the google sheet and then creates a dashboard. This solution is very interesting and more dynamic. <br><br><br><br></p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Databox MCP connects your business data to Claude, ChatGPT, Cursor, and n8n. Ask about revenue, campaigns, or pipeline in plain language and get answers grounded in your real metrics and business context.",
+  "featured_at": "2026-06-01T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/c8a15a82-2964-4bbc-a354-e70d8d684373.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7c9df1b5-0001-4585-a4ee-a54ac39ac438.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/da2caa7b-0b49-4ad8-a42f-a809019f1f9d.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ca38be85-24c8-4703-87d6-4ada36d4c1fa.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/96e93706-4b6c-4527-81f1-ea777424fb5a.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ab539bf6-d38d-45dc-994f-1ea40cc0cf24.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a17f55db-70df-4081-9962-78e44f014da1.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/281845a8-1367-4381-b16e-1cfc31821492.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:19",
+  "landing_meta": "Databox MCP: Use Databox Directly from Your AI Tool — Use Databox’s Model Context Protocol (MCP) to securely connect AI to your business data and ask performance questions in plain language with real-time answers.",
+  "landing_text": "Databox MCP: Use Databox Directly from Your AI Tool Chat with your data. Anywhere. Connect Databox to Claude, n8n, ChatGPT, or Cursor, so teams can ask questions, get answers in plain language, and take action automatically. Get started Works with Claude Desktop, n8n workflows, Cursor, and 100+ MCP-compatible tools Trusted by 20,000+ teams that don't guess their numbers. 20,000+ teams using Databox 130+ Data integrations 200+ Pre-built templates 10+ MCP tools How Databox MCP works Databox MCP lets your AI tool work with your performance data, securely. Connect securely Bring data into your AI tool with MCP. Your data stays protected & access is under your control. Talk to your AI Ask your AI a question and Databox will do the math using your metrics and history. Turn insights into action Use real analysis to trigger alerts, reports, and workflows without leaving your AI tool. Get started A new way to work with your data. No dashboards to build. No SQL to write. No waiting on the data team. Your AI gives you answers the moment you ask. ANALYZE Your AI data analyst. On demand. Ask AI a simple question, and it will use your real metrics, definitions, and historical context to give you insights that are accurate, explainable, and reliable enough for everyday decisions. Ask questions about revenue trends, user behavior, or campaign performance Get clear explanations, not just raw numbers Try with Claude INGEST Bring new data to Databox, instantly. Push new data directly from your AI tool into Databox to get clean, structured, and ready-to-use datasets. Then build metrics you can visualize alongside your data. No pipelines or cleanup work. Upload a messy CSV and ask AI to clean and standardize it Pull data from an API and store it in Databox Add custom internal metrics without setup Try with Claude AUTOMATE Insights turned into automated actions. Because AI stays connected to your systems, insights can be turned into recurring summaries, updates, follow-ups, and workflows",
+  "pricing_signals": [
+    "free trial",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:20",
+  "description_ja": "Claude や ChatGPT 上で自社のビジネスデータと対話できる AI データ分析コネクタ",
+  "summary_ja": "Databox に集約した売上・広告・パイプライン等の指標を、Claude/ChatGPT/Cursor/n8n から自然言語で質問し、指標定義や履歴文脈に基づいた信頼できる回答を得る MCP サーバー。既存 Databox の有料プランに付帯する追加機能。",
+  "tldr_ja": "MCP は国内で 2026 年の本命技術だが、本体 Databox という BI 基盤への依存が前提で、単体の個人開発機会は薄い。",
+  "review_guide_ja": {
+    "what": "Databox（マーケ/エージェンシー向けクラウド BI）の蓄積データを、MCP 経由で Claude・ChatGPT・Cursor・n8n 等の AI ツールから自然言語で照会・分析できるようにする機能。「先週なぜ広告費が急増したか」「Google Ads ダッシュボードを分析して」といった質問に、指標定義・履歴トレンド・業務文脈を踏まえた回答を返す。CSV や API からのデータ投入（INGEST）、相関や異常検知などの数値計算（ANALYZE）、n8n/Make 連携による定期サマリ・アラートの自動化（AUTOMATE）が主な用途。ダッシュボード構築や SQL 記述なしで使え、接続は約 60 秒、全有料プランに無償付帯。130+ のデータ連携と 20,000+ チームの導入実績が訴求点。",
+    "for_who": "マーケティングエージェンシー、社内マーケ/グロースチーム、複数クライアントの KPI レポートを抱える運用担当者。既に Databox を BI ダッシュボードとして利用している、または導入を検討している中小〜中堅の事業者が中心。データチームを持たず、AI ツールで日常的に意思決定する非エンジニア層が想定ユーザー。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "MCP サーバー自体は仕様公開済みで実装容易だが、価値の源泉は Databox 側の 130+ 連携と「ガバナンスされた意味層（指標定義・履歴）」にある。データ基盤を伴わない単純な MCP ラッパーは差別化できない。"
+    },
+    "signals": [
+      "MCP は国内有識者が満場一致で 2026 年ブレーク技術グランプリに選出、追い風が明確",
+      "2 月ソフトローンチ後の実利用事例が豊富（レポート時間 96% 削減等）で需要が実証済み",
+      "ダッシュボード/SQL 不要・接続 60 秒という低い導入摩擦",
+      "n8n/Make 連携による分析の自動化（AUTOMATE）まで踏み込んだ設計"
+    ],
+    "concerns": [
+      "価値が本体 Databox に強く依存し、MCP は単なる接続層。個人開発で再現するには BI 基盤ごと作る必要がある",
+      "国内では Power BI/Tableau/Looker が支配的で、Databox 自体の国内認知が極めて低い",
+      "Codatum Agent・見える化エンジン・Tableau Pulse 等、国産/大手の自然言語分析が既に台頭",
+      "AI に自社ビジネスデータを接続するため、個情法上のデータ取扱い・越境移転への配慮が必要"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "MCP は国内有識者が満場一致で 2026 年ブレーク技術に選出。freee/SmartHR/Sansan/MiiTel 等が続々と MCP サーバーを公開し、AI でのデータ分析・業務連携への需要は顕在化。一方「BI データを AI で照会」という具体ニーズの国内シグナルはまだ限定的で、需要は大枠で強いが用途特化では中庸。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "自然言語データ分析は国産 Codatum Agent・見える化エンジン・b→dash、大手 Tableau Pulse/Power BI/Zoho Zia が既に提供。BI 領域は Power BI/Tableau/Excel/Looker Studio/Qlik が国内シェア上位で飽和気味。MCP 連携自体も主要 SaaS が自前で実装し始めており、第三者参入余地は狭い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "自社ビジネスデータ（売上・顧客・広告）を海外 SaaS と AI に接続するため、個情法のクラウド取扱い判定・越境移転規制（27条/28条）・安全管理措置・外的環境の把握が論点。個人データを扱わない設計なら同意不要だが、企業の機微データ流出懸念が導入障壁。実装不能ではないが配慮必須。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "MCP/API 中心の構造化レイヤーで、UI 改修より日本語プロンプト対応・指標定義の和訳が中心。ただし回答の自然さや国内データソース（国産 SaaS）連携の追加が必要で、純粋な API ラッパーよりは手数がかかる。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本企業は依然ダッシュボード/Excel 文化が強く、AI に基幹データを接続して意思決定を委ねる商習慣は途上。データガバナンス・稟議・情報システム部門の関与が重く、PLG 的なボトムアップ導入が進みにくい。検索で明確な普及根拠は未確認のため中庸。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Codatum Agent（株式会社CODATUM）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000027.000148801.html",
+        "note": "国産の次世代 BI。自然言語で「月次売上を集計してグラフ化」等を指示でき、AI が SQL・ノートブックを自動生成。AI データ分析エージェントをベータ提供し、Databox MCP と用途が直接競合。"
+      },
+      {
+        "name": "見える化エンジン",
+        "url": "https://www.itmedia.co.jp/itselect/ai-data-analysis/",
+        "note": "日本語特化の国産データ可視化/分析 AI。蓄積データをノーコードでグラフ・ダッシュボード化し、日本語の自然言語入力に対応。国内業務フロー最適化・セキュリティを強みとする。"
+      },
+      {
+        "name": "Tableau Pulse / Power BI（自然言語分析）",
+        "url": "https://www.itreview.jp/categories/bi",
+        "note": "国内シェア上位の BI。Tableau Pulse は KPI 変化を自動検知し AI が文章で説明、Power BI も自然言語操作に対応。既存導入基盤が厚く、AI 分析を内製で取り込みつつある。"
+      },
+      {
+        "name": "b→dash",
+        "url": "https://www.itmedia.co.jp/itselect/ai-data-analysis/",
+        "note": "ノーコードのオールインワン データマーケティングクラウド。CDP/MA/BI/Web 接客を SQL 不要の GUI で提供し、国内マーケ部門に広く浸透。データ分析の受け皿として競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（クラウド取扱い・越境移転・安全管理措置）",
+        "impact": "顧客や売上データに個人データが含まれる場合、海外 SaaS/AI への連携が外国第三者提供（28条）や委託（27条5項）に該当しうる。クラウド事業者が個人データを取り扱わない設計なら本人同意不要だが、契約条項とアクセス制御の整備、外的環境の把握、漏えい時報告義務への対応が必要。"
+      }
+    ],
+    "opportunity": "国内独自の角度としては、(1) 国産 SaaS（freee/マネーフォワード/kintone/SmartHR/Sansan 等、MCP 対応が進む基幹データ）を束ねて AI から横断照会できる「日本企業向けデータハブ＋MCP」、(2) 個情法・越境移転に配慮し国内リージョン完結・データを AI に渡さずクエリ結果のみ返す設計でガバナンス懸念を解消、(3) 情シス稟議を通しやすい監査ログ・権限管理を標準装備。Databox の海外データソース偏重と国内認知の薄さを逆手に、国産 SaaS 連携と法令準拠を武器にニッチを取りに行ける。ただし BI 基盤ごと構築する重さがあり個人開発には不向き。",
+    "rationale": "MCP は 2026 年の国内本命技術で需要の追い風は強く、AI で自社データを分析したいニーズも顕在化しつつある。しかし Databox MCP の本質的価値は本体 BI（130+ 連携・指標の意味層）に依存し、MCP は接続層に過ぎない。国内では Power BI/Tableau/Looker が BI 市場（2025 年度約 8,960 億円規模）を支配し、自然言語分析も Codatum・見える化エンジン・Tableau Pulse・b→dash 等が先行。主要国産 SaaS も自前 MCP を実装し始めており、海外 BI コネクタが日本で単独で勝つ角度は狭い。法令面では基幹データの越境移転・個情法配慮が導入障壁。総じて「市場としては有望だが、Databox という特定プロダクトの日本展開、ないし個人開発での模倣機会は限定的」。watch 妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "国内 SaaS 型 BI の相場は 1 ユーザー月額数千〜1.5 万円、GoodData 等で月額 4 万円規模。本体 Databox は Pro $199/Growth $499/Premium $999 と高め。法人 BI 課金には実績があるが、MCP 機能単体は付加価値であり単独課金は難しい。基盤を伴わない個人開発では ARPU 確保の壁が厚い。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内ビジネスアナリティクス市場は 2025 年度約 8,960 億円と広大で、中小企業の BI 導入も進展中。ただし「BI データを AI/MCP で照会」というサブセグメントに限ると対象は絞られ、かつ既存 BI ベンダーが内製で取り込むため第三者の取り分は限定的。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "MCP/AI 文脈は Qiita/Zenn/X で発信が活発で PLG の素地はある。一方、基幹データ接続は情シス稟議・セキュリティ審査を伴い、ボトムアップ導入が進みにくい。エージェンシー経由の横展開は有効だが、純粋なセルフサーブでの法人獲得はハードルが高い。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "MCP は 2026 年に一気に主流化し、国産 SaaS・大手 BI が自前で MCP/自然言語分析を実装する競争が既に進行中。Databox 本体の国内進出は明確な兆候が検索で未確認だが、後発で参入する時間窓は狭まりつつある。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "BI データ連携・MCP サーバーは多数のデータソース API 変更・トークン管理・障害対応が継続発生し、法人向け SLA 期待値も高い。基幹データを扱う性質上、セキュリティ/可用性の監視負荷が大きく、個人運用での手離れは難しい。"
+      }
+    },
+    "rationale": "事業成立性は低め。価値の核が本体 BI 基盤にあるため、個人開発者が Databox MCP 単体を模倣しても ARPU を取れる差別化が作れない。国内 BI 市場は大きいが、自然言語/MCP 分析は国産（Codatum・見える化エンジン・b→dash）と大手（Power BI・Tableau Pulse）が先行し、主要 SaaS も自前 MCP を実装中で時間窓が狭い。基幹データ接続ゆえ GTM は情シス審査を伴い PLG が効きにくく、運用も多数 API 連携・セキュリティ監視で個人の手離れが困難。仮に参入するなら『国産 SaaS 横断＋法令準拠＋監査ログ』のニッチに絞る必要があり、それでも BI 基盤構築の重さが残る。個人開発の事業機会としては no_go 寄りで、本体プロダクト保有者の機能拡張としてのみ合理的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 0,
+      "plans": [
+        "（個人開発での単独課金は非推奨）参考: 既存 BI 基盤を持つ場合のみ、本体プラン月額 1〜3 万円に MCP 機能を無償付帯し ARPU 底上げに使う",
+        "参考相場: 国内 SaaS 型 BI は 1 ユーザー月額 3,000〜15,000 円、データ量課金型で月額 4 万円規模"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内マーケティングエージェンシー・社内グロース/マーケチームのうち、複数データソースの KPI を扱い AI ツールを日常利用する中小〜中堅事業者。基幹データを既にクラウド BI に集約済みの層が中心。",
+      "target_count": 5000,
+      "capture_pct_year3": 1,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn での MCP×データ分析の技術発信（PLG の入口）",
+      "X での個人発信・AI 業務自動化コミュニティへの露出",
+      "マーケティングエージェンシー経由のクライアント横展開",
+      "n8n/Make 等の自動化ツールコミュニティとの連携訴求"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "価値の核が本体 BI 基盤に依存し、MCP 単体では差別化不能。個人開発で再現するには BI 連携基盤ごと構築する重さがあり、投資対効果が見合わない。",
+      "国産（Codatum・見える化エンジン・b→dash）と大手（Power BI・Tableau Pulse）が自然言語分析を先行提供。主要国産 SaaS も自前 MCP を実装中で、後発の取り分が急速に縮小。",
+      "基幹/顧客データを海外 SaaS・AI に接続するため、個情法のクラウド取扱い・越境移転・安全管理措置への対応が必須。情シス審査が GTM の摩擦となり PLG が効きにくい。",
+      "多数のデータソース API 変更・トークン管理・セキュリティ監視が継続発生し、法人 SLA 期待値も高い。個人運用での継続が困難。",
+      "Databox 自体の国内認知が極めて低く（検索で日本展開の兆候未確認）、市場教育コストが高い。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

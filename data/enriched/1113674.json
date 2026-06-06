@@ -1,0 +1,243 @@
+{
+  "name": "MCP Bridge by Appfactor",
+  "description": "Connect any API to any AI agent",
+  "ph_url": "https://www.producthunt.com/products/mcp-bridge-by-appfactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/WGVXQYBLFVKRIK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-29T07:01:00Z",
+  "upvotes": 208,
+  "comments": 32,
+  "topics": [
+    "API",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "2227477",
+      "name": "Knarik Avanesyan",
+      "twitterUsername": "appfactorio",
+      "headline": ""
+    },
+    {
+      "id": "9692292",
+      "name": "Keith Neilson",
+      "twitterUsername": null,
+      "headline": "Co-Founder and CEO of AppFactor. "
+    },
+    {
+      "id": "9821241",
+      "name": "Ernst Weijers",
+      "twitterUsername": null,
+      "headline": "Chief of Staff. Organises MCP Bridge Ops"
+    },
+    {
+      "id": "3792206",
+      "name": "Gabriel Ciuloaica",
+      "twitterUsername": null,
+      "headline": "CTO and Co-Founder "
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi builders!</p><p><br>Keith here, CEO and co-founder of AppFactor. Really excited to ship this one.<br><br><strong>The story</strong><br>We built MCP Bridge for our own need, not an idea.<br>At AppFactor we've spent years building deterministic tools for an orchestration system of agents that deliver autonomous software maintenance. Infra and software discovery, scanning orchestration, build engines, deployment automation. As we layered our upcoming agentic platform (ForgeCatalyst) on top to harness these tools, we hit the wall every team building production agents eventually hits. Security, governance, cost/token usage, observability...<br>The AppFactor system requires meaningful validations, in environments where governance, security and controls are paramount when acting on customer code. With large complex API's with many tools, comes the next challenge - context constraints and efficiencies and multiple protocols to support.<br>The standard fix is to hand-build a dedicated MCP server for every API. This doesn't scale. We know we are not alone with our requirements and given the domain we operate in which is all about software maintenance, legacy transformation and the eternal battle of trying to bridge the past to the future. We recognised that not all systems have clean, well presented OpenAPI spec API's. There are many API protocols, and almost all API's were indeed built before agents and LLM's became an exciting real world proposition. That poses challenges in how these tools are invoked and consumed. So we built MCP Bridge to address all of these challenges.<br>You know the rest of the story.<br><br><strong>What it does</strong><br>Point it at any REST, GraphQL, SOAP, or gRPC API. It auto-generates fully-typed MCP tools with behavioral annotations and smart response processing. Self-hosted. Open source. Credentials never leave your environment.<br><br><strong>What's shipped</strong></p><ul><li><p>4 API types, end-to-end</p></li><li><p>6 auth methods (Bearer, Basic, API key, OAuth2, Cognito SRP)</p></li><li><p>Human-in-the-loop approval for destructive ops</p></li><li><p>Code Mode: 3 meta-tools replace 100+ definitions, ~98% less context</p></li><li><p>Analytics: latency, token cost, errors per tool</p></li><li><p>Built in Rust (Dioxus + Axum), PostgreSQL, in a container</p></li></ul><p><br><br>We're in the comments all day. What APIs would you connect first? And how should we improve?<br><br>Happy building!<br><br>Keith<br>→ MCP Bridge: <a href=\"https://mcp-bridge.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://mcp-bridge.ai/</a><br>→ Docs: <a href=\"https://docs.mcp-bridge.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://docs.mcp-bridge.ai/</a><br><br>Thanks <a href=\"https://www.producthunt.com/@fmerian\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@fmerian</a> for hunting us!</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Most \"connect any API\" tools mean \"connect any API that already has an OpenAPI spec and clean auth.\" What does MCP Bridge actually do when you're dealing with something messier, like a legacy REST endpoint with inconsistent error codes or an API that requires a multi-step auth handshake before you can do anything useful?</p><p>Congrats for the launch!</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>the auto-generated schema approach is smart. biggest pain point with MCP right now is writing tool definitions by hand for every API you want to connect. curious how it handles APIs with inconsistent response formats across endpoints?</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Point MCP Bridge at any REST, GraphQL, SOAP, or gRPC API. It auto-generates MCP tool definitions with typed schemas, auth, rate limiting, and response processing. Your LLM agents call enterprise APIs through one standard interface.",
+  "featured_at": "2026-05-29T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/839ba5df-1e1f-4fc0-b064-f69565d45b70.svg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1f04441e-1424-46fd-b241-5a19809dc7b3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a52817fe-23d2-4925-bdec-25506fe10c24.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a2e0f0ba-0f5c-4da5-8bd6-8872772860ab.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f7eb4ba4-b792-4cbc-ae34-2a676f4adfcc.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b5a6c0f6-df41-4f0c-804f-27ed0ff5d14f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fc68ce7c-0a79-4050-b436-71498010f3a9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ae0abf77-0ac1-4c75-ba46-b6d06b10ec8d.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/1e6bd1f5-8182-41a9-af26-eb3aa823e1cf.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:49",
+  "landing_meta": "MCP Bridge — Connect any API to any AI agent — AppFactor MCP Bridge unlocks enterprise data for scalable AI agents and workflows. Make existing APIs AI-ready instantly—without creating long-term technical debt.",
+  "landing_text": "MCP Bridge — Connect any API to any AI agent Connect any API. To any AI agent. Auto-generate Model Context Protocol tool definitions from any REST, GraphQL, SOAP, or gRPC API. Self-hosted in minutes. No glue code. No rewrites. try mcp bridge try mcp bridge book a demo book a demo Self-hosted · Free trial · No credit card required OpenAI Claude Mistral Gemini Any LLM GraphQL gRPC SOAP OpenAPI Any API Deploy on Get it from Microsoft Azure Marketplace Available in AWS Marketplace AI that delivers Legacy and most existing APIs weren't designed for a world where the consumer is an LLM. Schemas lack semantic context, tool boundaries are ambiguous, and payloads burn through context windows. Expose, govern, and optimize LLM, MCP, and API resources through a single point of control — eliminating integration complexity without creating and maintaining hundreds of individual MCP servers. for developers Ship an MCP server in 2 minutes. Not 2 weeks. Stop writing tool definitions by hand. Point MCP Bridge at any schema URL and every operation becomes a fully typed, annotated MCP tool — ready for Claude, GPT, Gemini, or any MCP-compatible client. Docker Config Output Copy # Pull and run MCP Bridge $ docker run -d \\ --name mcp-bridge \\ -p 8080:8080 \\ -v ./bridge.yaml:/app/config.yaml \\ appfactor/mcp-bridge: latest # Point any MCP client at the endpoint $ curl https://localhost:8080/mcp/tools → 42 tools generated · ready apis : - name : \"payments\" protocol : \"rest\" schema : \"https://api.acme.io/openapi.yaml\" auth : type : \"oauth2\" flow : \"client_credentials\" code_mode : true # 98% less context observability : otel : true log_level : \"info\" # Auto-generated tools, ready for any LLM tools_generated : 42 protocols : [rest, graphql] annotations : read_only : 28 idempotent : 31 destructive : 4 avg_tokens_per_tool : 487 code_mode_tokens : 960 # vs ~48,000 raw Schema-driven OpenAPI 3, GraphQL introspection, WSDL, and .proto files — all parsed automatically. Self-hosted Docker container on ",
+  "pricing_signals": [
+    "free trial",
+    "self-hosted"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:51",
+  "description_ja": "任意のAPIをAIエージェント向けMCPサーバーに自動変換するセルフホスト型ツール",
+  "summary_ja": "REST/GraphQL/SOAP/gRPCのAPIにポイントするだけで、型付きのMCPツール定義・認証・レート制限・応答最適化を自動生成。LLMエージェントが既存の社内APIを単一の標準インターフェース経由で安全に呼び出せる。Rust製・OSS・セルフホスト。",
+  "tldr_ja": "国内MCP化需要は顕在だが、OSSセルフホスト×個人ではマネタイズ困難、homula等の競合も先行。watch止まり。",
+  "review_guide_ja": {
+    "what": "任意のAPI（REST/GraphQL/SOAP/gRPC）のスキーマURLを指定するだけで、各オペレーションを型付き・アノテーション付きのMCPツールへ自動変換するセルフホスト型ゲートウェイ。OpenAPI3・GraphQLイントロスペクション・WSDL・.protoを自動解析し、6種の認証（Bearer/Basic/APIキー/OAuth2/Cognito SRP）に対応。破壊的操作にはHuman-in-the-loop承認、Code Mode（3メタツールで100+定義を置換、約98%コンテキスト削減）、ツール別のレイテンシ・トークンコスト・エラー分析を備える。Rust（Dioxus+Axum）+PostgreSQLでDockerコンテナ提供。典型ユースケースは、社内の大量の既存API・レガシーAPIをAIエージェントから安全・低コストに呼び出せるよう一元的にMCP化すること。認証情報は自環境から外に出ない設計。",
+    "for_who": "AIエージェントを本番運用するエンタープライズの開発・プラットフォームチーム。多数の社内API/レガシーAPIを抱え、セキュリティ・ガバナンス・コスト管理を重視する組織。MCPサーバーを手書きでメンテしたくない開発者、n8n/Dify/LangChain等でエージェントを構築する技術者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "4プロトコル対応のスキーマ解析、Code Modeによるコンテキスト圧縮、6種認証、HITL承認、可観測性まで含む。Rust製で堅牢性も高く、個人が同等品質を再現するのは困難。"
+    },
+    "signals": [
+      "国内SaaS100社の約65%にMCPサーバーが未整備で『API→MCP化』需要が顕在",
+      "認証情報がローカルを出ないセルフホスト設計はAPPI/社内統制と相性が良い",
+      "PHコメントでも『手書きツール定義の手間』が最大の痛点として支持",
+      "Azure/AWSマーケットプレイス掲載済みで配布チャネルを確保",
+      "Code Modeの約98%コンテキスト削減はトークンコスト面の明確な差別化"
+    ],
+    "concerns": [
+      "OSS×セルフホストでマネタイズの壁が厚い（寄付は月数千ドル止まりが相場）",
+      "homula『Agens MCP Hub』など国内マネージド競合が先行・国内SaaS連携で優位",
+      "Speakeasy/Stainless/Cloudflare Gram等グローバル競合も多数で飽和傾向",
+      "買い手がエンタープライズで、個人開発者のPLGリーチが難しい",
+      "本番運用ではSLA・サポート期待が高く個人運用の手離れが困難"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 7,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "2026年はエンタープライズAIエージェント本格導入期で、国内SaaS100社のうち約65%がMCPサーバー未整備という調査もあり『既存API→MCP化』の需要シグナルは明確。ガバナンス・セキュリティ文脈の記事も多数。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "国内ではhomula『Agens MCP Hub』が先行し、海外もSpeakeasy/Stainless/Cloudflare Gram/各種OSS（AutoMCP、openapi-mcp-generator）が乱立。MCP化ツールは既に飽和傾向で差別化が必要。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "該当する直接的な業法はなく、認証情報が自環境を出ないセルフホスト設計は個人情報保護法・社内データ統制と整合的でむしろ優位。ただしエージェント運用全体ではプロンプトインジェクション等の運用リスク管理が必要。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "スキーマ/API駆動でUI比重が低く、UIとドキュメントの日本語化が中心。深いUX改修は不要。Code Modeや認証も構造化中心で言語非依存。日本語ドキュメント整備が主作業。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "セルフホスト・OSSは情シスのデータ持ち出し懸念に合致する一方、国内エンタープライズはマネージド提供・SIerサポート・契約/請求体制を好むため、個人OSS提供のままでは商習慣との摩擦が残る。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "homula『Agens MCP Hub』",
+        "url": "https://www.homula.jp/blog/mcp-hub-agens-overview",
+        "note": "あらゆるAIエージェントから50+のSaaS・基幹システムに即接続するMCPプラットフォーム。マネーフォワード/freee等の国内SaaS連携、Trust Score・統合請求・監査ログ・RBABを備えマネージドで提供。国内で最も直接的な競合。"
+      },
+      {
+        "name": "Speakeasy / Stainless（海外）",
+        "url": "https://www.speakeasy.com/blog/generate-mcp-from-openapi",
+        "note": "OpenAPIからMCPサーバー/SDKを生成する有力プレイヤー。StainlessはAnthropic/OpenAI等のSDK基盤として実績。日本法人窓口は薄いが英語で十分利用可能なため国内開発者も流入。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（APPI）",
+        "impact": "エージェントが社内APIを通じ個人データを扱う際は取得目的・委託・越境移転の管理が必要。本製品はセルフホストで認証情報・データが自環境を出ない設計のため、クラウド型より統制が取りやすく規制適合上はむしろ有利。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "セルフホストの開発ツールとして提供する限り、第三者の通信を媒介する電気通信役務には通常該当しない。将来クラウド/マネージド版で他社間データを仲介する形態にすると外部送信規律等の検討が必要になる可能性。"
+      }
+    ],
+    "opportunity": "勝ち筋は『国内エンタープライズのデータ持ち出し懸念』に正面から応えるセルフホスト×日本語サポートの一体提供。homulaがマネージドSaaS連携で攻める一方、本製品はレガシー/社内API・SOAP/gRPCまで含む自環境完結という別軸を持つ。差別化角度は、(1)Code Modeのトークンコスト削減を定量訴求し国内のLLM運用コスト意識に刺す、(2)金融・公共・製造などオンプレ志向業界向けに『監査ログ+HITL承認+自環境完結』のコンプライアンステンプレを用意、(3)日本語ドキュメント+導入支援を有償化。OSS本体は集客に使い、収益は導入支援・サポート契約・将来のホスト版に寄せる。",
+    "rationale": "市場機会としては需要(8)・規制適合(8)・ローカライズ容易性(8)が高く、テーマ自体は国内でも明確に立ち上がっている。国内SaaSの約65%がMCP未対応という空白は『API→MCP化』需要の裏付けで、エージェントのガバナンス/セキュリティ議論も活発。一方で競合(4)が最大の弱点で、国内はhomula『Agens MCP Hub』がマネージド+国内SaaS連携で先行し、海外勢とOSS群も乱立。商習慣(6)では、セルフホストはデータ統制に合うが、国内大企業はサポート・契約・請求の整った提供形態を好むため個人OSSのままでは採用障壁が残る。総じてテーマは有望だが差別化と提供形態の設計次第で、現時点はwatch（市場観察+ニッチ角度の検証）が妥当。レガシー/オンプレ志向業界への自環境完結訴求に絞れば隙間は残る。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 4,
+        "reason": "OSS×セルフホストはマネタイズの壁が厚い。GitHubスポンサーは1万スター超でも月数千ドル止まりが相場で、収益化はサポート契約・導入支援・ホスト版が現実線。買い手はエンタープライズで価格は取れるが、無償セルフホストとの線引き設計が難しい。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内のエンタープライズ+開発者ツール市場は相応に大きく、AIエージェント導入の拡大でTAMは成長中。ただし真の買い手は社内APIとエージェント施策を持つ中堅〜大企業に絞られ、無制限に広いわけではない。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "セキュリティ・ガバナンス重視のエンタープライズ購買は、検証・稟議・SIer連携が絡みPLG一本では刺さりにくい。OSSで開発者の関心は集めやすいが、収益化につながる商談化は人手・人脈を要し個人には重い。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "MCP化ツールは既に国内外で乱立し、homulaも資金力ある形で先行。テーマの旬は来ているが先行者と本家級が動いており、個人参入の時間窓は狭い。差別化なき後発参入は埋もれるリスクが高い。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "セルフホスト中心のため運用負荷自体は本体提供側に寄りにくいが、本番でエージェントが社内APIを叩く性質上、導入支援・障害対応・セキュリティ問い合わせ・SLA期待が高く、有償サポートを売るなら個人の手離れは難しい。"
+      }
+    },
+    "rationale": "事業成立性は中庸〜やや低い。最大の難所はマネタイズ(4)とGTM(4)で、OSSセルフホストという形態が個人開発者の収益化と販売を同時に難しくする。寄付モデルは弱く、収益はサポート/導入支援/ホスト版に依存するが、それらはエンタープライズ購買特有の検証・稟議・サポート体制を要し、人手の薄い個人には重い。市場規模(7)はAIエージェント拡大で底堅いものの、真の買い手は社内API資産とエージェント施策を持つ中堅〜大企業に限られる。タイミング(4)も、国内homulaと海外有力勢・OSS群が既に動いており時間窓は狭い。運用(5)は本体はセルフホストで軽い反面、有償サポートを成立させようとすると手離れしにくい。結論として、純粋な個人事業として黒字化を目指すのは難度が高く、ニッチ業界特化+有償サポートに絞るか、副業的にOSS集客→受託/支援に転換する設計でなければ厳しい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 30000,
+      "plans": [
+        "OSS Self-hosted: 無償（本体・Dockerコンテナ、集客の中核）",
+        "Pro Support: ¥30,000/月（優先サポート・導入相談・アップデート支援）",
+        "Enterprise: ¥200,000〜/月（SLA・監査ログ運用支援・オンプレ導入伴走）※根拠未確認の参考値",
+        "導入支援スポット: ¥300,000〜/件（初期構築・既存API棚卸し）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "社内API/レガシーAPI資産を持ち、AIエージェントを本番導入する国内の中堅〜大企業（金融・公共・製造などオンプレ/データ持ち出し懸念の強い業界）。情シス・プラットフォームチームが意思決定者。n8n/Dify/LangChainでエージェントを内製する技術組織も含む。",
+      "target_count": 3000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 450000
+    },
+    "recommended_gtm": [
+      "Zenn/Qiita で『既存API→MCP化』『Code Modeでトークン98%削減』の技術記事連載",
+      "GitHub OSS で開発者の関心を集めスター→Issue→商談化の導線設計",
+      "X 個人発信＋MCP/AIエージェント系コミュニティでの事例共有",
+      "金融・製造などオンプレ志向業界向けの『自環境完結+監査ログ』ホワイトペーパー",
+      "Azure/AWSマーケットプレイス掲載を活かした情シス向け露出（既存）"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "マネタイズ難：OSSセルフホストは寄付・無償利用に流れやすく、有償サポート/ホスト版へ転換しないと収益化しない。個人では商談化の人手が不足。",
+      "競合先行：homula『Agens MCP Hub』が国内SaaS連携+マネージドで先行し、海外勢・OSS群も乱立。差別化なき後発は埋もれる。",
+      "本家・大手参入：Cloudflare等プラットフォーマーやLLMベンダーがMCPゲートウェイを標準機能化すると、独立ツールの存在価値が薄れる時間窓の狭さ。",
+      "エンタープライズ運用負荷：本番で社内APIを叩く性質上、障害対応・セキュリティ問い合わせ・SLA期待が高く、有償化すると個人の手離れが困難。",
+      "技術再現性の高さの裏返し：4プロトコル・Code Mode等は本家AppFactorが強く、個人が同等機能で差別化するのは困難。"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 6,
+  "japan_fit_at": "2026-06-06T11:20:00Z",
+  "review_guide_at": "2026-06-06T11:20:00Z",
+  "business_viability_at": "2026-06-06T11:20:00Z",
+  "advisor_view_at": "2026-06-06T11:20:00Z"
+}

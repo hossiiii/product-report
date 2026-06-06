@@ -1,0 +1,265 @@
+{
+  "name": "Supaboard 3.0",
+  "description": "AI data analysts that understand your business",
+  "ph_url": "https://www.producthunt.com/products/supaboard-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/AV6HLWXM6B3HLF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-25T07:01:00Z",
+  "upvotes": 335,
+  "comments": 39,
+  "topics": [
+    "SaaS",
+    "Data & Analytics",
+    "Data Visualization"
+  ],
+  "makers": [
+    {
+      "id": "8750230",
+      "name": "Deepak Singh",
+      "twitterUsername": null,
+      "headline": ""
+    },
+    {
+      "id": "8222564",
+      "name": "Riya Singh",
+      "twitterUsername": null,
+      "headline": "I am a product designer\n"
+    },
+    {
+      "id": "7036770",
+      "name": "Aritra Ghosh",
+      "twitterUsername": null,
+      "headline": "Founder @supaboard, storytelling w. data"
+    },
+    {
+      "id": "8356923",
+      "name": "Diptanshu Mahish",
+      "twitterUsername": null,
+      "headline": "Frontend dev at Supaboard"
+    },
+    {
+      "id": "7881453",
+      "name": "Sayantan Guha",
+      "twitterUsername": null,
+      "headline": "Backend Engineer of Supaboard "
+    },
+    {
+      "id": "7387185",
+      "name": "Subhrajyoti Modak",
+      "twitterUsername": null,
+      "headline": "Software Whisperer since 10 | Supaboard"
+    },
+    {
+      "id": "8353849",
+      "name": "Atul Kumar Sahoo",
+      "twitterUsername": null,
+      "headline": "Just an explorer"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey <strong>Product Hunt</strong> 👋</p><p></p><p>We launched an earlier version of <a href=\"https://www.producthunt.com/products/supaboard-ai\" data-node-type=\"mention\" data-mention-type=\"product\" data-mention-id=\"supaboard-ai\" target=\"_blank\" rel=\"noopener\">@Supaboard AI</a> here before, and since then <strong>we’ve been focused</strong> on one thing: making business intelligence faster, more accurate, and easier for every team to use.<br></p><p>Traditional BI is still too technical for most teams. Too much <strong>SQL, too many dashboards, and too much waiting for answers. We built Supaboard to change that.</strong><br></p><p>Since our last launch, Supaboard has evolved into a more complete AI-native BI platform.</p><p></p><p><strong>What’s new in Supaboard 3.0:</strong></p><p>⚡ Completely redesigned UI and smoother analytics workflows</p><p>⚡ Much faster performance and response times</p><p>⚡ More accurate AI answers powered by business-logic-aware agents</p><p>⚡ 700+ data connectors across databases and business tools</p><p>⚡ MCP support and built-in tools for more flexible AI workflows</p><p>⚡ Stronger governance, security, and controlled data access</p><p></p><p>Today, <a href=\"https://supaboard.ai/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Supaboard</strong></a><strong> is used by 1000+ teams</strong>, with <strong>thousands of dashboards created</strong> to help teams make faster decisions with data.</p><p></p><p><strong>You can</strong><a href=\"https://auth.supaboard.ai/onboard/register\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong> sign up for free</strong></a><strong>, start a trial, or book a demo to explore Supaboard.</strong></p><p></p><p>We’d genuinely love feedback from teams working with analytics, dashboards, reporting, or AI workflows 🙌</p><p></p><p>Thanks for checking out <strong>Supaboard 3.0!</strong></p><p><strong>— Team Supaboard</strong></p>",
+      "votesCount": 14,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is the product I wish I had in my previous job, trying to manage so many different dashboards and piece together what's happening in multiple Excel sheets. What's the biggest use case you've seen for Supaboard so far? And what is the most surprising thing you've seen someone use Supaboard for?</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<blockquote><p>Love products that reduce dashboard dependency for non-technical teams. The UI looks clean too.</p></blockquote><p></p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Supaboard helps your team turn business data into answers faster. Skip SQL, dashboard digging, and report delays. Ask questions in plain English, analyze data, and generate dashboards in minutes.",
+  "featured_at": "2026-05-25T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/ffe53c6b-fa95-4c57-9dbc-d05419657288.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7b701594-c764-4ef7-ae9b-079f66670b92.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/eaf40db7-4b84-4870-90b7-24bdb1b0605f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/33935642-441f-41b5-917d-7c4d6387ab41.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a950818c-55f8-4325-91e3-ee7bd8092e97.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6c4181ce-a4ad-4b2f-8c84-9118d35227cd.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e73487ed-9ce6-4fb3-be98-c7001ab60f4d.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/a31ca958-926b-415d-be2d-f35aafb379be.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:41",
+  "landing_meta": "Supaboard | Transform Your Data into Strategy with AI — Analyze data, ask questions in natural language, and generate dashboards in minutes with Supaboard, an AI Business Intelligence platform for fast decisions.",
+  "landing_text": "Supaboard | Transform Your Data into Strategy with AI Supaboard Pricing Integrations Resources Login Book a demo Start for free Start for free Supaboard Start for free Start for free Supaboard Login Book a demo Start for free Start for free Transform data into strategy with Agent Transform data into strategy with AI Agent Transform data into strategy with Agent AI AI Supaboard agents connects to your business data and delivers insights that explain what changed, why it changed, and the next best actions-instantly, without SQL. Supaboard agents connects to your business data and delivers insights that explain what changed, why it changed, and the next best actions-instantly, without SQL. Start for free Start for free Book a demo Book a demo Product Builders Growth Marketing Revenue & Finance Founders Data Analytics Product Builders Growth Marketing Revenue & Finance Founders Data Analytics Product Builders Growth Marketing Revenue & Finance Founders Data Analytics Trusted by 100+ companies TEXAS The University of Texas at Austin \" S u p a b o a r d h a s f u n d a m e n t a l l y c h a n g e d h o w w e r u n o u r r e v e n u e c y c l e . W h a t e a r l i e r t o o k o u r t e a m o v e r f o u r h o u r s n o w t a k e s u n d e r t h r e e m i n u t e s , a n d w e ’ v e l o w e r e d o u r a n a l y t i c s c o s t b y n e a r l y 9 0 % . \" 〜 S a n j i v G a r g , C E O , J i n d a l I n t e l l i c o m , J H C \" W i t h S u p a b o a r d , w e f i n a l l y b r o u g h t a l l o u r d a t a t o g e t h e r . W h a t o n c e t o o k h o u r s n o w t a k e s m i n u t e s . S t e l l a g i v e s u s i n s t a n t i n s i g h t s , h e l p i n g o u r t e a m m a k e f a s t e r , s m a r t e r d e c i s i o n s e v e r y d a y . \" 〜 D i r g h a y u K a u s h i k , C E O , A m b i t i o \"Most data analytics tools are either too complex for everyday users or too basic for meaningful insights. But Supaboard brilliantly bridges this gap.\" 〜 Karthik Puvvada, HC Netl",
+  "pricing_signals": [
+    "free trial",
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:42",
+  "description_ja": "ビジネスを理解するAIデータアナリスト。SQL不要で自然言語の質問からダッシュボードを自動生成するBI。",
+  "summary_ja": "700以上のコネクタで業務データに接続し、自然言語の質問に「何が・なぜ変化したか・次の打ち手」まで答えるAIネイティブBI。SQLやダッシュボード構築なしで、数分でレポート化・可視化できる。",
+  "tldr_ja": "AI-BI需要は国内顕在も巨人＋国産Squadbaseで競争激化、越境データ移転規制も壁。個人開発は厳しめでwatch。",
+  "review_guide_ja": {
+    "what": "業務データ（DB・SaaS等700以上のコネクタ）に接続し、自然言語で「売上はなぜ落ちた？」と聞くと、AIエージェントが変化点・原因仮説・次の打ち手まで提示するAIネイティブBIプラットフォーム。SQLやダッシュボード構築の知識なしで、数分でダッシュボード・レポートを自動生成できる。3.0ではUI刷新・高速化・ビジネスロジック認識エージェント・MCP対応・ガバナンス/データアクセス制御強化を追加。典型ユースケースは、営業・マーケ・経営層など非エンジニアの日常的なKPIモニタリング、異常検知、Excel/複数ダッシュボードの統合。1000以上のチームが利用と主張。",
+    "for_who": "SQLを書けない非技術系の業務担当者（営業・マーケ・財務・経営層）と、ダッシュボード作成依頼の負荷を減らしたいデータチーム。中小〜中堅のデータドリブン経営を目指す企業が主対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "700コネクタ・ビジネスロジック認識エージェント・ガバナンス・MCP対応を備えた本格BI基盤。LLMで自然言語→SQL自体は再現可能だが、信頼できる精度・多数コネクタ・セキュリティを個人で揃えるのは重い。"
+    },
+    "signals": [
+      "PH335 upvote・39コメントと反応良好、1000チーム利用を主張",
+      "自然言語BIは国内でも『2025以降の標準機能』と各メディアが報道、需要顕在",
+      "700+コネクタ・MCP対応で拡張性が高い",
+      "国内BA市場は2025年度8,960億円規模と大きい"
+    ],
+    "concerns": [
+      "Power BI/Tableau/QuickSight等が生成AI機能を内蔵し日本語対応済み、巨人と正面衝突",
+      "国産AIネイティブBI『Squadbase』(Queue社)が直接競合として既存",
+      "業務データ×海外LLMは個情法の越境移転規制が壁、企業審査が厳しい",
+      "BIは導入・データ設計・CSの負荷が高く個人運用に不向き"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内BA市場は2024年度7,830億円→2025年度8,960億円と拡大予測。自然言語でデータに問うAI-BIは『2025以降の標準機能』と複数メディアが報道し、需要シグナルは顕在。一方で『AI-BI』単体の独立需要というより既存BIへのAI機能統合という形で吸収されつつある点は減点。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Power BI(国内シェア首位)・Tableau・QuickSight・Databricks AI/BIが生成AI機能を内蔵し日本語対応済み。さらに国産AIネイティブBI『Squadbase』(Queue社、2025launch)が直接競合として存在。飽和度が高く差別化余地が狭い。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "業務データを海外クラウド/LLMで処理する場合、改正個情法の越境移転規制が論点。同意取得か、ベンダーが個人データにアクセスしない契約・技術的担保が必要。BI自体に固有の規制はないが、企業導入審査で国内データ処理を求められやすく、検索で確認した懸念事項として中庸。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "コネクタ・API・SQL生成が中核で構造化寄りだが、自然言語クエリの日本語精度・敬語/業務用語の解釈、レポート文面の自然さが品質を左右。UIの和訳は容易でも、日本語LLM精度の作り込みが必要で中程度。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "データドリブン経営志向は国内中堅企業で浸透しつつあり相性は悪くない。ただ日本企業はBI導入時にSI・データ設計の伴走や手厚いサポートを期待しがちで、純PLG型セルフサーブとは温度差がある。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Squadbase (Queue株式会社)",
+        "url": "https://www.squadbase.dev/ja",
+        "note": "東京拠点のQueue社が2025年提供開始の国産AIネイティブBI。自然言語で対話しながらSQL/コード不要でダッシュボードを構築・更新する『BI向けバイブコーディング』。Supaboardとほぼ同コンセプトの直接競合。"
+      },
+      {
+        "name": "Microsoft Power BI (Copilot)",
+        "url": "https://www.microsoft.com/ja-jp/power-platform/products/power-bi",
+        "note": "国内導入企業数で首位。生成AI『Copilot』内蔵で自然言語からレポート・可視化を自動生成。M365親和性とコスパが強み。約2,100円/ユーザー〜。"
+      },
+      {
+        "name": "Tableau (Pulse / Einstein Copilot)",
+        "url": "https://www.tableau.com/ja-jp",
+        "note": "国内分析部門で根強い。Tableau Pulse・Einstein Copilotが2025年に日本語対応し、自然言語でのダッシュボード生成・インサイト提示を提供。Creator約11,000〜13,000円/ユーザー。"
+      },
+      {
+        "name": "Amazon QuickSight (Generative BI / Amazon Q)",
+        "url": "https://aws.amazon.com/jp/quicksight/",
+        "note": "AWS提供のクラウドBI。Generative BI機能とAmazon Qで自然言語からダッシュボード自動生成。AWS利用企業に対し標準オプションとして浸透。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（越境移転規制・外国第三者提供）",
+        "impact": "顧客の業務データに個人情報が含まれ、海外サーバ/LLMで処理する場合、改正個情法の外国第三者提供・越境移転規制が論点。本人同意取得、または『ベンダーが個人データにアクセスしない』契約・アクセス制御の技術的担保が必要。国内データ処理（マネージド・セルフホスト等）を求める企業審査が増える点が導入障壁。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "クラウド型でユーザー間のデータ仲介・通信を媒介する形態次第では電気通信事業の届出要否が論点になりうるが、純粋な分析SaaSであれば該当しない可能性が高い。検索で個別の確定根拠は未確認のため影響は限定的と推定。"
+      }
+    ],
+    "opportunity": "勝ち筋は正面の汎用BIではなく『国内データ完結＋日本語業務文脈特化』のニッチ。(1)越境移転を嫌う中堅企業向けに国内リージョン処理を明示し、個情法対応をセールスポイント化。(2)freee/マネーフォワード/kintone/楽天市場/Shopify等、国内業務SaaSへのコネクタを厚くし『日本の業務データに最初から繋がるAI分析』として差別化。(3)経営者・非エンジニア向けに『質問するだけで月次の数字説明が返る』軽量レポート用途に絞り、SI不要のセルフサーブを徹底。汎用大手BIと機能で張り合わず、特定業種(EC・士業・店舗)のテンプレ＋日本語の自然な説明文生成で局地戦に持ち込む。",
+    "rationale": "需要(7)は確かに顕在で国内BA市場も拡大基調だが、それは同時に巨人(Power BI/Tableau/QuickSight/Databricks)が生成AI機能を標準搭載し日本語化を完了させている市場でもある。さらに国産で同コンセプトのSquadbaseが既に走っており、競合(3)は厳しい。規制(5)は固有法令こそ無いが、業務データ×海外LLMの越境移転が企業導入審査の壁になりやすい。localization(6)・business_custom(6)は中程度で、UI和訳より日本語クエリ精度と国内サポート期待への対応が鍵。総じて市場機会としては『需要はあるが座席が埋まりつつある』状態で、個人開発が正面から取るのは不利。japan_fit_score=round(7×0.30+3×0.25+5×0.20+6×0.15+6×0.10)=round(5.05)=5でskip相当。国内データ完結＋業種特化のニッチに絞れば余地は残る。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "BtoBは経費精算可能で価格感度が低くチャーンも低い。BIは月額課金が定着しPower BI約2,100円/ユーザー、Tableau1万円超/ユーザーと単価実績あり。ARPU確保はしやすい一方、無料のLooker Studioや汎用LLMが下限を押し下げ、PLG無料枠からの転換率は読みづらい。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内BA市場8,960億円(2025年度予測)、中小企業336万社と母数は大きい。ただAI-BI単体ではなく既存BIへの統合需要に吸収されがちで、純粋な独立TAMはこれより相当小さく見積もるべき。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "非エンジニア業務担当者が主顧客のため、Qiita/Zennの技術コミュニティ経由PLGが効きにくい。BIは社内データ接続・権限設計を伴い、企業導入では情シス審査やSI伴走を期待されやすく、個人開発者がリーチできる純PLGチャネルは限定的。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "本家相当の機能を持つ大手が既に日本語対応済みで進出済み、国産Squadbaseも先行。時間窓はほぼ閉じかけており、後発個人開発の余地は小さい。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "700+コネクタの保守、LLM精度・コスト管理、データセキュリティ/ガバナンス、企業顧客のSLA・CS期待。BIは障害時の影響が大きく24/7監視に近い負荷で、個人での継続運用は困難。"
+      }
+    },
+    "rationale": "事業成立性は厳しい。monetization(6)・market_size(7)は悪くなく、BtoBの課金耐性と大きな母数は魅力。しかしgtm(4)が弱点で、非エンジニア業務層を主顧客とするBIは技術コミュニティ経由のPLGが効きにくく、企業導入では情シス審査・データ接続・権限設計・SI伴走が絡み個人開発者の到達チャネルが細い。timing(3)は大手が日本語対応済み・国産先行で窓がほぼ閉じている。solo_ops(3)も700コネクタ保守・セキュリティ・SLA・CSと負荷が高く、片手間の継続運用は現実的でない。business_viability_score=round(6×0.25+7×0.20+4×0.25+3×0.10+3×0.20)=round(4.4)=4。仮にやるなら汎用BIを諦め、国内データ完結×特定業種テンプレの極小ニッチに絞り、コネクタ数を絞ってsolo_ops負荷を下げる設計が前提。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: データソース1つ・月50質問・ダッシュボード3枚まで（PLG入口）",
+        "Pro: ¥3,000/ユーザー/月（コネクタ無制限・質問無制限・国内リージョン処理）",
+        "Team: ¥30,000/月〜（権限管理・ガバナンス・複数ワークスペース）",
+        "Enterprise: 個別見積（SSO・監査ログ・セルフホスト/国内データ完結オプション）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "越境データ移転を嫌い国内処理を求める、国内業務SaaS(freee/マネフォ/kintone/楽天/Shopify)を使う中堅・中小企業のデータドリブン志向チーム。とくにEC・士業・多店舗小売の非エンジニア業務担当者。",
+      "target_count": 50000,
+      "capture_pct_year3": 0.3,
+      "monthly_revenue_target_jpy": 450000
+    },
+    "recommended_gtm": [
+      "国内業務SaaS(freee/マネフォ/kintone/楽天)連携テンプレを軸にした連携先マーケットプレイス露出",
+      "『越境移転せず国内データ完結のAI分析』を訴求点にしたBtoBコンテンツSEO",
+      "X・noteで経営者/バックオフィス向けに『数字の説明が秒で返る』ユースケース発信",
+      "業種特化(EC・士業・店舗)のセミナー/ウェビナーでの実演",
+      "freemium無料枠からのセルフサーブ転換(PLG)"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "大手BI(Power BI/Tableau/QuickSight/Databricks)が生成AIを標準搭載し日本語対応済みで、機能差別化が極めて困難。価格・統合力で個人開発は不利。",
+      "国産同コンセプトのSquadbaseが先行しており、後発で同じ土俵に乗ると埋没する。",
+      "業務データ×海外LLMの越境移転が個情法上の障壁となり、企業導入審査で国内データ処理を求められ落選しやすい。",
+      "BIは700+コネクタ保守・LLM精度/コスト・セキュリティ/ガバナンス・SLA/CS負荷が重く、個人での継続運用・24/7対応が現実的でない。",
+      "AI-BI需要が独立カテゴリにならず既存BIへの機能統合に吸収され、独立SaaSとしてのTAMが想定より小さくなる。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T11:30:00Z",
+  "review_guide_at": "2026-06-06T11:30:00Z",
+  "business_viability_at": "2026-06-06T11:30:00Z",
+  "advisor_view_at": "2026-06-06T11:30:00Z"
+}

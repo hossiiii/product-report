@@ -1,0 +1,260 @@
+{
+  "name": "Astra Autonomous Pentest",
+  "description": "AI agents that find, validate, and fix every vulnerability",
+  "ph_url": "https://www.producthunt.com/products/astra-security?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/O3VSUJJCCKGPCG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-04T07:01:00Z",
+  "upvotes": 401,
+  "comments": 55,
+  "topics": [
+    "SaaS",
+    "Developer Tools",
+    "Security"
+  ],
+  "makers": [
+    {
+      "id": "8671966",
+      "name": "Abhishek Krishnan",
+      "twitterUsername": null,
+      "headline": "Leading Growth functions at Astra"
+    },
+    {
+      "id": "5381871",
+      "name": "Ananda Krishna",
+      "twitterUsername": null,
+      "headline": "Co-Founder, Astra Security"
+    },
+    {
+      "id": "8940387",
+      "name": "Saurabh Miglani",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "8653044",
+      "name": "Shelton Jacob",
+      "twitterUsername": null,
+      "headline": "Leading marketing @Astra Security"
+    },
+    {
+      "id": "8922610",
+      "name": "Viranchi Dadhich",
+      "twitterUsername": null,
+      "headline": "Growth Marketer"
+    },
+    {
+      "id": "257900",
+      "name": "Shikhil Sharma",
+      "twitterUsername": "shikhilsharma",
+      "headline": "CEO, Astra Security"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋<br><br>I'm Shikhil, the founder of Astra Security. I did my first pentest 15+ years ago and have been obsessed with    offensive security ever since.<br></p><p>Over the years, we built a PTaaS platform, a DAST scanner, API Security platform, a Cloud Vulnerability Scanner - and discovered tens of millions of vulnerabilities along the way. But one belief stayed constant through all of it: business logic vulnerabilities would never be discovered autonomously. Ever. <br></p><p>AI just shattered that limit. And nothing has excited me like this in 15 years of being in infosec. 🤯</p><p>So we built Astra Autonomous Pentesting. Not a smarter scanner. An army of AI agents that owns the full pentest cycle:</p><ul><li><p>🔍 <strong>Discover</strong> - Offensive agents built on insights from 5,000+ real-world pentests hunt complex, chained vulnerabilities.</p></li><li><p>💥 <strong>Exploit</strong> - Agents chain and exploit findings to prove real-world impact, not flag theoretical risks.</p></li><li><p>✅ <strong>Validate</strong> - An independent validator layer drives false positives to near-zero.</p></li><li><p>🔧 <strong>Fix</strong> - AI-fix agents that deliver tailored remediation right in your Cursor, Copilot, and Claude Code.</p></li></ul><p>The full cycle. No handoff. No report sitting in someone's inbox. Software that heals itself.<br></p><p>This isn't about replacing pentesters 🙏 Let AI own the grunt work - the cookie flags, the report writing, the endless threat modeling sessions. Let pentesters do what they love: chaining complex vulnerabilities, getting deep into a system. Pentesters at Astra, are central to everything we build. Now AI is their most powerful ally, not their replacement.<br></p><p>We call this the era of self-healing software. And we're just getting started. Would love your questions, brutal takes, and your support today. 🚀</p><p></p><p>Looking forward to help you with your next Pentest!<br></p><p>— Shikhil, Founder &amp; CEO, Astra Security</p><p></p><p></p>",
+      "votesCount": 27,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey everyone 👋</p><p></p><p>I'm Shelton. I lead marketing at Astra, but I'll skip the pitch and share what actually made this click for me.</p><p></p><p>Most automated scanners run off a static checklist. They catch the obvious stuff and miss anything that needs context. Astra Autonomous Pentesting builds a threat model from your real application first, then the AI agents target vulnerabilities that only surface when several steps chain together: multi-step attack chains, IDOR, broken access control, business logic flaws, and the full OWASP Top 10. The kind of issues you'd only catch when a human pentester spends a week with your app.</p><p></p><p>Two details I think matter more than any headline number:</p><p></p><ul><li><p>Every finding gets vetted by our security team before it lands on your dashboard, so you're not digging through false positives.</p></li><li><p>It runs safely in staging or production with rate limits and controlled attack patterns, no destructive actions, and you set the scope and intensity yourself.</p></li></ul><p>Shikhil already covered the bigger picture, so I'll leave it there. If you've used autonomous or continuous testing before, I'd like to know what it got right for you and where it fell short. And if you think we've missed something, say so.</p><p></p><p>Thanks for taking a look 🙏</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Super excited for this one! </p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Astra Autonomous Pentesting makes self-healing software the new standard, a category we’re defining after 8 years and 5,000+ real-world pentests. An army of offensive pentesters and bounty hunter agents that discovers complex chained vulnerabilities, an independent validator layer drives false positives to near-zero, and AI-fix agents deliver remediation as native Cursor, Copilot, and Claude Code prompts. The reactive pentest era is over.",
+  "featured_at": "2026-06-04T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a6e04d17-8621-4244-9564-73635361bf9a.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e03b6318-0d25-4000-9604-f6b980591b42.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c0faafd5-c581-4a9a-b729-bc08a16a7349.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/31f2e4c6-b3f8-4840-b6e4-7125d629cb81.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a57d5e36-06b5-43c9-9e82-3a491fac8fae.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/a43e9b68-966c-49ee-bb20-1e2484391c02.jpeg"
+    },
+    {
+      "type": "interactive_demo",
+      "url": "https://ph-files.imgix.net/5077364b-b0b3-4b01-af27-dc0f1b38e67b.gif"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:06",
+  "landing_meta": "Autonomous Penetration Testing Tool | 80× Faster Pentesting — Pentest every deployment with Astra's autonomous penetration testing platform, which delivers verified findings in hours. Human-validated. Compliance-ready.",
+  "landing_text": "Autonomous Penetration Testing Tool | 80× Faster Pentesting Sign in Speak to sales An autonomous pentesting tool that thinks and adapts like real hackers. Continuously. Army of AI agents built on insights from 5,000+ real pentests & 10M+ vulnerabilities that map your app, create threat models, & uncover contextual security flaws. Request a Demo Join the waitlist 450,000 Vulnerabilities are uncovered every month 37,000+ Dev hours saved yearly 5,000+ Autonomous pentests run annually $2.88B prevented in losses Trusted by the best in your industry Go from discovering complex chained vulnerabilities to verified fix in hours, not months Compliance-ready reports for SOC 2, ISO 27001, HIPAA, and more GDPR HIPAA ISO/IEC PCI-DSS CCPA Owasp SOC 2 20+ Vulnerabilities found in this scan 12x More coverage than an annual pentest 15 To first verified finding Ready Compliance checks - SOC2 · ISO 27001 Real attack chains found by autonomous pentesting These are the types of vulnerabilities that emerge from AI-driven contextual exploration — not from a predefined test case library. EXAMPLE 1 : Attack chain Weak CSP + XSS → Full account takeover One target had a weak Content Security Policy. Astra's agents found an XSS vector on a secondary endpoint. By chaining both findings, the agents demonstrated a complete account takeover path — something no standalone scanner would catch. EXAMPLE 2 : Supply chain risk Developer-owned domain loaded as third-party resource During a scan, Astra's agents detected that a developer-owned domain was being loaded as a third-party resource in production. This represented an active supply chain risk — a full takeover of that domain would have allowed script injection across the application. EXAMPLE 3: Business logic Privilege escalation via API call sequence On a multi-role SaaS application, Astra's agents identified that a privilege escalation path existed across a specific sequence of API calls — exploitable by a standard user account without any elevat",
+  "pricing_signals": [
+    "open source",
+    "pricing",
+    "$2.88"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:07",
+  "description_ja": "脆弱性を発見・検証・修正まで自律実行するAIエージェント型ペネトレーションテスト",
+  "summary_ja": "5,000件超の実ペンテスト知見で学習したAIエージェント群が、対象アプリの脅威モデルを作成し、複合的な攻撃チェーンや業務ロジックの脆弱性を自律的に発見・実証。人間が検証して誤検知をほぼ排除し、Cursor/Copilot/Claude Code向けの修正案まで提供する継続型ペンテストSaaS。",
+  "tldr_ja": "脆弱性診断需要は国内で急拡大も、国産SaaS(Securify/AeyeScan/GMO)が先行し信頼の壁も厚く個人開発は困難",
+  "review_guide_ja": {
+    "what": "AIエージェント群が対象Webアプリ/APIをマッピングし脅威モデルを構築、XSS+弱いCSP→アカウント乗っ取りのような複合攻撃チェーン、IDOR、アクセス制御不備、業務ロジック欠陥、OWASP Top10を自律的に発見・実証する。独立した検証レイヤーで誤検知をほぼゼロに抑え、人間のセキュリティチームが最終確認。検出後はCursor/Copilot/Claude Codeにネイティブな修正プロンプトとして修正案を届ける。staging/本番でレート制限・破壊的操作なしの制御された攻撃パターンで実行し、スコープと強度はユーザーが設定。SOC2/ISO27001/HIPAA/PCI-DSS向けのコンプライアンス対応レポートを出力。デプロイ毎の継続的ペンテストを80倍速で謳う。",
+    "for_who": "SOC2/ISO27001等の認証取得・維持が必要なSaaS企業や、頻繁にデプロイするWebアプリ開発組織。年1回の外部ペンテストでは頻度が足りない、または高額な手動診断を継続的に置き換えたい開発・セキュリティチーム。CISO/セキュリティエンジニアが導入主体。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "攻撃エージェントの基盤は5,000件超の実ペンテスト知見と独自の検証レイヤー、人間レビュー体制で、個人が同等の精度・誤検知抑制を再現するのは極めて困難。攻撃の安全制御も高度。"
+    },
+    "signals": [
+      "国内セキュリティ診断市場は2023年度719億円・前年比33.3%増と急成長",
+      "発見→検証→修正を一気通貫しAIコーディング環境に修正案を直接投入する点が新規性",
+      "PH上で401 upvotes/55コメントと強い反応、CEOは15年超の攻撃セキュリティ経験",
+      "SOC2/ISO27001等のコンプライアンス対応を前面に出し導入動機が明確"
+    ],
+    "concerns": [
+      "攻撃実行を伴うため不正アクセス禁止法上、対象システムの正式な許可契約が必須",
+      "国産SaaS(Securify/AeyeScan)と大手(GMO/NRI Secure)が既に市場を押さえる",
+      "セキュリティ製品は信頼・実績・認証が購買要件で個人/無名提供者の参入障壁が高い",
+      "誤検知抑制に人間レビューが必要で完全な手離れ運用が難しい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "国内セキュリティ診断(脆弱性診断・侵入テスト)市場は2023年度719億円・前年比33.3%増、セキュリティテスト市場は2025年に約1,000億円超でCAGR20.8%予測。クラウド/AI普及で攻撃対象面が拡大し、継続的・自動化ペンテストの需要は明確に顕在化している。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "国産のSecurify(経産省基準適合・ASM+診断)、AeyeScan(AI+RPA自動診断)、GMOサイバーセキュリティbyイエラエ、RidgeBot(GRCS)、Pentera(代理店)、NRI Secure/ラック等が既に展開。AI Security Lab等の自動化新興も急成長中で飽和気味。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "攻撃を実行するため、対象システム所有者の正式な許可・契約が無いと不正アクセス禁止法に抵触する。スコープ外の検査は違法。電気通信事業法・個情法も関連。自社/許可済み資産に限れば運用可能だが、許諾フローの作り込みが必須。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "技術中核はAPI/構造化処理で言語依存は小さいが、レポートのSOC2/ISO27001対応に加え、日本企業向けの日本語レポート・稟議向け書式・サポート対応が必要。検索で根拠未確認の調整工数もあり中庸。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のセキュリティ調達は実績・認証・信頼を重視し、SES/SIer経由や年次外部診断の慣習が根強い。自律AIが攻撃する点への現場の心理的抵抗、責任分界の不明確さが商習慣と摩擦を生みやすい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Securify (セキュリファイ)",
+        "url": "https://www.securify.jp/",
+        "note": "国産のASM×脆弱性診断SaaS。経産省の情報セキュリティサービス基準に適合し、資産把握から診断まで自動化。比較サイトで上位常連で国内認知が高い。"
+      },
+      {
+        "name": "AeyeScan",
+        "url": "https://www.aeyescan.jp/",
+        "note": "AI+RPAでブラウザを自動操作しWebアプリ脆弱性診断を行うSaaS。ドメインとログイン情報設定だけで実行でき、国内SaaS診断の代表格。"
+      },
+      {
+        "name": "GMOサイバーセキュリティ byイエラエ",
+        "url": "https://gmo-cybersecurity.com/",
+        "note": "脆弱性診断・ペンテストの大手。1サイト月額300円〜、Lite月額4,280円〜の低価格プランも案内し、価格・ブランド両面で強い。"
+      },
+      {
+        "name": "RidgeBot (GRCS取扱)",
+        "url": "https://www.grcs.co.jp/products/ridgebot",
+        "note": "AI駆動の自動ペンテスト/CTEMロボット。短期間・低費用での網羅的検証を訴求。Astraと最も近い自動侵入テスト領域の直接競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "不正アクセス禁止法",
+        "impact": "実際の攻撃・侵入を伴うため、対象システムの所有者/管理者からの正式な許可・契約が無い検査は違法。許可済みスコープを超える検査も違法。許諾取得・スコープ管理・同意フローを製品とオペレーションに組み込むことが必須で、SaaSのセルフサーブ化の障壁となる。"
+      },
+      {
+        "law": "電気通信事業法",
+        "impact": "通信の秘密・設備への影響に関わり得る。診断トラフィックが第三者ネットワークや通信事業者設備に影響しないよう配慮が必要。自社/許可済み環境に限定すれば実務影響は限定的。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "診断過程で実データ(個人情報)に到達・取得し得るため、取扱い・保管・越境移転(海外SaaSの場合)に注意が必要。診断結果やログの管理体制、データ所在の明示が法人顧客の審査要件となる。"
+      }
+    ],
+    "opportunity": "国内独自の角度としては、(1)許諾管理・スコープ同意・自社資産限定を前提にした「合法な継続ペンテスト」のオペレーションを日本語で整備し、稟議・調達に通る形にすること、(2)SOC2/ISMS/ISMAP取得を目指す国内SaaSスタートアップに絞り、認証審査で問われる継続診断証跡を生成する用途に特化すること、(3)個人開発者単独ではなく、診断ベンダー/SIerのバックエンド自動化ツール(human-in-the-loopの検証付き)としてOEM提供する道。攻撃ではなくDAST/設定診断の安全な範囲に絞った軽量版なら法的・心理的障壁を下げられる。",
+    "rationale": "需要面は極めて強い。国内セキュリティ診断市場は2023年度719億円・前年比33.3%増、セキュリティテスト市場はCAGR20.8%とAI自動化・継続診断の追い風が明確。一方で市場機会としての魅力は競合と規制で大きく削がれる。Securify・AeyeScanなど国産SaaSが認知・基準適合で先行し、GMOは月額数百円〜の低価格プランまで揃え、RidgeBot/Penteraという自動ペンテストの直接競合も国内展開済み。さらに実攻撃を伴う本製品は不正アクセス禁止法上、対象の正式許可が前提で、無名の個人/小規模提供者がセルフサーブで展開するのは法的にも信頼面でも困難。日本のセキュリティ調達は実績・認証・人的信頼を重んじる商習慣で、自律AIが攻撃する点への抵抗も残る。総じて需要は本物だが、個人開発者視点では既存勢力と参入障壁が厚く、正面突破は推奨しづらい(skip)。ニッチ特化やOEM・安全範囲限定なら検討余地。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "脆弱性診断は手動で数十万〜数百万円が相場でセキュリティ予算の支払い意欲は高く、継続SaaSとしてもGMOが月額数百円〜数千円〜で課金実績あり。ARPU確保はしやすい一方、価格競争と無名提供者の信頼不足で高単価維持は難しい。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内セキュリティ診断市場719億円(2023年度)、情報セキュリティサービス全体6,724億円と十分大きく、SOC2/ISMS取得を目指すSaaS企業や継続診断ニーズの裾野も拡大中。TAMは個人開発者にとって過大なほど広い。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "セキュリティ製品は実績・認証・信頼が購買要件で、PLGセルフサーブだけでは法人の審査(SOC2有無等)を突破しにくい。リード獲得後も商談・PoC・セキュリティ審査が必要で、個人がリーチ可能なチャネルは限定的。SI/代理店人脈が効きやすい。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "本家Astraを含む海外勢と国産SaaS・大手が既に国内展開済みで、AI自動ペンテスト領域は競合だらけ。時間窓はほぼ閉じており、後発の個人開発者が差別化する余地は小さい。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "誤検知抑制に人間の検証レイヤーが必要で完全な手離れは難しい。攻撃実行に伴う事故対応・スコープ管理・顧客のSLA期待値が高く、24/7に近い監視・サポートが求められ個人運用負荷は重い。"
+      }
+    },
+    "rationale": "市場規模と支払い意欲は十分で、収益化の素地は悪くない。脆弱性診断は手動で数十万〜数百万円、継続SaaSでも課金実績があり、国内719億円市場とSOC2/ISMS需要の追い風がある。しかし個人開発者の事業として見ると致命的な弱点が重なる。第一にGTM:セキュリティ製品は実績・認証・信頼が前提で、法人はベンダーにSOC2レポート等を要求するため、無名の個人がPLGだけで突破するのは困難。第二にタイミング:本家Astra・Pentera・RidgeBot・国産SaaSが既に市場を押さえ、時間窓は閉じている。第三に運用:実攻撃を伴うため誤検知の人間検証、事故対応、スコープ管理、高いSLA期待が常時発生し、個人での手離れ運用は現実的でない。加えて不正アクセス禁止法上の許諾管理が運用を重くする。需要は本物だが、参入障壁・運用負荷・タイミングの三重苦で、個人開発者の独立事業としての成立性は低い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 30000,
+      "plans": [
+        "Free: 自社1ドメイン・月1回のライト診断(DAST範囲)、許可済み資産限定",
+        "Starter: ¥30,000/月 — 継続診断+SOC2/ISO27001向けレポート出力、メールサポート",
+        "Pro: ¥100,000/月 — 複数資産・人間検証レビュー付き・優先サポート",
+        "Enterprise: 個別見積 — SI/代理店経由、セキュリティ審査・SLA対応"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "SOC2/ISMS/ISMAP取得を目指す、または維持が必要な国内SaaS・Webサービス系スタートアップ/中小開発組織。年次外部ペンテストでは頻度が不足し、許可済み自社資産に継続診断を入れたい開発・セキュリティ責任者。",
+      "target_count": 5000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 1500000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn での実際の攻撃チェーン解説・脆弱性事例の技術連載でリード獲得",
+      "SOC2/ISMS取得支援コンサル・監査法人との提携で取得企業に紹介",
+      "診断ベンダー/SIerへのバックエンド自動化ツールとしてのOEM提供",
+      "PLG無料枠(自社1ドメイン診断)からの自然流入とアップセル",
+      "セキュリティ系勉強会・カンファレンス登壇での信頼構築"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "不正アクセス禁止法: 対象の正式許可なしの攻撃実行は違法。許諾管理・スコープ制御を誤ると顧客・提供者双方が法的責任を負い、事故が事業継続を断つ致命傷になる。",
+      "信頼・認証の壁: 法人セキュリティ調達は実績・SOC2/ISMS・人的信頼が前提で、無名の個人提供者はPLGでも法人審査を突破できず売上に繋がりにくい。",
+      "競合飽和: 本家Astra・Pentera・RidgeBot・Securify・AeyeScan・GMO等が既に国内展開済みで、後発個人開発の差別化余地が極めて小さい。",
+      "運用負荷: 誤検知の人間検証・攻撃事故対応・高SLA期待が常時発生し、個人での手離れ運用が不可能に近い。サポート品質が信頼に直結する。",
+      "海外SaaS利用時の個情法/データ所在: 診断で実データに到達し得るため、ログ/結果の越境保管が法人審査で問題視され導入が止まるリスク。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

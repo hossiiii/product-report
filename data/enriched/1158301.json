@@ -1,0 +1,233 @@
+{
+  "name": "/monitor by Firecrawl",
+  "description": "Notify your AI agent when the web changes",
+  "ph_url": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/RYV3RTT7QJJVGO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-29T07:01:00Z",
+  "upvotes": 365,
+  "comments": 21,
+  "topics": [
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "4391910",
+      "name": "Eric Ciarla",
+      "twitterUsername": null,
+      "headline": "Co-Founder @ Firecrawl (YC S22)"
+    },
+    {
+      "id": "4439433",
+      "name": "Caleb Peffer",
+      "twitterUsername": null,
+      "headline": "Co-founder at Firecrawl.dev (YC S22)"
+    },
+    {
+      "id": "4447219",
+      "name": "Nicolas Camara",
+      "twitterUsername": null,
+      "headline": "Co-founder @ Firecrawl (YC S22)"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "Hey Product Hunt 👋 We're Eric, Caleb, and Nick from Firecrawl. Today we're launching /monitor, the easiest way to keep your AI agent in sync with the web.\n\nWe built /monitor because we kept hearing the same thing. A lot of our customers were already using Firecrawl to watch specific pages, re-scraping the same pricing pages, docs, changelogs, and filings on a loop just to catch when something changed. It makes a ton of sense, but doing it by hand means you either over-poll and burn tokens on pages that didn't change, or under-poll and miss the update that mattered.\n\nSo we turned it into a product. Point it at a URL, describe what to track in plain English, and Firecrawl checks the page on your cadence, compares it to the last version, and pings your agent over webhook the moment something meaningful changes. Your agent only ingests what actually changed, so you can cut token usage by up to 90%.\n\nThere's nothing to wire up yourself. The schema, scheduling, diffing, and delivery are all handled for you, and you see the estimated monthly cost before you flip a monitor on. Changes arrive by signed webhook or email, with a permalink for every diff you can hand straight to another agent. It runs on Firecrawl's /scrape under the hood, so JS-heavy pages get tracked reliably too.\n\nIf you've got an agent re-scraping the same docs, changelogs, or competitor pages on a loop, this one's for you.\n\nYou can try it out here: <a href=\"https://docs.firecrawl.dev/features/monitoring\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://docs.firecrawl.dev/featu...</a>\n\nWould love to hear what you think.",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>the 90% token reduction is the part i wish more people talked about. running webhooks on diffs instead of full crawls is what makes long running agents actually viable in production. curious how you handle noisy DOM changes (analytics scripts, ad slots, dynamic timestamps) before triggering the webhook. is that filtered at the diff layer, or is the agent on the receiving end expected to sort signal from noise?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Been waiting for something like this. Setting up custom polling logic to watch external data sources is one of those tasks that eats 2-3 hours and nobody talks about<br><br>Been doing the \"scrape on a cron + diff manually\" thing for competitor tracking for months. The webhook approach is cleaner. One question/ does it handle pages that hydrate content via JS after first render?</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "/monitor notifies your agent via webhook the moment pages or sites change. Use up to 90% fewer LLM tokens by only ingesting what changes on a page.",
+  "featured_at": "2026-05-29T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/eed71365-67aa-4375-b90e-8ef52205ae2b.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/158875df-1a0c-436f-9372-74aba00d844b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fa2f119a-3afe-4086-9d26-e000c41f8dc7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cf4f724d-a215-4c90-b05b-f35c514a519a.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/310e71c2-0d61-4c26-aad4-b34077851b2a.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:29",
+  "landing_meta": "Firecrawl - The API to search, scrape, and interact with the web at scale. 🔥 — The web context API for AI agents. Search, scrape, parse, and interact with the live web — turn any source into clean Markdown or structured data your agents can ship with.",
+  "landing_text": "Firecrawl - The API to search, scrape, and interact with the web at scale. 🔥 Introducing /monitor. Notify your AI agent the moment pages or sites change. Try it now → [ 200 OK ] [ .JSON ] [ SCRAPE ] [ .MD ] 2 Months Free — Annually Power AI agents with clean web data The API to search, scrape, and interact with the web at scale. It's also open source. Search Scrape Map Crawl Scrape [ .JSON ] 1 [ 2 { 3 \" url \" : \" h=t*A:!/z!aap?A-cZz \" , 4 \" markdown \" : \" # ?0z-ang S*a-Z-a0*9 \" , 5 \" json \" : { \" title \" : \" G!=*? \" , \" docs \" : \" ... \" } , 6 \" screenshot \" : \" ht-=*:/?*Za!zl=-?a9?h0-!.png \" 7 } 8 ] Scraping... Trusted by 150,000+ companies of all sizes Read story Read story Read story Read story Read story Read story Read story Read story [ 01 / 06 ] · Main Features // Developer First // Start scraping today The infrastructure layer that helps AI find, read, and act on the live web. The infrastructure layer that helps AI find, read, and act on the live web. Search Search the web and get full content from results. Scrape Get llm-ready data from websites. Markdown, JSON, screenshot, etc. Interact NEW Scrape a page, then interact with it using AI prompts or code. Python Node.js cURL CLI Copy code 1 # pip install firecrawl-py 2 from firecrawl import Firecrawl 3 4 app = Firecrawl ( api_key = \"fc-YOUR_API_KEY\" ) 5 6 # Scrape a website: 7 app . scrape ( 'firecrawl.dev' ) 8 9 10 1 # pip install firecrawl-py 2 from firecrawl import Firecrawl 3 4 app = Firecrawl ( api_key = \"fc-YOUR_API_KEY\" ) 5 6 # Perform a search: 7 search_result = app . search ( \"firecrawl\" , limit = 5 ) 8 9 10 1 from firecrawl import Firecrawl 2 3 app = Firecrawl ( api_key = \"fc-YOUR_API_KEY\" ) 4 5 # Scrape a page, then interact with it: 6 result = app . scrape ( \"https://amazon.com\" ) 7 scrape_id = result . metadata [ \"scrapeId\" ] 8 9 app . interact ( scrape_id , prompt = \"Search for 'mechanical keyboard'\" ) 10 app . interact ( scrape_id , prompt = \"Click the first result\" ) 11 [ . MD ] 1 # Firecrawl 2",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "pricing",
+    "$100",
+    "$1",
+    "$17",
+    "$18",
+    "$19",
+    "$6",
+    "$7",
+    "$25",
+    "$27"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:30",
+  "description_ja": "Webページが変わった瞬間にAIエージェントへ通知する監視ツール",
+  "summary_ja": "監視したいURLと「何を追うか」を自然言語で指定すると、Firecrawlが指定間隔でページを再取得し前回との差分を比較、意味のある変化があった瞬間だけ署名付きwebhook/メールでAIエージェントに通知する。変化分のみ渡すためLLMトークンを最大90%削減できる。",
+  "tldr_ja": "AI向けWeb差分監視は国内開発者需要あり、ただし本家Firecrawlの一機能で個人がクローンするのは困難、JP特化縦堀りが筋",
+  "review_guide_ja": {
+    "what": "監視対象URLと追跡したい内容を自然言語で登録すると、Firecrawlが設定したcadenceでページを再スクレイプし、前回バージョンと差分比較。意味のある変化を検知した瞬間に署名付きwebhookまたはメールで通知する。各差分にはパーマリンクが付き、別エージェントへそのまま渡せる。スキーマ定義・スケジューリング・diff・配信が全て内蔵で、監視ON前に月額推定コストが表示される。本家Firecrawlの/scrape上で動くためJSハイドレーション型ページも追跡可能。典型用途は価格ページ・ドキュメント・チェンジログ・競合ページ・各種filingの監視で、エージェントが変化分だけ取り込むことでトークンを最大90%削減する。フルクロール+手動diffのcron運用を置き換える位置づけ。",
+    "for_who": "長時間稼働のAIエージェントを本番運用する開発者・AIプロダクトチーム。競合の価格/機能ページ、ドキュメント、チェンジログ、規制・開示情報などを継続監視したいエンジニア。既にFirecrawlで同種のポーリングを自前実装していたユーザー層。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "スクレイプ+定期実行+diff+webhook配信自体は実装可能だが、JSハイドレーション対応・ノイズ(広告/タイムスタンプ)除去・自然言語スキーマ抽出・コスト予測UIまで含めると工数は重い。本家がスクレイプ基盤を持つ強みは個人では再現困難。"
+    },
+    "signals": [
+      "Firecrawlは公式日本語ドキュメントを持ち、Qiita/Zenn/note/classmethodで多数の解説記事=国内開発者の認知が既にある",
+      "コメントで複数の開発者が『cron+手動diffを何ヶ月もやっていた』と既存の痛みを明示",
+      "90%トークン削減という定量的な訴求がコスト意識の高いエージェント運用層に刺さる",
+      "署名付きwebhook+差分パーマリンクでエージェント連鎖に組み込みやすい設計"
+    ],
+    "concerns": [
+      "本家Firecrawl(YC S22)の一機能であり、独立プロダクトとして個人がクローンする対象ではない",
+      "ノイズDOM(広告/解析/動的タイムスタンプ)の除去精度が品質を左右し、コメントでも未回答",
+      "スクレイプ対象コンテンツの著作権・不正競争防止法リスクはユーザー側に残る",
+      "国内の同種ツールは消費者/マーケター向けが主で、AIエージェント特化の専用需要はまだ薄い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Firecrawlは国内開発者の認知が高く(JA docs/Qiita/Zenn/note記事多数)、AIエージェント運用文脈でのWebデータ取得需要は顕在。ただしWeb差分監視『専用』のエージェント向け需要は消費者/マーケター向け監視ツール需要に比べまだ限定的で、エンジニア層に閉じる。"
+      },
+      "competition": {
+        "score": 6,
+        "reason": "国内にはVisualping・Distill・WWWC・Web Checker等の更新監視ツールが存在するが大半は消費者/マーケター向けでAIエージェント・webhook・トークン削減を主軸にした競合は少ない。本家Firecrawl自体が直接の最大競合になる点が最大の障壁。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "ツール自体に直接適用される業法は基本的になし。ただしスクレイプ対象の著作物複製は著作権法、競合の保護情報取得は不正競争防止法に触れうる。責任は主に利用者側に残るため提供者リスクは中程度に留まる。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "API/webhook/構造化データ中心で深いUX改修は不要。日本語スキーマ指示・通知文面・ドキュメント整備で対応可能。本家が既にJA docsを提供しており構造的なローカライズ負荷は低い。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "従量課金・ドル建てに国内開発者は一定耐性があるが、法人導入では稟議・請求書・円建て・SLAを求められやすい。PLG/セルフサーブ前提なら相性は中程度で、エンプラ商習慣には追加対応が要る。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Visualping",
+        "url": "https://visualping.io/",
+        "note": "AIで指定ページの差分を自然言語通知。webhook/n8n連携あり。海外発だが国内で広く紹介され事実上の標準的選択肢。サブスク+従量の両モデル。"
+      },
+      {
+        "name": "Distill Web Monitor",
+        "url": "https://distill.io/",
+        "note": "ブラウザ拡張+クラウド。XPath/CSS/JSで対象選択、webhook対応。技術寄りユーザーに人気だがAIエージェント連携を主軸にはしていない。"
+      },
+      {
+        "name": "WWWC / Web Checker",
+        "url": "https://www.nakka.com/soft/wwwc/",
+        "note": "WWWCは日本製の老舗更新チェッカーで差分表示・無料。Web Checkerは国内エンジニア製クラウド型。いずれも消費者/個人向けでエージェント/webhook主軸ではない。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法",
+        "impact": "監視対象ページの本文を取得・保存・diff化する過程で複製/翻案が生じうる。社内利用や事実情報の参照は許容範囲が広いが、取得コンテンツの再配布・公開は権利侵害になりうる。責任は主に利用者側だが、提供者も保存範囲・保持期間の設計で配慮が要る。"
+      },
+      {
+        "law": "不正競争防止法",
+        "impact": "競合サイトの監視自体は適法だが、ログイン必須・アクセス制限された限定提供データや営業秘密を回避取得すると違法となりうる。公開ページの差分監視であればリスクは低いが、規約違反スクレイプの幇助と見なされない設計・利用規約が望ましい。"
+      }
+    ],
+    "opportunity": "本家Firecrawlの汎用機能をそのまま日本で売るのは難しいが、JP特化の縦堀りに機会がある。例えば(1)官公庁・自治体の入札公告/調達ページ監視、(2)法令・通達・パブコメ改正の差分追跡、(3)国内ECの価格・在庫変動監視(楽天/Yahoo!/Amazon.co.jp)など、対象が日本語で構造が不統一なドメインに対し、日本語diffのノイズ除去と要約・webhook通知を最適化した薄い縦型サービスは差別化余地がある。Firecrawl APIをバックエンドに使い、自前で監視UI・日本語スキーマ・通知テンプレ・円建て請求を載せる『ラッパー縦型SaaS』が個人開発者の現実的な角度。",
+    "rationale": "AIエージェント向けWeb差分監視という課題自体は国内開発者にも刺さり、Firecrawlの認知・JA docs・コミュニティ記事の厚みから需要シグナルは中の上。一方で本プロダクトはYC S22企業Firecrawlの一機能であり、個人開発者が同等を独立提供するのは基盤(スクレイプインフラ・JS対応・コスト予測)の再現コストが高く非現実的。国内の更新監視市場は消費者/マーケター向けに偏り、AIエージェント特化の専用需要はまだ立ち上がり期。規制は提供者直撃の業法こそ無いが、著作権・不正競争防止法の利用者リスクを設計で吸収する必要がある。総じて『本家をクローンするな、JPドメイン特化の薄い縦型に組み替えればwatch〜限定build』という位置づけ。汎用横展開はskip相当。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "従量・freemiumとも国内開発者には受容され、エージェント運用層はコスト削減価値に対価を払う素地がある。ただし監視は単価が低くなりがちでARPUは薄い。法人で稟議を通すには円建て請求書・SLAが必要で、個人開発のセルフサーブ単独では客単価が伸びにくい。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内ITエンジニアは約44万人規模だがAIエージェントを本番運用し継続監視に課金する層はその一部に絞られ、横展開TAMは中規模。JP特化縦型(入札/法令/EC価格監視)なら対象は明確だが各々ニッチで、単独では大きな市場にならない。根拠統計はエンジニア総数のみで需要数は推計。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Qiita/Zenn/note連載・X発信・PLG無料枠というPLG型チャネルが機能しやすい開発者向けプロダクト。Firecrawl同様コミュニティ記事で認知獲得できる。一方で本家の知名度が高く、個人発の派生サービスは差別化メッセージが無いと埋もれる。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "本家Firecrawlが既に同機能を提供し日本語docsも整備済みで、汎用横展開の時間窓はほぼ閉じている。残る猶予はJP特化縦型ドメインで本家が手を出さない領域に限られ、汎用クローンは『既に本家が来ている』状態。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "監視サービスは24/7稼働・取得失敗時の再試行・誤検知/見逃しのクレーム対応が発生し、SLA期待値も生じやすい。スクレイプ基盤を本家API依存にすれば運用は軽くなるが、通知の信頼性が直接顧客満足に効くため完全な手離れは難しい。"
+      }
+    },
+    "rationale": "事業としては、汎用『AI向けWeb監視』を個人が新規に立てるのは本家Firecrawlの存在で時間窓がほぼ閉じており成立性は低い。勝ち筋はFirecrawl APIをバックエンドに据え、日本語ドメイン(自治体入札・法令改正・国内EC価格)に特化した薄い縦型ラッパーSaaSで、日本語diffのノイズ除去・要約・円建て請求・webhook通知を最適化する形。monetizationとgtmは開発者向けPLGで及第点だが、market_sizeは縦型ニッチで限定的、timingは本家進出済みで不利、solo_opsは監視特有の信頼性運用で中程度。総合では国内汎用展開はno_go寄り、JP特化縦型に限れば検討余地ありのconsider水準。控えめなARPUとニッチTAMを前提に小さく始めるのが妥当で、過大な売上目標は置かない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: 監視5件・チェック間隔1日・メール通知のみ(PLG入口)",
+        "Pro: ¥3,000/月 監視50件・間隔1時間〜・署名付きwebhook・日本語diff要約",
+        "Team: ¥15,000/月 監視300件・短間隔・複数webhook・差分パーマリンク・優先サポート",
+        "従量: チェック回数/監視件数の上限超過分を従量加算(円建て請求書対応)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "AIエージェント/自動化を本番運用する国内開発者・小規模AIプロダクトチーム。およびJP特化縦型(自治体入札公告、法令/通達改正、国内EC価格・在庫変動)を継続監視したいエンジニア・事業担当。Firecrawlを既に認知している層を起点に獲得。",
+      "target_count": 20000,
+      "capture_pct_year3": 1,
+      "monthly_revenue_target_jpy": 600000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn/noteで『AIエージェント×Web差分監視』実装記事を連載し検索流入を作る",
+      "X(旧Twitter)で個人開発の進捗・ユースケースを発信しFirecrawl認知層に乗る",
+      "PLG無料枠(監視5件)からのセルフサーブ転換",
+      "自治体入札/法令改正監視など日本語縦型ユースケースのデモを公開",
+      "Firecrawlコミュニティ/関連OSSへの寄稿で派生ツールとして露出"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家Firecrawlが/monitorを日本語対応・縦型展開すれば派生サービスの優位が即消滅する(時間窓6ヶ月想定)。本家API依存だと値上げ/仕様変更で原価とUXを直撃される。",
+      "監視の信頼性(見逃し・誤検知・取得失敗)が顧客満足に直結し、24/7のSLA期待とクレーム対応が個人運用を圧迫する。手離れが効かず継続が苦しい。",
+      "スクレイプ対象の著作権・不正競争防止法・サイト規約違反リスクが利用者経由で跳ね返り、法人導入時に法務レビューで止まりうる。",
+      "ARPUが薄くニッチTAMのため、円建て請求書/稟議対応の工数に対し売上が見合わず、損益分岐に時間がかかる。",
+      "汎用横展開では本家と正面衝突し差別化メッセージが立たず、マーケで埋もれて獲得効率が悪化する。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T02:49:50Z",
+  "review_guide_at": "2026-06-06T02:49:50Z",
+  "business_viability_at": "2026-06-06T02:49:50Z",
+  "advisor_view_at": "2026-06-06T02:49:50Z"
+}

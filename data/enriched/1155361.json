@@ -1,0 +1,275 @@
+{
+  "name": "Pitch Agent",
+  "description": "On-brand presentations, generated in seconds",
+  "ph_url": "https://www.producthunt.com/products/pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/KZA5WLLQAI4WGZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-28T07:01:00Z",
+  "upvotes": 341,
+  "comments": 67,
+  "topics": [
+    "Design Tools",
+    "SaaS",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "2316589",
+      "name": "Maresch",
+      "twitterUsername": "mareschbaer",
+      "headline": "Product marketer @ Pitch"
+    },
+    {
+      "id": "33602",
+      "name": "Adam Renklint",
+      "twitterUsername": "adamrenklint",
+      "headline": null
+    },
+    {
+      "id": "3136298",
+      "name": "Dovilė Sandaitė",
+      "twitterUsername": null,
+      "headline": "Software engineer and team lead"
+    },
+    {
+      "id": "34092",
+      "name": "Eric",
+      "twitterUsername": "ericyahhh",
+      "headline": "Co-founder @Pitch"
+    },
+    {
+      "id": "2930388",
+      "name": "Aneliya Kyurkchiyska",
+      "twitterUsername": null,
+      "headline": "Product Designer at Pitch"
+    },
+    {
+      "id": "4196718",
+      "name": "James Chant",
+      "twitterUsername": null,
+      "headline": "Marketing at Pitch"
+    },
+    {
+      "id": "2117656",
+      "name": "Johanna Wellnitz",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "3998892",
+      "name": "Ullrich Schäfer",
+      "twitterUsername": "stigi",
+      "headline": null
+    },
+    {
+      "id": "33995",
+      "name": "Marvin",
+      "twitterUsername": "ilwcss",
+      "headline": "Software engineer & Co-Founder @Pitch"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>I've been using <a href=\"https://www.producthunt.com/products/pitch\" target=\"_blank\" rel=\"noopener\">@Pitch</a> since the early days, and it's an absolute no brainer. Fast, collaborative, and fun. Thoughtfully crafted, and inspiring.</p><p></p><p>First launched here in 2020 after 2 years in development, awarded Productivity Tool of the Year (runner-up), the team has kept launching features around how teams really make decks: templates, analytics, recordings.<br><br>Pitch Agent is the AI that finally has the context you need to generate decks that look like your team made it, then let you refine them via chat without leaving the editor.</p><p></p><p>S/O to <a href=\"https://www.producthunt.com/@adamrenklint\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@adamrenklint</a> <a href=\"https://www.producthunt.com/@mishakarpenko\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@mishakarpenko</a> and team for this new launch!</p><p></p><p><a href=\"https://www.producthunt.com/@christianreber\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@christianreber</a> put it simply on <a href=\"https://x.com/christianreber/status/2059618300062023852?s=46\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Twitter/X</a>:</p><blockquote><p>It feels like a breakthrough.</p></blockquote><p>If you've ever generated an AI deck and spent hours re-prompting or fixing it slide by slide, it's a good time to give <a href=\"https://www.producthunt.com/products/pitch\" target=\"_blank\" rel=\"noopener\">@Pitch</a> a spin.</p><p></p><p>Go to <a href=\"https://pitch.cello.so/2LTXkDErBPY\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">pitch.com</a>, it's meaningfully better.</p>",
+      "votesCount": 14,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I just one-shotted a PH launch deck using this prompt:</p><pre><code>Create a deck promoting the Pitch Agent launch on Product Hunt. Consider the launch messaging and include the attached product images. Here's our PH link: <a href=\"https://www.producthunt.com/products/pitch?launch=pitch-agent\" target=\"_blank\" rel=\"noopener\">https://www.producthunt.com/prod...</a></code></pre><p><br>Pitch Agent perfectly incorporated our messaging (pasted it from Notion) and included the product images I attached to the prompt 😎<br></p><img src=\"https://ph-files.imgix.net/51af5d7a-4643-47f8-b1cd-7437e01b45b7.gif?auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;auto=format\" style=\"max-width: 100%\"><p></p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Does Agent ask for more reference material when input is sparse? Wonder how it handles thin templates. Congrats on the launch!</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Most AI tools apply your colors to generic layouts and call it “on brand.” Pitch Agent builds from your template, design language, and image style. Generate slides from a prompt and file attachments, then refine them via chat. Agent lives inside Pitch, the workspace where teams collaborate on and deliver presentations.",
+  "featured_at": "2026-05-28T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/414fc13b-c9e8-4b04-96a8-acc7dd458d0e.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/70145771-b0af-427e-bea2-4d12e9349e20.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ff9cdaa4-0645-47a9-af72-bfe40c078316.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/bbbf5d16-d25a-4b65-955f-47122aaa2def.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9b0be34d-ba54-4e7b-9f06-6315d50a80bb.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/651247b1-9b20-46ea-9336-17b3a28d7c08.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/987d5229-f232-4b78-9b97-2e5beb057b6c.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:33",
+  "landing_meta": "The AI presentation workspace — Pitch is the AI presentation workspace where professionals collaborate on, create, and deliver winning slide decks — all while staying on brand.",
+  "landing_text": "The AI presentation workspace C r e a t e s l i d e s t h a t w i n . Prompts Generate Prompts Generate From prompt to presentation, 4M+ teams create and deliver winning slides together in Pitch. From prompt to presentation, 4M+ teams create and deliver winning slides together in Pitch. Sign up for free Get a demo WHY PITCH Pitch is your presentation workspace From first slide to final delivery, Pitch is where teams create presentations that actually land. Make stunning slides Your audience sees hundreds of presentations. Use Pitch’s powerful editor to stand out with sleek slides enhanced by high-res video, animations, and custom fonts. Pitch like a pro Import customer data, generate personalized decks in bulk, share content in custom deal rooms, and track visitor engagement so you know when to follow up. Showcase your brand When your team is pitching at scale, consistency can fall apart fast. Pitch keeps everyone aligned with shared templates, a brand library, and AI that adapts to your workflow. Stay in control With every team presentation in a single cloud-based workspace, you can easily organize workflows and stay on top of your shared content and collateral. Make stunning slides Your audience sees hundreds of presentations. Design convincing slides in Pitch’s powerful editor, with high-res video, animations, and custom fonts, so you always stand out from the crowd. Make stunning slides Your audience sees hundreds of presentations. Design convincing slides in Pitch’s powerful editor, with high-res video, animations, and custom fonts, so you always stand out from the crowd. Pitch like a pro Import customer data, generate personalized decks in bulk, share content in custom deal rooms, and track every open so you know exactly when and how to follow up. Pitch like a pro Import customer data, generate personalized decks in bulk, share content in custom deal rooms, and track every open so you know exactly when and how to follow up. Showcase your brand When your team i",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing",
+    "free plan"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:36",
+  "description_ja": "テンプレートとブランドに沿ってスライドを数秒で自動生成するAI機能",
+  "summary_ja": "プレゼン作成ツールPitchのAI機能。自社テンプレート・デザイン言語・画像スタイルを学習し、プロンプトと添付ファイルからオンブランドなスライドを生成、エディタ内のチャットで対話的に修正できる。4M+チームが利用するコラボ基盤に統合されている。",
+  "tldr_ja": "AIスライド生成は国内需要顕在だがイルシル/Gamma/Canva等で飽和、本家も日本語非対応のまま参入済みで個人開発の勝ち筋は薄い。",
+  "review_guide_ja": {
+    "what": "Pitchのプレゼン作成ワークスペースに組み込まれたAIエージェント機能。汎用レイアウトに色だけ当てる従来型と違い、自社の既存テンプレート・デザイン言語・画像スタイルから学習し「自社チームが作ったように見える」デッキを生成する点が売り。プロンプト＋ファイル添付（Notion文章や製品画像など）から初稿を生成し、エディタを離れずチャットで対話的にスライドを修正できる。生成後はリアルタイム共同編集、ブランドライブラリ、テンプレート共有、デッキ単位の閲覧解析（誰がいつ開いたか）まで一気通貫。典型用途は営業提案・採用・社内報告・PHローンチデッキ等のチーム制作。",
+    "for_who": "ブランド統一が必要な営業・マーケ・採用チームを持つ中堅〜大企業。複数人で大量のオンブランド資料を量産し、配布後のエンゲージメントまで追いたい組織。個人より「チームの資料制作標準化」を求める層が中心。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "LLMでのスライド生成自体は再現可能だが、本体価値は4M+チームの利用基盤・ブランドライブラリ・共同編集・配布解析の統合にあり、個人がこの面を作り込むのは困難。"
+    },
+    "signals": [
+      "PH 341 upvotes / 67 comments と高い反応、X で「breakthrough」の評価",
+      "自社テンプレ学習による『オンブランド』訴求は汎用AI生成への明確な差別化",
+      "Pitch本体は4M+チーム利用の確立した基盤で配布解析まで統合",
+      "プロンプト1発で実用デッキが出る実演コメントあり（一定の完成度）"
+    ],
+    "concerns": [
+      "AI生成は日本語入力非対応（英語前提）でローカライズ負債が大きい",
+      "国産イルシル(30万ユーザー)やGamma/Canvaが先行し市場は飽和気味",
+      "本体価値がチーム基盤に依存し、機能単体の模倣では勝てない",
+      "薄いテンプレ入力時の生成品質はコメントでも疑問視されている"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "AIスライド生成の国内需要は顕在。国産イルシルが2021年開始で2026年4月に累計30万ユーザー突破、Gamma/Canva/Felo/ReDeck等の解説記事も大量。営業提案・採用資料のブランド統一は企業の実課題として広く語られるが、既に充足されつつある需要でもある。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "イルシル(国産・日本語特化・PPT互換・法人プラン・請求書払い対応)、Gamma、Canva、Microsoft Copilot、Felo、ReDeckが乱立し飽和に近い。特に『ブランド統一×チーム制作』はイルシル法人プランやCanva for Teamsが直接競合し、差別化余地が小さい。"
+      },
+      "regulation": {
+        "score": 7,
+        "reason": "プレゼン作成SaaSに固有の業法規制はほぼ無いが、顧客データの一括取込によるパーソナライズ生成と配布解析でのログ管理は個人情報保護法の安全管理措置・目的明示が必要。著作権法（生成画像・フォント・テンプレ権利）への配慮も要る。参入障壁ではないが規約整備は前提。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "本家Pitchはダッシュボード未ローカライズかつAI生成が英語入力前提で、日本語デッキは翻訳前提。日本語フォント・縦書き・ビジネス文体・PPT完全互換など深いUX/出力改修が必要で、ローカライズ負債は重い。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "資料文化自体は日本でも濃く相性は悪くないが、過剰な情報密度・PowerPoint納品・きっちりしたデザイン規範という日本特有要求にPitchのミニマル海外デザインは必ずしも合致しない。イルシルが『日本企業が使いやすい』で伸びた事実が逆風。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "イルシル",
+        "url": "https://irusiru.jp/",
+        "note": "日本発のAIスライド生成。日本語特化3,000種テンプレ・PPT互換・請求書払いで法人浸透。2026年4月累計30万ユーザー、上場企業導入も。個人¥1,680〜、ビジネス¥2,980〜/人。最有力の直接競合。"
+      },
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/",
+        "note": "海外発の人気AIプレゼン/サイト生成。ブランドテーマ作成、API提供。日本でもスタートアップ中心に普及拡大中。$0/$9/$18/$90やクレジット制。Pitch Agentと機能領域がほぼ重なる。"
+      },
+      {
+        "name": "Canva（AIスライド/プレゼン）",
+        "url": "https://www.canva.com/ja_jp/features/ai-slide/",
+        "note": "日本語UI完備、ブランドキット・テンプレ・共同編集を持つ巨大基盤。AIスライド生成も提供。Pitchの『オンブランド×チーム』訴求と正面衝突する最大級の汎用競合。"
+      },
+      {
+        "name": "ReDeck",
+        "url": "https://www.redeck.jp/",
+        "note": "過去のパワポを『ひな形』として読み込み同じデザイン・構成で新資料を最短1分生成する国産β。Pitch Agentの『自社テンプレ学習』に最も近いコンセプトの国内プレイヤー。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "顧客データの一括取込によるパーソナライズデッキ生成や、配布デッキの閲覧解析（誰がいつ開いたか）でログ・個人データを扱う場合、取得目的明示・安全管理措置が必要。機能上は対応可能で参入障壁ではないが、法人売りでは規約整備が前提。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "AI生成スライドの画像・アイコン・フォント、学習に用いるテンプレの権利関係に一般的留意が必要。利用画像のライセンスとAI生成物の権利帰属を規約で明確化すれば足り、固有の参入障壁ではない。"
+      }
+    ],
+    "opportunity": "唯一の隙間は『日本語ネイティブのオンブランド・チーム制作』。本家Pitchは日本語非対応・未ローカライズ、Gammaは海外デザイン寄り、イルシルは個人〜法人の汎用生成で『既存テンプレ完全踏襲』はReDeckが先行する程度。狙うなら、コーポレートのブランドガイドライン（ロゴ・配色・フォント・余白規定）とPPTマスターを取り込み、日本語ビジネス文体・高情報密度・PPT完全互換で出力する『社内資料標準化』に特化する角度。ただしこれはイルシル法人プラン/Canvaの射程内であり、純粋な機能差別化での勝ち筋は狭い。",
+    "rationale": "需要は明確に顕在（イルシル30万ユーザー、Gamma解説の氾濫、ブランド統一は企業の実課題）だが、市場機会としての魅力は競合飽和とローカライズ負債で大きく削がれる。日本語特化・PPT互換・請求書払いで先行するイルシルが法人浸透を進め、CanvaとGammaが両側から挟む構図で、新規参入の空白地は乏しい。Pitch Agentの核である『自社テンプレ学習でチームが作ったように見えるデッキ』は魅力的だが、その価値は4M+チームの利用基盤・配布解析・共同編集の統合に依存し、機能を切り出して日本語化しても再現できない。本家が日本語AI生成に未対応な点は時間的猶予を生むが、国産勢が既にその穴を埋めつつあるため好機とは言い難い。総じて市場機会としては『skip』寄りで、参入するなら社内資料標準化のニッチに絞り込む必要がある。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "同カテゴリは月額課金が定着（個人¥1,200〜3,200、法人¥2,980〜/人）し課金自体は成立する。ただし無料枠・低価格競合が多くAIトークンコストも重いため価格圧力が強く、単独機能ではARPU上振れが見込みにくく利益確保のハードルが高い。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "資料作成は全業種・全職種の汎用ニーズでTAM自体は広大（国内ホワイトカラー数千万人、法人数百万社）。だが既にイルシル等が広く取り込んでおり、個人開発が現実に到達・獲得できる純増余地はその極一部にとどまる。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PLG＋コンテンツ（Qiita/note/X/YouTube）でリーチ可能なカテゴリで、イルシルも学生起業からコンテンツ主導で19万→30万に拡大した実例あり。ただし同チャネルは競合がレッドオーシャン化し、後発の発信は埋没しやすく獲得効率が悪い。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "時間窓はほぼ閉じている。Pitch本体は既に日本でも利用可能、国産イルシルは法人プランまで投入済み、Gamma/Canvaも浸透中。AIスライド生成のゴールドラッシュは2024-2025でピークを越え、後発の個人が割って入る余地は小さい。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "AI生成のトークンコスト管理、テンプレ/フォント資産の継続整備、法人顧客のSSO・セキュリティ要件・請求書払い・SLA対応など運用負荷が高い。生成品質クレーム対応も恒常的に発生し、24/7ではないが個人での手離れは難しい。"
+      }
+    },
+    "rationale": "事業成立性は厳しい。課金は成立し市場も広大だが、その魅力ゆえに資本・先行者が密集しており、後発の個人開発が持続的なARPUとシェアを確保する道筋が描けない。最大の問題はタイミングで、AIスライド生成ブームはピークアウトし、国産イルシルが日本語特化・PPT互換・法人プラン・請求書払いという『日本企業が使いやすい』全要件を既に押さえている。Pitch Agentの差別化点（オンブランド・チーム制作・配布解析）はCanva for TeamsとイルシルEnterpriseの射程内で、機能模倣では勝てない。GTMはPLG＋コンテンツで理屈上は届くが、同じ手法の競合が飽和し新規の発信は埋没しやすい。運用も法人売りに寄せるとセキュリティ・請求書・SLA対応で個人には重い。総合してビジネスとしては『no_go』寄りで、やるなら特定業界の社内資料標準化等の極ニッチに絞らない限り成立しない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 2000,
+      "plans": [
+        "Free: 月3デッキまで生成・透かしあり・PPTエクスポート不可",
+        "Personal: ¥1,680/月 無制限生成・PPTエクスポート",
+        "Team: ¥2,980/月/人 ブランドライブラリ・テンプレ共有・権限管理",
+        "Business(請求書払い): ¥30,000〜/月 SSO・専任オンボーディング・SLA"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "ブランドガイドラインとPPTマスターを持ち、営業・採用・社内資料を量産する国内の中小〜中堅企業のバックオフィス/マーケ/営業チーム。特に日本語デッキとPPT納品が必須で、本家Pitch（英語前提）やGammaの海外デザインに不満がある層。",
+      "target_count": 50000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 1000000
+    },
+    "recommended_gtm": [
+      "note/Qiita/Zennでのブランド統一×AI生成のハウツー連載",
+      "X個人発信（ビフォーアフター事例・1プロンプト実演）",
+      "YouTube/ショートでの操作デモ（イルシルの拡大手法を踏襲）",
+      "PLG: 無料枠→PPTエクスポートで有料転換",
+      "特定業界（士業・不動産等）の提案書テンプレ配布からの導線"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "市場飽和: イルシル(30万ユーザー・法人プラン)、Gamma、Canva、Copilot、Felo、ReDeckが乱立し、後発個人の差別化と認知獲得が極めて困難。",
+      "タイミング超過: AIスライド生成ブームはピークアウト済みで国産勢が日本語特化要件を制覇、参入の時間窓がほぼ閉じている。",
+      "差別化の脆弱性: 核心の『オンブランド×チーム制作』はチーム基盤・配布解析・共同編集の統合に依存し、機能単体の模倣では本家にもCanva/イルシルにも勝てない。",
+      "ローカライズ・運用負荷: 日本語フォント/縦書き/高情報密度/PPT完全互換の作り込みと、法人売りでのSSO・請求書払い・SLA対応が個人には重く、生成品質クレーム対応も発生。",
+      "ユニットエコノミクス: 無料枠・低価格競合が多くARPUに上限。AI生成のトークンコストが利益を圧迫し、価格競争で消耗する恐れ。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T11:20:00Z",
+  "review_guide_at": "2026-06-06T11:20:00Z",
+  "business_viability_at": "2026-06-06T11:20:00Z",
+  "advisor_view_at": "2026-06-06T11:20:00Z"
+}

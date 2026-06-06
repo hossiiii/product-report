@@ -1,0 +1,283 @@
+{
+  "name": "Oura Ring 5",
+  "description": "The world’s smallest smart ring, now even better",
+  "ph_url": "https://www.producthunt.com/products/oura?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/EHY7QRSUF2SXN4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-31T07:01:00Z",
+  "upvotes": 334,
+  "comments": 11,
+  "topics": [
+    "Health & Fitness",
+    "Hardware",
+    "Wearables"
+  ],
+  "makers": [
+    {
+      "id": "295979",
+      "name": "Petteri Lahtela",
+      "twitterUsername": "plahtela",
+      "headline": "CEO, Co-Founder at ŌURA"
+    },
+    {
+      "id": "226335",
+      "name": "Jason Russell",
+      "twitterUsername": "thisisthequick",
+      "headline": "Director of Product at Oura Ring"
+    },
+    {
+      "id": "2347625",
+      "name": "Laura Furman",
+      "twitterUsername": null,
+      "headline": null
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi everyone!<br><br>The best smart ring is the one that keeps getting easier to forget you’re wearing.<br><br>Ring 5 is 40% smaller than Ring 4 and weighs as little as 2 grams. It tracks the core Oura loop of sleep, readiness, recovery, stress, and activity directly from your finger.<br><br>Oura is also taking a much more proactive approach with the software. Starting in June, features like <a href=\"https://ouraring.com/blog/new-software-features/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Health Radar</strong></a> will help surface patterns around nighttime breathing, blood pressure signals, and GLP-1 use.<br><br>So it gives you more early signals when something is worth paying attention to.</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Looks interesting. I'm currently using an older Oura ring and was wondering if existing users will get these updates as well. Would love to know how much of this is software versus new hardware.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I’m an Oura OG - love my ring and the Oura ethos, keep it rolling! </p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Meet Oura Ring 5. Now 40% smaller with a titanium design and up to 9 days of battery for sleep, activity, stress, heart health, and recovery.",
+  "featured_at": "2026-05-31T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/70d0bf74-467c-4cfa-b88b-edb2cace856d.png",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/ef6173e8-cea4-4914-9e79-5f0a84ae1b69.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9584008f-9707-49da-8038-b314e33f75a6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/79d18736-9c53-496f-aa0c-3e5f68cebaaf.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/78143292-599b-4890-ae8e-9cb2e2b89beb.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/62637826-8a7c-4b24-b64e-958fa33a59d6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6c04ad09-ccaf-4fd7-b6fb-d63eabd900c1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/675293ad-06d9-4825-a942-9a1ce9b28fde.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/17806d3c-62e5-4df4-a6ae-a047ece90418.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f70a378e-7736-41d7-8c2c-527fbd5cd26d.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dbece4ca-bb76-4d96-94e9-6267119c26eb.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/98a2fc48-84b9-4a94-a9e7-2670561f7c7d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/41bb22ba-c1bd-46a3-a0ca-9009f5c8d0d5.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2847dbb8-2da8-4e9f-97e8-9d6e5792e4e0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c46c14a3-0391-4a24-b769-9e7064a2e21c.png"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:23",
+  "landing_meta": "Meet Oura Ring 5: Smart Ring for Sleep, Fitness, Health & Recovery | Oura — Meet Oura Ring 5. Now 40% smaller with a titanium design and up to 9 days of battery for sleep, activity, stress, heart health, and recovery. Explore the collection.",
+  "landing_text": "Meet Oura Ring 5: Smart Ring for Sleep, Fitness, Health & Recovery | Oura Skip Navigation to Main Content Built to blend in Shop Now Introducing Oura Ring 5 The world’s smallest smart ring puts 50+ health metrics at your fingertips. 40% Thinner. Lighter. Smaller. Watch the film Rebuilt for greater accuracy Highly precise sensors adapt to your body — delivering personal health data, day and night. 99% Heart Rate Accuracy r 2 compared to ECG2 1 95% Sleep Staging Accuracy Compared to clinical sleep lab 90% Members Feel Healthier Based on new member NPS survey 1 week battery life from a single charge. Built to last. Designed for comfort. Titanium. Waterproof. Made for your everyday. Everyday health sensing Sleep Activity and Fitness Readiness Stress Heart Health Women’s Health Sleep Score The answer to “how did you sleep last night?” Your score is based on your total sleep, heart rate variability (HRV), nighttime movement, sleep regularity, and more. Sleep Stages Wake up to in-depth analysis of your deep sleep, REM sleep, and light sleep from the night prior. Blood Oxygen Sensing By detecting your blood oxygen levels at night, Oura can tell if you’re experiencing any breathing disturbances. Bedtime Guidance Oura reminds you when to start winding down so you can improve your sleep quality. Automatic Activity Detection From cycling to basketball to housework, Oura automatically detects over 40 activities with heart rate to give you credit for every move you make. Activity Score Analyze your activity levels, consistency over time, and recovery time to help you understand if you’re finding a healthy balance between movement and rest. Personalized Activity Goals Oura creates a personalized activity goal every day based on your recovery. Depending on your health priorities, this goal might focus on daily activity or calorie burning. Readiness Score Your Readiness Score uses your temperature trends, heart rate, sleep, and more to highlight how energized you are for the day. Il",
+  "pricing_signals": [
+    "free trial",
+    "subscription",
+    "pricing",
+    "premium",
+    "$1",
+    "$11",
+    "$3",
+    "$18",
+    "$19",
+    "$20",
+    "$21",
+    "$22"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:25",
+  "description_ja": "世界最小のスマートリング、睡眠・回復・心臓健康を指先で計測する最新版",
+  "summary_ja": "指輪型ウェアラブル「Oura Ring 5」。Ring 4比40%小型・最軽量2gのチタン製で、睡眠・心拍・HRV・ストレス・血中酸素など50超の健康指標を最大1週間計測し、専用アプリ（月額課金）で可視化・早期兆候を通知する。",
+  "tldr_ja": "国内スマートリング需要は顕在だがSOXAI首位・RingConn/Galaxy/本家Oura既参入で飽和、ハード自製は個人開発不可。",
+  "review_guide_ja": {
+    "what": "指に装着するリング型ウェアラブル。チタン筐体（最軽量2g、Ring 4比40%小型化、防水、最大約1週間バッテリー）に光学・温度センサーを搭載し、睡眠スコア／睡眠ステージ（深い・REM・浅い）、心拍・HRV、血中酸素、ストレス、活動量（40種以上を自動検出）、Readinessスコア、女性の健康などを計測する。2026年6月からはHealth Radarで夜間呼吸・血圧シグナル・GLP-1使用パターンなどの早期兆候を提示。データは専用スマホアプリで可視化し、詳細解析は月額/年額サブスクで提供する。典型用途は睡眠改善、コンディション管理、運動・回復の最適化。",
+    "for_who": "睡眠やコンディション・回復を定量管理したい健康意識の高い個人。腕時計型より目立たず軽い装着感を求める層、就寝中も常時計測したいユーザー、女性の体調・周期管理ニーズ層。日本では2026年時点でアーリーアダプター中心。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "独自センサー・小型チタン筐体・量産・サブスクアプリ・サポートを伴う統合ハードウェア事業。個人開発で同等品を作るのは資金・製造・薬事の面で非現実的。"
+    },
+    "signals": [
+      "国内ウェアラブル/ヘルスケア市場は2025年1兆円超、スリープテックも前年比25%超成長と需要強い",
+      "Oura累計250万個超・日本でも約1.8万人利用と本家の地盤あり",
+      "PHコメントで既存ユーザーのロイヤリティと『ソフト/ハードどちらの更新か』への関心が高い",
+      "Health Radar等のソフト主導の予防アプローチでARPUを伸ばす方向性",
+      "国産SOXAIが日経トレンディ2025ヒット商品にランクインしカテゴリ自体が一般認知へ"
+    ],
+    "concerns": [
+      "ハードウェア事業のため個人開発者の再現性が極めて低い",
+      "SOXAI（国内首位5万台）・RingConn・Galaxy Ring・本家Oura参入で市場は既に飽和",
+      "健康データ・予防シグナルは薬機法/医療機器該当の線引きに注意が必要",
+      "サブスク月額999円への日本ユーザーの課金抵抗（買い切りSOXAI/RingConnが対抗軸）",
+      "サイズ展開・在庫・返品・物理サポートなど個人運用に不向きな運用負荷"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 9,
+        "reason": "国内ウェアラブル/ヘルスケア市場2025年1兆731億円、スリープテック1,603億円(前年比+25.6%)。SOXAIが日経トレンディ2025ヒット商品入りしカテゴリ認知が一般化。健康・睡眠管理需要は強く顕在。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "国産SOXAI（累計5万台・国内シェア1位）、RingConn第2世代、Galaxy Ring、本家Oura（日本でも約1.8万人）と主要プレイヤーが出揃い飽和。新規ハード参入の余地は極めて小さい。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "睡眠・活動の計測は一般健康機器として扱える一方、血圧シグナル・呼吸障害・GLP-1等の『予防/診断的』示唆は薬機法のプログラム医療機器/医療機器該当性の検討対象。表現次第でリスク。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "本家は既に日本語アプリ・公式サイト・ソースネクスト等の国内販路を整備済み。ソフト/アプリ層は構造化データ中心でローカライズ容易。深いUX改修は不要。"
+      },
+      "business_custom": {
+        "score": 7,
+        "reason": "家電量販店（ヨドバシ/ビック）・Amazon・楽天という日本人に馴染む販路が確立。一方サブスク前提のデータ提供は買い切り志向と摩擦。商習慣自体への不適合は限定的。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "SOXAI RING（ソクサイリング）",
+        "url": "https://soxai.co.jp/",
+        "note": "唯一の国産スマートリング。累計5万台超・国内シェア1位、日経トレンディ2025ヒット商品21位。SOXAI RING 2は39,980円・世界最細6.7mm・最長14日バッテリーの買い切り。"
+      },
+      {
+        "name": "RingConn 第2世代",
+        "url": "https://www.ringconn.com/",
+        "note": "52,800円の買い切り。睡眠時無呼吸の傾向計測、充電ケース併用で約150日運用。サブスク不要を訴求し価格・継続コストでOuraに対抗。"
+      },
+      {
+        "name": "Oura Ring（本家・既存世代）",
+        "url": "https://ouraring.com/",
+        "note": "本製品の本家。Ring 4が2025年7月日本発売52,800円〜、Ring 5は65,800円〜。月額999円/年11,800円のサブスク。日本で約1.8万人利用、本記事の評価対象そのもの。"
+      },
+      {
+        "name": "Galaxy Ring（Samsung）",
+        "url": "https://www.samsung.com/",
+        "note": "Galaxyエコシステムと連携するスマートリング。2025年に日本でも話題化。大手ブランド力とスマホ連携を武器に競争を激化させている。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "医薬品医療機器等法（薬機法）",
+        "impact": "睡眠・心拍・活動の計測表示自体は一般健康機器で運用可能だが、血圧シグナル・呼吸障害・疾患の『早期兆候/診断的』示唆を行うと医療機器（プログラム医療機器含む）該当の恐れ。マーケ表現・機能設計でPMDA該当性整理が必要。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "睡眠・心拍・HRV等は要配慮性の高い健康関連情報を含む。取得同意・利用目的の明示・安全管理措置が必須。海外サーバ保管時は越境移転規律も対象となり、プライバシー設計の負荷が高い。"
+      },
+      {
+        "law": "電波法（技適）",
+        "impact": "BluetoothでスマホとペアリングするためBLE無線モジュールは技術基準適合証明（技適）取得が必須。未取得品の国内提供・使用は違法で、ハード自製時の参入障壁となる。"
+      }
+    ],
+    "opportunity": "ハード自製は個人開発に非現実的なため、機会があるとすればソフト/サービス層。Ouraはアプリ・データプラットフォームを自社で囲い込むが、(1)複数リング/スマートウォッチのデータを横断集約し日本語で『睡眠改善・生活提案』に翻訳するコーチングアプリ、(2)企業の健康経営向けにウェアラブルデータを集計するBtoBダッシュボード、(3)医師監修の日本語睡眠改善コンテンツ、等の周辺ソフトは余地がある。ただしOura/SOXAIともAPI開放は限定的で、データ取得経路の確保が前提。本体ハードへの新規参入は推奨しない。",
+    "rationale": "需要は極めて強く市場も1兆円規模で拡大基調。しかし本製品は完成済みのグローバルハードウェアで、本家Ouraは既に日本語アプリ・国内販路・サポートを整備して実参入済み。さらに国産SOXAI（首位5万台）、RingConn、Galaxy Ringが揃い、スマートリング・カテゴリは2025〜2026年で一気に飽和した。個人開発者がこの本体ハードを再現・対抗するのは資金・製造・薬事・技適の面で非現実的。市場機会としては『見送り寄りのwatch』で、参入するならハードではなくデータ集約・睡眠改善コーチング等のソフト周辺に限る。本家の機能進化（Health Radar）も速く、隙間は狭い。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "ヘルスケアは課金実績のあるカテゴリで、本家は月999円/年11,800円のサブスクを成立させている。ただし国産SOXAI/RingConnの買い切りが対抗軸となり、日本ユーザーの継続課金抵抗は無視できない。"
+      },
+      "market_size": {
+        "score": 8,
+        "reason": "国内ウェアラブル/ヘルスケア市場は2025年1兆円超、スリープテック1,603億円。TAMは十分広大で成長中。個人の健康・睡眠管理という普遍ニーズで顧客母数は大きい。"
+      },
+      "gtm": {
+        "score": 2,
+        "reason": "ハードは家電量販店・EC・在庫・物流・サイズ展開を要し、個人のPLGでは到達困難。販路確保と認知獲得に資本と取引基盤が必須で、SI/小売パートナーへの依存度が高い。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "2025〜2026年でSOXAI・RingConn・Galaxy・Ouraが出揃い、本家も日本参入済み。時間窓はほぼ閉じており、いま本体ハードで参入しても先行者の規模・ブランドに対抗できない。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "ハードウェアは製造QC・在庫・返品・故障対応・サイズ交換・薬事/技適維持と運用負荷が極めて高い。24/7に近い供給/サポート体制が要り、個人の手離れ運用は不可能に近い。"
+      }
+    },
+    "rationale": "市場規模と需要は申し分なく、課金カテゴリとしても健康/睡眠は相性が良い。しかし事業成立性を決める残り3軸（GTM・タイミング・個人運用）が壊滅的。ハードウェア事業は個人開発者にとって製造・在庫・物流・サポート・薬事/技適の負荷が高く、PLGで広げられない。加えてカテゴリは既に主要プレイヤーで飽和し、本家Ouraも日本参入済みで時間窓が閉じている。本体ハードでの新規事業は個人/小規模チームには不適合。仮に挑むならハードを作らず、既存リングのデータを活用するソフト/コーチング/健康経営BtoBに絞り、ARPUと手離れ運用を確保する設計が現実的。総合的に事業性は低い。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 800,
+      "plans": [
+        "Free: 1台分のリング/ウォッチデータ連携・基本の睡眠/活動可視化",
+        "Pro: ¥800/月 複数デバイス横断集約・日本語AI睡眠コーチング・週次レポート",
+        "Team(健康経営): ¥30,000/月〜 従業員データ集計ダッシュボード・匿名集計レポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "ハードは自製せず、Oura/SOXAI/Galaxy等の既存スマートリング・スマートウォッチ保有者で、睡眠/コンディション改善を本気で行いたい健康意識層。およびウェアラブル活用の健康経営を志向する中小企業。個人開発者はこのソフト/コーチング層に限定して狙う。",
+      "target_count": 200000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 800000
+    },
+    "recommended_gtm": [
+      "X/noteで睡眠データ改善の実体験を継続発信しPLGで無料枠に誘導",
+      "Qiita/Zennでウェアラブルデータ連携・分析の技術記事を出し開発者層に到達",
+      "睡眠/健康インフルエンサーや医師監修者とのコラボでコンテンツ信頼性を担保",
+      "健康経営優良法人を狙う中小企業向けにBtoBダッシュボードを直販・紹介展開"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本体ハード参入はSOXAI/RingConn/Galaxy/本家Ouraで飽和済み、かつ製造・在庫・薬事・技適で個人開発は事実上不可能。",
+      "ソフト路線でもOura/SOXAIのAPI開放が限定的で、データ取得経路を確保できなければプロダクトが成立しない。",
+      "血圧・呼吸障害等の健康シグナルを扱うと薬機法のプログラム医療機器該当リスクがあり、表現・機能設計を誤ると規制違反となる。",
+      "健康関連の要配慮情報を扱うため個人情報保護法の同意・安全管理・越境移転対応が重く、個人運用の負荷とリスクが高い。",
+      "本家がHealth Radar等でソフト機能を高速に拡張しており、周辺ソフトの隙間も短期間で埋められる可能性が高い。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T02:51:20Z",
+  "review_guide_at": "2026-06-06T02:51:20Z",
+  "business_viability_at": "2026-06-06T02:51:20Z",
+  "advisor_view_at": "2026-06-06T02:51:20Z"
+}

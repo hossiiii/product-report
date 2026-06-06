@@ -1,0 +1,213 @@
+{
+  "name": "Second Brain for AI",
+  "description": "Persistent memory for Claude, ChatGPT & Cursor. Free.",
+  "ph_url": "https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/DHJEGKLQBKHAGY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-31T07:01:00Z",
+  "upvotes": 293,
+  "comments": 56,
+  "topics": [
+    "Open Source",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "9325723",
+      "name": "Rahil Pirani",
+      "twitterUsername": "rahilpirani",
+      "headline": "Founder making AI-forward software"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Semantic retrieval over stored context beats keyword search for memory, and the dedup layer is a smart addition since AI workflows generate a lot of overlapping notes. We've wrestled with context window management in multi-step AI tasks too: deciding when to summarize vs. fetch older context is genuinely tricky. How does the similarity threshold work when memories partially overlap? Can users tune it?</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>This is a strong wedge. The bit I’d be most careful with is treating “newer” as automatically more correct when memories conflict. For writing/product work especially, an old positioning decision might still be canonical while a recent one-off chat is just exploration.</p><p></p><p>A lightweight status layer could help a lot: canonical, draft, preference, deprecated, maybe source-linked. Then the model can say “I found the current rule” vs “I found a past note that may be stale,” instead of injecting both with the same confidence.</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>what the actual setup experience looks like for someone who knows their way around cloudflare but isn't a backend developer. the github readme is usually where these projects lose 80% of potential users because the instructions assume a level of comfort with wrangler and environment variables that most people who would benefit from this don't have. is there a one-click deploy path or is it still a manual configuration process</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Every AI conversation starts from zero. Your projects, decisions, and preferences disappear as soon as you close the chat. Second Brain fixes that. It is a self-hosted memory layer that works with Claude, ChatGPT, Cursor, and any MCP client. You can store context once and recall it by meaning instead of keywords. It includes duplicate detection, semantic search, and a web UI. Built on Cloudflare, it offers a free tier and your data remains yours. MIT licensed.",
+  "featured_at": "2026-05-31T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a258efad-8dea-4ed3-b1bb-169089817168.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a69a7796-caae-4946-91dc-37f175206bd9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0a54f90c-ee12-4a58-bec5-f5ee99626053.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/2a68fbf4-74aa-40b3-975e-c6300a070cf3.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:32",
+  "landing_meta": "GitHub - rahilp/second-brain-cloudflare at producthunt · GitHub — One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. - GitHub - rahilp/second-brain-cloudflare at producthunt",
+  "landing_text": "GitHub - rahilp/second-brain-cloudflare at producthunt · GitHub Skip to content You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert rahilp / second-brain-cloudflare Public Uh oh! There was an error while loading. Please reload this page . Notifications You must be signed in to change notification settings Fork 35 Star 242 main Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 120 Commits 120 Commits .github .github AI_Instructions AI_Instructions assets assets db db integrations integrations public public src src test test .dev.vars.example .dev.vars.example .gitignore .gitignore .npmrc .npmrc LICENSE LICENSE README.md README.md package-lock.json package-lock.json package.json package.json tsconfig.json tsconfig.json vitest.config.ts vitest.config.ts vitest.setup.ts vitest.setup.ts wrangler.toml wrangler.toml View all files Repository files navigation Get Started. Deploying to Cloudflare takes only 2 Minutes - Deploy to Cloudflare in One Click Second Brain #3 Product of the Day on Product Hunt You use Claude for some things, ChatGPT for others, Cursor for code. But your context — your projects, decisions, preferences — doesn’t move with you. You re-explain yourself constantly. Second Brain fixes that. One shared memory, available in every AI tool you use. And unlike the built-in memory inside any single app, this one is yours. It lives in your own account. No platform controls it, and no platform can take it away. Tip Have a question, feature idea, or want to show how you’re using it? Join the conversation in GitHub Discussions ! That’s where releases get announced and the roadmap gets shaped. How it works Connect Second Brain to whichever AI tools you use. Then tell it things once. It finds ",
+  "pricing_signals": [
+    "open source",
+    "self-hosted",
+    "subscription",
+    "pricing",
+    "premium"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:33",
+  "description_ja": "Claude・ChatGPT・Cursor で共有できる、自己ホスト型の永続メモリレイヤー。無料。",
+  "summary_ja": "MCP 経由で Claude・ChatGPT・Cursor など複数の AI ツールに横断的な永続記憶を与える自己ホスト型 OSS。Cloudflare 上に 2 分でデプロイでき、意味検索・重複検出・Web UI を備え、データはユーザー自身のアカウントに残る。MIT ライセンス。",
+  "tldr_ja": "AI 横断メモリの需要は開発者層に顕在だが、本家ネイティブ記憶の無料化と DIY 文化で個人マネタイズはほぼ閉じた窓。",
+  "review_guide_ja": {
+    "what": "MCP（Model Context Protocol）クライアントに対応する自己ホスト型の AI メモリレイヤー。Claude・ChatGPT・Cursor など複数ツールにまたがって「一度伝えた文脈」を保存し、キーワードではなく意味（セマンティック検索）で呼び出せる。重複検出で似た記憶の氾濫を防ぎ、Web UI で管理可能。Cloudflare のフリー枠に約2分・ワンクリックでデプロイし、データはユーザー自身のアカウントに残るため特定プラットフォームに縛られない。MIT ライセンスの OSS。典型ユースケースは、プロジェクトの決定事項・好み・前提を一度書けば全 AI ツールで再利用、複数 AI を使い分ける開発者の文脈の持ち運び、Claude Code 等での積み上げ型作業ログ。",
+    "for_who": "複数の AI ツール（Claude/ChatGPT/Cursor 等）を日常的に併用し、毎回の文脈再説明に不満を持つ開発者・パワーユーザー。Cloudflare/wrangler/環境変数に抵抗がない技術者層が中心。データを自分の管理下に置きたいプライバシー重視層にも訴求。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "MCP サーバー + ベクトル検索 + 重複検出という構成自体は既知で、Qiita/Zenn に多数の自作例がある。ただしセマンティック検索精度・記憶の鮮度/正準管理・複数ツール連携の品質を実用水準に磨くのは一定の労力を要する。"
+    },
+    "signals": [
+      "PH で #3 Product of the Day、293 upvotes・56 コメントと開発者の関心が高い",
+      "Cloudflare フリー枠にワンクリック2分デプロイで導入障壁が低い",
+      "MCP 標準準拠で Claude/ChatGPT/Cursor 等クライアント非依存",
+      "自己ホスト・MIT ライセンスでデータ主権を訴求できる"
+    ],
+    "concerns": [
+      "Claude/ChatGPT/Gemini が 2026 年にネイティブ記憶を無料開放、しかも相互インポート対応で中核価値が侵食",
+      "Mem0・Supermemory・公式 server-memory など競合が密集",
+      "wrangler/環境変数前提の導入で非バックエンド層を取りこぼす（コメントでも指摘）",
+      "記憶衝突時に『新しい＝正しい』と扱う設計への懸念（正準/下書き/非推奨の状態層が必要）",
+      "OSS 自己ホストのためプロダクト側に課金導線がなく収益化が困難"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "Qiita/Zenn に AI 永続記憶・メモリ MCP サーバーの自作記事が多数あり開発者の関心は明確に顕在。一方で多くが自前実装で済ませており、また本家ネイティブ記憶の無料化で『わざわざ別途導入』の引きは弱まりつつある。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Mem0・Supermemory といった海外メモリレイヤー、Anthropic 公式 server-memory、さらに Claude/ChatGPT/Gemini のネイティブ記憶（2026 年無料開放・相互インポート対応）が同領域を覆う。OSS 自作例も豊富で競争は飽和気味。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "ユーザー自身の Cloudflare アカウントに自己ホストする構成のため、開発者側が個人データを保持しない。個情法の越境移転義務は基本的に利用者側の責任で、提供者の規制リスクは低い。該当する強い業法も見当たらない。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "MCP/API/構造化中心で UI 比重が小さく、Web UI と README の日本語化程度で対応可能。対象が英語耐性の高い開発者層のため深い UX 改修は不要。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "『OSS は無料』という日本の固定観念が強く、企業会計が寄付を認めにくいなど課金文化との相性は中庸。自己ホストはセキュリティ重視の国内文化に合う一方、サポート期待値の高さは個人運用の負担になりうる。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Mem0",
+        "url": "https://mem0.ai/",
+        "note": "汎用 AI メモリレイヤー。Free 枠(1万メモリ/月)＋Pro 19〜249USD/月。OSS 版もあり国内開発者の利用・言及がある直接競合。"
+      },
+      {
+        "name": "Supermemory",
+        "url": "https://supermemory.ai/",
+        "note": "クレジット課金型の AI メモリ API。Mem0 と並ぶ主要競合で、エージェント/アプリ組み込み用途を広くカバー。"
+      },
+      {
+        "name": "Anthropic 公式 server-memory（MCP）",
+        "url": "https://github.com/modelcontextprotocol",
+        "note": "公式が提供する MCP メモリサーバー（ローカル知識グラフ/JSONL）。無料・標準で、自作・公式案として日本でも広く参照される。"
+      },
+      {
+        "name": "Claude/ChatGPT ネイティブ記憶",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2090007.html",
+        "note": "2026 年に Claude が全プランへ記憶機能を無料開放し ChatGPT/Gemini からのインポートも対応。横断メモリ需要を本家が吸収しつつある。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法（越境移転・外的環境把握）",
+        "impact": "海外サーバ(Cloudflare)へのデータ保管は越境移転論点になりうるが、自己ホストでは保管・管理責任は利用者側にあり提供者の義務は限定的。事業者が運用代行する形に拡張する場合のみ外的環境把握・本人開示等の対応が必要。"
+      }
+    ],
+    "opportunity": "国内向けの角度は『日本語ナレッジでの意味検索精度』と『記憶の正準性管理』の2点に絞れる。具体的には(1)日本語に強い埋め込み/再ランキングでメモ・議事録・社内用語の検索精度を上げる、(2)コメントでも指摘された『新しい＝正しい』問題に対し canonical/draft/preference/deprecated の状態層と出典リンクを付け、AI が『現行ルール』と『古い参考メモ』を区別して提示できるようにする。さらに wrangler 不要のワンクリック導入と日本語 README/ウィザードで非バックエンド層まで裾野を広げ、Claude Code 連携の積み上げ型ワークフローを国内開発者コミュニティ(Qiita/Zenn)で先に押さえるのが現実的な差別化。",
+    "rationale": "需要シグナル自体は強い：日本の開発者は AI への長期記憶付与に明確な関心を持ち、Qiita/Zenn に自作 MCP メモリサーバーの記事が多数存在する。しかしこの『自作で済む』状況こそが事業機会を削いでおり、加えて Mem0・Supermemory・公式 server-memory、そして 2026 年に無料開放された Claude/ChatGPT/Gemini のネイティブ記憶（相互インポート対応）が中核価値である『ツール横断の記憶』を急速に取り込みつつある。規制とローカライズの容易さは追い風だが、競争の飽和と本家による機能吸収が決定的な逆風。日本独自の角度（日本語検索精度・記憶の正準性管理・導入容易化）に振り切れば局所的な watch 余地はあるが、市場機会としては中庸にとどまる。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "OSS・自己ホストでプロダクト内に課金導線が無く、収益は GitHub Sponsors/有料ホスティング/サポート等の間接手段に限られる。日本は『OSS は無料』意識が強く企業の寄付会計も通りにくいため、ARPU 確保の壁が厚い。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内 IT エンジニアは約144万人と母数はあるが、複数 AI ツールを併用し別途メモリ層に課金する層はごく一部。開発者ニッチで TAM は限定的。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Qiita/Zenn/X での技術発信や PLG 無料枠で開発者にリーチ可能なチャネルは存在。ただし無料の自作・本家機能が常に比較対象になり、有料転換は容易でない。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "2026 年に本家ネイティブ記憶が無料開放＋相互インポート対応済みで、横断メモリの時間窓はほぼ閉じている。競合も密集しており余裕はない。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "自己ホスト型のため運用・インフラ責任は利用者側に移り、提供者の常時監視負荷は低い。ただし導入サポートや GitHub Issue 対応、検索精度改善の継続は個人に重くのしかかる。"
+      }
+    },
+    "rationale": "事業としての成立性は弱い。最大の問題はマネタイズで、OSS 自己ホストはプロダクト内課金が成立せず、日本の OSS 無料文化が間接収益（Sponsors・サポート）の天井をさらに下げる。市場は約144万エンジニアの母数こそあるが、複数 AI を併用し別途メモリ層に金を払う層は薄いニッチ。GTM は Qiita/Zenn/PLG で技術的にはリーチ可能だが、常に無料の自作実装と本家ネイティブ記憶が比較対象に立ちはだかる。さらにタイミングが致命的で、2026 年に Claude/ChatGPT/Gemini が記憶を無料化し相互インポートまで対応したことで中核価値が陳腐化しつつある。唯一の救いは自己ホストによる運用手離れの良さ（solo_ops 高め）だが、収益が立たなければ継続動機が乏しい。趣味 OSS としては良いが、収益事業としては no_go 寄りの consider。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 800,
+      "plans": [
+        "OSS 本体: 無料・MIT・自己ホスト（Cloudflare フリー枠）",
+        "GitHub Sponsors: 月 ¥500〜¥3,000 の支援 tier（任意）",
+        "Managed Hosting(任意拡張): ¥1,500/月 でセットアップ不要のホスト型を提供し収益化を試す",
+        "Pro サポート/カスタム連携: 法人向け個別見積（スポット）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "複数 AI ツール（Claude/ChatGPT/Cursor 等）を日常併用し、文脈の持ち運びとデータ主権を重視する国内の開発者・パワーユーザー。Cloudflare/wrangler に抵抗のない技術者層が中心。",
+      "target_count": 5000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 80000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn で『AI 横断メモリ＋日本語検索精度』連載・導入記事を継続発信",
+      "X(個人発信)で Claude Code 積み上げ型ワークフローのデモを拡散",
+      "PLG: ワンクリック2分デプロイの体験を入口にした無料枠導線",
+      "GitHub Discussions/Sponsors でコミュニティと支援者を醸成",
+      "任意のホスト型(Managed)を用意し非バックエンド層へ裾野拡大"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "本家(Claude/ChatGPT/Gemini)のネイティブ記憶が無料＋相互インポートで核価値を吸収済み。横断メモリという差別化が短期間で陳腐化する。",
+      "Mem0/Supermemory/公式 server-memory と競合密集。無料の自作実装も常に代替肢で、有料転換が極めて難しい。",
+      "OSS 自己ホストで課金導線が無く、日本の OSS 無料文化が間接収益も圧迫。継続の経済的動機が弱い。",
+      "wrangler/環境変数前提の導入で潜在ユーザーの大半を取りこぼす（PH コメントでも指摘）。Managed 版を出すと運用負荷が増し solo_ops の利点が消える。",
+      "記憶衝突時の正準性管理が未成熟だと AI が古い情報を現行扱いし信頼を損なう。差別化の肝だが実装難度が高い。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T02:33:04Z",
+  "review_guide_at": "2026-06-06T02:33:04Z",
+  "business_viability_at": "2026-06-06T02:33:04Z",
+  "advisor_view_at": "2026-06-06T02:33:04Z"
+}

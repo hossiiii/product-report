@@ -1,0 +1,231 @@
+{
+  "name": "Paste MCP & AI Tools",
+  "description": "Infinite clipboard for Claude, Codex and other AI tools",
+  "ph_url": "https://www.producthunt.com/products/paste?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/Z3SLDWOM7BPP4W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-02T07:01:00Z",
+  "upvotes": 223,
+  "comments": 19,
+  "topics": [
+    "Mac",
+    "Productivity",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "592376",
+      "name": "Alexandra Protsenko",
+      "twitterUsername": null,
+      "headline": "Build products that steal hearts"
+    },
+    {
+      "id": "5768342",
+      "name": "Vladislav Kartashov",
+      "twitterUsername": null,
+      "headline": "Software Engineer"
+    },
+    {
+      "id": "684718",
+      "name": "Roman Resenchuk",
+      "twitterUsername": "romacv777",
+      "headline": "Software Engineer, IT entrepreneur"
+    },
+    {
+      "id": "4319032",
+      "name": "George Rostomov",
+      "twitterUsername": null,
+      "headline": "Illustrator & Art Director"
+    },
+    {
+      "id": "201230",
+      "name": "Dmitry Obukhov",
+      "twitterUsername": "stel2k",
+      "headline": "Maker at Paste and Wishes"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Great! Will it be accessible via Setapp as well? </p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p><a href=\"https://www.producthunt.com/@protsenkoalexandra\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"protsenkoalexandra\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@protsenkoalexandra</a> Congrats on the launch! Can Claude save things back to Paste, or is it only able to search clipboard history?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Hey there,</p><p></p><p>Paste helps people save, search, and organize everything they copy across Mac and iOS. Today, we’re launching Paste MCP, a new way to bring your clipboard history into AI tools like Claude, Codex, and Cursor.</p><p></p><p>AI tools work best when they understand what you’re working on. But that context is often spread across links, notes, screenshots, snippets, files, and random ideas you copy during the day. Paste MCP brings that context into your AI workflow through a built in local MCP server on your Mac.</p><p></p><p>You can ask your AI tool to find something you copied earlier, use saved context in a draft, or create a pinboard without leaving your chat.</p><p></p><p>A few examples:</p><ul><li><p>Check Paste for the meeting notes I copied earlier and turn them into a team update.</p></li><li><p>Find the links I saved about onboarding and summarize the key points.</p></li><li><p>Create a pinboard for this project and add the relevant items.</p></li></ul><p>Paste MCP runs locally on your Mac. You choose which AI tools can connect, and you can remove access anytime.</p><p></p><p>Big thanks to <a href=\"https://www.producthunt.com/@chrismessina\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"chrismessina\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@chrismessina</a> for hunting Paste again and supporting us on this launch.</p><p></p><p>We’d love to hear what you try first, what you find useful, and what you think is missing.</p><p></p><p>Thanks for checking it out!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Privacy-first, lightning fast, searchable, and avaialbe across all devices. Save snippets, sync securely, and boost productivity with smart shortcuts and instant paste history.",
+  "featured_at": "2026-06-02T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a39ca773-af23-4baf-abf8-973e3e0c04de.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5db77145-bcfd-4406-8253-24f7cc76321c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d8d04a22-6133-4c6a-a6e4-52b350b72566.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d98b746a-6680-4b39-8f70-d8463334e1c0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/052e9245-9ebf-4600-8e75-a6a7c3ad12a2.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/0ffd56f7-6b11-4e7d-ae08-012dea4e281b.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:45",
+  "landing_meta": "Paste MCP — Paste MCP connects clipboard history to Claude, Codex, Cursor, and other AI tools, so you can use saved context while staying in your AI workflow.",
+  "landing_text": "Paste MCP Paste Everyone Developers Designers Content & Marketing Use Cases Help Blog Updates Pricing Try for free Use Cases Everyone Developers Designers Content & Marketing Resources Help Blog Contact Updates Pricing Try for free Paste MCP MCP Turn clipboard history into context for AI tools Paste MCP connects your clipboard history to Claude, Codex and other AI tools Keep, search, organize, and collaborate on everything your team copies across all devices. Keep, search, organize, and collaborate on everything your team copies across all devices. Try for free Set up MCP Use Paste as memory for your AI workflow Ask your AI tool to turn notes, links, files, and other items saved in Paste into something useful Use Paste as memory for your AI workflow Ask your AI tool to turn notes, links, files, and other items saved in Paste into something useful Draft updates from copied notes Find the notes I copied today in Paste. Draft a team update for the launch using them. Start from saved research Find all items related to this research that I copied in Paste this week. Suggest a structure for my presentation. Reflect on your workflow Check Paste for what I copied today. Give me a brief recap of my work. Organize projects in pinboards Find all items relevant to this project in Paste. Create a pinboard and add them there. Use Paste as memory for your AI workflow Ask your AI tool to turn notes, links, files, and other items saved in Paste into something useful Draft updates from copied notes Find the notes I copied today in Paste. Draft a team update for the launch using them. Start from saved research Find all items related to this research that I copied in Paste this week. Suggest a structure for my presentation. Reflect on your workflow Check Paste for what I copied today. Give me a brief recap of my work. Organize projects in pinboards Find all items relevant to this project in Paste. Create a pinboard and add them there. Set up Paste MCP Works with Claude, Codex, Cursor, ",
+  "pricing_signals": [
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:46",
+  "description_ja": "Claude や Codex などの AI ツールから使える無限クリップボード",
+  "summary_ja": "Mac/iOS のクリップボード履歴を保存・検索・整理する定番アプリ Paste の新機能。ローカル MCP サーバー経由で履歴を Claude・Codex・Cursor 等の AI ツールに渡し、過去にコピーした文脈を会話内で再利用できる。",
+  "tldr_ja": "海外定番アプリ Paste の追加機能で日本にも既に展開済、無料 OSS の clipboard-MCP も乱立。個人での後追い開発は不利。",
+  "review_guide_ja": {
+    "what": "Mac/iOS 向けクリップボード管理アプリ Paste の新機能「Paste MCP」。コピーしたテキスト・リンク・画像・スニペット・ファイルを履歴として保存し、ピンボードで整理する本体機能に加え、Mac 上でローカル MCP サーバーを立て、Claude・Codex・Cursor などの AI クライアントから履歴を検索・参照できるようにする。典型ユースケースは「今日コピーしたメモを探してチーム共有文を起草」「今週保存したリサーチ素材から資料構成を提案」「プロジェクト関連項目をピンボード化」など、AI に作業文脈（メモリ）を供給する用途。接続する AI ツールはユーザーが選択でき、アクセスはいつでも解除可能。",
+    "for_who": "Mac/iOS を日常的に使い、Claude Desktop・Cursor・Codex 等の AI ツールを業務で使う開発者・デザイナー・コンテンツ/マーケ職。クリップボード履歴を AI の文脈として再利用したいパワーユーザー、および既存 Paste 課金ユーザー。",
+    "reproducibility": {
+      "level": "easy",
+      "reason": "MCP サーバー実装は仕様公開済で容易。clipboard 履歴を読み出す MCP は既に複数の無料 OSS（erik-balfe/mcp-clipboard, vlad-ds/maccy-clipboard-mcp 等）が存在し、機能自体は容易に再現できる。"
+    },
+    "signals": [
+      "PH 223 upvotes・Chris Messina ハント。AI×生産性カテゴリで一定の注目",
+      "MCP を既存有料アプリの差別化機能として載せる戦略は明快",
+      "完全ローカル動作・接続先選択可でプライバシー訴求が明確",
+      "日本でも Paste は App Store/Setapp 経由で既知の定番アプリ"
+    ],
+    "concerns": [
+      "本体は確立済の海外アプリで、MCP は単なる追加機能。新規参入余地が薄い",
+      "clipboard 履歴を渡す MCP は無料 OSS が複数存在し機能が既にコモディティ化",
+      "クリップボード管理は日本でも Clipy 等の無料定番があり ARPU が低い",
+      "MCP 連携を実需として使う層は現状ごく一部のヘビーユーザーに限られる"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 4,
+        "reason": "クリップボード管理アプリ自体は日本で需要があり Clipy/Paste/Clibor 等が普及。一方「クリップボード履歴を MCP で AI に渡す」という具体機能の需要シグナルは弱く、Qiita/Zenn でも MCP 一般の記事は多いがクリップボード MCP の言及はほぼ見られない。需要は限定的。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "本体 Paste は日本でも App Store/Setapp で展開済の定番。加えて Clipy(国産無料)・Maccy・CleanClip・Clibor 等が競合。クリップボード MCP も erik-balfe/mcp-clipboard 等の無料 OSS が複数存在し、ほぼ飽和。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "ローカル動作のクリップボード管理ツールで該当する重い法令は基本なし。クラウド同期を伴う場合のみ個人情報保護法上の取扱いに留意する程度で、実装上の障壁はほぼない。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "MCP は構造化 API 中心で日本語化はメニュー/ヘルプ翻訳が主。UI も既存クリップボードアプリで枯れたパターンであり、深い UX 改修は不要。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "個人開発者の生産性ツールという文脈で商習慣の壁は小さい。ただ法人導入では情報持ち出し懸念からクリップボード常駐ツールが禁止される企業もあり、完全フィットではない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Paste (本体・Setapp 含む)",
+        "url": "https://pasteapp.io/",
+        "note": "本プロダクトそのもの。日本でも App Store と Setapp 経由で広く知られた定番。月額600円/年4,500円程度。MCP は本体の追加機能として提供済で、後発の入る余地が薄い。"
+      },
+      {
+        "name": "Clipy",
+        "url": "https://clipy-app.com/",
+        "note": "日本人開発の無料オープンソース クリップボード管理アプリ。日本語対応・スニペット機能つきで国内人気が高く、無料という強力な代替。AI 連携は無いが基本機能で多くの需要を吸収。"
+      },
+      {
+        "name": "mcp-clipboard / maccy-clipboard-mcp 等 (OSS)",
+        "url": "https://github.com/erik-balfe/mcp-clipboard",
+        "note": "クリップボード履歴を AI に渡す MCP サーバーの無料 OSS が複数存在。Maccy(無料)向け MCP もあり、Paste MCP の中核機能は事実上コモディティ化している。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "クリップボード内容にはパスワードや個人情報が含まれうる。ローカル保存なら問題は小さいが、クラウド同期や AI クラウドへの送出を伴う設計では取扱い・委託先管理に留意が必要。実装難度は低い。"
+      }
+    ],
+    "opportunity": "日本独自の角度は限定的。仮に攻めるなら「国産・完全ローカル・日本語ファースト」の無料/低価格クリップボード MCP として Clipy 系の無料ユーザー層に AI 連携を後付けする方向。あるいは Paste/Maccy など既存クリップボードアプリの履歴を読む OSS MCP を日本語ドキュメント付きで整備し、課金ではなく自作・社内利用を支援するエコシステム貢献。いずれも単体プロダクトとしての事業化より、既存無料ツールの補完に近い。",
+    "rationale": "クリップボード管理は日本でも定着したカテゴリだが、Paste 本体は既に App Store/Setapp で展開済の海外定番であり、MCP は本体の追加機能に過ぎない。新規プロダクトとして同じ土俵で勝負する余地は薄い。さらにクリップボード履歴を AI へ渡す MCP は erik-balfe/mcp-clipboard や maccy-clipboard-mcp など無料 OSS が複数存在し中核機能がコモディティ化、国産無料の Clipy も基本機能で需要を吸収している。MCP×クリップボードの具体的需要シグナル(国内 Qiita/Zenn 等)もほぼ確認できず顕在化していない。規制・ローカライズの障壁は低いが、競合不在とは程遠く需要も弱いため市場機会としては skip 評価。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "クリップボード管理は日本で Clipy 等の無料定番があり課金壁が厚い。Paste でも月額600円/年4,500円程度が上限相場で ARPU は低い。MCP 機能単体に追加課金する意思は乏しく、無料 OSS が存在する以上スムーズな ARPU 確保は困難。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "Mac ユーザー かつ AI ツール(Claude/Cursor 等)常用者 かつ クリップボード履歴を AI 文脈に使いたい層、という三重の絞り込みで TAM は小さい。クリップボードアプリ全体は広いが、MCP 連携を実需とする層はニッチ。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "PLG/無料枠や Qiita/Zenn 発信での到達は個人でも可能だが、無料 OSS と既存定番アプリに埋もれやすく差別化発信が難しい。チャネル自体は存在するため中庸。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "本家 Paste が既に MCP を実装・展開済で、無料 OSS の clipboard MCP も既に複数存在。時間窓は事実上閉じており、後発参入のタイミング的余裕はほぼない。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "ローカル動作中心のツールでサーバー常時監視や 24/7 SLA は不要。クライアント配布型なら運用負荷は軽く個人運用は継続しやすい。"
+      }
+    },
+    "rationale": "事業性は低い。第一に課金面で、国産無料の Clipy をはじめ無料代替が豊富、Paste 本体でも ARPU が月数百円規模に留まり、AI 連携(MCP)に対し追加で支払う意思は乏しい。無料 OSS の clipboard MCP が複数存在する点が課金圧力を一段と弱める。第二に市場は Mac×AI ツール常用×クリップボード AI 連携志向という三重の絞り込みで小さい。第三にタイミングが致命的で、本家 Paste が既に MCP を出荷済かつ OSS も出揃っており時間窓が閉じている。GTM は Qiita/Zenn・PLG で到達自体は可能、個人運用負荷も軽いが、収益化・市場規模・タイミングの弱さが上回り、新規事業としては成立しにくい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "open_source",
+      "arpu_jpy": 0,
+      "plans": [
+        "OSS 無料公開: クリップボード履歴を読む MCP サーバーを GitHub/npm で配布（課金しない）",
+        "任意: GitHub Sponsors / Buy Me a Coffee での寄付受付"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Mac を使い Claude Desktop/Cursor/Codex 等の AI ツールを日常業務で使う国内の開発者・パワーユーザーのうち、クリップボード履歴を AI 文脈として再利用したい層。法人より個人・小規模チーム中心。",
+      "target_count": 30000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 0
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn でのクリップボード MCP セットアップ解説記事",
+      "GitHub での OSS 公開とスター獲得",
+      "X での個人発信(AI×生産性ワークフロー文脈)"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "本家 Paste が既に MCP を出荷済で、同じ価値提案の新規プロダクトは市場の入口で勝負にならない。",
+      "クリップボード履歴を AI に渡す MCP は erik-balfe/mcp-clipboard 等の無料 OSS が複数存在し、有料化の余地がほぼない(コモディティ化)。",
+      "国産無料 Clipy 等が基本機能で需要を吸収しており、クリップボード管理単体での課金獲得が困難。",
+      "MCP×クリップボードの実需シグナルが国内で確認できず(検索で根拠未確認)、市場が顕在化していないニッチに賭ける形になる。",
+      "クリップボード常駐+AI 送出は情報持ち出し懸念で法人導入が制限されやすく、B2B 拡大も難しい。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

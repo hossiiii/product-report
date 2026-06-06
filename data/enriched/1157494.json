@@ -1,0 +1,243 @@
+{
+  "name": "Ava 2.0",
+  "description": "Your AI BDR that runs outbound sales autonomously",
+  "ph_url": "https://www.producthunt.com/products/artisan-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/HMYIC7WZZM3MNU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-29T07:01:00Z",
+  "upvotes": 360,
+  "comments": 31,
+  "topics": [
+    "Productivity",
+    "Sales",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "9691303",
+      "name": "Lucas Moeller",
+      "twitterUsername": null,
+      "headline": "Building AI employees @ Artisan"
+    },
+    {
+      "id": "6131237",
+      "name": "Jaspar Carmichael-Jack",
+      "twitterUsername": null,
+      "headline": "Co-founder & CEO, building AI employees."
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey PH 👋</p><p><br>I'm Jaspar, co-founder and CEO of Artisan. I started my first business at 7, selling candy from my bedroom. Since then I've raised $36M+ to build AI employees and we're currently at ~$10M ARR.</p><p><br>Some of you might remember our first PH launch in February 2024 when we first launched Ava the AI BDR.</p><p><br>Today we're releasing Ava 2.0. We rebuilt her from the ground up and she is now fully autonomous and she runs your entire outbound on autopilot. She finds leads, sends personalized outreach, handles objections, and books meetings on your calendar. No human in the loop.</p><p><br>She searches through 300M+ contacts, enriches every lead, and watches for intent signals like funding rounds and leadership changes. She launches personalized multi-channel campaigns, runs continuous multi-variate tests, and auto-optimizes toward what converts. When a prospect replies, Ava reads the response, handles objections, answers questions, and books the meeting.</p><p><br>With Artisan, the entire sales stack lives in one place. Lead discovery, enrichment, signals, sequencing, a dialer, and deliverability infrastructure. All in one platform.</p><p><br>She's already running outbound for thousands of reps at companies like Corgi, SaaStr, Quora, and CookUnity.<br></p><p>🎁 For the PH community: new users get $300 in free credits. No credit card required. <a href=\"http://artisan.co\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">artisan.co</a></p><p><br>Jaspar</p>",
+      "votesCount": 15,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The hard part with an autonomous BDR is not “can it send more?” It is whether the system knows when not to send.</p><p></p><p>For a tool like Ava, I’d want the review layer to make a few things very visible before outreach goes out: why this account, why now, what evidence supports the angle, what would make this a bad fit, and what the fallback is if confidence is low. Learning from ignores and bad-fit replies matters as much as learning from booked meetings.</p><p></p><p>That’s the line between useful outbound automation and just scaling the same spray-and-pray problem with better copy.</p>",
+      "votesCount": 6,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Looks interesting. The data with Eva covers for niche industries like local small businesses as well or its more relevant for B2B startups and the likes?? </p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Ava is an AI BDR that runs your entire outbound on autopilot. She sources leads from 250M+ professionals, runs multi-channel outreach, and books qualified meetings. Fully autonomously.",
+  "featured_at": "2026-05-29T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/e73735a8-47b9-4828-af51-05e7daf52328.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4d066ffc-be7a-4ebb-8fd7-66e4d5b33f70.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3a2454e4-e4b0-4967-9e40-deabbdf7bf44.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c3dce9cd-9672-467c-a661-7ec796aab0c6.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9f28dab5-efab-4c04-a69a-cbf7f5eddefa.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/71e15f7b-bb6e-4bfc-9d05-00339b43f6cb.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/646cc137-eabb-4d84-8e11-42acb0ccbeb0.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:31",
+  "landing_meta": "Boost Your Outbound Sales with an AI BDR from Artisan — Artisan automates your outbound with an all-in-one, AI-first platform powered by AI employees. Get better outbound sales results with an AI BDR.",
+  "landing_text": "Boost Your Outbound Sales with an AI BDR from Artisan Hire Ava on trial for free and get $300 of credits. No credit card required. Hire Ava on trial and get 10,000 free credits worth $300. No credit card required. Get started Get a demo Login Start free trial Hire Ava The autonomous AI BDR She finds leads, sends personalized outreach, handles objections and books meetings at a fraction of the cost of a human BDR. Start free trial Book a demo FAST-GROWING BUSINESSES USE AVA Outbound was hard to scale More headcount, more tools, more complexity. And still no predictable way to grow pipeline. With Ava, it's easy B2B data, enrichment, signals, multi-channel sequences, and meeting booking. All built into one AI BDR. B2B data AI BDR Email generation A/Z testing Intent data Enrichment B2B data AI BDR Email generation A/Z testing Intent data Enrichment A/Z testing Dialer Local business data Enrichment Email generation Intent data AI BDR B2B data Deliverability Website visitors How Ava runs outbound autonomously Set your outbound strategy once. Ava finds the leads, runs the campaigns, and books the meetings. 1 She finds and prioritizes high-intent leads Search 250M+ verified B2B contacts or import from your CRM. Ava enriches prospects using 22+ data sources, then prioritizes them by likelihood to convert using intent signals like funding rounds and leadership hires. 2 She launches personalized multi-channel sequences Ava sends personalized multi-channel outreach across email and social. She queues call steps in the native dialer so your reps can click and dial without leaving the platform. 3 She tests and optimizes messaging automatically Ava runs dozens of message variations per campaign simultaneously, testing subject lines, structure, CTAs, and tone. She shifts volume toward what's working so performance compounds over time. 4 She handles replies and books meetings autonomously Ava handles every reply. She qualifies interested leads, handles objections, and books meetings",
+  "pricing_signals": [
+    "free trial",
+    "pricing",
+    "$300",
+    "$100",
+    "$52",
+    "$1",
+    "$15",
+    "$0",
+    "$21"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:31",
+  "description_ja": "アウトバウンド営業を完全自律で回すAI製のBDR（新規開拓担当）",
+  "summary_ja": "2.5億件超のB2B連絡先からリードを発掘し、インテントシグナルで優先付けして、メール・SNSのマルチチャネル施策を自動実行。返信対応や反論処理、商談予約まで人を介さず自律で回すAI営業エージェント。",
+  "tldr_ja": "国内はSales Marker等の競合が密で本家も日本語自走済み、特商法/特電法のオプトイン規制も厚く個人開発は不利",
+  "review_guide_ja": {
+    "what": "Ava 2.0はアウトバウンド営業を完全自律で運用するAI BDR。2.5〜3億件のB2B連絡先DBからリードを抽出、22以上のデータソースで補完し、資金調達や経営陣交代などのインテントシグナルで確度順に優先付けする。メール・SNSのマルチチャネル配信、件名やCTAの多変量テストと自動最適化、内蔵ダイヤラー、到達性インフラを1プラットフォームに統合。返信が来ると内容を読み、反論に応答し、商談をカレンダーに自動予約する。典型ユースケースは、B2B SaaSやスタートアップの新規パイプライン構築をBDR増員なしでスケールさせる用途。月額+クレジット制で自社採用より低コストを訴求する。",
+    "for_who": "新規開拓パイプラインを増やしたいB2B SaaS・スタートアップ・成長企業の営業/マーケ責任者。BDRを増員せずにアウトバウンドをスケールしたい、あるいはSDR採用が難しい小〜中堅企業。米国型のコールドアウトバウンド文化を前提とした顧客像。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "2.5億件超のB2B連絡先DB、22以上の補完ソース、インテントデータ、到達性インフラ、返信を解釈し自律応答するエージェントの全体が参入障壁。個人開発でこの一気通貫を再現するのは極めて困難。"
+    },
+    "signals": [
+      "本家は累計$36M超を調達、ARR約$10M、Corgi/SaaStr/Quora等で導入実績",
+      "グローバルAI営業市場は2024年約246億ドル→2025年292億ドルへ拡大",
+      "日本でもインサイドセールス導入率は約40%、直近1年で導入企業が急増",
+      "国内に同カテゴリ需要は顕在（Sales Marker 600社超、APOLLO SALES等）"
+    ],
+    "concerns": [
+      "本家Avaが既に日本語対応かつセルフサーブで日本からも利用可能（時間窓ほぼゼロ）",
+      "国内競合が密集（Sales Marker、APOLLO SALES、AI営業部長、MIKOMER等）",
+      "特定電子メール法のオプトイン原則・個情法でコールドアウトバウンドが米国ほど自由でない",
+      "完全自律アウトバウンドは到達性悪化・スパム判定・ブランド毀損リスクを内包",
+      "コメントでも『送らない判断』の精度や地場中小対応への懸念が指摘されている"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "インサイドセールス導入率約40%、AI営業ツール特集が多数あり需要は顕在。Sales Marker 600社超、APOLLO SALES等の実績から国内B2B新規開拓自動化ニーズは確実に存在。ただし『完全自律・無人アウトバウンド』への信頼度は日本では未だ慎重で、需要の質は米国より保守的。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Sales Marker（インテントセールス、520万社DB、600社超導入）、APOLLO SALES（150万社DB、フォーム/メール自動営業）、AI営業部長、MIKOMER、Sales Crowd等が既に密集。日本語完全対応の国内プレイヤーが先行しており、競合の少なさは低い。"
+      },
+      "regulation": {
+        "score": 4,
+        "reason": "特定電子メール法はオプトイン原則（名刺交換・公開アドレス・既存取引は例外）、配信停止と送信者情報明記が必須。個人情報保護法もメールアドレスに及ぶ。無人大量コールドメールは規制・到達性両面でリスクが高く、米国型の完全自律前提が崩れる。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "コアはAPI/データ処理中心で技術的ローカライズ余地はあるが、日本語の自然な営業文面、敬語/商談トーン、国内企業DB（法人番号・業種コード連携）の整備が重い。本家も日本語対応済みのため差別化のための日本特化UXは相当の作り込みを要する。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本のB2Bは紹介・既存接点・丁寧な関係構築を重視し、無人・大量のコールドアウトバウンドへの抵抗感が強い。フォーム営業は普及するが嫌悪も根強い。米国式『完全自律スプレー』はそのままでは商習慣に合わず、調整が必須。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Sales Marker（セールスマーカー）",
+        "url": "https://sales-marker.jp/",
+        "note": "インテントデータ×自律型AIで確度の高い商談を獲得する国内大手。520万社DB、600社超の導入実績。資金力・データ・販路で先行し、Avaの国内直接競合。料金は要問合せの複数プラン制。"
+      },
+      {
+        "name": "APOLLO SALES（アポロセールス）",
+        "url": "https://apollosales.co/",
+        "note": "株式会社Onion提供。日本語完全対応、150万社超の国内DBから営業リストを自動生成しフォーム/メール営業を一括実行。月数万円〜（例:月2000社で4万円〜）と個人/中小が手の届く価格帯。"
+      },
+      {
+        "name": "AI営業部長",
+        "url": "https://www.ai-sales.ai/",
+        "note": "AIが1社ごとに最適化した営業メールを自動送付する国内サービス。コールドメール領域での直接競合で、日本語前提の文面生成に強み。"
+      },
+      {
+        "name": "MIKOMER / Sales Crowd",
+        "url": "https://www.aidma-hd.jp/sales/sales-crowd/",
+        "note": "MIKOMERは問い合わせフォームへAIが営業文を自動送信。Sales Crowdは1000万件超の企業DBでリスト作成〜アプローチ〜顧客管理まで支援。フォーム営業・リスト系で競合層は厚い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定電子メール法",
+        "impact": "営業メールは原則オプトイン（事前同意）が必要。名刺交換・自社サイトでの公開アドレス・既存取引先は例外。送信者情報の明記と配信停止手段の設置が義務で、配信停止は速やかに反映。送信者情報を偽れば1年以下の懲役/100万円以下の罰金。無人大量送信モデルは設計上の制約大。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "メールアドレス・氏名・所属等は個人情報に該当し、取得経路・利用目的・第三者提供の適正化が必要。海外データソース由来のリードを扱う場合、取得適法性と越境移転の論点が生じ、無断スクレイピング型リストはリスクが高い。"
+      },
+      {
+        "law": "不正競争防止法・著作権法",
+        "impact": "外部DBやLinkedIn等からの大量取得・転用は規約違反や権利侵害のリスク。検索で日本固有の確定的影響は根拠未確認だが、データ調達の適法性は事業の前提条件として要精査。"
+      }
+    ],
+    "opportunity": "日本独自の角度を取るなら『完全自律スプレー』ではなく、規制と商習慣に適合した半自律型に振る。具体的には(1)名刺・既存取引・公開アドレスなどオプトイン例外を起点にしたコンプライアンス内での文面生成・配信、(2)法人番号/業種コード連携で国内企業DBを正規に整備、(3)送る前に『なぜこの会社・なぜ今・根拠・送らない判断』を可視化するレビュー層（PHコメントでも要望）で日本企業の慎重さに応える、(4)フォーム営業など国内で普及済みチャネルへの特化。ただし国内競合が先行済みで差別化は容易でなく、機会は限定的。",
+    "rationale": "需要そのものは顕在で市場は拡大局面だが、日本市場適合度の観点では総じて不利。第一に競合密度が高く、Sales MarkerやAPOLLO SALES等の日本語完全対応プレイヤーが資金・データ・販路で先行している。第二に特定電子メール法のオプトイン原則と個情法により、本家Avaの核である『無人・大量・完全自律のコールドアウトバウンド』という価値前提が日本では成立しにくく、規制適合のために設計を曲げる必要がある。第三に日本のB2B商習慣は関係構築重視で、スプレー型への抵抗が強い。さらに本家Ava自体が既に日本語対応かつセルフサーブで国内から利用できるため、ローカライズ参入の時間窓はほぼ無い。総じて『機会はあるが個人開発で勝つ角度が乏しい』skip寄りの評価。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "国内同カテゴリは月4〜10万円規模の課金が成立しており（APOLLO SALES月4万円〜、Sales Markerプラン制）、B2B SaaSは法人課金に慣れている。ARPU確保は現実的。一方で『無人で勝手に送る』への不信から、効果実証前の継続課金ハードルは相応に高い。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内SaaS市場は2027年に約3030億円、インサイドセールス導入率約40%で対象企業母数は十分にある。ただしアウトバウンド自動化に予算を割く層は中堅以上に偏り、個人開発が現実に取れるセグメントは限定的。TAMは広いがリーチ可能領域は狭い。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PLG無料枠やコンテンツ発信での認知獲得は可能だが、営業自動化は実績・信頼が購入要件で、純PLGだけでは決まりにくい。先行競合がSEO/比較サイト/イベントを押さえ、個人がリーチ可能なチャネルは限られる。導入前の不信払拭にデモ・伴走が要る点も重い。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "本家Avaが既に日本語対応かつセルフサーブで国内から利用可能、国内競合も多数稼働中。時間窓はほぼ閉じており『本家進出まで数年』どころか既に進出済み。後発・個人での参入タイミングとしては最も不利な部類。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "到達性監視（ドメイン評価・スパム判定）、データ鮮度維持、誤送信・誤応答による顧客クレーム対応、規制順守の継続管理が常時発生。AIの自律応答が誤れば顧客のブランド毀損に直結するため、CS負荷とSLA期待が高く手離れしにくい。"
+      }
+    },
+    "rationale": "事業成立性は中庸〜やや低い。課金嗜好(monetization)と市場母数(market_size)は及第点で、国内B2Bは月数万円のツール課金に慣れ、対象企業も多い。しかし致命的に弱いのがtimingとsolo_ops、そしてgtmだ。本家Avaが既に日本語対応・セルフサーブで国内利用可能なうえ、Sales Marker・APOLLO SALES等の国内勢が販路とデータで先行しており、後発・個人が割って入る時間窓はほぼ無い。販売面でも営業自動化は実績・信頼が購入条件で純PLGでは決まりにくく、個人がリーチできるチャネルは限られる。運用面では到達性監視・データ鮮度・誤送信クレーム・規制順守が常時発生し、AI自律応答の失敗が顧客のブランド毀損に直結するため手離れしない。総じて『市場はあるが、後発個人が持続的に黒字化する道筋が描きにくい』。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "monthly",
+      "arpu_jpy": 60000,
+      "plans": [
+        "Free: 月100リード抽出+文面生成のみ（送信は手動エクスポート）でPLG入口",
+        "Starter: ¥30,000/月（月1000社・オプトイン例外リストへの配信支援）",
+        "Pro: ¥60,000/月（インテント優先付け+マルチチャネル+レビュー層）",
+        "Business: ¥150,000/月〜（複数キャンペーン・チーム・到達性管理）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "新規パイプラインを増やしたいが専任BDRを置けない国内B2B SaaS・IT・士業/コンサル等の中小〜中堅企業の営業/マーケ責任者。名刺・既存接点・公開アドレスなどオプトイン例外を起点に、規制内でアウトバウンドを効率化したい層。",
+      "target_count": 8000,
+      "capture_pct_year3": 1.5,
+      "monthly_revenue_target_jpy": 7200000
+    },
+    "recommended_gtm": [
+      "PLG無料枠（リスト抽出+文面生成まで無料、送信で課金）で導入障壁を下げる",
+      "Qiita/Zenn/noteでアウトバウンド×コンプライアンス×AIの実装/運用知見を連載",
+      "X個人発信で送信前レビュー層・到達性ノウハウを開示し信頼を蓄積",
+      "比較サイト(BOXIL/アスピック/ITreview)掲載とレビュー獲得で検索流入を確保",
+      "国内SaaS/インサイドセールス系コミュニティ・イベントでの事例共有"
+    ],
+    "time_window_months": 3,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家Avaが既に日本語対応・セルフサーブで国内利用可能、かつSales Marker等が先行しており、後発個人が時間窓・差別化を確保できない。",
+      "特定電子メール法のオプトイン原則と個情法により無人大量コールドメールが成立しにくく、本家の核となる価値前提が日本で崩れる。規制違反は罰則あり。",
+      "外部/海外DBからのリード調達の適法性（取得経路・越境移転・規約/権利侵害）が事業の前提リスクで、無断スクレイピング型は持続不能。",
+      "AIの自律送信・自律応答の誤りが顧客のブランド毀損やスパム判定に直結し、CS負荷と賠償リスクが高い。個人の運用継続が困難。",
+      "営業自動化は実績・信頼が購入要件で純PLGでは決まりにくく、個人開発者の販路・与信不足が獲得の壁になる。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T11:17:31Z",
+  "review_guide_at": "2026-06-06T11:17:31Z",
+  "business_viability_at": "2026-06-06T11:17:31Z",
+  "advisor_view_at": "2026-06-06T11:17:31Z"
+}

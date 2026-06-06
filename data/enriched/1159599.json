@@ -1,0 +1,237 @@
+{
+  "name": "Typeahead",
+  "description": "AI autocomplete for every app on your Mac",
+  "ph_url": "https://www.producthunt.com/products/typeahead?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/G2V2YZAFH5VK2F?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-01T07:01:00Z",
+  "upvotes": 296,
+  "comments": 47,
+  "topics": [
+    "Productivity",
+    "Writing",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "23",
+      "name": "Hiten Shah",
+      "twitterUsername": "hnshah",
+      "headline": "CEO of Crazy Egg (est. 2005)"
+    },
+    {
+      "id": "102822",
+      "name": "Sam Asante",
+      "twitterUsername": "SamAsante",
+      "headline": "Entrepreneur - Investor"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p><em>Hey Product Hunt </em>👋<br><br>I’m Sam, co-founder of Typeahead.<br><br>We built it because most AI writing tools still take you away from the place writing actually happens. You open a chatbot, paste text into a box, get something back, then spend time trying to make it sound like you.<br><br>That never felt like the right interface for writing.<br><br>Typeahead works inline in every text field on your Mac. As you type, it instantly suggests words and sentences right at the cursor, so you can move faster and think less about the tool. It feels more like your computer helping you write than using a separate AI product.<br><br>A big part of the product for us was making this local. Typeahead runs on a local AI model, works offline and keeps your writing on your device. We also wanted it to feel like software you own, which is why it's a one-time purchase rather than another subscription.<br><br><strong>A few things that make it different:</strong></p><ul><li><p>inline suggestions, right where you already type</p></li><li><p>works across your Mac instead of inside one app</p></li><li><p>built to write <em>with</em> you, not for you</p></li><li><p>runs locally, your writing stays on your device</p></li><li><p>one-time purchase, free updates for life</p></li></ul><p><br>Would love to hear what you think, especially from people who have tried chat-style AI for writing and found it broke their flow.<br><br>I'll be around all day replying to comments.</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Interesting idea. But I would like to try it before purchasing it.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Really like the \"writes with you, not for you\" angle — that's the line I </p><p>keep coming back to when building my own AI writing tool. Most autocomplete </p><p>products try to take over and end up feeling pushy.<br></p><p>Two genuine questions :<br></p><p>1. How did you balance suggestion frequency vs friction? My biggest worry </p><p>with always-on autocomplete is that it interrupts flow when you actually </p><p>know what you want to type. Did you implement a \"quiet mode\" threshold or </p><p>is it always live?<br></p><p>2. The on-device model is a strong sell for privacy — what model size are </p><p>you running, and does performance scale with M-series Macs?<br></p><p>Bookmarked. Looks like one of the cleanest implementations I've seen in </p><p>this space.</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Typeahead is the writing assistant that writes with you, not for you. It works in every text field on your Mac, helping you type faster and smarter with inline suggestions that appear as you write. It runs on a local AI model, works offline and keeps your writing on your device.",
+  "featured_at": "2026-06-01T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/782cecc7-fcf4-4273-bd55-e5f1b509f97e.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/786bc323-17b5-4b76-9d19-2a75cfbee5fd.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/eaf2adc1-9c38-472d-b315-2a0b5dbebaf0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ef3780fc-d03a-449a-a93b-3e1325ccaff2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5c51da1a-88a8-4ab7-bd6d-5b69fdb3592d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cfd4950a-f8c0-4d23-8cb4-02284d37a748.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2bfe8deb-d81e-4ff3-b9e1-327f2d65a50f.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dd9ccc73-8843-4390-bab0-d370f6356f3d.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/94cd4a39-18a5-4488-92b2-c3e780311cf4.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:33",
+  "landing_meta": "Typeahead — AI autocomplete for your entire Mac — System-wide AI autocomplete that works in every app. Runs locally. Your words never leave your computer.",
+  "landing_text": "Typeahead — AI autocomplete for your entire Mac Autocomplete that works everywhere you type. Finishes your sentences across every app on your Mac. Runs locally. Your words never leave your computer. Get Typeahead — $79 ✓ No subscription ✓ Runs locally ✓ Own it forever New Message To: sarah@acmecorp.com Subject: Re: Partnership next steps Hi Sarah, You think faster than you type. Your brain is three words ahead. Your fingers are still catching up. Autocomplete exists. But it's trapped inside Google Docs, or your code editor, or you have to send everything you write to someone else's servers. And even then, it's just guessing the next word. What if the words just appeared? Get Typeahead Features Finish every thought. Before you finish typing. Native Mac App Built for macOS Optimized for Apple Silicon. Fast, lightweight, and feels like it belongs on your Mac. Easy to Use Just press tab to complete Suggestions appear inline as you type. Press tab to accept. It's that simple. Learns Your Voice Adapts to how you write after a few days. Sounds like you, not a bot. Lightning Fast GPU-accelerated. Zero lag. 100% Private No servers. No accounts. No telemetry. Works in Every Mac App From your email to your editor. Slack to Notion. If you can type in it, Typeahead works. One-Time Purchase Pay once. Own it forever. Save Hours Weekly Save 5-8 hours each week on repetitive typing. Your words never leave your Mac. Not “encrypted in transit.” Not “anonymized.” Your writing never touches a network. There's nothing to intercept. Typeahead Runs Locally No Account Required No Cloud Processing Works Everywhere on Mac One-time Payment Zero Telemetry Typeahead Grammarly Copilot Notion AI Runs Locally No Account Required No Cloud Processing Works Everywhere on Mac One-time Payment Zero Telemetry Private by design. Every word you type is processed on your Mac by local AI models. Nothing is sent to the cloud. Works offline, works on a plane. Your data is yours alone. Get Typeahead Who It's Fo",
+  "pricing_signals": [
+    "pay once",
+    "subscription",
+    "pricing",
+    "$79",
+    "$149",
+    "$1",
+    "$11",
+    "$24",
+    "$28",
+    "$3"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:33",
+  "description_ja": "Macの全アプリで使える、ローカル実行のAIインライン文章補完ツール",
+  "summary_ja": "Mac上のあらゆるテキスト欄で、入力中にAIが次の語・文をインライン提案しTabで確定できる買い切りアプリ。ローカルAIモデルで動作しオフライン対応、入力内容は端末外に出ない。月額ではなく79ドルの一括購入。",
+  "tldr_ja": "日本語は入力がIME経由のため英語式の語句補完が噛み合わず、azooKey等の無料ローカルAI IMEと競合。国内勝機は薄い。",
+  "review_guide_ja": {
+    "what": "Mac常駐型のシステムワイドAI文章補完ユーティリティ。メール・Slack・Notion・コードエディタなど、テキストを入力できるあらゆるアプリのカーソル位置で、入力中の文脈から次の語句・文をインライン提案し、Tabキーで即確定できる。チャット型AIのように別ウィンドウへ移動せず「書く場所」で完結するのが設計思想。ローカルAIモデルで推論しオフライン動作、アカウント不要・テレメトリゼロ・クラウド送信なしの完全ローカル処理を強く打ち出す。Apple Silicon最適化でGPUアクセラレーション。数日使うとユーザーの文体を学習して提案が個人化される。課金は79ドルの買い切り（生涯アップデート無料）でサブスク回避を明確な差別化点とする。",
+    "for_who": "Macで大量に英語テキストを書く個人（メール・ドキュメント・チャット・コード）。プライバシー重視でクラウドAIに文章を送りたくない層、サブスク疲れで買い切りを好む層、Apple Silicon機所有者。実務上は英語ネイティブ／英語業務中心のナレッジワーカーが主対象。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "システムワイドの入力捕捉（アクセシビリティAPI/IMKit）+ Apple Siliconで低遅延に動くローカルLLM最適化が必要。日本語対応にはIMEの変換プロセスへの統合が要り、技術難度が高い。"
+    },
+    "signals": [
+      "完全ローカル・オフライン・テレメトリゼロというプライバシー訴求が明確",
+      "サブスク疲れに対する買い切り(79ドル)の逆張りポジショニング",
+      "著名な連続起業家(Hiten Shah)がメーカーで初動の注目を集めやすい",
+      "チャット型AIから「書く場所での補完」へのUX転換という一貫した思想",
+      "公開初日で296 upvotes・47コメントと一定の反響"
+    ],
+    "concerns": [
+      "日本語入力はIME経由でかな漢字変換中の状態管理が複雑、英語式tab補完が噛み合わない",
+      "無料のazooKey(ローカルAI IME)とOS標準Apple Intelligenceが既に類似機能を提供",
+      "コメントで『試してから買いたい』とあり買い切りに体験版が無いと購入摩擦",
+      "国内Macシェアは10〜15%程度で母数が限られる",
+      "常時オンの補完が入力フローを阻害する懸念(コメントでも指摘)"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 5,
+        "reason": "Mac向けAI入力支援への関心はazooKeyのメディア露出やQiita/note記事で一定確認できる。ただし日本のユーザーが求めるのは『次の語の英語的補完』より『かな漢字変換の精度向上』であり、Typeaheadの提供価値とニーズの方向がずれる。需要シグナルは中庸。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "無料・オープンソースのazooKey on macOS(ローカルAI・続き生成・IPA未踏採択)が日本語入力支援の直接競合として既に存在。さらにOS標準のApple Intelligence Writing Tools(2025年3月日本語対応・無料)もある。有料買い切りで割り込む隙間は狭い。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "完全ローカル処理でデータを端末外へ送出しないため、個人情報保護法上の論点はむしろ小さい。特商法上の表示義務(買い切り販売)程度で、業法該当なし。規制リスクは低い。"
+      },
+      "localization": {
+        "score": 3,
+        "reason": "日本語入力はIME(かな漢字変換)を介すため、英語のような確定済み文字列へのインラインtab補完が構造的に噛み合わない。変換中・未確定文字列の状態へ深く統合する必要があり、UX改修コストが大きい。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "買い切りは日本のユーザーにも受容されやすく相性は悪くない。一方サブスク回避の訴求は国内でも通じるが、無料代替が豊富なため有料化の説得力は弱まる。商習慣自体に根本的不整合はない。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "azooKey on macOS",
+        "url": "https://azookey.com/macOS",
+        "note": "オープンソースの日本語IME。ニューラルかな漢字変換エンジンZenzaiをローカル実行し、Ctrl+Sで文の続き生成や変換も可能。無料・IPA未踏2024採択。Typeaheadの日本語版が狙う領域の直接競合。"
+      },
+      {
+        "name": "Apple Intelligence Writing Tools",
+        "url": "https://support.apple.com/guide/mac-help/find-the-right-words-with-writing-tools-mchldcd6c260/mac",
+        "note": "OS標準・無料。2025年3月に日本語対応。書き直し・校正・要約をMail/Notes等で提供。M1以降で動作しローカル処理寄り。標準搭載のため買い切りツールの価値を相対的に下げる。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "個人情報保護法",
+        "impact": "入力テキストを端末内ローカル処理しクラウド送信しない設計のため、個人データの第三者提供・委託の論点が発生しにくく、規制負荷は小さい。プライバシー訴求がそのままコンプライアンス上の強みになる。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "買い切りソフトのオンライン販売では特商法に基づく表示(販売者情報・返品条件等)が必要。体験版なしの買い切りでは返金ポリシーの明示が購入摩擦低減と法令順守の両面で重要。"
+      }
+    ],
+    "opportunity": "日本向けの角度があるとすれば『英語式の語句補完』ではなく『かな漢字変換そのものをローカルAIで強化する日本語IME』だが、その領域は既にazooKeyが無料OSSで先行し、IPA未踏採択の開発力も持つ。Typeaheadの強み(完全ローカル・買い切り・システムワイド)を活かすなら、日本語の長文ビジネスメール・敬語定型文の補完に特化し、変換確定後の『次の一文』提案へ用途を絞る案はあり得る。ただし無料代替とOS標準機能に挟まれ、有料で支払う動機の設計が極めて難しい。日本独自開発として勝てる確度は低く、英語圏向けに磨く方が筋が良い。",
+    "rationale": "市場機会として日本は不利。第一に、日本語入力はIMEを介すため、英語のような確定文字列へのインラインtab補完というコア体験が構造的に噛み合わず、ローカライズは実質的に作り直しに近い。第二に、最も近い価値提案(ローカルAIによる日本語入力支援)の領域は、無料OSSのazooKey on macOSが先行し、メディア露出・IPA未踏採択の開発体制も整っている。第三に、OS標準のApple Intelligence Writing Toolsが2025年に日本語対応し無料で校正・書き直しを提供、買い切り有料ツールの相対価値を押し下げる。加えて国内Macシェアは10〜15%程度で母数が限定的。規制面は完全ローカル処理ゆえ低リスクで、買い切り自体の商習慣相性も悪くないが、需要の方向ずれと無料競合の厚さが致命的。総じて日本独自に展開する妥当性は乏しく、verdictはskip。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "買い切り(79ドル≒1.2万円相当)は日本でも受容されやすいが、azooKeyやApple Intelligenceの無料代替があるため有料化の壁は厚い。プライバシー重視層からは一定の課金が見込めるが、ARPUは限定的。"
+      },
+      "market_size": {
+        "score": 3,
+        "reason": "国内Macシェアは10〜15%程度。さらに日本語インライン補完が成立しにくいため実質対象は英語業務中心のMacユーザーに絞られ、TAMはニッチ。買い切り単発のため継続収益化も難しい。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "Mac向け買い切りユーティリティはGumroad/個人サイト/X/note等のPLG的チャネルでリーチ可能で、SI不要。一方プロダクトの体験を文章で伝えにくく、デモ動画や無料体験版が無いと転換が鈍い。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "OS標準のApple Intelligenceが日本語対応済み、azooKeyも先行。本家Typeaheadは著名起業家チームで資金力があり、日本語対応する場合の参入も速い可能性。時間窓は狭い。"
+      },
+      "solo_ops": {
+        "score": 7,
+        "reason": "完全ローカル・アカウント不要・テレメトリゼロのためサーバー運用やSLA負荷が小さく、個人運用の手離れは良い。一方macOSアップデート追従とローカルモデル最適化の保守は継続的に必要。"
+      }
+    },
+    "rationale": "事業成立性は低め。最大の制約は市場規模と競合タイミングである。国内Macシェア10〜15%という母数に、日本語のインライン補完がIME構造上成立しにくい制約が重なり、実質TAMは英語業務中心のMacユーザーへ大きく絞られる。マネタイズは買い切りで日本の嗜好と相性は悪くないが、無料のazooKey・OS標準Apple Intelligenceという強力な代替が有料化の壁を厚くする。タイミングも不利で、OS標準機能が日本語対応済み、本家チームは著名起業家(Hiten Shah)で資金力があり日本語対応の参入も速い恐れがある。プラス面はGTMと運用負荷で、Mac買い切りユーティリティはPLG的に個人でも販売チャネルを確保でき、完全ローカル設計ゆえサーバー保守やSLA負荷が小さく個人運用の継続性は高い。ただし収益の天井が低く単発課金のため、事業として育てる魅力は乏しい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "one_time",
+      "arpu_jpy": 9800,
+      "plans": [
+        "Lite: ¥4,800 買い切り(基本のローカル補完のみ)",
+        "Standard: ¥9,800 買い切り(文体学習・生涯アップデート)",
+        "14日間無料トライアル(購入前の体験版を必須化、コメントの『試してから買いたい』需要に対応)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "英語での執筆量が多い国内Macユーザー(外資系・スタートアップのナレッジワーカー、英語でメール/ドキュメント/コードを書く開発者)。プライバシー重視でクラウドAIに文章を送りたくない層、サブスク疲れで買い切りを好む層。日本語主体のユーザーは対象外に近い。",
+      "target_count": 200000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 9800000
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)での個人発信・デモ動画拡散(買い切りユーティリティの定番経路)",
+      "note/Zenn/Qiitaでローカルプライバシー設計の技術記事を連載",
+      "Gumroad/個人サイトでのダイレクト販売+ライセンスキー発行",
+      "Product Hunt等の海外露出を日本語レビューサイトへ波及させる"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "日本語入力はIME(かな漢字変換)を介すため英語式のインラインtab補完が構造的に成立せず、日本語版はコア体験の作り直しに近く、投下工数に見合うリターンが得にくい。",
+      "無料OSSのazooKeyとOS標準Apple Intelligence Writing Toolsが類似価値を無料提供しており、有料買い切りで支払う動機の設計が極めて難しい。",
+      "国内Macシェア10〜15%かつ実質対象は英語業務中心層に絞られ、買い切り単発のため収益の天井が低い。",
+      "本家Typeaheadは著名起業家チームで資金力があり、日本語対応や直接日本販売へ動けば個人開発の模倣版は即座に淘汰される。",
+      "買い切りに体験版がないと購入摩擦が大きく(コメントでも指摘)、返金対応・サポートが個人の運用負荷を押し上げる。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

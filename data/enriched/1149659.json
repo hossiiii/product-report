@@ -1,0 +1,241 @@
+{
+  "name": "Presentify",
+  "description": "Take your presentation skills to the next level",
+  "ph_url": "https://www.producthunt.com/products/presentify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/EFSDTB5TONMOBP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-01T07:01:00Z",
+  "upvotes": 223,
+  "comments": 53,
+  "topics": [
+    "Mac",
+    "Sales",
+    "Apple"
+  ],
+  "makers": [
+    {
+      "id": "409956",
+      "name": "Ram Patra",
+      "twitterUsername": "ram__patra",
+      "headline": "Built Presentify and a few more apps"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋</p><p><br>We built Presentify to make presentations and video calls more engaging — whether you're teaching, demoing, pitching, or recording tutorials. It works with apps like Keynote, Google Slides, Microsoft PowerPoint, Zoom, Microsoft Teams, and Google Meet.</p><p><br>To celebrate the launch, here’s a little Product Hunt gift 🎁<br>Use code <strong>PRESENTIFY20</strong> for <strong>20% off</strong> when bought directly on the website.</p><p><br>And because launch days run on caffeine and comments… <br>Leave a comment below and I <em>will</em> send you an even <strong>better deal</strong> 👀</p>",
+      "votesCount": 13,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats on the launch. I started using Presentify in April 2023. I was tutoring secondary school students in maths and physics online and I was looking for a cursor highlight. I got so much more and appreciate the continued development and added features over the last 3 years. Whether I tutor students online or face to face I use Presentify in every session for the majority of the sessions. The ability to annotate anywhere on the screen while looking at a pdf, website, etc really helps when working with students. I use the freehand tool to write when working through problems with students. Fantastic app.</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Presentify is one of those apps that does one thing exceptionally well. I’ve been using it for my remote classes, and it has made a noticeable difference. Some of my students have even started using it themselves. Congrats on the relaunch, and highly recommended!</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Presentify is a macOS app for annotating your screen, highlighting your cursor, spotlighting important areas, and zooming in for a closer look. It works with any presentation app, including Keynote, Google Slides, and Microsoft PowerPoint, as well as video calling apps like Zoom, Microsoft Teams, and Google Meet.",
+  "featured_at": "2026-06-01T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/b64cea35-b953-4ab2-9d79-66f153e82d1e.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6b6ae233-b848-4d67-abf5-cf49202eeeb7.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d5eec82f-5db8-41fe-be37-198d38d7a79d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0f5b6b37-ae58-492b-8c61-285e266d1e9c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0f38a3c1-f1df-48f6-8d41-194d9cbd36a8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1bcde890-3120-4dec-a461-eb2fd99398e2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b56b5dbd-5d22-46e1-a1c6-b42c857d85a3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/13f67f7b-6fa8-4a8b-b2d4-4bc173bb00ad.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7d3d3d52-17a9-4826-8a15-df303f287b89.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/406ba0a8-1f33-44c7-a839-8754049fabb8.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/4c850ed0-80c8-4845-85e3-8192d351d3e4.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:48",
+  "landing_meta": "Screen Annotation, Cursor Highlight, Spotlight, Zoom - Presentify — Presentify is a macOS app for annotating your screen, highlighting your cursor, spotlighting important areas, and zooming in for a closer look.",
+  "landing_text": "Screen Annotation, Cursor Highlight, Spotlight, Zoom - Presentify Take your to the next level Annotate your screen, highlight your cursor, and spotlight or zoom in on key areas. Available on Setapp Direct Download Click to purchase the app outside the App Store Prefer the terminal? Install via Homebrew Our work has been featured by some great companies New features are live on the App Store, Setapp, and Polar. Download now → What is Presentify? Mac app that takes your presentation skills to the next level It let's you annotate your screen, draw on a whiteboard, highlight your cursor, and spotlight or zoom in on key areas. Annotate Use pens, highlighters, text, and shapes to draw in real time and emphasize key points during presentations or tutorials. It works with any app or file type. Whiteboard Create a digital whiteboard to brainstorm big ideas, sketch diagrams, explain complex concepts — or just doodle moustaches and play Pictionary during meetings. Cursor Highlight Put a stylish ring or squircle around your cursor to draw attention to it during presentations. This helps viewers follow along with your actions. Spotlight and Zoom Focus your audience's attention by spotlighting specific screen areas or zooming in to magnify small text and details for crystal-clear visibility. Draw over anything You can annotate literally anything on your screen—be it images, PDFs, videos, presentations, or even code. It works seamlessly with Zoom, Google Meet, Keynote, PowerPoint, OBS, and more. Choose up to 5 colors or use the gradient color for subtle gradient effects. Use arrows, circles, squares, lines, or the Text tool to draw exactly what you want. Auto-erase drawings after a set time to continue your demo seamlessly. Draw on a whiteboard instead of the screen for explaining concepts. Download Now → Cursor Highlight A sleek halo around your cursor with customizable colors and shapes, plus left/right click animations to make your tutorials easy to follow. Customize the color,",
+  "pricing_signals": [
+    "free trial",
+    "open-source",
+    "pay once",
+    "pricing",
+    "$1",
+    "$34",
+    "$35",
+    "$46"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:48",
+  "description_ja": "画面に注釈を描き、カーソルを強調しズームできる macOS 用プレゼン補助アプリ。",
+  "summary_ja": "Keynote/PowerPoint/Zoom など任意のアプリ上に重ねてペン・図形で注釈を描き、カーソルにハイライト、スポットライト、ズームを加える macOS 常駐ユーティリティ。オンライン授業・デモ・録画チュートリアルで画面説明を分かりやすくする。",
+  "tldr_ja": "需要はあるが ScreenPointer 等競合多数で Presentify 自身も日本流通済み。低単価買い切りゆえ新規個人開発の妙味は薄い。",
+  "review_guide_ja": {
+    "what": "macOS の全画面に透明オーバーレイを重ね、ペン・蛍光ペン・テキスト・矢印や図形でリアルタイムに描画できる注釈ツール。カーソルにリング/スクワークルのハイライトとクリックアニメを付与、画面の一部をスポットライトで強調、任意領域をズーム拡大できる。デジタルホワイトボード機能も搭載。Keynote・Google Slides・PowerPoint・Zoom・Google Meet・Teams・OBS など任意のアプリ/ファイル上で動作し、一定時間後に描画を自動消去する機能もある。典型用途はオンライン授業・ウェビナー・ソフトのデモ/ピッチ・録画チュートリアル制作。App Store・Setapp・Homebrew・直販で配布。",
+    "for_who": "オンライン家庭教師・講師、ウェビナー登壇者、SaaS のデモを行うセールス/CS、チュートリアル動画クリエイター、社内研修担当など、Mac で画面共有しながら説明する人。Windows の ZoomIt 相当を Mac で求める層。",
+    "reproducibility": {
+      "level": "medium",
+      "reason": "全画面オーバーレイ、画面録画/アクセシビリティ権限、低遅延描画、各種会議アプリとの共存などネイティブ macOS の作り込みが必要。単機能だが品質バーは高く、競合が成熟している。"
+    },
+    "signals": [
+      "3 年以上の継続利用・継続開発のレビューがあり定着している",
+      "オンライン授業・リモート講師の実利用コメントが複数",
+      "Setapp/App Store/Homebrew/直販と配布チャネルが多彩",
+      "買い切り中心で課金障壁が低い"
+    ],
+    "concerns": [
+      "macOS の標準ズーム機能や OS 標準描画と機能が一部重複",
+      "単機能ユーティリティで ARPU が低く LTV が伸びにくい",
+      "国内外ともに同種アプリが飽和（ScreenPointer/DemoPro/ZoomIt 等）",
+      "Presentify 自身が既に日本の App Store で配布済みで新規参入余地が狭い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "オンライン授業・ウェビナー・動画教材制作の需要は国内で堅調（eラーニング市場 約3,960億円）。note/Qiita/技術ブログで Presentify や ScreenPointer の紹介記事が複数あり、画面注釈・カーソル強調へのニーズは顕在。ただし「あると便利」レベルの補助ツールで切迫感は弱い。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "日本人開発の ScreenPointer(Kyome) が定番として定着、DemoPro、Scribbble、Microsoft の ZoomIt for Mac、macOS 標準ズームなど代替が豊富。Presentify 自体も日本 App Store で約¥1,000買い切り＋Setapp で既に流通。明確に飽和市場。"
+      },
+      "regulation": {
+        "score": 9,
+        "reason": "画面オーバーレイ描画のローカルアプリで個人情報を扱わず、規制該当はほぼ無い。直販で課金する場合に特商法表記が必要な程度。電気通信事業法・資金決済法等の懸念は無し。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "UI 文字量は少なく、設定・ツール名の和訳程度で対応可能。機能の中核は描画/ズームで言語依存が小さく、日本語化コストは軽い。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "個人の買い切り/サブスクで完結し商習慣の摩擦は小さい。一方で法人研修向けに売る場合は請求書払い・ボリュームライセンス・代理店経由など日本特有の購買慣行への対応が要る。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ScreenPointer",
+        "url": "https://kyome.io/screen_pointer/",
+        "note": "日本人開発者 Kyome のマウス強調アプリ。無料+App内課金 Pro で19種のポインタ。プレゼン/画面共有の定番として国内で広く認知。Presentify とカーソル強調が直接競合。"
+      },
+      {
+        "name": "DemoPro - Screen Annotation",
+        "url": "https://apps.apple.com/jp/app/demopro/id1438659737",
+        "note": "約300円の Mac 用画面注釈アプリ。ホットキーで画面に描画、ホワイトボード・タイマー対応。Presentify の注釈機能とほぼ正面から競合する低単価買い切り。"
+      },
+      {
+        "name": "ZoomIt for Mac (Microsoft Sysinternals)",
+        "url": "https://learn.microsoft.com/sysinternals/downloads/zoomit",
+        "note": "Windows 定番のズーム/注釈ツールの macOS 版を Microsoft が無料提供。ズーム＋描画のコア機能を無料で代替でき、価格競争上の脅威。"
+      },
+      {
+        "name": "macOS 標準ズーム機能",
+        "url": "https://support.apple.com/ja-jp/guide/mac-help/mh40579/mac",
+        "note": "OS 標準のアクセシビリティでカーソルズーム/画面拡大が可能。簡易用途は OS だけで足りるため、有料化の天井になる。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定商取引法",
+        "impact": "自社サイト直販で決済する場合は特商法に基づく表記（販売者氏名・所在地・連絡先・返品条件等）が必要。App Store/Setapp 経由ならプラットフォーム側が決済を担うため負担は軽い。事業遂行上の障害にはならない。"
+      }
+    ],
+    "opportunity": "差別化するなら「日本のオンライン授業・研修」に特化した縦掘りが角度。例えば板書風の手書き認識・数式/図形のきれいな描画、Zoom/Teams/Meet の日本での利用比率に合わせたワンタッチ連携、画面注釈を含めた録画→教材エクスポート、複数講師での共同注釈など。ただし Presentify を含む既存勢がカバー済みの領域が多く、単体ユーティリティとしての新規開発妙味は小さい。むしろ既存のオンライン授業/ウェビナー SaaS への機能組み込み、または英語圏向けに作り込んで世界展開する方が筋が良い。",
+    "rationale": "需要自体は存在するが、これは『日本市場の隙間』ではなく『世界共通で需要がある成熟カテゴリ』。国内には日本人開発の ScreenPointer が定番として根付き、DemoPro・Scribbble・ZoomIt for Mac・macOS 標準ズームと代替が層をなす。さらに評価対象の Presentify 自身が既に日本の App Store で約¥1,000買い切り＋Setapp で流通し、note/Qiita でも紹介済み。つまり『日本向けにローカライズして新規開発する余地』はほぼ埋まっている。規制・ローカライズの容易さは高得点だが、競合の薄さという最重要軸が低く、市場機会としては要観察(watch)止まり。参入するなら既存と同じ土俵での価格/機能勝負になり、個人開発者が新規に挑む合理性は乏しい。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "買い切り(¥1,000前後)主体で日本人の課金抵抗は低いが、その分 ARPU が小さく単価を上げにくい。サブスク化は単機能ゆえ反発が出やすい。Setapp 配信は露出を得られるが分配率が低く収益貢献は限定的。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "オンライン教育市場は大きい(約3,960億円)が、その中で『Mac を使い画面注釈ユーティリティに課金する個人/講師』は極めて薄い断面。買い切り低単価のため金額 TAM は小さく、ニッチ寄り。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "App Store/Setapp/Homebrew で PLG が可能で、note・Qiita・X・YouTube デモでリーチできる。ただし同種アプリの紹介記事は既に飽和しており、新規が埋もれず認知を取るのは容易でない。"
+      },
+      "timing": {
+        "score": 2,
+        "reason": "既に国内外で競合が多数存在し本家(Presentify 等)も日本流通済み。時間窓はほぼ閉じており、後発参入の余地が乏しい。"
+      },
+      "solo_ops": {
+        "score": 8,
+        "reason": "ローカル動作のデスクトップアプリでサーバ運用・SLA・24/7監視は不要。OS アップデート追従とサポート対応が主で、個人運用の手離れは良い。"
+      }
+    },
+    "rationale": "事業性は厳しい。買い切り低単価×薄い課金断面で金額 TAM が小さく、月商を伸ばすには大量のダウンロードが必要だが、ScreenPointer など定番が認知を握り Presentify 自身も流通済みのため後発が新規シェアを取りにくい。GTM チャネル(App Store/Setapp/note/X)自体は個人で扱える PLG 型で、運用も手離れが良い点は救い。しかし最重要の市場規模・タイミングが低く、努力対効果が見合わない。仮に作るなら『単体アプリで稼ぐ』のではなく、既存の自社サービス(教育/会議 SaaS)の付加機能、もしくはポートフォリオ的に複数アプリの一つとして低コストで運用する位置づけが現実的。専業で食う事業としては不向き。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "one_time",
+      "arpu_jpy": 1200,
+      "plans": [
+        "無料トライアル: 機能制限付きで試用",
+        "買い切り: ¥1,200（App Store / 直販、20%割引クーポン併用可）",
+        "Setapp 同梱: サブスク横断での露出獲得（分配は低単価）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Mac を業務利用するオンライン講師・家庭教師、ウェビナー登壇者、SaaS のデモを行うセールス/CS、チュートリアル動画クリエイター。画面共有・録画の頻度が高い個人が中心。",
+      "target_count": 200000,
+      "capture_pct_year3": 0.05,
+      "monthly_revenue_target_jpy": 120000
+    },
+    "recommended_gtm": [
+      "note/Qiita/Zenn でのプレゼン Tips 連載からの自然流入",
+      "X で実演 GIF/動画を継続発信（Before/After の視認性訴求）",
+      "YouTube のチュートリアル/デモ動画内での実演露出",
+      "Setapp 同梱による横断露出（認知獲得目的）",
+      "App Store のユーティリティ/教育カテゴリ ASO 最適化"
+    ],
+    "time_window_months": 0,
+    "solo_dev_continuable": "yes",
+    "critical_risks": [
+      "市場飽和: ScreenPointer・DemoPro・ZoomIt for Mac・macOS 標準機能と直接競合し、後発の新規認知獲得が極めて難しい。Presentify 自身も既に日本流通済みで参入余地が薄い。",
+      "低単価×薄い断面: 買い切り低単価のため、相応の月商に到達するには大量ダウンロードが必要だが、差別化要素が乏しく現実性が低い。",
+      "OS 機能による侵食: macOS 標準ズーム/注釈や会議アプリ内蔵の注釈機能が拡充すると、有料アプリの存在意義が削られる。",
+      "ASO/露出依存: 検索流入とレビュー記事への依存度が高く、競合の紹介記事が飽和しているため認知の天井が低い。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

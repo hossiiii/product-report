@@ -1,0 +1,279 @@
+{
+  "name": "Brew ",
+  "description": "Like Claude design for email marketing",
+  "ph_url": "https://www.producthunt.com/products/brew-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/3Q7DPTEXUJAFUG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-26T07:01:00Z",
+  "upvotes": 878,
+  "comments": 137,
+  "topics": [
+    "Design Tools",
+    "Email Marketing",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "3230217",
+      "name": "Philip Sørensen",
+      "twitterUsername": "philipdotxyz",
+      "headline": "👋 Co-founder of Brew"
+    },
+    {
+      "id": "8533823",
+      "name": "Thomas Park",
+      "twitterUsername": null,
+      "headline": "Web builder building Brew.new"
+    },
+    {
+      "id": "9741749",
+      "name": "Jessica Webb",
+      "twitterUsername": null,
+      "headline": "Growth brew.new"
+    },
+    {
+      "id": "1669635",
+      "name": "Anthony Lio",
+      "twitterUsername": null,
+      "headline": ""
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt 👋<br></p><p>I'm Philip, co-founder and CEO of Brew. When I was leading US growth at Revolut, I kept seeing teams with world-class products fail at the last mile - actually reaching and retaining the users they'd worked so hard to acquire.<br></p><p>The fix was always <strong>email</strong>. It's still the highest-ROI channel for activating, nurturing, and retaining users - nothing else comes close.<br></p><p>But every time we tried to execute it properly, we ran into the same painful cycle. Campaigns that took weeks to build. Emails that broke in half our users' inboxes. Designs that didn't look on-brand. And when the pressure was on, they just didn't go out at all.<br></p><p>The problem wasn't the team. It was the tools.<br></p><p>Old school SaaS platforms like HubSpot, Mailchimp, and Marketo were built for companies with entire departments dedicated to running them. Someone has to analyze the data, plan the campaign, write the copy, design the emails, code the HTML, deploy it, and optimize the results.<br></p><p>For most teams that's just not realistic - so the software sits there underused and revenue gets left on the table.</p><p>My co-founder <a href=\"https://www.producthunt.com/@thomas_park2\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@thomas_park2</a> (former Vercel) and I built Brew to fix this.<br></p><p>You describe the campaign you want and Brew builds the whole thing in seconds:</p><ul><li><p>Welcome flows and drip sequences</p></li><li><p>Newsletters and lifecycle campaigns</p></li><li><p>Multiple on-brand variants</p></li><li><p>Production-ready HTML that renders perfectly across Gmail, Outlook, and Apple Mail</p></li></ul><p>It pulls your branding automatically from your website and Figma. What used to take even the best teams 8 days now takes one prompt.<br></p><p>It's like Claude Design or Lovable, but made specifically for email marketing (the emails render perfectly across inboxes because the underlying HTML is email-optimized, unlike Claude).<br></p><p>Watch me walk through it personally here:<a href=\"https://www.loom.com/share/dc325b42a4b54c50b1e5cdea3964e66a\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"> https://www.loom.com/share/dc325b42a4b54c50b1e5cdea3964e66a</a></p><p><br>A few things people are surprised by when they first try it:</p><ul><li><p>It builds entire multi-step sequences, not just single emails</p></li><li><p>The brand extraction is scarily accurate</p></li><li><p>It works natively with Viktor, OpenClaw and any AI agent</p></li><li><p>You can push straight to Klaviyo, HubSpot, Mailchimp, or whatever ESP you're already on</p></li></ul><p>This is just the beginning. We're building toward a full autopilot - you set the objective, Brew handles everything else. The goal is to become the new system of record for email marketing. One where going back to the old way is unthinkable.<br></p><p>Try it for free, break it, and tell us what's missing. Every piece of feedback goes straight into what we build next.</p><p>Get started free at <a href=\"http://Brew.new\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Brew.new</a> or reach me directly at <a href=\"mailto:philip@brew.new\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">philip@brew.new</a><br></p><p>Thanks to <a href=\"https://www.producthunt.com/@jessica_w204\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@jessica_w204</a> and <a href=\"https://www.producthunt.com/@antlio\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@antlio</a> for building this with me and Thomas. And to the Product Hunt community - there's no better place in the world to launch something you've worked this hard on.<br></p><p>Much love,<br>Philip 🫶</p>",
+      "votesCount": 54,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Been a happy Brew user for some time now. Incredible team and beautiful UX; this is what modern email marketing should look like. </p><p></p><p>Congrats on the launch team!  <br><br>When can we expect a Brew MCP so we can automate directly from coding agents or OpenClaw? :) </p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congrats <a href=\"https://www.producthunt.com/@philip_sorensen\" data-node-type=\"mention\" data-mention-type=\"user\" data-mention-id=\"philip_sorensen\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@philip_sorensen</a> ! I love the demo video, inspiring to start building beautiful emails😻 How are you handling Outlook rendering under the hood? It is usually the hardest client to get right and most tools give up on it.</p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Brew is the fastest way to design and send beautiful, on-brand emails and automations that render perfectly in every inbox. Describe a campaign or a multi-step automation in plain English, and Brew builds the whole thing in seconds: copy, design, audience, and logic. Works with any AI agent: paste our docs into OpenClaw, Viktor, Claude, or Lovable. No lock-in: send from Brew or export to your ESP. Free to get started.",
+  "featured_at": "2026-05-26T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/a805620c-ee33-47e2-973d-5d6ea3f646a3.gif",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2458b46a-0e59-4a5d-80a9-e71fce4579de.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8197b505-9641-470d-a77a-7eee388ed30e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b3fa997f-33fb-4515-9bd1-a6ac6db51873.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9622f3cc-b9e2-45e6-a833-284eff28920b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8e2fedcb-85c2-49a8-9526-57d2c7e6877a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/29b9473a-db88-45c5-ab14-8937002ae881.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4c06a89b-0932-4cb4-acb3-dbe783d15e10.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c227d588-d1dc-43a6-a384-ce843b80ef2d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a7948a3e-15ed-45dd-8a52-8143e308ffb9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8c19e11d-bf9e-4938-b9a7-9b3bf5668995.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2f9c54d6-3ed2-41dc-8be2-ea1cd7d9fa52.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/b5405e68-de2b-4217-ad92-5128c205ff00.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:15",
+  "landing_meta": "Brew - AI Email Marketing Platform | Generate Emails in Seconds | Brew — Create stunning, on-brand marketing emails with AI. Brew is the first ESP with a built-in AI email marketing agency. Start free.",
+  "landing_text": "Brew - AI Email Marketing Platform | Generate Emails in Seconds | Brew What emails can I help you What emails can I help you Brew See Brew in action. Learn how Brew learns a brand, creates emails from natural language, supports direct editing, and helps teams ship lifecycle marketing faster. Watch demo ↓ The teams turning signups into revenue with Brew Brand On-brand from the very first prompt Brew learns your palette, typography, voice, and reference emails up front, so every draft already looks like it came from your team instead of a generic template. Colors, fonts, and tone pulled from your brand automatically Reference emails teach Brew how your team actually writes Footer, legal, and unsubscribe applied to every send Get started Workflow One workspace, from idea to inbox Draft from a prompt, refine on the canvas, and ship. Campaigns and automations live side by side, so the whole lifecycle stays in a single place. Chat to a first draft, then edit any block directly Campaigns and multi-step automations on one canvas Send through Brew or push to your existing ESP Get started Automations Turn every signup into revenue. Build complex automations with AI. Welcome flows, abandoned cart, re-engagement, post-purchase, and more, triggered by the events you already track. Visual canvas Welcome flows, abandoned cart, re-engagement, post-purchase. Build the full revenue lifecycle on one shared canvas. Event triggers Fire from signups, payments, and product events so every revenue moment lands the right email automatically. Test and analytics Preview every step safely, then track opens, clicks, and revenue per send to see which automations pay back. Integrations Plug into the ESPs you already use. Explore 22 + other tools Klaviyo HubSpot Mailchimp Brevo Braze Iterable customer.io Mailjet More Plus a lot more. A handful of one-off features that compound across every email you ship. Integrations Plugs into every tool you use 22+ one-click connections for the platforms you ru",
+  "pricing_signals": [
+    "subscription",
+    "pricing",
+    "$1",
+    "$3",
+    "$15",
+    "$42",
+    "$33",
+    "$37"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:16",
+  "description_ja": "メールマーケティング版の「Claude Design」。プロンプトから配信可能なメールを自動生成。",
+  "summary_ja": "自然言語で指示するだけで、ブランドに沿ったメール・複数ステップの自動配信を数秒で生成するAIプラットフォーム。Webサイト/Figmaからブランドを自動抽出し、Gmail/Outlook/Apple Mailで崩れないHTMLを出力。自社送信もKlaviyo等のESPへの書き出しも可能。",
+  "tldr_ja": "国内メール配信市場は成熟・競合多数だが「AIで作成しESPへ流す」設計層は空白。個人開発は作成支援に絞れば余地あり",
+  "review_guide_ja": {
+    "what": "Brewはメールマーケティングに特化した生成AIプラットフォーム。「ウェルカムフロー作って」のように自然言語で指示すると、コピー・デザイン・対象セグメント・配信ロジックまで含むキャンペーンや複数ステップの自動配信(放置カート、再エンゲージ、購入後フォロー等)を数秒で生成する。WebサイトやFigmaからブランドの配色・フォント・トーンを自動抽出し、Gmail/Outlook/Apple Mail・ダークモードで崩れない実装済みHTMLを出力するのが核となる強み。キャンバス上でブロック単位の直接編集が可能で、Brewから直接送信するか、Klaviyo/HubSpot/Mailchimp等22以上のESPへ書き出せる。OpenClawやClaude等のAIエージェントからも操作可能。典型用途はSaaS/ECのライフサイクルメール、ニュースレター、ドリップ配信。",
+    "for_who": "メール専任チームを持たないSaaS/ECスタートアップや中小マーケティングチーム。HubSpotやMarketoが重すぎて使いこなせない層、デザイナー/HTMLコーダーを介さずに見栄えのするメールを高速に量産したいグロース担当者を想定。既存ESPを乗り換えずに作成だけ効率化したいニーズにも対応。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "プロンプト→メール生成はLLMで再現可能だが、Gmail/Outlook/ダークモード全対応の崩れないHTMLレンダリング規律と22以上のESP連携、自動配信エンジンの構築は個人には重く、本家もそこを堀と公言。"
+    },
+    "signals": [
+      "PH878 upvote・137コメントと高い反応。元Revolut/元Vercelの実績ある創業者",
+      "メールは依然ROI最高のチャネルで生成AIとの相性が良い",
+      "Outlookレンダリング対応という他社が諦めがちな難所を堀に設定",
+      "既存ESPへ書き出せる『非ロックイン』設計で導入障壁が低い",
+      "AIエージェント(MCP)連携への要望がコメントで出ている"
+    ],
+    "concerns": [
+      "国内はSynergy!/配配メール/blastmail等の成熟プレイヤーが配信網を押さえる",
+      "日本語の敬語・縦書き慣習・和文フォントでのデザイン品質が未検証",
+      "メール『送信』に踏み込むと到達率・なりすまし対策(DMARC等)運用が重い",
+      "特定電子メール法のオプトイン/送信者情報表示への対応が必須",
+      "海外大手や国産ツールも生成AI機能を急速に追加中で差別化が縮小"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内メールマーケ/MA市場は2026年に865億円規模へ拡大予測で需要基盤は厚い。一方で『AIでメール作成』需要はChatGPT等の汎用ツールやyaritori等の国産で部分的に満たされ、デザイン特化の顕在需要シグナルはまだ限定的。検索でも日本語の評判記事は未確認。"
+      },
+      "competition": {
+        "score": 3,
+        "reason": "Synergy!・配配メール(楽楽)・blastmail・Cuenote・Benchmark等の国産配信基盤が普及し、Klaviyo/Mailchimp/HubSpotも浸透する飽和市場。各社が生成AI機能を追加中で、『作成+配信』フル機能では競合密度が極めて高い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "特定電子メール法でオプトイン同意・送信者情報表示・オプトアウト導線が必須、特商法も関連。ただしツール側でテンプレ強制すれば対応容易で実装困難ではない。送信代行に踏み込むと到達率・なりすまし対策の責任が増す。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UIの日本語化やコピー生成のLLM対応は比較的容易だが、和文フォント・敬語トーン・縦組み等のデザイン品質、和製メールクライアント(Yahoo!メール等)でのレンダリング検証が必要。構造化APIよりUX依存度が高くやや改修が要る。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "国内BtoBは対面営業文化が強くMA導入も検討段階の企業が多い。一方でEC/D2Cやスタートアップではメルマガ・ライフサイクル配信が定着しPLG的導入の余地あり。商習慣との相性は中庸。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Synergy! (シナジーマーケティング)",
+        "url": "https://www.synergy-marketing.co.jp/",
+        "note": "国産クラウドCRM/メール配信。顧客管理〜配信〜分析を一元化。月額36,000円〜。国内BtoC/EC実績が厚く、デザイン・到達率・サポートで信頼が高い直接競合。"
+      },
+      {
+        "name": "配配メール (楽楽メールマーケティング)",
+        "url": "https://www.hai2mail.jp/",
+        "note": "BtoB営業向けに強い国産メールマーケ。月額50,000円〜。操作性とサポートに定評。中堅企業のメルマガ/ステップメール基盤として広く採用。"
+      },
+      {
+        "name": "blastmail (ブラストメール)",
+        "url": "https://blastmail.jp/",
+        "note": "業界最安クラスの国産配信。月額4,000円〜・配信数無制限。中小・個人事業の入口需要を押さえる価格帯で、安価なメール送信ニーズと直接競合。"
+      },
+      {
+        "name": "Klaviyo",
+        "url": "https://www.klaviyo.com/",
+        "note": "Shopify連携のEC特化MA。購買連動オートメーションで実績。ただし国内公式サポート拠点が無く英語対応で、日本語化の空白が逆にBrew系の参入余地を示す。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定電子メール法",
+        "impact": "広告宣伝メールは原則オプトイン(事前同意)が必須で同意記録の保存義務、送信者の氏名/名称・住所・問合せ先の表示、オプトアウト導線の設置と即時停止が求められる。違反は罰則あり(法人最大3,000万円)。ツール側でフッター/同意管理を強制すれば対応可能。"
+      },
+      {
+        "law": "特定商取引法",
+        "impact": "通信販売の広告メールでは事業者情報や返品条件等の表示義務が関わる。EC向け配信で特に留意が必要だが、テンプレート対応で実装可能な範囲。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "配信先メールアドレス等の個人情報の取得・利用目的明示・安全管理が必要。送信機能まで提供する場合は保管責任が生じるが、作成支援に留めれば負荷は小さい。"
+      }
+    ],
+    "opportunity": "勝ち筋は『フル機能ESPで真っ向勝負』ではなく、国産ESP(blastmail/配配メール/Synergy!)や海外大手(Klaviyo/Mailchimp)が日本語サポート・デザイン品質で弱い点を突く『AIメール作成・デザイン層』への特化。日本語の敬語トーン・和文フォント・和製クライアントでの崩れないHTMLに最適化し、生成したメールを既存ESPへ書き出す非ロックイン設計にすれば、配信基盤を作らずに参入できる。EC/D2C・スタートアップのグロース担当を起点にPLGで広げる。Klaviyoが国内サポート拠点を持たない空白は、日本語特化プレイヤーの明確な入口。",
+    "rationale": "市場機会は『需要は厚いが競合密度が高い成熟市場』という構図。国内メール/MA市場は865億円規模へ拡大予測で、ROI最高チャネルとしてメールの重要性は揺るがず、生成AIとの相性も良い。しかし配信そのものはSynergy!・配配メール・blastmail等の国産基盤が押さえ、海外大手も浸透済みで、各社が生成AI機能を続々追加中。Brewの差別化点(プロンプト→崩れないHTML→ESP書き出し)を国内でフル再現するのは個人には重く、競合スコアは低い。一方でKlaviyo等が日本語サポート・ローカライズで空白を残す点、国産ツールのデザイン品質や作成スピードに不満が残る点は、作成・デザイン特化のニッチ機会を生む。総じて『今すぐbuild』より、生成AIメール需要の国内顕在化を見極めつつ作成層に絞って狙う watch ポジションが妥当。"
+  },
+  "business_viability": {
+    "business_viability_score": 6,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "国内メール配信ツールは月額4,000円〜50,000円超で課金文化が定着しており、月額サブスクは受け入れられやすい。ただし汎用AIや無料枠との比較で『わざわざ専用ツールに払う』壁があり、作成特化だと単価を高く取りにくい。freemiumで上位転換を狙う設計が現実的。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内メール/MA市場は数百億円規模で母数は十分だが、Brewが現実的に狙える『AIメール作成・デザイン支援』の細分セグメントに限ると、EC/D2C・スタートアップのグロース層が中心で広大とは言えない。根拠ある精緻なTAMは未確認のため中庸評価。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "PLG/無料枠+Qiita/Zenn/note/X発信でリーチ可能なPLG型チャネルが成立しうる。一方で国内BtoBは対面営業文化が残り、配配メール等は営業/代理店経由が強い。個人開発はコンテンツ集客とPH/海外文脈での話題化に依存し、認知獲得に時間を要する。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "本家Brewや海外大手・国産ツールが生成AI機能を急速に実装中で時間窓は狭い。日本語特化の空白は当面残るが、Klaviyo/Mailchimpの日本語強化や国産のAI機能追加が進めば数年で埋まる可能性。先行優位はあるが余裕は小さい。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "作成支援に留めればSaaSとして比較的手離れ可能。しかしメール『送信』まで提供すると到達率監視・なりすまし対策・苦情対応が24/7に近い負荷となり個人運用は困難。スコープを作成+ESP書き出しに絞れるかで負荷が大きく変わる。"
+      }
+    },
+    "rationale": "事業成立性は中庸。課金文化は存在し月額サブスクは通りやすいが、汎用生成AIや無料枠との比較で作成特化ツールの単価は伸ばしにくく、ARPUは控えめに見るべき。TAMは母市場こそ大きいものの、個人開発が現実的に狙える日本語特化のAIメール作成・デザイン層は細分化されており、精緻な根拠数値は未確認。GTMはPLG+技術コンテンツ発信で個人でも到達可能だが、国内BtoBの対面文化と既存ベンダーの営業力が壁。最大のリスクはスコープ管理で、配信(送信)まで踏み込むと到達率・法令・苦情対応で個人運用が破綻しやすい。作成+既存ESP書き出しに絞れば solo 継続性は確保しやすい。タイミングは本家・大手・国産のAI実装競争が進む中でやや遅く、日本語特化の空白を素早く突けるかが鍵。総合的には『慎重に作成層へ絞れば成立余地あり』の consider 水準。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 4000,
+      "plans": [
+        "Free: 月10通まで生成・Brewロゴ付き・ESP書き出し基本",
+        "Starter: ¥2,000/月 生成無制限・ブランド学習・主要ESP連携",
+        "Pro: ¥6,000/月 自動配信フロー作成・複数ブランド・A/B案出し",
+        "Team: ¥20,000/月 複数ユーザー・承認フロー・優先サポート"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内EC/D2C・SaaSスタートアップのグロース/マーケ担当(専任のメールチームを持たない小規模チーム)。Shopify/BASE等のEC事業者、メルマガ・ライフサイクルメールを高速に量産したい個人事業〜中小。既存ESPは乗り換えず作成だけ効率化したい層を起点とする。",
+      "target_count": 30000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 1200000
+    },
+    "recommended_gtm": [
+      "無料枠起点のPLG(生成→ESP書き出しまで無料で体験)",
+      "Qiita/Zenn/noteでメールHTML・到達率・生成AI活用の技術発信",
+      "X個人発信+PH/海外文脈での話題化を国内へ流入",
+      "Shopify/BASEアプリストア等EC連携経由での露出",
+      "国産ESP(blastmail等)ユーザー向けに『作成だけ補完』として訴求"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "スコープ肥大リスク: メール送信まで提供すると到達率監視・DMARC/なりすまし対策・苦情/解除対応が24/7負荷となり個人運用が破綻する。作成+既存ESP書き出しに厳格に絞る必要がある。",
+      "競合のAI実装に飲まれるリスク: 本家Brewの日本進出、Klaviyo/Mailchimpの日本語強化、Synergy!/配配メール等国産の生成AI機能追加で差別化が短期間で縮小しうる。",
+      "差別化の難しさ: 汎用生成AIやCanva/Outlook Copilot等で『それなりのメール』が作れてしまい、専用ツールへ課金する動機を作りにくい。日本語デザイン品質で明確に勝つ必要。",
+      "法令対応コスト: 特定電子メール法のオプトイン同意管理・送信者情報表示・特商法表示をテンプレ強制で担保しないと、ユーザーの違反を誘発しブランド毀損リスク。",
+      "需要顕在性が未確認: 日本語での評判・需要シグナルが検索で確認できず(根拠未確認)、初期の有料転換率が想定を下回る可能性。"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 6,
+  "japan_fit_at": "2026-06-06T11:30:00Z",
+  "review_guide_at": "2026-06-06T11:30:00Z",
+  "business_viability_at": "2026-06-06T11:30:00Z",
+  "advisor_view_at": "2026-06-06T11:30:00Z"
+}

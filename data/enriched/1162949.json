@@ -1,0 +1,271 @@
+{
+  "name": "Ideogram 4.0",
+  "description": "Generate design-ready image with open weight, layout control",
+  "ph_url": "https://www.producthunt.com/products/ideogram-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/OJNQHSZUNTKVUF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-05T07:01:00Z",
+  "upvotes": 212,
+  "comments": 10,
+  "topics": [
+    "Design Tools",
+    "Open Source",
+    "Social Media",
+    "GitHub"
+  ],
+  "makers": [
+    {
+      "id": "9887540",
+      "name": "Tom Skopek",
+      "twitterUsername": null,
+      "headline": "Dev"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p><strong>Ideogram 4.0</strong> is an open-weight text-to-image model trained from scratch on structured JSON captions, built specifically for design-oriented output including typography, logos, posters, and brand visuals.</p><p></p><p>Proprietary models have held the lead on layout fidelity and accurate text rendering. Open alternatives have been usable for general photorealism but fall apart when a design needs copy to land in the right place, in the right font, at the right size. Ideogram solves this at the training level, pairing bounding-box coordinates with per-element descriptions so the model learns spatial structure rather than guessing at it.</p><p></p><p><strong>Here is what that translates to in practice:</strong></p><ul><li><p>Explicit bounding-box layout control via JSON prompts, so every text region and object lands where the brief says it should</p></li><li><p>Multilingual text rendering across signage, logos, and multi-line typographic layouts, at native 2K resolution</p></li><li><p>Hex color palette conditioning for brand color control directly in the prompt</p></li><li><p>Self-hostable with fine-tuning support on proprietary data, and a commercial license that scales by deployment size</p></li><li><p>Hosted API access from $0.03/image with no subscription required</p></li></ul><p>If you are an ML engineer evaluating open-weight image models for a production pipeline, or a creative technologist who needs design output that actually handles typography without manual cleanup, this is worth a serious look.</p><p></p><p>Download the weights on HuggingFace or try the model live at <a href=\"http://ideogram.ai\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">ideogram.ai</a>.</p><p></p><p>P.S. I hunt the latest and greatest launches in tech, SaaS and AI, follow to be notified <strong>→</strong> <a href=\"https://www.producthunt.com/@rohanrecommends\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">@rohanrecommends</a> </p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>The typography and layout control part is the most interesting to me. Most image models still need a lot of cleanup when there is real text in the design. Can  Ideogram keep the same layout consistent across several brand visuals? </p>",
+      "votesCount": 5,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Been a fan of the free version for image generation, so it's great to see how much Ideogram is evolving. Layout precision and typography, which are still pain points for a lot of image models, are great addition. Good luck with the launch!</p>",
+      "votesCount": 4,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Ideogram 4.0 is an open-weight text-to-image model trained from scratch, with bounding-box layout control, multilingual text rendering, and native 2K output. For developers and enterprises building on visual AI.",
+  "featured_at": "2026-06-05T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/8919eccb-7bb6-4bce-ab61-8a213b393199.jpeg",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7d309261-c17d-4ff3-8ea6-ded457b0432f.webp"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/36f34808-61c3-41fe-99e5-aeddc63fcaac.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b05068f3-f8aa-4b5c-ba77-6806e64d9d78.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/caf763fa-91d8-4fae-b7bd-ae0d13d77d3e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b53640cb-cb52-4c94-b1dd-195d5542e096.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c62e21f3-9bfe-486a-ac88-d8be96ea68b1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/455cd1c9-61e7-482b-bfd9-c5c6a6bd6e85.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e1644f66-2761-42df-8f37-b7da88c904b3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/982dd506-0880-4ace-a62e-52c273366b11.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8a9544d3-40d4-4775-93e2-c02f7219c0e5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/563085b0-37d6-41f0-bb15-111587e8c57d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/037e4384-20e3-4a51-a4ad-d53d81f822fe.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0e564198-d149-445f-8981-3681d1f157f2.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5d3d6968-0fb1-4f34-af7d-81caf31680f6.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7e71ad3d-dece-4e30-863a-6d43213d01ff.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0da77ceb-0943-48ea-859c-f299751fe5a0.jpeg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e570c40e-140a-40fd-b22f-ccd5f2897495.jpeg"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/6804dea9-8c36-4a7e-bafa-8380dce7631c.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:37",
+  "landing_meta": "Ideogram 4.0 | Ideogram — Ideogram 4.0 is an open weight image model: dense text rendering across languages, object and text placement through bounding box control, and 2K output that doesn't look AI generated.",
+  "landing_text": "Ideogram 4.0 | Ideogram Login Sign up Ideogram 4.0 Open image model at the forefront of design. Built for design: open weights, multilingual text, precise layout control, editable elements, and realistic 2K images. GitHub Try it now Future of design The open approach The future of generative AI is open source. Chromium outran every closed browser engine, PyTorch is the dominant ML framework, and most of the internet runs on open source software. Over the past year, proprietary image models have set a new standard on text rendering, prompt adherence, and photorealism, while open weight models have fallen behind. Today, we are releasing Ideogram 4.0 as a state-of-the-art open weight image model for developers and enterprises to build with us. The weights are yours to download , fine-tune, and run on your own hardware. Commercial deployments come with a license that matches your scale. We believe openness drives innovation, and we invite the research community to innovate with us on the forefront of visual intelligence. World's first benchmark for real-world design with 4M+ creators and counting. Made by @arcada_labs Model training Teaching the model to read structure before recreating it. A picture is worth a thousand words. Ideogram 4.0 was trained with a describe-to-structure-to-recreate loop: first reading scenes, backgrounds, text, and objects as structured data, then learning to rebuild images from that representation. Living Room Poster Wall of Posters Input image Reference Structured description Raw JSON High level description A modern living room with an orange wall, featuring a gray sofa, a geometric gold side table, and a large colorful abstract painting of a cat's face hanging above the sofa. Composition Background A solid mustard yellow wall serves as the backdrop for the entire scene. The floor is dark wood or laminate. A light-colored woven rug with vertical stripes lies on the floor in front of the furniture. Cat painting obj A large square canvas paint",
+  "pricing_signals": [
+    "open source",
+    "open-source",
+    "subscription",
+    "pricing",
+    "$0.03",
+    "$0.06",
+    "$0.10"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:37",
+  "description_ja": "オープンウェイトの画像生成モデル。文字組み・レイアウトを座標指定でき、2K のデザイン向け画像を生成。",
+  "summary_ja": "ゼロから学習したオープンウェイトのテキスト画像生成モデル。JSON のバウンディングボックスで文字や要素の配置を制御し、多言語の文字描画と 2K 出力に対応。ロゴ・ポスター・ブランド素材などデザイン用途に特化し、自己ホストや API 利用が可能。",
+  "tldr_ja": "デザイン画像需要は強いが本体は基盤モデルで個人開発は不可、日本語文字組み特化のラッパーが唯一の隙間。",
+  "review_guide_ja": {
+    "what": "ゼロから学習したオープンウェイトのテキスト画像生成モデル。「説明→構造化→再生成」ループで学習し、JSON のバウンディングボックス座標で文字領域やオブジェクトの配置を厳密に制御できる点が最大の特徴。多言語のテキスト描画、HEX カラーパレットでのブランドカラー指定、2K ネイティブ解像度に対応。重みは HuggingFace からダウンロードでき、自社データでのファインチューニングと自己ホストが可能（商用は規模連動ライセンス）。ホスト型 API は 1 画像 $0.03 から、サブスク不要。典型用途はロゴ・ポスター・SNS バナー・ブランド素材など、文字とレイアウトが命のデザイン制作。",
+    "for_who": "本番の画像生成パイプラインにオープンウェイトモデルを組み込む ML エンジニア、文字組みの後処理を減らしたいクリエイティブ技術者、自社データで微調整・オンプレ運用したいデザイン系企業。アプリ層では、これを基盤に日本語デザインツールを作る開発者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "画像基盤モデル本体の学習は数千 GPU 規模の資本が必要で個人は再現不可。API/重みを使ったアプリ層ラッパーなら medium だが、本体機能の代替は不可能。"
+    },
+    "signals": [
+      "文字組み・レイアウトを座標で制御できる点は他モデルにない明確な差別化",
+      "オープンウェイト+自己ホスト可で、データ秘匿が必要な国内企業に訴求しやすい",
+      "API が $0.03/画像と低価格でアプリ層のコスト構造が成立しやすい",
+      "コメントでブランド横断のレイアウト一貫性への関心が高い（実需シグナル）"
+    ],
+    "concerns": [
+      "本体は基盤モデルで、Google/OpenAI/Adobe/Canva と正面競合する超レッドオーシャン",
+      "日本語の画像内テキスト描画は依然弱く、ローカライズ後処理が前提になりがち",
+      "生成物の商用利用には著作権（依拠性・類似性）リスクが残り企業審査の壁になる",
+      "個人開発者は本体に貢献できず、薄いラッパーは差別化が消えやすい"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "文字入りデザイン画像（バナー・チラシ・ロゴ）の AI 生成需要は国内で顕在。バナー外注は 1 枚 1〜3 万円が相場で AI 代替への期待が大きく、Qiita/note 等で Ideogram の文字入れ能力が高評価。法人の生成 AI 導入も約 4 社に 1 社まで進展。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "本体は画像基盤モデルで、Google Gemini/Nano Banana、OpenAI、Adobe Firefly、Canva、国内 Banavo 等が密集する飽和市場。デザイン特化でも文字描画は Gemini が 2025 年末に急進し差が縮小。競合不在とは程遠い。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "AI 生成画像の商用利用は著作権の依拠性・類似性で侵害判定があり得る（文化庁見解、2025 年は提訴・判決が相次ぐ）。学習は 30 条の 4 で柔軟だが生成・利用段階は通常の著作権法適用。実装不能ではないが企業審査の障壁。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "API/重み中心で構造は扱いやすいが、画像内の日本語テキスト描画が弱く（崩れ・文字化け）、ここを補正するには UX・後処理・日本語フォント条件付けの作り込みが必要。完全 API 化はできず中程度。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "デザイン制作の発注文化・ブランドガイド準拠など日本商習慣と大きな摩擦はないが、企業はクリエイティブの権利確認や校正を重視し、AI 生成物の社内承認フローが障壁になりやすい。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Banavo",
+        "url": "https://webseisaku.site/blog/banner-cheap/",
+        "note": "国内の広告バナー生成 AI。月額 9,800 円で 50 本生成（1 枚約 196 円）。日本語デザイン制作のアプリ層で先行し、Ideogram が狙う隙間と直接競合する。"
+      },
+      {
+        "name": "Adobe Firefly / Canva",
+        "url": "https://ai-erabi.jp/image/",
+        "note": "商用安全性を訴求する大手デザインプラットフォーム。日本法人・日本語 UI が整備済みで、テンプレと文字編集を含むデザイン全体を押さえる。"
+      },
+      {
+        "name": "Google Gemini / Nano Banana",
+        "url": "https://news.mynavi.jp/techplus/article/20251218-3828812/",
+        "note": "2025 年末に日本語テキスト描画が飛躍的に向上。文字入れ精度という Ideogram の差別化要因を正面から侵食している強力な汎用競合。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "著作権法",
+        "impact": "AI 生成物自体は原則非著作物だが、商用利用時は既存著作物との依拠性・類似性で侵害判定があり得る。学習は 30 条の 4 で柔軟、生成・利用段階は通常適用。2025 年は国内大手報道機関の提訴や海外大型判決が相次ぎ、企業の利用審査が厳格化。"
+      },
+      {
+        "law": "景品表示法",
+        "impact": "AI 生成画像を広告クリエイティブに使う際、実物と異なる過度な表現は優良誤認・有利誤認に該当し得る。商品バナー生成用途では生成物の表示内容チェックが運用上必須になる。"
+      }
+    ],
+    "opportunity": "本体（画像基盤モデル）の開発は個人には不可能。唯一の角度は Ideogram 4.0 の API/オープンウェイトを基盤に「日本語デザイン特化アプリ層」を作ること。具体的には (1) 画像内日本語テキストの崩れを日本語フォント条件付け+後処理で補正し、(2) JIS/和文組版・縦書き・キャッチコピーのレイアウトをテンプレ化、(3) 景表法・著作権の簡易チェックを組み込んだ「日本の中小企業向けバナー/チラシ生成 SaaS」。商用安全と日本語品質という大手が手薄な所を突く。ただし Gemini の日本語描画向上で窓は急速に閉じつつあり、参入は早期かつ縦特化が前提。",
+    "rationale": "需要面では文字入りデザイン画像の AI 生成は国内で顕在化しており、バナー外注相場（1〜3 万円/枚）の代替という明確なペインがある。しかし本プロダクトの本質は画像基盤モデルそのもので、Google・OpenAI・Adobe・Canva・国内 Banavo が密集する超飽和レイヤーに位置する。個人開発者が本体機能を再現・改善することは資本・データ規模の面で不可能であり、評価対象は実質「API/重みを使ったアプリ層」に限定される。そのアプリ層でも、最大の差別化だった日本語の画像内テキスト描画は 2025 年末に Gemini が急進し、優位が縮小中。著作権・景表法の利用段階リスクも企業導入の摩擦となる。総じて市場機会としては需要は強いが競合飽和と差別化消失のスピードが厳しく、verdict は skip。日本語組版に深く特化した縦割りアプリ層に限り、短期窓での機会が残る。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "画像生成サブスクは国内で受容済み（Ideogram $15〜42/月、国内 Banavo 月 9,800 円）。ただし本体は open_source で課金できず、ARPU を取れるのはアプリ層のみ。デザイン用途は ROI が説明しやすく月額数千円なら成立余地あり。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "国内のバナー・チラシ・SNS 画像の制作需要は中小企業〜個人事業まで広く、TAM はそれなりに大きい。ただし大手プラットフォームが既に大半を押さえ、個人開発が取れるのは日本語特化など狭いニッチに限られる。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "アプリ層なら PLG 可能。Qiita/note/X で Ideogram の文字入れ活用記事が伸びており、無料枠+発信で初期獲得は現実的。一方デザイン領域はインフルエンサー集客の競争が激しく CAC は上昇傾向で、大手の無料機能と競合する。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "Gemini/Nano Banana が 2025 年末に日本語テキスト描画を急改善し、差別化の核が消えつつある。本家・大手のローカライズが進行中で時間窓は極めて狭い。既に競合だらけで本家来訪済みに近い。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "アプリ層なら API 従量+ストックレス運用で手離れは比較的良いが、生成品質クレーム・著作権/景表法の問い合わせ対応、モデル更新追随が継続負荷。24/7 監視までは不要だが完全放置も不可。"
+      }
+    },
+    "rationale": "事業成立性は本体と切り離して「日本語デザイン特化アプリ層」として評価する必要がある。本体は open_source で個人が直接マネタイズできないためスコアは本質的に低い。アプリ層に限れば、課金受容（月額数千円〜1 万円）と PLG チャネル（Qiita/note/X）は成立余地があり、バナー外注代替という明確な ROI も追い風。しかし決定的に弱いのが timing で、Ideogram の差別化要因だった画像内テキスト描画を 2025 年末に Gemini/Nano Banana が日本語含め急改善し、優位が短期で消失しつつある。市場は大手プラットフォームが面を押さえ、個人開発が取れるのは日本語組版という狭いニッチのみ。著作権・景表法の利用審査も企業導入の摩擦。総合では、強い需要に対して競合密集・時間窓の狭さ・差別化消失が重く、business_viability は 4。早期かつ深い縦特化でのみ短期収益の可能性が残るが、中長期の継続性は楽観できない。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 3000,
+      "plans": [
+        "Free: 月 20 枚まで（ウォーターマーク付き、日本語テンプレ 3 種）",
+        "Pro: ¥3,000/月（月 300 枚、日本語フォント条件付け+文字崩れ補正、ウォーターマークなし）",
+        "Team: ¥12,000/月（ブランドガイド登録、景表法・著作権簡易チェック、3 席）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内の中小企業・個人事業主・副業者で、SNS バナー/チラシ/ロゴを内製したい層。特に日本語キャッチコピーの文字組みが必要で、外注（1 枚 1〜3 万円）を減らしたいマーケ担当・EC セラー・店舗オーナー。",
+      "target_count": 50000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 1500000
+    },
+    "recommended_gtm": [
+      "note/Qiita で『Ideogram で日本語デザインを作る』実践記事を連載しオーガニック流入を獲得",
+      "X で生成事例（日本語バナー/ロゴ）を毎日発信しビフォーアフターで訴求",
+      "無料枠 PLG（月 20 枚）で試用→Pro 転換の導線を設計",
+      "中小企業向けのデザイン外注代替として商工会議所・地域コミュニティで小規模セミナー"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "差別化消失リスク: Gemini/Nano Banana が日本語テキスト描画を急改善中で、文字組み特化という優位が 1 年以内に陳腐化しアプリ層の存在意義が消える可能性が高い。",
+      "プラットフォーム依存リスク: Ideogram API/重みや大手汎用モデルの仕様・価格変更で、薄いラッパーは一夜で代替・無価値化し得る。本体に対する交渉力がない。",
+      "法務リスク: 生成物の商用利用で著作権（依拠性・類似性）や景表法の問題が発生した際、個人開発者では企業顧客のリーガル要求に応えきれず導入が止まる。",
+      "競合資本力リスク: Adobe/Canva/Google が日本語デザインを面で押さえており、ニッチを掘り当てても即座に標準機能として取り込まれ収益化前に市場が消える。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

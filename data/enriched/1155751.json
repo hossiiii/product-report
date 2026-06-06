@@ -1,0 +1,248 @@
+{
+  "name": "SellerClaw",
+  "description": "A team of AI agents that runs your stores across channels",
+  "ph_url": "https://www.producthunt.com/products/sellerclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/7EVPIJ3T3Q6YW2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-05T07:01:00Z",
+  "upvotes": 422,
+  "comments": 137,
+  "topics": [
+    "SaaS",
+    "E-Commerce"
+  ],
+  "makers": [
+    {
+      "id": "7099599",
+      "name": "Artem Kosilov",
+      "twitterUsername": "artkosilov",
+      "headline": "Building apps for e-commerce"
+    },
+    {
+      "id": "7099718",
+      "name": "Kamil Bagaviev",
+      "twitterUsername": "KamilZonesmart",
+      "headline": "SellerAI Co-founder & CTO"
+    },
+    {
+      "id": "9820306",
+      "name": "Gleb Tolstov",
+      "twitterUsername": null,
+      "headline": "AI Product Manager / B2B / SaaS"
+    },
+    {
+      "id": "9810145",
+      "name": "Aleksandra Elman",
+      "twitterUsername": null,
+      "headline": "Product marketing manager in B2B & B2C"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt! 👋<br><br>Artem here, co-founder of SellerClaw. My journey in e-commerce started when I was 18, selling on Amazon. Later, I co-founded Zonesmart, where we helped over 1,000 sellers scale across borders before exiting in 2022.<br><br>Despite all the tech we had, one thing never changed: running a store is a relentless, manual grind. Sourcing, pricing, managing ads, and handling support across multiple channels like Shopify and eBay is a 24/7 job. My co-founder Kamil and I realized that to truly scale, we didn't need more tools - we needed more hands.<br><br>That’s why we built <strong>SellerClaw </strong>- a team of AI agents that actually runs the store for you.<br><br>🛠 <strong>Key Features:</strong><br>👉 Specialized Agents - Dedicated AI agents for product sourcing, store management, advertising, and customer support. <br>👉 The Supervisor Model - You direct a \"Supervisor\" agent who coordinates the rest of the team.<br>👉 Multi-Channel - Seamless operations across Shopify, eBay, and more.<br>👉 Human-in-the-Loop - You stay in control. Every action is visible and can be set for your approval before it goes live. No \"rogue\" AI pricing.<br><br><strong>Who is this for?</strong><br>- Solo-founders who want to run multiple stores without hiring a massive team.<br>- Cross-border sellers struggling with local payment methods, customs, and international support.<br>- Growing brands that want to automate the \"boring stuff\" to focus on brand strategy.<br><br><strong>Our Goal &amp; Offer</strong> 🎁 We are in the early stages and launching to real sellers this week. We believe this changes the economics of e-commerce - decoupling revenue growth from headcount.<br><br>SellerClaw is free to start, and no credit card is required.<br><br><em>We need your feedback! As we refine our agents, we want to know:</em><br><br><em>Which part of your e-commerce workflow is the biggest \"pain in the neck\" that you'd hand over to an agent today?</em><br><em>What specific platforms (beyond Shopify/eBay) should our agents learn next?</em><br><br>We’ll be here all day to answer your questions. Let us know what you think! 👇</p>",
+      "votesCount": 29,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>I remember my first job -I used to sell apples when I was a kid. Now everything is sold online, and agents can handle everything for you. I already know who I’ll recommend your service to.</p><p>Good luck with today’s launch! ✨</p>",
+      "votesCount": 9,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Most \"AI runs your store\" pitches mean \"AI drafts your listings and reminds you to restock.\" The multi-channel part is where it gets genuinely hard, because inventory state has to stay consistent across Amazon, Shopify, wherever else, and any lag there turns into oversells or missed repricing windows. Curious whether SellerClaw owns that sync layer directly or sits on top of something like a middleware feed. Also wondering how it handles channel-specific policy differences, like Amazon's title length rules versus what Shopify tolerates, when the same SKU needs to live in both places.</p>",
+      "votesCount": 8,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Running even one online store is a full-time job. SellerClaw is a team of AI agents that runs it for you: specialized agents for product sourcing, store management, and advertising, coordinated by a supervisor you direct. Tell it what to sell — the agents build listings, manage ads and pricing, and handle fulfillment and support across Shopify, eBay, and more. You stay in control: every action is visible and approvable, and you set how much runs on its own. Free to start.",
+  "featured_at": "2026-06-05T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/055a93ee-c4e1-4862-99e9-0984eff96f82.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4cb6a984-3d4f-454b-ab7e-79de4c6f8e20.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9594bc80-eec7-4083-ac14-ffd6550c0e2b.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ec42fca3-d3a0-49d8-9093-05288c2ec922.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2c32fc3b-d9ec-4269-a699-a64bedb7218a.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/921ee052-7c51-4b97-b344-3e0075913795.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/05917104-3d1f-4c17-a6e9-7f3486f86e7b.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:04",
+  "landing_meta": "AI Agent for Ecommerce Stores | SellerAI — Automate sourcing, listings, repricing, ads, fulfillment, support, and AI-native commerce with SellerAI.",
+  "landing_text": "AI Agent for Ecommerce Stores | SellerAI The agent-first commerce OS Your store, on autopilot. An autonomous agent runs your store. A native commerce layer makes your products discoverable by humans and AI alike. Start for free Start with 500 free credits 🦞 SellerClaw Agent Session #sc_0147 - autonomous running Lists, syncs, and sells across Sales channels Data sources Ad platforms Google Merchant Center Any store (via API) Two products, one system The agent runs your business. The storefront sells it everywhere. SellerAI is two halves of the same platform: an autonomous operator that can run your existing stores today, and a native commerce layer purpose-built for the agentic web. SellerClaw ● Live The autonomous commerce operator. An agent based on hosted OpenClaw-style architecture, adapted for commerce. It runs your Shopify, eBay and other stores like a highly capable digital operator - minimal human input required. ✓ Runs stores on Shopify, eBay, and other channels ✓ Connects to your suppliers to source products & place orders ✓ Generates sellable product pages ✓ Manages ads, growth workflows, and daily ops ✓ Available in cloud-hosted and self-hosted versions Launch now Learn more → SellerCart Coming soon The native commerce layer built for agents. A modern, native store builder designed from the ground up for an AI-native environment. SellerClaw doesn't just connect to SellerCart - it runs natively inside it. ✓ Native storefront creation + built-in payments ✓ Deep native SellerClaw integration ✓ Global selling: VAT, sales tax, imports handled ✓ ACP & UCP agentic commerce protocols built-in ✓ Products discoverable by ChatGPT, Gemini & future AI channels Join the waitlist Learn more → SellerClaw in action Watch an autonomous operator run your store. SellerClaw reasons, takes actions, and ships results. Pick a workflow to see how it thinks through a real operational task. 🔍 Source a product ✍ Generate a listing 📈 Run ads 📦 Handle orders 💬 Customer support Agent r",
+  "pricing_signals": [
+    "open-source",
+    "self-hosted",
+    "pricing",
+    "$68"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:04",
+  "description_ja": "複数チャネルのネットショップを丸ごと運営するAIエージェントチーム",
+  "summary_ja": "商品調達・出品作成・広告・価格設定・受注・顧客対応をAIエージェントが分担し、監督役エージェントを通じて指示するだけでShopify/eBay等の複数店舗を半自律運営する「自律型コマースオペレーター」。承認制で人が制御できる。",
+  "tldr_ja": "EC自動化需要は国内顕在だが楽天/Yahoo!非対応かつ一元管理は強豪ひしめき、個人運用は手離れせず障壁高め",
+  "review_guide_ja": {
+    "what": "SellerClawはECストアの日常運営を肩代わりする「AIエージェントチーム」。商品調達・出品ページ生成・広告運用・ダイナミックプライシング・受注処理・カスタマーサポートを専門エージェントが分担し、ユーザーが指示する監督(Supervisor)エージェントが束ねる。Shopify/eBay等の既存店舗にAPI接続して動作し、サプライヤーとつないで仕入れ発注まで行う。Human-in-the-Loopで全アクションが可視化され、公開前承認も設定可能。クラウド版とセルフホスト版を提供。姉妹製品SellerCart(開発中)はACP/UCP等のエージェント決済プロトコル対応のAIネイティブ店舗基盤。典型ユースケースは「複数店舗を少人数で回す」「越境セラーが現地決済・関税・サポートを任せる」。",
+    "for_who": "複数ストアを大人数を雇わず回したいソロ起業家・小規模セラー、現地決済/通関/海外サポートに苦しむ越境セラー、定型業務を自動化してブランド戦略に集中したい成長中ブランド。日本では越境EC副業セラーやShopifyを使う個人事業主が想定層。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "複数チャネルの在庫整合性同期、各モールのポリシー差分対応、サプライヤー発注連携、自律エージェント基盤の構築は高度。誤出品・誤価格の損害責任も伴い、個人での堅牢な再現は困難。"
+    },
+    "signals": [
+      "ローンチ初日で422 upvotes/137コメントと高い関心",
+      "創業者は越境EC SaaS(Zonesmart)で1,000+セラー支援後2022年Exitの実績",
+      "エージェンティックコマースは2026年最大級のECトレンドで追い風",
+      "ACP/UCP等のAIネイティブ決済プロトコル先取りの構想"
+    ],
+    "concerns": [
+      "在庫同期の遅延がオーバーセル/価格機会損失に直結(トップコメントでも指摘)",
+      "自律的な価格・出品にはモール規約違反やアカBANのリスク",
+      "対応チャネルがShopify/eBay中心で日本主要モール(楽天/Yahoo!)非対応",
+      "誤発注・誤対応時の損害責任が不明確で個人運用には重い"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "国内EC市場26.1兆円、Amazon約14万・楽天約5.6万店が稼働し、EC運営の工数削減ニーズは強い。2026年はエージェンティックコマース/自律型運営が最大級のトレンドで、業務を『任せる』方向の需要は顕在。ただし完全自律運営への信頼はまだ醸成途上。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "一元管理は強豪密集(ネクストエンジン6,500社、クロスモール1,800社、TEMPOSTAR、LOGILESS)。AI運用エージェントもVOMS(月9,800〜19,800円)やNoimosAI、楽天AI等が既存。完全自律『店舗運営代行』の角度は相対的に空きがあるが周辺は飽和気味。"
+      },
+      "regulation": {
+        "score": 5,
+        "reason": "特商法でストアに事業者名・所在地・返品条件等の表記義務、2024年改正古物営業法で中古仕入れには許可と許可番号のサイト掲載義務。越境では輸入関税・消費税も発生。AIによる自律出品/価格設定自体を禁じる法はないが、表記・許可遵守をエージェントが担保する設計が必須。"
+      },
+      "localization": {
+        "score": 4,
+        "reason": "UI日本語化は容易だが、日本の主力チャネル楽天RMS/Yahoo!への対応が必須。楽天RMS APIはシステム開発会社承認・店舗ごとのライセンスキー定期更新が必要で、自律エージェントの接続摩擦が大きい。各モールの規約・出品ルール差分の作り込みも重い。"
+      },
+      "business_custom": {
+        "score": 5,
+        "reason": "日本のEC運営は楽天/Yahoo!中心で、Shopify/eBay前提の本製品はチャネルがずれる。『AIに任せきり』より人手確認を好む慎重な商習慣、丁寧なCS期待値も自律運営と相性が良くない。一方で工数削減ニーズ自体は強く中庸。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "ネクストエンジン (NE株式会社)",
+        "url": "https://next-engine.net/",
+        "note": "国内シェアトップのEC一元管理SaaS、契約6,500社超。受注・在庫・出荷自動化に加えAIツール群も拡充。楽天/Yahoo!/Amazon等の国内主要モールを広くカバーし、運営自動化のデファクト。"
+      },
+      {
+        "name": "クロスモール (CROSS MALL)",
+        "url": "https://cross-mall.jp/",
+        "note": "導入1,800社超のEC一元管理。多店舗の在庫・受注・出品を集約。ネクストエンジンに次ぐシェアで国内モール対応が厚い。"
+      },
+      {
+        "name": "VOMS",
+        "url": "https://www.vottia.jp/",
+        "note": "受注集約から出品・価格・広告効率化までを担うEC運用支援。ライト9,800円/月・スタンダード19,800円/月と国内ARPU相場を提示する直接的な価格競合。"
+      },
+      {
+        "name": "LOGILESS",
+        "url": "https://www.logiless.com/",
+        "note": "OMS/WMS一体型で90以上の条件で受注〜出荷を自動化。Shopify Partner of the Year受賞、Boxil SaaS Award総合1位。物流自動化に強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "特定商取引法",
+        "impact": "EC販売では事業者名・所在地・連絡先・販売価格・送料・支払時期/方法・引渡時期・返品条件等のストア表記が義務。AIが出品やストア生成を自律実行する場合、これらの表記漏れがないことを担保する設計が必要。国外向け販売には原則非適用。"
+      },
+      {
+        "law": "古物営業法(2024年改正)",
+        "impact": "中古品・リサイクル品の仕入れ販売には古物商許可が必要。2024年4月改正で氏名/名称・許可公安委員会名・許可証番号をサイトの目立つ場所に掲載する義務。商品調達エージェントが中古を扱う場合に直撃。"
+      },
+      {
+        "law": "関税法・消費税法(越境EC)",
+        "impact": "海外から日本への販売・輸入では関税・消費税が課税され、海外事業者には特定事業者登録制度がある。エージェントが越境仕入れ/販売を自律実行する際、課税・通関・表示の自動処理が論点になる。"
+      }
+    ],
+    "opportunity": "日本独自の角度は『楽天/Yahoo!/Amazon JP + 国内決済・物流に特化した自律運営エージェント』。本家がShopify/eBay中心で楽天RMSの承認・キー更新フローや国内モール固有ルールへの対応が遅いため、ここに参入余地がある。さらに特商法表記・古物許可番号の自動掲載、適格請求書(インボイス)対応、丁寧な日本語CSテンプレートなど『規約遵守を自動で守る』ことを差別化に。完全自律より『承認必須＋ログ可視化』の安心設計を前面に出し、まずは出品文生成・問い合わせ一次対応など低リスク業務から信頼を積む狭い入口が現実的。",
+    "rationale": "需要面は強い。国内EC市場は26.1兆円規模で運営工数削減ニーズは明確、エージェンティックコマースは2026年の主要トレンドで追い風がある。しかし市場機会としての評価は中庸〜やや低。第一に競合密度が高く、一元管理はネクストエンジン(6,500社)・クロスモールが押さえ、AI運用支援もVOMSやNoimosAI、楽天AIが先行。第二にローカライズ障壁が大きく、日本の主力チャネルである楽天RMSはシステム開発会社承認・店舗ごとのライセンスキー定期更新が必要で、自律エージェントの常時接続と相性が悪い。Yahoo!もトークン更新が要る。第三に商習慣のズレ——本製品はShopify/eBay前提で、日本の中心は楽天/Yahoo!。加えて『AIに任せきり』より人手確認・丁寧CSを好む文化が自律運営の受容を鈍らせる。規制は致命的ではないが特商法表記・改正古物営業法の許可番号掲載をエージェントが担保する設計が前提。総じて、需要は本物だがそのまま日本にフィットせず、国内モール特化への作り込みが不可欠。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "VOMSが月9,800〜19,800円で運用支援を提供しており、月額課金の相場は存在。一方、国内個人セラーは無料/成果報酬型(Qoo10・Shopee・BASE)を好む傾向が強く、固定の高額月額や従量課金には抵抗がある。成果連動・無料枠起点でないとARPU確保が難しい。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "Amazon約14万店・楽天約5.6万店・Yahoo!ほか、ネットショップ稼働は十数万規模。越境EC副業も拡大(主婦セラーの約5人に1人が月商30万円超)。TAMは十分広いが、自律運営にお金を払う中上位セラーに絞ると実効母数は縮む。"
+      },
+      "gtm": {
+        "score": 5,
+        "reason": "Shopify/note/X/EC系メディアでのPLG・コンテンツ発信は可能で個人でもリーチ余地はある。ただし国内は一元管理の比較記事・既存ベンダーの情報優位が強く、新規の自律運営エージェントへの信頼獲得には実績デモと事例蓄積が要り、立ち上がりは遅い。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "エージェンティックコマースは2026年に本格化し、本家SellerClaw自身を含む海外勢・国内ベンダー(楽天AI、ネクストエンジンのAI拡張)が同時多発で参入中。時間窓は狭く、国内モール対応で先行しないとすぐ追いつかれる。"
+      },
+      "solo_ops": {
+        "score": 3,
+        "reason": "在庫同期遅延=オーバーセル、自律価格/出品=規約違反・アカBANという損害直結の事故が起きうる領域。誤発注・誤CSの責任も重く、24/7監視と障害対応、サプライヤー/モール仕様変更の追従が必要で手離れしにくい。個人運用負荷は高い。"
+      }
+    },
+    "rationale": "事業成立性も中庸。市場規模(TAM)は数十万店と十分広く、越境副業も伸びている点はプラス。だが収益化は壁がある。国内個人セラーは無料/成果報酬を好み、VOMS相場(月1〜2万円)を超える固定課金には慎重で、無料枠→成果連動の設計が不可欠。GTMはPLG/コンテンツで個人でもリーチ可能だが、既存一元管理ベンダーの情報優位と信頼の壁が立ち上がりを遅らせる。タイミングは厳しく、2026年に本家含む内外勢が一斉参入しており時間窓は狭い。最大の弱点はsolo_ops——在庫同期ミスのオーバーセル、自律価格/出品のモール規約違反、誤発注・誤CSなど金銭・アカウント損害に直結する事故が起こりうる領域で、24/7監視とモール仕様変更追従が避けられず、個人での継続運用は重い。総合すると、TAMはあるが収益化・運用負荷・タイミングが揃って厳しく、勝ち筋は国内モール特化＋低リスク業務からの狭い入口に限られる。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 6000,
+      "plans": [
+        "Free: 月100アクション・出品文生成と問い合わせ一次対応のみ(クレカ不要)",
+        "Starter: ¥3,000/月 1店舗・在庫同期と出品支援、承認必須モード",
+        "Pro: ¥9,800/月 複数店舗・広告/価格提案・優先サポート",
+        "成果連動オプション: 売上増分の数%(高単価セラー向け)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Shopify/eBayや越境モールを使う国内の小規模・副業ECセラー、および複数店舗を少人数で回すソロEC事業者。自律運営への抵抗が低いデジタルネイティブ層に限定。楽天/Yahoo!主軸の事業者は対応後に拡張。",
+      "target_count": 30000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 1800000
+    },
+    "recommended_gtm": [
+      "note/X(旧Twitter)でEC運営自動化の実演・ビフォーアフター発信",
+      "Shopifyアプリストア/エコシステム経由のPLG無料枠獲得",
+      "越境EC・副業セラー向けメディアやコミュニティでの事例連載",
+      "出品文生成など低リスク機能をフックにした無料トライアル導線",
+      "EC支援系インフルエンサー/コンサルとのアフィリエイト"
+    ],
+    "time_window_months": 12,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "在庫同期の遅延・不整合でオーバーセルや価格機会損失が発生し、損害賠償・信用失墜に直結する(トップコメントでも核心として指摘)",
+      "自律的な出品/価格変更が楽天・Amazon等のモール規約に抵触し、アカウント停止・出品削除を招くリスク",
+      "日本主力の楽天RMS/Yahoo!非対応のままでは国内TAMの大半に届かず、対応にはシステム開発会社承認・キー定期更新など重い実装が必要",
+      "特商法表記漏れ・古物商許可番号の未掲載など法令違反をエージェントが誘発する可能性",
+      "2026年に本家・楽天AI・ネクストエンジン等が一斉参入し、差別化前にコモディティ化する時間窓の狭さ"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

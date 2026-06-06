@@ -1,0 +1,289 @@
+{
+  "name": "Buffer API",
+  "description": "One API to publish across every social platform.",
+  "ph_url": "https://www.producthunt.com/products/buffer-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/NIXIFPYZYBK72W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-28T07:01:00Z",
+  "upvotes": 224,
+  "comments": 26,
+  "topics": [
+    "API",
+    "Social Media",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "348550",
+      "name": "Michael Eckstein",
+      "twitterUsername": "Mike_Eck",
+      "headline": "Product Marketing, Buffer"
+    },
+    {
+      "id": "9695",
+      "name": "Andrew Yates",
+      "twitterUsername": "ay8s",
+      "headline": "iOS Developer at Buffer"
+    },
+    {
+      "id": "4859179",
+      "name": "Amanda Marochko",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "1066770",
+      "name": "Arek Panek",
+      "twitterUsername": "TheDraom",
+      "headline": "Software Engineer @ Buffer, ex-Facebook"
+    },
+    {
+      "id": "13089",
+      "name": "Joel Gascoigne",
+      "twitterUsername": "joelgascoigne",
+      "headline": "Co-founder/CEO, Buffer"
+    },
+    {
+      "id": "6360334",
+      "name": "Diego Castillo",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "1412630",
+      "name": "Jakub Olek",
+      "twitterUsername": null,
+      "headline": null
+    },
+    {
+      "id": "169272",
+      "name": "Philippe Miguet",
+      "twitterUsername": "philmiguet",
+      "headline": ""
+    },
+    {
+      "id": "604440",
+      "name": "Joe Birch",
+      "twitterUsername": "HiThereJoe",
+      "headline": "Android Engineer, Buffer"
+    },
+    {
+      "id": "1338837",
+      "name": "Bruno Paulino",
+      "twitterUsername": "bpaulino0",
+      "headline": "Software Engineer"
+    },
+    {
+      "id": "1575404",
+      "name": "Jose M. GIlgado",
+      "twitterUsername": null,
+      "headline": "Software Engineer"
+    },
+    {
+      "id": "987572",
+      "name": "Daniel Parascandolo",
+      "twitterUsername": null,
+      "headline": "Product Design @ Buffer"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>I’ve built a TRMNL plugin with the Buffer API; it shows my queue counts, along with my next scheduled posts and previously sent posts, on an e-ink display sitting on my desk. I’ll make this available for installation soon.</p><p></p><p>The API is straightforward to work with, and AI tooling makes prototyping extremely quick. If you're building anything that touches social media, this is worth a look.</p>",
+      "votesCount": 13,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>👋 Hey everyone, Mike here, another one of the makers on the Buffer team.</p><p></p><p>A bit more about the API:</p><p></p><p>Buffer's API lets you connect Buffer to the tools you already use, whether that's an AI agent, a no-code automation tool, or your own stack. You can publish, schedule, and manage your social presence from wherever you already work.</p><p></p><p>Under the hood: GraphQL API, MCP server, CLI, managed OAuth, pre-built workflow templates with no-code tools like Zapier and n8n, and an interactive API explorer.</p><p><br>A few more examples of what people have been building with it:</p><ul><li><p>An automated weekly reporting system across 77 social channels in 10 languages, built with n8n by someone who isn't a developer.</p></li><li><p>A Friday morning Slack bot that recaps what was posted, what's scheduled, and what's missing. Plus a full LinkedIn content library and analyzer on Lovable, both built entirely through conversation with AI.</p></li><li><p>A power-user layer on top of Buffer with thread splitting, a content calendar with planning notes, and a snippet library.</p></li><li><p>A Substack growth platform for creators, with Buffer handling social distribution automatically.</p></li></ul><p>It's also available on every Buffer plan, including Free.<br><br>Let us know if you have any questions and excited to see what other folks build with it!</p>",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Well done team and happy launch day on PH!</p>",
+      "votesCount": 11,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Buffer's API lets you publish and manage content across 11 social platforms through a single endpoint. Connect it to AI assistants, no-code automation tools, or build full custom integrations. Ships with an MCP server, pre-built automation templates, a CLI, and an interactive API explorer. Available on every Buffer plan, including Free.",
+  "featured_at": "2026-05-28T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/4f06eced-8b12-4f6d-9aee-dcfc20ba63d4.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a1db521b-f601-41e7-9d87-59985f733086.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/57a6039e-d824-49a5-a4ad-f55ab42e323c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e9e365ba-3c20-41a0-bf10-53df77ba5c62.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e24036fa-162e-4d7a-9d25-86b36af3c140.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/45ef3c3f-2083-4790-99a1-b5611086122d.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/764dd286-736b-49e8-85a7-cf03aa8939e9.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:48",
+  "landing_meta": "Buffer API | Build with Buffer — Integrate Buffer's social media management into your own product with the Buffer API.",
+  "landing_text": "Buffer API | Build with Buffer </API> Build any automation for social Build any automation for social One API. Every major social platform. Connect Buffer to your agents, automation tools, or build something entirely new. Get Started Explore the API Automate the repetitive parts. Keep the creative ones. Connect Buffer to IFTTT, Zapier, n8n, Make, or write a script. Turn a weekly chore into a workflow that runs itself. Pre-built templates for Zapier and n8n. Not seeing what you're looking for? Build it yourself with Buffer's API. Browse integrations Use your AI assistant to schedule posts Ask AI to brainstorm and schedule content — Buffer handles the rest. Go from idea to published without leaving the conversation. Works with Claude, ChatGPT, Cursor, Raycast, and Perplexity today. Connect your agent One API. 11 social platforms. Official API partner with Meta, LinkedIn, X and more. Read the docs How it works 1 / Get your API key Generate one in your API settings. Included on every Buffer plan. 2 / Authenticate Send your key as a Bearer token in the Authorization header. Use Postman, curl, or any GraphQL client with https://api.buffer.com — no SDK required. 3 / Send your first query Fetch your organizations, channels, and posts with a single GraphQL request. Test it live in the interactive API Explorer before writing any code. 4 / Automate and scale Schedule content, capture ideas, and build full integrations. Create Idea Create Draft Post Create Image Post Create Text Post Create Video Post GraphQL cURL Node.js Python PHP Copy mutation CreateIdea { createIdea ( input : { organizationId : \"some_organization_id\" , content : { title : \" New Idea from GraphQL API \" text : \"This is the text of the new idea created via the GraphQL API.\" } } ) { ... on Idea { id content { title text } } } } Buffer 🤝 { your favorite tool } GraphQL API Full access to posts, ideas, channels, and analytics. MCP server Native connections for Claude, Cursor, Raycast, ChatGPT, and Perplexity. AI-p",
+  "pricing_signals": [
+    "pricing"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:48",
+  "description_ja": "あらゆる主要 SNS への投稿を 1 本の API で統合する、Buffer 公式の開発者向け API。",
+  "summary_ja": "Buffer が提供する GraphQL ベースの公式 API。11 の SNS への投稿・予約・管理を単一エンドポイントで実行でき、MCP サーバー・CLI・Zapier/n8n 連携テンプレートを同梱。AI エージェントやノーコードツールから SNS 運用を自動化できる。",
+  "tldr_ja": "本家 Buffer が Meta/X 公式パートナーとして提供する API。同種の SNS API を個人が作るのは API 費用と審査で不可能、上に乗る自動化ニッチ層が唯一の角度。",
+  "review_guide_ja": {
+    "what": "Buffer の既存 SNS 管理基盤を外部から叩ける公式 GraphQL API。investiture organizations / channels / posts / ideas / analytics にアクセスでき、テキスト・画像・動画投稿の作成、予約、下書き管理が可能。11 の主要 SNS(X, Meta 系, LinkedIn, TikTok 等)に単一エンドポイントで配信する。Bearer トークン認証で SDK 不要、curl や任意の GraphQL クライアントで利用できる。MCP サーバーを同梱し Claude / ChatGPT / Cursor / Raycast / Perplexity から自然言語で投稿予約が可能。Zapier・n8n・Make・IFTTT 向けのプリビルトテンプレートと CLI、対話型 API Explorer も提供。典型用途は AI エージェント経由の投稿、複数チャンネル横断のレポート自動生成、社内 Slack bot との連携など。全 Buffer プラン(無料含む)で利用可。",
+    "for_who": "Buffer を既に契約している個人クリエイター・中小企業・代理店のうち、SNS 運用を自社ワークフローや AI エージェント、ノーコード自動化に組み込みたい層。および Buffer の配信基盤を裏側で使って独自の SNS ツールやレポート機能を構築したい開発者・SaaS 事業者。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "API 自体は GraphQL で平易だが、本質は 11 SNS との公式パートナー契約と高額な X API・Meta アプリ審査基盤の集約。個人が同等の多プラットフォーム配信基盤を再現するのは費用・審査面で事実上不可能。"
+    },
+    "signals": [
+      "Buffer 公式が Meta・LinkedIn・X の公式 API パートナーであることを明記、配信信頼性が高い",
+      "MCP サーバー同梱で Claude/ChatGPT 等から自然言語投稿が可能、AI エージェント時代の文脈に合致",
+      "無料プラン含む全プランで API 提供、Zapier/n8n テンプレートで非開発者の自動化事例が既出",
+      "n8n で 77 チャンネル・10 言語の週次レポートを非開発者が構築した実例が公表されている"
+    ],
+    "concerns": [
+      "本家 Buffer の製品であり、個人開発者が競合 API を作る対象ではなく、上に乗るツール開発が前提",
+      "X API は Basic 月 200 ドル/Pro 月 5,000 ドルと高額、Meta はアプリ審査必須で同等基盤の自作は非現実的",
+      "国内 SNS 管理市場は SocialDog 等が飽和、Buffer 自体の国内認知も英語 UI ゆえ限定的",
+      "API 上のニッチ層ビジネスは Buffer の仕様変更・課金体系に従属するプラットフォームリスクを負う"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 7,
+        "reason": "SNS 一括投稿・予約・自動化の需要は国内で顕在化しており、2026 年は AI×SNS 運用が標準化との解説記事多数。n8n/Zapier+MCP による投稿自動化への関心も高い。ただし「Buffer の API」そのものへの国内需要は本家 UI が英語ゆえ限定的で、需要は自動化レイヤー側にある。"
+      },
+      "competition": {
+        "score": 2,
+        "reason": "国内 SNS 管理は SocialDog(登録 100 万アカウント超・国産シェア No.1)、Statusbrew JP、コムニコ マーケティングスイート(導入 2,500 アカウント)、Social Insight が乱立し飽和。さらに本家 Buffer/Hootsuite/Zoho Social も日本展開済み。配信 API 領域も本家が押さえる。"
+      },
+      "regulation": {
+        "score": 8,
+        "reason": "SNS 投稿 API 自体に固有の業法規制は薄い。広告・ステマ表記は景品表示法(2023 年ステマ規制)、配信メール的要素があれば特定電子メール法に留意が要る程度。むしろ X/Meta 等の各プラットフォーム規約・API 利用規約が実質的な制約。"
+      },
+      "localization": {
+        "score": 8,
+        "reason": "API/GraphQL/構造化中心のため日本語化は UI 文言と日本語投稿対応程度で軽い。本家は既に多言語投稿に対応。上に乗るツールを作る場合も UX 改修は限定的で、国内の和製ダッシュボード化は比較的容易。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "日本企業は SNS 運用代行・代理店経由が多く、承認フローや国産・日本語サポート志向が強い。API 直叩きより GUI と手厚いサポートを好む傾向で、純粋 API プロダクトは商習慣とややズレるが、ツール化すれば適合し得る。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "SocialDog",
+        "url": "https://social-dog.net/",
+        "note": "国産 SNS 管理シェア No.1。登録 100 万アカウント超。X/Instagram の予約投稿・フォロワー管理・分析。無料〜有料の段階課金で個人〜法人を広くカバー。"
+      },
+      {
+        "name": "コムニコ マーケティングスイート",
+        "url": "https://www.comnico.jp/",
+        "note": "国内導入 2,500 アカウント。X/Facebook/Instagram の投稿・分析・メッセージ管理、承認フロー対応で法人・代理店向けに強い国産ツール。"
+      },
+      {
+        "name": "Statusbrew(日本)",
+        "url": "https://statusbrew.co.jp/",
+        "note": "日本語対応で 15 チャネル以上に対応。企業・官公庁・代理店に導入実績。Hootsuite 代替として国内マーケで露出が増えている。"
+      },
+      {
+        "name": "Social Insight",
+        "url": "https://sns.userlocal.jp/",
+        "note": "競合アカウント分析が強み。日本でアクティブ率の高い SNS に幅広く対応し、予約投稿・承認フロー・キャンペーン自動化を備える国産ツール。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法(ステマ規制)",
+        "impact": "2023 年 10 月施行のステルスマーケティング規制により、API 経由で広告・PR 投稿を自動配信する際は『PR』等の明示が必要。ツール側で表記補助機能を持たせると差別化になるが、規制自体は配信主体の責任で API 提供者への直接的負荷は小さい。"
+      },
+      {
+        "law": "特定電子メール法",
+        "impact": "SNS 投稿主体には原則無関係だが、DM 自動送信や通知メール機能を付ける場合は同意取得・オプトアウト導線が必要。投稿配信に限れば影響は軽微。"
+      }
+    ],
+    "opportunity": "本家 API に競合するのではなく、Buffer API を裏側で使った『日本のクリエイター/中小企業向け薄い和製レイヤー』が唯一の現実的角度。具体的には (1) MCP/Claude/ChatGPT から日本語で『来週の投稿を組んで』と話すだけで予約まで完結する和製 AI 投稿アシスタント、(2) X/Instagram/TikTok 横断の週次レポートを日本語で自動生成し Slack/LINE に流すツール、(3) ステマ表記や薬機・景表法チェックを投稿前に自動挿入する日本向けコンプラ補助層。いずれも本家の高額 API 基盤にタダ乗りしつつ、日本語 UX とコンプラ対応で局所的な価値を出す形。ただし Buffer 契約が前提となり市場は Buffer 既存ユーザーに限定される。",
+    "rationale": "Buffer API は本家 Buffer による開発者向け公式 API であり、個人開発者にとっては『作る対象』ではなく『使う基盤』である点をまず押さえる必要がある。SNS 一括投稿・予約・自動化の需要自体は国内でも顕在で、AI×SNS 運用の標準化や n8n/MCP による投稿自動化への関心も高い。しかし国内 SNS 管理市場は SocialDog(100 万アカウント超)を筆頭に国産勢が飽和し、本家 Buffer/Hootsuite/Zoho も参入済み。同等の多プラットフォーム配信 API を個人が再現するのは X API(Basic 月 200 ドル)や Meta アプリ審査・公式パートナー要件ゆえ非現実的。規制・ローカライズは軽いため、現実的には本家 API の上に日本語 UX とコンプラ対応を載せた薄いニッチ層に機会が限られる。市場機会としては watch 相当。"
+  },
+  "business_viability": {
+    "business_viability_score": 5,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "国内は SocialDog 等が無料〜数千円/月で個人課金が成立しており、SNS 自動化への月額課金嗜好は一定ある。ただし Buffer API 上のニッチツールは『Buffer 契約料の上乗せ』になり二重課金感が壁。ARPU は数千円が上限で、課金壁は中程度。"
+      },
+      "market_size": {
+        "score": 6,
+        "reason": "国内 SNS 運用を行う中小企業・クリエイターは広いが、対象は『Buffer を既に使っている日本ユーザー』に絞られ大幅に縮小。Buffer の国内シェアは SocialDog 等より低く、リーチ可能母数は限定的。検索で具体的国内ユーザー数の根拠は未確認。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "PLG 自体は可能だが、ターゲットが既存 Buffer ユーザーかつ日本語 UX を求める層という二重の絞りで母集団が薄い。Qiita/Zenn/X 発信や n8n テンプレ公開で開発者リーチは可能だが、購買力ある法人は代理店経由・国産ツール志向で個人開発者がリーチしにくい。"
+      },
+      "timing": {
+        "score": 3,
+        "reason": "本家 Buffer が既に MCP・Zapier/n8n テンプレ・AI 連携を公式提供済みで、薄いラッパー層は本家アップデートに即座に飲み込まれるリスクが高い。国内競合も成熟。時間窓は狭く、参入余地は既に縮小している。"
+      },
+      "solo_ops": {
+        "score": 4,
+        "reason": "Buffer/X/Meta の API 仕様・課金変更に追従し続ける保守負荷が高く、X API の従量課金化など外部要因で運用コストが急変するリスク。投稿配信失敗時のサポート期待値も高めで、完全な手離れは難しい。"
+      }
+    },
+    "rationale": "事業成立性は低め。SNS 自動化への月額課金は国内でも成立しており収益化の素地はあるが、Buffer API を使うニッチ層ビジネスは『Buffer を既に契約している日本ユーザー』という二重に絞られた母集団が対象となり、TAM が大きく縮む。GTM は Qiita/X/n8n テンプレ公開で開発者層には届くものの、購買力ある法人は国産ツール・代理店志向でリーチしづらい。最大の問題はタイミングとプラットフォーム従属性で、本家 Buffer が MCP・ノーコード連携・AI 機能を公式提供済みのため薄いラッパーは即座に陳腐化しやすく、X/Meta の API 課金・規約変更に運用が翻弄されるリスクも高い。総じて、単独事業として継続的に稼ぐより、本家エコシステムの周辺ツールとして小さく回す程度が現実的。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: 月 30 投稿まで・SNS 2 チャンネル・基本の AI 投稿予約",
+        "Pro: ¥1,500/月 — 無制限投稿・日本語週次レポート自動生成・ステマ/景表法表記補助",
+        "Team: ¥6,000/月 — 複数メンバー・承認フロー・Slack/LINE 連携"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "Buffer を既に利用している(または導入を厭わない)国内の個人クリエイター・副業発信者・SNS 運用担当の小規模事業者で、AI/ノーコードで投稿自動化と日本語レポートを求める層。国産ツールでは届かない MCP/AI エージェント連携を欲する技術感度の高いユーザーが中心。",
+      "target_count": 20000,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 600000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn で『Buffer API × MCP × Claude で日本語投稿自動化』連載し開発者リーチ",
+      "n8n/Zapier の日本語プリビルトテンプレートを公開しノーコード層を獲得",
+      "X 個人発信で副業クリエイター向けに自動週次レポートのデモを継続露出",
+      "note でステマ/景表法対応の投稿コンプラ Tips を発信し中小事業者を集客",
+      "PLG 無料枠から Pro への自然なアップセル導線を設計"
+    ],
+    "time_window_months": 6,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "プラットフォーム従属: 本家 Buffer が MCP・n8n テンプレ・AI 投稿を既に公式提供しており、薄いラッパー層はアップデートで即座に陳腐化・代替される。",
+      "API コスト/規約変動: X API の従量課金化や Meta のアプリ審査・公式パートナー要件など、外部 SNS 側の課金・規約変更で運用コストと可用性が予告なく急変する。",
+      "二重課金の壁: ユーザーは Buffer 契約料に加え本ツール料を払う構図になり、ARPU 上限が低く解約されやすい。",
+      "市場の二重絞り込み: 対象が『Buffer 既存ユーザー』かつ『日本語 UX を求める層』に絞られ、国内 TAM が SocialDog 等の母集団より大幅に小さい。",
+      "国内競合の成熟: SocialDog 100 万アカウント超を筆頭に国産勢が飽和し、差別化の余地が局所的なニッチに限られる。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 5,
+  "japan_fit_at": "2026-06-06T02:44:06Z",
+  "review_guide_at": "2026-06-06T02:44:06Z",
+  "business_viability_at": "2026-06-06T02:44:06Z",
+  "advisor_view_at": "2026-06-06T02:44:06Z"
+}

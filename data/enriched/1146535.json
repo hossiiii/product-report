@@ -1,0 +1,262 @@
+{
+  "name": "Co-Invest",
+  "description": "Trade 500+ markets directly from ChatGPT & Claude",
+  "ph_url": "https://www.producthunt.com/products/liquid-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/CSYK6KJGP743GJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-06-02T07:01:00Z",
+  "upvotes": 277,
+  "comments": 37,
+  "topics": [
+    "Fintech",
+    "Investing",
+    "Finance"
+  ],
+  "makers": [
+    {
+      "id": "9771789",
+      "name": "Josh Meng",
+      "twitterUsername": null,
+      "headline": "GTM @ Liquid"
+    },
+    {
+      "id": "9869181",
+      "name": "Franklyn Wang",
+      "twitterUsername": null,
+      "headline": "CEO and Founder of Liquid."
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hi Product Hunt! 👋<br></p><p>I’m Franklyn Wang, founder and CEO of Liquid.</p><p><br>Before starting Liquid, I led AI for Macro at Two Sigma, working at the intersection of machine learning and markets. Before that, I was Harvard’s top-ranked math student twice.</p><p><br>One thing became clear throughout my career:</p><p><br>The best investors don’t win because they’re lucky.</p><p><br>They win because they have better information, process it faster, and execute with more precision.</p><p><br>For decades, that edge has mostly belonged to professionals.</p><p><br>Professional investors have had:</p><ul><li><p>Better data</p></li><li><p>Faster research workflows</p></li><li><p>More sophisticated models</p></li><li><p>Real-time market intelligence</p></li><li><p>Direct execution infrastructure</p></li></ul><p>Everyone else was guessing, or stitching together fragmented workflows.</p><p><br>That’s what we’re changing with Co-Invest: the first way to trade inside AI assistants like Claude.</p><p><br>Co-Invest gives everyone access to the kind of investing workflow that used to be reserved for professionals:</p><ul><li><p>Superior information, including on-chain data like positioning</p></li><li><p>Superior data processing, powered by frontier AI</p></li><li><p>Superior execution through Liquid, with some of the lowest fees available</p></li></ul><p>Instead of just reading about markets, you can ask questions, analyze opportunities, build conviction, and act — all through conversation.</p><p><br>Co-Invest lets you:</p><ul><li><p>Access real-time market and on-chain intelligence</p></li><li><p>Construct portfolios according to any criteria, from risk profile to values</p></li><li><p>Process complex data faster with AI</p></li><li><p>Execute trades directly from chat</p></li><li><p>Access 500+ markets, including crypto, equities, FX, commodities, and prediction markets</p></li><li><p>Trade 24/7</p></li></ul><p>Why we built it:</p><p><br>In high school, I was struck by the idea of rational ignorance: because humans have limited time and limited ability to process information, it can be rational not to know things. Sometimes, the cost of becoming informed is higher than the benefit.</p><p><br>I hated that idea.</p><p><br>As a math-obsessed kid who craved perfect rationality, the notion that ignorance could be produced by the system — not just by the individual — felt like surrender.</p><p><br>As I grew older, I saw how expensive that ignorance was.</p><p><br>Finance, at its root, is about asymmetric information. One side of every transaction knows something the other side does not.</p><p><br>An influencer pumps a stock to followers, then exits at the top. A scammer convinces a retiree to wire away her life savings. A brokerage auctions off the right to trade against your order. A market maker pays for the right to see your order before it fills.</p><p><br>Some of this is illegal. Some of it is legal. But every example has the same shape:</p><p><br>Wealth flowing from the less sophisticated to the more sophisticated.</p><p><br>Modern finance is very good at making that happen.</p><p><br>Co-Invest is our attempt to change the equation by giving everyone access to superior intelligence, better information, and better execution.</p><p><br>Who it’s for:</p><ul><li><p>Investors who want better research and execution</p></li><li><p>Traders managing opportunities across multiple markets</p></li><li><p>AI-native users who already spend their day inside assistants like Claude</p></li><li><p>Anyone who wants access to a more professional-grade investing workflow</p></li></ul><p>Our vision:</p><p><br>At Liquid, we’re building toward an AI-native financial system accessible to everyone, everywhere.</p><p><br>Our first product, the Liquid mobile app, gives people access to every market. Co-Invest pairs universal market access with universal intelligence.</p><p><br>That combination — universal markets plus universal intelligence — is incredibly powerful, and we’re just scratching the surface it.</p><p><br>We believe the next generation of investors won’t be limited by who has the biggest team, the most terminals, or the most infrastructure.</p><p><br>They’ll be empowered by AI.</p><p><br>Co-Invest is our first step toward making professional-grade investing capabilities available to everyone.</p><p><br>If you try it, I’d love your feedback:</p><ul><li><p>Which markets, brokers, or exchanges should we support next?</p></li><li><p>What’s the biggest bottleneck in your investing workflow today: information, conviction, execution, or risk management?</p></li></ul><p>Thank you for checking out Co-Invest and supporting our launch.</p><p><br>Looking forward to answering your questions in the comments.</p><p><br>— Franklyn Wang<br>Founder &amp; CEO, Liquid</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Franklyn, congrats on the launch!</p><p></p><p>Love how you brought the terminal into the chat interface! I'm curious about trade confirmations though. </p><p></p><p>Are you use a UI modal before execution to prevent accidental trades, or do you handle risk entirely with plain-language constraints in the chat?</p>",
+      "votesCount": 3,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>since you are offering 500+ markets across crypto, equities, FX, commodities and prediction markets, which asset class exposed the biggest technical challenge in terms of data normalization is it the fragmentation of on chain data across different blockchains or the regulatory complexity around executing equities inside a conversational AI?</p><p><br></p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Co-Invest by Liquid lets you research and place real trades inside ChatGPT or Claude. Access 500+ markets across crypto, equities, FX, commodities, and prediction markets—24/7. Fund in-chat, use on-chain signals (wallet activity, positioning, funding, order flow), and execute in plain language with stops/targets. Your AI also handles support with full context.",
+  "featured_at": "2026-06-02T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/5fa8492f-2931-4864-9bad-afa761705cb0.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5a0bee0c-1e23-4d45-aecd-1798b5e87be9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3cd2b183-6a5a-461a-ac0f-3f40f1669cae.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a0786271-f33f-4526-a869-669ecd6730e4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2d9a9660-ce51-4d0e-92e6-817b433703f1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5d553d75-8d65-460b-85ca-60bfec2a87f1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1c585684-90cd-4490-8862-b262f18d4986.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3584a24d-baeb-4023-9eb4-91dc6efe86e5.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/80f2b379-099d-4d04-b9cb-fb5be69e4993.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:54:30",
+  "landing_meta": "Liquid Co-Invest — Trade in ChatGPT and Claude — Liquid Co-Invest brings real trading into ChatGPT and Claude. Research markets, place trades, and manage your portfolio across crypto, stocks, commodities, and FX — directly from chat, with explicit confirmation on every order.",
+  "landing_text": "Liquid Co-Invest — Trade in ChatGPT and Claude Built for Introducing Co-Invest Co-Invest provides advanced market data, high quality analysis, and best-in-class trade execution directly in ChatGPT and Claude . Start on Start on Research. Position. Trade. All inside the same chat. Play again Superpowered market research. Positioning, funding, on-chain flow, macro headlines. Co-Invest pulls it before you ask and hands your assistant the parts that matter. Signals Positioning, funding, liquidation maps, on-chain flow. Context News and macro summarised, with the original source one tap away. Conclusion A trade idea with a direction, a size, and a reason you can read. Play again Portfolios shaped by every signal the market is sending. Ask for a balanced book across stocks, gold, and crypto, and your assistant comes back with positions already sized to your live balance. Adjust anything before you confirm, then send the whole basket with one tap. Multi-asset Stocks, Indices, commodities, and crypto from one prompt. Personalized Adjusts to your portfolio size, risk tolerance, and chosen asset classes. Editable Change size, stops, and take-profits inline before you confirm. Play again Trade ideas with receipts. Every pick comes with a named catalyst and a link to the source. Earnings prints, central bank decisions, ETF flow data, on-chain prints. If the catalyst is weak, your assistant will tell you to sit on your hands. Named catalysts Earnings beats, macro prints, flow data, all linked. Anything tradeable Stocks, ETFs, commodities, and crypto in one feed. Honest Tells you when nothing is worth trading. Market data worth quoting Positioning, funding, liquidation maps, on-chain flow. The same data professional desks pay for, surfaced where your assistant can use it. Better models, better trades Co-Invest sits on top of frontier AI. As ChatGPT and Claude improve, the quality of research improves in lockstep. Cheaper than the alternatives Fees that come in well under Coinbase",
+  "pricing_signals": [
+    "subscription",
+    "$1",
+    "$7",
+    "$13",
+    "$16",
+    "$17",
+    "$20",
+    "$26",
+    "$27",
+    "$28",
+    "$50.00",
+    "$25.00"
+  ],
+  "landing_fetched_at": "2026-06-06T11:54:33",
+  "description_ja": "ChatGPT や Claude のチャットから、暗号資産・株式・FX など 500 以上の市場を直接取引できる AI トレーディング基盤。",
+  "summary_ja": "AI アシスタント上で市場リサーチからポートフォリオ構築、実発注までを会話で完結させるトレーディングサービス。オンチェーンデータや建玉・資金フローなどプロ向けシグナルを取り込み、暗号資産・株式・FX・コモディティ・予測市場の 500 超銘柄を 24 時間取引できる。発注は明示確認付き。",
+  "tldr_ja": "実取引には暗号資産交換業・第一種金商業など複数免許が必須で個人開発は不可能。日本ではシグナル/助言層に限定するのが筋。",
+  "review_guide_ja": {
+    "what": "ChatGPT/Claude のチャット内で、市場リサーチ・ポートフォリオ提案・実発注までを一気通貫で行う AI トレーディング基盤。オンチェーンの建玉/資金調達/清算マップ/フロー、マクロニュースなどプロデスク級のデータをアシスタントに渡し、方向・サイズ・根拠付きのトレードアイデアを提示。暗号資産・株式・ETF・FX・コモディティ・予測市場の 500 超銘柄を 24/7 で扱い、ストップ/利確を会話で設定して明示確認の上で発注。入金もチャット内で完結し、自社の Liquid 執行基盤で低手数料を謳う。典型ユースケースは「株・金・暗号資産でバランスの取れたブックを組んで」と頼み、提示された建玉を編集して一括発注する流れ。",
+    "for_who": "AI アシスタントを日常的に使う個人投資家、複数市場を横断するアクティブトレーダー、プロ級のリサーチ/執行ワークフローを安価に求める層。日本では暗号資産・株式の取引口座を既に持ち、AI で意思決定を効率化したい中〜上級の自助投資家が想定される。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "実発注を担うには暗号資産交換業・第一種金融商品取引業・投資運用/助言業など複数の登録と執行インフラが必要。データ/シグナルの MCP 化自体は容易だが、本体価値である自社執行は個人では再現不能。"
+    },
+    "signals": [
+      "PH で 277 upvote・37 コメントと反応良好、Two Sigma 出身の数理系創業者で技術的信頼性が高い",
+      "AI アシスタント(MCP)を実行レイヤーにする発想は新しく、執行を内製化する垂直統合モデル",
+      "オンチェーン建玉/資金フロー等プロ向けデータを自然言語で扱える点が差別化",
+      "明示確認 UI で誤発注を抑える設計に言及があり、規制意識がうかがえる",
+      "暗号資産・株式・FX・予測市場まで横断する単一インターフェース"
+    ],
+    "concerns": [
+      "実取引のため最重量級の金融免許が複数必要で、個人開発者の参入余地はほぼない",
+      "AI が生成したトレード提案の適合性・誤発注・損失時の責任所在が法的に未整理",
+      "日本の有価証券/暗号資産は国内登録業者経由が原則で、海外執行を国内ユーザーに提供すると無登録営業リスク",
+      "予測市場(prediction markets)は日本では賭博/金商法上グレーで提供困難",
+      "個人運用では金融サービスの SLA・障害対応・KYC/AML 体制が継続不能"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 4,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "ネット証券は SBI 1,500 万・楽天 1,300 万口座、暗号資産も口座延べ 1,300 万・預託 5 兆円超と投資人口は厚い。WealthNavi 等ロボアド需要や GMO の GPT-Trade、QUOREA など AI×投資への関心も顕在。一方「チャット内で実発注」という形態の需要シグナルは未確認で、リサーチ用途中心の中庸評価。"
+      },
+      "competition": {
+        "score": 5,
+        "reason": "完全に同型(チャット内実発注)の国内勢は未確認だが、AI 売買シグナルの QUOREA、GMO 連携の GPT-Trade、ロボアドの WealthNavi/THEO 等が周辺を押さえる。実取引の担い手は SBI/楽天/bitFlyer/Coincheck/GMO 等の登録業者が圧倒的で、参入は既存業者の API 連携に依存。"
+      },
+      "regulation": {
+        "score": 1,
+        "reason": "暗号資産売買は暗号資産交換業(資金決済法/改正で第一種金商業相当の規制)、株式/FX は第一種金融商品取引業、運用一任は投資運用業、AI のトレード助言は投資助言・代理業に該当しうる。個人で取得不能な免許群が重畳し、無登録営業は刑事罰対象。実装困難の最低水準。"
+      },
+      "localization": {
+        "score": 5,
+        "reason": "UI の日本語化や MCP/データ層の対応自体は構造化されており容易。しかし KYC/AML、適合性原則、書面交付(契約締結前交付書面)、広告規制など日本の金融 UX 要件への作り込みが深く、見かけの容易さほど軽くはない。"
+      },
+      "business_custom": {
+        "score": 4,
+        "reason": "日本の個人投資家は証券会社/取引所ブランドへの信頼を重視し、新興の海外執行基盤に資金を預ける心理的障壁が高い。一方 NISA・ポイント連携など国内特有の商習慣に未対応で、フィットは低め。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "QUOREA (クオレア)",
+        "url": "https://quorea.jp/btc",
+        "note": "bitFlyer/bitbank/OKCoinJapan と API 連携する AI 暗号資産自動売買サービス。実発注は登録取引所側が担い、QUOREA はシグナル/自動化層に徹する『日本で合法な型』の代表例。"
+      },
+      {
+        "name": "GMOコイン GPT-Trade",
+        "url": "https://coin.z.com/jp/column/gpt-trade/",
+        "note": "GMO コインと連携し、トレードアドバイザリーテクノロジーズが暗号資産/FX の売買シグナルを提供。執行は登録交換業者の GMO 側、外部はシグナル供給に限定する構造。"
+      },
+      {
+        "name": "WealthNavi (ウェルスナビ)",
+        "url": "https://www.wealthnavi.com/",
+        "note": "預かり資産・運用者数 No.1 のロボアド。投資運用業として一任運用を担う。AI×投資の国内顧客基盤を押さえる存在で、リサーチ/運用自動化需要の受け皿。"
+      },
+      {
+        "name": "SBI証券 / 楽天証券",
+        "url": "https://www.sbisec.co.jp/",
+        "note": "証券総合口座 1,500 万/1,300 万超の二大ネット証券。実取引の入口を実質独占し、新興サービスは API/連携先として彼らに依存せざるを得ない。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "金融商品取引法（第一種金融商品取引業）",
+        "impact": "株式・FX・デリバティブの売買仲介/執行を業として行うには第一種金商業登録が必須。最低資本金・自己資本規制比率・体制整備が求められ、個人開発者の取得は事実上不可能。無登録での仲介・勧誘は刑事罰対象。"
+      },
+      {
+        "law": "資金決済法 / 暗号資産交換業（2025年改正）",
+        "impact": "暗号資産の売買・交換・媒介には暗号資産交換業登録が必要。2025 年改正で第一種金商業相当の規制適用方針、国内保有命令や仲介業創設の動き。海外執行を国内ユーザーへ提供すると無登録営業に該当しうる。"
+      },
+      {
+        "law": "金融商品取引法（投資助言・代理業 / 投資運用業）",
+        "impact": "AI が『買い/売り/サイズ』の具体的助言を提供すると投資助言・代理業、資金の一任運用を行うと投資運用業に該当する判断が有力。会員制の自動売買ツール提供も助言業とされやすく、最も軽い助言業でも登録・体制要件が重い。"
+      },
+      {
+        "law": "刑法（賭博罪）/ 金商法（予測市場の扱い）",
+        "impact": "Co-Invest が扱う prediction markets は、日本では賭博罪または金商法上のデリバティブ規制に抵触しうるグレー領域。国内提供は刑事リスクが高く、当該アセットクラスの提供は実質不可。"
+      },
+      {
+        "law": "犯罪収益移転防止法（KYC/AML）",
+        "impact": "入金・取引を扱う以上、取引時確認・本人確認・疑わしい取引の届出等の AML/KYC 体制が必須。個人での継続運用は体制面で現実的でない。"
+      }
+    ],
+    "opportunity": "個人開発者が狙える唯一現実的な角度は『実発注を持たない情報/シグナル/リサーチ層』への特化。QUOREA や GPT-Trade のように、実取引は SBI/楽天/bitFlyer/GMO 等の登録業者の API に委ね、自分はオンチェーン/建玉/資金フローの可視化、ニュース要約、ポートフォリオ提案を MCP/チャットで提供する。ただし『具体的売買助言』に踏み込むと投資助言業登録が必要なため、一般的な市場情報の提示・教育コンテンツ・バックテスト可視化に留める設計が安全。日本語の NISA/税制(特定口座・損益通算)解説や確定申告支援など、海外勢が手薄な国内特有の周辺領域に寄せると差別化余地がある。",
+    "rationale": "Co-Invest の本体価値は『チャット内で実発注できる垂直統合の執行基盤』にあり、これは日本では暗号資産交換業・第一種金融商品取引業・投資運用/助言業という個人取得不能な免許群を重畳して初めて成立する。投資人口・暗号資産口座とも国内市場は厚く需要の土壌はあるが、それは既に SBI/楽天/bitFlyer/Coincheck/GMO といった登録業者が押さえており、新規参入者は彼らの API に乗る周辺サービスにならざるを得ない。実際、国内で合法に動いている AI×投資サービス(QUOREA、GPT-Trade)はいずれも執行を登録業者に委ね、自身はシグナル/自動化層に徹している。さらに予測市場は賭博/デリバ規制のグレーで国内提供困難、AI 生成助言の責任所在も未整理。総じて『市場機会』としては需要こそあれ、本プロダクトの中核機能をそのまま日本で個人が再現する道はなく、verdict は skip。"
+  },
+  "business_viability": {
+    "business_viability_score": 3,
+    "axes": {
+      "monetization": {
+        "score": 3,
+        "reason": "本来の収益源である実取引手数料は免許前提で個人には開けない。免許回避のため情報/シグナル層に限定すると ARPU は限定的で、無料の証券会社ツールや既存サービスとの競合で課金壁も厚く、スムーズな ARPU 確保は難しい。"
+      },
+      "market_size": {
+        "score": 5,
+        "reason": "ネット証券口座 2,800 万超(SBI+楽天)、暗号資産口座延べ 1,300 万・預託 5 兆円超と母集団は大きい。ただし免許制約で情報層に降りた上『AI チャットで投資判断を効率化したい中〜上級層』に絞ると実効 TAM は数十万人規模に縮小。十分ではあるが広大とまでは言えない。"
+      },
+      "gtm": {
+        "score": 3,
+        "reason": "情報/ツール層なら X・note・Qiita/Zenn・YouTube での PLG が一応可能だが、金融プロダクトは信頼が購買要件で無名個人からの転換率は低い。実取引を伴う本体型は登録業者との提携(SI 的)が必須でチャネルが閉じ、PLG 単独での到達は厳しい。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "AI×投資は国内でも GMO の GPT-Trade、QUOREA、各社ロボアドが既に動き、ブルー領域ではない。一方『チャット/MCP を実行レイヤーにする』形態は黎明期で、本家 Liquid の日本進出も免許取得待ちで数年単位の猶予はある。既存競合が多い分やや厳しめ。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "金融サービスは取引時確認・障害時対応・苦情処理・継続的な体制整備や監督対応が必須で、24/7 の信頼性 SLA も期待される。情報提供のみに絞っても助言業境界の管理や正確性責任が重く、個人の手離れ運用は極めて困難。"
+      }
+    },
+    "rationale": "事業成立性は市場機会以上に厳しい。最大の問題は solo_ops と monetization の構造的制約で、本プロダクトの収益エンジンである執行手数料は免許を前提とするため個人には開かない。免許を回避して『情報/シグナル/リサーチ層』に降りると、収益は月額課金に限られ、しかも証券会社が無料で提供する高機能ツールや既存の QUOREA/ロボアドと競合する。TAM(投資口座 2,800 万・暗号資産 1,300 万)は十分大きいものの、AI チャットで意思決定したい中〜上級層に絞れば実効規模は縮む。GTM は情報層なら PLG 可能だが、金融は信頼が購買条件で無名個人の転換は鈍い。加えて金融サービス特有の本人確認・苦情対応・正確性責任は個人運用を著しく重くする。本家進出までの時間窓はあるが、それを活かしても個人が握れるのは周辺ニッチに限られ、事業として継続可能な経済性を描きにくい。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 1500,
+      "plans": [
+        "Free: オンチェーン/建玉/資金フローの基本可視化とニュース要約(発注機能なし)",
+        "Pro: ¥1,480/月 — ポートフォリオ可視化・複数取引所横断ダッシュボード・アラート",
+        "Power: ¥3,980/月 — バックテスト可視化・NISA/税制(特定口座・損益通算)レポート・確定申告補助"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内の暗号資産・株式の取引口座を既に持ち、AI で市場リサーチや意思決定を効率化したい中〜上級の自助投資家。実発注は SBI/楽天/bitFlyer/GMO 等の登録業者で行い、情報/可視化/分析層のみを外部ツールに求める層。",
+      "target_count": 500000,
+      "capture_pct_year3": 0.5,
+      "monthly_revenue_target_jpy": 3750000
+    },
+    "recommended_gtm": [
+      "X(旧Twitter)での個人発信・相場/オンチェーン分析の継続投稿",
+      "note/Zenn での投資×AI 解説連載と無料枠への誘導(PLG)",
+      "YouTube/ショート動画でのオンチェーン指標解説",
+      "QUOREA 等の合法スキームに倣い、登録取引所の API 連携先として提携",
+      "NISA/確定申告など国内特有の周辺機能を切り口にした SEO/比較メディア露出"
+    ],
+    "time_window_months": 24,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "中核機能(チャット内実発注)は暗号資産交換業・第一種金商業・投資運用業など個人取得不能な免許群を要し、そのまま再現すると無登録営業として刑事罰対象。事業の土台が成立しない。",
+      "免許回避のため情報層に降りても、AI が具体的な売買助言(買い/売り/サイズ)を出すと投資助言・代理業に該当しうる。境界管理を誤れば違法、安全側に倒すと価値が薄い。",
+      "予測市場(prediction markets)は日本で賭博罪/デリバ規制のグレーで提供困難。海外勢の機能をそのまま持ち込めない。",
+      "金融サービスは本人確認・AML・苦情対応・障害時 SLA・監督対応が継続的に必要で、個人運用では体制を維持できず行政処分/信用失墜リスク。",
+      "情報層に限定すると証券会社の無料ツールや既存 QUOREA/ロボアドと正面競合し、課金転換と差別化が困難で経済性が立たない。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 3,
+  "japan_fit_at": "2026-06-06T12:10:00Z",
+  "review_guide_at": "2026-06-06T12:10:00Z",
+  "business_viability_at": "2026-06-06T12:10:00Z",
+  "advisor_view_at": "2026-06-06T12:10:00Z"
+}

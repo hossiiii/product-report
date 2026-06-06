@@ -1,0 +1,251 @@
+{
+  "name": "Integuru",
+  "description": "Generate fast, reliable APIs for any platform. No browsers",
+  "ph_url": "https://www.producthunt.com/products/integuru?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/BHYPI3BVUU7MB3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-29T07:01:00Z",
+  "upvotes": 175,
+  "comments": 33,
+  "topics": [
+    "API",
+    "Developer Tools",
+    "Artificial Intelligence"
+  ],
+  "makers": [
+    {
+      "id": "1457142",
+      "name": "Richard Zhang",
+      "twitterUsername": "richardfzhang",
+      "headline": "Co-Founder of Integuru"
+    },
+    {
+      "id": "1602199",
+      "name": "Alan  Lu",
+      "twitterUsername": null,
+      "headline": "CTO Integuru"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey PH! 👋<br></p><p>We’re the founders of <a href=\"https://integuru.com/?ref=producthunt\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><strong>Integuru</strong></a>, an AI-powered integration platform.<br></p><p>AI agents need to access external platforms, but most platforms don’t offer official, accessible, or comprehensive APIs. <strong>That makes integration the single biggest bottleneck.</strong></p><p></p><p>To build integrations, most companies today use browser automation. But many of them have now <strong>outgrown their browser implementations</strong>.<strong> </strong>They’re running into issues with <strong>latency</strong>, <strong>reliability</strong>, and <strong>throughput</strong>.</p><p></p><p><strong>Introducing Integuru</strong>: an AI platform that automatically <strong>reverse-engineers a website’s backend</strong>. It generates integrations that directly hit website servers. Today, our main users are vertical AI companies in healthcare, logistics, proptech, legal, and more.<br></p><p>On Integuru, you can generate your ideal integration <strong>end-to-end in minutes</strong>, including support for authentication. In real production environments for existing users, API calls complete in <strong>~3 seconds</strong> with <strong>99.9%+ success</strong>, including deployments <strong>above 1M requests/month/platform</strong>. Requests are executed live and achieve low latency <strong>without data-caching</strong>.<br></p><p>Integrations on Integuru get <strong>auto-healing</strong>, <strong>API docs</strong>, and a <strong>24/7 on-call team</strong> for maintenance.<br></p><p><strong>⚡️ Using Integuru is super simple:</strong></p><p></p><ol><li><p>Input the website and account you want to integrate with.</p></li><li><p>Describe your desired feature in natural language.</p></li><li><p>Integuru proposes an API schema and, upon your approval, generates the endpoint in ~10 minutes.</p></li></ol><p><br>🙋‍♂️ <strong>Who is Integuru for?</strong></p><p></p><p>Integuru is <strong>best for vertical AI companies</strong> that need to integrate with customer systems. We already support high-growth companies across these industries:</p><ul><li><p>Healthcare: connecting to EHRs, EMRs, RCMs, CTMSes, insurance portals, etc.</p></li><li><p>Logistics: integrating with TMSes, WMSes, ERPs, carrier portals, etc.</p></li><li><p>Proptech: automating property management systems, utilities, permitting software, etc.</p></li><li><p>Legal: controlling practice/case management systems, government portals, etc.</p></li><li><p>Enterprise AI transformation: accessing ERPs, CRMs, CX platforms, internal tools, etc.</p></li></ul><p>… and more</p><p></p><p>🎯 <strong>Try Today!</strong></p><p><br>Integuru is <strong>free to try</strong>! Go to <a href=\"http://app.integuru.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">app.integuru.com</a> to get started! We’d love your feedback ❤️</p>",
+      "votesCount": 7,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>congrats on the launch! I was wondering...brittleness in browser automation usually shows up much later on, when the platform ships a quiet backend change. So when that happens, what's the time-to-healed-endpoint your consumers actually see? Hours? Minutes?</p>",
+      "votesCount": 2,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>\"No browsers\" is a bold claim for platforms that actively fight scraping. How does it handle platforms that update their structure frequently or add bot detection? Curious how stable the generated APIs are over time.</p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Integuru generates fast, reliable APIs for any platform, without browsers or RPA. API calls complete in ~3 seconds with 99.9%+ success. Most agents today use browser automation to control web apps that lack official APIs, but this is slow and brittle. Integuru replaces browsers entirely and connects directly with the backend. Integuru covers authentication and edge cases. Integrations get auto-healing, API docs, and a 24/7 on-call maintenance team. Each API is generated end-to-end in minutes.",
+  "featured_at": "2026-05-29T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/7b396d4f-0282-477a-b728-ac2c199c3b81.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5e4f5e7c-9e45-41bc-8121-a9f6fac3977e.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ed75ed45-891c-4490-9bb2-eca11a7e36b2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6a00289b-63a2-4910-8a14-83501dd31874.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fd68c871-bd4d-4f48-8517-bc61cda1e2d8.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/61564c7f-9570-41c0-b180-5b5e36620f45.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/79c1e3cb-be28-4ef2-a8a6-548400ab1b83.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:58",
+  "landing_meta": "Integuru - Generate fast, reliable APIs for any platform — Generate fast, reliable APIs for any platform. Built for reliability, low latency, and high throughput. No RPA. No browsers.",
+  "landing_text": "Integuru - Generate fast, reliable APIs for any platform We're now live on Product Hunt. Check out our post! Powering 10,000,000+ API calls monthly Fast, Reliable APIs for Any Platform Any Platform Built for reliability, low latency, and high throughput. No RPA. No browsers. Generate fast, reliable APIs for any platform. Integuru generates production-ready APIs for websites and web systems using direct HTTP requests instead of browser automation or traditional RPA. Integuru is powering 10,000,000+ API calls monthly. Users can start now, sign in, or start using Integuru for free in the self-serve app at https://app.integuru.com. Try for Free Talk to Us Integuru is backed by Y Combinator. With hands-on support | Backed by Trusted by leading companies worldwide Representative customers include Perspectives, Halo, Truss, Cartage, Roverpass, Knowtex, Wybit, Brickwise, Penciled, Andy AI, Paraspot, Opacity, Tivara, Multiplier, and Wedge. <3 sec Response latency 99.9 %+ Reliability rate 1,000,000 + Monthly capacity per site 24 /7 On-call maintenance Everything You Need for Robust Integrations We handle the complexity so you can focus on building your product. No Browser Involved Direct HTTP requests without flaky RPA or browser automation mean fast, reliable, and high-throughput integrations. Edge Case Coverage Automatically covers different branching logic, states, and paths that appear in real usage. Complete API Schemas Full documentation of all request and response formats, with precise specifications for every field. Authentication Support We support complex authentication flows including session cookies, phone and email 2FA, and other verification steps. How It Works Go from website to working API in minutes. Provide a URL and account Share the website URL you want to integrate with. If authentication is required, provide account information securely. 1 Describe Your Integration Tell us what you need in natural language. Describe the data you want to access or the act",
+  "pricing_signals": [
+    "pricing",
+    "free plan",
+    "$0/mo",
+    "$30/mo",
+    "$300/mo",
+    "$300",
+    "$150",
+    "$125",
+    "$100",
+    "$0.010",
+    "$0.003",
+    "$0.007"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:59",
+  "description_ja": "ブラウザ自動化を使わず、あらゆるWebサービスの裏側を解析して高速・高信頼なAPIを自動生成するプラットフォーム。",
+  "summary_ja": "公式APIを持たないWebサービスのバックエンドをAIがリバースエンジニアリングし、認証(セッションCookie・2FA)込みで直接HTTPを叩くAPIを数分で生成。垂直AI企業のシステム連携を高速・高信頼に置き換える開発者向け基盤。",
+  "tldr_ja": "認証回避を伴う非公式API生成は日本では不正アクセス禁止法・規約違反リスクが高く、24/7保守も必須で個人開発は不適合。",
+  "review_guide_ja": {
+    "what": "公式APIを提供しない(あるいは不十分な)Webサービスに対し、AIがそのバックエンドをリバースエンジニアリングし、ブラウザ自動化やRPAを使わず直接HTTPリクエストを発行するAPIを自動生成する。URLと対象アカウントを入力し、欲しい機能を自然言語で記述すると約10分でAPIスキーマを提案・生成。セッションCookie・電話/メール2FAなど複雑な認証フローに対応し、応答約3秒・成功率99.9%超・サイトあたり月100万リクエストを謳う。エッジケース網羅、完全なAPIドキュメント、変更時の自動修復(auto-healing)、24/7オンコール保守をセットで提供。主用途は医療(EHR/保険ポータル)、物流(TMS/WMS)、不動産(管理システム)、法務(案件管理・行政ポータル)など、顧客システムへ連携が必要な垂直AI企業のバックエンド統合。",
+    "for_who": "公式APIのない外部システム(EHR、保険ポータル、TMS、行政ポータル、ERP等)へ連携が必要な垂直AI企業・AIエージェント開発企業。社内に統合保守チームを持たず、ブラウザ自動化の遅延・脆弱性・スループット限界に直面しているスタートアップやエンタープライズの開発チーム。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "任意サイトのバックエンド解析・認証フロー突破・大規模リクエストの自動修復は高度なエンジニアリングと継続運用を要し、個人が単独で再現・維持するのは困難。"
+    },
+    "signals": [
+      "月1,000万API呼び出し・99.9%成功率という実運用トラクションとYC出資の信頼性",
+      "ブラウザ自動化/RPAの遅延・脆弱性という明確なペインを直接HTTPで解決",
+      "垂直AIエージェント市場の拡大に伴う非公式システム連携需要の高まり",
+      "自然言語入力→数分でAPI生成というUXの強さ",
+      "auto-healing+24/7保守で連携の継続稼働を商品化"
+    ],
+    "concerns": [
+      "認証(2FA・Cookie)を突破するため日本では不正アクセス禁止法・利用規約違反・業務妨害リスクが極めて高い",
+      "対象サイトの仕様変更・ボット検知への追随が継続コストとなり24/7保守が前提",
+      "PHコメントでも『スクレイピングと戦うサイトでの安定性』が懸念されている",
+      "顧客アカウント情報を預かるためセキュリティ・個人情報保護の責任が重い",
+      "本質的にエンタープライズ売り・運用集約型で個人開発の手離れと両立しない"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 5,
+    "verdict": "skip",
+    "axes": {
+      "demand": {
+        "score": 6,
+        "reason": "国内のiPaaS市場は2026年139億ドル規模(CAGR30%超)、RPA市場も1,000億円超と業務自動化・システム連携の需要は顕在。垂直AIエージェントへの注目も高い。一方『公式APIのないサイトを非公式に叩く』という尖った訴求への国内需要シグナルは検索で限定的で、純粋なiPaaS需要と区別が必要。"
+      },
+      "competition": {
+        "score": 6,
+        "reason": "Anyflow・ASTERIA Warp・BizteX等の国内iPaaS、Zapier/Makeが連携市場を占めるが、いずれも公式API/コネクタ前提。『バックエンドを解析して非公式APIを生成』する直接競合は国内にほぼ不在で、ニッチでは競合は薄い。ただし需要も狭い。"
+      },
+      "regulation": {
+        "score": 2,
+        "reason": "認証突破(2FA・Cookie)を伴う非公式アクセスは不正アクセス禁止法に抵触し得る。多くのサイト規約はスクレイピング/自動アクセスを禁止し利用規約違反・偽計業務妨害・著作権法のリスク。顧客アカウント預かりは個情法上の責任も重い。実装・運用の法的ハードルが最も高い軸。"
+      },
+      "localization": {
+        "score": 7,
+        "reason": "コア機能はAPI生成という構造化処理で、UIの日本語化と対象サイト(日本の行政・保険・物流ポータル等)対応が中心。深いUX改修は不要だが、日本特有サイトの認証・画面仕様への個別対応コストは発生。"
+      },
+      "business_custom": {
+        "score": 3,
+        "reason": "日本企業は規約遵守・コンプライアンスに保守的で、外部サイトを非公式に叩く連携は法務審査で止まりやすい。アカウント情報を第三者へ預ける点も日本の情シス/セキュリティ文化と相性が悪く、商習慣フィットは低い。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "Anyflow",
+        "url": "https://anyflow.jp/",
+        "note": "国内発のノーコードiPaaS。約70の国内外SaaSを公式連携。非エンジニア向けで日本語UI・国内サービス対応が強み。公式API前提のため非公式バックエンド解析という点では直接競合せず、合法的な連携領域での代替肢。"
+      },
+      {
+        "name": "ASTERIA Warp",
+        "url": "https://www.asteria.com/jp/warp/",
+        "note": "国内シェアの高いノーコードEAI/データ連携基盤。24時間365日サポート、データマスキング標準搭載でエンタープライズ採用が厚い。公式コネクタ中心で堅実な合法連携を提供する既存プレイヤー。"
+      },
+      {
+        "name": "BizteX Connect",
+        "url": "https://www.biztex.co.jp/",
+        "note": "クラウドRPA(BizteX cobit)と組み合わせSaaS・システム連携を自動化。RPA寄りでブラウザ操作を含むが、国内で業務自動化連携の選択肢として認知。"
+      },
+      {
+        "name": "Zapier / Make",
+        "url": "https://zapier.com/",
+        "note": "海外発の大手iPaaS。Zapierは8,000超、Makeは1,000超のアプリと公式連携。国内でも開発者・中小に普及。いずれも公式API依存で非公式アクセスは扱わない。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "不正アクセス禁止法",
+        "impact": "他人のID/パスワード・2FAを用いた認証突破やアクセス制限の回避を伴う場合、不正アクセス行為に該当し得る。Integuruは顧客のアカウント情報で対象サイトの認証を突破する設計のため、利用者・提供者双方に刑事リスクが及ぶ可能性があり最重要の障壁。"
+      },
+      {
+        "law": "利用規約違反・偽計業務妨害(刑法)",
+        "impact": "多くのWebサービス規約は自動アクセス/スクレイピングを禁止しており、違反は民事の損害賠償請求対象。制限を超えるアクセスでサーバに負荷をかければ偽計業務妨害罪に問われる可能性もあり、対象サイトとの法的紛争リスクが高い。"
+      },
+      {
+        "law": "個人情報保護法",
+        "impact": "顧客アカウント認証情報や取得データに個人情報が含まれる場合、適正取得・安全管理措置・第三者提供の同意等の義務が発生。アカウント情報を預かる構造は委託先管理・漏えい時責任の論点を生む。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "取得したデータの蓄積・再配布がコンテンツの著作物性に触れる場合、複製権侵害の恐れ。生成AI連携での学習・出力利用も含め取扱い方次第で抵触リスクがある。"
+      }
+    ],
+    "opportunity": "日本独自の角度としては『非公式アクセス』をやめ、合法性を担保した連携に振り切る方向が現実的。具体的には(1)公式API/正規パートナー連携を前提に、国内の行政・保険・物流ポータル等『公式APIが未整備だが正規利用許諾を取りやすい』領域に絞り、サイト運営者との合意形成込みの連携代行に転換、(2)個社の社内システム(自社が正当な利用権を持つERP/基幹)に限定したAPI化に特化、といったコンプライアンス前提の垂直特化。いずれも法務審査を通せる設計が国内では必須で、本家の『何でも非公式に叩く』訴求のまま国内展開するのは推奨しない。",
+    "rationale": "業務自動化・システム連携の市場自体は国内で明確に拡大しており(iPaaS 2026年139億ドル、RPA 1,000億円超)、垂直AIエージェントへの関心も高い。直接競合『バックエンド解析型の非公式API生成』は国内に見当たらずニッチでは空白。しかし最大の問題は規制で、認証突破(2FA・Cookie)を伴う非公式アクセスは不正アクセス禁止法・規約違反・業務妨害・個情法・著作権法に広く触れ、日本企業の保守的なコンプライアンス文化では法務で止まりやすい。アカウント情報を第三者に預ける点もセキュリティ文化と不整合。需要は連携全般としては存在するが、本プロダクトの非公式アクセスという核心部分が日本市場では受け入れられにくく、ローカライズの容易さを差し引いても市場機会の評価はskip圏。合法領域に振り切れば芽はあるが、その時点で本プロダクトの差別化は失われる。"
+  },
+  "business_viability": {
+    "business_viability_score": 4,
+    "axes": {
+      "monetization": {
+        "score": 5,
+        "reason": "開発者向け基盤で本家は$30〜$300/月+従量(リクエスト$0.003〜0.01)。連携が業務クリティカルなら法人は支払う余地があり課金壁は中程度。ただし非公式アクセスの法的リスクが国内法人の購買稟議で障害になり、ARPU確保の確度は読みにくい。根拠未確認の前提で中庸評価。"
+      },
+      "market_size": {
+        "score": 4,
+        "reason": "国内の連携市場は大きいが、本プロダクトの実需は『公式APIがなく非公式に叩く必要がある垂直AI企業』に絞られ、さらにコンプラ審査を通せる先となると母数は大きく縮小。TAMは見かけより狭く、控えめに評価。"
+      },
+      "gtm": {
+        "score": 4,
+        "reason": "本質的にエンタープライズ/開発者向けの相対営業・PoC型で、医療・物流・法務など規制業界がターゲット。Qiita等での技術発信でリードは取れても、契約は法務・セキュリティ審査を要しPLGで完結しづらい。個人がリーチできるチャネルは限定的。"
+      },
+      "timing": {
+        "score": 5,
+        "reason": "本家IntenguruがYC出資済みで既に月1,000万呼び出しの実績を持ち、日本進出の余地はあるが現時点で国内未展開。直接競合は薄く時間窓はあるが、市場自体が法規制で立ち上がりにくく『窓があっても入りにくい』状態。"
+      },
+      "solo_ops": {
+        "score": 2,
+        "reason": "対象サイトの仕様変更・ボット検知への追随とauto-healing、24/7オンコール保守が商品価値の核。連携が壊れれば顧客業務が止まるためSLAと常時監視が必須で、個人運用での手離れは事実上不可能。"
+      }
+    },
+    "rationale": "事業成立性は厳しい。課金余地(monetization)は法人クリティカル用途として中程度あるが、肝心の運用継続性(solo_ops)が最低水準で、対象サイトの変更追随・auto-healing・24/7保守という商品の核が個人運用と根本的に両立しない。GTMもエンタープライズの法務/セキュリティ審査を伴うPoC型で、PLGで個人開発者が捌けるモデルではない。市場規模も『非公式アクセスが必要かつコンプラを通せる垂直AI企業』に絞ると見かけより狭い。タイミングは直接競合が薄く窓はあるものの、市場が法規制で立ち上がりにくいため『窓があっても入りにくい』。総じて、個人開発者・小規模チームが本プロダクトの形のまま国内で事業化するのは推奨できず、合法領域(公式連携・自社システムAPI化)へ転換すると差別化を失う、というジレンマがある。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "usage",
+      "arpu_jpy": 50000,
+      "plans": [
+        "Free: お試し(月数百リクエスト・1連携まで)",
+        "Pro: ¥30,000/月 + 従量(リクエスト数に応じ課金)",
+        "Business: ¥300,000/月〜 SLA・専用保守付き(エンタープライズ相対)",
+        "従量目安: 1リクエスト ¥0.5〜1.5 程度(本家$0.003〜0.01相当、根拠未確認の参考値)"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "公式APIのない外部システム連携を必要とし、かつ法務審査を通せる国内の垂直AI/AIエージェント企業・SaaSスタートアップ(医療・物流・不動産・法務等)。現実には自社が正当な利用権を持つシステムのAPI化に限定される先が中心。",
+      "target_count": 500,
+      "capture_pct_year3": 2,
+      "monthly_revenue_target_jpy": 500000
+    },
+    "recommended_gtm": [
+      "Qiita/Zenn での技術連載(直接HTTP連携・認証フロー解析の知見発信)",
+      "X での個人/創業者発信によるニッチ開発者コミュニティ獲得",
+      "垂直AIスタートアップへの相対PoC営業(医療・物流・法務)",
+      "合法領域(公式連携・自社基幹API化)に絞った導入事例コンテンツ",
+      "PLG無料枠で技術検証ユーザーを獲得し有償従量へ転換"
+    ],
+    "time_window_months": 18,
+    "solo_dev_continuable": "no",
+    "critical_risks": [
+      "不正アクセス禁止法・利用規約違反・偽計業務妨害リスク。認証突破を伴う非公式アクセスは刑事・民事双方の責任が提供者・利用者に及び得る。日本では事業の核そのものが違法判断されかねず、これが最大の致命的リスク。",
+      "24/7オンコール保守とauto-healingが商品価値の核で、対象サイトの仕様変更・ボット検知に常時追随が必要。個人運用では監視・即応が不可能でSLAを維持できず、解約・信用失墜に直結する。",
+      "顧客のアカウント認証情報を預かる設計で、漏えい時の個情法・損害賠償責任が重い。国内法人のセキュリティ審査で預託自体が拒否されやすい。",
+      "ターゲットが規制業界(医療・物流・法務)のエンタープライズで、法務/セキュリティ審査を伴うPoC型営業。PLGで完結せず個人開発者がリーチ・受注・運用を回しきれない。",
+      "合法領域へ転換すると公式API依存となりAnyflow/Zapier等の既存iPaaSと競合、本プロダクトの差別化を失う。"
+    ],
+    "go_no_go": "no_go"
+  },
+  "overall_score": 4,
+  "japan_fit_at": "2026-06-06T11:30:00Z",
+  "review_guide_at": "2026-06-06T11:30:00Z",
+  "business_viability_at": "2026-06-06T11:30:00Z",
+  "advisor_view_at": "2026-06-06T11:30:00Z"
+}

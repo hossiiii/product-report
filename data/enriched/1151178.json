@@ -1,0 +1,245 @@
+{
+  "name": "Ava Studio",
+  "description": "Your AI creative team for video ads",
+  "ph_url": "https://www.producthunt.com/products/ava-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "website": "https://www.producthunt.com/r/ZPLOYKYABNIPYB?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+product-report+%28ID%3A+284436%29",
+  "launched_at": "2026-05-29T07:01:00Z",
+  "upvotes": 288,
+  "comments": 57,
+  "topics": [
+    "Marketing",
+    "Artificial Intelligence",
+    "Video"
+  ],
+  "makers": [
+    {
+      "id": "1283247",
+      "name": "Tong Pow",
+      "twitterUsername": "tongpowpow",
+      "headline": "Founder & CEO at Ava Studio"
+    },
+    {
+      "id": "9797919",
+      "name": "Zoe Huang",
+      "twitterUsername": null,
+      "headline": "Design & Growth"
+    }
+  ],
+  "top_comments": [
+    {
+      "body": "<p>Hey Product Hunt, I'm Tong, founder of Ava Studio 👋</p><p></p><p>If you’ve ever launched a product, you probably know the feeling: the product is live, the site looks good, users are waiting somewhere… and now you need ads.</p><p></p><p>That’s where a lot of founders get stuck.</p><p></p><p>You can stare at ChatGPT trying to write hooks. You can brief an agency that costs more than your MRR. You can spend three hours in Runway or CapCut and end up with one clip you’re not sure is even usable.</p><p></p><p>The problem isn’t that founders don’t know their product. It’s that making good ads requires an entire creative workflow: research, briefs, scripts, hooks, actors, product shots, editing, resizing, testing, and iteration.</p><p></p><p>We built Ava Studio to make that workflow feel like having a creative team on demand.</p><p></p><p>Drop in your product link and Ava studies your product, your market, and the ads already working in your category. Then she generates creative briefs, scripts, and 50+ editable ad variants ready for TikTok, Instagram, Meta, and YouTube.</p><p></p><p>What used to take weeks of creative briefs, scripts, edits, and agency back-and-forth now starts from one product link.</p><p><br>Watch me walk through it personally here:</p><p><a href=\"https://www.youtube.com/watch?v=2RS2-3qaEhg\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.youtube.com/watch?v=2RS2-3qaEhg</a></p><p></p><p>A few things people are surprised by when they first try it:</p><p>🔹 Ava starts where good agencies start: <strong>research</strong>. She studies your product, your category, your competitors, and the ads already winning before writing a single script.</p><p>🔹 It does not just make one video. One product link becomes a complete campaign: creative briefs, hooks, scripts, storyboards, actors, product shots, and 50+ editable variants.</p><p>🔹 Every output is <strong>remixable</strong>. Change the hook, swap the actor, rewrite the script, replace the product shot, or turn one good idea into ten new angles.</p><p>🔹 The template library is built around <strong>ads that already work</strong>. Browse winning formats by category, clone the structure, and customize it for your product in minutes.</p><p>🔹 Ava keeps the whole creative process in <strong>one workspace</strong>: research, strategy, scripting, generation, editing, and export for TikTok, Instagram, Meta, and YouTube.<br><br>Ava is built for founders and small teams who need ads that look good, move fast, and don’t require hiring an agency.</p><p></p><p>Every new account gets 500 free credits, enough to run a full workflow from research to finished variants.</p><p>Try it here: <a href=\"http://avastudio.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">avastudio.com</a></p><p><br>Please break it, tell us what’s missing, and send us the weirdest product you can throw at it. We’re building this with founders who actually need to ship.</p><p></p><p>Much love,</p><p>Tong</p>",
+      "votesCount": 31,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>Congratulations. I actually made my first AI video using your product this morning. Best of luck to you all. </p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    },
+    {
+      "body": "<p>so all this means we don't need to hire a whole marketing team once I've use this app, right? </p>",
+      "votesCount": 1,
+      "user": "[REDACTED]"
+    }
+  ],
+  "long_description": "Ava Studio researches your product, develops hooks and creative angles, then generates 50+ editable short-form ad variants ready for TikTok, Reels, Meta, and any platform you want to ship on.",
+  "featured_at": "2026-05-29T07:01:00Z",
+  "thumbnail_url": "https://ph-files.imgix.net/d39b9a3d-1430-4ccd-89c6-87677a11ed27.png",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5a099340-3578-4c99-850a-b9c107a32c60.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ff7b3e5f-df17-4567-82e3-8fe86bdebe1c.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e9b5abff-173a-47d7-946f-1feacf81726d.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fe22cdf6-119c-4312-ae46-b936f4b150f9.png"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2bb6d8f8-0329-414f-a733-b8e2f90e397b.png"
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/edebf983-8cf8-4b30-b3aa-a1f472239cfc.jpeg"
+    }
+  ],
+  "ph_enriched_at": "2026-06-06T11:17:36",
+  "landing_meta": "Ava Studio - AI Video Production Platform — Create viral videos with AI. The first AI-native creative studio where anyone can go from a prompt to a polished, viral-ready video. Generate frames, direct motion, and keep characters consistent across shots with agentic memory.",
+  "landing_text": "Ava Studio - AI Video Production Platform",
+  "pricing_signals": [
+    "pricing",
+    "$1",
+    "$3",
+    "$5",
+    "$13"
+  ],
+  "landing_fetched_at": "2026-06-06T11:17:37",
+  "description_ja": "プロダクトのURLを渡すだけでAIが調査し、TikTok/Reels向け動画広告を50本以上自動生成する創作スタジオ",
+  "summary_ja": "プロダクトのリンクを入力するとAIが市場・競合・刺さる広告を調査し、クリエイティブブリーフ・台本・フック・俳優・商品ショットを生成。TikTok/Instagram/Meta/YouTube向けに編集可能な短尺広告を50本以上一括で作る、ファウンダー・小規模チーム向けのAI広告制作ワークスペース。",
+  "tldr_ja": "縦型ショート広告需要は国内で急拡大中だが、RICHKA等の競合と俳優生成の肖像権・ステマ規制が壁。隙間は狙えるが本家速い",
+  "review_guide_ja": {
+    "what": "プロダクトのURLを1つ入力すると、AI（Ava）が製品・市場カテゴリ・競合・既に成果を出している広告を調査し、クリエイティブブリーフ→フック→台本→ストーリーボード→AI俳優→商品ショット→編集→各SNS比率へのリサイズまで一気通貫で生成する。1リンクから50本以上の編集可能な広告バリアントを作り、フック差し替え・俳優交換・台本書き換え・商品ショット差し替えで無限にリミックスできる。カテゴリ別の勝ちパターンテンプレート集も内蔵。出力先はTikTok・Instagram・Meta・YouTubeの縦型/正方形フォーマット。典型用途はプロダクトローンチ直後のファウンダーが代理店を雇わず広告クリエイティブを量産・A/Bテストすること。新規アカウントに500クレジット無料付与。",
+    "for_who": "代理店を雇う予算のないスタートアップのファウンダー・1人マーケター・小規模チーム。特にローンチ直後にTikTok/Meta広告を回したいD2C/EC/SaaS事業者。社内に動画クリエイターがいない、あるいは大量のクリエイティブをA/Bテストしたいパフォーマンスマーケター。",
+    "reproducibility": {
+      "level": "hard",
+      "reason": "URL解析・競合広告調査・台本生成・一貫性のあるAI俳優/商品ショット動画生成・自動編集・大量バリアント化のパイプライン統合は重く、動画生成API原価も高い。個人でMVPは可能だが品質と原価の両立が難しい。"
+    },
+    "signals": [
+      "プロダクトリンク1つから調査込みでフルキャンペーンを作る統合ワークフローが差別化",
+      "TikTok/Reels/Meta/YouTubeの縦型短尺に最適化、A/Bテスト前提の大量バリアント生成",
+      "500クレジット無料付与のfreemiumでファウンダー層に低摩擦リーチ",
+      "PH288 upvotes・57コメントと初動の反応は良好",
+      "$1〜$13という低額の課金シグナルでクレジット従量課金型と推測"
+    ],
+    "concerns": [
+      "AI俳優・商品ショットの肖像権/パブリシティ権・著作権リスク（Sora類似キャラ問題が国内で炎上中）",
+      "ステマ規制・景品表示法（優良誤認）に触れる広告生成の可能性",
+      "RICHKA/SoVeC/Video BRAIN等の国内動画自動生成プレイヤーやCapCut/Vrewが既存",
+      "動画生成API原価が高く個人運用での粗利確保が難しい",
+      "本家（OpenAI/Google/CapCut）や資金力ある競合の進出が速い領域"
+    ]
+  },
+  "japan_fit": {
+    "japan_fit_score": 6,
+    "verdict": "watch",
+    "axes": {
+      "demand": {
+        "score": 8,
+        "reason": "TikTok Shopが2025年6月に日本上陸し国内TikTok広告出稿企業は48万社超、縦型ショート動画広告がSNS広告の中心に。ReelsはフィードCTRの約2.5倍。中小・EC事業者の広告クリエイティブ量産ニーズは顕在化しており需要は強い。"
+      },
+      "competition": {
+        "score": 4,
+        "reason": "RICHKA（導入数首位）、SoVeC Smart Video、Video BRAIN等の国内動画自動生成SaaSに加え、CapCut/Vrewが無料で普及。広告自動生成ではOmneky（日本人創業）も。市場は飽和気味だが『リンク1つで広告特化・調査込み』の角度はまだ空きあり。"
+      },
+      "regulation": {
+        "score": 6,
+        "reason": "AI俳優・商品ショットの肖像権/パブリシティ権、生成物の著作権（Sora類似キャラ問題で国内批判）、広告の優良誤認・ステマ規制（景品表示法）が論点。違法ではないが運用次第でリスク。テンプレ運用とユーザー責任で緩和可能。"
+      },
+      "localization": {
+        "score": 6,
+        "reason": "UIは構造化で多言語化容易だが、日本語の広告コピー・フック・ナレーションの自然さ、日本人俳優・日本市場の勝ち広告データ、縦書き/和文フォント対応など、クリエイティブ品質に直結する日本固有のローカライズ調整が必要。"
+      },
+      "business_custom": {
+        "score": 6,
+        "reason": "ファウンダー/EC個人事業者のセルフサーブ広告制作はPLGと相性良。一方、日本の中堅企業は動画制作を代理店・制作会社に外注する商習慣が根強く、AI全自動への信頼形成や校正・修正フローの社内合意に時間を要する。"
+      }
+    },
+    "existing_competitors_jp": [
+      {
+        "name": "RICHKA（リチカ）",
+        "url": "https://richka.co/",
+        "note": "国内動画自動生成ツール導入数首位。月額15〜20万円で作り放題、初期コンサル別途。法人マーケ向けで価格帯はAva想定層より高いが直接競合。"
+      },
+      {
+        "name": "SoVeC Smart Video",
+        "url": "https://smartvideo.sovec.net/",
+        "note": "ソニーグループ系。約10分でプロ品質動画、1600以上のデザインフォーマット。法人向け動画自動生成の有力プレイヤー。"
+      },
+      {
+        "name": "Video BRAIN（ビデオブレイン）",
+        "url": "https://video-b.com/",
+        "note": "対話型AIがシーン構成・テロップ文言を提案。国内法人向け動画制作SaaS。広告に限らず社内広報・マニュアルも対象。"
+      },
+      {
+        "name": "Omneky",
+        "url": "https://www.omneky.com/",
+        "note": "日本人（千住光氏）創業のAI広告自動生成ツール。宣伝文句・デザインを機械学習で大量生成。Avaに最も近い広告特化コンセプトの競合。"
+      },
+      {
+        "name": "CapCut / Vrew",
+        "url": "https://www.capcut.com/",
+        "note": "CapCut（ByteDance）は縦型・字幕自動生成が無料で普及、TikTok相性最良。Vrew（韓国）は日本語認識精度が高くテキストから動画生成。無料の代替圧力が強い。"
+      }
+    ],
+    "regulatory_findings": [
+      {
+        "law": "景品表示法（優良誤認・ステマ規制）",
+        "impact": "AIが生成した広告コピー・演出が事実と異なる効果を謳うと優良誤認に該当しうる。2023年施行のステマ規制で広告であることの明示も必要。生成物の事実確認・広告表記をユーザー側に促す設計が必須。"
+      },
+      {
+        "law": "肖像権・パブリシティ権",
+        "impact": "AI俳優が実在著名人に酷似する画像/動画を生成し無断で広告利用するとパブリシティ権侵害の損害賠償リスク。AI生成俳優の権利クリア（ライセンス済み素材・実在人物非類似）を担保する仕組みが必要。"
+      },
+      {
+        "law": "著作権法",
+        "impact": "学習データや生成物が既存キャラ・楽曲・商品意匠に類似すると侵害リスク。2025年は読売・朝日・日経が生成AIを提訴、Sora2の類似キャラ生成も国内で批判。商用利用可BGM・非類似生成の担保が論点。"
+      }
+    ],
+    "opportunity": "国内の角度は『日本のSNS広告で勝つクリエイティブ』への特化。日本のTikTok/Reels/Metaで実際に成果を出した広告パターンを学習・テンプレ化し、日本語フック・自然なナレーション・日本人俳優・和文フォント縦書き対応で品質を担保する。TikTok Shop連動のD2C/EC個人事業者を主ターゲットに、商品リンク→広告50本→そのままTikTok広告マネージャ入稿までを最短化。権利クリア済み素材・広告表記自動挿入で景表法/肖像権リスクを潰し、国内事業者が安心して使える『日本仕様』を打ち出す。RICHKA等の高額法人ツールと無料CapCutの間の、月数千円帯セルフサーブ層が空いている。",
+    "rationale": "需要面は極めて良好。TikTok Shopの日本上陸（2025/6）、TikTok広告出稿48万社超、縦型ショート広告がSNS広告の中心という追い風で、ファウンダー/EC事業者の広告クリエイティブ量産ニーズは顕在化している。一方で競合は厚い。RICHKA・SoVeC・Video BRAINの法人向け動画自動生成、無料で強力なCapCut/Vrew、広告特化のOmneky（日本人創業）が既に存在し、本家OpenAI/Google/CapCutの進出も速い。規制は致命的ではないが、AI俳優の肖像権、生成物著作権、景表法・ステマ規制が運用上の地雷で、特に2025年以降は提訴・炎上事例が増え事業者が敏感。ローカライズは構造的には容易だが、広告品質を決める日本語コピー・日本人俳優・国内勝ち広告データの整備が成否を分ける。総じて『需要は強いが競合と規制で差別化が必須』のwatch案件。"
+  },
+  "business_viability": {
+    "business_viability_score": 6,
+    "axes": {
+      "monetization": {
+        "score": 6,
+        "reason": "EC/D2C事業者は広告制作・代理店費を払う習慣があり、月数千円のセルフサーブ広告ツールはROIを示せれば課金壁は低い。ただし無料のCapCut/Vrewが比較対象で価格感度が高く、動画生成API原価が粗利を圧迫。クレジット従量課金で原価転嫁が要る。"
+      },
+      "market_size": {
+        "score": 7,
+        "reason": "国内TikTok広告出稿48万社超、Meta/Instagram広告主、EC事業者・D2Cブランド・副業セラーまで含めると潜在は広い。ただし『動画広告を自作したい』『AI全自動を許容する』層に絞ると顕在TAMは中規模。十分だが広大ではない。"
+      },
+      "gtm": {
+        "score": 6,
+        "reason": "freemium（500クレジット無料）+ X/note/Qiitaでのファウンダー発信、PHローンチでPLG的に獲得可能。boardやfreeeのようにコンテンツ主導で広がる余地あり。ただし広告ツールはROI実証が必要で、無料層から有料転換の説得に作例・実績の蓄積を要する。"
+      },
+      "timing": {
+        "score": 4,
+        "reason": "需要は今が旬だが競合密度が高く、OpenAI/Google/CapCut/Adobe等の本家が動画広告生成を取り込みつつある（Sora/Veoの商用利用拡大）。資金力のある海外勢の進出余地が小さく、個人開発の時間窓は狭い。先行者でも参入は遅め。"
+      },
+      "solo_ops": {
+        "score": 5,
+        "reason": "セルフサーブで手離れは良いが、動画生成APIの障害対応・原価監視・生成品質のクレーム対応・権利侵害クレーム対応が発生。クレジット課金の不正利用監視も要る。24/7監視までは不要だが完全放置も難しい中程度の運用負荷。"
+      }
+    },
+    "rationale": "事業性は『6』の中庸。市場は国内SNS広告の急拡大で十分な規模があり、EC/D2C事業者は制作費を払う習慣があるためマネタイズの素地はある。GTMもfreemium+ファウンダー発信+PHでPLG的に立ち上げられ、個人開発でも入口は作れる。最大の弱点はタイミングと粗利。動画広告生成は競合が密集し、OpenAI/Google/CapCut/Adobeといった本家が機能を取り込む速度が速く、個人開発の時間窓は狭い。加えて動画生成API原価が高く、無料CapCut/Vrewが価格の天井を押し下げるため、クレジット従量で原価を転嫁しつつ十分なARPUを確保する設計が不可欠。運用は中程度（原価監視・権利クレーム対応）。総じて『日本のSNS広告に特化し権利クリアと品質で差別化できれば隙間は取れるが、本家の速さと粗利が常時リスク』という、慎重に角度を絞れば成立しうる案件。"
+  },
+  "advisor_view": {
+    "recommended_pricing": {
+      "model": "freemium",
+      "arpu_jpy": 4000,
+      "plans": [
+        "Free: 月100クレジット（数本のドラフト広告生成、機能体験用）",
+        "Starter: ¥2,980/月（月500クレジット、個人事業者・副業セラー向け）",
+        "Pro: ¥9,800/月（月2,000クレジット、権利クリア素材・優先生成、D2C/小規模チーム向け）",
+        "従量追加: クレジット追加購入で原価転嫁（生成本数に応じ課金）"
+      ]
+    },
+    "reachable_market_jp": {
+      "target_segment": "国内のTikTok/Meta広告を自作したいEC・D2C個人事業者・副業セラー（Shopify/BASE/Amazon/楽天/TikTok Shop）、および社内に動画クリエイターがいない小規模SaaS/サービス事業者の1人マーケター。代理店を雇う予算がなくクリエイティブを量産・A/Bテストしたい層。",
+      "target_count": 50000,
+      "capture_pct_year3": 1.0,
+      "monthly_revenue_target_jpy": 2000000
+    },
+    "recommended_gtm": [
+      "Product Hunt / X でのファウンダー発信と作例公開（生成広告のbefore/after実例）",
+      "freemium 無料クレジットで低摩擦オンボーディング、PLG的に有料転換",
+      "note/Qiita/YouTubeで『日本のTikTok/Reelsで勝つ広告の作り方』コンテンツ連載",
+      "TikTok Shop/BASE/Shopify連携・アプリ掲載でEC事業者に直接リーチ",
+      "EC・D2Cコミュニティやインフルエンサーマーケ勉強会での事例共有"
+    ],
+    "time_window_months": 9,
+    "solo_dev_continuable": "hard",
+    "critical_risks": [
+      "本家リスク: OpenAI/Google/CapCut/Adobeが動画広告生成を標準機能化しつつあり、機能差別化の寿命が短い。日本特化と権利クリアで防衛しないと飲み込まれる。",
+      "原価/粗利リスク: 動画生成API原価が高く、無料CapCut/Vrewが価格天井を押し下げる。クレジット従量で転嫁しないと有料層ほど赤字になる構造リスク。",
+      "権利リスク: AI俳優の肖像権/パブリシティ権、生成物の著作権侵害（Sora類似キャラ問題）。無断利用で損害賠償・炎上の恐れ。権利クリア素材と非類似生成の担保が必須。",
+      "規制リスク: 景品表示法の優良誤認・ステマ規制。AI生成広告が誇大表現や広告非明示になると事業者が処分対象。広告表記自動挿入と事実確認フローが要る。",
+      "品質/信頼リスク: 日本語コピー・日本人俳優・国内勝ち広告データが弱いと『使えない広告』判定で有料転換が進まない。日本仕様の品質作り込みに継続投資が必要。"
+    ],
+    "go_no_go": "consider"
+  },
+  "overall_score": 6,
+  "japan_fit_at": "2026-06-06T11:30:00Z",
+  "review_guide_at": "2026-06-06T11:30:00Z",
+  "business_viability_at": "2026-06-06T11:30:00Z",
+  "advisor_view_at": "2026-06-06T11:30:00Z"
+}
